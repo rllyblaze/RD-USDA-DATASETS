@@ -1,0 +1,134 @@
+json
+{"organization": "USDA Rural Development", "department": "U.S. DEPARTMENT OF AGRICULTURE", "product": "ICE CREAM", "slogan": "Together, America Prospers"}
+
+
+<!-- Page Break - Batch 2 -->
+
+
+{"sign_text": "OPEN"}
+
+
+<!-- Page Break - Batch 3 -->
+
+
+json
+{"document_title": "Rural America: A place everyone can call home", "page_description": "Information about USDA Rural Development's mission and programs.", "rural_america_hometown": "For many of us, the notion of “hometown” brings with it a sense of belonging.", "rural_america_place": "It's a place where people know and greet each other, celebrate in times of joy, and help in times of need.", "rural_america_connection": "It's this connection to community that makes rural America such a great place to live.", "usda_mission": "Ensuring parity in opportunity for those who live and work in America's rural communities is the very heartbeat of USDA Rural Development's mission.", "rural_livability": "The idea of \"rural livability\" embraces concepts already familiar to our urban and suburban neighbors.", "essential_services": "Decent health care, walkable services and amenities, alternative transportation, and affordable housing these things are important to all Americans.", "infrastructure": "For others, it's infrastructure: improved roads and bridges, a well-thought-out community health center, or modernized electric grids and water systems.", "rural_america_call_home": "All help make rural America a place everyone can call home.", "public_servants": "Our team of skilled public servants many of whom live in the communities we serve focuses exclusively on America's rural people and places.", "loans_and_grants": "We offer loans and grants to eligible individuals, businesses, and communities, encouraging homeownership, growth in business and manufacturing, and community well-being.", "loan_guarantees": "We also partner with private lenders to offer loan guarantees, providing the backing of the federal government to support rural prosperity and growth.", "usda_agencies_intro": "USDA Rural Development is comprised of three agencies:", "rural_business_cooperative_service": "The Rural Business-Cooperative Service encompasses business and manufacturing, supports rural economic development and cooperative services and promotes renewable, sustainable energy.", "rural_housing_service": "Along with Single and Multifamily Housing, the Rural Housing Service includes Community Programs to build or improve essential facilities such as hospitals, first responder buildings, libraries, and town halls.", "rural_utilities_service": "The Rural Utilities Service champions access to high-speed internet service and other telecommunications, supports electric transmission, distribution, and maintenance, and promotes the member-owned cooperative model.", "opportunities_statement": "Here, you'll find opportunities to position your family, your business, and your community for success.", "partnership_statement": "We look forward to partnering with you, because we know when rural PEOPLE thrive, America thrives.", "page_number": "1"}
+
+
+<!-- Page Break - Batch 4 -->
+
+
+json
+{"page_number": "2",
+"title": "Grow businesses and train rural Americans for jobs",
+"rural_communities_strong": "Rural communities are strong, and they deserve partners who understand their unique rural strengths.",
+"rbcs_partnership": "Through our Rural Business-Cooperative Service (RBCS), we partner with public and private organizations to invest in sustainable rural growth and prosperity.",
+"business_cooperative_programs": "Our business and cooperative programs provide loan guarantees and cooperative grants to capitalize nonprofit and public rural economic development, helping small businesses and rural manufacturers with training, education, and entrepreneurial skills development.",
+"working_alongside_partners": "Working alongside our public and private partners, we connect rural residents to valuable resources that:",
+"bring_capital_to_america": "Bring capital to rural America",
+"support_business_development": "Support rural business development and growth",
+"create_keep_jobs": "Create and keep jobs in the rural recreation economy, and restore, conserve, and manage rural America's natural resources",
+"bring_high_speed_internet": "Bring high-speed internet to more rural homes, businesses, schools, and health care facilities",
+"boost_sustainable_energy": "Boost sustainable and renewable rural energy production",
+"usda_rural_development": "The commitment and resources USDA Rural Development brings to rural people and communities helps drive economic security and prosperity.",
+"footer": "USDA Rural Development Overview"}
+
+
+<!-- Page Break - Batch 5 -->
+
+
+json
+{"business_programs_description": "Through our business programs, we provide much-needed investments to rural areas, often in partnership with private-sector lenders and community-based organizations.",
+"rural_business_manufacturing_assistance": "Help is available to eligible individuals, businesses, farmers and ranchers, cooperatives, state and local government agencies, nonprofit organizations, private companies, and federally recognized Tribes. We offer direct loans, grants, and loan guarantees to help improve rural quality of life and promote economic growth and prosperity.",
+"energy_assistance": "Energy loans, grants, and loan guarantees help rural small businesses and ag producers finance renewable energy systems and energy efficiency improvements. Among other things, funds can be used to install energy efficient lighting, upgrade refrigeration or heating and cooling systems, and otherwise reduce consumption and energy costs. Funds also support alternative and renewable energy solutions. Our energy programs also support biorefineries to produce ethanol, biodiesel and renewable biodiesel, biogas, renewable chemicals, and other biobased products. For instance, our Higher Blends Infrastructure Incentive Program is helping expand the availability of domestically produced ethanol and biodiesel.",
+"cooperatives_assistance": "Our cooperative services programs promote the development and management of the cooperative business model. Modern cooperatives boost agricultural processing and marketing, and support member-owned utilities that deliver foundational infrastructure such as electricity, telecommunications, and high-speed internet service. The cooperative model thrives in rural places across the country, supporting banks, housing, farming, food distribution, hardware and building supplies, and child and adult care, among other things.",
+"communities_assistance": "USDA's community development initiatives include programs and technical assistance that help rural areas realize their strategic, long-term economic development goals. An example is our Rural Workforce Innovation Network (RWIN information is available at this link: www.rd.usda.gov/rwin), which we established to help increase access to workforce opportunities in rural America. The network encompasses government agencies, colleges and universities, nonprofit organizations, and private businesses actively working to improve rural workforce development.",
+"page_number": "3"}
+
+
+<!-- Page Break - Batch 6 -->
+
+
+json
+{
+  "page_number": 4,
+  "service_name": "Rural Housing Service",
+  "rhs_description": "USDA's Rural Housing Service (RHS) helps build, renovate, and modernize housing and essential community facilities in eligible rural areas. We offer loans, grants, and loan guarantees for rurally located single family and multifamily housing, along with housing for farm laborers. We also fund construction of or improvements to - essential community facilities such as child care centers, schools, libraries, town halls, first responder stations, hospitals, and nursing homes, among others. Working alongside our nonprofit, Tribal, and government agency partners, we help ensure the availability of rural housing and community programs through technical assistance and training.",
+  "single_family_housing_title": "Single Family Housing",
+  "single_family_housing_description": "Stable and affordable housing helps small towns across the country stay healthy and prosperous. RHS programs offer easy-access, low-interest financing to eligible rural families to buy, repair, or rent a home. By avoiding large down payments, our low-interest loans help more rural people become homeowners and begin accruing generational wealth.",
+  "strong_communities_title": "Strong communities help rural Americans become homeowners:",
+  "homeownership_description": "Homeownership is the foundation of a strong community. It offers families the opportunity to generate wealth and represents a commitment to a community's future growth.",
+  "single_family_direct_loans": "Single Family Housing Direct Home Loans",
+  "single_family_guaranteed_loans": "Single Family Housing Guaranteed Loans",
+  "multifamily_direct_loans": "Multifamily Housing Direct Loans and Loan Guarantees",
+  "community_facilities_grants": "Community Facilities Technical Assistance and Training Grants",
+  "rural_community_grants": "Rural Community Development Initiative Grants",
+  "housing_preservation_loans": "Housing Preservation and Revitalization Demonstration Loans and Grants",
+  "document_overview": "USDA Rural Development Overview"
+}
+
+
+<!-- Page Break - Batch 7 -->
+
+
+json
+{"page_number": "5",
+"paragraph_1": "In some areas, we partner with nonprofit organizations to help families build their own and each other's homes, reducing the cost of a mortgage. Eligible applicants can buy an existing home, build a new home, prepare lots for home construction, or in certain circumstances refinance existing home loans. For families and individuals with limited incomes, we also offer loans and age-restricted grants to repair, improve, modernize, or make a home accessible.",
+"heading_1": "Multifamily Housing",
+"paragraph_2": "Our Multifamily Housing Programs offer direct loans, loan guarantees, and grants to provide affordable rental housing for lower-income rural residents, the elderly, and people with disabilities. Funds can be used to buy and improve land, and to build, preserve, or revitalize multifamily buildings. The Multifamily Housing Rental Assistance Program provides payments directly to the owners of USDA-financed rural rental or farm labor housing on behalf of eligible tenants who cannot afford to pay their full rent.",
+"heading_2": "Community Programs",
+"paragraph_3": "USDA Rural Development's Community Programs provide loans, grants, and loan guarantees to build or improve essential community facilities in eligible rural areas. Priority is given to education, health care, and public safety projects, including day care centers, schools, health clinics, fire houses, community centers, and first responder vehicles and equipment."}
+
+
+<!-- Page Break - Batch 8 -->
+
+
+json
+{"page_number": "6", "document_title": "USDA Rural Development Overview", "section_title": "Rural Utilities Service", "rus_investment_description": "USDA's Rural Utilities Service (RUS) invests in rural communities to build and improve their infrastructure. From high-speed internet service, to water and waste treatment, to electric transmission and distribution, these services expand economic opportunity and improve quality of life for rural residents.", "congress_allocation": "Congress has allocated up to $1 billion in funds for our flagship ReConnect Loan and Grant Program", "reconnect_loan_grant_program_link": "go.usa.gov/xzW4Y", "population_eligibility": "Areas with populations up to 50,000 can check their eligibility to apply for our traditional broadband programs.", "broadband_programs_link": "go.usa.gov/xzpRw"}
+
+
+<!-- Page Break - Batch 9 -->
+
+
+json
+{"title": "High-speed internet service is a necessity for rural America.",
+"paragraph1": "Affordable high-speed internet access is a modern-day necessity, vital to rural American prosperity.",
+"paragraph2": "It helps people access decent, affordable healthcare, supports education, allows our first responders to act quickly, encourages small business growth, and gives rural manufacturers and farmers broader market access. All of these things help level the playing field for rural communities",
+"paragraph3": "Modern infrastructure provides the framework for the tools that make rural life unique. Getting the people of rural America connected to each other and the rest of the world with reliable, high-speed internet service helps build strong communities, and empowers these communities to introduce innovation to the rest of the country. By expanding broadband infrastructure and service, we fuel long-term economic development across rural America. You can learn more about our high-speed internet programs at this link: go.usa.gov/xzWYG.",
+"section1_title": "Water and Waste Treatment and Disposal",
+"section1_paragraph1": "Our Water and Environmental Programs (WEP) provide loans and grants to secure and maintain safe drinking water, wastewater, stormwater, and solid waste treatment in rural areas with populations of 10,000 or fewer. WEP loan guarantees can support eligible areas with populations up to 50,000. State and local government agencies, nonprofit organizations, and federally recognized Tribes can apply for WEP assistance. We also provide technical assistance and training grants to eligible organizations that help rural communities with water, wastewater, and solid waste management activities.",
+"section2_title": "Electric",
+"section2_paragraph1": "Our electric programs provide capital to build, expand, modernize, and maintain America's vast rural electric infrastructure. Loans and loan guarantees can finance the construction or improvement of electric generation, transmission, and distribution facilities, including the implementation of smart grid technology.",
+"section3_paragraph1": "We also provide funding for demand-side management, energy efficiency and conservation, and on- and off-grid renewable energy systems.",
+"section3_paragraph2": "Eligible applicants include energy cooperatives, state and local government agencies, federally recognized Tribes, corporations, utility districts, and nonprofit organizations, among others.",
+"section4_title": "Telecommunications",
+"section4_paragraph1": "We offer loans and grants to build, improve, and expand high-speed internet access, and to deploy or enhance distance learning and telemedicine services. Eligible applicants include for- and nonprofit businesses and organizations, federally recognized Tribes, state and local government agencies, and cooperatives, among others. Our telecommunications programs help improve rural quality of life by expanding market access for farmers, ranchers, and rural businesses, enhancing educational opportunities for rural students, and improving access to quality health care.",
+"page_number": "7"}
+
+
+<!-- Page Break - Batch 10 -->
+
+
+json
+{"page_number": "8", "text_1": "OLD", "text_2": "MONTANA", "text_3": "COLD", "text_4": "MONTANA", "text_5": "GOLD", "text_6": "YERBA MATE", "text_7": "Montana Teas", "price": "65", "text_8": "| USDA Rural Development Overview", "text_9": "UFFALO", "text_10": "Sen 1992", "text_11": "Wamer", "text_12": "Original Kalive Amerie", "text_13": "Brand", "text_14": "ALKIN", "text_15": "320"}
+
+
+<!-- Page Break - Batch 11 -->
+
+
+{"error": "No extractable content found in document"}
+
+
+<!-- Page Break - Batch 12 -->
+
+
+json
+{"title": "Together, America Prospers",
+"email": "program.intake@usda.gov",
+"postal_mail_address": "U.S. Department of Agriculture\nOffice of the Assistant Secretary for Civil Rights\n1400 Independence Avenue, SW, Washington, D.C. 20250-9410",
+"fax": "(202) 690-7442",
+"voice_tty": "(202) 720-2600",
+"toll_free_number": "(866) 632-9992",
+"form_link": "tinyurl.com/USDA-AD3027",
+"document_id": "RD-22007",
+"date": "February 2025"}
