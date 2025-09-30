@@ -1,0 +1,261 @@
+json
+{"organization": "USDA Rural Development", "department": "U.S. DEPARTMENT OF AGRICULTURE", "rank": "LIEUTENANT", "badge_number": "271", "title": "Disaster Resiliency and Recovery Resources", "subtitle": "A Guide for Rural Communities", "slogan": "Together, America Prospers"}
+
+
+<!-- Page Break - Batch 2 -->
+
+
+{"scene": "medical emergency", "setting": "outdoors", "people": "paramedics, patient, pilot", "vehicle": "helicopter", "equipment": "stretcher", "patient_condition": "injured", "emergency_type": "medical transport", "medical_personnel_count": 4, "patient_gender": "female", "helicopter_color": "red and blue", "stretcher_color": "yellow", "gloves_color": "purple", "patient_clothing": "striped shirt", "pilot_helmet_color": "white", "emergency_exit_visible": true}
+
+
+<!-- Page Break - Batch 3 -->
+
+
+json
+{"Table of Contents": true, "Background": "4", "USDA Rural Development Disaster Resources": "5", "Technical Assistance Preparedness and Recovery Partners": "9", "Federal Partners in Disaster": "10", "Federal Disaster Assistance Resources": "11", "Additional USDA Resources": "12", "Stories of Disaster Resiliency and Recovery": "13", "How to Reach Us": "15"}
+
+
+<!-- Page Break - Batch 4 -->
+
+
+json
+{"page_number": "- 4 -", "section_title": "Background", "sentence_1": "USDA Rural Development (RD) developed this guide as a resource for rural communities seeking disaster resiliency and recovery assistance.", "sentence_2": "USDA RD offers programs and servicing options that can help rural residents, businesses, and communities impacted by disaster, and support long-term planning and recovery efforts that build for the future.", "sentence_3": "Strategic, comprehensive emergency preparedness and response is crucial to mitigating damage to local economies, the environment, and human health and safety.", "sentence_4": "Following is an overview of USDA Rural Development programs that can help eligible communities prepare for - and recover from - natural disasters."}
+
+
+<!-- Page Break - Batch 5 -->
+
+
+json
+{"document_title": "USDA Rural Development Disaster Resources", "program_description": "USDA RD offers more than 70 loan and loan guarantee, grant, and technical assistance programs to help improve the economy and quality of life in rural America. Many of these programs can also help community efforts related to disaster preparedness, resiliency, and recovery. USDA RD partners with local leaders, developers, local, state, and Tribal governments, cooperatives, nonprofits, private organizations, and a nationwide network of participating lenders to build resiliency through planning and preparedness, and to help rural people and communities suffering the effects of disasters. Among other things, USDA RD programs support:", "support_item_1": "Transitional housing and home repair", "support_item_2": "Foundational infrastructure such as electric, water and waste treatment, and communications", "support_item_3": "Emergency equipment financing", "support_item_4": "Essential community facilities", "support_item_5": "Telemedicine, distance learning and rural high-speed internet connectivity", "support_item_6": "Rural business planning and recovery", "page_number": "- 5 -"}
+
+
+<!-- Page Break - Batch 6 -->
+
+
+json
+{"Eligible Applicants": "Designed to help for-profit rural businesses, individuals, and eligible organizations.",
+"Examples include Corporations": "true",
+"Examples include Limited Liability Companies (LLCS)": "true",
+"Examples include Sole proprietorships": "true",
+"Examples include Electric cooperatives": "true",
+"Examples include Agricultural producers": "true",
+"Community and Economic Development Planning and Housing": "Farm Labor Housing Loans and Grants",
+"Community and Economic Development Planning and Housing tinyurl.com/MFHOffFarmDirect": "true",
+"Community and Economic Development Planning and Housing tinyurl.comMFHOnFarmHousing": "true",
+"Community and Economic Development Planning and Housing Multifamily Housing Direct Loans and Multifamily Housing Loan Guarantees": "true",
+"Community and Economic Development Planning and Housing tinyurl.com/MFHDirect": "true",
+"Community and Economic Development Planning and Housing tinyurl.com/MFHGuarantees": "true",
+"Community and Economic Development Planning and Housing Rural Economic Development Loan and Grant Program": "true",
+"Community and Economic Development Planning and Housing tinyurl.com/RBCSREDLG": "true",
+"Community and Economic Development Planning and Housing Single Family Housing Direct Home Loans": "true",
+"Community and Economic Development Planning and Housing tinyurl.com/SFHDirectLoans": "true",
+"Community and Economic Development Planning and Housing Single Family Housing Repair Loans and Grants": "true",
+"Community and Economic Development Planning and Housing tinyurl.com/SFHRepairs": "true",
+"Community and Economic Development Planning and Housing Priority Housing for Displaced Households": "true",
+"Community and Economic Development Planning and Housing tinyurl.com/PriorityHousingRD": "true",
+"Community and Economic Development Planning and Housing Water and Environmental Programs Sustainable Management Tools": "true",
+"Community and Economic Development Planning and Housing tinyurl.com/RDSusMgmt": "true",
+"Infrastructure and Equipment": "Business and Industry Loan Guarantees",
+"Infrastructure and Equipment tinyurl.com/RBCSBILG": "true",
+"Infrastructure and Equipment Community Connect Grants": "true",
+"Infrastructure and Equipment tinyurl.com/RUSCommC": "true",
+"Infrastructure and Equipment Distance Learning and Telemedicine Grants": "true",
+"Infrastructure and Equipment tinyurl.com/RUSDLT": "true",
+"Infrastructure and Equipment Rural Broadband Access Loan and Loan Guarantee": "true",
+"Infrastructure and Equipment tinyurl.com/RUSRBB": "true",
+"Infrastructure and Equipment Rural Economic Development Loan and Grant Program": "true",
+"Infrastructure and Equipment tinyurl.com/RBCSREDLG": "true",
+"Infrastructure and Equipment Rural Energy for America Program Renewable Energy Systems": "true",
+"Infrastructure and Equipment tinyurl.com/RBCSREAPEE": "true",
+"Infrastructure and Equipment Single Family Housing Repair Loans and Grants": "true",
+"Infrastructure and Equipment tinyurl.com/SFHRepairs": "true",
+"Infrastructure and Equipment Telecommunications Infrastructure Loans and Guarantees": "true",
+"Infrastructure and Equipment tinyurl.com/RUSTelcoInfra": "true",
+"Industry and Entrepreneurship Support and Local Business Development": "Business and Industry Loan Guarantees",
+"Industry and Entrepreneurship Support and Local Business Development tinyurl.com/RBCSBILG": "true",
+"Industry and Entrepreneurship Support and Local Business Development Rural Business Investment Program": "true",
+"Industry and Entrepreneurship Support and Local Business Development tinyurl.com/RBCSRBIP": "true",
+"Industry and Entrepreneurship Support and Local Business Development Rural Economic Development Loan and Grant Program": "true",
+"Industry and Entrepreneurship Support and Local Business Development tinyurl.com/RBCSREDLG": "true",
+"Industry and Entrepreneurship Support and Local Business Development Value Added Producer Grants": "true",
+"Industry and Entrepreneurship Support and Local Business Development tinyurl.com/RBCSVAPG": "true",
+"Education and Training": "Distance Learning and Telemedicine Grants",
+"Education and Training tinyurl.com/RUSDLT": "true"}
+
+
+<!-- Page Break - Batch 7 -->
+
+
+json
+{
+  "Eligible Applicants": "Designed to\nhelp government\norganizations.\nExamples include:\nState or local\ngovernments and\ntheir agencies and\nofficial organizations\nFederally recognized\nTribes and Tribal\norganizations",
+  "Preparedness and Recovery through Community and Economic Development Planning and Housing": "Community Facilities\nTechnical Assistance and\nTraining Grant\ntinyurl.com/CFTechAssist\nFarm Labor Housing Loans\nand Grants\ntinyurl.com/\nMFHOffFarmDirect\ntinyurl.com\nMFHOnFarmHousing\nHousing Preservation\nGrants\ntinyurl.com/\nSFHPreservation\nMultifamily Housing Direct\nLoans and Multifamily\nHousing Loan Guarantees\ntinyurl.com/MFHDirect\ntinyurl.com/\nMFHGuarantees\nMutual Self-Help Housing\nTechnical Assistance\nGrants\ntinyurl.com/SFHSelfHelp\nRural Business\nDevelopment Grants\ntinyurl.com/RBCSRBDG\nRural Community\nDevelopment Initiative\nGrants\ntinyurl.com/\nCFCommDevGrants\nRural Economic\nDevelopment Loan and\nGrant Program\ntinyurl.com/RBCSREDLG\nWater and Environmental\nPrograms SEARCH Grants\ntinyurl.com/WEPSEARCH",
+  "Preparedness and Recovery through Infrastructure and Equipment": "(Includes health care clinics,\nwastewater systems, medical\ntransportation, shelters,\nfood pantries, telemedicine\nscreening, distance learning,\nbroadband, solar panels)",
+  "Business and Industry Loan Guarantees": "tinyurl.com/RBCSBILG",
+  "Community Connect Grants": "tinyurl.com/RUSCommC",
+  "Community Facilities Direct Loans & Grants and Community Facilities Guaranteed Loan Program": "tinyurl.com/\nCFDirectLoansandGrants\ntinyurl.com/CFGLoans",
+  "Distance Learning and Telemedicine Grants": "tinyurl.com/RUSDLT",
+  "Emergency Community Water Assistance Grants": "tinyurl.com/WEPECWAG",
+  "Rural Broadband Access Loan and Loan Guarantee": "tinyurl.com/RUSRBB",
+  "Rural Business Development Grants": "tinyurl.com/RBCSRBDG",
+  "Rural Decentralized Water Systems Grant Program": "tinyurl.com/WEPDWSG",
+  "Telecommunications Infrastructure Loans and Guarantees": "tinyurl.com/RUSTelcoInfra",
+  "Water and Waste Disposal Loan and Grant Program": "tinyurl.com/WEPWWD",
+  "Water and Waste Disposal Predevelopment Planning Grants": "tinyurl.com/WEPWWPPG",
+  "Water and Waste Disposal Grants to Alleviate Health Risks on Tribal Lands and Colonias": "tinyurl.com/WEPColonias",
+  "Preparedness and Recovery through Industry and Entrepreneurship Support and Local Business Development": "(Includes career tech\ntraining modules, kitchen\nincubators, and farmers\nmarkets)",
+  "Business and Industry Loan Guarantees_2": "tinyurl.com/RBCSBILG",
+  "Community Facilities Technical Assistance and Training Grant_2": "tinyurl.com/CFTechAssist",
+  "Intermediary Relending Program": "tinyurl.com/RBCSIRP",
+  "Rural Business Development Grants_2": "tinyurl.com/RBCSRBDG",
+  "Rural Community Development Initiative Grants_2": "tinyurl.com/\nCFCommDevGrants",
+  "Rural Innovation Stronger Economy Grant (RISE)": "tinyurl.com/RBCSRise",
+  "Rural Microentrepreneur Assistance Program (RMAP)": "tinyurl.com/RBCSRMAP",
+  "Preparedness and Recovery through Education and Training": "(Includes distance learning\neducation, skills-based\nemergency training,\nmental health screenings,\nand remote medical\nappointments)",
+  "Community Facilities Technical Assistance and Training Grant_3": "tinyurl.com/CFTechAssist",
+  "Distance Learning and Telemedicine Grants_2": "tinyurl.com/RUSDLT",
+  "Rural Business Development Grants_3": "tinyurl.com/RBCSRBDG",
+  "Water and Environmental Programs Solid Waste Management Grants": "tinyurl.com/WEPSWMG",
+  "Rural Community Development Initiative Grants_3": "tinyurl.com/\nCFCommDevGrants",
+  "Page Number": "-7-"
+}
+
+
+<!-- Page Break - Batch 8 -->
+
+
+json
+{"Eligible Applicants": "Among others, these\nprograms are designed\nto help:\nNonprofit\norganizations\nCooperatives\nPrivate, nonprofit\nschools\nHospitals\nLibraries\nFaith-based\norganizations", "Preparedness and Recovery through Community and Economic Development Planning and Housing": "Community Facilities\nTechnical Assistance and\nTraining Grant\ntinyurl.com/CFTechAssist\nFarm Labor Housing Loans\nand Grants\ntinyurl.com/\nMFHOffFarmDirect\ntinyurl.com\nMFHOnFarmHousing\nIntermediary Relending\nProgram (IRP)\ntinyurl.com/RBCSIRP\nRural Business\nDevelopment Grants\ntinyurl.com/RBCSRBDG\nRural Community\nDevelopment Initiative\nGrants\ntinyurl.com/\nCFCommDevGrants\nRural Economic\nDevelopment Loan and\nGrant Program\ntinyurl.com/RBCSREDLG\nStrategic Economic and\nCommunity Development\ntinyurl.com/RBCSSECD\nSocially Disadvantaged\nGroups Grant\ntinyurl.com/RBCSSDGG\nWater and Environmental\nPrograms Sustainable\nManagement Tools\ntinyurl.com/RDSusMgmt\nWater and Environmental\nPrograms Technical\nAssistance and Training\nGrants\ntinyurl.com/WEPTATG\nWater and Environmental\nPrograms SEARCH Grants\ntinyurl.com/WEPSEARCH\nWater and Waste Disposal\nPredevelopment Planning\nGrants\ntinyurl.com/WEPWWPPG", "Preparedness and Recovery through Infrastructure and Equipment": "(Includes health care clinics,\nwastewater systems, medical\ntransportation, shelters,\nfood pantries, telemedicine\nscreening, distance learning,\nbroadband, solar panels)\nBusiness and Industry\nLoan Guarantees\ntinyurl.com/RBCSBILG\nCommunity Connect Grants\ntinyurl.com/RUSCommC\nCommunity Facilities\nDirect Loans & Grants\nand Community Facilities\nGuaranteed Loan Program\ntinyurl.com/\nCFDirectLoansand Grants\ntinyurl.com/CFGLoans\nDistance Learning and\nTelemedicine Grants\ntinyurl.com/RUSDLT\nHousing Preservation Grants\ntinyurl.com/\nSFHPreservation\nMultifamily Housing Direct\nLoans and Multifamily\nHousing Loan Guarantees\ntinyurl.com/MFHDirect\ntinyurl.com/MFHGuarantees\nRural Broadband Access\nLoan and Loan Guarantee\ntinyurl.com/RUSRBB\nRural Business\nDevelopment Grants\ntinyurl.com/RBCSRBDG\nTelecommunications\nInfrastructure Loans and\nGuarantees\ntinyurl.com/RUSTelcoInfra\nWater and Waste Disposal\nPredevelopment Planning\nGrants\ntinyurl.com/WEPWWPPG\nWater and Environmental\nPrograms SEARCH Grants\ntinyurl.com/WEPSEARCH\nEmergency Community\nWater Assistance Grants\ntinyurl.com/WEPECWAG\nRural Decentralized Water\nSystems Grant Program\ntinyurl.com/WEPDWSG", "Preparedness and Recovery through Industry and Entrepreneurship Support and Local Business Development": "(Includes career tech\ntraining modules, kitchen\nincubators, and farmers\nmarkets)\nBusiness and Industry\nLoan Guarantees\ntinyurl.com/RBCSBILG\nCommunity Facilities\nTechnical Assistance and\nTraining Grant\ntinyurl.com/CFTechAssist\nIntermediary Relending\nProgram\ntinyurl.com/RBCSIRP\nRural Business\nDevelopment Grants\ntinyurl.com/RBCSRBDG\nRural Community\nDevelopment Initiative\nGrants\ntinyurl.com/\nCFCommDevGrants\nRural Cooperative\nDevelopment Grant\nProgram (RCDG)\ntinyurl.com/RBCSRCDG\nRural Economic\nDevelopment Loan and\nGrant Program\ntinyurl.com/RBCSREDLG\nRural Innovation Stronger\nEconomy Grant (RISE)\ntinyurl.com/RBCSRise\nRural Microentrepreneur\nAssistance Program\n(RMAP)\ntinyurl.com/RBCSRMAP\nSocially Disadvantaged\nGroups Grant\ntinyurl.com/RBCSSDGG\nValue Added Producer\nGrants\ntinyurl.com/RBCSVAPG", "Preparedness and Recovery through Education and Training": "(Includes distance learning\neducation, skills-based\nemergency training,\nmental health screenings,\nand remote medical\nappointments)\nCommunity Facilities\nTechnical Assistance and\nTraining Grant\ntinyurl.com/CFTechAssist\nDistance Learning and\nTelemedicine Grants\ntinyurl.com/RUSDLT\nIntermediary Relending\nProgram (IRP)\ntinyurl.com/RBCSIRP\nRural Business\nDevelopment Grants\ntinyurl.com/RBCSRBDG\nRural Community\nDevelopment Initiative\nGrants\ntinyurl.com/\nCFCommDevGrants\nRural Cooperative\nDevelopment Grant\nProgram (RCDG)\ntinyurl.com/RBCSRCDG\nRural Microentrepreneur\nAssistance Program\n(RMAP)\ntinyurl.com/RBCSRMAP\nWater and Environmental\nPrograms Solid Waste\nManagement Grants\ntinyurl.com/WEPSWMG\nWater and Environmental\nPrograms Sustainable\nManagement Tools\ntinyurl.com/RDSusMgmt\nWater and Environmental\nPrograms Technical\nAssistance and Training\nGrants\ntinyurl.com/WEPTATG"}
+
+
+<!-- Page Break - Batch 9 -->
+
+
+json
+{"Eligible Applicants": "Among others, these programs are designed to help:\nUniversities\nCommunity colleges\nTechnology institutes\nVocational schools", "Preparedness and Recovery through Community and Economic Development Planning and Housing": "Rural Business Development Grants\ntinyurl.com/RBCSRBDG\nRural Community Development Initiative Grants\ntinyurl.com/\nCFCommDevGrants\nWater and Environmental Programs Sustainable Management Tools\n• tinyurl.com/RDSusMgmt", "Preparedness and Recovery through Infrastructure and Equipment": "(Includes health care clinics, wastewater systems, medical transportation, shelters, food pantries, telemedicine screening, distance learning, broadband, solar panels)", "Community Facilities Direct Loans & Grants and Community Facilities Guaranteed Loan Program": "tinyurl.com/\nCFDirectLoansand Grants", "Community Facilities Guaranteed Loan Program URL": "tinyurl.com/CFGLoans", "Distance Learning and Telemedicine Grants": "tinyurl.com/RUSDLT", "Rural Business Development Grants URL": "tinyurl.com/RBCSRBDG", "Preparedness and Recovery through Industry and Entrepreneurship Support and Local Business Development": "(Includes career tech training modules, kitchen incubators, and farmers markets)", "Rural Business Development Grants_Industry": "tinyurl.com/RBCSRBDG", "Rural Community Development Initiative Grants_Industry": "tinyurl.com/\nCFCommDevGrants", "Rural Cooperative Development Grant Program (RCDG)": "tinyurl.com/RBCSRCDG", "Rural Innovation Stronger Economy Grant (RISE)": "tinyurl.com/RBCSRise", "Preparedness and Recovery through Education and Training": "(Includes distance learning education, skills-based emergency training, mental health screenings, and remote medical appointments)", "Distance Learning and Telemedicine Grants_Education": "tinyurl.com/RUSDLT", "Rural Business Development Grants_Education": "tinyurl.com/RBCSRBDG", "Rural Cooperative Development Grant Program (RCDG)_Education": "tinyurl.com/RBCSRCDG", "Water and Environmental Programs Solid Waste Management Grants": "tinyurl.com/WEPSWMG"}
+
+
+<!-- Page Break - Batch 10 -->
+
+
+json
+{"title": "Technical Assistance Preparedness and Recovery Partners",
+"USDA_partners": "In addition to the Rural Development programs listed above, USDA also partners with and funds a variety of - technical assistance providers to support rural communities in planning and recovery efforts. Among them:",
+"Circuit_Rider_Program_description": "The Circuit Rider Program provides technical assistance to rural water systems experiencing operational, financial or managerial issues. Rural water system officials can request assistance from USDA Rural Development's Rural Utilities Service (RUS), or RUS staff can request assistance on behalf of the system. For this program, RUS contracts with the National Rural Water Association.",
+"Circuit_Rider_Program_link": "tinyurl.com/WEPCRTAG",
+"National_Rural_Water_Association_description": "The National Rural Water Association is a nonprofit organization dedicated to training, supporting, and promoting the water and wastewater professionals that serve small communities across the United States.",
+"National_Rural_Water_Association_link": "nrwa.org",
+"Rural_Community_Assistance_Partnership_description": "The Rural Community Assistance Partnership (RCAP) is a national network of nonprofit organizations that provides technical assistance, training, resources, and support to rural communities across the United States, on Tribal lands, and in U.S. territories.",
+"Rural_Community_Assistance_Partnership_link": "www.rcap.org",
+"Extension_Disaster_Education_Network_description": "The Extension Disaster Education Network (EDEN) is a collaborative, multistate effort by Cooperative Extension Services across the country to improve the delivery of services to citizens affected by disasters. EDEN is made possible by USDA's National Institute of Food and Agriculture (NIFA) and participating USDA Cooperative Extension and NOAA Sea Grant Extension programs.",
+"Extension_Disaster_Education_Network_link": "extensiondisaster.net",
+"page_number": "10"}
+
+
+<!-- Page Break - Batch 11 -->
+
+
+json
+{"Federal Partners in Disaster": true, "FEMA's National Disaster Recovery Framework available at this link tinyurl.com/FEMA-NDRF": true, "Recovery Support Functions RSF structure available at this link tinyurl.com/FEMA-Recov": true, "USDA RD partners with a variety of agencies across USDA and the federal government to aid recovery efforts. Each RSF is assigned a coordinating federal agency along with several other participating agencies. USDA RD serves an important role in these interagency recovery efforts, offering financial support or technical assistance that spans all six RSFs": true, "Community Assistance": true, "Economic": true, "Health, Education, and Human Services": true, "Housing": true, "Infrastructure Systems": true, "Natural and Cultural Resources": true, "Department or Agency": true, "Community\nAssistance": true, "Economic": true, "Health,\nEducation, and\nHuman Services": true, "Housing": true, "Infrastructure\nSystems": true, "Natural and\nCultural\nResources": true, "Homeland Security,\nFEMA": "Coordinating\nand Participating", "Homeland Security, FEMA Economic": "Participating", "Homeland Security, FEMA Health, Education, and Human Services": "Not Applicable", "Homeland Security, FEMA Housing": "Participating", "Homeland Security, FEMA Infrastructure Systems": "Participating", "Homeland Security, FEMA Natural and Cultural Resources": "Participating", "Commerce, EDA": "Participating", "Commerce, EDA Economic": "Coordinating\nand Participating", "Commerce, EDA Health, Education, and Human Services": "Not Applicable", "Commerce, EDA Housing": "Participating", "Commerce, EDA Infrastructure Systems": "Participating", "Commerce, EDA Natural and Cultural Resources": "Participating", "Health and Human\nServices": "Participating", "Health and Human Services Economic": "Participating", "Health and Human Services Health, Education, and Human Services": "Coordinating", "Health and Human Services Housing": "Participating", "Health and Human Services Infrastructure Systems": "Not Applicable", "Health and Human Services Natural and Cultural Resources": "Not Applicable", "Housing\nand Urban\nDevelopment": "Participating", "Housing and Urban Development Economic": "Participating", "Housing and Urban Development Health, Education, and Human Services": "Not Applicable", "Housing and Urban Development Housing": "Coordinating\nand Participating", "Housing and Urban Development Infrastructure Systems": "Participating", "Housing and Urban Development Natural and Cultural Resources": "Not Applicable", "Army Corps of\nEngineers": "Participating", "Army Corps of Engineers Economic": "Not Applicable", "Army Corps of Engineers Health, Education, and Human Services": "Not Applicable", "Army Corps of Engineers Housing": "Not Applicable", "Army Corps of Engineers Infrastructure Systems": "Coordinating\nand Participating", "Army Corps of Engineers Natural and Cultural Resources": "Participating", "Interior": "Participating", "Interior Economic": "Participating", "Interior Health, Education, and Human Services": "Not Applicable", "Interior Housing": "Not Applicable", "Interior Infrastructure Systems": "Participating", "Interior Natural and Cultural Resources": "Coordinating\nand Participating", "USDA": "Participating", "USDA Economic": "Participating", "USDA Health, Education, and Human Services": "Participating", "USDA Housing": "Participating", "USDA Infrastructure Systems": "Participating", "USDA Natural and Cultural Resources": "Participating"}
+
+
+<!-- Page Break - Batch 12 -->
+
+
+json
+{"document_title": "Federal Disaster Assistance Resources", "resource_description": "The federal resources listed below complement USDA programs designed to help disaster preparation, planning, resiliency, and recovery", "fema_name": "Federal Emergency Management Agency (FEMA)", "fema_url": "www.fema.gov", "dhs_name": "U.S. Department of Homeland Security", "dhs_url": "www.dhs.gov", "eda_name": "U.S. Economic Development Administration (EDA)", "eda_url": "www.eda.gov", "commerce_name": "U.S. Department of Commerce", "commerce_url": "www.commerce.gov", "hhs_name": "U.S. Department of Health and Human Services (HHS)", "hhs_url": "www.hhs.gov", "hud_name": "U.S. Department of Housing and Urban Development (HUD)", "hud_url": "www.hud.gov", "usace_name": "U.S. Army Corps of Engineers (USACE)", "usace_url": "www.usace.army.mil", "doi_name": "U.S. Department of the Interior (DOI)", "doi_url": "www.doi.gov", "sba_name": "U.S. Small Business Administration (SBA)", "sba_url": "www.sba.gov", "epa_name": "U.S. Environmental Protection Agency (ΕΡΑ)", "epa_url": "www.epa.gov", "page_number": "- 12-"}
+
+
+<!-- Page Break - Batch 13 -->
+
+
+json
+{
+  "page_number": 13,
+  "resource_1_title": "Disaster Resource Center | USDA",
+  "resource_1_description": "The Disaster Resource Center provides information on how to prepare, recover and build long-term resilience during disasters and emergencies.",
+  "resource_1_link": "www.usda.gov/topics/disaster-resource-center",
+  "resource_2_title": "Disaster Recovery Assistance | Natural Resource Conservation Service (NRCS)",
+  "resource_2_description": "From floods to drought, fire or hurricanes, NRCS provides disaster recovery assistance to farmers, ranchers, landowners and communities.",
+  "resource_2_link": "www.nrcs.usda.gov/getting-assistance/disaster-recovery",
+  "resource_3_title": "Disaster Assistance Program | Farm Service Agency (FSA)",
+  "resource_3_description": "USDA offers a variety of programs and services to help communities, farmers, ranchers, and businesses.",
+  "resource_3_link": "www.fsa.usda.gov/programs-and-services/disaster-assistance-program",
+  "resource_4_title": "Natural Disaster Resources | Risk Management Agency (RSA)",
+  "resource_4_description": "The Federal Crop Insurance Program provides a robust and reliable farm safety net.",
+  "resource_4_link": "www.rma.usda.gov",
+  "resource_5_title": "Tips for Handling Food Following a Disaster | USDA Food Nutrition Service (FNS)",
+  "resource_5_description": "When the unexpected occurs, access to fresh food, water, and electricity can be impacted for extended periods of time. This webpage offers food safety resources.",
+  "resource_5_link": "www.fns.usda.gov/disaster/tips-handling-food-following-disaster",
+  "resource_6_title": "SNAP vs. D-SNAP (usda.gov)",
+  "resource_6_description": "This PDF explains the differences between USDA's Supplemental Nutrition Assistance Program (SNAP) and its Disaster component (D-SNAP).",
+  "resource_6_link": "tinyurl.com/DSNAPvSNAP - PDF",
+  "resource_7_title": "USDA Rural Development Resource Guides",
+  "resource_7_description": "address a wide variety of topics central to rural community development.",
+  "resource_7_link": "go.usa.gov/xtrGn",
+  "resource_8_title": "USDA RD's Summary of Programs",
+  "resource_8_description": "USDA RD's Summary of Programs provides comprehensive loan, grant, and loan guarantee program information.",
+  "resource_8_link": "tinyurl.com/RDSummaryofPrograms - PDF",
+  "resource_9_title": "USDA RD's Disaster Assistance Webpage",
+  "resource_9_link": "www.rd.usda.gov/page/rural-development-disaster-assistance"
+}
+
+
+<!-- Page Break - Batch 14 -->
+
+
+json
+{"title": "Stories of Disaster Resiliency and Recovery", "story_title": "A Heap of Hope When All Seemed Lost - Wildfire Survivor in Phoenix, Oregon", "person_name": "Susan Smith", "location": "Ashland, Phoenix, Oregon", "apartment_complex": "Rose Court Apartments", "funding_source": "USDA Rural Development", "evacuation_site": "Jackson County Expo Center", "program": "Multifamily Housing programs, USDA Rural Development", "letter": "Letter of Priority Entitlement (LOPE)", "new_apartment": "Big Valley Jacksonville Apartments", "page_number": "14"}
+
+
+<!-- Page Break - Batch 15 -->
+
+
+json
+{"Building Resiliency for Islands in the Storm": "The U.S. Virgin Islands (USVI) is no stranger to hurricanes and tropical storms. But In 2017, the islands were hit by two major hurricanes that landed within weeks of each other. In the recovery efforts that followed, a couple of key items became clear: the need to improve island resiliency, and to ensure the continuity of vital services like electric service and access to medical care.",
+"USDA RD partnered with the USVI Economic Development Authority (USVIEDA)": "to support a business incubator on St. Croix. Operating from an industrial park, the incubator housed five small, developing businesses that together have more than 50 employees. To help support the economic stability of these rural small businesses, USDA RD provided a $50,000 Rural Business Development Grant, and funds were used to purchase and install a generator at the industrial park. This project helped ensure St. Croix has one more power safety net in place when the next storm hits.",
+"Continuity of medical care": "is another component of disaster preparation, whether for a global pandemic or weather-related incident. Telemedicine allows for remote care that keeps services in place regardless of physical obstacles. In 2019, USVI's Plessen Healthcare implemented a telehealth program at its Orange Grove medical center, allowing patients on the island to get specialized medical care from doctors across the globe.",
+"The technology and equipment that helped make telemedicine possible for Plessen Healthcare": "was supported by USDA RD's Distance Learning and Telemedicine (DLT) Grant program. The DLT grant program helps rural communities use the unique capabilities of telecommunications to connect to each other and the world, overcoming the effects of remoteness and low population density.",
+"Partnerships Key to Louisiana Disaster Recovery Assistance": "The Louisiana Watershed Initiative (information available at this link: watershed.la.gov/) was launched in 2018, creating eight watershed regions across the state, each with a governance structure to support Louisiana's long-term resilience from flooding risks. Planning was underway in the various regions to develop approaches to lessen flood risk, improve capacities, and maximize natural functions when another series of disasters impacted the state. The 2020 hurricane season and subsequent winter storms in early 2021 put a significant dent on Louisiana's vital watersheds, as well as other infrastructure systems.",
+"As part of FEMA-led recovery efforts": "USDA RD coordinated with the Department of the Interior (DOI) to develop a two-day speaker series specific to Watershed 2, located in a rural portion of the state. The series included information on available programming and technical assistance resources that will serve as a foundation to help guide Watershed 2's priorities and decisions in recovery. Along with state and local groups, four federal agencies participated in the event.",
+"Robust partnerships also helped address other infrastructure needs that followed the disasters.": "For instance, in response to Hurricane Laura in August 2020, USDA RD coordinated with FEMA's Public Assistance staff to identify projects that need funding for equipment, rehabilitation, or new construction. As a result of this partnership, water, wastewater treatment, and community facilities projects came to the attention of Louisiana Rural Development's Community Programs staff for preliminary eligibility reviews regarding scope and entity eligibility.",
+"page_number": "15"}
+
+
+<!-- Page Break - Batch 16 -->
+
+
+json
+{"title": "How to Reach Us",
+"agency_1_name": "USDA Rural Development",
+"agency_1_description": "USDA Rural Development",
+"agency_1_website": "www.rd.usda.gov",
+"agency_1_contact": "Contact your local RD State Office (www.rd.usda.gov/about-rd/state-offices) to learn more about RD loan, grant and technical assistance programs. or Multifamily Programs regarding rural rental housing assistance.",
+"agency_2_name": "AskUSDA",
+"agency_2_email": "ask.USDA.gov",
+"agency_2_phone": "1-833-ONE-USDA",
+"agency_2_contact_email": "askusda@usda.gov",
+"additional_agencies_title": "Additional USDA Agencies",
+"agency_3_name": "USDA Agricultural Marketing Service",
+"agency_3_website": "www.ams.usda.gov",
+"agency_4_name": "USDA Farm Service Agency",
+"agency_4_website": "www.fsa.usda.gov",
+"agency_5_name": "USDA Food and Nutrition Service",
+"agency_5_website": "www.fns.usda.gov",
+"agency_5_contact": "Contact to your SNAP State Contact (www.fns.usda.gov/snap/state-directory) to learn more about the Supplemental Nutritional Assistance (SNAP) Programs.",
+"agency_6_name": "USDA Forest Service",
+"agency_6_website": "www.fs.usda.gov",
+"agency_7_name": "USDA National Institute of Food and Agriculture",
+"agency_7_website": "nifa.usda.gov",
+"agency_8_name": "USDA Natural Resource Conservation Service",
+"agency_8_website": "www.nrcs.usda.gov",
+"agency_9_name": "USDA Risk Management Agency",
+"agency_9_website": "www.rma.usda.gov"
+}
+
+
+<!-- Page Break - Batch 17 -->
+
+
+json
+{"agency": "USDA Rural Development", "department": "U.S. DEPARTMENT OF AGRICULTURE", "document_id": "RD-21002", "last_revised": "January 2025", "equal_opportunity_statement": "USDA is an equal opportunity provider, employer and lender."}

@@ -1,0 +1,399 @@
+json
+{"organization": "USDA Rural Development",
+"department": "U.S. DEPARTMENT OF AGRICULTURE",
+"program_summary": "USDA Rural Development Summary of Programs",
+"slogan": "Together, America Prospers",
+"ice_cream": "ICE CREAM"}
+
+
+<!-- Page Break - Batch 2 -->
+
+
+json
+{"academy_name": "Western Welding Academy",
+"location": "Gillette, Wyoming",
+"community_support": "coal, oil, and gas industries",
+"funding_amount": "$1.32 million",
+"funding_source": "USDA Rural Development Business and Industry (B&I) Loan Guarantees",
+"funding_purpose": "purchase of commercial real estate",
+"student_origin": "all 50 U.S. states",
+"out_of_state_percentage": "95 percent",
+"alumni_count": "1,100",
+"alumni_workplaces": "power plants, computer chip manufacturing facilities, dairies, breweries, refineries, and even NASA",
+"page_number": "-2-"}
+
+
+<!-- Page Break - Batch 3 -->
+
+
+json
+{"title": "USDA Rural Development at a Glance",
+"partner_in_prosperity": "Rural America's Partner in Prosperity",
+"usda_invests": "USDA Rural Development invests in rural America with loan, grant, and loan guarantee programs because we understand a strong community is rooted in its people. The commitment and resources we bring to rural communities helps drive economic security and prosperity. Our programs expand access to high-speed internet, electric, and transportation infrastructure, and support business growth, health care, education, housing, and other community essentials.",
+"we_stand_ready": "We stand ready to be your partner in prosperity for rural America. Contact us today to learn more and connect with the local USDA Rural Development team that serves your area:",
+"website": "www.rd.usda.gov",
+"phone": "1-800-670-6553",
+"x": "@usdaRD",
+"facebook": "facebook.com/usdard",
+"programs_available": "We have more than 70 programs to support rural America.",
+"single_family_housing": "Single Family Housing",
+"multifamily_housing": "Multifamily Housing",
+"community_programs": "Community Programs",
+"energy_electric_programs": "Energy and Electric Programs",
+"telecommunications_programs": "Telecommunications Programs",
+"water_environmental_programs": "Water and Environmental Programs",
+"business_cooperative_programs": "Business and Cooperative Programs",
+"page_number": "- 3 -"}
+
+
+<!-- Page Break - Batch 4 -->
+
+
+json
+{"Program": "Housing Preservation Grants", "Overview": "Repairs housing owned or occupied by low-income rural families. Funds can be used to operate a program that finances repair activities for single-family and small rental properties.", "Applicant": "State and local governments, nonprofits, and federally recognized Tribes", "Population": "Rural areas with populations of 20,000 or fewer", "Additional Information": "Program Type: Grant", "Website": "tinyurl.com/SFHPreservation", "Program_2": "Individual Water and Wastewater Grants for Colonias", "Overview_2": "Provides funding to offset the cost of connecting residential water and waste service lines, pay utility hookup fees, and install plumbing and related fixtures", "Applicant_2": "Must own and occupy a home in an eligible-area Colonia recognized prior to October 1989, and have a taxable income below the most recent poverty guidelines", "Population_2": "Colonias must be located in an unincorporated rural area with a population of 10,000 or fewer.", "Additional Information_2": "Program Type: Grant", "Terms and Conditions": "Only available in designated Colonias in Arizona, California, New Mexico, and Texas.", "Website_2": "tinyurl.com/SFHColonias", "Program_3": "Mutual Self-Help Housing Technical Assistance Grants", "Overview_3": "Provides funding to qualified organizations who offer technical assistance to train groups how to build their own and each others' homes", "Applicant_3": "Private organizations, nonprofits, government organizations, and federally recognized Tribes", "Population_3": "Rural areas with populations up to 20,000\n(In special circumstances, communities with populations up to 35,000 can apply.)", "Additional Information_3": "Program Type: Grant", "Website_3": "tinyurl.com/SFHSelfHelp", "Program_4": "Single Family Housing Direct Home Loans", "Overview_4": "Provides mortgage financing for applicants to buy, build, improve, or repair an eligible rural home as their primary residence", "Applicant_4": "Families and individuals with an adjusted income at or below the low-income limit for the area", "Population_4": "Rural areas with populations up to 20,000\n(In special circumstances, communities up to 35,000 can apply).", "Additional Information_4": "Program Type: Direct Loan", "Terms and Conditions_2": "Loans can cover up to 100 percent of the home's market value, with terms of 33 - 38 years. Applicant may be eligible for payment assistance (subsidy) on the loan.", "Website_4": "tinyurl.com/SFHDirectLoans"}
+
+
+<!-- Page Break - Batch 5 -->
+
+
+json
+{"Program":"Single Family Housing Guaranteed Loan Program","Overview":"Helps low- to moderate-income applicants buy a home by guaranteeing loans made by private lenders. Eligible applicants can get up to 100-percent financing to buy, build, improve, or even relocate a dwelling.","Applicant":"Families and individuals with incomes not exceeding 115 percent of the median household income for the purchase area of the home","Population":"Rural areas with populations up to 20,000\n(In special circumstances, communities with populations up to 35,000 can apply.)","Additional Information":"Program Type: Loan Guarantee\nTerms and Conditions: A down payment is not required.\nWebsite: tinyurl.com/SFHGuaranteed","Program":"Single Family Housing Repair Loans and Grants","Overview":"Helps lower-income homeowners repair, improve, or modernize their home. Loan funds can be used for roofing, heating and cooling systems, structural repairs or to offset the cost of water or waste disposal connection fees.","Applicant":"Homeowners who occupy the house, and have a household income that does not exceed the very-low income limit in the county in which their home is located","Population":"Rural areas with populations up to 20,000\n(In special circumstances, communities up to 35,000 can apply).","Additional Information":"Program Type: Direct Loan and grant.\nTerms and Conditions: 1-percent-interest loans up to $40,000. Eligible applicants ages 62 years or older also can receive grants with lifetime limits up to $10,000.\nWebsite: tinyurl.com/SFHRepairs","Program":"Rural Housing Site Loans","Overview":"This revolving loan fund provides site loans for applicants below the moderate income limit using conventional construction methods or the self-help housing method, in which families build each other's homes. Conventional building sites can be developed and sold to low- and moderate-income applicants using USDA Rural Housing Service programs or any other mortgage financing program that serves applicants below the moderate income limit.","Applicant":"Conventional building sites: Private and public nonprofit organizations, and federally recognized Tribes\nSelf-help method sites: Private and public nonprofit organizations solely dedicated to self-help housing, and federally recognized Tribes","Population":"Check the Income and Property Eligibility at this site:\ngo.usa.gov/xhqbC","Additional Information":"Program Type: Loan\nTerms and Conditions: Self-help method loans are for 2 years at a 3-percent, fixed-interest rate. Conventional construction method loans are published monthly and fixed at closing.\nWebsite: tinyurl.com/SFHSiteLoans"}
+
+
+<!-- Page Break - Batch 6 -->
+
+
+json
+{"Program": "Housing Preservation Grants (multifamily component)", "Overview": "Repairs housing owned or occupied by low-income rural families. Grants can be used to repair or replace roofs, add insulation, heating and cooling systems, or water and waste disposal systems, or to build or improve accessibility features.", "Applicant": "Rental property owners, government organizations, nonprofits, and federally recognized Tribes", "Population": "Rural areas with populations up to 20,000", "Additional Information": "Program Type: Grant Website: tinyurl.com/SFHPreservation", "Program_2": "Multifamily Housing Direct Loans", "Overview_2": "Finances affordable multifamily rental housing for low-income, elderly, or disabled individuals and families. Funds can be used to buy and improve land, and to build, improve, or purchase existing multifamily housing.", "Applicant_2": "Government organizations, federally recognized Tribes, individuals, trusts, associations, partnerships, for- profit organizations, nonprofits and cooperatives", "Population_2": "Designated eligible rural places and RD Multifamily Housing contacts are available at: go.usa.gov/xh3mB", "Additional Information_2": "Program Type: Direct Loan Terms and Conditions: Up to a 30-year payback period. Website: tinyurl.com/MFHDirect", "Program_3": "Multifamily Housing Loan Guarantees", "Overview_3": "Guarantees loans from private- sector lenders to increase the availability of affordable rental housing for low- and moderate- income people. Funds can be used to buy and improve land, and to build, rehabilitate, or purchase existing multifamily housing.", "Applicant_3": "Private lenders may apply for a loan guarantee on loans made to eligible borrowers who are building or preserving affordable rural rental housing.", "Population_3": "Rural areas with populations of 35,000 or fewer", "Additional Information_3": "Program Type: Loan Guarantee Terms and Conditions: Minimum term of 25 years and maximum term of 40 years. Total development cost borrowed cannot exceed 90 percent (for-profits); 97 percent (nonprofits) Website: tinyurl.com/MFHGuarantees", "Program_4": "Multifamily Preservation and Revitalization Loans and Grants", "Overview_4": "Funds loan restructuring for existing USDA Rural Rental and Off-Farm Labor Housing projects to improve safe, affordable rental housing. Funds can be used for debt deferral, soft-second mortgages or zero-interest loans.", "Applicant_4": "Current owners of USDA Multifamily Direct or Farm Labor Housing properties, and certain prospective buyers", "Population_4": "N/A", "Additional Information_4": "Program Type: Loan or grant. Website: tinyurl.com/MFHPreservation", "Program_5": "Multifamily Nonprofit Transfer Technical Assistance Grants", "Overview_5": "Provides assistance to preserve affordable rental housing by transferring existing RD Multifamily Housing Direct Loan properties from current owners to nonprofits or PHAs. Funding can be used for consultation, nonconstruction services, financial analysis, appraisals, and market surveys.", "Applicant_5": "Public and private organizations, nonprofits, public housing authorities, Tribal housing nonprofits, and Tribally designated housing organizations", "Population_5": "Rural areas with populations up to 20,000", "Additional Information_5": "Program Type: Grant Website: tinyurl.com/MFHNonprofitTA"}
+
+
+<!-- Page Break - Batch 7 -->
+
+
+json
+{
+  "Multifamily Housing Rental Assistance Program_Overview": "Provides rental assistance payments paid directly to the owners of USDA-financed Rural Rental or Farm Labor Housing projects on behalf of eligible tenants who cannot afford to pay their full rent",
+  "Multifamily Housing Rental Assistance Program_Applicant": "New or existing, nonprofit or limited-profit USDA-financed properties",
+  "Multifamily Housing Rental Assistance Program_Population": "N/A",
+  "Multifamily Housing Rental Assistance Program_Additional Information": "Program Type: Rental assistance\nWebsite: tinyurl.com/MFHRental",
+  "Multifamily Housing Tenant Voucher Program_Overview": "Rent vouchers can be used to supplement rent payments at a former USDA-financed property, or at any nonsubsidized rental unit in the United States that meets USDA standards and agrees to accept the voucher",
+  "Multifamily Housing Tenant Voucher Program_Applicant": "Tenants in rental properties in which a USDA-financed Multifamily Housing Direct Loan ended earlier than its original maturity date",
+  "Multifamily Housing Tenant Voucher Program_Population": "N/A",
+  "Multifamily Housing Tenant Voucher Program_Additional Information": "Program Type: Rental assistance\nTerms and Conditions: Funds are paid directly to property owners on the tenant's behalf.\nWebsite: tinyurl.com/MFHVoucher",
+  "Off-Farm Labor Housing Direct Loans and Grants_Overview": "Provides affordable financing to develop housing for farm workers. Funds can be used to buy or improve land, for new construction, to rehabilitate existing rental housing in lower-income areas, or to purchase household furnishings.",
+  "Off-Farm Labor Housing Direct Loans and Grants_Applicant": "Farmers and family farm corporations, farmers’ or farm workers’ associations, nonprofits, state and local governments, and federally recognized Tribes",
+  "Off-Farm Labor Housing Direct Loans and Grants_Population": "N/A",
+  "Off-Farm Labor Housing Direct Loans and Grants_Additional Information": "Program Type: Direct loans and grants\nTerms and Conditions: 33 years at a 1-percent interest rate. Loans can cover up to 100 percent of total development costs. Grants are need-based and cannot exceed 90 percent of the total project cost.\nWebsite: tinyurl.com/MFHOffFarmDirect",
+  "Off-Farm Labor Housing Technical Assistance Grants_Overview": "Provides funds for applicants of USDA RD Farm Labor Housing loans and grants. Funds can be used to pay for technical assistance during the application process, loan underwriting and closing, and to offset certain transaction costs.",
+  "Off-Farm Labor Housing Technical Assistance Grants_Applicant": "Public and private nonprofit organizations",
+  "Off-Farm Labor Housing Technical Assistance Grants_Population": "N/A",
+  "Off-Farm Labor Housing Technical Assistance Grants_Additional Information": "Program Type: Grant\nWebsite: tinyurl.com/MFHOffFarmTA",
+  "On-Farm Labor Housing Loans_Overview": "Provides financing to develop or rehabilitate rental housing for lower-income domestic, migrant, and seasonal farm laborers",
+  "On-Farm Labor Housing Loans_Applicant": "Individuals, partnerships, and family farm corporations",
+  "On-Farm Labor Housing Loans_Population": "N/A",
+  "On-Farm Labor Housing Loans_Additional Information": "Program Type: Loan\nTerms and Conditions: 33 years at a 1-percent interest rate. No loan minimum. Loans can cover up to 100 percent of the total development cost.\nWebsite: tinyurl.com/MFHOnFarmHousing"
+}
+
+
+<!-- Page Break - Batch 8 -->
+
+
+json
+{"Program": "Community Facilities Direct Loans, Grants and Loan Guarantees", "Overview": "Provides funds to improve, construct, develop, or finance essential community facilities for rural communities such as hospitals, clinics, nursing homes, certain schools, child care centers, fire and rescue, public safety facilities, libraries, and town halls", "Applicant": "Government organizations, community-based nonprofits, and federally recognized Tribes", "Population": "Rural areas with populations of 20,000 or fewer for direct loans and grants; 50,000 or fewer for loan guarantees", "Additional Information": "Program Type: Direct loans, grants and loan guarantee\nDirect Loan and Grant website: tinyurl.com/CFDirectLoansand Grants\nLoan Guarantee website: tinyurl.com/CFGLoans", "Program_2": "Community Facilities Technical Assistance and Training Grants", "Overview_2": "Award grants to identify and plan for community facility needs. Grant funds can be used to identify public and private financial resources, prepare reports, surveys, and applications, and to improve the operational and financial management of existing community facilities", "Applicant_2": "Government organizations, nonprofits, and federally recognized Tribes", "Population_2": "Rural areas with populations of 20,000 or fewer", "Additional Information_2": "Program Type: Grant\nTerms and Conditions: Maximum grant award is $150,000, with no match required. However, award preference is given to applicants who can provide cash matching funds.\nWebsite: tinyurl.com/CFTechAssist", "Program_3": "Rural Community Development Initiative Grants", "Overview_3": "Facilitates housing, community facilities, and community and economic development projects. Grant funds can be used to support subgrantee trainings on homeownership or minority entrepreneur education, provide technical assistance on strategic plan development, help research and identify additional funding resources, prepare boards of directors, and create training tools including videos, workbooks, or guides.", "Applicant_3": "Government organizations, nonprofits, and certain private, for-profit organizations in rural areas", "Population_3": "Rural areas with populations of 50,000 or fewer, including any urbanized area neighboring it", "Additional Information_3": "Program Type: Grant\nTerms and Conditions: Grants range from $50,000 - $250,000, and there is a matching fund requirement equal to the amount of the grant award.\nWebsite: tinyurl.com/CFCommDevGrants", "Program_4": "Tribal College Initiative Grants", "Overview_4": "Funds capital improvements to educational facilities and for cultural projects at 1994 Land Grant Institutions (Tribal Colleges). Funds can be used for infrastructure development or upgrades, along with equipment purchases for schools, libraries, and dormitories.", "Applicant_4": "Tribal Colleges listed in Section 7402 of the Agricultural Act of 2014\n(Available at this link: go.usa.gov/xzDAK - PDF)", "Population_4": "N/A", "Additional Information_4": "Program Type: Grant\nTerms and Conditions: Grants of up to $250,000. A minimum five percent match is required. Partnerships with other federal, state, local, private, and nonprofit organizations are encouraged.\nWebsite: tinyurl.com/CFTribalCollege"}
+
+
+<!-- Page Break - Batch 9 -->
+
+
+json
+{"Program": "Denali Commission High Energy Cost Grants", "Overview": "Helps the Denali Commission lower energy costs for people who live in areas with exceptionally high, per-household energy bills – at least 275 percent higher than the national average. Grants can be used to finance energy generation, transmission, and distribution.", "Applicant": "For-profit organizations, nonprofits, sole proprietors, government organizations, and federally recognized Tribes", "Population": "N/A", "Additional Information": "Program Type: Grant\nDenali Commission Website: denali.gov\nWebsite: tinyurl.com/RUSDenali", "Program_2": "Distributed Generation Energy Project Financing", "Overview_2": "Provides loans and loan guarantees to eligible developers of distributed energy projects that provide wholesale or retail electricity to existing USDA RD Electric Program borrowers, or to rural communities serviced by other utilities", "Applicant_2": "Energy project developers for distributed energy projects, and USDA RD Electric Program borrowers or other utilities that serve rural areas", "Population_2": "N/A", "Additional Information_2": "Program Type: Loans and loan guarantees\nWebsite: tinyurl.com/RUSDisGen", "Program_3": "Electric Infrastructure Loans and Loan Guarantees", "Overview_3": "Finances the construction of electric distribution, transmission, and generation facilities so rural communities can access affordable, high-quality electric service", "Applicant_3": "Government organizations, federally recognized Tribes, nonprofits, cooperatives, limited dividend or mutual associations, for-profit corporations, and LLCs", "Population_3": "Areas served by an existing rural electric borrower in a city or town with a population of 20,000 or fewer", "Additional Information_3": "Program Type: Loans and loan guarantees\nWebsite: tinyurl.com/RUSElectricInfra", "Program_4": "Energy Efficiency and Conservation Loans", "Overview_4": "Provides pass-through funding for energy efficiency and conservation projects for residential, commercial, and industrial consumers in rural areas", "Applicant_4": "Electric utility companies serving rural areas, existing Rural Utilities Service Electric Program borrowers", "Population_4": "Rural areas with populations 20,000 and fewer\nEligible communities can be combined into larger service areas", "Additional Information_4": "Program Type: Loans\nTerms and Conditions: Repayment period is 15 years unless the investment (such as geothermal ground loop or similar technology) has a longer lifespan.\nWebsite: tinyurl.com/RUSEnergyEfficiency"}
+
+
+<!-- Page Break - Batch 10 -->
+
+
+json
+{"Program": "Energy Resource Conservation Program", "Overview": "Helps current Rural Utilities Service borrowers make funds available to their consumers for energy conservation and renewable energy projects by deferring payment of principal and interest", "Applicant": "Current Rural Utilities Service Electric Program borrowers with direct loans", "Population": "N/A", "Additional Information": "Program Type: Loan\nTerms and Conditions: Deferment terms vary, and are based on the principal balance of the existing loan.\nWebsite: tinyurl.com/RUSEnergyConservation", "Program_2": "High Energy Cost Grants", "Overview_2": "Helps energy providers lower energy costs for people in areas with extremely high per-household energy costs. Among other things, funds can be used to finance the acquisition, construction, or improvement of electric generation and transmission facilities, and to implement renewable energy generation and energy efficiency and conservation measures", "Applicant_2": "Power supply providers serving eligible rural areas including government organizations, federally recognized Tribes, cooperatives and limited dividend or mutual associations, and for-profit businesses", "Population_2": "N/A", "Additional Information_2": "Program Type: Grant\nWebsite: tinyurl.com/RUSHighEnergy", "Program_3": "Rural Energy Savings Program", "Overview_3": "Provides loans to rural utilities and other companies that offer energy efficiency loans to qualified consumers to implement durable, cost-effective energy efficiency measures", "Applicant_3": "Entities that provide retail electric service to rural areas, and current and former USDA Rural Development Rural Utilities Service Electric Service program borrowers or their subsidiaries", "Population_3": "N/A", "Additional Information_3": "Program Type: Loans\nTerms and Conditions: 20 years at 0-percent interest, and up to 5-percent interest for relending to qualified consumers for up to 10 years\nWebsite: tinyurl.com/RUSSavings", "Program_4": "State Bulk Fuel Revolving Loan Fund", "Overview_4": "Helps state governments establish revolving loan funds to provide a cost-effective way to purchase bulk fuel for remote communities not served year-round by standard surface transportation such as highways, railways, or waterways", "Applicant_4": "State governments", "Population_4": "N/A", "Additional Information_4": "Program Type: Loans\nWebsite: tinyurl.com/RUSBulkFuel"}
+
+
+<!-- Page Break - Batch 11 -->
+
+
+json
+{"Program_CommunityConnectGrants": "Community Connect Grants", "Overview_CommunityConnectGrants": "Provides broadband service in rural, economically challenged communities where internet service does not yet exist. Funds can also cover costs to provide broadband service to critical community facilities for two years.", "Applicant_CommunityConnectGrants": "Government organizations, federally recognized Tribes, nonprofits, cooperatives, private corporations, for-profit entities", "Population_CommunityConnectGrants": "Rural areas with low-speed or no broadband services", "AdditionalInformation_CommunityConnectGrants_ProgramType": "Grant", "AdditionalInformation_CommunityConnectGrants_Website": "tinyurl.com/RUSCommC", "Program_DistanceLearningandTelemedicineGrants": "Distance Learning and Telemedicine Grants", "Overview_DistanceLearningandTelemedicineGrants": "Funds development and deployment of advanced telecommunication services to improve education and health care. Funds can be used to buy equipment to deliver distance learning and telemedicine services and pay for instructional programming, technical assistance, and training.", "Applicant_DistanceLearningandTelemedicineGrants": "Government organizations, nonprofits, and federally recognized Tribes", "Population_DistanceLearningandTelemedicineGrants": "Rural areas outside incorporated or unincorporated cities with populations up to 20,000", "AdditionalInformation_DistanceLearningandTelemedicineGrants_ProgramType": "Grant", "AdditionalInformation_DistanceLearningandTelemedicineGrants_TermsAndConditions": "Minimum 15 percent match required that cannot come from other federal sources", "AdditionalInformation_DistanceLearningandTelemedicineGrants_Website": "tinyurl.com/RUSDLT", "Program_ReConnectLoansandGrants": "ReConnect Loans and Grants", "Overview_ReConnectLoansandGrants": "Expands broadband service in rural areas without sufficient broadband access. Funds can be used to construct, improve, acquire broadband and terrestrial satellite broadband facilities and equipment, and for pre-application expenses.", "Applicant_ReConnectLoansandGrants": "Nonprofits, for-profit corporations, LLCs, cooperatives, partnerships, government organizations, and federally recognized Tribes", "Population_ReConnectLoansandGrants": "Rural areas where (depending on the funding category) 50-90 percent of all households lack sufficient broadband access", "AdditionalInformation_ReConnectLoansandGrants_ProgramType": "Loans, grants", "AdditionalInformation_ReConnectLoansandGrants_Website": "usda.gov/reconnect"}
+
+
+<!-- Page Break - Batch 12 -->
+
+
+json
+{"Program": "Rural Broadband Loans, Loan and Grant Combinations, and Loan Guarantees", "Overview": "Provides funds for the construction, improvement, or purchase of facilities and equipment needed to provide service at the broadband lending speed in eligible rural areas", "Applicant": "Nonprofits, corporations, LLCs, cooperatives or mutual organizations, government organizations, federally recognized Tribes\nIndividuals and partnerships are not eligible.", "Population": "For loan and grant combinations, at least 90 percent of the households in the proposed service area must not have access to broadband service. For loans and loan guarantees, the service threshold is 50 percent.", "Additional Information": "Program Type: Loans, Grants, Loan Guarantees\nWebsite: tinyurl.com/RUSRBB", "Program_2": "Telecommunications Infrastructure Loans and Loan Guarantees", "Overview_2": "Funds to build, maintain, improve, or expand telephone and broadband service in rural areas", "Applicant_2": "Telecommunications providers", "Population_2": "Rural areas with populations of 5,000 or fewer", "Additional Information_2": "Program Type: Loans and loan guarantees\nTerms and Conditions vary based on type of funding (cost-of-money loan, guaranteed loan, or hardship loan). See information at the website link below for details.\nWebsite: tinyurl.com/RUSTelcoInfra"}
+
+
+<!-- Page Break - Batch 13 -->
+
+
+json
+{"Program": "Circuit Rider\nProgram –\nTechnical\nAssistance\nfor Rural\nWater\nSystems", "Overview": "Provides technical assistance\nto rural water systems\nexperiencing day-to-day\noperational, financial, or\nmanagerial issues", "Applicant": "Government\norganizations,\nnonprofits, or\nTribes with\nlegal authority\nto own and\noperate the\nwater facility", "Population": "Rural areas with\npopulations of\n10,000 or fewer", "Additional\nInformation": "Program Type: Grant\nTerms and Conditions: Rural\nwater system officials can\nrequest assistance from\nthe National Rural Water\nAssociation State Association\nor their local Rural Utilities\nService office.\nWebsite:\ntinyurl.com/WEPCRTAG", "Program_2": "Emergency\nCommunity\nWater\nAssistance\nGrants", "Overview_2": "Helps eligible communities\nprepare for – or recover\nfrom – an emergency that\nthreatens the availability\nof safe, reliable drinking\nwater. Grants can be used\nfor maintenance, to build\nwater line extensions, repair\nbreaks or leaks in existing\ndistribution lines, and to build\nintake or treatment facilities.", "Applicant_2": "Local\ngovernment\norganizations,\nnonprofits,\nand federally\nrecognized\nTribes", "Population_2": "Rural areas with\npopulations of\n10,000 or fewer", "Additional\nInformation_2": "Program Type: Grant\nTerms and Conditions: Water\ntransmission line grants\nmaximum is $150,000. Water\nsource grants maximum is\n$1 million. Partnerships with\nother federal, state, local,\nprivate and nonprofit entities\nare encouraged\nWebsite:\ntinyurl.com/WEPECWAG", "Program_3": "Grants\nfor Rural\nand Native\nAlaskan\nVillages", "Overview_3": "Provides remote Alaskan\nvillages funds to ensure safe,\nreliable drinking water and\nwaste disposal systems to\nhouseholds and businesses.\nMust be used to improve\ndire sanitation conditions like\nwaterborne communicable\ndisease, hauling water to – or\nhuman waste from – homes,\nor using outhouses because\nno community-wide water\nand sewer system exists.", "Applicant_3": "Rural Alaskan\nvillages or\nhubs\nThe state of\nAlaska also\ncan apply\non behalf of\neligible villages\nor hubs.", "Population_3": "Rural areas with\npopulations of\n10,000 or fewer", "Additional\nInformation_3": "Program Type: Grant\nWebsite:\ntinyurl.com/WEPRAVG", "Program_4": "Revolving\nFunds for\nFinancing\nWater and\nWastewater\nProjects", "Overview_4": "Provides revolving loan funds\nto extend and improve water\nand waste disposal systems.\nFunds can be used for pre-\ndevelopment costs, and for\nshort-term, small capital\nimprovement projects not\npart of regular operations and\nmaintenance.", "Applicant_4": "Nonprofits", "Population_4": "Rural areas with\npopulations of\n10,000 or fewer", "Additional\nInformation_4": "Program Type: Loan\nTerms and Conditions:\nMaximum loan per borrower\nis $200,000. Maximum term\nis 10 years. Interest rate\ndetermined by the nonprofit\nthat manages the revolving\nloan fund\nWebsite:\ntinyurl.com/WEPRFP"}
+
+
+<!-- Page Break - Batch 14 -->
+
+
+json
+{"Rural Decentralized Water Systems Grant Program_Program": "Rural Decentralized Water Systems Grant Program", "Rural Decentralized Water Systems Grant Program_Overview": "Increases access to clean, reliable water and septic systems for households in eligible rural areas. Funds can be used to build, refurbish, or service individually owned household water well and wastewater systems.", "Rural Decentralized Water Systems Grant Program_Applicant": "Nonprofits, Colonias, and federally recognized Tribes", "Rural Decentralized Water Systems Grant Program_Population": "Rural areas with populations of 50,000 or fewer", "Rural Decentralized Water Systems Grant Program_Additional Information": "Program Type: Grant\nTerms and Conditions: A 10 percent match is required and cannot be an in-kind match.\nWebsite: tinyurl.com/WEPDWSG", "Special Evaluation Assistance for Rural Communities and Households Grant (SEARCH)_Program": "Special Evaluation Assistance for Rural Communities and Households Grant (SEARCH)", "Special Evaluation Assistance for Rural Communities and Households Grant (SEARCH)_Overview": "Helps small, financially distressed rural communities pay for predevelopment feasibility studies, design, and technical assistance on proposed water and waste disposal projects. Funds can be used to support proposed projects to build or improve rural water, wastewater, solid waste disposal, or storm water disposal facilities, or to make public or private improvements.", "Special Evaluation Assistance for Rural Communities and Households Grant (SEARCH)_Applicant": "Government organizations, nonprofits, and federally recognized Tribes", "Special Evaluation Assistance for Rural Communities and Households Grant (SEARCH)_Population": "Rural areas with populations of 2,500 or fewer and with median household incomes below the poverty line or less than 80 percent of the statewide nonmetropolitan median household income", "Special Evaluation Assistance for Rural Communities and Households Grant (SEARCH)_Additional Information": "Program Type: Grant\nWebsite: tinyurl.com/WEPSEARCH", "Solid Waste Management Grants_Program": "Solid Waste Management Grants", "Solid Waste Management Grants_Overview": "Reduces or eliminates water pollution by providing funding for technical assistance and training to improve the planning and management of solid waste sites. Funds also can be used to evaluate and improve current landfill conditions to protect against threats to nearby water resources.", "Solid Waste Management Grants_Applicant": "Government organizations, nonprofits, federally recognized Tribes, and academic institutions", "Solid Waste Management Grants_Population": "Rural areas with populations of 10,000 or fewer", "Solid Waste Management Grants_Additional Information": "Program Type: Grant\nTerms and Conditions: Projects must be completed in 12 months. Matching funds are not required for this grant. However, applicant and in-kind contributions are recommended.\nWebsite: tinyurl.com/WEPSWMG", "Water and Waste Disposal Grants to Alleviate Health Risks on Tribal Lands and Colonias_Program": "Water and Waste Disposal Grants to Alleviate Health Risks on Tribal Lands and Colonias", "Water and Waste Disposal Grants to Alleviate Health Risks on Tribal Lands and Colonias_Overview": "Helps low-income communities facing significant health risks get safe, reliable drinking water and waste disposal facilities and services. Funds can be used to build basic drinking water and waste disposal systems.", "Water and Waste Disposal Grants to Alleviate Health Risks on Tribal Lands and Colonias_Applicant": "Local governments, nonprofits, utility districts serving Colonias, and federally recognized Tribes", "Water and Waste Disposal Grants to Alleviate Health Risks on Tribal Lands and Colonias_Population": "Rural areas with populations fewer than 10,000, Colonias, and Tribal lands", "Water and Waste Disposal Grants to Alleviate Health Risks on Tribal Lands and Colonias_Additional Information": "Program Type: Grant\nWebsite: tinyurl.com/WEPColonias tinyurl.com/WEPTribal"}
+
+
+<!-- Page Break - Batch 15 -->
+
+
+json
+{"Program":"Water and Waste Disposal Loans and Grants",
+"Overview":"Provides funding for clean and reliable drinking water systems, sanitary wastewater and solid waste disposal, and storm water drainage to households and businesses. Funds can be used to buy, build, repair, and improve public water and waste treatment and collection systems.",
+"Applicant":"Government organizations, nonprofits, and federally recognized Tribes",
+"Population":"Rural areas with populations fewer than 10,000, Colonias, and Tribal lands",
+"Additional Information":"Program Type: Loans, grants (if available)\nTerms and Conditions: The loan term cannot exceed 40 years.\nWebsite: tinyurl.com/WEPWWD",
+"Program":"Water and Waste Disposal Loan Guarantees",
+"Overview":"Helps private lenders provide affordable financing to improve access to clean, reliable water and waste disposal systems for households and businesses in rural areas. Funds can be used to build or improve facilities for drinking water, wastewater treatment and solid waste disposal, and storm water drainage.",
+"Applicant":"Banks, savings and loans institutions, farm credit banks, and credit unions",
+"Population":"Rural areas with populations of 50,000 or fewer",
+"Additional Information":"Program Type: Loan guarantee\nTerms and Conditions: The loan term cannot exceed 40 years. Interest rates negotiated between the lender and borrower.\nWebsite: tinyurl.com/WEPWWDLG",
+"Program":"Water and Waste Disposal Predevelopment Planning Grants",
+"Overview":"Helps low-income communities with the initial planning and development of applications for USDA Rural Development Water and Waste Disposal Direct Loan and Grant or Loan Guarantee programs",
+"Applicant":"Government organizations, nonprofits, and federally recognized Tribes",
+"Population":"Rural areas with populations of 10,000 or fewer",
+"Additional Information":"Program Type: Grant\nTerms and Conditions: Maximum grant amount is $60,000, or 75 percent of predevelopment planning costs\nWebsite: tinyurl.com/WEPWWPPG",
+"Program":"Water and Waste Disposal Technical Assistance and Training Grants",
+"Overview":"Funds technical assistance and training for water and waste disposal operators to identify solutions to sourcing, storage, treatment, distribution, collection, and disposal. Helps applicants prepare water and waste disposal loan and grant applications, and helps associations improve the operation and maintenance of water and waste facilities",
+"Applicant":"Nonprofits",
+"Population":"Rural areas with populations of 10,000 or fewer",
+"Additional Information":"Program Type: Grant\nTerms and Conditions: This is a reimbursement grant.\nWebsite: tinyurl.com/WEPTATG"}
+
+
+<!-- Page Break - Batch 16 -->
+
+
+json
+{
+  "Agriculture Innovation Center Program_Overview": "Funds technical assistance for agriculture innovation centers to develop and market value-added agricultural products. Funds can be used for center operations, development, marketing, financial or engineering services, and to connect producers to distribution and processing facilities.",
+  "Agriculture Innovation Center Program_Applicant": "Government organizations, federally recognized Tribes, institutions of higher education, and for- and nonprofit organizations",
+  "Agriculture Innovation Center Program_Population": "No restrictions",
+  "Agriculture Innovation Center Program_Additional Information_Program Type": "Grant",
+  "Agriculture Innovation Center Program_Additional Information_Terms and Conditions": "Maximum grant amount is $1 million. Matching funds are required for at least one-third of the total project budget.",
+  "Agriculture Innovation Center Program_Additional Information_Website": "tinyurl.com/RBCSAICP",
+  "BioPreferred Program_Overview": "Helps provide new markets for farm commodities by increasing the purchase and use of biobased products.",
+  "BioPreferred Program_Applicant": "Those wishing to engage in the production or sale of Biobased products. You can learn more about what constitutes biobased content at this link: tinyurl.com/BioBContent-PDF",
+  "BioPreferred Program_Population": "No restrictions",
+  "BioPreferred Program_Additional Information": "The BioPreferred program includes two major parts: mandatory purchasing requirements for federal agencies and their contractors, and a voluntary labeling initiative for biobased products.",
+  "BioPreferred Program_Additional Information_Website": "tinyurl.com/BioPref",
+  "Business and Industry Loan Guarantees_Overview": "Provides loan guarantees to lenders for their loans to eligible rural businesses and agricultural producers. Funds can be used for real estate, buildings, equipment, supplies, working capital, and some debt refinancing.",
+  "Business and Industry Loan Guarantees_Applicant": "Banks, savings and loans institutions, farm credit banks, and credit unions",
+  "Business and Industry Loan Guarantees_Population": "Businesses receiving loan guarantees must be in rural areas with populations of 50,000 or fewer. (Lenders can be located anywhere in the U.S.)",
+  "Business and Industry Loan Guarantees_Additional Information_Program Type": "Loan Guarantee",
+  "Business and Industry Loan Guarantees_Additional Information_Terms and Conditions": "Loan terms negotiated between the lender and the borrower, not to exceed 40 years. Maximum loan amount is $25 million.",
+  "Business and Industry Loan Guarantees_Additional Information_Website": "tinyurl.com/RBCSBILG",
+  "Delta Health Care Services Grants_Overview": "Provides financial assistance to address ongoing, unmet health needs in the Delta Region. Funds can be used to develop health care services, education, job training programs, and to develop or expand public health-related facilities in the region.",
+  "Delta Health Care Services Grants_Applicant": "Regional institutions of higher education, academic health and research institutes, and economic development organizations in the Delta Region",
+  "Delta Health Care Services Grants_Population": "A list of Delta Region states is available at this link: go.usa.gov/xzTf7",
+  "Delta Health Care Services Grants_Additional Information_Program Type": "Grant",
+  "Delta Health Care Services Grants_Additional Information_Terms and Conditions": "Maximum grant amount is $1 million. Minimum grant amount is $50,000. There is no matching funds requirement.",
+  "Delta Health Care Services Grants_Additional Information_Website": "tinyurl.com/RBCSDelta"
+}
+
+
+<!-- Page Break - Batch 17 -->
+
+
+json
+{"Program": "Fertilizer Production Expansion Program", "Overview": "Increases or expands the manufacturing and processing of fertilizer, nutrient alternatives, and other nutrient management products and technologies in the United States and its territories", "Applicant": "For-profit businesses nonprofits, Tribes, producer-owned cooperatives and corporations, certified benefit corporations, and government organizations", "Population": "N/A", "Additional Information": "Program Type: Grant\nTerms and Conditions: Grant term is 5 years. Maximum award amount is $100 million. Minimum award amount is $1 million\nWebsite: tinyurl.com/RBCSFPEP", "Program": "Food Supply Chain Guaranteed Loan Program", "Overview": "Provides funding to lenders whose loan applicants want to start or expand middle- of-the-food-supply-chain activities such as aggregation, processing, manufacturing, storage, transportation, wholesale, or distribution of food.", "Applicant": "Entrepreneurs, state and local governments and their designated agencies, for- or nonprofit businesses, cooperatives, and federally recognized Tribes", "Population": "Projects can be located in both rural and urban areas, and approved lenders can be located anywhere in the United States.", "Additional Information": "Program Type: Loan Guarantee\nWebsite: tinyurl.com/RBCSFOOD", "Program": "Intermediary Relending Program", "Overview": "Provides 1-percent, loans to local lenders or \"intermediaries\" that relend to businesses to improve economic conditions and create jobs in rural communities", "Applicant": "Government organizations, nonprofits, federally recognized Tribes, and cooperatives", "Population": "Rural areas with populations of 50,000 or fewer", "Additional Information": "Program Type: Loan\nTerms and Conditions: Maximum loan to borrowers is $400,000\nWebsite: tinyurl.com/RBCSIRP", "Program": "Rural Business Development Grants", "Overview": "Supports small and emerging private businesses start or expand. Funds can be used to purchase or develop land, buildings, and equipment; to cover costs for feasibility studies and business plans and provide other technical assistance; to improve rural transportation, establish revolving loan funds, and support rural distance learning programs that provide educational or job training", "Applicant": "Towns, communities, state agencies, nonprofits, institutions of higher education, federally recognized Tribes, and rural cooperatives", "Population": "Rural areas outside of any city with a population of 50,000 or more", "Additional Information": "Program Type: Grant\nTerms and Conditions: There is no maximum grant amount. Smaller requests are given higher priority, and there is no cost- sharing requirement.\nWebsite: tinyurl.com/RBCSRBDG"}
+
+
+<!-- Page Break - Batch 18 -->
+
+
+json
+{"Program": "Rural Business Investment Program", "Overview": "Provides a Rural Business Investment Company (RBIC) license to newly formed developmental capital organizations to fill the need for business and development capital in rural areas. The program works with for-profit developmental capital funds", "Applicant": "For-profit developmental capital organizations (or their subsidiaries) with experience in venture capital or community development financing", "Population": "75 percent of funds must be used in rural areas with populations of 50,000 or fewer. Applicants can be located anywhere.", "Additional Information": "Program Type: Other\nTerms and Conditions: Applicants must raise a minimum of $10 million in private equity capital.\nWebsite: tinyurl.com/RBCSRBIP", "Program_2": "Rural Cooperative Development Grants", "Overview_2": "Helps establish and operate cooperative development centers. Such cooperative development centers provide technical assistance, conduct feasibility studies, develop business plans, provide training, and facilitate strategic planning.", "Applicant_2": "Nonprofits and institutions of higher education", "Population_2": "Centers can be in any area, but must serve areas with populations of 50,000 or fewer.", "Additional Information_2": "Program Type: Grant\nTerms and Conditions: Maximum grant is $200,000 with a 25-percent matching requirement of total project costs.\nWebsite: tinyurl.com/RBCSRCDG", "Program_3": "Rural Economic Development Loan and Grant Program", "Overview_3": "Supports economic development and job creation in rural areas by providing zero-interest loans to eligible local utilities. Funds are then used to establish revolving loan funds (RLFs) that make pass-through funding available to ultimate recipients that back projects to create or retain rural jobs.", "Applicant_3": "Electric and telephone utilities", "Population_3": "The utility company must service rural areas with populations of 50,000 or fewer.", "Additional Information_3": "Program Type: Grant\nTerms and Conditions: Grant terms are 10 years and require a 20-percent match from the utility. The grant must be repaid when the RLF is expended or terminated.\nWebsite: tinyurl.com/RBCSREDLG"}
+
+
+<!-- Page Break - Batch 19 -->
+
+
+json
+{"Rural Innovation Stronger Economy (RISE) Grant Program_Overview": "Helps create high-wage jobs and accelerate the formation of new businesses. It also supports industry clusters and maximizes the use of local assets in lower-income rural areas. Grants can be used to build or support a business incubator facility, provide trainings, and improve opportunities for workers to get high-wage jobs in new or existing local industries.", "Rural Innovation Stronger Economy (RISE) Grant Program_Applicant": "Government organizations, nonprofits, federally recognized Tribes, and institutions of higher education", "Rural Innovation Stronger Economy (RISE) Grant Program_Population": "N/A", "Rural Innovation Stronger Economy (RISE) Grant Program_Additional Information_Program Type": "Grant", "Rural Innovation Stronger Economy (RISE) Grant Program_Additional Information_Terms and Conditions": "Grants range from $500,000 - $2 million with four-year terms.", "Rural Innovation Stronger Economy (RISE) Grant Program_Additional Information_Website": "tinyurl.com/RBCSRise", "Rural Micro-entrepreneur Assistance Program_Overview": "Supports the startup and growth of small rural businesses. Loans can be used to establish revolving microloans for small rural businesses, working capital, debt refinancing, equipment and supplies, and real estate improvements. Grants can be used to provide training and technical assistance to microloan borrowers and microentrepreneurs.", "Rural Micro-entrepreneur Assistance Program_Applicant": "Nonprofits, federally recognized Tribes, and institutions of higher education (Borrowers must be businesses with 10 or fewer full-time employees.)", "Rural Micro-entrepreneur Assistance Program_Population": "Rural areas with populations of 50,000 or fewer", "Rural Micro-entrepreneur Assistance Program_Additional Information_Program Type": "Loan, grant", "Rural Micro-entrepreneur Assistance Program_Additional Information_Terms and Conditions": "Loans: Loans range from $50,000 to $500,000. Maximum 20-year term with a two-year payment deferral", "Rural Micro-entrepreneur Assistance Program_Additional Information_Grants": "Maximum grant of $205,000 annually", "Rural Micro-entrepreneur Assistance Program_Additional Information_Website": "tinyurl.com/RBCSRMAP", "Socially Disadvantaged Groups Grants_Overview": "Provides financial support to co-ops and their associations or development centers for technical assistance to small, socially disadvantaged groups. Among other things, funds can be used for feasibility studies, business plans, strategic planning, and leadership training.", "Socially Disadvantaged Groups Grants_Applicant": "Rural cooperatives and cooperative development centers", "Socially Disadvantaged Groups Grants_Population": "Rural areas with populations of 50,000 or fewer", "Socially Disadvantaged Groups Grants_Additional Information_Program Type": "Grant", "Socially Disadvantaged Groups Grants_Additional Information_Terms and Conditions": "Maximum grant amount is $175,000", "Socially Disadvantaged Groups Grants_Additional Information_Website": "tinyurl.com/RBCSSDGG"}
+
+
+<!-- Page Break - Batch 20 -->
+
+
+json
+{
+  "Program_1": "Strategic Economic and Community Development",
+  "Overview_1": "Bolsters participating USDA Rural Development program funds by supporting projects that promote and implement strategic community investment plans. Funds can be used to help amplify a rural community's unique strengths, identify additional resources, convene partners, and leverage other federal, state, local, and private funding.",
+  "Applicant_1": "Applicant requirements vary depending on the RD program under which you are applying.",
+  "Population_1": "Population requirements vary depending on the RD program under which you are applying.",
+  "Additional_Information_1": "The following RD programs participate in this program:\n• Community Connect Grants\nRural Business Development Grants\nCommunity Facilities programs\nWater and Waste Disposal programs\nProgram Type:\nLoan, grant, or loan guarantee, depending on which participating RD program is selected\nWebsite:\ntinyurl.com/RBCSSECD",
+  "Program_2": "Value-Added Producer Grants",
+  "Overview_2": "Helps independent agricultural producers begin processing and marketing activities that add value to their products. Grant and matching funds can be used for planning activities and working capital expenses related to producing and marketing a value-added agricultural product. Examples include conducting feasibility studies, developing business plans, offsetting processing costs, handling marketing and advertising expenses, and paying certain inventory and salary expenses.",
+  "Applicant_2": "Independent producers, farmer and rancher cooperatives, producer groups, and majority-controlled, producer-based business ventures",
+  "Population_2": "N/A",
+  "Additional_Information_2": "Program Type: Grant\nTerms and Conditions:\nMaximum planning grant is $75,000; maximum working capital grant is $250,000\nWebsite:\ntinyurl.com/RBCSVAPG",
+  "page_number": "- 20 -"
+}
+
+
+<!-- Page Break - Batch 21 -->
+
+
+json
+{
+  "Program": "Advanced Biofuel Payment Program",
+  "Overview": "Increases production of advanced biofuels through quarterly payments to eligible producers. This program helps increase American energy independence and the private-sector supply of renewable energy.",
+  "Applicant": "Advanced biofuels producers and sellers, including individuals, corporations, companies, foundations, associations, governments, and schools",
+  "Population": "N/A",
+  "Additional Information": "Program Type: Payments\nTerms and Conditions: Payment amount depends on the number of eligible producers, the amount of advanced biofuel produced, and the amount of funds available.\nWebsite: tinyurl.com/RBCS9005",
+  "Program_2": "Biorefinery, Renewable Chemical, and Biobased Product Manufacturing Assistance Program",
+  "Overview_2": "Helps develop, build, or retrofit facilities to support new and emerging technologies, and produce advanced biofuels, renewable chemicals, and biobased products",
+  "Applicant_2": "Individuals, federally recognized Tribes, government organizations, cooperatives, associations of agricultural producers, national laboratories, institutions of higher education, rural electric co-ops, public power organizations, and credit unions",
+  "Population_2": "N/A",
+  "Additional Information_2": "Program Type: Loan guarantee\nTerms and Conditions: Maximum loan guarantee is $250 million. Rates and terms are negotiated between the lender and the borrower. The borrower must make a significant cash equity contribution investment.\nWebsite: tinyurl.com/RBCS9003",
+  "Program_3": "Higher Blends Infrastructure Incentive Program",
+  "Overview_3": "Increases the sale and use of higher blends of ethanol (such as E15) and biodiesel (B20) by expanding the infrastructure supporting renewable fuels created from U.S. agricultural products",
+  "Applicant_3": "Transportation fueling facilities such as fueling stations, convenience stores, hypermarket fueling stations, fleet facilities and fuel distribution facilities",
+  "Population_3": "N/A",
+  "Additional Information_3": "Program Type: Grant\nTerms and Conditions: Cost-share grants of up to 50 percent of the total eligible project costs up to $5 million\nWebsite: tinyurl.com/RBCSHBIIP",
+  "Program_4": "Rural Energy for America Program Energy Audit and Renewable Energy Development Assistance Grants",
+  "Overview_4": "Assists rural small businesses and agricultural producers by conducting and promoting energy audits and providing Renewable Energy Development Assistance",
+  "Applicant_4": "Government organizations, federally recognized Tribes, institutions of higher education, rural electric cooperatives, public power entities, resource conservation and development councils",
+  "Population_4": "Businesses must be in rural areas with populations fewer than 50,000. (Population restrictions do not apply to agriculture producers)",
+  "Additional Information_4": "Program Type: Grant\nTerms and Conditions: Maximum grant amount is $100,000 annually\nWebsite: tinyurl.com/RBCSREAPEA"
+}
+
+
+<!-- Page Break - Batch 22 -->
+
+
+json
+{"Program": "Rural Energy for America Program Renewable Energy Systems and Energy Efficiency Loans and Grants", "Overview": "Provides funding to agricultural producers and rural small businesses for renewable energy systems or to make energy efficiency improvements", "Applicant": "Agricultural producers; small businesses", "Population": "Rural areas with populations of 50,000 or fewer", "Additional Information": "Program Type: Loan, grant\nTerms and Conditions: Loan term not to exceed 40 years. Interest rates negotiated between the lender and borrower. Loans receive a 75-percent guarantee. (Guarantee percentages can change. See website for details.)\nWebsite:\ntinyurl.com/RBCSREAPEE", "Program_2": "Rural Energy for America Program Technical Assistance Grants", "Overview_2": "This program provides technical assistance funds to agricultural producers and rural small businesses applying for the Rural Energy for America Program (REAP).", "Applicant_2": "State, Tribal, or local governments or their authorized agencies, nonprofit organizations, institutions of higher education, rural electric cooperatives, and public power entities, among others", "Population_2": "REAP TAG applicants can be head-quartered in nonrural areas, but they must provide assistance to ag producers and small businesses located solely in rural areas", "Additional Information_2": "Program Type: Grant\nPriority is given to those helping two or more of these types of REAP applicants: ag producers, Tribal communities, and projects supporting disadvantaged or distressed communities, using underutilized technologies, or expected to cost less than $20,000.\nWebsite:\ntinyurl.com/RBCSREAPTAG", "Program_3": "Rural Energy Pilot Program Grant", "Overview_3": "Helps rural communities develop renewable energy", "Applicant_3": "Rural Energy Community Partnerships", "Population_3": "See eligible areas at this link:\ngo.usa.gov/xz7kz", "Additional Information_3": "Program Type: Grant\nTerms and Conditions: 3-year, cost-sharing grant. Covers up to 80 percent of total project costs up to $2 million.\nWebsite:\ntinyurl.com/RBCSREPP"}
+
+
+<!-- Page Break - Batch 23 -->
+
+
+json
+{"Program":"Rural Development Program Purposes","Land and Buildings":"Land and Buildings","Machinery and Equipment":"Machinery and Equipment","Working Capital":"Working Capital","Infrastructure":"Infrastructure","Technical Assistance and Training":"Technical Assistance and Training","Rural Housing Service Single Family Housing":"Rural Housing Service Single Family Housing","Housing Preservation Grants":"X","Mutual Self-Help Housing Technical Assistance Grants":"X","Single Family Housing Direct Loans":"X","Single Family Housing Home Loan Guarantees":"X","Single Family Housing Repair Loans and Grants":"X","Rural Housing Site Loans":"X","Rural Housing Service Multifamily Housing":"Rural Housing Service Multifamily Housing","Multifamily Housing Direct Loans":"X","Multifamily Housing Loan Guarantees":"X","Multifamily Housing Rental Assistance":"X","Multifamily Housing Tenant Vouchers":"X","Multifamily Preservation and Revitalization Loans and Grants":"X","Multifamily Nonprofit Transfer Technical Assistance Grants":"X","Off-Farm Labor Housing Direct Loans and Grants":"X","Off-Farm Labor Housing Technical Assistance Grants":"X","On-Farm Labor Housing Loans":"X","Rural Housing Service Community Facilities":"Rural Housing Service Community Facilities","Community Facilities Direct Loans, Grants and Loan Guarantees":"X","Community Facilities Technical Assistance and Training Grants":"X","Multifamily Housing Direct Loans_Infrastructure":"X","Multifamily Housing Loan Guarantees_Infrastructure":"X","Multifamily Preservation and Revitalization Loans and Grants_Infrastructure":"X","Off-Farm Labor Housing Direct Loans and Grants_Infrastructure":"X","On-Farm Labor Housing Loans_Infrastructure":"X","Community Facilities Direct Loans, Grants and Loan Guarantees_Machinery and Equipment":"X","Community Facilities Direct Loans, Grants and Loan Guarantees_Infrastructure":"X"}
+
+
+<!-- Page Break - Batch 24 -->
+
+
+json
+{"Program": "Rural Development Program Purposes",
+"Land and Buildings": "Land\nand\nBuildings",
+"Machinery and Equipment": "Machinery\nand\nEquipment",
+"Working Capital": "Working\nCapital",
+"Infrastructure": "Infrastructure",
+"Technical Assistance and Training": "Technical\nAssistance\nand Training",
+"Community Facilities (continued)": "Community Facilities (continued)",
+"Rural Community Development Initiative Grants": "Rural Community Development\nInitiative Grants",
+"Tribal College Initiative Grants": "Tribal College Initiative Grants",
+"Tribal College Initiative Grants_Land and Buildings": "X",
+"Tribal College Initiative Grants_Machinery and Equipment": "X",
+"Tribal College Initiative Grants_Infrastructure": "X",
+"Rural Utilities Service | Electric": "Rural Utilities Service | Electric",
+"Denali Commission High Energy Cost Grants": "Denali Commission\nHigh Energy Cost Grants",
+"Denali Commission High Energy Cost Grants_Land and Buildings": "X",
+"Denali Commission High Energy Cost Grants_Machinery and Equipment": "X",
+"Denali Commission High Energy Cost Grants_Working Capital": "X",
+"Denali Commission High Energy Cost Grants_Infrastructure": "X",
+"Denali Commission High Energy Cost Grants_Technical Assistance and Training": "X",
+"Distributed Generation Energy Project Financing": "Distributed Generation\nEnergy Project Financing",
+"Distributed Generation Energy Project Financing_Land and Buildings": "X",
+"Distributed Generation Energy Project Financing_Machinery and Equipment": "X",
+"Distributed Generation Energy Project Financing_Working Capital": "X",
+"Distributed Generation Energy Project Financing_Infrastructure": "X",
+"Electric Infrastructure Loans and Loan Guarantees": "Electric Infrastructure Loans and\nLoan Guarantees",
+"Electric Infrastructure Loans and Loan Guarantees_Land and Buildings": "X",
+"Electric Infrastructure Loans and Loan Guarantees_Machinery and Equipment": "X",
+"Electric Infrastructure Loans and Loan Guarantees_Working Capital": "X",
+"Electric Infrastructure Loans and Loan Guarantees_Infrastructure": "X",
+"Energy Efficiency and Conservation Loans": "Energy Efficiency and\nConservation Loans",
+"Energy Efficiency and Conservation Loans_Land and Buildings": "X",
+"Energy Efficiency and Conservation Loans_Machinery and Equipment": "X",
+"Energy Efficiency and Conservation Loans_Working Capital": "X",
+"Energy Efficiency and Conservation Loans_Infrastructure": "X",
+"Energy Resource Conservation Program": "Energy Resource\nConservation Program",
+"Energy Resource Conservation Program_Machinery and Equipment": "X",
+"Energy Resource Conservation Program_Working Capital": "X",
+"Energy Resource Conservation Program_Infrastructure": "X",
+"High Energy Cost Grants": "High Energy Cost Grants",
+"High Energy Cost Grants_Land and Buildings": "X",
+"High Energy Cost Grants_Machinery and Equipment": "X",
+"High Energy Cost Grants_Working Capital": "X",
+"High Energy Cost Grants_Infrastructure": "X",
+"High Energy Cost Grants_Technical Assistance and Training": "X",
+"Rural Energy Savings Program": "Rural Energy Savings Program",
+"Rural Energy Savings Program_Land and Buildings": "X",
+"Rural Energy Savings Program_Machinery and Equipment": "X",
+"Rural Energy Savings Program_Working Capital": "X",
+"Rural Energy Savings Program_Infrastructure": "X",
+"State Bulk Revolving Loan Fund": "State Bulk Revolving Loan Fund",
+"State Bulk Revolving Loan Fund_Working Capital": "X",
+"Rural Utilities Service Telecommunications": "Rural Utilities Service\nTelecommunications",
+"Community Connect Grants": "Community Connect Grants",
+"Community Connect Grants_Land and Buildings": "X",
+"Community Connect Grants_Working Capital": "X",
+"Community Connect Grants_Infrastructure": "X",
+"Distance Learning and Telemedicine Grants": "Distance Learning and\nTelemedicine Grants",
+"Distance Learning and Telemedicine Grants_Machinery and Equipment": "X",
+"Distance Learning and Telemedicine Grants_Working Capital": "X",
+"Distance Learning and Telemedicine Grants_Infrastructure": "X",
+"ReConnect Loans and Grants": "ReConnect Loans and Grants",
+"ReConnect Loans and Grants_Land and Buildings": "X",
+"ReConnect Loans and Grants_Machinery and Equipment": "X",
+"ReConnect Loans and Grants_Working Capital": "X",
+"ReConnect Loans and Grants_Infrastructure": "X",
+"Rural Broadband Loans, Loan and Grant Combinations, and Loan Guarantees": "Rural Broadband Loans, Loan and\nGrant Combinations, and Loan\nGuarantees",
+"Rural Broadband Loans, Loan and Grant Combinations, and Loan Guarantees_Land and Buildings": "X",
+"Rural Broadband Loans, Loan and Grant Combinations, and Loan Guarantees_Machinery and Equipment": "X",
+"Rural Broadband Loans, Loan and Grant Combinations, and Loan Guarantees_Working Capital": "X",
+"Rural Broadband Loans, Loan and Grant Combinations, and Loan Guarantees_Infrastructure": "X",
+"Telecommunications Infrastructure Loans and Loan Guarantees": "Telecommunications Infrastructure\nLoans and Loan Guarantees",
+"Telecommunications Infrastructure Loans and Loan Guarantees_Land and Buildings": "X",
+"Telecommunications Infrastructure Loans and Loan Guarantees_Machinery and Equipment": "X",
+"Telecommunications Infrastructure Loans and Loan Guarantees_Working Capital": "X",
+"Telecommunications Infrastructure Loans and Loan Guarantees_Infrastructure": "X"}
+
+
+<!-- Page Break - Batch 25 -->
+
+
+json
+{"Program": "Rural Utilities Service\nWater and Environment", "Land and Buildings": null, "Machinery and Equipment": null, "Working Capital": null, "Infrastructure": null, "Technical Assistance and Training": null, "Circuit Rider Program \u2013 Technical\nAssistance for Rural Water Systems": "x", "Emergency Community Water\nAssistance Grants": "x", "Grants for Rural and\nNative Alaskan Villages": "x", "Individual Water and Wastewater\nGrants for Colonias": "x", "Revolving Funds for Financing Water\nand Wastewater Projects": "x", "Rural Decentralized\nWater Systems Grant": "x", "Special Evaluation Assistance for\nRural Communities and Households": "x", "Solid Waste Management Grants": "x", "Technical Assistance and Training\nfor Innovative Regional Wastewater\nTreatment Grant (Pilot)": "x", "Water and Waste Disposal Grants to\nAlleviate Health Risks on Tribal Lands\nand Colonias": "x", "Water and Waste Disposal\nLoans and Grants": "x", "Water and Waste Disposal\nLoan Guarantees": "x", "Water and Waste Disposal\nPredevelopment Planning Grants": "x", "Water and Waste Disposal Technical\nAssistance and Training Grants": "x", "- 25 -": null}
+
+
+<!-- Page Break - Batch 26 -->
+
+
+json
+{"Rural Development Program Purposes": "","Program": "","Land and Buildings": "","Machinery and Equipment": "","Working Capital": "","Infrastructure": "","Technical Assistance and Training": "","Rural Business-Cooperative Service": "","Agriculture Innovation Center Program": "x","Business and Industry Loan Guarantees": "x","Delta Health Care Services Grants": "x","Fertilizer Production Expansion Program": "x","Food Supply Chain Guaranteed Loan Program": "x","Intermediary Relending Program": "x","Rural Business Development Grants": "x","Rural Business Investment Program": "x","Rural Cooperative Development Grants": "x","Rural Economic Development Loan and Grant Program": "x","Rural Innovation Stronger Economy (RISE) Grant Program": "x","Rural Microentrepreneur Assistance Program": "x","Socially Disadvantaged Groups Grants": "x","Value-Added Producer Grants": "x","x": "x","- 26 -": ""}
+
+
+<!-- Page Break - Batch 27 -->
+
+
+json
+{"Rural Development Program Purposes": "","Program": "","Land and Buildings": "","Machinery and Equipment": "","Working Capital": "","Infrastructure": "","Technical Assistance and Training": "","Rural Business-Cooperative Service Energy": "","Advanced Biofuel Payment Program": "X","Biorefinery, Renewable Chemical, and Biobased Product Manufacturing Assistance Program": "X","Higher Blends Infrastructure Incentive Program": "X","Rural Energy Pilot Program Grant": "X","Rural Energy for America Program Energy Audit and Renewable Energy Development Assistance Grants": "X","Rural Energy for America Program Renewable Energy Systems and Energy Efficiency Loans and Grants": "X","Rural Energy for America Program Technical Assistance Grants": "X","Rural Energy Pilot Program Grant": "X","x_Biorefinery": "X","x_Higher": "X","x_Rural_Energy_Pilot": "X","x_Rural_Energy_America_Renewable": "X","x_Rural_Energy_Pilot_Grant": "X","page_number": "- 27 -"}
+
+
+<!-- Page Break - Batch 28 -->
+
+
+json
+{"document_title": "USDA Rural Development State Office Information", "covers_all_states": "USDA Rural Development covers all states and territories.", "contact_local_office": "Contact your local Rural Development office to learn more about our programs and receive assistance.", "state_office_link": "tinyurl.com/RDStateOffices.", "notes": "Notes:", "file_complaint_form_link": "tinyurl.com/USDA-AD3027.", "complaint_phone": "(866) 632-9992", "mail_to_address": "U.S. Department of Agriculture\nOffice of the Assistant Secretary for Civil Rights\n1400 Independence Avenue, SW\nWashington, D.C. 20250-9410", "complaint_fax": "(202) 690-7442", "complaint_email": "program.intake@usda.gov", "page_number": "28"}
+
+
+<!-- Page Break - Batch 29 -->
+
+
+json
+{"rd.usda.gov": "rd.usda.gov", "USDA is an equal opportunity provider, employer, and lender.": "USDA is an equal opportunity provider, employer, and lender.", "RD-19005": "RD-19005", "Revised April 2025": "Revised April 2025"}
