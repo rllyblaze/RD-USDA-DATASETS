@@ -1,0 +1,52 @@
+<ctrl94>thought
+The user wants to extract all information from the provided image and output it as a flat JSON object.
+I need to go through each section of the document and identify key-value pairs.
+
+**Document Title:** Multifamily Guaranteed Rural Rental Housing
+
+**Section: What does this program do?**
+- USDA Rural Development provides up to a 90 percent guarantee for loans made by commercial lenders to borrowers developing or rehabilitating multifamily rental housing for low- and moderate-income tenants in rural areas.
+
+**Section: Program Features**
+- **Loan Amount:**
+    - The principal obligation is limited to maximum per-unit limits under Section 207(c) of the National Housing Act (link: https://go.usa.gov/xe5dn).
+    - Loan-to-value limit for a nonprofit cannot exceed 97 percent.
+    - Loan-to-value limit for a for-profit entity cannot exceed 90 percent of the development costs.
+- **Guarantee Types:**
+    - Option One: Permanent Loan guarantee. The Agency guarantees the permanent financing only.
+    - Option Two: Construction and Permanent guarantee. The agency guarantees construction advances and permanent financing once regulatory requirements have been met.
+    - Option Three: Single Continuous guarantee for construction and permanent financing. Projects that have a loan-to-cost ratio of 70 percent or lower are eligible for this guarantee.
+- **Borrower's Equity:**
+    - For-profit: must provide at least 10 percent equity.
+    - Nonprofit: must provide at least 3 percent equity.
+
+**Section: Interest Rate**
+- Fixed rate negotiated between lender and borrower.
+
+**Section: Loan Terms**
+- Minimum: 25 years
+- Maximum: 40 years
+
+**Section: Eligible Lenders**
+- Lenders must demonstrate multifamily lending experience and the capacity to successfully carry out 
+all aspe
+cts of loan processing and asset management, including disposition and liquidation.
+
+**Section: Eligible Borrowers**
+- Nonprofit and for-profit corporations
+- Individuals, partnerships, and trusts
+- Most state and local governmental entities
+- Federally-recognized Tribes
+
+**Section: Tenant Requirements**
+- Tenant income cannot exceed 115 percent of the area median income adjusted for family size.
+- Rent for individual units is capped at 30 percent of 115 percent of the area median income, adjusted for family size.
+- To ensure the project remains affordable, the average rent for an entire project (including tenant-paid utilities) cannot exceed 30 percent of 100 percent of the area median income, adjusted for family size.
+
+Now I will structure this into a flat JSON object. I will try to create descriptive keys.<ctrl95>{"document_title": "Multifamily Guaranteed Rural Rental Housing", "program_description": "USDA Rural Development provides up to a 90 percent guarantee for loans made by commercial lenders to borrowers developing or rehabilitating multifamily rental housing for low- and moderate-income tenants in rural areas.", "program_features_loan_amount_principal_obligation_limit": "Limited to maximum per-unit limits under Section 207(c) of the National Housing Act", "program_features_loan_amount_national_housing_act_link": "https://go.usa.gov/xe5dn", "program_features_loan_amount_nonprofit_loan_to_value_limit": "97 percent of development costs", "program_features_loan_amount_for_profit_loan_to_value_limit": "90 percent of development costs", "program_features_guarantee_type_option_one": "Permanent Loan guarantee (Agency guarantees permanent financing only)", "program_features_guarantee_type_option_two": "Construction and Permanent guarantee (Agency guarantees construction advances and permanent financing once regulatory requirements have been met)", "program_features_guarantee_type_option_three": "Single Continuous guarantee for construction and permanent financing (Projects with a loan-to-cost ratio of 70 percent or lower are eligible)", "program_features_borrower_equity_for_profit": "At least 10 percent equity", "program_features_borrower_equity_nonprofit": "At least 3 percent equity", "interest_rate": "Fixed rate negotiated between lender and borrower", "loan_terms_minimum": "25 years", "loan_terms_maximum": "40 years", "eligible_lenders_requirements": "Lenders must demonstrate multifamily lending experience and the capacity to successfully carry out all aspects of loan processing and asset management, including disposition and liquidation.", "eligible_borrowers_type_1": "Nonprofit and for-profit corporations", "eligible_borrowers_type_2": "Individuals, partnerships, and trusts", "eligible_borrowers_type_3": "Most state and local governmental entities", "eligible_borrowers_type_4": "Federally-recognized Tribes", "tenant_requirements_income_cap": "Cannot exceed 115 percent of the area median income adjusted for family size", "tenant_requirements_individual_unit_rent_cap": "30 percent of 115 percent of the area median income, adjusted for family size", "tenant_requirements_project_average_rent_cap": "30 percent of 100 percent of the area median income, adjusted for family size (including tenant-paid utilities)"}
+
+
+<!-- Page Break - Batch 2 -->
+
+
+{"document_title": "Multifamily Guaranteed Rural Rental Housing", "governing_program_code_of_federal_regulation_description": "Code of Federal Regulation, 7 CFR Part 3565", "governing_program_code_of_federal_regulation_link": "https://go.usa.gov/xMfcA", "governing_program_handbook_description": "Origination and Servicing Handbook, HB-1-3565", "governing_program_handbook_link": "https://www.rd.usda.gov/files/HB-1-3565.pdf", "governing_program_authorization_description": "This program is authorized by Title V of the Housing Act of 1949", "governing_program_authorization_link": "https://go.usa.gov/xMwFR", "contact_toll_free_number": "800-292-8293", "contact_website_url": "https://www.rd.usda.gov/multifamily", "contact_website_instructions": "scroll to the bottom of the page to find your processing and review branch, based on the state in which your project is located.", "note_citations_and_other_information_may_be_subject_to_change": true, "note_consult_program_instructions_recommended": true, "note_contact_multifamily_housing_staff_for_assistance_recommended": true, "note_additional_forms_resources_and_program_information_available_at_rd_usda_gov": true, "note_usda_equal_opportunity_statement": "USDA is an equal opportunity provider, employer, and lender.", "document_publication_date": "December 2021"}
