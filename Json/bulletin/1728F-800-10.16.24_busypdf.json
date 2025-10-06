@@ -1,0 +1,7051 @@
+{
+  "pdfDoc" : "1728F-800-10.16.24.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 240.78,
+      "bottomY" : 86.3108,
+      "rightX" : 374.496,
+      "topY" : 74.3108,
+      "baseLineY" : 83.16,
+      "fontId" : 1,
+      "text" : "RUS Bulletin 1728F-800 "
+    }, {
+      "leftX" : 247.32,
+      "bottomY" : 102.8708,
+      "rightX" : 368.0174,
+      "topY" : 90.8708,
+      "baseLineY" : 99.72,
+      "fontId" : 1,
+      "text" : "Viewing Instructions "
+    }, {
+      "leftX" : 84,
+      "bottomY" : 119.4308,
+      "rightX" : 87.336,
+      "topY" : 107.4308,
+      "baseLineY" : 116.28,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 84,
+      "bottomY" : 146.4308,
+      "rightX" : 87.336,
+      "topY" : 134.4308,
+      "baseLineY" : 143.28,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 159.9371,
+      "rightX" : 395.796,
+      "topY" : 147.9371,
+      "baseLineY" : 157.08,
+      "fontId" : 2,
+      "text" : "There are both bookmarks and links imbedded in this file. "
+    }, {
+      "leftX" : 84,
+      "bottomY" : 173.8571,
+      "rightX" : 87.336,
+      "topY" : 161.8571,
+      "baseLineY" : 170.9999,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 187.9508,
+      "rightX" : 240.876,
+      "topY" : 175.9508,
+      "baseLineY" : 184.7999,
+      "fontId" : 1,
+      "text" : "Browsing with bookmarks "
+    }, {
+      "leftX" : 84,
+      "bottomY" : 203.9108,
+      "rightX" : 87.336,
+      "topY" : 191.9108,
+      "baseLineY" : 200.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 217.4771,
+      "rightX" : 381.576,
+      "topY" : 205.4771,
+      "baseLineY" : 214.62,
+      "fontId" : 2,
+      "text" : "Bookmarks mark parts of a document for quick access. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 245.4372,
+      "rightX" : 311.436,
+      "topY" : 233.4372,
+      "baseLineY" : 242.58,
+      "fontId" : 2,
+      "text" : "To jump to a topic by using its bookmark: "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 273.335,
+      "rightX" : 99,
+      "topY" : 261.335,
+      "baseLineY" : 270.6,
+      "fontId" : 3,
+      "text" : "1."
+    }, {
+      "leftX" : 99,
+      "bottomY" : 273.4572,
+      "rightX" : 102.336,
+      "topY" : 261.4572,
+      "baseLineY" : 270.6,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108.12,
+      "bottomY" : 273.4572,
+      "rightX" : 468.9973,
+      "topY" : 261.4572,
+      "baseLineY" : 270.6,
+      "fontId" : 2,
+      "text" : "The bookmarks are shown on the left side of the screen. If a triangle "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 287.2572,
+      "rightX" : 456.2175,
+      "topY" : 275.2572,
+      "baseLineY" : 284.4,
+      "fontId" : 2,
+      "text" : "appears to the left of the bookmark, click the triangle to show or hide "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 301.0572,
+      "rightX" : 221.436,
+      "topY" : 289.0572,
+      "baseLineY" : 298.2,
+      "fontId" : 2,
+      "text" : "subordinate bookmarks. "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 327.635,
+      "rightX" : 98.94,
+      "topY" : 315.635,
+      "baseLineY" : 324.9,
+      "fontId" : 3,
+      "text" : "2."
+    }, {
+      "leftX" : 98.94,
+      "bottomY" : 327.7572,
+      "rightX" : 102.276,
+      "topY" : 315.7572,
+      "baseLineY" : 324.9,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108.06,
+      "bottomY" : 327.7572,
+      "rightX" : 507.996,
+      "topY" : 315.7572,
+      "baseLineY" : 324.9,
+      "fontId" : 2,
+      "text" : "To go to the destination specified by a bookmark, click the bookmark text or "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 341.5572,
+      "rightX" : 414.216,
+      "topY" : 329.5572,
+      "baseLineY" : 338.7,
+      "fontId" : 2,
+      "text" : "double- click the page icon to the left of the bookmark name. "
+    }, {
+      "leftX" : 84,
+      "bottomY" : 355.6572,
+      "rightX" : 87.336,
+      "topY" : 343.6572,
+      "baseLineY" : 352.8,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 369.7508,
+      "rightX" : 178.116,
+      "topY" : 357.7508,
+      "baseLineY" : 366.6,
+      "fontId" : 1,
+      "text" : "Following links "
+    }, {
+      "leftX" : 84,
+      "bottomY" : 383.5508,
+      "rightX" : 87.336,
+      "topY" : 371.5508,
+      "baseLineY" : 380.4,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 396.8171,
+      "rightX" : 512.316,
+      "topY" : 384.8171,
+      "baseLineY" : 393.96,
+      "fontId" : 2,
+      "text" : "The various indices in this bulletin use links to allow the user to quickly go to the "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 410.3171,
+      "rightX" : 177.3359,
+      "topY" : 398.3171,
+      "baseLineY" : 407.46,
+      "fontId" : 2,
+      "text" : "desired section. "
+    }, {
+      "leftX" : 83.9999,
+      "bottomY" : 424.4771,
+      "rightX" : 87.3359,
+      "topY" : 412.4771,
+      "baseLineY" : 421.62,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 438.3371,
+      "rightX" : 174.5759,
+      "topY" : 426.3371,
+      "baseLineY" : 435.48,
+      "fontId" : 2,
+      "text" : "To follow a link: "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 465.5149,
+      "rightX" : 98.9999,
+      "topY" : 453.5149,
+      "baseLineY" : 462.78,
+      "fontId" : 3,
+      "text" : "1."
+    }, {
+      "leftX" : 98.9999,
+      "bottomY" : 465.6371,
+      "rightX" : 102.3359,
+      "topY" : 453.6371,
+      "baseLineY" : 462.78,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108.1199,
+      "bottomY" : 465.6371,
+      "rightX" : 479.496,
+      "topY" : 453.6371,
+      "baseLineY" : 462.78,
+      "fontId" : 2,
+      "text" : "Move the pointer over a linked area. The pointer changes to a pointing "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 479.4371,
+      "rightX" : 274.776,
+      "topY" : 467.4371,
+      "baseLineY" : 476.58,
+      "fontId" : 2,
+      "text" : "finger when positioned over a link. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 506.8549,
+      "rightX" : 99,
+      "topY" : 494.8549,
+      "baseLineY" : 504.12,
+      "fontId" : 3,
+      "text" : "2."
+    }, {
+      "leftX" : 99,
+      "bottomY" : 506.9771,
+      "rightX" : 102.336,
+      "topY" : 494.9771,
+      "baseLineY" : 504.12,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108.18,
+      "bottomY" : 506.9771,
+      "rightX" : 227.736,
+      "topY" : 494.9771,
+      "baseLineY" : 504.12,
+      "fontId" : 2,
+      "text" : "Click to follow the link. "
+    }, {
+      "leftX" : 84,
+      "bottomY" : 520.8971,
+      "rightX" : 87.336,
+      "topY" : 508.8971,
+      "baseLineY" : 518.04,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 534.9908,
+      "rightX" : 209.616,
+      "topY" : 522.9908,
+      "baseLineY" : 531.84,
+      "fontId" : 1,
+      "text" : "General information: "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 562.0572,
+      "rightX" : 500.616,
+      "topY" : 550.0572,
+      "baseLineY" : 559.2,
+      "fontId" : 2,
+      "text" : "You can use the buttons at the top of the screen for going from page to page. "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 575.8571,
+      "rightX" : 500.6172,
+      "topY" : 563.8571,
+      "baseLineY" : 573,
+      "fontId" : 2,
+      "text" : "Also, by right-clicking your mouse, you will see a navigation box. For details, "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 589.6571,
+      "rightX" : 333.5159,
+      "topY" : 577.6571,
+      "baseLineY" : 586.8,
+      "fontId" : 2,
+      "text" : "please see the Acrobat Reader help screens. "
+    }, {
+      "leftX" : 84,
+      "bottomY" : 792.2381,
+      "rightX" : 84.2836,
+      "topY" : 791.2381,
+      "baseLineY" : 792,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 790.02001953125,
+    "txtRns" : [ {
+      "leftX" : 58.74,
+      "bottomY" : 30.2708,
+      "rightX" : 555.936,
+      "topY" : 18.2708,
+      "baseLineY" : 27.12,
+      "fontId" : 1,
+      "text" : "Disclaimer: The contents of this guidance document does not have the force and effect "
+    }, {
+      "leftX" : 58.74,
+      "bottomY" : 44.3108,
+      "rightX" : 555.936,
+      "topY" : 32.3108,
+      "baseLineY" : 41.16,
+      "fontId" : 1,
+      "text" : "of law and is not meant to bind the public in any way. This document is intended only to "
+    }, {
+      "leftX" : 58.74,
+      "bottomY" : 58.3508,
+      "rightX" : 531.1559,
+      "topY" : 46.3508,
+      "baseLineY" : 55.2,
+      "fontId" : 1,
+      "text" : "provide clarity to the public regarding existing requirements under the law or agency "
+    }, {
+      "leftX" : 58.74,
+      "bottomY" : 72.3908,
+      "rightX" : 109.176,
+      "topY" : 60.3908,
+      "baseLineY" : 69.2399,
+      "fontId" : 1,
+      "text" : "policies. "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 86.3707,
+      "rightX" : 56.316,
+      "topY" : 74.3707,
+      "baseLineY" : 83.2199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 100.1707,
+      "rightX" : 56.316,
+      "topY" : 88.1707,
+      "baseLineY" : 97.0199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 124.7107,
+      "rightX" : 56.316,
+      "topY" : 112.7107,
+      "baseLineY" : 121.5599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 146.46,
+      "bottomY" : 138.9265,
+      "rightX" : 466.7493,
+      "topY" : 125.9265,
+      "baseLineY" : 135.42,
+      "fontId" : 5,
+      "text" : "UNITED STATES DEPARTMENT OF AGRICULTURE"
+    }, {
+      "leftX" : 466.68,
+      "bottomY" : 138.6568,
+      "rightX" : 470.016,
+      "topY" : 126.6568,
+      "baseLineY" : 135.42,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 246.12,
+      "bottomY" : 155.0368,
+      "rightX" : 371.1361,
+      "topY" : 143.0368,
+      "baseLineY" : 151.8,
+      "fontId" : 6,
+      "text" : "Rural Utilities Service "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 179.5768,
+      "rightX" : 56.316,
+      "topY" : 167.5768,
+      "baseLineY" : 176.34,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 250.74,
+      "bottomY" : 193.2909,
+      "rightX" : 367.416,
+      "topY" : 181.2909,
+      "baseLineY" : 190.14,
+      "fontId" : 1,
+      "text" : "BULLETIN 1728F-800 "
+    }, {
+      "leftX" : 264.36,
+      "bottomY" : 212.7309,
+      "rightX" : 353.736,
+      "topY" : 200.7309,
+      "baseLineY" : 209.58,
+      "fontId" : 1,
+      "text" : "RD-GD-1998-29 "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 241.5308,
+      "rightX" : 56.316,
+      "topY" : 229.5308,
+      "baseLineY" : 238.38,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 91.26,
+      "bottomY" : 255.3308,
+      "rightX" : 420.036,
+      "topY" : 243.3308,
+      "baseLineY" : 252.18,
+      "fontId" : 1,
+      "text" : "SUBJECT: Assembly Unit Numbers and Standard Format "
+    }, {
+      "leftX" : 91.26,
+      "bottomY" : 282.9309,
+      "rightX" : 114.636,
+      "topY" : 270.9309,
+      "baseLineY" : 279.78,
+      "fontId" : 1,
+      "text" : "TO: "
+    }, {
+      "leftX" : 122.22,
+      "bottomY" : 282.6372,
+      "rightX" : 374.3161,
+      "topY" : 270.6372,
+      "baseLineY" : 279.78,
+      "fontId" : 2,
+      "text" : "RUS Electric Borrowers and RUS Electric Staff "
+    }, {
+      "leftX" : 91.26,
+      "bottomY" : 310.4709,
+      "rightX" : 193.344,
+      "topY" : 298.4709,
+      "baseLineY" : 307.32,
+      "fontId" : 1,
+      "text" : "EFFECTIVE DATE"
+    }, {
+      "leftX" : 193.32,
+      "bottomY" : 310.1772,
+      "rightX" : 294.636,
+      "topY" : 298.1772,
+      "baseLineY" : 307.32,
+      "fontId" : 2,
+      "text" : ": Date of Approval "
+    }, {
+      "leftX" : 91.56,
+      "bottomY" : 337.5309,
+      "rightX" : 200.844,
+      "topY" : 325.5308,
+      "baseLineY" : 334.38,
+      "fontId" : 1,
+      "text" : "EXPIRATION DATE"
+    }, {
+      "leftX" : 200.82,
+      "bottomY" : 337.2371,
+      "rightX" : 207.456,
+      "topY" : 325.2371,
+      "baseLineY" : 334.38,
+      "fontId" : 2,
+      "text" : ": "
+    }, {
+      "leftX" : 211.32,
+      "bottomY" : 337.2371,
+      "rightX" : 262.356,
+      "topY" : 325.2371,
+      "baseLineY" : 334.38,
+      "fontId" : 2,
+      "text" : "Indefinite "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 351.5771,
+      "rightX" : 56.316,
+      "topY" : 339.5771,
+      "baseLineY" : 348.72,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 92.1,
+      "bottomY" : 365.6708,
+      "rightX" : 275.592,
+      "topY" : 353.6708,
+      "baseLineY" : 362.52,
+      "fontId" : 1,
+      "text" : "OFFICE OF PRIMARY INTEREST"
+    }, {
+      "leftX" : 275.64,
+      "bottomY" : 365.3771,
+      "rightX" : 507.636,
+      "topY" : 353.3771,
+      "baseLineY" : 362.52,
+      "fontId" : 2,
+      "text" : ": Distribution Branch, Electric Staff Division "
+    }, {
+      "leftX" : 52.9799,
+      "bottomY" : 380.5571,
+      "rightX" : 56.3159,
+      "topY" : 368.5571,
+      "baseLineY" : 377.7,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 92.2199,
+      "bottomY" : 393.8708,
+      "rightX" : 224.724,
+      "topY" : 381.8708,
+      "baseLineY" : 390.72,
+      "fontId" : 1,
+      "text" : "FILING INSTRUCTIONS"
+    }, {
+      "leftX" : 224.7,
+      "bottomY" : 393.5771,
+      "rightX" : 497.616,
+      "topY" : 381.5771,
+      "baseLineY" : 390.72,
+      "fontId" : 2,
+      "text" : ": This is a new bulletin. File with 7 CFR 1728. This  "
+    }, {
+      "leftX" : 92.4,
+      "bottomY" : 406.4171,
+      "rightX" : 457.956,
+      "topY" : 394.4171,
+      "baseLineY" : 403.56,
+      "fontId" : 2,
+      "text" : "bulletin can be accessed via the Internet on the RUS website at  "
+    }, {
+      "leftX" : 92.4,
+      "bottomY" : 419.2571,
+      "rightX" : 155.076,
+      "topY" : 407.2571,
+      "baseLineY" : 416.4,
+      "fontId" : 2,
+      "text" : "http://www. "
+    }, {
+      "leftX" : 153.18,
+      "bottomY" : 419.2571,
+      "rightX" : 228.576,
+      "topY" : 407.2571,
+      "baseLineY" : 416.4,
+      "fontId" : 2,
+      "text" : "usda.gov/rus. "
+    }, {
+      "leftX" : 92.76,
+      "bottomY" : 446.7308,
+      "rightX" : 151.404,
+      "topY" : 434.7308,
+      "baseLineY" : 443.58,
+      "fontId" : 1,
+      "text" : "PURPOSE"
+    }, {
+      "leftX" : 151.44,
+      "bottomY" : 446.4371,
+      "rightX" : 495.6386,
+      "topY" : 434.4371,
+      "baseLineY" : 443.58,
+      "fontId" : 2,
+      "text" : ": This bulletin explains and documents the Rural Utilities Service "
+    }, {
+      "leftX" : 93.36,
+      "bottomY" : 460.0571,
+      "rightX" : 494.1972,
+      "topY" : 448.0571,
+      "baseLineY" : 457.2,
+      "fontId" : 2,
+      "text" : "(RUS) construction assembly unit numbering scheme and a new, updated, "
+    }, {
+      "leftX" : 93.36,
+      "bottomY" : 473.6771,
+      "rightX" : 473.7961,
+      "topY" : 461.6771,
+      "baseLineY" : 470.8199,
+      "fontId" : 2,
+      "text" : "numbering format used in RUS Bulletin 1728F-803, \"Specifications and "
+    }, {
+      "leftX" : 93.36,
+      "bottomY" : 487.2971,
+      "rightX" : 514.356,
+      "topY" : 475.2971,
+      "baseLineY" : 484.4399,
+      "fontId" : 2,
+      "text" : "Drawings for 24. 9/14.4 kV Line Construction.\" This bulletin further explains the "
+    }, {
+      "leftX" : 93.36,
+      "bottomY" : 500.9171,
+      "rightX" : 468.8797,
+      "topY" : 488.9171,
+      "baseLineY" : 498.0599,
+      "fontId" : 2,
+      "text" : "meanings of the characters in the numbers assigned by the RUS to its "
+    }, {
+      "leftX" : 93.36,
+      "bottomY" : 514.5971,
+      "rightX" : 245.796,
+      "topY" : 502.5971,
+      "baseLineY" : 511.7399,
+      "fontId" : 2,
+      "text" : "construction assembly units. "
+    }, {
+      "leftX" : 249.48,
+      "bottomY" : 514.5971,
+      "rightX" : 515.0159,
+      "topY" : 502.5971,
+      "baseLineY" : 511.7399,
+      "fontId" : 2,
+      "text" : "Presently, this new numbering format is only used "
+    }, {
+      "leftX" : 93.36,
+      "bottomY" : 528.2171,
+      "rightX" : 242.136,
+      "topY" : 516.2171,
+      "baseLineY" : 525.3599,
+      "fontId" : 2,
+      "text" : "in RUS Bulletin 1728F-803. "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 542.0171,
+      "rightX" : 56.316,
+      "topY" : 530.0171,
+      "baseLineY" : 539.1599,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 555.8171,
+      "rightX" : 56.316,
+      "topY" : 543.8171,
+      "baseLineY" : 552.96,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 569.6171,
+      "rightX" : 56.316,
+      "topY" : 557.6171,
+      "baseLineY" : 566.7599,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 583.4171,
+      "rightX" : 56.316,
+      "topY" : 571.4171,
+      "baseLineY" : 580.5599,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 597.2171,
+      "rightX" : 56.316,
+      "topY" : 585.2171,
+      "baseLineY" : 594.3599,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 611.0171,
+      "rightX" : 56.316,
+      "topY" : 599.0171,
+      "baseLineY" : 608.1599,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.0923,
+      "bottomY" : 610.2862,
+      "rightX" : 205.8827,
+      "topY" : 592.7685,
+      "baseLineY" : 606.366,
+      "fontId" : 7,
+      "text" : "CHRISTOPH "
+    }, {
+      "leftX" : 204.2957,
+      "bottomY" : 611.294,
+      "rightX" : 314.637,
+      "topY" : 602.7895,
+      "baseLineY" : 609.3908,
+      "fontId" : 8,
+      "text" : "CHRISTOPHER MCLEAN "
+    }, {
+      "leftX" : 204.2957,
+      "bottomY" : 600.2612,
+      "rightX" : 280.9625,
+      "topY" : 591.7567,
+      "baseLineY" : 598.358,
+      "fontId" : 8,
+      "text" : "Digitally signed by "
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 624.8171,
+      "rightX" : 56.316,
+      "topY" : 612.8171,
+      "baseLineY" : 621.96,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.0923,
+      "bottomY" : 633.0118,
+      "rightX" : 199.5854,
+      "topY" : 615.4941,
+      "baseLineY" : 629.0916,
+      "fontId" : 7,
+      "text" : "ER MCLEAN"
+    }, {
+      "leftX" : 204.2957,
+      "bottomY" : 622.3267,
+      "rightX" : 315.7442,
+      "topY" : 613.8223,
+      "baseLineY" : 620.4236,
+      "fontId" : 8,
+      "text" : "Date: 2024.10.16 09:37:32 "
+    }, {
+      "leftX" : 204.2957,
+      "bottomY" : 633.3596,
+      "rightX" : 231.3209,
+      "topY" : 624.8551,
+      "baseLineY" : 631.4564,
+      "fontId" : 8,
+      "text" : "-04'00'"
+    }, {
+      "leftX" : 52.98,
+      "bottomY" : 646.1771,
+      "rightX" : 56.316,
+      "topY" : 634.1771,
+      "baseLineY" : 643.3199,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 87.9,
+      "bottomY" : 660.2152,
+      "rightX" : 221.6222,
+      "topY" : 647.2152,
+      "baseLineY" : 657.12,
+      "fontId" : 9,
+      "text" : "Assistant Administrator "
+    }, {
+      "leftX" : 87.9,
+      "bottomY" : 674.2534,
+      "rightX" : 189.7808,
+      "topY" : 660.2534,
+      "baseLineY" : 670.92,
+      "fontId" : 10,
+      "text" : "Electric Program"
+    }, {
+      "leftX" : 189.84,
+      "bottomY" : 673.7772,
+      "rightX" : 193.176,
+      "topY" : 661.7772,
+      "baseLineY" : 670.92,
+      "fontId" : 2,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.98,
+      "bottomY" : 39.161,
+      "rightX" : 82.7656,
+      "topY" : 29.161,
+      "baseLineY" : 36.78,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 426.78,
+      "bottomY" : 49.7639,
+      "rightX" : 525.24,
+      "topY" : 37.7639,
+      "baseLineY" : 46.92,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 490.74,
+      "bottomY" : 63.684,
+      "rightX" : 518.4,
+      "topY" : 51.684,
+      "baseLineY" : 60.84,
+      "fontId" : 12,
+      "text" : "Page "
+    }, {
+      "leftX" : 518.16,
+      "bottomY" : 63.21,
+      "rightX" : 525.165,
+      "topY" : 53.21,
+      "baseLineY" : 60.84,
+      "fontId" : 13,
+      "text" : "2 "
+    }, {
+      "leftX" : 248.58,
+      "bottomY" : 90.5708,
+      "rightX" : 379.956,
+      "topY" : 78.5708,
+      "baseLineY" : 87.42,
+      "fontId" : 1,
+      "text" : "TABLE OF CONTENTS "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 104.3708,
+      "rightX" : 83.316,
+      "topY" : 92.3708,
+      "baseLineY" : 101.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 117.8772,
+      "rightX" : 503.376,
+      "topY" : 105.8772,
+      "baseLineY" : 115.02,
+      "fontId" : 2,
+      "text" : "1. Construction Assembly Units, Drawings, Numbers, and Material…………… "
+    }, {
+      "leftX" : 525.0601,
+      "bottomY" : 117.8772,
+      "rightX" : 531.7321,
+      "topY" : 105.8772,
+      "baseLineY" : 115.02,
+      "fontId" : 2,
+      "text" : "3"
+    }, {
+      "leftX" : 531.2401,
+      "bottomY" : 117.8772,
+      "rightX" : 534.576,
+      "topY" : 105.8772,
+      "baseLineY" : 115.02,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 131.4972,
+      "rightX" : 369.276,
+      "topY" : 119.4972,
+      "baseLineY" : 128.64,
+      "fontId" : 2,
+      "text" : "2. Categories and Subcategories of Assembly Units "
+    }, {
+      "leftX" : 366.24,
+      "bottomY" : 131.4972,
+      "rightX" : 524.1353,
+      "topY" : 119.4972,
+      "baseLineY" : 128.64,
+      "fontId" : 2,
+      "text" : "..............................................."
+    }, {
+      "leftX" : 524.1593,
+      "bottomY" : 131.4972,
+      "rightX" : 532.7513,
+      "topY" : 119.4972,
+      "baseLineY" : 128.64,
+      "fontId" : 2,
+      "text" : " 3"
+    }, {
+      "leftX" : 532.2599,
+      "bottomY" : 131.4972,
+      "rightX" : 535.5959,
+      "topY" : 119.4972,
+      "baseLineY" : 128.64,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 145.2371,
+      "rightX" : 362.556,
+      "topY" : 133.2371,
+      "baseLineY" : 142.38,
+      "fontId" : 2,
+      "text" : "3. Historical Numbering Format for Assembly Units "
+    }, {
+      "leftX" : 359.52,
+      "bottomY" : 145.2371,
+      "rightX" : 524.1353,
+      "topY" : 133.2371,
+      "baseLineY" : 142.38,
+      "fontId" : 2,
+      "text" : "................................................."
+    }, {
+      "leftX" : 524.1593,
+      "bottomY" : 145.2371,
+      "rightX" : 532.7525,
+      "topY" : 133.2371,
+      "baseLineY" : 142.38,
+      "fontId" : 2,
+      "text" : " 4"
+    }, {
+      "leftX" : 532.26,
+      "bottomY" : 145.2371,
+      "rightX" : 535.596,
+      "topY" : 133.2371,
+      "baseLineY" : 142.38,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 159.2771,
+      "rightX" : 103.0576,
+      "topY" : 147.2771,
+      "baseLineY" : 156.42,
+      "fontId" : 2,
+      "text" : "4. "
+    }, {
+      "leftX" : 107.82,
+      "bottomY" : 159.2771,
+      "rightX" : 474.336,
+      "topY" : 147.2771,
+      "baseLineY" : 156.42,
+      "fontId" : 2,
+      "text" : "Numbering Format for Assembly Units in Bulletin 1728F-803, Number"
+    }, {
+      "leftX" : 474.3,
+      "bottomY" : 159.2771,
+      "rightX" : 477.636,
+      "topY" : 147.2771,
+      "baseLineY" : 156.42,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 173.3171,
+      "rightX" : 289.296,
+      "topY" : 161.3171,
+      "baseLineY" : 170.46,
+      "fontId" : 2,
+      "text" : "Prefixes, and Number Suffixes "
+    }, {
+      "leftX" : 288.96,
+      "bottomY" : 173.3171,
+      "rightX" : 524.1349,
+      "topY" : 161.3171,
+      "baseLineY" : 170.46,
+      "fontId" : 2,
+      "text" : "......................................................................"
+    }, {
+      "leftX" : 524.1589,
+      "bottomY" : 173.3171,
+      "rightX" : 532.7521,
+      "topY" : 161.3171,
+      "baseLineY" : 170.46,
+      "fontId" : 2,
+      "text" : " 5"
+    }, {
+      "leftX" : 532.2599,
+      "bottomY" : 173.3171,
+      "rightX" : 535.5959,
+      "topY" : 161.3171,
+      "baseLineY" : 170.46,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 200.9171,
+      "rightX" : 153.2159,
+      "topY" : 188.9171,
+      "baseLineY" : 198.0599,
+      "fontId" : 2,
+      "text" : "APPENDIX "
+    }, {
+      "leftX" : 105.3599,
+      "bottomY" : 220.3571,
+      "rightX" : 465.8159,
+      "topY" : 208.3571,
+      "baseLineY" : 217.4999,
+      "fontId" : 2,
+      "text" : "TABLE 1: CATEGORIES OF CONSTRUCTION ASSEMBLY UNITS "
+    }, {
+      "leftX" : 463.68,
+      "bottomY" : 220.3571,
+      "rightX" : 524.1357,
+      "topY" : 208.3571,
+      "baseLineY" : 217.4999,
+      "fontId" : 2,
+      "text" : ".................."
+    }, {
+      "leftX" : 524.1597,
+      "bottomY" : 220.3571,
+      "rightX" : 531.7917,
+      "topY" : 208.3571,
+      "baseLineY" : 217.4999,
+      "fontId" : 2,
+      "text" : " 7"
+    }, {
+      "leftX" : 531.3,
+      "bottomY" : 220.3571,
+      "rightX" : 534.636,
+      "topY" : 208.3571,
+      "baseLineY" : 217.4999,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 105.18,
+      "bottomY" : 240.1571,
+      "rightX" : 504.336,
+      "topY" : 228.1571,
+      "baseLineY" : 237.2999,
+      "fontId" : 2,
+      "text" : "TABLE 2: SUBCATEGORIES (TYPES) OF POLE-TOP ASSEMBLY UNITS "
+    }, {
+      "leftX" : 504,
+      "bottomY" : 240.1571,
+      "rightX" : 524.1359,
+      "topY" : 228.1571,
+      "baseLineY" : 237.2999,
+      "fontId" : 2,
+      "text" : "......"
+    }, {
+      "leftX" : 524.1599,
+      "bottomY" : 240.1571,
+      "rightX" : 531.7919,
+      "topY" : 228.1571,
+      "baseLineY" : 237.2999,
+      "fontId" : 2,
+      "text" : " 8"
+    }, {
+      "leftX" : 531.3,
+      "bottomY" : 240.1571,
+      "rightX" : 534.636,
+      "topY" : 228.1571,
+      "baseLineY" : 237.2999,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 105.36,
+      "bottomY" : 260.0771,
+      "rightX" : 441.336,
+      "topY" : 248.0771,
+      "baseLineY" : 257.2199,
+      "fontId" : 2,
+      "text" : "TABLE 3: SUBCATEGORIES (TYPES) OF ASSEMBLY UNITS "
+    }, {
+      "leftX" : 440.16,
+      "bottomY" : 260.0771,
+      "rightX" : 544.2955,
+      "topY" : 248.0771,
+      "baseLineY" : 257.2199,
+      "fontId" : 2,
+      "text" : "..............................."
+    }, {
+      "leftX" : 544.3195,
+      "bottomY" : 260.0771,
+      "rightX" : 553.0915,
+      "topY" : 248.0771,
+      "baseLineY" : 257.2199,
+      "fontId" : 2,
+      "text" : " 9"
+    }, {
+      "leftX" : 552.6,
+      "bottomY" : 260.0771,
+      "rightX" : 555.936,
+      "topY" : 248.0771,
+      "baseLineY" : 257.2199,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 105.36,
+      "bottomY" : 279.757,
+      "rightX" : 450.996,
+      "topY" : 267.757,
+      "baseLineY" : 276.8999,
+      "fontId" : 2,
+      "text" : "TABLE 4: STANDARD ASSEMBLY UNIT NUMBER “PREFIXES” "
+    }, {
+      "leftX" : 450.24,
+      "bottomY" : 279.757,
+      "rightX" : 517.4157,
+      "topY" : 267.757,
+      "baseLineY" : 276.8999,
+      "fontId" : 2,
+      "text" : "...................."
+    }, {
+      "leftX" : 517.4397,
+      "bottomY" : 279.757,
+      "rightX" : 531.192,
+      "topY" : 267.757,
+      "baseLineY" : 276.8999,
+      "fontId" : 2,
+      "text" : " 11"
+    }, {
+      "leftX" : 530.9399,
+      "bottomY" : 279.757,
+      "rightX" : 534.2759,
+      "topY" : 267.757,
+      "baseLineY" : 276.8999,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 105.36,
+      "bottomY" : 299.557,
+      "rightX" : 458.976,
+      "topY" : 287.557,
+      "baseLineY" : 296.6999,
+      "fontId" : 2,
+      "text" : "TABLE 5: STRANDARD ASSEMBLY UNIT NUMBER “SUFFIXES” "
+    }, {
+      "leftX" : 456.96,
+      "bottomY" : 299.557,
+      "rightX" : 517.4158,
+      "topY" : 287.557,
+      "baseLineY" : 296.6999,
+      "fontId" : 2,
+      "text" : ".................."
+    }, {
+      "leftX" : 517.4398,
+      "bottomY" : 299.557,
+      "rightX" : 531.192,
+      "topY" : 287.557,
+      "baseLineY" : 296.6999,
+      "fontId" : 2,
+      "text" : " 12"
+    }, {
+      "leftX" : 530.94,
+      "bottomY" : 299.557,
+      "rightX" : 534.276,
+      "topY" : 287.557,
+      "baseLineY" : 296.6999,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 313.357,
+      "rightX" : 83.316,
+      "topY" : 301.357,
+      "baseLineY" : 310.4999,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 327.157,
+      "rightX" : 83.316,
+      "topY" : 315.157,
+      "baseLineY" : 324.2999,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 342.517,
+      "rightX" : 83.316,
+      "topY" : 330.517,
+      "baseLineY" : 339.6599,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 248.1,
+      "bottomY" : 356.6107,
+      "rightX" : 349.476,
+      "topY" : 344.6107,
+      "baseLineY" : 353.4598,
+      "fontId" : 1,
+      "text" : "ABBREVIATIONS "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 370.5907,
+      "rightX" : 83.316,
+      "topY" : 358.5907,
+      "baseLineY" : 367.4398,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 384.157,
+      "rightX" : 96.672,
+      "topY" : 372.157,
+      "baseLineY" : 381.2998,
+      "fontId" : 2,
+      "text" : "L"
+    }, {
+      "leftX" : 96.66,
+      "bottomY" : 383.6848,
+      "rightX" : 101.0969,
+      "topY" : 375.6848,
+      "baseLineY" : 381.78,
+      "fontId" : 14,
+      "text" : "1"
+    }, {
+      "leftX" : 101.1,
+      "bottomY" : 384.1571,
+      "rightX" : 109.764,
+      "topY" : 372.1571,
+      "baseLineY" : 381.3,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 109.74,
+      "bottomY" : 383.6848,
+      "rightX" : 116.3953,
+      "topY" : 375.6848,
+      "baseLineY" : 381.78,
+      "fontId" : 14,
+      "text" : "1 "
+    }, {
+      "leftX" : 118.38,
+      "bottomY" : 384.1571,
+      "rightX" : 134.424,
+      "topY" : 372.1571,
+      "baseLineY" : 381.3,
+      "fontId" : 2,
+      "text" : "- N"
+    }, {
+      "leftX" : 134.4,
+      "bottomY" : 383.6848,
+      "rightX" : 141.1192,
+      "topY" : 375.6848,
+      "baseLineY" : 381.78,
+      "fontId" : 14,
+      "text" : "2 "
+    }, {
+      "leftX" : 161.94,
+      "bottomY" : 384.1571,
+      "rightX" : 516.8761,
+      "topY" : 372.1571,
+      "baseLineY" : 381.3,
+      "fontId" : 2,
+      "text" : "A symbolic representation of the REA historic format for numbering "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 398.0771,
+      "rightX" : 244.656,
+      "topY" : 386.0771,
+      "baseLineY" : 395.22,
+      "fontId" : 2,
+      "text" : "assembly units "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 417.5771,
+      "rightX" : 96.672,
+      "topY" : 405.5771,
+      "baseLineY" : 414.72,
+      "fontId" : 2,
+      "text" : "L"
+    }, {
+      "leftX" : 96.66,
+      "bottomY" : 417.1048,
+      "rightX" : 101.0969,
+      "topY" : 409.1048,
+      "baseLineY" : 415.2,
+      "fontId" : 14,
+      "text" : "1"
+    }, {
+      "leftX" : 101.1,
+      "bottomY" : 417.5771,
+      "rightX" : 109.764,
+      "topY" : 405.5771,
+      "baseLineY" : 414.72,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 109.74,
+      "bottomY" : 417.1048,
+      "rightX" : 116.3953,
+      "topY" : 409.1048,
+      "baseLineY" : 415.2,
+      "fontId" : 14,
+      "text" : "1 "
+    }, {
+      "leftX" : 118.38,
+      "bottomY" : 417.5771,
+      "rightX" : 133.764,
+      "topY" : 405.5771,
+      "baseLineY" : 414.72,
+      "fontId" : 2,
+      "text" : ". N"
+    }, {
+      "leftX" : 133.74,
+      "bottomY" : 417.1048,
+      "rightX" : 140.4592,
+      "topY" : 409.1048,
+      "baseLineY" : 415.2,
+      "fontId" : 14,
+      "text" : "2 "
+    }, {
+      "leftX" : 161.94,
+      "bottomY" : 417.5771,
+      "rightX" : 502.2361,
+      "topY" : 405.5771,
+      "baseLineY" : 414.72,
+      "fontId" : 2,
+      "text" : "A symbolic representation of the new format used for numbering "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 431.4972,
+      "rightX" : 390.096,
+      "topY" : 419.4972,
+      "baseLineY" : 428.64,
+      "fontId" : 2,
+      "text" : "assembly units in RUS Bulletin 1728F-803 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 451.2371,
+      "rightX" : 96.672,
+      "topY" : 439.2371,
+      "baseLineY" : 448.38,
+      "fontId" : 2,
+      "text" : "L"
+    }, {
+      "leftX" : 96.36,
+      "bottomY" : 450.7647,
+      "rightX" : 102.7201,
+      "topY" : 442.7647,
+      "baseLineY" : 448.86,
+      "fontId" : 14,
+      "text" : "1 "
+    }, {
+      "leftX" : 161.94,
+      "bottomY" : 451.2371,
+      "rightX" : 502.176,
+      "topY" : 439.2371,
+      "baseLineY" : 448.38,
+      "fontId" : 2,
+      "text" : "A symbol (letter) in the identification number of an assembly unit "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 465.0971,
+      "rightX" : 411.4559,
+      "topY" : 453.0971,
+      "baseLineY" : 462.24,
+      "fontId" : 2,
+      "text" : "which represents a category of assembly units "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 484.8372,
+      "rightX" : 98.664,
+      "topY" : 472.8372,
+      "baseLineY" : 481.98,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 98.34,
+      "bottomY" : 484.3648,
+      "rightX" : 104.7559,
+      "topY" : 476.3648,
+      "baseLineY" : 482.46,
+      "fontId" : 14,
+      "text" : "1 "
+    }, {
+      "leftX" : 161.94,
+      "bottomY" : 484.8372,
+      "rightX" : 516.336,
+      "topY" : 472.8372,
+      "baseLineY" : 481.98,
+      "fontId" : 2,
+      "text" : "A symbol (number) in the identification number of an assembly unit "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 498.3372,
+      "rightX" : 430.836,
+      "topY" : 486.3372,
+      "baseLineY" : 495.48,
+      "fontId" : 2,
+      "text" : "which represents a subcategory of assembly units "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 518.2572,
+      "rightX" : 98.664,
+      "topY" : 506.2572,
+      "baseLineY" : 515.4,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 98.34,
+      "bottomY" : 517.7848,
+      "rightX" : 104.7559,
+      "topY" : 509.7848,
+      "baseLineY" : 515.88,
+      "fontId" : 14,
+      "text" : "2 "
+    }, {
+      "leftX" : 161.94,
+      "bottomY" : 518.2572,
+      "rightX" : 516.336,
+      "topY" : 506.2572,
+      "baseLineY" : 515.4,
+      "fontId" : 2,
+      "text" : "A symbol (number) in the identification number of an assembly unit "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 532.1172,
+      "rightX" : 496.896,
+      "topY" : 520.1172,
+      "baseLineY" : 529.26,
+      "fontId" : 2,
+      "text" : "which represents the identification number of an assembly unit "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 552.0371,
+      "rightX" : 117.396,
+      "topY" : 540.0371,
+      "baseLineY" : 549.18,
+      "fontId" : 2,
+      "text" : "REA "
+    }, {
+      "leftX" : 161.94,
+      "bottomY" : 552.0371,
+      "rightX" : 344.3134,
+      "topY" : 540.0371,
+      "baseLineY" : 549.18,
+      "fontId" : 2,
+      "text" : "Rural Electrification Administration "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 571.7771,
+      "rightX" : 118.056,
+      "topY" : 559.7771,
+      "baseLineY" : 568.92,
+      "fontId" : 2,
+      "text" : "RUS "
+    }, {
+      "leftX" : 161.94,
+      "bottomY" : 571.7771,
+      "rightX" : 279.336,
+      "topY" : 559.7771,
+      "baseLineY" : 568.92,
+      "fontId" : 2,
+      "text" : "Rural Utilities Service "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 792.2381,
+      "rightX" : 80.2636,
+      "topY" : 791.2381,
+      "baseLineY" : 792,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.98,
+      "bottomY" : 39.161,
+      "rightX" : 82.7656,
+      "topY" : 29.161,
+      "baseLineY" : 36.78,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 49.7639,
+      "rightX" : 187.56,
+      "topY" : 37.7639,
+      "baseLineY" : 46.92,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 63.684,
+      "rightX" : 126.66,
+      "topY" : 51.684,
+      "baseLineY" : 60.84,
+      "fontId" : 12,
+      "text" : "Page 3 "
+    }, {
+      "leftX" : 121.38,
+      "bottomY" : 90.5708,
+      "rightX" : 436.956,
+      "topY" : 78.5708,
+      "baseLineY" : 87.42,
+      "fontId" : 1,
+      "text" : "ASSEMBLY UNIT NUMBERS AND STANDARD FORMAT "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 104.3708,
+      "rightX" : 83.316,
+      "topY" : 92.3708,
+      "baseLineY" : 101.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 119.4908,
+      "rightX" : 83.316,
+      "topY" : 107.4908,
+      "baseLineY" : 116.34,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 133.2908,
+      "rightX" : 103.356,
+      "topY" : 121.2908,
+      "baseLineY" : 130.14,
+      "fontId" : 1,
+      "text" : "1. "
+    }, {
+      "leftX" : 107.82,
+      "bottomY" : 133.2908,
+      "rightX" : 486.336,
+      "topY" : 121.2908,
+      "baseLineY" : 130.14,
+      "fontId" : 1,
+      "text" : "CONSTRUCTION ASSEMBLY UNITS, DRAWINGS, NUMBERS, AND "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 147.2108,
+      "rightX" : 151.932,
+      "topY" : 135.2108,
+      "baseLineY" : 144.0599,
+      "fontId" : 1,
+      "text" : "MATERIAL"
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 146.9171,
+      "rightX" : 520.2359,
+      "topY" : 134.9171,
+      "baseLineY" : 144.0599,
+      "fontId" : 2,
+      "text" : ": Early on in the electric program, the Rural Utilities Service, formerly "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 160.7171,
+      "rightX" : 515.441,
+      "topY" : 148.7171,
+      "baseLineY" : 157.8599,
+      "fontId" : 2,
+      "text" : "the Rural Electrification Administration (REA), established a universal system of "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 174.5171,
+      "rightX" : 506.261,
+      "topY" : 162.5171,
+      "baseLineY" : 171.6599,
+      "fontId" : 2,
+      "text" : "defining and numbering standard construction assembly units for engineering, "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 188.317,
+      "rightX" : 520.1159,
+      "topY" : 176.317,
+      "baseLineY" : 185.4599,
+      "fontId" : 2,
+      "text" : "construction, and accounting purposes. In the electric program, an assembly unit "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 202.117,
+      "rightX" : 499.4787,
+      "topY" : 190.117,
+      "baseLineY" : 199.2599,
+      "fontId" : 2,
+      "text" : "is defined as a group of materials, specifically arranged, that fulfills a specific "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 215.917,
+      "rightX" : 356.076,
+      "topY" : 203.917,
+      "baseLineY" : 213.0599,
+      "fontId" : 2,
+      "text" : "function in the operation of an electric supply line. "
+    }, {
+      "leftX" : 79.9799,
+      "bottomY" : 229.837,
+      "rightX" : 83.3159,
+      "topY" : 217.837,
+      "baseLineY" : 226.9799,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 243.9309,
+      "rightX" : 109.2922,
+      "topY" : 231.9309,
+      "baseLineY" : 240.78,
+      "fontId" : 1,
+      "text" : "1.1 "
+    }, {
+      "leftX" : 118.74,
+      "bottomY" : 243.6372,
+      "rightX" : 503.0161,
+      "topY" : 231.6372,
+      "baseLineY" : 240.78,
+      "fontId" : 2,
+      "text" : "The RUS maintains sets of drawings in which each drawing is the official "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 257.4372,
+      "rightX" : 488.916,
+      "topY" : 245.4372,
+      "baseLineY" : 254.58,
+      "fontId" : 2,
+      "text" : "graphic representation of a RUS standard construction assembly unit. The "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 271.2371,
+      "rightX" : 472.8974,
+      "topY" : 259.2371,
+      "baseLineY" : 268.38,
+      "fontId" : 2,
+      "text" : "drawings show the configuration, dimensions, and materials used in the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 285.0371,
+      "rightX" : 498.0973,
+      "topY" : 273.0371,
+      "baseLineY" : 282.18,
+      "fontId" : 2,
+      "text" : "construction of the various RUS standard assemblies. Some drawings show "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 298.8371,
+      "rightX" : 308.736,
+      "topY" : 286.8371,
+      "baseLineY" : 295.98,
+      "fontId" : 2,
+      "text" : "assembly details and instructional notes. "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 312.6371,
+      "rightX" : 83.316,
+      "topY" : 300.6371,
+      "baseLineY" : 309.78,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 326.7308,
+      "rightX" : 109.2922,
+      "topY" : 314.7308,
+      "baseLineY" : 323.58,
+      "fontId" : 1,
+      "text" : "1.2 "
+    }, {
+      "leftX" : 118.74,
+      "bottomY" : 326.4371,
+      "rightX" : 472.8374,
+      "topY" : 314.4371,
+      "baseLineY" : 323.58,
+      "fontId" : 2,
+      "text" : "Each assembly is given a unique “number” designation, which is a "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 340.2371,
+      "rightX" : 509.796,
+      "topY" : 328.2371,
+      "baseLineY" : 337.38,
+      "fontId" : 2,
+      "text" : "combination of letters and numbers. The assembly unit number is shown in the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 354.0371,
+      "rightX" : 480.1561,
+      "topY" : 342.0371,
+      "baseLineY" : 351.18,
+      "fontId" : 2,
+      "text" : "title block of the drawing of the assembly. If more than one assembly are "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 367.8371,
+      "rightX" : 491.5573,
+      "topY" : 355.8371,
+      "baseLineY" : 364.9799,
+      "fontId" : 2,
+      "text" : "depicted on a drawing, then each assembly number is usually shown in the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 381.6371,
+      "rightX" : 192.036,
+      "topY" : 369.6371,
+      "baseLineY" : 378.7799,
+      "fontId" : 2,
+      "text" : "drawing title block. "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 395.4371,
+      "rightX" : 83.316,
+      "topY" : 383.4371,
+      "baseLineY" : 392.5799,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 409.5308,
+      "rightX" : 109.2922,
+      "topY" : 397.5308,
+      "baseLineY" : 406.38,
+      "fontId" : 1,
+      "text" : "1.3 "
+    }, {
+      "leftX" : 118.74,
+      "bottomY" : 409.2371,
+      "rightX" : 510.1561,
+      "topY" : 397.2371,
+      "baseLineY" : 406.38,
+      "fontId" : 2,
+      "text" : "The drawings list and identify, with a short description and an alphabetical "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 423.0371,
+      "rightX" : 500.9199,
+      "topY" : 411.0371,
+      "baseLineY" : 420.18,
+      "fontId" : 2,
+      "text" : "designation, each piece of material required to construct each assembly unit. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 436.7771,
+      "rightX" : 473.5598,
+      "topY" : 424.7771,
+      "baseLineY" : 433.92,
+      "fontId" : 2,
+      "text" : "The alphabetical designations refer to items, with the same alphabetical "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 450.5771,
+      "rightX" : 496.1761,
+      "topY" : 438.5771,
+      "baseLineY" : 447.72,
+      "fontId" : 2,
+      "text" : "designation, found in RUS Informational Publication 202-1, “List of Materials "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 464.3771,
+      "rightX" : 442.776,
+      "topY" : 452.3771,
+      "baseLineY" : 461.52,
+      "fontId" : 2,
+      "text" : "Acceptable for Use on Systems of RUS Electrification Borrowers.” "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 492.0908,
+      "rightX" : 103.356,
+      "topY" : 480.0908,
+      "baseLineY" : 488.94,
+      "fontId" : 1,
+      "text" : "2. "
+    }, {
+      "leftX" : 111.54,
+      "bottomY" : 492.0908,
+      "rightX" : 455.544,
+      "topY" : 480.0908,
+      "baseLineY" : 488.94,
+      "fontId" : 1,
+      "text" : "CATEGORIES AND SUBCATEGORIES OF ASSEMBLY UNITS"
+    }, {
+      "leftX" : 455.52,
+      "bottomY" : 491.7971,
+      "rightX" : 494.5559,
+      "topY" : 479.7971,
+      "baseLineY" : 488.94,
+      "fontId" : 2,
+      "text" : ": Each "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 505.7171,
+      "rightX" : 524.0771,
+      "topY" : 493.7171,
+      "baseLineY" : 502.86,
+      "fontId" : 2,
+      "text" : "construction assembly unit fulfills a specific functional purpose in the construction "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 519.5171,
+      "rightX" : 524.0759,
+      "topY" : 507.5171,
+      "baseLineY" : 516.66,
+      "fontId" : 2,
+      "text" : "and operation of an electric supply line. For example, several assembly units are "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 533.3171,
+      "rightX" : 512.256,
+      "topY" : 521.3171,
+      "baseLineY" : 530.46,
+      "fontId" : 2,
+      "text" : "designed to support a single-phase primary conductor and a neutral conductor. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 547.2371,
+      "rightX" : 368.376,
+      "topY" : 535.2371,
+      "baseLineY" : 544.3799,
+      "fontId" : 2,
+      "text" : "These assembly units are grouped together into one "
+    }, {
+      "leftX" : 368.04,
+      "bottomY" : 547.3278,
+      "rightX" : 417.396,
+      "topY" : 535.3278,
+      "baseLineY" : 544.3799,
+      "fontId" : 15,
+      "text" : "category "
+    }, {
+      "leftX" : 417,
+      "bottomY" : 547.2371,
+      "rightX" : 517.6561,
+      "topY" : 535.2371,
+      "baseLineY" : 544.3799,
+      "fontId" : 2,
+      "text" : "and designated as "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 561.0371,
+      "rightX" : 492.1575,
+      "topY" : 549.0371,
+      "baseLineY" : 558.1799,
+      "fontId" : 2,
+      "text" : "“A” pole-top assembly units. Similarly, all of the assembly units required for "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 574.8371,
+      "rightX" : 516.2786,
+      "topY" : 562.8371,
+      "baseLineY" : 571.98,
+      "fontId" : 2,
+      "text" : "guying structures are grouped together into one category and designated as “E” "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 588.6371,
+      "rightX" : 176.016,
+      "topY" : 576.6371,
+      "baseLineY" : 585.78,
+      "fontId" : 2,
+      "text" : "assembly units. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 616.3509,
+      "rightX" : 109.2922,
+      "topY" : 604.3509,
+      "baseLineY" : 613.2,
+      "fontId" : 1,
+      "text" : "2.1 "
+    }, {
+      "leftX" : 116.82,
+      "bottomY" : 616.0572,
+      "rightX" : 518.4973,
+      "topY" : 604.0572,
+      "baseLineY" : 613.2,
+      "fontId" : 2,
+      "text" : "Table 1 in the Appendix shows and compares the historical REA categories "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 629.9171,
+      "rightX" : 496.8409,
+      "topY" : 617.9171,
+      "baseLineY" : 627.06,
+      "fontId" : 2,
+      "text" : "of distribution line assembly units and the new categories created during the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 643.7171,
+      "rightX" : 506.3185,
+      "topY" : 631.7171,
+      "baseLineY" : 640.86,
+      "fontId" : 2,
+      "text" : "recent update of Bulletin 1728F-803. All of the new designated categories are "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 657.5172,
+      "rightX" : 506.1986,
+      "topY" : 645.5172,
+      "baseLineY" : 654.66,
+      "fontId" : 2,
+      "text" : "defined with a single, capitalized letter. The older designated categories use a "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 671.3172,
+      "rightX" : 493.5997,
+      "topY" : 659.3172,
+      "baseLineY" : 668.46,
+      "fontId" : 2,
+      "text" : "single letter (such as “F”) or the combination of a single letter and a number "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 685.1172,
+      "rightX" : 511.4773,
+      "topY" : 673.1172,
+      "baseLineY" : 682.26,
+      "fontId" : 2,
+      "text" : "(such as “M2”) to define a category. In the latter case, two characters are used "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.98,
+      "bottomY" : 39.161,
+      "rightX" : 82.7656,
+      "topY" : 29.161,
+      "baseLineY" : 36.78,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 426.78,
+      "bottomY" : 49.7639,
+      "rightX" : 525.24,
+      "topY" : 37.7639,
+      "baseLineY" : 46.92,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 490.74,
+      "bottomY" : 63.684,
+      "rightX" : 518.4,
+      "topY" : 51.684,
+      "baseLineY" : 60.84,
+      "fontId" : 12,
+      "text" : "Page "
+    }, {
+      "leftX" : 518.16,
+      "bottomY" : 63.21,
+      "rightX" : 525.165,
+      "topY" : 53.21,
+      "baseLineY" : 60.84,
+      "fontId" : 13,
+      "text" : "4 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 90.3371,
+      "rightX" : 518.076,
+      "topY" : 78.3371,
+      "baseLineY" : 87.48,
+      "fontId" : 2,
+      "text" : "to define categories so that several different types (categories) of assemblies are "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 103.9571,
+      "rightX" : 414.156,
+      "topY" : 91.9571,
+      "baseLineY" : 101.1,
+      "fontId" : 2,
+      "text" : "not all grouped together in the “M” (miscellaneous) category. "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 117.8171,
+      "rightX" : 83.316,
+      "topY" : 105.8171,
+      "baseLineY" : 114.96,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 131.9108,
+      "rightX" : 109.2922,
+      "topY" : 119.9108,
+      "baseLineY" : 128.76,
+      "fontId" : 1,
+      "text" : "2.2 "
+    }, {
+      "leftX" : 116.82,
+      "bottomY" : 131.6172,
+      "rightX" : 507.5174,
+      "topY" : 119.6172,
+      "baseLineY" : 128.76,
+      "fontId" : 2,
+      "text" : "Pole-top assemblies are construction assembly units that support primary "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 145.3571,
+      "rightX" : 484.2973,
+      "topY" : 133.3571,
+      "baseLineY" : 142.5,
+      "fontId" : 2,
+      "text" : "conductors and their associated neutral conductor. The four categories of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 159.1571,
+      "rightX" : 474.156,
+      "topY" : 147.1571,
+      "baseLineY" : 156.3,
+      "fontId" : 2,
+      "text" : "pole-top assembly units are: single-phase, two-phase, three-phase, and "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 172.9571,
+      "rightX" : 507.576,
+      "topY" : 160.9571,
+      "baseLineY" : 170.1,
+      "fontId" : 2,
+      "text" : "double-circuit. These categories are defined with the capital letters “A” through "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 186.7571,
+      "rightX" : 396.8773,
+      "topY" : 174.7571,
+      "baseLineY" : 183.9,
+      "fontId" : 2,
+      "text" : "“D”, respectively. Each of these categories is divided into "
+    }, {
+      "leftX" : 396.9012,
+      "bottomY" : 186.8478,
+      "rightX" : 471.5425,
+      "topY" : 174.8478,
+      "baseLineY" : 183.9,
+      "fontId" : 15,
+      "text" : "subcategories"
+    }, {
+      "leftX" : 471.5399,
+      "bottomY" : 186.7571,
+      "rightX" : 498.2159,
+      "topY" : 174.7571,
+      "baseLineY" : 183.9,
+      "fontId" : 2,
+      "text" : ". An "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 200.5571,
+      "rightX" : 473.4397,
+      "topY" : 188.5571,
+      "baseLineY" : 197.7,
+      "fontId" : 2,
+      "text" : "ordinal number, which follows the category alphabetical character in the "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 214.3571,
+      "rightX" : 484.8372,
+      "topY" : 202.3571,
+      "baseLineY" : 211.4999,
+      "fontId" : 2,
+      "text" : "assembly number, is used to define each subcategory. Each subcategory "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 228.1571,
+      "rightX" : 488.8559,
+      "topY" : 216.1571,
+      "baseLineY" : 225.2999,
+      "fontId" : 2,
+      "text" : "number designates the range of line angles for which the group of pole-top "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 241.9571,
+      "rightX" : 483.5759,
+      "topY" : 229.9571,
+      "baseLineY" : 239.0999,
+      "fontId" : 2,
+      "text" : "assemblies within that subcategory is designed. Each of the four pole-top "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 255.757,
+      "rightX" : 491.5559,
+      "topY" : 243.757,
+      "baseLineY" : 252.8999,
+      "fontId" : 2,
+      "text" : "categories has the same line angle subcategories with the same identifying "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 269.797,
+      "rightX" : 518.0159,
+      "topY" : 257.797,
+      "baseLineY" : 266.9399,
+      "fontId" : 2,
+      "text" : "ordinal number. Table 2 in the Appendix shows the subcategory description (line "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 283.597,
+      "rightX" : 508.1209,
+      "topY" : 271.597,
+      "baseLineY" : 280.7399,
+      "fontId" : 2,
+      "text" : "angles), the historical REA numeral designation for each subcategory, and the "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 297.397,
+      "rightX" : 479.5559,
+      "topY" : 285.397,
+      "baseLineY" : 294.5399,
+      "fontId" : 2,
+      "text" : "new RUS numeral designation for each subcategory of the RUS pole-top "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 311.197,
+      "rightX" : 176.0159,
+      "topY" : 299.197,
+      "baseLineY" : 308.3398,
+      "fontId" : 2,
+      "text" : "assembly units. "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 338.9108,
+      "rightX" : 109.2322,
+      "topY" : 326.9108,
+      "baseLineY" : 335.76,
+      "fontId" : 1,
+      "text" : "2.3 "
+    }, {
+      "leftX" : 114.36,
+      "bottomY" : 338.6172,
+      "rightX" : 479.7973,
+      "topY" : 326.6172,
+      "baseLineY" : 335.76,
+      "fontId" : 2,
+      "text" : "In the revised RUS Bulletin 1728F-803, the number of assembly unit "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 352.4171,
+      "rightX" : 507.5186,
+      "topY" : 340.4171,
+      "baseLineY" : 349.56,
+      "fontId" : 2,
+      "text" : "categories, designated by single letters, was increased as shown in Table 1 of "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 366.2171,
+      "rightX" : 516.816,
+      "topY" : 354.2171,
+      "baseLineY" : 363.36,
+      "fontId" : 2,
+      "text" : "the Appendix. Additionally, each new category was assigned new subcategories "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 380.0171,
+      "rightX" : 479.376,
+      "topY" : 368.0171,
+      "baseLineY" : 377.16,
+      "fontId" : 2,
+      "text" : "similar to the existing subcategories of assembly units “A” through “D”. A "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 393.8171,
+      "rightX" : 496.1775,
+      "topY" : 381.8171,
+      "baseLineY" : 390.96,
+      "fontId" : 2,
+      "text" : "complete list of these new subcategory assignments, their assigned number "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 407.6171,
+      "rightX" : 507.5185,
+      "topY" : 395.6171,
+      "baseLineY" : 404.7599,
+      "fontId" : 2,
+      "text" : "designation, and the meaning of the new designations are shown in Table 3 in "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 421.4171,
+      "rightX" : 166.656,
+      "topY" : 409.4171,
+      "baseLineY" : 418.5599,
+      "fontId" : 2,
+      "text" : "the Appendix. "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 449.0708,
+      "rightX" : 103.296,
+      "topY" : 437.0708,
+      "baseLineY" : 445.9199,
+      "fontId" : 1,
+      "text" : "3. "
+    }, {
+      "leftX" : 111.54,
+      "bottomY" : 449.0708,
+      "rightX" : 452.244,
+      "topY" : 437.0708,
+      "baseLineY" : 445.9199,
+      "fontId" : 1,
+      "text" : "HISTORICAL NUMBERING FORMAT FOR ASSEMBLY UNITS"
+    }, {
+      "leftX" : 452.22,
+      "bottomY" : 448.7771,
+      "rightX" : 484.536,
+      "topY" : 436.7771,
+      "baseLineY" : 445.9199,
+      "fontId" : 2,
+      "text" : ": The "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 462.6371,
+      "rightX" : 492.8159,
+      "topY" : 450.6371,
+      "baseLineY" : 459.7799,
+      "fontId" : 2,
+      "text" : "historical basic standard format for numbering assembly units is of the form: "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 471.4667,
+      "rightX" : 82.065,
+      "topY" : 464.4667,
+      "baseLineY" : 469.8,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 490.0572,
+      "rightX" : 83.316,
+      "topY" : 478.0572,
+      "baseLineY" : 487.2,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 283.02,
+      "bottomY" : 490.1172,
+      "rightX" : 289.692,
+      "topY" : 478.1172,
+      "baseLineY" : 487.26,
+      "fontId" : 2,
+      "text" : "L"
+    }, {
+      "leftX" : 289.68,
+      "bottomY" : 489.6448,
+      "rightX" : 294.1169,
+      "topY" : 481.6448,
+      "baseLineY" : 487.74,
+      "fontId" : 14,
+      "text" : "1"
+    }, {
+      "leftX" : 294.12,
+      "bottomY" : 490.1172,
+      "rightX" : 302.784,
+      "topY" : 478.1172,
+      "baseLineY" : 487.26,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 302.76,
+      "bottomY" : 489.6448,
+      "rightX" : 309.4153,
+      "topY" : 481.6448,
+      "baseLineY" : 487.74,
+      "fontId" : 14,
+      "text" : "1 "
+    }, {
+      "leftX" : 309.12,
+      "bottomY" : 490.1172,
+      "rightX" : 324.684,
+      "topY" : 478.1172,
+      "baseLineY" : 487.26,
+      "fontId" : 2,
+      "text" : "- N"
+    }, {
+      "leftX" : 324.42,
+      "bottomY" : 489.6448,
+      "rightX" : 330.8998,
+      "topY" : 481.6448,
+      "baseLineY" : 487.74,
+      "fontId" : 14,
+      "text" : "2 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 503.8571,
+      "rightX" : 131.436,
+      "topY" : 491.8571,
+      "baseLineY" : 501,
+      "fontId" : 2,
+      "text" : "Where: "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 517.4771,
+      "rightX" : 168.672,
+      "topY" : 505.4771,
+      "baseLineY" : 514.62,
+      "fontId" : 2,
+      "text" : "L"
+    }, {
+      "leftX" : 168.66,
+      "bottomY" : 517.0047,
+      "rightX" : 175.3153,
+      "topY" : 509.0047,
+      "baseLineY" : 515.1,
+      "fontId" : 14,
+      "text" : "1 "
+    }, {
+      "leftX" : 175.02,
+      "bottomY" : 517.9571,
+      "rightX" : 456.156,
+      "topY" : 505.4771,
+      "baseLineY" : 514.62,
+      "fontId" : 2,
+      "text" : "= a letter = Category of the assembly, (See Table 1); "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 531.2772,
+      "rightX" : 170.664,
+      "topY" : 519.2772,
+      "baseLineY" : 528.42,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 170.64,
+      "bottomY" : 530.8048,
+      "rightX" : 177.2953,
+      "topY" : 522.8048,
+      "baseLineY" : 528.9,
+      "fontId" : 14,
+      "text" : "1 "
+    }, {
+      "leftX" : 176.88,
+      "bottomY" : 531.2772,
+      "rightX" : 516.036,
+      "topY" : 519.2772,
+      "baseLineY" : 528.42,
+      "fontId" : 2,
+      "text" : "= a number = Subcategory of the assembly, (See Table 2); and, "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 545.4972,
+      "rightX" : 170.664,
+      "topY" : 533.4972,
+      "baseLineY" : 542.64,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 170.64,
+      "bottomY" : 545.0248,
+      "rightX" : 177.2953,
+      "topY" : 537.0248,
+      "baseLineY" : 543.12,
+      "fontId" : 14,
+      "text" : "2 "
+    }, {
+      "leftX" : 177.3,
+      "bottomY" : 545.9771,
+      "rightX" : 424.176,
+      "topY" : 533.4972,
+      "baseLineY" : 542.64,
+      "fontId" : 2,
+      "text" : "= a number = Assembly Identification Number "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 573.5708,
+      "rightX" : 109.2322,
+      "topY" : 561.5708,
+      "baseLineY" : 570.42,
+      "fontId" : 1,
+      "text" : "3.1 "
+    }, {
+      "leftX" : 114.3,
+      "bottomY" : 573.2771,
+      "rightX" : 481.7798,
+      "topY" : 561.2771,
+      "baseLineY" : 570.42,
+      "fontId" : 2,
+      "text" : "Only the pole-top assembly units and miscellaneous units (“M”) have "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 587.0771,
+      "rightX" : 224.724,
+      "topY" : 575.0771,
+      "baseLineY" : 584.22,
+      "fontId" : 2,
+      "text" : "subcategory numbers (“N"
+    }, {
+      "leftX" : 224.7,
+      "bottomY" : 586.6048,
+      "rightX" : 229.1369,
+      "topY" : 578.6048,
+      "baseLineY" : 584.7,
+      "fontId" : 14,
+      "text" : "1"
+    }, {
+      "leftX" : 229.14,
+      "bottomY" : 587.0771,
+      "rightX" : 463.3561,
+      "topY" : 575.0771,
+      "baseLineY" : 584.22,
+      "fontId" : 2,
+      "text" : "”). Each assembly unit is assigned a unique "
+    }, {
+      "leftX" : 463.0201,
+      "bottomY" : 587.1678,
+      "rightX" : 516.9973,
+      "topY" : 575.1678,
+      "baseLineY" : 584.22,
+      "fontId" : 15,
+      "text" : "assembly "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 600.9679,
+      "rightX" : 204.0372,
+      "topY" : 588.9679,
+      "baseLineY" : 598.02,
+      "fontId" : 15,
+      "text" : "identification number "
+    }, {
+      "leftX" : 204.0612,
+      "bottomY" : 600.8772,
+      "rightX" : 220.7065,
+      "topY" : 588.8772,
+      "baseLineY" : 598.02,
+      "fontId" : 2,
+      "text" : "(“N"
+    }, {
+      "leftX" : 220.68,
+      "bottomY" : 600.4048,
+      "rightX" : 225.1169,
+      "topY" : 592.4048,
+      "baseLineY" : 598.5,
+      "fontId" : 14,
+      "text" : "2"
+    }, {
+      "leftX" : 225.12,
+      "bottomY" : 600.8772,
+      "rightX" : 510.5775,
+      "topY" : 588.8772,
+      "baseLineY" : 598.02,
+      "fontId" : 2,
+      "text" : "”) to differentiate it from the other assembly units with "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 614.6772,
+      "rightX" : 225.336,
+      "topY" : 602.6772,
+      "baseLineY" : 611.82,
+      "fontId" : 2,
+      "text" : "the same category letter. "
+    }, {
+      "leftX" : 229.32,
+      "bottomY" : 614.6772,
+      "rightX" : 498.8174,
+      "topY" : 602.6772,
+      "baseLineY" : 611.82,
+      "fontId" : 2,
+      "text" : "If there is only one assembly unit in the series, the "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 628.4771,
+      "rightX" : 486.696,
+      "topY" : 616.4771,
+      "baseLineY" : 625.62,
+      "fontId" : 2,
+      "text" : "dash (“-“) and the subcategory number (“N1”) are generally not used. This "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 642.2772,
+      "rightX" : 340.056,
+      "topY" : 630.2772,
+      "baseLineY" : 639.42,
+      "fontId" : 2,
+      "text" : "general rule is not always applied consistently. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 670.0509,
+      "rightX" : 109.2922,
+      "topY" : 658.0509,
+      "baseLineY" : 666.9,
+      "fontId" : 1,
+      "text" : "3.2 "
+    }, {
+      "leftX" : 114.36,
+      "bottomY" : 669.7572,
+      "rightX" : 508.5998,
+      "topY" : 657.7572,
+      "baseLineY" : 666.9,
+      "fontId" : 2,
+      "text" : "Prefix letters and/or suffix letters are added to the basic numbering format "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 683.5572,
+      "rightX" : 513.2161,
+      "topY" : 671.5572,
+      "baseLineY" : 680.7,
+      "fontId" : 2,
+      "text" : "when applicable. Each prefix letter denotes a specific meaning and is explained "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 697.3571,
+      "rightX" : 416.856,
+      "topY" : 685.3571,
+      "baseLineY" : 694.5,
+      "fontId" : 2,
+      "text" : "in detail in Section 4.2. Suffixes are explained in Section 4.3. "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 792.2381,
+      "rightX" : 80.2636,
+      "topY" : 791.2381,
+      "baseLineY" : 792,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.98,
+      "bottomY" : 39.281,
+      "rightX" : 82.7656,
+      "topY" : 29.281,
+      "baseLineY" : 36.9,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 49.8239,
+      "rightX" : 188.46,
+      "topY" : 37.8239,
+      "baseLineY" : 46.98,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 62.6172,
+      "rightX" : 130.656,
+      "topY" : 50.6172,
+      "baseLineY" : 59.76,
+      "fontId" : 2,
+      "text" : "Page 5 "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 76.5371,
+      "rightX" : 83.316,
+      "topY" : 64.5371,
+      "baseLineY" : 73.68,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 90.6308,
+      "rightX" : 109.2922,
+      "topY" : 78.6308,
+      "baseLineY" : 87.48,
+      "fontId" : 1,
+      "text" : "3.3 "
+    }, {
+      "leftX" : 114.42,
+      "bottomY" : 90.3371,
+      "rightX" : 503.2586,
+      "topY" : 78.3371,
+      "baseLineY" : 87.48,
+      "fontId" : 2,
+      "text" : "In summary, the historical format for numbering assembly units is varied. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 104.1371,
+      "rightX" : 463.4173,
+      "topY" : 92.1371,
+      "baseLineY" : 101.28,
+      "fontId" : 2,
+      "text" : "The format may be as simple as a category number plus an assembly "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 117.9371,
+      "rightX" : 512.556,
+      "topY" : 105.9371,
+      "baseLineY" : 115.08,
+      "fontId" : 2,
+      "text" : "identification number, such as “A2.” Conversely, the assembly unit number may "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 131.7371,
+      "rightX" : 512.3174,
+      "topY" : 119.7371,
+      "baseLineY" : 128.8799,
+      "fontId" : 2,
+      "text" : "contain a category letter, a subcategory number, an assembly unit identification "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 145.5371,
+      "rightX" : 508.7761,
+      "topY" : 133.5371,
+      "baseLineY" : 142.6799,
+      "fontId" : 2,
+      "text" : "number, a prefix, and a suffix such as shown in the following specific example: "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 159.461,
+      "rightX" : 82.7656,
+      "topY" : 149.461,
+      "baseLineY" : 157.08,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 180.6372,
+      "rightX" : 83.316,
+      "topY" : 168.6372,
+      "baseLineY" : 177.78,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 277.2,
+      "bottomY" : 177.9372,
+      "rightX" : 328.2961,
+      "topY" : 165.9372,
+      "baseLineY" : 175.08,
+      "fontId" : 2,
+      "text" : "VC4 – 1L "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 194.4972,
+      "rightX" : 131.436,
+      "topY" : 182.4972,
+      "baseLineY" : 191.64,
+      "fontId" : 2,
+      "text" : "Where: "
+    }, {
+      "leftX" : 151.98,
+      "bottomY" : 191.7371,
+      "rightX" : 155.316,
+      "topY" : 179.7371,
+      "baseLineY" : 188.88,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 205.5371,
+      "rightX" : 414.5747,
+      "topY" : 193.5371,
+      "baseLineY" : 202.68,
+      "fontId" : 2,
+      "text" : "V = Prefix (implies 24.4/14.4 kV construction); "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 219.3971,
+      "rightX" : 495.1573,
+      "topY" : 207.3971,
+      "baseLineY" : 216.54,
+      "fontId" : 2,
+      "text" : "C = Category (implies 3-phase primary, pole-top assembly); 4 "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 233.1971,
+      "rightX" : 495.1561,
+      "topY" : 221.1971,
+      "baseLineY" : 230.34,
+      "fontId" : 2,
+      "text" : "= Subcategory (implies large angle, suspension insulators); 1 "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 246.9971,
+      "rightX" : 366.456,
+      "topY" : 234.9971,
+      "baseLineY" : 244.14,
+      "fontId" : 2,
+      "text" : "= Drawing Identification number; and, "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 260.3771,
+      "rightX" : 504.0359,
+      "topY" : 248.3771,
+      "baseLineY" : 257.52,
+      "fontId" : 2,
+      "text" : "L = Suffix (implies assembly to be used with large conductors). "
+    }, {
+      "leftX" : 79.9799,
+      "bottomY" : 274.8371,
+      "rightX" : 83.3159,
+      "topY" : 262.8371,
+      "baseLineY" : 271.98,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 288.6971,
+      "rightX" : 422.0159,
+      "topY" : 276.6971,
+      "baseLineY" : 285.84,
+      "fontId" : 2,
+      "text" : "Occasionally, the established rules explained above may vary. "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 316.3508,
+      "rightX" : 103.2959,
+      "topY" : 304.3508,
+      "baseLineY" : 313.2,
+      "fontId" : 1,
+      "text" : "4. "
+    }, {
+      "leftX" : 111.5399,
+      "bottomY" : 316.3508,
+      "rightX" : 520.7759,
+      "topY" : 304.3508,
+      "baseLineY" : 313.2,
+      "fontId" : 1,
+      "text" : "NUMBERING FORMAT FOR ASSEMBLY UNITS IN BULLETIN 1728F-803, "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 330.2108,
+      "rightX" : 355.8841,
+      "topY" : 318.2108,
+      "baseLineY" : 327.0599,
+      "fontId" : 1,
+      "text" : "NUMBER PREFIXES, AND NUMBER SUFFIXES"
+    }, {
+      "leftX" : 355.8601,
+      "bottomY" : 329.9171,
+      "rightX" : 514.6561,
+      "topY" : 317.9171,
+      "baseLineY" : 327.0599,
+      "fontId" : 2,
+      "text" : ": In Bulletin 1728F-803, each "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 343.8371,
+      "rightX" : 494.916,
+      "topY" : 331.8371,
+      "baseLineY" : 340.9799,
+      "fontId" : 2,
+      "text" : "assembly unit is also assigned a number using the same basic format as the "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 357.7571,
+      "rightX" : 457.296,
+      "topY" : 345.7571,
+      "baseLineY" : 354.9,
+      "fontId" : 2,
+      "text" : "historical REA numbering system. Symbolically, the newer format is: "
+    }, {
+      "leftX" : 278.8799,
+      "bottomY" : 386.9771,
+      "rightX" : 336.8159,
+      "topY" : 372.9971,
+      "baseLineY" : 382.14,
+      "fontId" : 2,
+      "text" : "L1N1 . N2 "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 400.5971,
+      "rightX" : 131.376,
+      "topY" : 388.5971,
+      "baseLineY" : 397.74,
+      "fontId" : 2,
+      "text" : "Where: "
+    }, {
+      "leftX" : 161.94,
+      "bottomY" : 413.7371,
+      "rightX" : 168.612,
+      "topY" : 401.7371,
+      "baseLineY" : 410.88,
+      "fontId" : 2,
+      "text" : "L"
+    }, {
+      "leftX" : 168.6,
+      "bottomY" : 413.2647,
+      "rightX" : 175.2553,
+      "topY" : 405.2647,
+      "baseLineY" : 411.36,
+      "fontId" : 14,
+      "text" : "1 "
+    }, {
+      "leftX" : 174.96,
+      "bottomY" : 414.2172,
+      "rightX" : 456.096,
+      "topY" : 401.7371,
+      "baseLineY" : 410.88,
+      "fontId" : 2,
+      "text" : "= a letter = Category of the assembly, (See Table 1); "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 428.1972,
+      "rightX" : 170.664,
+      "topY" : 416.1972,
+      "baseLineY" : 425.34,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 170.64,
+      "bottomY" : 427.7248,
+      "rightX" : 177.2953,
+      "topY" : 419.7248,
+      "baseLineY" : 425.82,
+      "fontId" : 14,
+      "text" : "1 "
+    }, {
+      "leftX" : 176.88,
+      "bottomY" : 428.1971,
+      "rightX" : 516.036,
+      "topY" : 416.1971,
+      "baseLineY" : 425.34,
+      "fontId" : 2,
+      "text" : "= a number = Subcategory of the assembly, (See Table 2); and, "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 441.9971,
+      "rightX" : 170.664,
+      "topY" : 429.9971,
+      "baseLineY" : 439.14,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 170.64,
+      "bottomY" : 441.5248,
+      "rightX" : 177.2953,
+      "topY" : 433.5248,
+      "baseLineY" : 439.62,
+      "fontId" : 14,
+      "text" : "2 "
+    }, {
+      "leftX" : 177.3,
+      "bottomY" : 442.4772,
+      "rightX" : 424.176,
+      "topY" : 429.9972,
+      "baseLineY" : 439.14,
+      "fontId" : 2,
+      "text" : "= a number = Assembly Identification Number "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 456.2172,
+      "rightX" : 83.316,
+      "topY" : 444.2172,
+      "baseLineY" : 453.36,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 470.4308,
+      "rightX" : 109.2922,
+      "topY" : 458.4308,
+      "baseLineY" : 467.28,
+      "fontId" : 1,
+      "text" : "4.1 "
+    }, {
+      "leftX" : 114.6,
+      "bottomY" : 470.1371,
+      "rightX" : 500.1986,
+      "topY" : 458.1371,
+      "baseLineY" : 467.28,
+      "fontId" : 2,
+      "text" : "The categories, subcategories, and assembly identification numbers are "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 483.9371,
+      "rightX" : 519.156,
+      "topY" : 471.9371,
+      "baseLineY" : 481.08,
+      "fontId" : 2,
+      "text" : "similar to those used in the historical numbering system and are explained above "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 497.7371,
+      "rightX" : 270.816,
+      "topY" : 485.7371,
+      "baseLineY" : 494.88,
+      "fontId" : 2,
+      "text" : "and in the tables in the Appendix. "
+    }, {
+      "leftX" : 274.86,
+      "bottomY" : 497.7371,
+      "rightX" : 501.576,
+      "topY" : 485.7371,
+      "baseLineY" : 494.88,
+      "fontId" : 2,
+      "text" : "Note that the dash (“-”) has been replaced "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 511.5371,
+      "rightX" : 515.5585,
+      "topY" : 499.5371,
+      "baseLineY" : 508.68,
+      "fontId" : 2,
+      "text" : "with a period (“.”). The period is used to distinguish the new numbering scheme "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 525.3371,
+      "rightX" : 320.796,
+      "topY" : 513.3371,
+      "baseLineY" : 522.48,
+      "fontId" : 2,
+      "text" : "from the historical REA numbering system. "
+    }, {
+      "leftX" : 79.9799,
+      "bottomY" : 539.1371,
+      "rightX" : 83.3159,
+      "topY" : 527.1371,
+      "baseLineY" : 536.28,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 553.2309,
+      "rightX" : 109.2922,
+      "topY" : 541.2309,
+      "baseLineY" : 550.08,
+      "fontId" : 1,
+      "text" : "4.2 "
+    }, {
+      "leftX" : 114.36,
+      "bottomY" : 552.9372,
+      "rightX" : 501.2786,
+      "topY" : 540.9372,
+      "baseLineY" : 550.08,
+      "fontId" : 2,
+      "text" : "In both the historical and the new numbering systems, the assembly unit "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 566.7371,
+      "rightX" : 286.1173,
+      "topY" : 554.7371,
+      "baseLineY" : 563.88,
+      "fontId" : 2,
+      "text" : "number may be preceded by a letter "
+    }, {
+      "leftX" : 286.1413,
+      "bottomY" : 566.8279,
+      "rightX" : 315.4212,
+      "topY" : 554.8279,
+      "baseLineY" : 563.88,
+      "fontId" : 15,
+      "text" : "prefix"
+    }, {
+      "leftX" : 315.42,
+      "bottomY" : 566.7371,
+      "rightX" : 499.4773,
+      "topY" : 554.7371,
+      "baseLineY" : 563.88,
+      "fontId" : 2,
+      "text" : ". These prefixes denote either the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 580.5371,
+      "rightX" : 516.876,
+      "topY" : 568.5371,
+      "baseLineY" : 577.68,
+      "fontId" : 2,
+      "text" : "voltage or type of use for which the assembly unit is designed. A complete list of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 594.3371,
+      "rightX" : 498.156,
+      "topY" : 582.3371,
+      "baseLineY" : 591.48,
+      "fontId" : 2,
+      "text" : "all of the number prefixes used by RUS is shown in Table 4 of the Appendix. "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 608.1972,
+      "rightX" : 83.316,
+      "topY" : 596.1972,
+      "baseLineY" : 605.34,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 622.2909,
+      "rightX" : 109.2322,
+      "topY" : 610.2909,
+      "baseLineY" : 619.14,
+      "fontId" : 1,
+      "text" : "4.3 "
+    }, {
+      "leftX" : 114.36,
+      "bottomY" : 621.9972,
+      "rightX" : 504.4586,
+      "topY" : 609.9972,
+      "baseLineY" : 619.14,
+      "fontId" : 2,
+      "text" : "Likewise, assembly unit numbers may be immediately followed by one or "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 635.7971,
+      "rightX" : 178.656,
+      "topY" : 623.7971,
+      "baseLineY" : 632.94,
+      "fontId" : 2,
+      "text" : "more alphabetic "
+    }, {
+      "leftX" : 178.68,
+      "bottomY" : 635.8878,
+      "rightX" : 219.36,
+      "topY" : 623.8878,
+      "baseLineY" : 632.94,
+      "fontId" : 15,
+      "text" : "suffixes"
+    }, {
+      "leftX" : 219.36,
+      "bottomY" : 635.7971,
+      "rightX" : 501.5172,
+      "topY" : 623.7971,
+      "baseLineY" : 632.94,
+      "fontId" : 2,
+      "text" : ". Each letter suffix denotes a meaning. As a rule, an "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 649.5971,
+      "rightX" : 510.5161,
+      "topY" : 637.5971,
+      "baseLineY" : 646.74,
+      "fontId" : 2,
+      "text" : "assembly unit number with a suffix means the assembly unit is a slight variation "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 663.3972,
+      "rightX" : 508.6561,
+      "topY" : 651.3972,
+      "baseLineY" : 660.54,
+      "fontId" : 2,
+      "text" : "of the assembly unit with the same number without a suffix. The list of suffixes "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 677.1972,
+      "rightX" : 494.801,
+      "topY" : 665.1972,
+      "baseLineY" : 674.34,
+      "fontId" : 2,
+      "text" : "was expanded and each alphabetic suffix was assigned a specific meaning. "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 690.9972,
+      "rightX" : 503.4998,
+      "topY" : 678.9972,
+      "baseLineY" : 688.14,
+      "fontId" : 2,
+      "text" : "Table 5 in the Appendix lists the historical and new suffixes and their denoted "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 704.7971,
+      "rightX" : 147.756,
+      "topY" : 692.7971,
+      "baseLineY" : 701.94,
+      "fontId" : 2,
+      "text" : "meanings. "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.98,
+      "bottomY" : 39.281,
+      "rightX" : 82.7656,
+      "topY" : 29.281,
+      "baseLineY" : 36.9,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 424.92,
+      "bottomY" : 49.8239,
+      "rightX" : 523.38,
+      "topY" : 37.8239,
+      "baseLineY" : 46.98,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 485.34,
+      "bottomY" : 62.6172,
+      "rightX" : 525.996,
+      "topY" : 50.6172,
+      "baseLineY" : 59.76,
+      "fontId" : 2,
+      "text" : "Page 6 "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 76.5371,
+      "rightX" : 83.316,
+      "topY" : 64.5371,
+      "baseLineY" : 73.68,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 90.6308,
+      "rightX" : 109.2922,
+      "topY" : 78.6308,
+      "baseLineY" : 87.48,
+      "fontId" : 1,
+      "text" : "4.4 "
+    }, {
+      "leftX" : 114.36,
+      "bottomY" : 90.3371,
+      "rightX" : 485.9186,
+      "topY" : 78.3371,
+      "baseLineY" : 87.48,
+      "fontId" : 2,
+      "text" : "Two new special numbering conventions were also established. First, "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 104.1371,
+      "rightX" : 226.524,
+      "topY" : 92.1371,
+      "baseLineY" : 101.28,
+      "fontId" : 2,
+      "text" : "identification numbers (“N"
+    }, {
+      "leftX" : 226.5,
+      "bottomY" : 103.6648,
+      "rightX" : 230.9369,
+      "topY" : 95.6648,
+      "baseLineY" : 101.76,
+      "fontId" : 14,
+      "text" : "2"
+    }, {
+      "leftX" : 230.94,
+      "bottomY" : 104.1372,
+      "rightX" : 516.696,
+      "topY" : 92.1372,
+      "baseLineY" : 101.28,
+      "fontId" : 2,
+      "text" : "”) that start with the number zero (“0”) denote that the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 117.9372,
+      "rightX" : 486.216,
+      "topY" : 105.9372,
+      "baseLineY" : 115.08,
+      "fontId" : 2,
+      "text" : "assembly unit is less than a whole standard RUS assembly unit. Thus, for "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 131.7371,
+      "rightX" : 515.9772,
+      "topY" : 119.7371,
+      "baseLineY" : 128.88,
+      "fontId" : 2,
+      "text" : "accounting purposes, an assembly unit whose identification number begins with "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 145.5371,
+      "rightX" : 516.5773,
+      "topY" : 133.5371,
+      "baseLineY" : 142.68,
+      "fontId" : 2,
+      "text" : "the number zero is less than a whole retirement unit. Secondly, the identification "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 159.3371,
+      "rightX" : 156.6851,
+      "topY" : 147.3371,
+      "baseLineY" : 156.48,
+      "fontId" : 2,
+      "text" : "numbers (“N"
+    }, {
+      "leftX" : 156.66,
+      "bottomY" : 158.8648,
+      "rightX" : 161.0969,
+      "topY" : 150.8648,
+      "baseLineY" : 156.96,
+      "fontId" : 14,
+      "text" : "2"
+    }, {
+      "leftX" : 161.1,
+      "bottomY" : 159.8171,
+      "rightX" : 441.156,
+      "topY" : 147.3371,
+      "baseLineY" : 156.48,
+      "fontId" : 2,
+      "text" : "”) for anchors (“F” assembly units) are generally one "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 173.1371,
+      "rightX" : 507.156,
+      "topY" : 161.1371,
+      "baseLineY" : 170.28,
+      "fontId" : 2,
+      "text" : "one-thousandth (1/1,000) of the anchor’s designated maximum holding power. "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 186.9371,
+      "rightX" : 507.1551,
+      "topY" : 174.9371,
+      "baseLineY" : 184.08,
+      "fontId" : 2,
+      "text" : "For instance, the expanding anchor numbered “F1.8” has a maximum holding "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 200.7371,
+      "rightX" : 218.676,
+      "topY" : 188.7371,
+      "baseLineY" : 197.8799,
+      "fontId" : 2,
+      "text" : "power of 8,000 pounds. "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 214.5371,
+      "rightX" : 83.316,
+      "topY" : 202.5371,
+      "baseLineY" : 211.6799,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 228.6308,
+      "rightX" : 109.2322,
+      "topY" : 216.6308,
+      "baseLineY" : 225.48,
+      "fontId" : 1,
+      "text" : "4.5 "
+    }, {
+      "leftX" : 118.26,
+      "bottomY" : 228.3371,
+      "rightX" : 475.1174,
+      "topY" : 216.3371,
+      "baseLineY" : 225.48,
+      "fontId" : 2,
+      "text" : "In summary, the format of all of the assembly unit numbers in RUS "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 242.1372,
+      "rightX" : 477.5172,
+      "topY" : 230.1372,
+      "baseLineY" : 239.28,
+      "fontId" : 2,
+      "text" : "Bulletin 1728F-803 are in the same format as shown below. Many of the "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 255.9372,
+      "rightX" : 509.196,
+      "topY" : 243.9372,
+      "baseLineY" : 253.08,
+      "fontId" : 2,
+      "text" : "numbers do not contain a prefix nor a suffix. The standard format shown below "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 269.7371,
+      "rightX" : 509.1372,
+      "topY" : 257.7371,
+      "baseLineY" : 266.88,
+      "fontId" : 2,
+      "text" : "has been expanded to show the proper placement of a prefix (“P’) and suffixes "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 283.5371,
+      "rightX" : 105.9839,
+      "topY" : 271.5371,
+      "baseLineY" : 280.68,
+      "fontId" : 2,
+      "text" : "(“S"
+    }, {
+      "leftX" : 105.96,
+      "bottomY" : 283.0648,
+      "rightX" : 110.3969,
+      "topY" : 275.0648,
+      "baseLineY" : 281.16,
+      "fontId" : 14,
+      "text" : "1"
+    }, {
+      "leftX" : 110.4,
+      "bottomY" : 283.5371,
+      "rightX" : 152.784,
+      "topY" : 271.5371,
+      "baseLineY" : 280.68,
+      "fontId" : 2,
+      "text" : "” and “S"
+    }, {
+      "leftX" : 152.76,
+      "bottomY" : 283.0648,
+      "rightX" : 157.1969,
+      "topY" : 275.0648,
+      "baseLineY" : 281.16,
+      "fontId" : 14,
+      "text" : "2"
+    }, {
+      "leftX" : 157.2,
+      "bottomY" : 283.5371,
+      "rightX" : 509.3172,
+      "topY" : 271.5371,
+      "baseLineY" : 280.68,
+      "fontId" : 2,
+      "text" : "”). Prefixes and suffixes are only added to assembly unit numbers "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 297.3371,
+      "rightX" : 289.4159,
+      "topY" : 285.3371,
+      "baseLineY" : 294.48,
+      "fontId" : 2,
+      "text" : "when applicable as explained above. "
+    }, {
+      "leftX" : 267.1799,
+      "bottomY" : 324.5771,
+      "rightX" : 281.8319,
+      "topY" : 312.5771,
+      "baseLineY" : 321.72,
+      "fontId" : 2,
+      "text" : "PL"
+    }, {
+      "leftX" : 281.82,
+      "bottomY" : 324.1048,
+      "rightX" : 286.2569,
+      "topY" : 316.1048,
+      "baseLineY" : 322.2,
+      "fontId" : 14,
+      "text" : "1"
+    }, {
+      "leftX" : 286.26,
+      "bottomY" : 324.5771,
+      "rightX" : 294.924,
+      "topY" : 312.5771,
+      "baseLineY" : 321.72,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 294.9,
+      "bottomY" : 324.1048,
+      "rightX" : 301.5553,
+      "topY" : 316.1048,
+      "baseLineY" : 322.2,
+      "fontId" : 14,
+      "text" : "1 "
+    }, {
+      "leftX" : 301.26,
+      "bottomY" : 324.5771,
+      "rightX" : 316.284,
+      "topY" : 312.5771,
+      "baseLineY" : 321.72,
+      "fontId" : 2,
+      "text" : ". N"
+    }, {
+      "leftX" : 316.14,
+      "bottomY" : 324.1048,
+      "rightX" : 320.5769,
+      "topY" : 316.1048,
+      "baseLineY" : 322.2,
+      "fontId" : 14,
+      "text" : "2"
+    }, {
+      "leftX" : 320.52,
+      "bottomY" : 324.5771,
+      "rightX" : 328.524,
+      "topY" : 312.5771,
+      "baseLineY" : 321.72,
+      "fontId" : 2,
+      "text" : "S"
+    }, {
+      "leftX" : 328.44,
+      "bottomY" : 324.1048,
+      "rightX" : 332.8769,
+      "topY" : 316.1048,
+      "baseLineY" : 322.2,
+      "fontId" : 14,
+      "text" : "1"
+    }, {
+      "leftX" : 332.76,
+      "bottomY" : 324.5771,
+      "rightX" : 340.764,
+      "topY" : 312.5771,
+      "baseLineY" : 321.72,
+      "fontId" : 2,
+      "text" : "S"
+    }, {
+      "leftX" : 340.68,
+      "bottomY" : 324.1048,
+      "rightX" : 347.2795,
+      "topY" : 316.1048,
+      "baseLineY" : 322.2,
+      "fontId" : 14,
+      "text" : "2 "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 338.6172,
+      "rightX" : 83.316,
+      "topY" : 326.6172,
+      "baseLineY" : 335.76,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 352.4171,
+      "rightX" : 498.816,
+      "topY" : 340.4171,
+      "baseLineY" : 349.56,
+      "fontId" : 2,
+      "text" : "An example of a typical assembly unit number in RUS Bulletin 1728F-803 is: "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 366.2171,
+      "rightX" : 470.7372,
+      "topY" : 354.2171,
+      "baseLineY" : 363.36,
+      "fontId" : 2,
+      "text" : "“VC4.1L”. This same example is shown above in Section 3.3. The only "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 380.0171,
+      "rightX" : 496.7161,
+      "topY" : 368.0171,
+      "baseLineY" : 377.16,
+      "fontId" : 2,
+      "text" : "difference in the newer format is that the dash (“-“) has been replaced with a "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 393.8171,
+      "rightX" : 499.776,
+      "topY" : 381.8171,
+      "baseLineY" : 390.96,
+      "fontId" : 2,
+      "text" : "period (“.”). The meanings of the characters in this particular example are the "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 407.6171,
+      "rightX" : 125.436,
+      "topY" : 395.6171,
+      "baseLineY" : 404.7599,
+      "fontId" : 2,
+      "text" : "same. "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 421.5371,
+      "rightX" : 83.316,
+      "topY" : 409.5371,
+      "baseLineY" : 418.68,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 435.5709,
+      "rightX" : 109.2922,
+      "topY" : 423.5709,
+      "baseLineY" : 432.42,
+      "fontId" : 1,
+      "text" : "4.6 "
+    }, {
+      "leftX" : 114.42,
+      "bottomY" : 435.2772,
+      "rightX" : 479.9785,
+      "topY" : 423.2772,
+      "baseLineY" : 432.42,
+      "fontId" : 2,
+      "text" : "All of the numbering rules and conventions, and the meanings of the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 449.0771,
+      "rightX" : 516.9961,
+      "topY" : 437.0771,
+      "baseLineY" : 446.22,
+      "fontId" : 2,
+      "text" : "characters within the assembly unit numbers are documented within this bulletin. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 462.8771,
+      "rightX" : 516.756,
+      "topY" : 450.8771,
+      "baseLineY" : 460.02,
+      "fontId" : 2,
+      "text" : "RUS endeavors to keep assembly unit numbers short, uniform, understandable, "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 476.6771,
+      "rightX" : 486.144,
+      "topY" : 464.6771,
+      "baseLineY" : 473.82,
+      "fontId" : 2,
+      "text" : "meaningful, and in a standard format. Thus, the identification numbers (“N"
+    }, {
+      "leftX" : 486.12,
+      "bottomY" : 476.2047,
+      "rightX" : 490.5569,
+      "topY" : 468.2047,
+      "baseLineY" : 474.3,
+      "fontId" : 14,
+      "text" : "2"
+    }, {
+      "leftX" : 490.56,
+      "bottomY" : 476.6772,
+      "rightX" : 501.876,
+      "topY" : 464.6772,
+      "baseLineY" : 473.82,
+      "fontId" : 2,
+      "text" : "”) "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 490.4771,
+      "rightX" : 499.5974,
+      "topY" : 478.4771,
+      "baseLineY" : 487.62,
+      "fontId" : 2,
+      "text" : "should not be more than two digits, and the number of suffixes should not be "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 504.2771,
+      "rightX" : 284.736,
+      "topY" : 492.2771,
+      "baseLineY" : 501.42,
+      "fontId" : 2,
+      "text" : "more than three characters (letters). "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 792.2381,
+      "rightX" : 80.2636,
+      "topY" : 791.2381,
+      "baseLineY" : 792,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.9753,
+      "bottomY" : 39.1561,
+      "rightX" : 82.7608,
+      "topY" : 29.1561,
+      "baseLineY" : 36.7751,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 49.7639,
+      "rightX" : 187.56,
+      "topY" : 37.7639,
+      "baseLineY" : 46.92,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 63.684,
+      "rightX" : 142.2,
+      "topY" : 51.684,
+      "baseLineY" : 60.84,
+      "fontId" : 12,
+      "text" : "Appendix "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 77.124,
+      "rightX" : 117.66,
+      "topY" : 65.124,
+      "baseLineY" : 74.28,
+      "fontId" : 12,
+      "text" : "Page "
+    }, {
+      "leftX" : 117.42,
+      "bottomY" : 76.65,
+      "rightX" : 124.6645,
+      "topY" : 66.65,
+      "baseLineY" : 74.28,
+      "fontId" : 13,
+      "text" : "7 "
+    }, {
+      "leftX" : 281.88,
+      "bottomY" : 103.7708,
+      "rightX" : 334.2361,
+      "topY" : 91.7708,
+      "baseLineY" : 100.62,
+      "fontId" : 1,
+      "text" : "TABLE 1 "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 120.0908,
+      "rightX" : 83.316,
+      "topY" : 108.0908,
+      "baseLineY" : 116.94,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 154.02,
+      "bottomY" : 133.9508,
+      "rightX" : 461.3759,
+      "topY" : 121.9508,
+      "baseLineY" : 130.8,
+      "fontId" : 1,
+      "text" : "CATEGORIES OF CONSTRUCTION ASSEMBLY UNITS "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 150.1057,
+      "rightX" : 82.7656,
+      "topY" : 140.1057,
+      "baseLineY" : 147.48,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 163.7171,
+      "rightX" : 248.976,
+      "topY" : 151.7171,
+      "baseLineY" : 160.86,
+      "fontId" : 2,
+      "text" : "CATEGORY DESCRIPTION "
+    }, {
+      "leftX" : 286.62,
+      "bottomY" : 163.8971,
+      "rightX" : 401.7346,
+      "topY" : 151.8971,
+      "baseLineY" : 161.04,
+      "fontId" : 2,
+      "text" : "NEW DESIGNATION "
+    }, {
+      "leftX" : 418.8,
+      "bottomY" : 164.1972,
+      "rightX" : 519.996,
+      "topY" : 152.1972,
+      "baseLineY" : 161.34,
+      "fontId" : 2,
+      "text" : "HISTORICAL REA "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 177.0371,
+      "rightX" : 243.096,
+      "topY" : 165.0371,
+      "baseLineY" : 174.18,
+      "fontId" : 2,
+      "text" : "(Function of Assembly Unit) "
+    }, {
+      "leftX" : 296.22,
+      "bottomY" : 177.0971,
+      "rightX" : 394.176,
+      "topY" : 165.0971,
+      "baseLineY" : 174.24,
+      "fontId" : 2,
+      "text" : "(RUS 1728F-803) "
+    }, {
+      "leftX" : 428.28,
+      "bottomY" : 177.8772,
+      "rightX" : 513.216,
+      "topY" : 165.8772,
+      "baseLineY" : 175.02,
+      "fontId" : 2,
+      "text" : "DESIGNATION "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 205.2371,
+      "rightX" : 276.5161,
+      "topY" : 193.2371,
+      "baseLineY" : 202.38,
+      "fontId" : 2,
+      "text" : "Single-Phase Primary and Neutral "
+    }, {
+      "leftX" : 338.94,
+      "bottomY" : 206.1972,
+      "rightX" : 349.776,
+      "topY" : 194.1972,
+      "baseLineY" : 203.34,
+      "fontId" : 2,
+      "text" : "A "
+    }, {
+      "leftX" : 466.44,
+      "bottomY" : 205.1772,
+      "rightX" : 477.276,
+      "topY" : 193.1772,
+      "baseLineY" : 202.32,
+      "fontId" : 2,
+      "text" : "A "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 219.9372,
+      "rightX" : 198.396,
+      "topY" : 207.9372,
+      "baseLineY" : 217.08,
+      "fontId" : 2,
+      "text" : "Conductor Support "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 246.6972,
+      "rightX" : 265.776,
+      "topY" : 234.6972,
+      "baseLineY" : 243.84,
+      "fontId" : 2,
+      "text" : "Two-Phase Primary and Neutral "
+    }, {
+      "leftX" : 338.64,
+      "bottomY" : 247.7172,
+      "rightX" : 349.476,
+      "topY" : 235.7172,
+      "baseLineY" : 244.86,
+      "fontId" : 2,
+      "text" : "B "
+    }, {
+      "leftX" : 466.2,
+      "bottomY" : 246.6372,
+      "rightX" : 477.036,
+      "topY" : 234.6372,
+      "baseLineY" : 243.78,
+      "fontId" : 2,
+      "text" : "B "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 261.5172,
+      "rightX" : 198.396,
+      "topY" : 249.5172,
+      "baseLineY" : 258.66,
+      "fontId" : 2,
+      "text" : "Conductor Support "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 287.9171,
+      "rightX" : 274.5361,
+      "topY" : 275.9171,
+      "baseLineY" : 285.06,
+      "fontId" : 2,
+      "text" : "Three-Phase Primary and Neutral "
+    }, {
+      "leftX" : 338.7,
+      "bottomY" : 288.9372,
+      "rightX" : 350.196,
+      "topY" : 276.9372,
+      "baseLineY" : 286.08,
+      "fontId" : 2,
+      "text" : "C "
+    }, {
+      "leftX" : 465.84,
+      "bottomY" : 287.8572,
+      "rightX" : 477.336,
+      "topY" : 275.8572,
+      "baseLineY" : 285,
+      "fontId" : 2,
+      "text" : "C "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 302.7971,
+      "rightX" : 198.396,
+      "topY" : 290.7971,
+      "baseLineY" : 299.94,
+      "fontId" : 2,
+      "text" : "Conductor Support "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 329.1971,
+      "rightX" : 238.656,
+      "topY" : 317.1971,
+      "baseLineY" : 326.34,
+      "fontId" : 2,
+      "text" : "Double Circuit Primary and "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 341.7371,
+      "rightX" : 135.696,
+      "topY" : 329.7371,
+      "baseLineY" : 338.88,
+      "fontId" : 2,
+      "text" : "Neutral "
+    }, {
+      "leftX" : 338.4,
+      "bottomY" : 330.3371,
+      "rightX" : 349.896,
+      "topY" : 318.3371,
+      "baseLineY" : 327.48,
+      "fontId" : 2,
+      "text" : "D "
+    }, {
+      "leftX" : 461.28,
+      "bottomY" : 329.197,
+      "rightX" : 481.476,
+      "topY" : 317.197,
+      "baseLineY" : 326.3399,
+      "fontId" : 2,
+      "text" : "DC "
+    }, {
+      "leftX" : 406.98,
+      "bottomY" : 343.3509,
+      "rightX" : 410.316,
+      "topY" : 331.3509,
+      "baseLineY" : 340.2,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 355.4171,
+      "rightX" : 197.376,
+      "topY" : 343.4171,
+      "baseLineY" : 352.56,
+      "fontId" : 2,
+      "text" : "Conductor Support "
+    }, {
+      "leftX" : 276.9,
+      "bottomY" : 358.1708,
+      "rightX" : 280.236,
+      "topY" : 346.1708,
+      "baseLineY" : 355.02,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 369.6908,
+      "rightX" : 91.656,
+      "topY" : 357.6908,
+      "baseLineY" : 366.54,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 338.82,
+      "bottomY" : 371.7371,
+      "rightX" : 349.656,
+      "topY" : 359.7371,
+      "baseLineY" : 368.88,
+      "fontId" : 2,
+      "text" : "E "
+    }, {
+      "leftX" : 406.98,
+      "bottomY" : 369.5709,
+      "rightX" : 410.316,
+      "topY" : 357.5709,
+      "baseLineY" : 366.42,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 383.1971,
+      "rightX" : 124.956,
+      "topY" : 371.1971,
+      "baseLineY" : 380.34,
+      "fontId" : 2,
+      "text" : "Guys "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 393.6371,
+      "rightX" : 347.376,
+      "topY" : 381.6371,
+      "baseLineY" : 390.78,
+      "fontId" : 2,
+      "text" : "F "
+    }, {
+      "leftX" : 466.08,
+      "bottomY" : 383.1371,
+      "rightX" : 476.916,
+      "topY" : 371.1371,
+      "baseLineY" : 380.28,
+      "fontId" : 2,
+      "text" : "E "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 426.9971,
+      "rightX" : 166.656,
+      "topY" : 414.9971,
+      "baseLineY" : 424.14,
+      "fontId" : 2,
+      "text" : "Transformers "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 405.0971,
+      "rightX" : 140.976,
+      "topY" : 393.0971,
+      "baseLineY" : 402.24,
+      "fontId" : 2,
+      "text" : "Anchors "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 415.5371,
+      "rightX" : 349.356,
+      "topY" : 403.5371,
+      "baseLineY" : 412.68,
+      "fontId" : 2,
+      "text" : "G "
+    }, {
+      "leftX" : 461.76,
+      "bottomY" : 405.2171,
+      "rightX" : 471.936,
+      "topY" : 393.2171,
+      "baseLineY" : 402.36,
+      "fontId" : 2,
+      "text" : "F "
+    }, {
+      "leftX" : 461.76,
+      "bottomY" : 427.2971,
+      "rightX" : 473.916,
+      "topY" : 415.2971,
+      "baseLineY" : 424.44,
+      "fontId" : 2,
+      "text" : "G "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 437.4371,
+      "rightX" : 348.696,
+      "topY" : 425.4371,
+      "baseLineY" : 434.58,
+      "fontId" : 2,
+      "text" : "H "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 448.8971,
+      "rightX" : 142.956,
+      "topY" : 436.8971,
+      "baseLineY" : 446.04,
+      "fontId" : 2,
+      "text" : "Grounds "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 470.7971,
+      "rightX" : 163.296,
+      "topY" : 458.7971,
+      "baseLineY" : 467.94,
+      "fontId" : 2,
+      "text" : "Secondaries "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 459.3371,
+      "rightX" : 346.056,
+      "topY" : 447.3371,
+      "baseLineY" : 456.48,
+      "fontId" : 2,
+      "text" : "J "
+    }, {
+      "leftX" : 461.76,
+      "bottomY" : 449.3771,
+      "rightX" : 480.756,
+      "topY" : 437.3771,
+      "baseLineY" : 446.52,
+      "fontId" : 2,
+      "text" : "M2 "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 481.2371,
+      "rightX" : 348.036,
+      "topY" : 469.2371,
+      "baseLineY" : 478.38,
+      "fontId" : 2,
+      "text" : "K "
+    }, {
+      "leftX" : 461.76,
+      "bottomY" : 471.4571,
+      "rightX" : 470.616,
+      "topY" : 459.4571,
+      "baseLineY" : 468.5999,
+      "fontId" : 2,
+      "text" : "J "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 492.6971,
+      "rightX" : 142.896,
+      "topY" : 480.6971,
+      "baseLineY" : 489.84,
+      "fontId" : 2,
+      "text" : "Services "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 514.6571,
+      "rightX" : 167.076,
+      "topY" : 502.6571,
+      "baseLineY" : 511.8,
+      "fontId" : 2,
+      "text" : "Tying Guides "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 503.1371,
+      "rightX" : 346.716,
+      "topY" : 491.1371,
+      "baseLineY" : 500.28,
+      "fontId" : 2,
+      "text" : "L "
+    }, {
+      "leftX" : 441.12,
+      "bottomY" : 493.5371,
+      "rightX" : 501.8761,
+      "topY" : 481.5371,
+      "baseLineY" : 490.6799,
+      "fontId" : 2,
+      "text" : "K, M8,M24 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 536.9171,
+      "rightX" : 171.1572,
+      "topY" : 524.9171,
+      "baseLineY" : 534.0599,
+      "fontId" : 2,
+      "text" : "Miscellaneous "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 525.0971,
+      "rightX" : 350.016,
+      "topY" : 513.0971,
+      "baseLineY" : 522.24,
+      "fontId" : 2,
+      "text" : "M "
+    }, {
+      "leftX" : 440.76,
+      "bottomY" : 515.4371,
+      "rightX" : 502.416,
+      "topY" : 503.4371,
+      "baseLineY" : 512.58,
+      "fontId" : 2,
+      "text" : "M40 – M43 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 558.9371,
+      "rightX" : 141.576,
+      "topY" : 546.9371,
+      "baseLineY" : 556.08,
+      "fontId" : 2,
+      "text" : "Neutrals "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 546.9971,
+      "rightX" : 348.696,
+      "topY" : 534.9971,
+      "baseLineY" : 544.14,
+      "fontId" : 2,
+      "text" : "N "
+    }, {
+      "leftX" : 459.18,
+      "bottomY" : 537.3371,
+      "rightX" : 483.936,
+      "topY" : 525.3371,
+      "baseLineY" : 534.4799,
+      "fontId" : 2,
+      "text" : "M,R "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 568.8971,
+      "rightX" : 348.036,
+      "topY" : 556.8971,
+      "baseLineY" : 566.0399,
+      "fontId" : 2,
+      "text" : "P "
+    }, {
+      "leftX" : 468,
+      "bottomY" : 559.237,
+      "rightX" : 474.816,
+      "topY" : 547.237,
+      "baseLineY" : 556.3799,
+      "fontId" : 2,
+      "text" : "- "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 581.0171,
+      "rightX" : 216.756,
+      "topY" : 569.0171,
+      "baseLineY" : 578.16,
+      "fontId" : 2,
+      "text" : "Protection (Line, Pole) "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 590.7971,
+      "rightX" : 349.356,
+      "topY" : 578.7971,
+      "baseLineY" : 587.9399,
+      "fontId" : 2,
+      "text" : "Q "
+    }, {
+      "leftX" : 461.76,
+      "bottomY" : 581.0171,
+      "rightX" : 480.636,
+      "topY" : 569.0171,
+      "baseLineY" : 578.1599,
+      "fontId" : 2,
+      "text" : "M2 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 603.0971,
+      "rightX" : 143.616,
+      "topY" : 591.0971,
+      "baseLineY" : 600.24,
+      "fontId" : 2,
+      "text" : "Metering "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 612.6971,
+      "rightX" : 348.696,
+      "topY" : 600.6971,
+      "baseLineY" : 609.84,
+      "fontId" : 2,
+      "text" : "R "
+    }, {
+      "leftX" : 461.76,
+      "bottomY" : 602.9171,
+      "rightX" : 480.756,
+      "topY" : 590.9171,
+      "baseLineY" : 600.0599,
+      "fontId" : 2,
+      "text" : "M8 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 625.1771,
+      "rightX" : 150.096,
+      "topY" : 613.1771,
+      "baseLineY" : 622.3199,
+      "fontId" : 2,
+      "text" : "Reclosers "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 634.5971,
+      "rightX" : 348.036,
+      "topY" : 622.5971,
+      "baseLineY" : 631.7399,
+      "fontId" : 2,
+      "text" : "S "
+    }, {
+      "leftX" : 461.76,
+      "bottomY" : 625.057,
+      "rightX" : 480.636,
+      "topY" : 613.057,
+      "baseLineY" : 622.1999,
+      "fontId" : 2,
+      "text" : "M3 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 647.0171,
+      "rightX" : 168.996,
+      "topY" : 635.0171,
+      "baseLineY" : 644.16,
+      "fontId" : 2,
+      "text" : "Sectionalizing "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 656.497,
+      "rightX" : 351.396,
+      "topY" : 644.497,
+      "baseLineY" : 653.6399,
+      "fontId" : 2,
+      "text" : "W "
+    }, {
+      "leftX" : 450.0601,
+      "bottomY" : 647.1371,
+      "rightX" : 493.416,
+      "topY" : 635.1371,
+      "baseLineY" : 644.2799,
+      "fontId" : 2,
+      "text" : "M3, M5 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 668.7971,
+      "rightX" : 236.436,
+      "topY" : 656.7971,
+      "baseLineY" : 665.9399,
+      "fontId" : 2,
+      "text" : "Wood (Poles, Crossarms) "
+    }, {
+      "leftX" : 337.2,
+      "bottomY" : 678.3971,
+      "rightX" : 348.036,
+      "topY" : 666.3971,
+      "baseLineY" : 675.5399,
+      "fontId" : 2,
+      "text" : "Y "
+    }, {
+      "leftX" : 432.0001,
+      "bottomY" : 669.3371,
+      "rightX" : 510.3361,
+      "topY" : 657.3371,
+      "baseLineY" : 666.4799,
+      "fontId" : 2,
+      "text" : "M5, M19, M20 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 690.8171,
+      "rightX" : 268.5959,
+      "topY" : 678.8171,
+      "baseLineY" : 687.96,
+      "fontId" : 2,
+      "text" : "Voltage Alterations (Regulators) "
+    }, {
+      "leftX" : 461.7601,
+      "bottomY" : 691.057,
+      "rightX" : 481.2361,
+      "topY" : 679.057,
+      "baseLineY" : 688.1999,
+      "fontId" : 2,
+      "text" : "M7 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.9762,
+      "bottomY" : 39.166,
+      "rightX" : 82.7618,
+      "topY" : 29.166,
+      "baseLineY" : 36.785,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 426.78,
+      "bottomY" : 49.7639,
+      "rightX" : 525.24,
+      "topY" : 37.7639,
+      "baseLineY" : 46.92,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 473.88,
+      "bottomY" : 63.5639,
+      "rightX" : 525.3611,
+      "topY" : 51.5639,
+      "baseLineY" : 60.72,
+      "fontId" : 12,
+      "text" : "Appendix "
+    }, {
+      "leftX" : 490.32,
+      "bottomY" : 77.184,
+      "rightX" : 517.98,
+      "topY" : 65.184,
+      "baseLineY" : 74.34,
+      "fontId" : 12,
+      "text" : "Page "
+    }, {
+      "leftX" : 517.74,
+      "bottomY" : 76.71,
+      "rightX" : 524.8642,
+      "topY" : 66.71,
+      "baseLineY" : 74.34,
+      "fontId" : 13,
+      "text" : "8 "
+    }, {
+      "leftX" : 281.88,
+      "bottomY" : 104.6709,
+      "rightX" : 334.2361,
+      "topY" : 92.6709,
+      "baseLineY" : 101.52,
+      "fontId" : 1,
+      "text" : "TABLE 2 "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 122.5509,
+      "rightX" : 83.316,
+      "topY" : 110.5509,
+      "baseLineY" : 119.4,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 130.38,
+      "bottomY" : 136.3509,
+      "rightX" : 485.796,
+      "topY" : 124.3509,
+      "baseLineY" : 133.2,
+      "fontId" : 1,
+      "text" : "SUBCATEGORIES (TYPES) OF POLE-TOP ASSEMBLY UNITS * "
+    }, {
+      "leftX" : 188.22,
+      "bottomY" : 150.5108,
+      "rightX" : 427.296,
+      "topY" : 138.5108,
+      "baseLineY" : 147.36,
+      "fontId" : 1,
+      "text" : "* (Defined as Categories “A” through “D”) "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 167.1457,
+      "rightX" : 82.7656,
+      "topY" : 157.1457,
+      "baseLineY" : 164.52,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 180.7572,
+      "rightX" : 273.336,
+      "topY" : 168.7572,
+      "baseLineY" : 177.9,
+      "fontId" : 2,
+      "text" : "SUBCATEGORY DESCRIPTION "
+    }, {
+      "leftX" : 314.04,
+      "bottomY" : 180.9372,
+      "rightX" : 429.1547,
+      "topY" : 168.9372,
+      "baseLineY" : 178.08,
+      "fontId" : 2,
+      "text" : "NEW DESIGNATION "
+    }, {
+      "leftX" : 449.52,
+      "bottomY" : 181.0572,
+      "rightX" : 550.776,
+      "topY" : 169.0572,
+      "baseLineY" : 178.2,
+      "fontId" : 2,
+      "text" : "HISTORICAL REA "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 194.1372,
+      "rightX" : 243.756,
+      "topY" : 182.1372,
+      "baseLineY" : 191.28,
+      "fontId" : 2,
+      "text" : "(Type or Applicable Angles) "
+    }, {
+      "leftX" : 324,
+      "bottomY" : 194.1972,
+      "rightX" : 421.956,
+      "topY" : 182.1972,
+      "baseLineY" : 191.34,
+      "fontId" : 2,
+      "text" : "(RUS 1728F-803) "
+    }, {
+      "leftX" : 458.1,
+      "bottomY" : 194.2572,
+      "rightX" : 543.036,
+      "topY" : 182.2572,
+      "baseLineY" : 191.4,
+      "fontId" : 2,
+      "text" : "DESIGNATION "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 222.4571,
+      "rightX" : 229.716,
+      "topY" : 210.4571,
+      "baseLineY" : 219.6,
+      "fontId" : 2,
+      "text" : "Tangent; Small Angles ** "
+    }, {
+      "leftX" : 367.68,
+      "bottomY" : 222.4571,
+      "rightX" : 377.196,
+      "topY" : 210.4571,
+      "baseLineY" : 219.6,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 491.16,
+      "bottomY" : 222.4571,
+      "rightX" : 510.456,
+      "topY" : 210.4571,
+      "baseLineY" : 219.6,
+      "fontId" : 2,
+      "text" : "1,9 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 236.9171,
+      "rightX" : 273.036,
+      "topY" : 224.9171,
+      "baseLineY" : 234.06,
+      "fontId" : 2,
+      "text" : "Single Pin or Post-type Insulators "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 263.8571,
+      "rightX" : 205.356,
+      "topY" : 251.8571,
+      "baseLineY" : 261,
+      "fontId" : 2,
+      "text" : "Small Line Angles ** "
+    }, {
+      "leftX" : 367.68,
+      "bottomY" : 263.8571,
+      "rightX" : 377.196,
+      "topY" : 251.8571,
+      "baseLineY" : 261,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 485.9999,
+      "bottomY" : 263.8571,
+      "rightX" : 515.4959,
+      "topY" : 251.8571,
+      "baseLineY" : 261,
+      "fontId" : 2,
+      "text" : "1,2,9 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 278.3172,
+      "rightX" : 277.956,
+      "topY" : 266.3172,
+      "baseLineY" : 275.46,
+      "fontId" : 2,
+      "text" : "Double Pin or Post-type Insulators "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 305.0771,
+      "rightX" : 207.1561,
+      "topY" : 293.0771,
+      "baseLineY" : 302.22,
+      "fontId" : 2,
+      "text" : "Large Line Angles ** "
+    }, {
+      "leftX" : 367.68,
+      "bottomY" : 305.0171,
+      "rightX" : 377.196,
+      "topY" : 293.0171,
+      "baseLineY" : 302.16,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 496.14,
+      "bottomY" : 305.0171,
+      "rightX" : 505.656,
+      "topY" : 293.0171,
+      "baseLineY" : 302.16,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 319.5371,
+      "rightX" : 239.856,
+      "topY" : 307.5371,
+      "baseLineY" : 316.68,
+      "fontId" : 2,
+      "text" : "Suspension-type Insulators "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 346.4171,
+      "rightX" : 207.1561,
+      "topY" : 334.4171,
+      "baseLineY" : 343.56,
+      "fontId" : 2,
+      "text" : "Large Line Angles ** "
+    }, {
+      "leftX" : 367.68,
+      "bottomY" : 346.4172,
+      "rightX" : 377.196,
+      "topY" : 334.4172,
+      "baseLineY" : 343.56,
+      "fontId" : 2,
+      "text" : "4 "
+    }, {
+      "leftX" : 496.14,
+      "bottomY" : 346.4172,
+      "rightX" : 505.656,
+      "topY" : 334.4172,
+      "baseLineY" : 343.56,
+      "fontId" : 2,
+      "text" : "4 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 360.4571,
+      "rightX" : 193.7172,
+      "topY" : 348.4571,
+      "baseLineY" : 357.6,
+      "fontId" : 2,
+      "text" : "Double Deadends "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 374.4972,
+      "rightX" : 239.856,
+      "topY" : 362.4972,
+      "baseLineY" : 371.64,
+      "fontId" : 2,
+      "text" : "Suspension-type Insulators "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 401.4972,
+      "rightX" : 229.116,
+      "topY" : 389.4972,
+      "baseLineY" : 398.64,
+      "fontId" : 2,
+      "text" : "Single Deadends (Taps) "
+    }, {
+      "leftX" : 367.68,
+      "bottomY" : 401.4972,
+      "rightX" : 377.196,
+      "topY" : 389.4972,
+      "baseLineY" : 398.64,
+      "fontId" : 2,
+      "text" : "5 "
+    }, {
+      "leftX" : 491.16,
+      "bottomY" : 401.4972,
+      "rightX" : 510.456,
+      "topY" : 389.4972,
+      "baseLineY" : 398.64,
+      "fontId" : 2,
+      "text" : "5,7 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 416.0771,
+      "rightX" : 239.856,
+      "topY" : 404.0771,
+      "baseLineY" : 413.22,
+      "fontId" : 2,
+      "text" : "Suspension-type Insulators "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 442.8372,
+      "rightX" : 249.216,
+      "topY" : 430.8372,
+      "baseLineY" : 439.98,
+      "fontId" : 2,
+      "text" : "Double Deadends (Tangent) "
+    }, {
+      "leftX" : 367.68,
+      "bottomY" : 442.8372,
+      "rightX" : 377.196,
+      "topY" : 430.8372,
+      "baseLineY" : 439.98,
+      "fontId" : 2,
+      "text" : "6 "
+    }, {
+      "leftX" : 491.16,
+      "bottomY" : 442.8372,
+      "rightX" : 510.456,
+      "topY" : 430.8372,
+      "baseLineY" : 439.98,
+      "fontId" : 2,
+      "text" : "6,8 "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 456.8171,
+      "rightX" : 242.436,
+      "topY" : 444.8171,
+      "baseLineY" : 453.96,
+      "fontId" : 2,
+      "text" : "Suspension-type Insulators "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 481.8908,
+      "rightX" : 83.316,
+      "topY" : 469.8908,
+      "baseLineY" : 478.74,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 495.4571,
+      "rightX" : 512.256,
+      "topY" : 483.4571,
+      "baseLineY" : 492.6,
+      "fontId" : 2,
+      "text" : "** NOTE: Allowable line angles are usually defined and limited as shown on the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 509.2571,
+      "rightX" : 498.9361,
+      "topY" : 497.2571,
+      "baseLineY" : 506.4,
+      "fontId" : 2,
+      "text" : "notes and the design parameters of the drawings of each pole-top assembly "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 522.9971,
+      "rightX" : 115.536,
+      "topY" : 510.9971,
+      "baseLineY" : 520.14,
+      "fontId" : 2,
+      "text" : "unit. "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 792.2381,
+      "rightX" : 80.2636,
+      "topY" : 791.2381,
+      "baseLineY" : 792,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 10,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.9753,
+      "bottomY" : 39.1561,
+      "rightX" : 82.7608,
+      "topY" : 29.1561,
+      "baseLineY" : 36.7751,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 49.7639,
+      "rightX" : 187.56,
+      "topY" : 37.7639,
+      "baseLineY" : 46.92,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 63.684,
+      "rightX" : 142.2,
+      "topY" : 51.684,
+      "baseLineY" : 60.84,
+      "fontId" : 12,
+      "text" : "Appendix "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 77.124,
+      "rightX" : 117.66,
+      "topY" : 65.124,
+      "baseLineY" : 74.28,
+      "fontId" : 12,
+      "text" : "Page "
+    }, {
+      "leftX" : 117.42,
+      "bottomY" : 76.65,
+      "rightX" : 124.6645,
+      "topY" : 66.65,
+      "baseLineY" : 74.28,
+      "fontId" : 13,
+      "text" : "9 "
+    }, {
+      "leftX" : 281.88,
+      "bottomY" : 103.7708,
+      "rightX" : 334.2361,
+      "topY" : 91.7708,
+      "baseLineY" : 100.62,
+      "fontId" : 1,
+      "text" : "TABLE 3 "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 121.6508,
+      "rightX" : 83.316,
+      "topY" : 109.6508,
+      "baseLineY" : 118.5,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 165.24,
+      "bottomY" : 135.4508,
+      "rightX" : 449.976,
+      "topY" : 123.4508,
+      "baseLineY" : 132.3,
+      "fontId" : 1,
+      "text" : "SUBCATEGORIES (TYPES) OF ASSEMBLY UNITS "
+    }, {
+      "leftX" : 227.28,
+      "bottomY" : 149.6709,
+      "rightX" : 387.936,
+      "topY" : 137.6709,
+      "baseLineY" : 146.52,
+      "fontId" : 1,
+      "text" : "(RUS BULLETIN 1728F-803) "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 166.2457,
+      "rightX" : 82.7656,
+      "topY" : 156.2457,
+      "baseLineY" : 163.62,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 180.2171,
+      "rightX" : 259.476,
+      "topY" : 168.2171,
+      "baseLineY" : 177.36,
+      "fontId" : 2,
+      "text" : "CATEGORY (DESCRIPTION) "
+    }, {
+      "leftX" : 278.82,
+      "bottomY" : 180.1571,
+      "rightX" : 371.9759,
+      "topY" : 168.1571,
+      "baseLineY" : 177.3,
+      "fontId" : 2,
+      "text" : "SUBCATEGORY "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 180.2171,
+      "rightX" : 526.356,
+      "topY" : 168.2171,
+      "baseLineY" : 177.36,
+      "fontId" : 2,
+      "text" : "DESIGNATION MEANING "
+    }, {
+      "leftX" : 284.82,
+      "bottomY" : 193.3571,
+      "rightX" : 369.756,
+      "topY" : 181.3571,
+      "baseLineY" : 190.5,
+      "fontId" : 2,
+      "text" : "DESIGNATION "
+    }, {
+      "leftX" : 284.82,
+      "bottomY" : 193.3571,
+      "rightX" : 369.756,
+      "topY" : 181.3571,
+      "baseLineY" : 190.5,
+      "fontId" : 2,
+      "text" : "DESIGNATION "
+    }, {
+      "leftX" : 94.62,
+      "bottomY" : 220.7171,
+      "rightX" : 102.624,
+      "topY" : 208.7171,
+      "baseLineY" : 217.86,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 102.6,
+      "bottomY" : 221.76,
+      "rightX" : 107.604,
+      "topY" : 205.38,
+      "baseLineY" : 217.86,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 111.48,
+      "bottomY" : 220.7171,
+      "rightX" : 150.216,
+      "topY" : 208.7171,
+      "baseLineY" : 217.86,
+      "fontId" : 2,
+      "text" : "(Guys) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 220.7171,
+      "rightX" : 329.496,
+      "topY" : 208.7171,
+      "baseLineY" : 217.86,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 220.7171,
+      "rightX" : 482.856,
+      "topY" : 208.7171,
+      "baseLineY" : 217.86,
+      "fontId" : 2,
+      "text" : "Through Bolt Type "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 233.0391,
+      "rightX" : 90.825,
+      "topY" : 223.0391,
+      "baseLineY" : 230.76,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 234.5771,
+      "rightX" : 329.496,
+      "topY" : 222.5771,
+      "baseLineY" : 231.72,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 234.5771,
+      "rightX" : 557.916,
+      "topY" : 222.5771,
+      "baseLineY" : 231.72,
+      "fontId" : 2,
+      "text" : "Through Bolt Type – Heavy Duty "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 246.8991,
+      "rightX" : 90.825,
+      "topY" : 236.8991,
+      "baseLineY" : 244.62,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 248.4372,
+      "rightX" : 329.496,
+      "topY" : 236.4372,
+      "baseLineY" : 245.58,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 248.4372,
+      "rightX" : 463.116,
+      "topY" : 236.4372,
+      "baseLineY" : 245.58,
+      "fontId" : 2,
+      "text" : "Wrapped Type "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 260.6991,
+      "rightX" : 90.825,
+      "topY" : 250.6991,
+      "baseLineY" : 258.42,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 262.4771,
+      "rightX" : 329.496,
+      "topY" : 250.4771,
+      "baseLineY" : 259.62,
+      "fontId" : 2,
+      "text" : "4 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 262.4771,
+      "rightX" : 469.956,
+      "topY" : 250.4771,
+      "baseLineY" : 259.62,
+      "fontId" : 2,
+      "text" : "Pole Band Type "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 277.175,
+      "rightX" : 91.32,
+      "topY" : 265.175,
+      "baseLineY" : 274.44,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 277.4171,
+      "rightX" : 329.496,
+      "topY" : 265.4171,
+      "baseLineY" : 274.56,
+      "fontId" : 2,
+      "text" : "5 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 277.4171,
+      "rightX" : 484.716,
+      "topY" : 265.4171,
+      "baseLineY" : 274.56,
+      "fontId" : 2,
+      "text" : "Miscellaneous Unit "
+    }, {
+      "leftX" : 94.74,
+      "bottomY" : 303.4571,
+      "rightX" : 102.072,
+      "topY" : 291.4571,
+      "baseLineY" : 300.6,
+      "fontId" : 2,
+      "text" : "F"
+    }, {
+      "leftX" : 102.06,
+      "bottomY" : 304.5,
+      "rightX" : 107.064,
+      "topY" : 288.12,
+      "baseLineY" : 300.6,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 111,
+      "bottomY" : 303.4571,
+      "rightX" : 165.396,
+      "topY" : 291.4571,
+      "baseLineY" : 300.6,
+      "fontId" : 2,
+      "text" : "(Anchors) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 303.4571,
+      "rightX" : 329.496,
+      "topY" : 291.4571,
+      "baseLineY" : 300.6,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 303.4571,
+      "rightX" : 471.156,
+      "topY" : 291.4571,
+      "baseLineY" : 300.6,
+      "fontId" : 2,
+      "text" : "Expanding Type "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 315.8391,
+      "rightX" : 90.825,
+      "topY" : 305.8391,
+      "baseLineY" : 313.56,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 317.3171,
+      "rightX" : 329.496,
+      "topY" : 305.3171,
+      "baseLineY" : 314.46,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 317.3171,
+      "rightX" : 550.716,
+      "topY" : 305.3171,
+      "baseLineY" : 314.46,
+      "fontId" : 2,
+      "text" : "Screw Type – (Power Installed) "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 329.6391,
+      "rightX" : 90.825,
+      "topY" : 319.6391,
+      "baseLineY" : 327.36,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 331.1772,
+      "rightX" : 329.496,
+      "topY" : 319.1772,
+      "baseLineY" : 328.32,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 331.1772,
+      "rightX" : 441.936,
+      "topY" : 319.1772,
+      "baseLineY" : 328.32,
+      "fontId" : 2,
+      "text" : "Plate Type "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 343.4391,
+      "rightX" : 90.825,
+      "topY" : 333.4391,
+      "baseLineY" : 341.16,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 344.9171,
+      "rightX" : 329.496,
+      "topY" : 332.9171,
+      "baseLineY" : 342.06,
+      "fontId" : 2,
+      "text" : "4 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 344.9171,
+      "rightX" : 454.476,
+      "topY" : 332.9171,
+      "baseLineY" : 342.06,
+      "fontId" : 2,
+      "text" : "Service Type "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 357.2391,
+      "rightX" : 90.825,
+      "topY" : 347.2391,
+      "baseLineY" : 354.96,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 358.9571,
+      "rightX" : 329.496,
+      "topY" : 346.9571,
+      "baseLineY" : 356.1,
+      "fontId" : 2,
+      "text" : "5 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 358.9571,
+      "rightX" : 441.996,
+      "topY" : 346.9571,
+      "baseLineY" : 356.1,
+      "fontId" : 2,
+      "text" : "Rock Type "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 373.595,
+      "rightX" : 91.32,
+      "topY" : 361.595,
+      "baseLineY" : 370.86,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 373.8972,
+      "rightX" : 329.496,
+      "topY" : 361.8972,
+      "baseLineY" : 371.04,
+      "fontId" : 2,
+      "text" : "6 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 373.8972,
+      "rightX" : 557.256,
+      "topY" : 361.8972,
+      "baseLineY" : 371.04,
+      "fontId" : 2,
+      "text" : "Swamp Type – (Power Installed) "
+    }, {
+      "leftX" : 94.74,
+      "bottomY" : 399.8771,
+      "rightX" : 104.076,
+      "topY" : 387.8771,
+      "baseLineY" : 397.02,
+      "fontId" : 2,
+      "text" : "G"
+    }, {
+      "leftX" : 104.1,
+      "bottomY" : 400.92,
+      "rightX" : 109.104,
+      "topY" : 384.54,
+      "baseLineY" : 397.02,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 112.98,
+      "bottomY" : 399.8771,
+      "rightX" : 194.196,
+      "topY" : 387.8771,
+      "baseLineY" : 397.02,
+      "fontId" : 2,
+      "text" : "(Transformers) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 399.7571,
+      "rightX" : 329.496,
+      "topY" : 387.7571,
+      "baseLineY" : 396.9,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 399.8771,
+      "rightX" : 515.736,
+      "topY" : 387.8771,
+      "baseLineY" : 397.02,
+      "fontId" : 2,
+      "text" : "Single-Phase Installation "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 412.1391,
+      "rightX" : 90.825,
+      "topY" : 402.1391,
+      "baseLineY" : 409.86,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 413.9171,
+      "rightX" : 329.496,
+      "topY" : 401.9171,
+      "baseLineY" : 411.06,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 413.9171,
+      "rightX" : 505.296,
+      "topY" : 401.9171,
+      "baseLineY" : 411.06,
+      "fontId" : 2,
+      "text" : "Two-Phase Installation "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 428.675,
+      "rightX" : 91.32,
+      "topY" : 416.675,
+      "baseLineY" : 425.94,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 428.9771,
+      "rightX" : 329.496,
+      "topY" : 416.9771,
+      "baseLineY" : 426.12,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 428.9771,
+      "rightX" : 513.876,
+      "topY" : 416.9771,
+      "baseLineY" : 426.12,
+      "fontId" : 2,
+      "text" : "Three-Phase Installation "
+    }, {
+      "leftX" : 94.74,
+      "bottomY" : 454.9571,
+      "rightX" : 103.404,
+      "topY" : 442.9571,
+      "baseLineY" : 452.1,
+      "fontId" : 2,
+      "text" : "H"
+    }, {
+      "leftX" : 103.38,
+      "bottomY" : 456,
+      "rightX" : 108.384,
+      "topY" : 439.62,
+      "baseLineY" : 452.1,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 112.2,
+      "bottomY" : 454.9571,
+      "rightX" : 168.636,
+      "topY" : 442.9571,
+      "baseLineY" : 452.1,
+      "fontId" : 2,
+      "text" : "(Grounds) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 454.8972,
+      "rightX" : 329.496,
+      "topY" : 442.8972,
+      "baseLineY" : 452.04,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 454.9571,
+      "rightX" : 479.736,
+      "topY" : 442.9571,
+      "baseLineY" : 452.1,
+      "fontId" : 2,
+      "text" : "Ground Rod Type "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 467.3391,
+      "rightX" : 90.825,
+      "topY" : 457.3391,
+      "baseLineY" : 465.06,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 468.8171,
+      "rightX" : 329.496,
+      "topY" : 456.8171,
+      "baseLineY" : 465.96,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 468.8171,
+      "rightX" : 451.896,
+      "topY" : 456.8171,
+      "baseLineY" : 465.96,
+      "fontId" : 2,
+      "text" : "Trench Type "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 481.0791,
+      "rightX" : 90.825,
+      "topY" : 471.0791,
+      "baseLineY" : 478.8,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 482.7971,
+      "rightX" : 329.496,
+      "topY" : 470.7971,
+      "baseLineY" : 479.94,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 482.7971,
+      "rightX" : 548.376,
+      "topY" : 470.7971,
+      "baseLineY" : 479.94,
+      "fontId" : 2,
+      "text" : "Ground Rod Type for Switches "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 497.375,
+      "rightX" : 91.32,
+      "topY" : 485.375,
+      "baseLineY" : 494.64,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 497.7371,
+      "rightX" : 329.496,
+      "topY" : 485.7371,
+      "baseLineY" : 494.88,
+      "fontId" : 2,
+      "text" : "4 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 497.6172,
+      "rightX" : 527.796,
+      "topY" : 485.6172,
+      "baseLineY" : 494.76,
+      "fontId" : 2,
+      "text" : "Platform Type for Switches "
+    }, {
+      "leftX" : 95.1,
+      "bottomY" : 523.7772,
+      "rightX" : 186.996,
+      "topY" : 511.7772,
+      "baseLineY" : 520.92,
+      "fontId" : 2,
+      "text" : "J  (Secondaries) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 523.7772,
+      "rightX" : 329.496,
+      "topY" : 511.7772,
+      "baseLineY" : 520.92,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 523.7772,
+      "rightX" : 498.816,
+      "topY" : 511.7772,
+      "baseLineY" : 520.92,
+      "fontId" : 2,
+      "text" : "Tangent, Small Angle "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 536.0391,
+      "rightX" : 90.825,
+      "topY" : 526.0391,
+      "baseLineY" : 533.76,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 537.5771,
+      "rightX" : 329.496,
+      "topY" : 525.5771,
+      "baseLineY" : 534.72,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 537.5771,
+      "rightX" : 449.736,
+      "topY" : 525.5771,
+      "baseLineY" : 534.72,
+      "fontId" : 2,
+      "text" : "Large Angle "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 549.8991,
+      "rightX" : 90.825,
+      "topY" : 539.8991,
+      "baseLineY" : 547.62,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 551.6772,
+      "rightX" : 329.496,
+      "topY" : 539.6772,
+      "baseLineY" : 548.82,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 551.6772,
+      "rightX" : 439.596,
+      "topY" : 539.6772,
+      "baseLineY" : 548.82,
+      "fontId" : 2,
+      "text" : "Deadends "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 566.375,
+      "rightX" : 91.32,
+      "topY" : 554.375,
+      "baseLineY" : 563.64,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 566.6172,
+      "rightX" : 329.496,
+      "topY" : 554.6172,
+      "baseLineY" : 563.76,
+      "fontId" : 2,
+      "text" : "4 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 566.6172,
+      "rightX" : 460.416,
+      "topY" : 554.6172,
+      "baseLineY" : 563.76,
+      "fontId" : 2,
+      "text" : "Miscellaneous "
+    }, {
+      "leftX" : 94.98,
+      "bottomY" : 592.5971,
+      "rightX" : 168.456,
+      "topY" : 580.5971,
+      "baseLineY" : 589.74,
+      "fontId" : 2,
+      "text" : "K  (Services) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 592.5371,
+      "rightX" : 329.496,
+      "topY" : 580.5371,
+      "baseLineY" : 589.68,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 592.5971,
+      "rightX" : 458.976,
+      "topY" : 580.5971,
+      "baseLineY" : 589.74,
+      "fontId" : 2,
+      "text" : "Pole Mounted "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 604.9792,
+      "rightX" : 90.825,
+      "topY" : 594.9792,
+      "baseLineY" : 602.7,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 606.4571,
+      "rightX" : 329.496,
+      "topY" : 594.4571,
+      "baseLineY" : 603.6,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 606.4571,
+      "rightX" : 504.336,
+      "topY" : 594.4571,
+      "baseLineY" : 603.6,
+      "fontId" : 2,
+      "text" : "Wall (House) Mounted "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 618.7791,
+      "rightX" : 90.825,
+      "topY" : 608.7791,
+      "baseLineY" : 616.5,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 620.4972,
+      "rightX" : 329.496,
+      "topY" : 608.4972,
+      "baseLineY" : 617.64,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 620.4972,
+      "rightX" : 440.556,
+      "topY" : 608.4972,
+      "baseLineY" : 617.64,
+      "fontId" : 2,
+      "text" : "Mast Type "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 635.0749,
+      "rightX" : 91.32,
+      "topY" : 623.0749,
+      "baseLineY" : 632.34,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 635.4372,
+      "rightX" : 329.496,
+      "topY" : 623.4372,
+      "baseLineY" : 632.58,
+      "fontId" : 2,
+      "text" : "4 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 635.3172,
+      "rightX" : 502.716,
+      "topY" : 623.3172,
+      "baseLineY" : 632.46,
+      "fontId" : 2,
+      "text" : "Service Drop (Guides) "
+    }, {
+      "leftX" : 95.1,
+      "bottomY" : 661.4771,
+      "rightX" : 192.156,
+      "topY" : 649.4771,
+      "baseLineY" : 658.62,
+      "fontId" : 2,
+      "text" : "L  (Tying Guides) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 661.4771,
+      "rightX" : 329.496,
+      "topY" : 649.4771,
+      "baseLineY" : 658.62,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 661.4771,
+      "rightX" : 490.776,
+      "topY" : 649.4771,
+      "baseLineY" : 658.62,
+      "fontId" : 2,
+      "text" : "Primary Conductors "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 673.7992,
+      "rightX" : 90.825,
+      "topY" : 663.7992,
+      "baseLineY" : 671.52,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 675.3371,
+      "rightX" : 329.496,
+      "topY" : 663.3371,
+      "baseLineY" : 672.48,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 675.3371,
+      "rightX" : 487.836,
+      "topY" : 663.3371,
+      "baseLineY" : 672.48,
+      "fontId" : 2,
+      "text" : "Neutral Conductors "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 687.6591,
+      "rightX" : 90.825,
+      "topY" : 677.6591,
+      "baseLineY" : 685.38,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 689.1971,
+      "rightX" : 329.496,
+      "topY" : 677.1971,
+      "baseLineY" : 686.34,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 689.1971,
+      "rightX" : 506.736,
+      "topY" : 677.1971,
+      "baseLineY" : 686.34,
+      "fontId" : 2,
+      "text" : "Secondary Conductors "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 702.5271,
+      "rightX" : 91.065,
+      "topY" : 691.5271,
+      "baseLineY" : 700.02,
+      "fontId" : 20,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 703.5371,
+      "rightX" : 329.496,
+      "topY" : 691.5371,
+      "baseLineY" : 700.68,
+      "fontId" : 2,
+      "text" : "4 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 703.5371,
+      "rightX" : 518.376,
+      "topY" : 691.5371,
+      "baseLineY" : 700.68,
+      "fontId" : 2,
+      "text" : "Service Drop Conductors "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 11,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.9756,
+      "bottomY" : 39.166,
+      "rightX" : 82.7611,
+      "topY" : 29.166,
+      "baseLineY" : 36.785,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 426.78,
+      "bottomY" : 49.7639,
+      "rightX" : 525.24,
+      "topY" : 37.7639,
+      "baseLineY" : 46.92,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 473.88,
+      "bottomY" : 63.5639,
+      "rightX" : 525.3611,
+      "topY" : 51.5639,
+      "baseLineY" : 60.72,
+      "fontId" : 12,
+      "text" : "Appendix "
+    }, {
+      "leftX" : 485.64,
+      "bottomY" : 77.184,
+      "rightX" : 513.3,
+      "topY" : 65.184,
+      "baseLineY" : 74.34,
+      "fontId" : 12,
+      "text" : "Page "
+    }, {
+      "leftX" : 513.06,
+      "bottomY" : 76.71,
+      "rightX" : 524.8636,
+      "topY" : 66.71,
+      "baseLineY" : 74.34,
+      "fontId" : 13,
+      "text" : "10 "
+    }, {
+      "leftX" : 258.54,
+      "bottomY" : 122.9108,
+      "rightX" : 355.8959,
+      "topY" : 110.9108,
+      "baseLineY" : 119.76,
+      "fontId" : 1,
+      "text" : "TABLE 3 (Cont.) "
+    }, {
+      "leftX" : 164.82,
+      "bottomY" : 154.8908,
+      "rightX" : 449.556,
+      "topY" : 142.8908,
+      "baseLineY" : 151.74,
+      "fontId" : 1,
+      "text" : "SUBCATEGORIES (TYPES) OF ASSEMBLY UNITS "
+    }, {
+      "leftX" : 228.06,
+      "bottomY" : 168.9909,
+      "rightX" : 386.616,
+      "topY" : 156.9909,
+      "baseLineY" : 165.84,
+      "fontId" : 1,
+      "text" : "(RUS BULLETIN 1728F-803) "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 185.6857,
+      "rightX" : 82.7656,
+      "topY" : 175.6857,
+      "baseLineY" : 183.06,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 94.38,
+      "bottomY" : 199.4771,
+      "rightX" : 259.476,
+      "topY" : 187.4771,
+      "baseLineY" : 196.62,
+      "fontId" : 2,
+      "text" : "CATEGORY (DESCRIPTION) "
+    }, {
+      "leftX" : 278.82,
+      "bottomY" : 199.5971,
+      "rightX" : 371.9759,
+      "topY" : 187.5971,
+      "baseLineY" : 196.74,
+      "fontId" : 2,
+      "text" : "SUBCATEGORY "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 199.4771,
+      "rightX" : 526.356,
+      "topY" : 187.4771,
+      "baseLineY" : 196.62,
+      "fontId" : 2,
+      "text" : "DESIGNATION MEANING "
+    }, {
+      "leftX" : 284.82,
+      "bottomY" : 212.9771,
+      "rightX" : 369.756,
+      "topY" : 200.9771,
+      "baseLineY" : 210.12,
+      "fontId" : 2,
+      "text" : "DESIGNATION "
+    }, {
+      "leftX" : 94.74,
+      "bottomY" : 240.2771,
+      "rightX" : 104.736,
+      "topY" : 228.2771,
+      "baseLineY" : 237.42,
+      "fontId" : 2,
+      "text" : "M"
+    }, {
+      "leftX" : 104.7,
+      "bottomY" : 241.32,
+      "rightX" : 109.704,
+      "topY" : 224.94,
+      "baseLineY" : 237.42,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 240.2771,
+      "rightX" : 199.356,
+      "topY" : 228.2771,
+      "baseLineY" : 237.42,
+      "fontId" : 2,
+      "text" : "(Miscellaneous) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 240.2171,
+      "rightX" : 329.496,
+      "topY" : 228.2171,
+      "baseLineY" : 237.36,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 240.2771,
+      "rightX" : 464.916,
+      "topY" : 228.2771,
+      "baseLineY" : 237.42,
+      "fontId" : 2,
+      "text" : "Rights-of-Ways "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 253.727,
+      "rightX" : 91.065,
+      "topY" : 242.727,
+      "baseLineY" : 251.22,
+      "fontId" : 20,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 255.2771,
+      "rightX" : 329.496,
+      "topY" : 243.2771,
+      "baseLineY" : 252.42,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 255.1571,
+      "rightX" : 415.416,
+      "topY" : 243.1571,
+      "baseLineY" : 252.3,
+      "fontId" : 2,
+      "text" : "Trees "
+    }, {
+      "leftX" : 94.62,
+      "bottomY" : 281.4972,
+      "rightX" : 103.284,
+      "topY" : 269.4972,
+      "baseLineY" : 278.64,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 103.26,
+      "bottomY" : 282.54,
+      "rightX" : 108.264,
+      "topY" : 266.16,
+      "baseLineY" : 278.64,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 112.2,
+      "bottomY" : 281.4972,
+      "rightX" : 167.196,
+      "topY" : 269.4972,
+      "baseLineY" : 278.64,
+      "fontId" : 2,
+      "text" : "(Neutrals) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 281.4372,
+      "rightX" : 329.496,
+      "topY" : 269.4372,
+      "baseLineY" : 278.58,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 281.4972,
+      "rightX" : 498.816,
+      "topY" : 269.4972,
+      "baseLineY" : 278.64,
+      "fontId" : 2,
+      "text" : "Tangent, Small Angle "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 293.8791,
+      "rightX" : 90.825,
+      "topY" : 283.8791,
+      "baseLineY" : 291.6,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 295.3571,
+      "rightX" : 329.496,
+      "topY" : 283.3571,
+      "baseLineY" : 292.5,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 295.3571,
+      "rightX" : 449.016,
+      "topY" : 283.3571,
+      "baseLineY" : 292.5,
+      "fontId" : 2,
+      "text" : "Small Angle "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 307.6191,
+      "rightX" : 90.825,
+      "topY" : 297.6191,
+      "baseLineY" : 305.34,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 309.0971,
+      "rightX" : 329.496,
+      "topY" : 297.0971,
+      "baseLineY" : 306.24,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 309.0971,
+      "rightX" : 449.736,
+      "topY" : 297.0971,
+      "baseLineY" : 306.24,
+      "fontId" : 2,
+      "text" : "Large Angle "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 321.4192,
+      "rightX" : 90.825,
+      "topY" : 311.4192,
+      "baseLineY" : 319.14,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 323.1371,
+      "rightX" : 329.496,
+      "topY" : 311.1371,
+      "baseLineY" : 320.28,
+      "fontId" : 2,
+      "text" : "5 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 323.1371,
+      "rightX" : 470.076,
+      "topY" : 311.1371,
+      "baseLineY" : 320.28,
+      "fontId" : 2,
+      "text" : "Single Deadend "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 336.587,
+      "rightX" : 91.065,
+      "topY" : 325.587,
+      "baseLineY" : 334.08,
+      "fontId" : 20,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 338.0771,
+      "rightX" : 329.496,
+      "topY" : 326.0771,
+      "baseLineY" : 335.22,
+      "fontId" : 2,
+      "text" : "6 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 338.0771,
+      "rightX" : 480.576,
+      "topY" : 326.0771,
+      "baseLineY" : 335.22,
+      "fontId" : 2,
+      "text" : "Double Deadends "
+    }, {
+      "leftX" : 94.62,
+      "bottomY" : 364.2971,
+      "rightX" : 102.624,
+      "topY" : 352.2971,
+      "baseLineY" : 361.44,
+      "fontId" : 2,
+      "text" : "P"
+    }, {
+      "leftX" : 102.6,
+      "bottomY" : 365.34,
+      "rightX" : 107.604,
+      "topY" : 348.96,
+      "baseLineY" : 361.44,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 111.48,
+      "bottomY" : 364.2971,
+      "rightX" : 175.656,
+      "topY" : 352.2971,
+      "baseLineY" : 361.44,
+      "fontId" : 2,
+      "text" : "(Protection) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 364.1772,
+      "rightX" : 329.496,
+      "topY" : 352.1772,
+      "baseLineY" : 361.32,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 364.2971,
+      "rightX" : 470.256,
+      "topY" : 352.2971,
+      "baseLineY" : 361.44,
+      "fontId" : 2,
+      "text" : "Line (Arresters) "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 377.867,
+      "rightX" : 91.065,
+      "topY" : 366.867,
+      "baseLineY" : 375.36,
+      "fontId" : 20,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 379.3571,
+      "rightX" : 329.496,
+      "topY" : 367.3571,
+      "baseLineY" : 376.5,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 379.3571,
+      "rightX" : 408.936,
+      "topY" : 367.3571,
+      "baseLineY" : 376.5,
+      "fontId" : 2,
+      "text" : "Pole "
+    }, {
+      "leftX" : 94.62,
+      "bottomY" : 405.2772,
+      "rightX" : 103.956,
+      "topY" : 393.2772,
+      "baseLineY" : 402.42,
+      "fontId" : 2,
+      "text" : "Q"
+    }, {
+      "leftX" : 103.98,
+      "bottomY" : 406.32,
+      "rightX" : 108.984,
+      "topY" : 389.94,
+      "baseLineY" : 402.42,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 112.98,
+      "bottomY" : 405.2772,
+      "rightX" : 169.896,
+      "topY" : 393.2772,
+      "baseLineY" : 402.42,
+      "fontId" : 2,
+      "text" : "(Metering) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 405.2171,
+      "rightX" : 329.496,
+      "topY" : 393.2171,
+      "baseLineY" : 402.36,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 405.2772,
+      "rightX" : 523.956,
+      "topY" : 393.2772,
+      "baseLineY" : 402.42,
+      "fontId" : 2,
+      "text" : "Single-Phase (Secondary) "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 417.6591,
+      "rightX" : 90.825,
+      "topY" : 407.6591,
+      "baseLineY" : 415.38,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 419.3771,
+      "rightX" : 329.496,
+      "topY" : 407.3771,
+      "baseLineY" : 416.52,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 419.3771,
+      "rightX" : 522.156,
+      "topY" : 407.3771,
+      "baseLineY" : 416.52,
+      "fontId" : 2,
+      "text" : "Three-Phase (Secondary) "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 432.8271,
+      "rightX" : 91.065,
+      "topY" : 421.8271,
+      "baseLineY" : 430.32,
+      "fontId" : 20,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 434.3171,
+      "rightX" : 329.496,
+      "topY" : 422.3171,
+      "baseLineY" : 431.46,
+      "fontId" : 2,
+      "text" : "4 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 434.3171,
+      "rightX" : 506.196,
+      "topY" : 422.3171,
+      "baseLineY" : 431.46,
+      "fontId" : 2,
+      "text" : "Primary (Three-Phase) "
+    }, {
+      "leftX" : 94.62,
+      "bottomY" : 474.4571,
+      "rightX" : 103.284,
+      "topY" : 462.4571,
+      "baseLineY" : 471.6,
+      "fontId" : 2,
+      "text" : "R"
+    }, {
+      "leftX" : 103.26,
+      "bottomY" : 475.5,
+      "rightX" : 108.264,
+      "topY" : 459.12,
+      "baseLineY" : 471.6,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 112.2,
+      "bottomY" : 474.4571,
+      "rightX" : 175.776,
+      "topY" : 462.4571,
+      "baseLineY" : 471.6,
+      "fontId" : 2,
+      "text" : "(Reclosers) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 474.3972,
+      "rightX" : 329.496,
+      "topY" : 462.3972,
+      "baseLineY" : 471.54,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 474.3972,
+      "rightX" : 489.696,
+      "topY" : 462.3972,
+      "baseLineY" : 471.54,
+      "fontId" : 2,
+      "text" : "One (Single-Phase) "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 488.027,
+      "rightX" : 91.065,
+      "topY" : 477.027,
+      "baseLineY" : 485.52,
+      "fontId" : 20,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 489.4571,
+      "rightX" : 329.496,
+      "topY" : 477.4571,
+      "baseLineY" : 486.6,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 489.4571,
+      "rightX" : 496.416,
+      "topY" : 477.4571,
+      "baseLineY" : 486.6,
+      "fontId" : 2,
+      "text" : "Three (Three-Phase) "
+    }, {
+      "leftX" : 94.62,
+      "bottomY" : 515.6172,
+      "rightX" : 102.624,
+      "topY" : 503.6172,
+      "baseLineY" : 512.76,
+      "fontId" : 2,
+      "text" : "S"
+    }, {
+      "leftX" : 102.6,
+      "bottomY" : 516.66,
+      "rightX" : 107.604,
+      "topY" : 500.28,
+      "baseLineY" : 512.76,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 111.48,
+      "bottomY" : 515.6172,
+      "rightX" : 195.216,
+      "topY" : 503.6172,
+      "baseLineY" : 512.76,
+      "fontId" : 2,
+      "text" : "(Sectionalizing) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 515.4972,
+      "rightX" : 329.496,
+      "topY" : 503.4972,
+      "baseLineY" : 512.64,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 515.6172,
+      "rightX" : 426.396,
+      "topY" : 503.6172,
+      "baseLineY" : 512.76,
+      "fontId" : 2,
+      "text" : "Cutouts "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 529.127,
+      "rightX" : 91.065,
+      "topY" : 518.127,
+      "baseLineY" : 526.62,
+      "fontId" : 20,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 530.6772,
+      "rightX" : 329.496,
+      "topY" : 518.6772,
+      "baseLineY" : 527.82,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 530.5572,
+      "rightX" : 432.936,
+      "topY" : 518.5572,
+      "baseLineY" : 527.7,
+      "fontId" : 2,
+      "text" : "Switches "
+    }, {
+      "leftX" : 94.74,
+      "bottomY" : 556.7771,
+      "rightX" : 106.068,
+      "topY" : 544.7771,
+      "baseLineY" : 553.92,
+      "fontId" : 2,
+      "text" : "W"
+    }, {
+      "leftX" : 106.08,
+      "bottomY" : 557.82,
+      "rightX" : 111.084,
+      "topY" : 541.44,
+      "baseLineY" : 553.92,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 114.84,
+      "bottomY" : 556.7771,
+      "rightX" : 202.416,
+      "topY" : 544.7771,
+      "baseLineY" : 553.92,
+      "fontId" : 2,
+      "text" : "(Wood Material) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 556.7771,
+      "rightX" : 329.496,
+      "topY" : 544.7771,
+      "baseLineY" : 553.92,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 556.7771,
+      "rightX" : 415.236,
+      "topY" : 544.7771,
+      "baseLineY" : 553.92,
+      "fontId" : 2,
+      "text" : "Poles "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 569.0391,
+      "rightX" : 90.825,
+      "topY" : 559.0391,
+      "baseLineY" : 566.76,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 570.7572,
+      "rightX" : 329.496,
+      "topY" : 558.7572,
+      "baseLineY" : 567.9,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 570.7572,
+      "rightX" : 442.836,
+      "topY" : 558.7572,
+      "baseLineY" : 567.9,
+      "fontId" : 2,
+      "text" : "Crossarms "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 584.2071,
+      "rightX" : 91.065,
+      "topY" : 573.2071,
+      "baseLineY" : 581.7,
+      "fontId" : 20,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 585.7572,
+      "rightX" : 329.496,
+      "topY" : 573.7572,
+      "baseLineY" : 582.9,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 585.6971,
+      "rightX" : 422.436,
+      "topY" : 573.6971,
+      "baseLineY" : 582.84,
+      "fontId" : 2,
+      "text" : "Braces "
+    }, {
+      "leftX" : 94.62,
+      "bottomY" : 611.8571,
+      "rightX" : 102.624,
+      "topY" : 599.8571,
+      "baseLineY" : 609,
+      "fontId" : 2,
+      "text" : "Y"
+    }, {
+      "leftX" : 102.6,
+      "bottomY" : 612.9,
+      "rightX" : 107.604,
+      "topY" : 596.52,
+      "baseLineY" : 609,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 111.36,
+      "bottomY" : 611.8571,
+      "rightX" : 215.916,
+      "topY" : 599.8571,
+      "baseLineY" : 609,
+      "fontId" : 2,
+      "text" : "(Voltage Alteration) "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 611.8571,
+      "rightX" : 329.496,
+      "topY" : 599.8571,
+      "baseLineY" : 609,
+      "fontId" : 2,
+      "text" : "1 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 611.8571,
+      "rightX" : 486.756,
+      "topY" : 599.8571,
+      "baseLineY" : 609,
+      "fontId" : 2,
+      "text" : "Voltage Regulators "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 624.2392,
+      "rightX" : 90.825,
+      "topY" : 614.2392,
+      "baseLineY" : 621.96,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 625.7771,
+      "rightX" : 329.496,
+      "topY" : 613.7771,
+      "baseLineY" : 622.92,
+      "fontId" : 2,
+      "text" : "2 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 625.7771,
+      "rightX" : 476.136,
+      "topY" : 613.7771,
+      "baseLineY" : 622.92,
+      "fontId" : 2,
+      "text" : "Autotransformers "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 638.0991,
+      "rightX" : 90.825,
+      "topY" : 628.0991,
+      "baseLineY" : 635.82,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 319.98,
+      "bottomY" : 640.2371,
+      "rightX" : 329.496,
+      "topY" : 628.2371,
+      "baseLineY" : 637.38,
+      "fontId" : 2,
+      "text" : "3 "
+    }, {
+      "leftX" : 382.38,
+      "bottomY" : 640.2371,
+      "rightX" : 442.056,
+      "topY" : 628.2371,
+      "baseLineY" : 637.38,
+      "fontId" : 2,
+      "text" : "Capacitors "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 792.2381,
+      "rightX" : 80.2636,
+      "topY" : 791.2381,
+      "baseLineY" : 792,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 12,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.9753,
+      "bottomY" : 39.1561,
+      "rightX" : 82.7608,
+      "topY" : 29.1561,
+      "baseLineY" : 36.7751,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 49.7639,
+      "rightX" : 187.56,
+      "topY" : 37.7639,
+      "baseLineY" : 46.92,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 63.684,
+      "rightX" : 142.2,
+      "topY" : 51.684,
+      "baseLineY" : 60.84,
+      "fontId" : 12,
+      "text" : "Appendix "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 77.124,
+      "rightX" : 117.66,
+      "topY" : 65.124,
+      "baseLineY" : 74.28,
+      "fontId" : 12,
+      "text" : "Page "
+    }, {
+      "leftX" : 117.42,
+      "bottomY" : 76.65,
+      "rightX" : 129.4039,
+      "topY" : 66.65,
+      "baseLineY" : 74.28,
+      "fontId" : 13,
+      "text" : "11 "
+    }, {
+      "leftX" : 281.88,
+      "bottomY" : 103.7708,
+      "rightX" : 334.2361,
+      "topY" : 91.7708,
+      "baseLineY" : 100.62,
+      "fontId" : 1,
+      "text" : "TABLE 4 "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 120.0908,
+      "rightX" : 83.316,
+      "topY" : 108.0908,
+      "baseLineY" : 116.94,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 133.9508,
+      "rightX" : 457.116,
+      "topY" : 121.9508,
+      "baseLineY" : 130.8,
+      "fontId" : 1,
+      "text" : "STANDARD ASSEMBLY UNIT NUMBER “PREFIXES” "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 150.1057,
+      "rightX" : 82.7656,
+      "topY" : 140.1057,
+      "baseLineY" : 147.48,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 199.08,
+      "bottomY" : 163.5371,
+      "rightX" : 245.136,
+      "topY" : 151.5371,
+      "baseLineY" : 160.68,
+      "fontId" : 2,
+      "text" : "PREFIX "
+    }, {
+      "leftX" : 261.96,
+      "bottomY" : 163.5371,
+      "rightX" : 401.376,
+      "topY" : 151.5371,
+      "baseLineY" : 160.68,
+      "fontId" : 2,
+      "text" : "DESIGNATED MEANING "
+    }, {
+      "leftX" : 216.84,
+      "bottomY" : 192.5171,
+      "rightX" : 227.016,
+      "topY" : 180.5171,
+      "baseLineY" : 189.66,
+      "fontId" : 2,
+      "text" : "T "
+    }, {
+      "leftX" : 261.96,
+      "bottomY" : 192.5172,
+      "rightX" : 432.6973,
+      "topY" : 180.5172,
+      "baseLineY" : 189.66,
+      "fontId" : 2,
+      "text" : "Transmission Line Construction "
+    }, {
+      "leftX" : 216.36,
+      "bottomY" : 233.9171,
+      "rightX" : 227.856,
+      "topY" : 221.9171,
+      "baseLineY" : 231.06,
+      "fontId" : 2,
+      "text" : "U "
+    }, {
+      "leftX" : 261.96,
+      "bottomY" : 234.0372,
+      "rightX" : 432.636,
+      "topY" : 222.0372,
+      "baseLineY" : 231.1801,
+      "fontId" : 2,
+      "text" : "Underground Distribution (URD) "
+    }, {
+      "leftX" : 216.36,
+      "bottomY" : 275.3172,
+      "rightX" : 227.196,
+      "topY" : 263.3172,
+      "baseLineY" : 272.46,
+      "fontId" : 2,
+      "text" : "V "
+    }, {
+      "leftX" : 261.96,
+      "bottomY" : 275.1372,
+      "rightX" : 427.3561,
+      "topY" : 263.1372,
+      "baseLineY" : 272.28,
+      "fontId" : 2,
+      "text" : "24.9/14.4 kV Line Construction "
+    }, {
+      "leftX" : 255.3,
+      "bottomY" : 303.0308,
+      "rightX" : 258.636,
+      "topY" : 291.0308,
+      "baseLineY" : 299.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 217.2,
+      "bottomY" : 316.2972,
+      "rightX" : 227.376,
+      "topY" : 304.2972,
+      "baseLineY" : 313.44,
+      "fontId" : 2,
+      "text" : "Z "
+    }, {
+      "leftX" : 261.96,
+      "bottomY" : 316.5371,
+      "rightX" : 427.3561,
+      "topY" : 304.5371,
+      "baseLineY" : 313.68,
+      "fontId" : 2,
+      "text" : "34.5/19.9 kV Line Construction "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 352.4108,
+      "rightX" : 83.316,
+      "topY" : 340.4108,
+      "baseLineY" : 349.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 139.68,
+      "bottomY" : 365.9171,
+      "rightX" : 475.716,
+      "topY" : 353.9171,
+      "baseLineY" : 363.06,
+      "fontId" : 2,
+      "text" : "NOTE: No prefix implies 12.47/7.2 kV distribution construction. "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 13,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 79.9756,
+      "bottomY" : 39.166,
+      "rightX" : 82.7611,
+      "topY" : 29.166,
+      "baseLineY" : 36.785,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 426.78,
+      "bottomY" : 49.7639,
+      "rightX" : 525.24,
+      "topY" : 37.7639,
+      "baseLineY" : 46.92,
+      "fontId" : 12,
+      "text" : "Bulletin 1728F-800 "
+    }, {
+      "leftX" : 473.88,
+      "bottomY" : 63.5639,
+      "rightX" : 525.3611,
+      "topY" : 51.5639,
+      "baseLineY" : 60.72,
+      "fontId" : 12,
+      "text" : "Appendix "
+    }, {
+      "leftX" : 485.64,
+      "bottomY" : 77.184,
+      "rightX" : 513.3,
+      "topY" : 65.184,
+      "baseLineY" : 74.34,
+      "fontId" : 12,
+      "text" : "Page "
+    }, {
+      "leftX" : 513.06,
+      "bottomY" : 76.71,
+      "rightX" : 524.8636,
+      "topY" : 66.71,
+      "baseLineY" : 74.34,
+      "fontId" : 13,
+      "text" : "12 "
+    }, {
+      "leftX" : 281.88,
+      "bottomY" : 104.6709,
+      "rightX" : 334.2361,
+      "topY" : 92.6709,
+      "baseLineY" : 101.52,
+      "fontId" : 1,
+      "text" : "TABLE 5 "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 120.9909,
+      "rightX" : 83.316,
+      "topY" : 108.9909,
+      "baseLineY" : 117.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 158.52,
+      "bottomY" : 134.8509,
+      "rightX" : 456.576,
+      "topY" : 122.8509,
+      "baseLineY" : 131.7,
+      "fontId" : 1,
+      "text" : "STANDARD ASSEMBLY UNIT NUMBER “SUFFIXES” "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 150.9457,
+      "rightX" : 82.7656,
+      "topY" : 140.9457,
+      "baseLineY" : 148.32,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 103.86,
+      "bottomY" : 164.7971,
+      "rightX" : 149.256,
+      "topY" : 152.7971,
+      "baseLineY" : 161.94,
+      "fontId" : 2,
+      "text" : "SUFFIX "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 164.9771,
+      "rightX" : 336.6961,
+      "topY" : 152.9771,
+      "baseLineY" : 162.12,
+      "fontId" : 2,
+      "text" : "NEW DESIGNATED MEANING "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 165.0371,
+      "rightX" : 464.0761,
+      "topY" : 153.0371,
+      "baseLineY" : 162.18,
+      "fontId" : 2,
+      "text" : "HISTORICAL REA "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 178.0572,
+      "rightX" : 264.396,
+      "topY" : 166.0572,
+      "baseLineY" : 175.2,
+      "fontId" : 2,
+      "text" : "(RUS 1728F-803) "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 178.7171,
+      "rightX" : 499.056,
+      "topY" : 166.7171,
+      "baseLineY" : 175.86,
+      "fontId" : 2,
+      "text" : "DESIGNATED MEANING "
+    }, {
+      "leftX" : 121.62,
+      "bottomY" : 207.0971,
+      "rightX" : 132.456,
+      "topY" : 195.0971,
+      "baseLineY" : 204.24,
+      "fontId" : 2,
+      "text" : "A "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 207.0971,
+      "rightX" : 227.196,
+      "topY" : 195.0971,
+      "baseLineY" : 204.24,
+      "fontId" : 2,
+      "text" : "(Not Used) "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 207.2171,
+      "rightX" : 505.536,
+      "topY" : 195.2171,
+      "baseLineY" : 204.36,
+      "fontId" : 2,
+      "text" : "Slight variation of design or "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 221.1908,
+      "rightX" : 91.656,
+      "topY" : 209.1908,
+      "baseLineY" : 218.04,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 160.02,
+      "bottomY" : 221.1908,
+      "rightX" : 163.356,
+      "topY" : 209.1908,
+      "baseLineY" : 218.04,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 221.0771,
+      "rightX" : 411.876,
+      "topY" : 209.0771,
+      "baseLineY" : 218.22,
+      "fontId" : 2,
+      "text" : "materials "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 234.9909,
+      "rightX" : 91.656,
+      "topY" : 222.9909,
+      "baseLineY" : 231.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 160.02,
+      "bottomY" : 234.9909,
+      "rightX" : 163.356,
+      "topY" : 222.9909,
+      "baseLineY" : 231.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 248.9708,
+      "rightX" : 91.656,
+      "topY" : 236.9708,
+      "baseLineY" : 245.82,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 160.02,
+      "bottomY" : 249.1508,
+      "rightX" : 163.356,
+      "topY" : 237.1508,
+      "baseLineY" : 246,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 354.42,
+      "bottomY" : 249.0308,
+      "rightX" : 357.756,
+      "topY" : 237.0308,
+      "baseLineY" : 245.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 262.5371,
+      "rightX" : 132.336,
+      "topY" : 250.5371,
+      "baseLineY" : 259.68,
+      "fontId" : 2,
+      "text" : "B "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 262.6571,
+      "rightX" : 226.896,
+      "topY" : 250.6571,
+      "baseLineY" : 259.8,
+      "fontId" : 2,
+      "text" : "(Not Used) "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 262.3571,
+      "rightX" : 505.536,
+      "topY" : 250.3571,
+      "baseLineY" : 259.5,
+      "fontId" : 2,
+      "text" : "Slight variation of design or "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 275.9771,
+      "rightX" : 411.876,
+      "topY" : 263.9771,
+      "baseLineY" : 273.12,
+      "fontId" : 2,
+      "text" : "materials "
+    }, {
+      "leftX" : 354.42,
+      "bottomY" : 290.1308,
+      "rightX" : 357.756,
+      "topY" : 278.1308,
+      "baseLineY" : 286.98,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 121.26,
+      "bottomY" : 303.7571,
+      "rightX" : 132.756,
+      "topY" : 291.7571,
+      "baseLineY" : 300.9,
+      "fontId" : 2,
+      "text" : "C "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 303.7571,
+      "rightX" : 226.416,
+      "topY" : 291.7571,
+      "baseLineY" : 300.9,
+      "fontId" : 2,
+      "text" : "(Not Used) "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 303.4571,
+      "rightX" : 528.0961,
+      "topY" : 291.4571,
+      "baseLineY" : 300.6,
+      "fontId" : 2,
+      "text" : "Cabled Conductors (Secondary "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 317.1371,
+      "rightX" : 413.916,
+      "topY" : 305.1371,
+      "baseLineY" : 314.28,
+      "fontId" : 2,
+      "text" : "Voltages) "
+    }, {
+      "leftX" : 354.42,
+      "bottomY" : 331.2308,
+      "rightX" : 357.756,
+      "topY" : 319.2308,
+      "baseLineY" : 328.08,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 88.32,
+      "bottomY" : 345.3908,
+      "rightX" : 91.656,
+      "topY" : 333.3908,
+      "baseLineY" : 342.24,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 160.02,
+      "bottomY" : 345.4508,
+      "rightX" : 163.356,
+      "topY" : 333.4508,
+      "baseLineY" : 342.3,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 354.42,
+      "bottomY" : 345.3308,
+      "rightX" : 357.756,
+      "topY" : 333.3308,
+      "baseLineY" : 342.18,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 120.3,
+      "bottomY" : 358.8972,
+      "rightX" : 132.456,
+      "topY" : 346.8972,
+      "baseLineY" : 356.04,
+      "fontId" : 2,
+      "text" : "G "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 358.9571,
+      "rightX" : 329.736,
+      "topY" : 346.9571,
+      "baseLineY" : 356.1,
+      "fontId" : 2,
+      "text" : "Guide Drawing (No Materials) "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 358.8372,
+      "rightX" : 524.136,
+      "topY" : 346.8372,
+      "baseLineY" : 355.98,
+      "fontId" : 2,
+      "text" : "Guide Drawing (No Materials) "
+    }, {
+      "leftX" : 121.2,
+      "bottomY" : 400.2971,
+      "rightX" : 130.716,
+      "topY" : 388.2971,
+      "baseLineY" : 397.44,
+      "fontId" : 2,
+      "text" : "L "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 400.3571,
+      "rightX" : 336.576,
+      "topY" : 388.3571,
+      "baseLineY" : 397.5,
+      "fontId" : 2,
+      "text" : "Large Conductors (See Note 1) "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 400.0572,
+      "rightX" : 530.916,
+      "topY" : 388.0572,
+      "baseLineY" : 397.2,
+      "fontId" : 2,
+      "text" : "Large Conductors (See Note 1) "
+    }, {
+      "leftX" : 121.2,
+      "bottomY" : 441.6971,
+      "rightX" : 132.036,
+      "topY" : 429.6971,
+      "baseLineY" : 438.84,
+      "fontId" : 2,
+      "text" : "P "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 441.7571,
+      "rightX" : 311.136,
+      "topY" : 429.7571,
+      "baseLineY" : 438.9,
+      "fontId" : 2,
+      "text" : "Use of post type insulators "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 441.5171,
+      "rightX" : 504.336,
+      "topY" : 429.5171,
+      "baseLineY" : 438.66,
+      "fontId" : 2,
+      "text" : "Use of post type insulators "
+    }, {
+      "leftX" : 121.2,
+      "bottomY" : 483.1878,
+      "rightX" : 132.036,
+      "topY" : 471.1878,
+      "baseLineY" : 480.24,
+      "fontId" : 15,
+      "text" : "E "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 483.2478,
+      "rightX" : 341.676,
+      "topY" : 471.2478,
+      "baseLineY" : 480.3,
+      "fontId" : 15,
+      "text" : "Extra Large Conductors (Future) "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 482.7679,
+      "rightX" : 420.3961,
+      "topY" : 470.7679,
+      "baseLineY" : 479.82,
+      "fontId" : 15,
+      "text" : "(Not Used) "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 497.1678,
+      "rightX" : 237.756,
+      "topY" : 485.1678,
+      "baseLineY" : 494.22,
+      "fontId" : 15,
+      "text" : "(See Note 2) "
+    }, {
+      "leftX" : 121.02,
+      "bottomY" : 524.8279,
+      "rightX" : 132.516,
+      "topY" : 512.8279,
+      "baseLineY" : 521.88,
+      "fontId" : 15,
+      "text" : "N "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 523.6878,
+      "rightX" : 313.0562,
+      "topY" : 511.6878,
+      "baseLineY" : 520.74,
+      "fontId" : 15,
+      "text" : "Narrow Profile Construction "
+    }, {
+      "leftX" : 360.78,
+      "bottomY" : 524.2878,
+      "rightX" : 420.816,
+      "topY" : 512.2878,
+      "baseLineY" : 521.34,
+      "fontId" : 15,
+      "text" : "(Not Used) "
+    }, {
+      "leftX" : 166.38,
+      "bottomY" : 537.3679,
+      "rightX" : 211.596,
+      "topY" : 525.3679,
+      "baseLineY" : 534.42,
+      "fontId" : 15,
+      "text" : "(Future) "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 560.6109,
+      "rightX" : 83.316,
+      "topY" : 548.6109,
+      "baseLineY" : 557.46,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 573.8772,
+      "rightX" : 494.7961,
+      "topY" : 561.8772,
+      "baseLineY" : 571.02,
+      "fontId" : 2,
+      "text" : "Note 1: Large conductors (#2/0 through 336.4 kcmil ACSR) have a breaking "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 587.3772,
+      "rightX" : 289.476,
+      "topY" : 575.3772,
+      "baseLineY" : 584.52,
+      "fontId" : 2,
+      "text" : "strength of 4,500 through 10,000 lbs. "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 601.3571,
+      "rightX" : 83.316,
+      "topY" : 589.3571,
+      "baseLineY" : 598.5,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 615.1571,
+      "rightX" : 511.776,
+      "topY" : 603.1571,
+      "baseLineY" : 612.3,
+      "fontId" : 2,
+      "text" : "Note 2: Extra large conductors (larger than 336.4 kcmil ACSR) have a breaking "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 629.0771,
+      "rightX" : 266.676,
+      "topY" : 617.0771,
+      "baseLineY" : 626.22,
+      "fontId" : 2,
+      "text" : "strength greater than 10,000 lbs. "
+    }, {
+      "leftX" : 79.98,
+      "bottomY" : 792.2381,
+      "rightX" : 80.2636,
+      "topY" : 791.2381,
+      "baseLineY" : 792,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 1.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "Arial-BoldItalicMT",
+    "fontSize" : 13.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "Arial-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "Helvetica",
+    "fontSize" : 19.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "Helvetica",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 13.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 15,
+    "fontFamily" : "Arial-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 16,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 7.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 17,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 18,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 18.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 19,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 20,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}
