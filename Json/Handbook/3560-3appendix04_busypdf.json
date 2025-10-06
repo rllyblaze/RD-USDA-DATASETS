@@ -1,0 +1,6294 @@
+{
+  "pdfDoc" : "3560-3appendix04.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 38.8791,
+      "rightX" : 74.49,
+      "topY" : 28.8791,
+      "baseLineY" : 36.6,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 494.52,
+      "bottomY" : 47.5191,
+      "rightX" : 542.61,
+      "topY" : 37.5191,
+      "baseLineY" : 45.24,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 493.08,
+      "bottomY" : 59.0391,
+      "rightX" : 542.49,
+      "topY" : 49.0391,
+      "baseLineY" : 56.76,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 80.6754,
+      "rightX" : 73.89,
+      "topY" : 73.6754,
+      "baseLineY" : 79.08,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 281.64,
+      "bottomY" : 101.5979,
+      "rightX" : 367.9439,
+      "topY" : 87.5979,
+      "baseLineY" : 98.28,
+      "fontId" : 3,
+      "text" : "APPENDIX 4 "
+    }, {
+      "leftX" : 125.8803,
+      "bottomY" : 129.5516,
+      "rightX" : 523.465,
+      "topY" : 115.5516,
+      "baseLineY" : 126.2336,
+      "fontId" : 3,
+      "text" : "HANDBOOK LETTERS REFERENCED IN THIS HANDBOOK "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 155.3339,
+      "rightX" : 77.49,
+      "topY" : 133.3339,
+      "baseLineY" : 150.12,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 77.04,
+      "bottomY" : 168.8499,
+      "rightX" : 315.72,
+      "topY" : 156.8499,
+      "baseLineY" : 166.08,
+      "fontId" : 5,
+      "text" : "Handbook Letter 301 (3560), Servicing Letter #1 "
+    }, {
+      "leftX" : 77.04,
+      "bottomY" : 182.6499,
+      "rightX" : 315.72,
+      "topY" : 170.6499,
+      "baseLineY" : 179.88,
+      "fontId" : 5,
+      "text" : "Handbook Letter 302 (3560), Servicing Letter #2 "
+    }, {
+      "leftX" : 77.04,
+      "bottomY" : 196.4499,
+      "rightX" : 315.72,
+      "topY" : 184.4499,
+      "baseLineY" : 193.68,
+      "fontId" : 5,
+      "text" : "Handbook Letter 303 (3560), Servicing Letter #3 "
+    }, {
+      "leftX" : 77.04,
+      "bottomY" : 210.2499,
+      "rightX" : 372.36,
+      "topY" : 198.2499,
+      "baseLineY" : 207.48,
+      "fontId" : 5,
+      "text" : "Handbook Letter 303-A (3560), Servicing Letter #3 for CMP "
+    }, {
+      "leftX" : 77.04,
+      "bottomY" : 224.0499,
+      "rightX" : 392.0399,
+      "topY" : 212.0499,
+      "baseLineY" : 221.28,
+      "fontId" : 5,
+      "text" : "Handbook Letter 304 (3560), Preliminary Determination Notice  "
+    }, {
+      "leftX" : 77.04,
+      "bottomY" : 237.8499,
+      "rightX" : 450,
+      "topY" : 225.8499,
+      "baseLineY" : 235.08,
+      "fontId" : 5,
+      "text" : "Handbook Letter 304-A (3560), Borrower Preliminary Determination Notice "
+    }, {
+      "leftX" : 77.04,
+      "bottomY" : 251.6499,
+      "rightX" : 435.72,
+      "topY" : 239.6499,
+      "baseLineY" : 248.8799,
+      "fontId" : 5,
+      "text" : "Handbook Letter 305 (3560), Final Determination Notice/Demand Letter  "
+    }, {
+      "leftX" : 77.04,
+      "bottomY" : 265.4499,
+      "rightX" : 407.2799,
+      "topY" : 253.4499,
+      "baseLineY" : 262.6799,
+      "fontId" : 5,
+      "text" : "Handbook Letter 305-A (3560), Borrower Sent Final Determination "
+    }, {
+      "leftX" : 77.04,
+      "bottomY" : 279.2498,
+      "rightX" : 187.08,
+      "topY" : 267.2498,
+      "baseLineY" : 276.4799,
+      "fontId" : 5,
+      "text" : "Notice/Demand Letter "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 290.7883,
+      "rightX" : 74.49,
+      "topY" : 280.7883,
+      "baseLineY" : 288.48,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 302.312,
+      "rightX" : 74.49,
+      "topY" : 292.312,
+      "baseLineY" : 300.0037,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 313.8357,
+      "rightX" : 74.49,
+      "topY" : 303.8357,
+      "baseLineY" : 311.5274,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 325.3594,
+      "rightX" : 74.49,
+      "topY" : 315.3594,
+      "baseLineY" : 323.0511,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 336.7636,
+      "rightX" : 74.49,
+      "topY" : 326.7636,
+      "baseLineY" : 334.4554,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 348.2873,
+      "rightX" : 74.49,
+      "topY" : 338.2873,
+      "baseLineY" : 345.9791,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 359.811,
+      "rightX" : 74.49,
+      "topY" : 349.811,
+      "baseLineY" : 357.5028,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 371.3348,
+      "rightX" : 74.49,
+      "topY" : 361.3348,
+      "baseLineY" : 369.0265,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 382.8585,
+      "rightX" : 74.49,
+      "topY" : 372.8585,
+      "baseLineY" : 380.5502,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 394.3822,
+      "rightX" : 74.49,
+      "topY" : 384.3822,
+      "baseLineY" : 392.0739,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 405.7864,
+      "rightX" : 74.49,
+      "topY" : 395.7864,
+      "baseLineY" : 403.4781,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 417.3101,
+      "rightX" : 74.49,
+      "topY" : 407.3101,
+      "baseLineY" : 415.0018,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 428.8338,
+      "rightX" : 74.49,
+      "topY" : 418.8338,
+      "baseLineY" : 426.5255,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 440.3575,
+      "rightX" : 74.49,
+      "topY" : 430.3575,
+      "baseLineY" : 438.0493,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 451.8812,
+      "rightX" : 74.49,
+      "topY" : 441.8812,
+      "baseLineY" : 449.573,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 463.405,
+      "rightX" : 74.49,
+      "topY" : 453.405,
+      "baseLineY" : 461.0967,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 474.8092,
+      "rightX" : 74.49,
+      "topY" : 464.8092,
+      "baseLineY" : 472.5009,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 486.3329,
+      "rightX" : 74.49,
+      "topY" : 476.3329,
+      "baseLineY" : 484.0246,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 497.8566,
+      "rightX" : 74.49,
+      "topY" : 487.8566,
+      "baseLineY" : 495.5483,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 509.3803,
+      "rightX" : 74.49,
+      "topY" : 499.3803,
+      "baseLineY" : 507.072,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 520.904,
+      "rightX" : 74.49,
+      "topY" : 510.904,
+      "baseLineY" : 518.5957,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 532.3082,
+      "rightX" : 74.49,
+      "topY" : 522.3082,
+      "baseLineY" : 529.9999,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 543.832,
+      "rightX" : 74.49,
+      "topY" : 533.832,
+      "baseLineY" : 541.5237,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 555.3556,
+      "rightX" : 74.49,
+      "topY" : 545.3556,
+      "baseLineY" : 553.0474,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 566.8793,
+      "rightX" : 74.49,
+      "topY" : 556.8793,
+      "baseLineY" : 564.571,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 578.4031,
+      "rightX" : 74.49,
+      "topY" : 568.4031,
+      "baseLineY" : 576.0948,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 589.9268,
+      "rightX" : 74.49,
+      "topY" : 579.9268,
+      "baseLineY" : 587.6185,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 601.331,
+      "rightX" : 74.49,
+      "topY" : 591.331,
+      "baseLineY" : 599.0227,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 612.8547,
+      "rightX" : 74.49,
+      "topY" : 602.8547,
+      "baseLineY" : 610.5464,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 624.3784,
+      "rightX" : 74.49,
+      "topY" : 614.3784,
+      "baseLineY" : 622.0701,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 635.9021,
+      "rightX" : 74.49,
+      "topY" : 625.9021,
+      "baseLineY" : 633.5939,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 647.4258,
+      "rightX" : 74.49,
+      "topY" : 637.4258,
+      "baseLineY" : 645.1176,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 658.9495,
+      "rightX" : 74.49,
+      "topY" : 648.9495,
+      "baseLineY" : 656.6412,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 670.3537,
+      "rightX" : 74.49,
+      "topY" : 660.3537,
+      "baseLineY" : 668.0455,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 681.8775,
+      "rightX" : 74.49,
+      "topY" : 671.8775,
+      "baseLineY" : 679.5692,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 698.015,
+      "rightX" : 166.2,
+      "topY" : 686.015,
+      "baseLineY" : 695.28,
+      "fontId" : 7,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 166.32,
+      "bottomY" : 697.5592,
+      "rightX" : 168.81,
+      "topY" : 687.5592,
+      "baseLineY" : 695.28,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72.002,
+      "bottomY" : 47.5196,
+      "rightX" : 120.0889,
+      "topY" : 37.5196,
+      "baseLineY" : 45.2405,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 72.002,
+      "bottomY" : 58.9238,
+      "rightX" : 121.4136,
+      "topY" : 48.9238,
+      "baseLineY" : 56.6447,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 67.2354,
+      "rightX" : 66.78,
+      "topY" : 60.2354,
+      "baseLineY" : 65.64,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 402.6,
+      "bottomY" : 85.6549,
+      "rightX" : 543.24,
+      "topY" : 73.6549,
+      "baseLineY" : 82.92,
+      "fontId" : 7,
+      "text" : "Handbook Letter 301 (3560) "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 94.9433,
+      "rightX" : 67.05,
+      "topY" : 86.9433,
+      "baseLineY" : 93.12,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 113.255,
+      "rightX" : 147,
+      "topY" : 101.255,
+      "baseLineY" : 110.52,
+      "fontId" : 7,
+      "text" : "REFERENCE: "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 113.255,
+      "rightX" : 268.8,
+      "topY" : 101.255,
+      "baseLineY" : 110.52,
+      "fontId" : 7,
+      "text" : "HB-3-3560 Chapter 9 "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 128.3629,
+      "rightX" : 68.28,
+      "topY" : 115.3629,
+      "baseLineY" : 125.4,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 140.7591,
+      "rightX" : 67.68,
+      "topY" : 130.7591,
+      "baseLineY" : 138.48,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 154.6549,
+      "rightX" : 131.04,
+      "topY" : 142.6549,
+      "baseLineY" : 151.92,
+      "fontId" : 7,
+      "text" : "PURPOSE: "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 154.6549,
+      "rightX" : 257.52,
+      "topY" : 142.6549,
+      "baseLineY" : 151.92,
+      "fontId" : 7,
+      "text" : "Servicing Letter #1 "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 167.627,
+      "rightX" : 67.8,
+      "topY" : 156.627,
+      "baseLineY" : 165.12,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 179.1591,
+      "rightX" : 67.53,
+      "topY" : 169.1591,
+      "baseLineY" : 176.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 189.0233,
+      "rightX" : 67.17,
+      "topY" : 181.0233,
+      "baseLineY" : 187.2,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 152.28,
+      "bottomY" : 207.3349,
+      "rightX" : 462.6,
+      "topY" : 195.3349,
+      "baseLineY" : 204.6,
+      "fontId" : 7,
+      "text" : "ROUTINE NOTICE OF SERVICING RESULTS/CONCERNS "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 216.7433,
+      "rightX" : 67.05,
+      "topY" : 208.7433,
+      "baseLineY" : 214.92,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 481.2,
+      "bottomY" : 234.935,
+      "rightX" : 485.196,
+      "topY" : 222.935,
+      "baseLineY" : 232.2,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 485.16,
+      "bottomY" : 234.9699,
+      "rightX" : 536.2079,
+      "topY" : 222.9699,
+      "baseLineY" : 232.2,
+      "fontId" : 5,
+      "text" : "insert date"
+    }, {
+      "leftX" : 536.16,
+      "bottomY" : 234.935,
+      "rightX" : 543.2401,
+      "topY" : 222.935,
+      "baseLineY" : 232.2,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 246.5991,
+      "rightX" : 67.53,
+      "topY" : 236.5991,
+      "baseLineY" : 244.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 258.1229,
+      "rightX" : 67.53,
+      "topY" : 248.1229,
+      "baseLineY" : 255.8438,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 276.3349,
+      "rightX" : 102.276,
+      "topY" : 264.3349,
+      "baseLineY" : 273.6,
+      "fontId" : 7,
+      "text" : "Dear ["
+    }, {
+      "leftX" : 102.24,
+      "bottomY" : 276.3699,
+      "rightX" : 219.348,
+      "topY" : 264.3699,
+      "baseLineY" : 273.6,
+      "fontId" : 5,
+      "text" : "insert name of borrower"
+    }, {
+      "leftX" : 219.36,
+      "bottomY" : 276.3349,
+      "rightX" : 229.68,
+      "topY" : 264.3349,
+      "baseLineY" : 273.6,
+      "fontId" : 7,
+      "text" : "]: "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 290.255,
+      "rightX" : 68.04,
+      "topY" : 278.255,
+      "baseLineY" : 287.52,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 304.0549,
+      "rightX" : 536.0398,
+      "topY" : 292.0549,
+      "baseLineY" : 301.32,
+      "fontId" : 7,
+      "text" : "We are writing to inform you of the results of a recent review of certain selected aspects of your "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 317.8549,
+      "rightX" : 356.556,
+      "topY" : 305.8549,
+      "baseLineY" : 315.12,
+      "fontId" : 7,
+      "text" : "operations. A copy of the results of our review is attached ["
+    }, {
+      "leftX" : 356.52,
+      "bottomY" : 317.8899,
+      "rightX" : 510.9586,
+      "topY" : 305.8899,
+      "baseLineY" : 315.12,
+      "fontId" : 5,
+      "text" : "Attach copy of supervisory visit "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 331.6899,
+      "rightX" : 528.1199,
+      "topY" : 319.6899,
+      "baseLineY" : 328.92,
+      "fontId" : 5,
+      "text" : "report, physical inspection report, compliance review, reserve records, notice of payment due, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 345.4899,
+      "rightX" : 88.92,
+      "topY" : 333.4899,
+      "baseLineY" : 342.7199,
+      "fontId" : 5,
+      "text" : "etc."
+    }, {
+      "leftX" : 88.92,
+      "bottomY" : 345.4549,
+      "rightX" : 99,
+      "topY" : 333.4549,
+      "baseLineY" : 342.7199,
+      "fontId" : 7,
+      "text" : "]. "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 359.1471,
+      "rightX" : 67.92,
+      "topY" : 348.1471,
+      "baseLineY" : 356.64,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 372.935,
+      "rightX" : 423.3946,
+      "topY" : 360.935,
+      "baseLineY" : 370.2,
+      "fontId" : 7,
+      "text" : "Please review the attached material and note the areas of concern listed. ["
+    }, {
+      "leftX" : 423.36,
+      "bottomY" : 372.9699,
+      "rightX" : 516.72,
+      "topY" : 360.9699,
+      "baseLineY" : 370.2,
+      "fontId" : 5,
+      "text" : "if necessary, insert "
+    }, {
+      "leftX" : 516.84,
+      "bottomY" : 372.935,
+      "rightX" : 541.6801,
+      "topY" : 360.935,
+      "baseLineY" : 370.2,
+      "fontId" : 7,
+      "text" : "“We "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 386.735,
+      "rightX" : 381.24,
+      "topY" : 374.735,
+      "baseLineY" : 384,
+      "fontId" : 7,
+      "text" : "want to especially bring to your attention the following items:”] "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 400.4271,
+      "rightX" : 67.92,
+      "topY" : 389.4271,
+      "baseLineY" : 397.92,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 414.335,
+      "rightX" : 537.4798,
+      "topY" : 402.335,
+      "baseLineY" : 411.6,
+      "fontId" : 7,
+      "text" : "We are asking that you contact this office within 15 days of the date of this letter to inform us of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 428.135,
+      "rightX" : 527.64,
+      "topY" : 416.135,
+      "baseLineY" : 425.4,
+      "fontId" : 7,
+      "text" : "the corrective actions you have taken, or plan to take, to correct the concerns listed. Our office "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 441.9349,
+      "rightX" : 245.556,
+      "topY" : 429.9349,
+      "baseLineY" : 439.2,
+      "fontId" : 7,
+      "text" : "address and telephone number are: ["
+    }, {
+      "leftX" : 245.52,
+      "bottomY" : 441.9699,
+      "rightX" : 423.4679,
+      "topY" : 429.9699,
+      "baseLineY" : 439.2,
+      "fontId" : 5,
+      "text" : "insert address and telephone number"
+    }, {
+      "leftX" : 423.6,
+      "bottomY" : 441.9349,
+      "rightX" : 430.68,
+      "topY" : 429.9349,
+      "baseLineY" : 439.2,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 457.0429,
+      "rightX" : 68.28,
+      "topY" : 444.0429,
+      "baseLineY" : 454.08,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 469.5471,
+      "rightX" : 67.8,
+      "topY" : 458.5471,
+      "baseLineY" : 467.04,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 483.335,
+      "rightX" : 123.36,
+      "topY" : 471.335,
+      "baseLineY" : 480.6,
+      "fontId" : 7,
+      "text" : "Sincerely, "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 494.5312,
+      "rightX" : 67.41,
+      "topY" : 485.5312,
+      "baseLineY" : 492.48,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 507.095,
+      "rightX" : 75.996,
+      "topY" : 495.095,
+      "baseLineY" : 504.36,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 75.96,
+      "bottomY" : 507.1299,
+      "rightX" : 217.416,
+      "topY" : 495.1299,
+      "baseLineY" : 504.36,
+      "fontId" : 5,
+      "text" : "Signature and title of Official"
+    }, {
+      "leftX" : 217.44,
+      "bottomY" : 507.095,
+      "rightX" : 224.4,
+      "topY" : 495.095,
+      "baseLineY" : 504.36,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 520.7749,
+      "rightX" : 68.04,
+      "topY" : 508.7749,
+      "baseLineY" : 518.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 534.5749,
+      "rightX" : 68.04,
+      "topY" : 522.5749,
+      "baseLineY" : 531.84,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 548.3749,
+      "rightX" : 131.04,
+      "topY" : 536.3749,
+      "baseLineY" : 545.64,
+      "fontId" : 7,
+      "text" : "Attachment "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 560.987,
+      "rightX" : 67.8,
+      "topY" : 549.987,
+      "baseLineY" : 558.48,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 573.7051,
+      "rightX" : 67.8,
+      "topY" : 562.7051,
+      "baseLineY" : 571.1981,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 586.3017,
+      "rightX" : 67.8,
+      "topY" : 575.3017,
+      "baseLineY" : 583.7947,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 599.0199,
+      "rightX" : 67.8,
+      "topY" : 588.0199,
+      "baseLineY" : 596.5128,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 611.6165,
+      "rightX" : 67.8,
+      "topY" : 600.6165,
+      "baseLineY" : 609.1094,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 624.2131,
+      "rightX" : 67.8,
+      "topY" : 613.2131,
+      "baseLineY" : 621.7061,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 636.9312,
+      "rightX" : 67.8,
+      "topY" : 625.9312,
+      "baseLineY" : 634.4241,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 649.5278,
+      "rightX" : 67.8,
+      "topY" : 638.5278,
+      "baseLineY" : 647.0208,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 662.2459,
+      "rightX" : 67.8,
+      "topY" : 651.2459,
+      "baseLineY" : 659.7388,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 674.8426,
+      "rightX" : 67.8,
+      "topY" : 663.8426,
+      "baseLineY" : 672.3355,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 687.5606,
+      "rightX" : 67.8,
+      "topY" : 676.5606,
+      "baseLineY" : 685.0536,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 700.1573,
+      "rightX" : 67.8,
+      "topY" : 689.1573,
+      "baseLineY" : 697.6502,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 712.8753,
+      "rightX" : 67.8,
+      "topY" : 701.8753,
+      "baseLineY" : 710.3683,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 729.2149,
+      "rightX" : 159.24,
+      "topY" : 717.2149,
+      "baseLineY" : 726.48,
+      "fontId" : 7,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 159.36,
+      "bottomY" : 728.7591,
+      "rightX" : 161.85,
+      "topY" : 718.7591,
+      "baseLineY" : 726.48,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 741.8271,
+      "rightX" : 67.8,
+      "topY" : 730.8271,
+      "baseLineY" : 739.32,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 754.7992,
+      "rightX" : 67.53,
+      "topY" : 744.7992,
+      "baseLineY" : 752.52,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 65.04,
+      "bottomY" : 39.1192,
+      "rightX" : 67.53,
+      "topY" : 29.1192,
+      "baseLineY" : 36.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 494.52,
+      "bottomY" : 47.5191,
+      "rightX" : 542.61,
+      "topY" : 37.5191,
+      "baseLineY" : 45.24,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 493.08,
+      "bottomY" : 59.0391,
+      "rightX" : 542.49,
+      "topY" : 49.0391,
+      "baseLineY" : 56.76,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 69.5991,
+      "rightX" : 67.53,
+      "topY" : 59.5991,
+      "baseLineY" : 67.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 80.4112,
+      "rightX" : 67.29,
+      "topY" : 71.4112,
+      "baseLineY" : 78.36,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 402.6,
+      "bottomY" : 98.615,
+      "rightX" : 543.2399,
+      "topY" : 86.615,
+      "baseLineY" : 95.88,
+      "fontId" : 7,
+      "text" : "Handbook Letter 302 (3560) "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 110.1591,
+      "rightX" : 67.53,
+      "topY" : 100.1591,
+      "baseLineY" : 107.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 121.6829,
+      "rightX" : 67.53,
+      "topY" : 111.6829,
+      "baseLineY" : 119.4037,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 139.8949,
+      "rightX" : 147,
+      "topY" : 127.8949,
+      "baseLineY" : 137.16,
+      "fontId" : 7,
+      "text" : "REFERENCE: "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 139.8949,
+      "rightX" : 268.8,
+      "topY" : 127.8949,
+      "baseLineY" : 137.16,
+      "fontId" : 7,
+      "text" : "HB-3-3560 Chapter 9 "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 155.0029,
+      "rightX" : 68.28,
+      "topY" : 142.0029,
+      "baseLineY" : 152.04,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 167.3991,
+      "rightX" : 67.68,
+      "topY" : 157.3991,
+      "baseLineY" : 165.12,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 181.295,
+      "rightX" : 131.04,
+      "topY" : 169.295,
+      "baseLineY" : 178.56,
+      "fontId" : 7,
+      "text" : "PURPOSE: "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 181.295,
+      "rightX" : 257.52,
+      "topY" : 169.295,
+      "baseLineY" : 178.56,
+      "fontId" : 7,
+      "text" : "Servicing Letter #2 "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 194.3871,
+      "rightX" : 67.8,
+      "topY" : 183.3871,
+      "baseLineY" : 191.88,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 205.9192,
+      "rightX" : 67.53,
+      "topY" : 195.9192,
+      "baseLineY" : 203.64,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 215.7833,
+      "rightX" : 67.17,
+      "topY" : 207.7833,
+      "baseLineY" : 213.96,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 161.04,
+      "bottomY" : 234.095,
+      "rightX" : 454.08,
+      "topY" : 222.095,
+      "baseLineY" : 231.36,
+      "fontId" : 7,
+      "text" : "NOTIFICATION OF SERIOUS SERVICING CONCERNS "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 245.6391,
+      "rightX" : 67.53,
+      "topY" : 235.6391,
+      "baseLineY" : 243.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 257.2824,
+      "rightX" : 67.53,
+      "topY" : 247.2824,
+      "baseLineY" : 255.0032,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 481.2,
+      "bottomY" : 275.495,
+      "rightX" : 485.196,
+      "topY" : 263.495,
+      "baseLineY" : 272.76,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 485.16,
+      "bottomY" : 275.5299,
+      "rightX" : 536.2079,
+      "topY" : 263.5299,
+      "baseLineY" : 272.76,
+      "fontId" : 5,
+      "text" : "insert date"
+    }, {
+      "leftX" : 536.16,
+      "bottomY" : 275.495,
+      "rightX" : 543.24,
+      "topY" : 263.495,
+      "baseLineY" : 272.76,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 287.0391,
+      "rightX" : 67.53,
+      "topY" : 277.0391,
+      "baseLineY" : 284.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 298.6824,
+      "rightX" : 67.53,
+      "topY" : 288.6824,
+      "baseLineY" : 296.4033,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 316.895,
+      "rightX" : 102.276,
+      "topY" : 304.895,
+      "baseLineY" : 314.16,
+      "fontId" : 7,
+      "text" : "Dear ["
+    }, {
+      "leftX" : 102.24,
+      "bottomY" : 316.9299,
+      "rightX" : 219.348,
+      "topY" : 304.9299,
+      "baseLineY" : 314.16,
+      "fontId" : 5,
+      "text" : "insert name of borrower"
+    }, {
+      "leftX" : 219.36,
+      "bottomY" : 316.895,
+      "rightX" : 229.68,
+      "topY" : 304.895,
+      "baseLineY" : 314.16,
+      "fontId" : 7,
+      "text" : "]: "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 330.695,
+      "rightX" : 68.04,
+      "topY" : 318.695,
+      "baseLineY" : 327.96,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 344.4949,
+      "rightX" : 505.1998,
+      "topY" : 332.4949,
+      "baseLineY" : 341.76,
+      "fontId" : 7,
+      "text" : "We are writing to inform you that certain aspects of your project operations are of serious "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 358.2949,
+      "rightX" : 186.24,
+      "topY" : 346.2949,
+      "baseLineY" : 355.56,
+      "fontId" : 7,
+      "text" : "concern to the Agency. "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 371.9871,
+      "rightX" : 67.92,
+      "topY" : 360.9871,
+      "baseLineY" : 369.48,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 385.895,
+      "rightX" : 411.2759,
+      "topY" : 373.895,
+      "baseLineY" : 383.16,
+      "fontId" : 7,
+      "text" : "A brief description of the items of concern which warrant attention is ["
+    }, {
+      "leftX" : 411.24,
+      "bottomY" : 385.9299,
+      "rightX" : 469.5479,
+      "topY" : 373.9299,
+      "baseLineY" : 383.16,
+      "fontId" : 5,
+      "text" : "insert either"
+    }, {
+      "leftX" : 469.56,
+      "bottomY" : 385.895,
+      "rightX" : 526.8,
+      "topY" : 373.895,
+      "baseLineY" : 383.16,
+      "fontId" : 7,
+      "text" : ": “provided "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 399.695,
+      "rightX" : 112.92,
+      "topY" : 387.695,
+      "baseLineY" : 396.96,
+      "fontId" : 7,
+      "text" : "below:” "
+    }, {
+      "leftX" : 112.92,
+      "bottomY" : 399.7299,
+      "rightX" : 126.6,
+      "topY" : 387.7299,
+      "baseLineY" : 396.96,
+      "fontId" : 5,
+      "text" : "or "
+    }, {
+      "leftX" : 126.6,
+      "bottomY" : 399.695,
+      "rightX" : 187.32,
+      "topY" : 387.695,
+      "baseLineY" : 396.96,
+      "fontId" : 7,
+      "text" : "“attached.”] "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 413.3871,
+      "rightX" : 67.92,
+      "topY" : 402.3871,
+      "baseLineY" : 410.88,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 427.295,
+      "rightX" : 377.0759,
+      "topY" : 415.295,
+      "baseLineY" : 424.56,
+      "fontId" : 7,
+      "text" : "We would like to arrange a meeting to discuss these concerns. ["
+    }, {
+      "leftX" : 377.04,
+      "bottomY" : 427.3299,
+      "rightX" : 435.3479,
+      "topY" : 415.3299,
+      "baseLineY" : 424.56,
+      "fontId" : 5,
+      "text" : "insert either"
+    }, {
+      "leftX" : 435.36,
+      "bottomY" : 427.295,
+      "rightX" : 537.36,
+      "topY" : 415.295,
+      "baseLineY" : 424.56,
+      "fontId" : 7,
+      "text" : ": “Please contact our "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 441.095,
+      "rightX" : 532.5598,
+      "topY" : 429.095,
+      "baseLineY" : 438.36,
+      "fontId" : 7,
+      "text" : "office to confirm if you can make the tentatively scheduled meeting at the following time, date, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 454.8949,
+      "rightX" : 142.56,
+      "topY" : 442.8949,
+      "baseLineY" : 452.16,
+      "fontId" : 7,
+      "text" : "and location:” "
+    }, {
+      "leftX" : 142.56,
+      "bottomY" : 454.9299,
+      "rightX" : 156.24,
+      "topY" : 442.9299,
+      "baseLineY" : 452.16,
+      "fontId" : 5,
+      "text" : "or "
+    }, {
+      "leftX" : 156.24,
+      "bottomY" : 454.8949,
+      "rightX" : 530.1596,
+      "topY" : 442.8949,
+      "baseLineY" : 452.16,
+      "fontId" : 7,
+      "text" : "“Please contact our office within 15 days of the date of this letter to make the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 468.695,
+      "rightX" : 393.516,
+      "topY" : 456.695,
+      "baseLineY" : 465.96,
+      "fontId" : 7,
+      "text" : "necessary arrangements”]. Our address and telephone number are ["
+    }, {
+      "leftX" : 393.48,
+      "bottomY" : 468.7299,
+      "rightX" : 534.84,
+      "topY" : 456.7299,
+      "baseLineY" : 465.96,
+      "fontId" : 5,
+      "text" : "insert address and telephone "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 482.5299,
+      "rightX" : 108.588,
+      "topY" : 470.5299,
+      "baseLineY" : 479.76,
+      "fontId" : 5,
+      "text" : "number"
+    }, {
+      "leftX" : 108.6,
+      "bottomY" : 482.4949,
+      "rightX" : 118.68,
+      "topY" : 470.4949,
+      "baseLineY" : 479.76,
+      "fontId" : 7,
+      "text" : "]. "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 496.187,
+      "rightX" : 67.92,
+      "topY" : 485.187,
+      "baseLineY" : 493.68,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 509.975,
+      "rightX" : 380.7935,
+      "topY" : 497.975,
+      "baseLineY" : 507.24,
+      "fontId" : 7,
+      "text" : "Please be prepared to discuss the matters of concern identified. ["
+    }, {
+      "leftX" : 380.76,
+      "bottomY" : 510.0099,
+      "rightX" : 408.096,
+      "topY" : 498.0099,
+      "baseLineY" : 507.24,
+      "fontId" : 5,
+      "text" : "insert"
+    }, {
+      "leftX" : 408.12,
+      "bottomY" : 509.975,
+      "rightX" : 529.3199,
+      "topY" : 497.975,
+      "baseLineY" : 507.24,
+      "fontId" : 7,
+      "text" : ": “In particular, you may "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 523.7749,
+      "rightX" : 350.1599,
+      "topY" : 511.7749,
+      "baseLineY" : 521.04,
+      "fontId" : 7,
+      "text" : "want to bring the following information to the meeting:”] "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 537.467,
+      "rightX" : 67.92,
+      "topY" : 526.467,
+      "baseLineY" : 534.96,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 551.375,
+      "rightX" : 258.6,
+      "topY" : 539.375,
+      "baseLineY" : 548.64,
+      "fontId" : 7,
+      "text" : "We look forward to hearing from you. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 578.975,
+      "rightX" : 123.36,
+      "topY" : 566.975,
+      "baseLineY" : 576.24,
+      "fontId" : 7,
+      "text" : "Sincerely, "
+    }, {
+      "leftX" : 211.2,
+      "bottomY" : 593.7479,
+      "rightX" : 211.44,
+      "topY" : 592.7479,
+      "baseLineY" : 593.52,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 608.135,
+      "rightX" : 75.996,
+      "topY" : 596.135,
+      "baseLineY" : 605.4,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 75.96,
+      "bottomY" : 608.1699,
+      "rightX" : 217.416,
+      "topY" : 596.1699,
+      "baseLineY" : 605.4,
+      "fontId" : 5,
+      "text" : "Signature and title of Official"
+    }, {
+      "leftX" : 217.44,
+      "bottomY" : 608.135,
+      "rightX" : 224.4,
+      "topY" : 596.135,
+      "baseLineY" : 605.4,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 635.735,
+      "rightX" : 131.04,
+      "topY" : 623.735,
+      "baseLineY" : 633,
+      "fontId" : 7,
+      "text" : "Attachment "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 661.0791,
+      "rightX" : 67.53,
+      "topY" : 651.0791,
+      "baseLineY" : 658.8,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 672.4834,
+      "rightX" : 67.53,
+      "topY" : 662.4834,
+      "baseLineY" : 670.2042,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 684.007,
+      "rightX" : 67.53,
+      "topY" : 674.007,
+      "baseLineY" : 681.7279,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 695.5308,
+      "rightX" : 67.53,
+      "topY" : 685.5308,
+      "baseLineY" : 693.2516,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 707.0545,
+      "rightX" : 67.53,
+      "topY" : 697.0545,
+      "baseLineY" : 704.7754,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 718.5782,
+      "rightX" : 67.53,
+      "topY" : 708.5782,
+      "baseLineY" : 716.2991,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 734.735,
+      "rightX" : 159.24,
+      "topY" : 722.735,
+      "baseLineY" : 732,
+      "fontId" : 7,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 159.36,
+      "bottomY" : 734.2791,
+      "rightX" : 161.85,
+      "topY" : 724.2791,
+      "baseLineY" : 732,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.0388,
+      "bottomY" : 750.8426,
+      "rightX" : 67.5288,
+      "topY" : 740.8426,
+      "baseLineY" : 748.5635,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 65.04,
+      "bottomY" : 792.2279,
+      "rightX" : 65.28,
+      "topY" : 791.2279,
+      "baseLineY" : 792,
+      "fontId" : 12,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 83.04,
+      "bottomY" : 39.1192,
+      "rightX" : 85.53,
+      "topY" : 29.1192,
+      "baseLineY" : 36.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 47.5191,
+      "rightX" : 138.09,
+      "topY" : 37.5191,
+      "baseLineY" : 45.24,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 59.0391,
+      "rightX" : 139.41,
+      "topY" : 49.0391,
+      "baseLineY" : 56.76,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 69.5991,
+      "rightX" : 85.53,
+      "topY" : 59.5991,
+      "baseLineY" : 67.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 435.84,
+      "bottomY" : 82.187,
+      "rightX" : 562.0361,
+      "topY" : 71.187,
+      "baseLineY" : 79.68,
+      "fontId" : 10,
+      "text" : "Handbook Letter 303 (3560)"
+    }, {
+      "leftX" : 562.08,
+      "bottomY" : 82.415,
+      "rightX" : 565.08,
+      "topY" : 70.415,
+      "baseLineY" : 79.68,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 562.08,
+      "bottomY" : 94.9071,
+      "rightX" : 564.84,
+      "topY" : 83.9071,
+      "baseLineY" : 92.4,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.0434,
+      "bottomY" : 107.5037,
+      "rightX" : 151.8005,
+      "topY" : 96.5037,
+      "baseLineY" : 104.9966,
+      "fontId" : 10,
+      "text" : "REFERENCE: "
+    }, {
+      "leftX" : 173.0415,
+      "bottomY" : 107.5037,
+      "rightX" : 271.6729,
+      "topY" : 96.5037,
+      "baseLineY" : 104.9966,
+      "fontId" : 10,
+      "text" : "HB-3-3560 Chapter 9 "
+    }, {
+      "leftX" : 83.0324,
+      "bottomY" : 120.1003,
+      "rightX" : 85.7924,
+      "topY" : 109.1003,
+      "baseLineY" : 117.5933,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.0324,
+      "bottomY" : 132.8184,
+      "rightX" : 85.7924,
+      "topY" : 121.8184,
+      "baseLineY" : 130.3113,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.0324,
+      "bottomY" : 145.415,
+      "rightX" : 137.1504,
+      "topY" : 134.415,
+      "baseLineY" : 142.908,
+      "fontId" : 10,
+      "text" : "PURPOSE: "
+    }, {
+      "leftX" : 173.0304,
+      "bottomY" : 145.415,
+      "rightX" : 260.7543,
+      "topY" : 134.415,
+      "baseLineY" : 142.908,
+      "fontId" : 10,
+      "text" : "Servicing Letter #3 "
+    }, {
+      "leftX" : 83.0324,
+      "bottomY" : 158.2546,
+      "rightX" : 85.7924,
+      "topY" : 147.2546,
+      "baseLineY" : 155.7475,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 172.547,
+      "rightX" : 85.8,
+      "topY" : 161.547,
+      "baseLineY" : 170.04,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 185.1436,
+      "rightX" : 85.8,
+      "topY" : 174.1436,
+      "baseLineY" : 182.6366,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 197.7403,
+      "rightX" : 85.8,
+      "topY" : 186.7403,
+      "baseLineY" : 195.2332,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 176.2838,
+      "bottomY" : 210.4583,
+      "rightX" : 474.4853,
+      "topY" : 199.4583,
+      "baseLineY" : 207.9513,
+      "fontId" : 10,
+      "text" : "NOTIFICATION OF INTENT TO PURSUE MORE FORCEFUL  "
+    }, {
+      "leftX" : 267.96,
+      "bottomY" : 223.055,
+      "rightX" : 379.7952,
+      "topY" : 212.055,
+      "baseLineY" : 220.5479,
+      "fontId" : 10,
+      "text" : "SERVICING ACTIONS "
+    }, {
+      "leftX" : 322.5528,
+      "bottomY" : 235.773,
+      "rightX" : 325.3128,
+      "topY" : 224.773,
+      "baseLineY" : 233.266,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 507.9475,
+      "bottomY" : 248.3697,
+      "rightX" : 511.6238,
+      "topY" : 237.3697,
+      "baseLineY" : 245.8626,
+      "fontId" : 10,
+      "text" : "["
+    }, {
+      "leftX" : 511.668,
+      "bottomY" : 248.4017,
+      "rightX" : 558.4621,
+      "topY" : 237.4017,
+      "baseLineY" : 245.8626,
+      "fontId" : 13,
+      "text" : "insert date"
+    }, {
+      "leftX" : 558.4666,
+      "bottomY" : 248.3697,
+      "rightX" : 564.8256,
+      "topY" : 237.3697,
+      "baseLineY" : 245.8626,
+      "fontId" : 10,
+      "text" : "] "
+    }, {
+      "leftX" : 562.0656,
+      "bottomY" : 260.9663,
+      "rightX" : 564.8256,
+      "topY" : 249.9663,
+      "baseLineY" : 258.4592,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.029,
+      "bottomY" : 273.6844,
+      "rightX" : 85.789,
+      "topY" : 262.6844,
+      "baseLineY" : 271.1773,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.029,
+      "bottomY" : 286.281,
+      "rightX" : 110.9536,
+      "topY" : 275.281,
+      "baseLineY" : 283.774,
+      "fontId" : 10,
+      "text" : "Dear ["
+    }, {
+      "leftX" : 110.8719,
+      "bottomY" : 286.3131,
+      "rightX" : 218.1321,
+      "topY" : 275.3131,
+      "baseLineY" : 283.774,
+      "fontId" : 13,
+      "text" : "insert name of borrower"
+    }, {
+      "leftX" : 218.1542,
+      "bottomY" : 286.281,
+      "rightX" : 227.6309,
+      "topY" : 275.281,
+      "baseLineY" : 283.774,
+      "fontId" : 10,
+      "text" : "]: "
+    }, {
+      "leftX" : 83.029,
+      "bottomY" : 298.9991,
+      "rightX" : 85.789,
+      "topY" : 287.9991,
+      "baseLineY" : 296.492,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.029,
+      "bottomY" : 311.5957,
+      "rightX" : 269.1292,
+      "topY" : 300.5957,
+      "baseLineY" : 309.0887,
+      "fontId" : 10,
+      "text" : "We regret that earlier attempts to resolve ["
+    }, {
+      "leftX" : 269.1523,
+      "bottomY" : 311.6278,
+      "rightX" : 349.8966,
+      "topY" : 300.6278,
+      "baseLineY" : 309.0887,
+      "fontId" : 13,
+      "text" : "state the problems"
+    }, {
+      "leftX" : 349.7885,
+      "bottomY" : 311.5957,
+      "rightX" : 550.9087,
+      "topY" : 300.5957,
+      "baseLineY" : 309.0887,
+      "fontId" : 10,
+      "text" : "] have not been successful. We are writing to "
+    }, {
+      "leftX" : 83.029,
+      "bottomY" : 324.1924,
+      "rightX" : 530.3254,
+      "topY" : 313.1924,
+      "baseLineY" : 321.6853,
+      "fontId" : 10,
+      "text" : "inform you that Rural Development intends to take further action unless alternative arrangements are "
+    }, {
+      "leftX" : 83.029,
+      "bottomY" : 336.9105,
+      "rightX" : 531.3027,
+      "topY" : 325.9105,
+      "baseLineY" : 334.4034,
+      "fontId" : 10,
+      "text" : "promptly made with this office. If you have not contacted us within 15 days, we intend to pursue the ["
+    }, {
+      "leftX" : 531.2309,
+      "bottomY" : 336.9425,
+      "rightX" : 559.0617,
+      "topY" : 325.9425,
+      "baseLineY" : 334.4034,
+      "fontId" : 13,
+      "text" : "insert "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 349.5791,
+      "rightX" : 108.8228,
+      "topY" : 338.5791,
+      "baseLineY" : 347.04,
+      "fontId" : 13,
+      "text" : "either"
+    }, {
+      "leftX" : 108.719,
+      "bottomY" : 349.5471,
+      "rightX" : 206.7587,
+      "topY" : 338.5471,
+      "baseLineY" : 347.04,
+      "fontId" : 10,
+      "text" : ": “following actions:” "
+    }, {
+      "leftX" : 206.7587,
+      "bottomY" : 349.5791,
+      "rightX" : 219.3586,
+      "topY" : 338.5791,
+      "baseLineY" : 347.04,
+      "fontId" : 13,
+      "text" : "or "
+    }, {
+      "leftX" : 219.3586,
+      "bottomY" : 349.5471,
+      "rightX" : 311.5239,
+      "topY" : 338.5471,
+      "baseLineY" : 347.04,
+      "fontId" : 10,
+      "text" : "“attached actions.”]  "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 362.2651,
+      "rightX" : 85.8,
+      "topY" : 351.2651,
+      "baseLineY" : 359.7581,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 374.8618,
+      "rightX" : 86.7163,
+      "topY" : 363.8618,
+      "baseLineY" : 372.3547,
+      "fontId" : 10,
+      "text" : "["
+    }, {
+      "leftX" : 86.7605,
+      "bottomY" : 374.8938,
+      "rightX" : 560.4037,
+      "topY" : 363.8938,
+      "baseLineY" : 372.3547,
+      "fontId" : 13,
+      "text" : "List actions, e.g., Forward a problem case report to the Leadership Designee, recommend an investigation "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 387.6119,
+      "rightX" : 553.3196,
+      "topY" : 376.6119,
+      "baseLineY" : 385.0728,
+      "fontId" : 13,
+      "text" : "by the Office of the Inspector General, demand a change in project management, place a recoverable cost "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 400.2086,
+      "rightX" : 520.3367,
+      "topY" : 389.2086,
+      "baseLineY" : 397.6695,
+      "fontId" : 13,
+      "text" : "charge on the account, forward a recommendation to the Leadership Designee to issue a Notice of "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 412.8052,
+      "rightX" : 160.4547,
+      "topY" : 401.8052,
+      "baseLineY" : 410.2661,
+      "fontId" : 13,
+      "text" : "Acceleration, etc."
+    }, {
+      "leftX" : 160.32,
+      "bottomY" : 412.7732,
+      "rightX" : 166.679,
+      "topY" : 401.7732,
+      "baseLineY" : 410.2661,
+      "fontId" : 10,
+      "text" : "] "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 425.4912,
+      "rightX" : 85.8,
+      "topY" : 414.4912,
+      "baseLineY" : 422.9842,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 438.0879,
+      "rightX" : 543.3029,
+      "topY" : 427.0879,
+      "baseLineY" : 435.5808,
+      "fontId" : 10,
+      "text" : "We are hopeful we can avoid the necessity of taking the steps outlined above. Unfortunately, we will be "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 450.806,
+      "rightX" : 449.9986,
+      "topY" : 439.806,
+      "baseLineY" : 448.2989,
+      "fontId" : 10,
+      "text" : "forced to do so unless we hear from you within 15 days from the date of this letter. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 463.4271,
+      "rightX" : 85.8,
+      "topY" : 452.4271,
+      "baseLineY" : 460.92,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 476.0237,
+      "rightX" : 469.44,
+      "topY" : 465.0237,
+      "baseLineY" : 473.5167,
+      "fontId" : 10,
+      "text" : "Please contact our office immediately if you wish to avoid the actions described above. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 488.7418,
+      "rightX" : 85.8,
+      "topY" : 477.7418,
+      "baseLineY" : 486.2347,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 501.3384,
+      "rightX" : 130.0815,
+      "topY" : 490.3384,
+      "baseLineY" : 498.8314,
+      "fontId" : 10,
+      "text" : "Sincerely, "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 514.0565,
+      "rightX" : 212.2798,
+      "topY" : 503.0565,
+      "baseLineY" : 511.5495,
+      "fontId" : 10,
+      "text" : "_______________________ "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 526.6532,
+      "rightX" : 86.7163,
+      "topY" : 515.6532,
+      "baseLineY" : 524.1461,
+      "fontId" : 10,
+      "text" : "["
+    }, {
+      "leftX" : 86.7605,
+      "bottomY" : 526.6852,
+      "rightX" : 216.338,
+      "topY" : 515.6852,
+      "baseLineY" : 524.1461,
+      "fontId" : 13,
+      "text" : "Signature and title of Official"
+    }, {
+      "leftX" : 216.2376,
+      "bottomY" : 526.6532,
+      "rightX" : 222.5966,
+      "topY" : 515.6532,
+      "baseLineY" : 524.1461,
+      "fontId" : 10,
+      "text" : "] "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 539.2498,
+      "rightX" : 85.8,
+      "topY" : 528.2498,
+      "baseLineY" : 536.7427,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 551.9679,
+      "rightX" : 137.1581,
+      "topY" : 540.9679,
+      "baseLineY" : 549.4608,
+      "fontId" : 10,
+      "text" : "Attachment "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 564.5645,
+      "rightX" : 85.8,
+      "topY" : 553.5645,
+      "baseLineY" : 562.0575,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 577.2826,
+      "rightX" : 85.8,
+      "topY" : 566.2826,
+      "baseLineY" : 574.7755,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 589.8792,
+      "rightX" : 85.8,
+      "topY" : 578.8792,
+      "baseLineY" : 587.3722,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 602.4759,
+      "rightX" : 85.8,
+      "topY" : 591.4759,
+      "baseLineY" : 599.9688,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 615.1939,
+      "rightX" : 85.8,
+      "topY" : 604.1939,
+      "baseLineY" : 612.6869,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 627.7906,
+      "rightX" : 85.8,
+      "topY" : 616.7906,
+      "baseLineY" : 625.2835,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 640.5086,
+      "rightX" : 85.8,
+      "topY" : 629.5086,
+      "baseLineY" : 638.0016,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 653.1053,
+      "rightX" : 85.8,
+      "topY" : 642.1053,
+      "baseLineY" : 650.5983,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 665.7019,
+      "rightX" : 85.8,
+      "topY" : 654.7019,
+      "baseLineY" : 663.1949,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 678.42,
+      "rightX" : 85.8,
+      "topY" : 667.42,
+      "baseLineY" : 675.913,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 691.0166,
+      "rightX" : 85.8,
+      "topY" : 680.0166,
+      "baseLineY" : 688.5096,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 703.8562,
+      "rightX" : 85.8,
+      "topY" : 692.8562,
+      "baseLineY" : 701.3491,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 720.095,
+      "rightX" : 177.24,
+      "topY" : 708.095,
+      "baseLineY" : 717.36,
+      "fontId" : 7,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 177.36,
+      "bottomY" : 719.6391,
+      "rightX" : 179.85,
+      "topY" : 709.6391,
+      "baseLineY" : 717.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 562.08,
+      "bottomY" : 733.8949,
+      "rightX" : 565.08,
+      "topY" : 721.8949,
+      "baseLineY" : 731.16,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 755.2671,
+      "rightX" : 85.8,
+      "topY" : 744.2671,
+      "baseLineY" : 752.76,
+      "fontId" : 10,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 83.04,
+      "bottomY" : 39.1192,
+      "rightX" : 85.53,
+      "topY" : 29.1192,
+      "baseLineY" : 36.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 476.52,
+      "bottomY" : 47.5191,
+      "rightX" : 524.61,
+      "topY" : 37.5191,
+      "baseLineY" : 45.24,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 475.08,
+      "bottomY" : 59.0391,
+      "rightX" : 524.49,
+      "topY" : 49.0391,
+      "baseLineY" : 56.76,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 562.08,
+      "bottomY" : 71.855,
+      "rightX" : 565.08,
+      "topY" : 59.855,
+      "baseLineY" : 69.12,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 411.84,
+      "bottomY" : 85.6549,
+      "rightX" : 565.0801,
+      "topY" : 73.6549,
+      "baseLineY" : 82.92,
+      "fontId" : 7,
+      "text" : "Handbook Letter 303-A (3560) "
+    }, {
+      "leftX" : 83.0401,
+      "bottomY" : 99.4549,
+      "rightX" : 86.0401,
+      "topY" : 87.4549,
+      "baseLineY" : 96.72,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.0401,
+      "bottomY" : 113.2549,
+      "rightX" : 265.8001,
+      "topY" : 101.2549,
+      "baseLineY" : 110.52,
+      "fontId" : 7,
+      "text" : "REFERENCE: HB-3-3560 Chapter 9 "
+    }, {
+      "leftX" : 83.0401,
+      "bottomY" : 127.0549,
+      "rightX" : 86.0401,
+      "topY" : 115.0549,
+      "baseLineY" : 124.3199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.0401,
+      "bottomY" : 140.8549,
+      "rightX" : 86.0401,
+      "topY" : 128.8549,
+      "baseLineY" : 138.1199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.0401,
+      "bottomY" : 154.6549,
+      "rightX" : 250.4401,
+      "topY" : 142.6549,
+      "baseLineY" : 151.9199,
+      "fontId" : 7,
+      "text" : "PURPOSE: Servicing Letter #3-A "
+    }, {
+      "leftX" : 83.0401,
+      "bottomY" : 168.4549,
+      "rightX" : 548.0402,
+      "topY" : 156.4549,
+      "baseLineY" : 165.7199,
+      "fontId" : 7,
+      "text" : "_____________________________________________________________________________ "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 182.255,
+      "rightX" : 86.04,
+      "topY" : 170.255,
+      "baseLineY" : 179.52,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 322.56,
+      "bottomY" : 196.055,
+      "rightX" : 325.56,
+      "topY" : 184.055,
+      "baseLineY" : 193.32,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 107.88,
+      "bottomY" : 209.855,
+      "rightX" : 543.24,
+      "topY" : 197.855,
+      "baseLineY" : 207.12,
+      "fontId" : 7,
+      "text" : "NOTIFICATION OF INTENT TO PURSUE CIVIL MONETARY PENALTY ACTION  "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 223.6549,
+      "rightX" : 86.04,
+      "topY" : 211.6549,
+      "baseLineY" : 220.92,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 503.04,
+      "bottomY" : 237.4549,
+      "rightX" : 507.036,
+      "topY" : 225.4549,
+      "baseLineY" : 234.72,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 507,
+      "bottomY" : 237.4899,
+      "rightX" : 558.0481,
+      "topY" : 225.4899,
+      "baseLineY" : 234.72,
+      "fontId" : 5,
+      "text" : "insert date"
+    }, {
+      "leftX" : 558,
+      "bottomY" : 237.4549,
+      "rightX" : 565.08,
+      "topY" : 225.4549,
+      "baseLineY" : 234.72,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 251.2549,
+      "rightX" : 86.04,
+      "topY" : 239.2549,
+      "baseLineY" : 248.52,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 265.0549,
+      "rightX" : 113.316,
+      "topY" : 253.0549,
+      "baseLineY" : 262.3199,
+      "fontId" : 7,
+      "text" : "Dear ["
+    }, {
+      "leftX" : 113.28,
+      "bottomY" : 265.0899,
+      "rightX" : 230.388,
+      "topY" : 253.0899,
+      "baseLineY" : 262.3199,
+      "fontId" : 5,
+      "text" : "insert name of borrower"
+    }, {
+      "leftX" : 230.4,
+      "bottomY" : 265.0549,
+      "rightX" : 240.72,
+      "topY" : 253.0549,
+      "baseLineY" : 262.3199,
+      "fontId" : 7,
+      "text" : "]: "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 278.8549,
+      "rightX" : 86.04,
+      "topY" : 266.8549,
+      "baseLineY" : 276.1199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 292.6549,
+      "rightX" : 285.9961,
+      "topY" : 280.6549,
+      "baseLineY" : 289.9199,
+      "fontId" : 7,
+      "text" : "We regret that earlier attempts to resolve ["
+    }, {
+      "leftX" : 285.96,
+      "bottomY" : 292.6898,
+      "rightX" : 373.908,
+      "topY" : 280.6898,
+      "baseLineY" : 289.9199,
+      "fontId" : 5,
+      "text" : "state the problems"
+    }, {
+      "leftX" : 373.92,
+      "bottomY" : 292.6549,
+      "rightX" : 505.92,
+      "topY" : 280.6549,
+      "baseLineY" : 289.9199,
+      "fontId" : 7,
+      "text" : "] have not been successful. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 306.4549,
+      "rightX" : 515.1599,
+      "topY" : 294.4549,
+      "baseLineY" : 303.7199,
+      "fontId" : 7,
+      "text" : "We are writing to inform you that Rural Development will be taking further action unless "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 320.2549,
+      "rightX" : 563.8798,
+      "topY" : 308.2549,
+      "baseLineY" : 317.5199,
+      "fontId" : 7,
+      "text" : "alternative arrangements are promptly made with this office. If you have not contacted us within 15 "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 334.0549,
+      "rightX" : 556.9199,
+      "topY" : 322.0549,
+      "baseLineY" : 331.3199,
+      "fontId" : 7,
+      "text" : "days, we intend to forward a recommendation to the RHS Administrator to pursue Civil Monetary "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 347.8548,
+      "rightX" : 565.0798,
+      "topY" : 335.8548,
+      "baseLineY" : 345.1199,
+      "fontId" : 7,
+      "text" : "Penalty action in an effort to bring about program compliance.  The open violations resulting in this "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 361.6548,
+      "rightX" : 264,
+      "topY" : 349.6548,
+      "baseLineY" : 358.9199,
+      "fontId" : 7,
+      "text" : "action as of the date of this letter are: "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 375.4548,
+      "rightX" : 86.04,
+      "topY" : 363.4548,
+      "baseLineY" : 372.7198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 101.04,
+      "bottomY" : 389.2548,
+      "rightX" : 110.04,
+      "topY" : 377.2548,
+      "baseLineY" : 386.5198,
+      "fontId" : 7,
+      "text" : "1."
+    }, {
+      "leftX" : 110.04,
+      "bottomY" : 389.377,
+      "rightX" : 113.376,
+      "topY" : 377.377,
+      "baseLineY" : 386.5198,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 119.04,
+      "bottomY" : 389.2548,
+      "rightX" : 212.76,
+      "topY" : 377.2548,
+      "baseLineY" : 386.5198,
+      "fontId" : 7,
+      "text" : "[list the violations] "
+    }, {
+      "leftX" : 101.04,
+      "bottomY" : 404.1348,
+      "rightX" : 110.04,
+      "topY" : 392.1348,
+      "baseLineY" : 401.3998,
+      "fontId" : 7,
+      "text" : "2."
+    }, {
+      "leftX" : 110.04,
+      "bottomY" : 404.257,
+      "rightX" : 113.376,
+      "topY" : 392.257,
+      "baseLineY" : 401.3998,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 119.04,
+      "bottomY" : 404.1348,
+      "rightX" : 122.04,
+      "topY" : 392.1348,
+      "baseLineY" : 401.3998,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 101.04,
+      "bottomY" : 419.0148,
+      "rightX" : 110.04,
+      "topY" : 407.0148,
+      "baseLineY" : 416.2798,
+      "fontId" : 7,
+      "text" : "3."
+    }, {
+      "leftX" : 110.04,
+      "bottomY" : 419.137,
+      "rightX" : 113.376,
+      "topY" : 407.137,
+      "baseLineY" : 416.2798,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 119.04,
+      "bottomY" : 419.0148,
+      "rightX" : 122.04,
+      "topY" : 407.0148,
+      "baseLineY" : 416.2798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 433.8948,
+      "rightX" : 564.0001,
+      "topY" : 421.8948,
+      "baseLineY" : 431.1599,
+      "fontId" : 7,
+      "text" : "The maximum civil money penalty that may be imposed per violation shall be in accordance with 7 "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 448.7748,
+      "rightX" : 402.36,
+      "topY" : 436.7748,
+      "baseLineY" : 446.0399,
+      "fontId" : 7,
+      "text" : "CFR 3.91(b)(8)(iii) and 543(b)(3)(A) of the Housing Act of 1949. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 471.6948,
+      "rightX" : 536.1599,
+      "topY" : 459.6948,
+      "baseLineY" : 468.9599,
+      "fontId" : 7,
+      "text" : "Upon receipt of this letter, you should become familiar with the rules governing the Agency’s "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 485.4948,
+      "rightX" : 529.3199,
+      "topY" : 473.4948,
+      "baseLineY" : 482.7599,
+      "fontId" : 7,
+      "text" : "adjudicatory hearing proceedings set forth in 7 CFR part 1, subpart H. You will be given the "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 499.2948,
+      "rightX" : 517.2,
+      "topY" : 487.2948,
+      "baseLineY" : 496.5598,
+      "fontId" : 7,
+      "text" : "opportunity to settle with the Leadership Designee prior to the hearing. Failure to respond "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 513.0948,
+      "rightX" : 550.4398,
+      "topY" : 501.0948,
+      "baseLineY" : 510.3598,
+      "fontId" : 7,
+      "text" : "adequately to the Agency within the 15-day period may result in issuance of a complaint under 7 "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 526.8948,
+      "rightX" : 482.9999,
+      "topY" : 514.8948,
+      "baseLineY" : 524.1598,
+      "fontId" : 7,
+      "text" : "CFR 3560.461 without consideration of information that you may wish to provide. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 540.6948,
+      "rightX" : 86.04,
+      "topY" : 528.6948,
+      "baseLineY" : 537.9598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 554.4948,
+      "rightX" : 458.5199,
+      "topY" : 542.4948,
+      "baseLineY" : 551.7598,
+      "fontId" : 7,
+      "text" : "We are hopeful we can avoid the necessity of taking the steps outlined above. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 568.2948,
+      "rightX" : 86.04,
+      "topY" : 556.2948,
+      "baseLineY" : 565.5598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 582.0948,
+      "rightX" : 504.6,
+      "topY" : 570.0948,
+      "baseLineY" : 579.3599,
+      "fontId" : 7,
+      "text" : "Please contact our office immediately if you wish to avoid the actions described above. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 595.8948,
+      "rightX" : 86.04,
+      "topY" : 583.8948,
+      "baseLineY" : 593.1599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 609.6948,
+      "rightX" : 134.4,
+      "topY" : 597.6948,
+      "baseLineY" : 606.9598,
+      "fontId" : 7,
+      "text" : "Sincerely, "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 623.4948,
+      "rightX" : 224.04,
+      "topY" : 611.4948,
+      "baseLineY" : 620.7598,
+      "fontId" : 7,
+      "text" : "_______________________ "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 637.2948,
+      "rightX" : 87.036,
+      "topY" : 625.2948,
+      "baseLineY" : 634.5598,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 87,
+      "bottomY" : 637.3297,
+      "rightX" : 228.456,
+      "topY" : 625.3297,
+      "baseLineY" : 634.5598,
+      "fontId" : 5,
+      "text" : "Signature and title of Official"
+    }, {
+      "leftX" : 228.48,
+      "bottomY" : 637.2948,
+      "rightX" : 235.44,
+      "topY" : 625.2948,
+      "baseLineY" : 634.5598,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 651.0948,
+      "rightX" : 86.04,
+      "topY" : 639.0948,
+      "baseLineY" : 648.3599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 664.8948,
+      "rightX" : 86.04,
+      "topY" : 652.8948,
+      "baseLineY" : 662.1599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 681.2149,
+      "rightX" : 177.24,
+      "topY" : 669.2149,
+      "baseLineY" : 678.48,
+      "fontId" : 7,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 177.36,
+      "bottomY" : 680.7591,
+      "rightX" : 179.85,
+      "topY" : 670.7591,
+      "baseLineY" : 678.48,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.0388,
+      "bottomY" : 692.761,
+      "rightX" : 85.5288,
+      "topY" : 682.761,
+      "baseLineY" : 690.4818,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 755.3879,
+      "rightX" : 83.28,
+      "topY" : 754.3879,
+      "baseLineY" : 755.16,
+      "fontId" : 12,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 83.04,
+      "bottomY" : 39.1192,
+      "rightX" : 85.53,
+      "topY" : 29.1192,
+      "baseLineY" : 36.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 47.5191,
+      "rightX" : 138.09,
+      "topY" : 37.5191,
+      "baseLineY" : 45.24,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 59.0391,
+      "rightX" : 139.41,
+      "topY" : 49.0391,
+      "baseLineY" : 56.76,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 66.3954,
+      "rightX" : 84.78,
+      "topY" : 59.3954,
+      "baseLineY" : 64.8,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 384.36,
+      "bottomY" : 84.815,
+      "rightX" : 525,
+      "topY" : 72.815,
+      "baseLineY" : 82.08,
+      "fontId" : 7,
+      "text" : "Handbook Letter 304 (3560) "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 94.1033,
+      "rightX" : 85.05,
+      "topY" : 86.1033,
+      "baseLineY" : 92.28,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 112.295,
+      "rightX" : 165,
+      "topY" : 100.295,
+      "baseLineY" : 109.56,
+      "fontId" : 7,
+      "text" : "REFERENCE: "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 112.295,
+      "rightX" : 289.8,
+      "topY" : 100.295,
+      "baseLineY" : 109.56,
+      "fontId" : 7,
+      "text" : "HB-3-3560, Chapter 9 "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 127.4029,
+      "rightX" : 86.28,
+      "topY" : 114.4029,
+      "baseLineY" : 124.44,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 139.7992,
+      "rightX" : 85.68,
+      "topY" : 129.7992,
+      "baseLineY" : 137.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 153.695,
+      "rightX" : 149.04,
+      "topY" : 141.695,
+      "baseLineY" : 150.96,
+      "fontId" : 7,
+      "text" : "PURPOSE: "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 153.695,
+      "rightX" : 505.56,
+      "topY" : 141.695,
+      "baseLineY" : 150.96,
+      "fontId" : 7,
+      "text" : "Preliminary Determination Notice for Initial Letter to Recipients of "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 167.615,
+      "rightX" : 301.56,
+      "topY" : 155.615,
+      "baseLineY" : 164.88,
+      "fontId" : 7,
+      "text" : "Unauthorized Assistance "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 180.5871,
+      "rightX" : 85.8,
+      "topY" : 169.5871,
+      "baseLineY" : 178.08,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 192.1192,
+      "rightX" : 85.53,
+      "topY" : 182.1192,
+      "baseLineY" : 189.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 201.9833,
+      "rightX" : 85.17,
+      "topY" : 193.9833,
+      "baseLineY" : 200.16,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 190.32,
+      "bottomY" : 220.295,
+      "rightX" : 424.68,
+      "topY" : 208.295,
+      "baseLineY" : 217.56,
+      "fontId" : 7,
+      "text" : "PRELIMINARY DETERMINATION NOTICE "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 229.5833,
+      "rightX" : 85.05,
+      "topY" : 221.5833,
+      "baseLineY" : 227.76,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 463.2,
+      "bottomY" : 247.8949,
+      "rightX" : 467.196,
+      "topY" : 235.8949,
+      "baseLineY" : 245.16,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 467.16,
+      "bottomY" : 247.9299,
+      "rightX" : 518.2079,
+      "topY" : 235.9299,
+      "baseLineY" : 245.16,
+      "fontId" : 5,
+      "text" : "insert date"
+    }, {
+      "leftX" : 518.16,
+      "bottomY" : 247.8949,
+      "rightX" : 525.2401,
+      "topY" : 235.8949,
+      "baseLineY" : 245.16,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 259.4391,
+      "rightX" : 85.53,
+      "topY" : 249.4391,
+      "baseLineY" : 257.16,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 271.0824,
+      "rightX" : 85.53,
+      "topY" : 261.0824,
+      "baseLineY" : 268.8032,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 289.295,
+      "rightX" : 120.276,
+      "topY" : 277.295,
+      "baseLineY" : 286.56,
+      "fontId" : 7,
+      "text" : "Dear ["
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 289.3299,
+      "rightX" : 284.016,
+      "topY" : 277.3299,
+      "baseLineY" : 286.56,
+      "fontId" : 5,
+      "text" : "insert name of borrower or tenant"
+    }, {
+      "leftX" : 284.04,
+      "bottomY" : 289.295,
+      "rightX" : 294.36,
+      "topY" : 277.295,
+      "baseLineY" : 286.56,
+      "fontId" : 7,
+      "text" : "]: "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 303.095,
+      "rightX" : 86.04,
+      "topY" : 291.095,
+      "baseLineY" : 300.36,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 316.8949,
+      "rightX" : 288.1547,
+      "topY" : 304.8949,
+      "baseLineY" : 314.16,
+      "fontId" : 7,
+      "text" : "Rural Development has determined that ("
+    }, {
+      "leftX" : 288.12,
+      "bottomY" : 316.9299,
+      "rightX" : 384.8159,
+      "topY" : 304.9299,
+      "baseLineY" : 314.16,
+      "fontId" : 5,
+      "text" : "you)(name of tenant"
+    }, {
+      "leftX" : 384.84,
+      "bottomY" : 316.8949,
+      "rightX" : 395.796,
+      "topY" : 304.8949,
+      "baseLineY" : 314.16,
+      "fontId" : 7,
+      "text" : ") ("
+    }, {
+      "leftX" : 395.7599,
+      "bottomY" : 316.9299,
+      "rightX" : 441.1079,
+      "topY" : 304.9299,
+      "baseLineY" : 314.16,
+      "fontId" : 5,
+      "text" : "have, has"
+    }, {
+      "leftX" : 441.12,
+      "bottomY" : 316.8949,
+      "rightX" : 491.6399,
+      "topY" : 304.8949,
+      "baseLineY" : 314.16,
+      "fontId" : 7,
+      "text" : ") received "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 330.6949,
+      "rightX" : 500.88,
+      "topY" : 318.6949,
+      "baseLineY" : 327.96,
+      "fontId" : 7,
+      "text" : "unauthorized financial assistance in the form of a (loan, grant, subsidy) amounting to "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 344.4949,
+      "rightX" : 99,
+      "topY" : 332.4949,
+      "baseLineY" : 341.7599,
+      "fontId" : 7,
+      "text" : "$ "
+    }, {
+      "leftX" : 156,
+      "bottomY" : 344.4949,
+      "rightX" : 264.84,
+      "topY" : 332.4949,
+      "baseLineY" : 341.7599,
+      "fontId" : 7,
+      "text" : "which must be repaid. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 358.295,
+      "rightX" : 86.04,
+      "topY" : 346.295,
+      "baseLineY" : 355.56,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 372.095,
+      "rightX" : 476.3999,
+      "topY" : 360.095,
+      "baseLineY" : 369.36,
+      "fontId" : 7,
+      "text" : "(Insert a paragraph briefly describing the circumstances under which the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 385.8949,
+      "rightX" : 517.9198,
+      "topY" : 373.8949,
+      "baseLineY" : 383.16,
+      "fontId" : 7,
+      "text" : "unauthorized assistance was extended, including the reason(s) as provided in 7 CFR part "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 399.6949,
+      "rightX" : 180,
+      "topY" : 387.6949,
+      "baseLineY" : 396.96,
+      "fontId" : 7,
+      "text" : "3560 (Subpart O). "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 413.3871,
+      "rightX" : 85.92,
+      "topY" : 402.3871,
+      "baseLineY" : 410.88,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 427.295,
+      "rightX" : 96,
+      "topY" : 415.295,
+      "baseLineY" : 424.56,
+      "fontId" : 7,
+      "text" : "*"
+    }, {
+      "leftX" : 96,
+      "bottomY" : 427.4039,
+      "rightX" : 322.68,
+      "topY" : 415.4039,
+      "baseLineY" : 424.56,
+      "fontId" : 15,
+      "text" : "If unauthorized assistance due from tenant: "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 441.2039,
+      "rightX" : 86.04,
+      "topY" : 429.2039,
+      "baseLineY" : 438.36,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 454.9299,
+      "rightX" : 516.8398,
+      "topY" : 442.9299,
+      "baseLineY" : 452.16,
+      "fontId" : 5,
+      "text" : "You must notify the tenant in writing that a determination has been made that $ in "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 468.7299,
+      "rightX" : 516.8385,
+      "topY" : 456.7299,
+      "baseLineY" : 465.96,
+      "fontId" : 5,
+      "text" : "unauthorized assistance was received. Please provide a copy of this notice to our office "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 482.5299,
+      "rightX" : 241.32,
+      "topY" : 470.5299,
+      "baseLineY" : 479.7599,
+      "fontId" : 5,
+      "text" : "within seven (7) business days. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 496.0991,
+      "rightX" : 85.92,
+      "topY" : 485.0991,
+      "baseLineY" : 493.56,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 510.0099,
+      "rightX" : 515.5198,
+      "topY" : 498.0099,
+      "baseLineY" : 507.24,
+      "fontId" : 5,
+      "text" : "The unauthorized assistance determination notice is a preliminary notice, not a demand "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 523.8099,
+      "rightX" : 359.28,
+      "topY" : 511.8099,
+      "baseLineY" : 521.04,
+      "fontId" : 5,
+      "text" : "letter.  The unauthorized assistance determination will: "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 537.3791,
+      "rightX" : 85.92,
+      "topY" : 526.3791,
+      "baseLineY" : 534.84,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 551.1699,
+      "rightX" : 120.7056,
+      "topY" : 539.1699,
+      "baseLineY" : 548.4,
+      "fontId" : 5,
+      "text" : "(1)"
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 551.3479,
+      "rightX" : 123.5381,
+      "topY" : 539.3479,
+      "baseLineY" : 548.4,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 551.1699,
+      "rightX" : 467.52,
+      "topY" : 539.1699,
+      "baseLineY" : 548.4,
+      "fontId" : 5,
+      "text" : "Specify the reasons the assistance was determined to be unauthorized; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 565.0899,
+      "rightX" : 120.7056,
+      "topY" : 553.0899,
+      "baseLineY" : 562.32,
+      "fontId" : 5,
+      "text" : "(2)"
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 565.2679,
+      "rightX" : 123.5381,
+      "topY" : 553.2679,
+      "baseLineY" : 562.32,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 565.0899,
+      "rightX" : 514.5598,
+      "topY" : 553.0899,
+      "baseLineY" : 562.32,
+      "fontId" : 5,
+      "text" : "State the amount of unauthorized assistance to be repaid and specify the parties "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 578.8899,
+      "rightX" : 407.76,
+      "topY" : 566.8899,
+      "baseLineY" : 576.12,
+      "fontId" : 5,
+      "text" : "responsible for repayment of the unauthorized assistance; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 592.6899,
+      "rightX" : 120.7056,
+      "topY" : 580.6899,
+      "baseLineY" : 589.92,
+      "fontId" : 5,
+      "text" : "(3)"
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 592.8678,
+      "rightX" : 123.5381,
+      "topY" : 580.8678,
+      "baseLineY" : 589.92,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 592.6899,
+      "rightX" : 475.9199,
+      "topY" : 580.6899,
+      "baseLineY" : 589.92,
+      "fontId" : 5,
+      "text" : "Establish a place and time when the persons receiving the unauthorized "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 606.6099,
+      "rightX" : 523.7998,
+      "topY" : 594.6099,
+      "baseLineY" : 603.84,
+      "fontId" : 5,
+      "text" : "assistance determination notice may meet with you to discuss issues related to the "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 620.4099,
+      "rightX" : 478.6798,
+      "topY" : 608.4099,
+      "baseLineY" : 617.64,
+      "fontId" : 5,
+      "text" : "unauthorized assistance notice such as the establishment of a repayment "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 634.2099,
+      "rightX" : 199.92,
+      "topY" : 622.2099,
+      "baseLineY" : 631.44,
+      "fontId" : 5,
+      "text" : "schedule; and, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 648.0099,
+      "rightX" : 120.7056,
+      "topY" : 636.0099,
+      "baseLineY" : 645.24,
+      "fontId" : 5,
+      "text" : "(4)"
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 648.1878,
+      "rightX" : 123.5381,
+      "topY" : 636.1878,
+      "baseLineY" : 645.24,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 648.0099,
+      "rightX" : 491.7598,
+      "topY" : 636.0099,
+      "baseLineY" : 645.24,
+      "fontId" : 5,
+      "text" : "Advise the tenants they may present facts, figures, written records, or other "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 661.81,
+      "rightX" : 520.9198,
+      "topY" : 649.81,
+      "baseLineY" : 659.04,
+      "fontId" : 5,
+      "text" : "information within a specified period of time which might alter the determination "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 675.61,
+      "rightX" : 353.76,
+      "topY" : 663.61,
+      "baseLineY" : 672.84,
+      "fontId" : 5,
+      "text" : "that the assistance received was unauthorized. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 687.0282,
+      "rightX" : 85.53,
+      "topY" : 677.0282,
+      "baseLineY" : 684.72,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 698.552,
+      "rightX" : 85.53,
+      "topY" : 688.552,
+      "baseLineY" : 696.2437,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 710.0757,
+      "rightX" : 85.53,
+      "topY" : 700.0757,
+      "baseLineY" : 707.7675,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 726.3349,
+      "rightX" : 177.24,
+      "topY" : 714.3349,
+      "baseLineY" : 723.6,
+      "fontId" : 7,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 177.36,
+      "bottomY" : 725.8791,
+      "rightX" : 179.85,
+      "topY" : 715.8791,
+      "baseLineY" : 723.6,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.0388,
+      "bottomY" : 737.8809,
+      "rightX" : 85.5288,
+      "topY" : 727.8809,
+      "baseLineY" : 735.6018,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 792.107,
+      "rightX" : 85.8,
+      "topY" : 781.107,
+      "baseLineY" : 789.6,
+      "fontId" : 10,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 83.04,
+      "bottomY" : 39.1192,
+      "rightX" : 85.53,
+      "topY" : 29.1192,
+      "baseLineY" : 36.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 476.52,
+      "bottomY" : 47.5191,
+      "rightX" : 524.61,
+      "topY" : 37.5191,
+      "baseLineY" : 45.24,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 475.08,
+      "bottomY" : 59.0391,
+      "rightX" : 524.49,
+      "topY" : 49.0391,
+      "baseLineY" : 56.76,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 66.5154,
+      "rightX" : 84.78,
+      "topY" : 59.5154,
+      "baseLineY" : 64.92,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 84.8499,
+      "rightX" : 499.9197,
+      "topY" : 72.8499,
+      "baseLineY" : 82.08,
+      "fontId" : 5,
+      "text" : "Upon request by the tenants, you will grant additional time for discussions related to "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 98.7699,
+      "rightX" : 468.3597,
+      "topY" : 86.7699,
+      "baseLineY" : 96,
+      "fontId" : 5,
+      "text" : "an unauthorized assistance determination notice. You must notify this office of "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 112.5699,
+      "rightX" : 502.6798,
+      "topY" : 100.5699,
+      "baseLineY" : 109.8,
+      "fontId" : 5,
+      "text" : "schedule revisions when additional time is granted to the tenants in this unauthorized "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 126.3699,
+      "rightX" : 174,
+      "topY" : 114.3699,
+      "baseLineY" : 123.6,
+      "fontId" : 5,
+      "text" : "assistance claim. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 139.9391,
+      "rightX" : 85.92,
+      "topY" : 128.9391,
+      "baseLineY" : 137.4,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 153.8499,
+      "rightX" : 491.2798,
+      "topY" : 141.8499,
+      "baseLineY" : 151.08,
+      "fontId" : 5,
+      "text" : "After you have met with the tenants please provide a written explanation as to your "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 167.6499,
+      "rightX" : 503.2798,
+      "topY" : 155.6499,
+      "baseLineY" : 164.88,
+      "fontId" : 5,
+      "text" : "findings and what, if any, corrective arrangements (e.g., recovery of improper benefit "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 181.4499,
+      "rightX" : 492.96,
+      "topY" : 169.4499,
+      "baseLineY" : 178.68,
+      "fontId" : 5,
+      "text" : "agreements, evictions, legal proceedings, etc.) you are making. Complete Form RD "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 195.2499,
+      "rightX" : 434.1599,
+      "topY" : 183.2499,
+      "baseLineY" : 192.48,
+      "fontId" : 5,
+      "text" : "3560-65 and have the tenant sign the form as their agreement to repay. "
+    }, {
+      "leftX" : 434.1599,
+      "bottomY" : 195.2313,
+      "rightX" : 469.1999,
+      "topY" : 183.2313,
+      "baseLineY" : 192.48,
+      "fontId" : 17,
+      "text" : "Please "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 209.0313,
+      "rightX" : 506.3986,
+      "topY" : 197.0313,
+      "baseLineY" : 206.28,
+      "fontId" : 17,
+      "text" : "provide this office the explanation within 10 days of the date of the meeting with the "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 222.8313,
+      "rightX" : 325.8,
+      "topY" : 210.8313,
+      "baseLineY" : 220.08,
+      "fontId" : 17,
+      "text" : "tenant, along with the signed Form RD 3560-65"
+    }, {
+      "leftX" : 325.8,
+      "bottomY" : 222.8499,
+      "rightX" : 331.8,
+      "topY" : 210.8499,
+      "baseLineY" : 220.08,
+      "fontId" : 5,
+      "text" : ". "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 236.6499,
+      "rightX" : 86.04,
+      "topY" : 224.6499,
+      "baseLineY" : 233.8799,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 250.4499,
+      "rightX" : 474.5998,
+      "topY" : 238.4499,
+      "baseLineY" : 247.6799,
+      "fontId" : 5,
+      "text" : "Should recovery of improper payments be required, Agency regulations require "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 264.2498,
+      "rightX" : 499.3199,
+      "topY" : 252.2498,
+      "baseLineY" : 261.4799,
+      "fontId" : 5,
+      "text" : "collection be made by lump sum cash payment, or payment over a reasonable period "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 278.0498,
+      "rightX" : 128.04,
+      "topY" : 266.0498,
+      "baseLineY" : 275.2799,
+      "fontId" : 5,
+      "text" : "of time. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 291.8498,
+      "rightX" : 86.04,
+      "topY" : 279.8498,
+      "baseLineY" : 289.0799,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 305.6498,
+      "rightX" : 492.7198,
+      "topY" : 293.6498,
+      "baseLineY" : 302.8799,
+      "fontId" : 5,
+      "text" : "If the tenant fails to respond to the unauthorized assistance determination notice or "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 319.4498,
+      "rightX" : 474.7198,
+      "topY" : 307.4498,
+      "baseLineY" : 316.6799,
+      "fontId" : 5,
+      "text" : "fails to agree to a repayment schedule, please send Handbook Letter 305, Final "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 333.2498,
+      "rightX" : 504.9598,
+      "topY" : 321.2498,
+      "baseLineY" : 330.4799,
+      "fontId" : 5,
+      "text" : "Determination/Demand Letter to the tenant and a copy to this office. If you receive no "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 347.0498,
+      "rightX" : 489.3599,
+      "topY" : 335.0498,
+      "baseLineY" : 344.2798,
+      "fontId" : 5,
+      "text" : "response to this letter, please return the Form RD 3560-65 to this office, unsigned. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 360.6191,
+      "rightX" : 85.92,
+      "topY" : 349.6191,
+      "baseLineY" : 358.08,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 374.7239,
+      "rightX" : 330.5267,
+      "topY" : 362.7239,
+      "baseLineY" : 371.88,
+      "fontId" : 15,
+      "text" : "*If unauthorized assistance due from borrower"
+    }, {
+      "leftX" : 330.4787,
+      "bottomY" : 374.615,
+      "rightX" : 336.96,
+      "topY" : 362.615,
+      "baseLineY" : 371.88,
+      "fontId" : 7,
+      "text" : ": "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 384.0233,
+      "rightX" : 85.05,
+      "topY" : 376.0233,
+      "baseLineY" : 382.2,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 402.2499,
+      "rightX" : 274.2,
+      "topY" : 390.2499,
+      "baseLineY" : 399.48,
+      "fontId" : 5,
+      "text" : "We have scheduled an appointment at "
+    }, {
+      "leftX" : 322.32,
+      "bottomY" : 402.2499,
+      "rightX" : 396.6,
+      "topY" : 390.2499,
+      "baseLineY" : 399.48,
+      "fontId" : 5,
+      "text" : "(a.m.;p.m.) on  "
+    }, {
+      "leftX" : 435.6,
+      "bottomY" : 402.2499,
+      "rightX" : 459.24,
+      "topY" : 390.2499,
+      "baseLineY" : 399.48,
+      "fontId" : 5,
+      "text" : "date "
+    }, {
+      "leftX" : 492.36,
+      "bottomY" : 402.2499,
+      "rightX" : 509.4,
+      "topY" : 390.2499,
+      "baseLineY" : 399.48,
+      "fontId" : 5,
+      "text" : "for "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 416.0499,
+      "rightX" : 515.5199,
+      "topY" : 404.0499,
+      "baseLineY" : 413.28,
+      "fontId" : 5,
+      "text" : "you to come into this office to discuss the basis for the Agency’s claim. You may provide "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 429.8499,
+      "rightX" : 489.7198,
+      "topY" : 417.8499,
+      "baseLineY" : 427.08,
+      "fontId" : 5,
+      "text" : "facts, figures, written records, or other information you have which might alter the "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 443.6499,
+      "rightX" : 478.5598,
+      "topY" : 431.6499,
+      "baseLineY" : 440.88,
+      "fontId" : 5,
+      "text" : "Agency’s determination that the assistance you have received was unauthorized. "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 457.4499,
+      "rightX" : 336.36,
+      "topY" : 445.4499,
+      "baseLineY" : 454.68,
+      "fontId" : 5,
+      "text" : "Necessary servicing actions will also be discussed. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 471.2499,
+      "rightX" : 86.04,
+      "topY" : 459.2499,
+      "baseLineY" : 468.4799,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 485.0499,
+      "rightX" : 443.6398,
+      "topY" : 473.0499,
+      "baseLineY" : 482.2799,
+      "fontId" : 5,
+      "text" : "If you are unable to keep this appointment, please telephone this office at "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 498.8499,
+      "rightX" : 474.7198,
+      "topY" : 486.8499,
+      "baseLineY" : 496.0799,
+      "fontId" : 5,
+      "text" : "(telephone number) to change the appointment.  It is urgent that you respond to "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 512.6498,
+      "rightX" : 150.72,
+      "topY" : 500.6498,
+      "baseLineY" : 509.8799,
+      "fontId" : 5,
+      "text" : "this request. "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 526.4499,
+      "rightX" : 504.1198,
+      "topY" : 514.4499,
+      "baseLineY" : 523.6799,
+      "fontId" : 5,
+      "text" : "Failure to do so within 15 days may result in the Agency initiating appropriate action "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 540.2498,
+      "rightX" : 489.8399,
+      "topY" : 528.2498,
+      "baseLineY" : 537.4799,
+      "fontId" : 5,
+      "text" : "to effect collection. If you agree with our claim of unauthorized assistance, Agency "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 554.0498,
+      "rightX" : 504.4799,
+      "topY" : 542.0498,
+      "baseLineY" : 551.2799,
+      "fontId" : 5,
+      "text" : "regulations require collection be made by lump sum cash payment, or payment over a "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 567.8498,
+      "rightX" : 218.64,
+      "topY" : 555.8498,
+      "baseLineY" : 565.0799,
+      "fontId" : 5,
+      "text" : "reasonable period of time. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 581.4191,
+      "rightX" : 85.92,
+      "topY" : 570.4191,
+      "baseLineY" : 578.88,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 595.295,
+      "rightX" : 488.04,
+      "topY" : 583.295,
+      "baseLineY" : 592.56,
+      "fontId" : 7,
+      "text" : "If you have any questions concerning the subject matter, please contact this office. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 610.4029,
+      "rightX" : 86.28,
+      "topY" : 597.4029,
+      "baseLineY" : 607.44,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 622.7992,
+      "rightX" : 85.68,
+      "topY" : 612.7992,
+      "baseLineY" : 620.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 636.695,
+      "rightX" : 140.4,
+      "topY" : 624.695,
+      "baseLineY" : 633.96,
+      "fontId" : 7,
+      "text" : "Sincerely, "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 647.8912,
+      "rightX" : 85.41,
+      "topY" : 638.8912,
+      "baseLineY" : 645.84,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 660.4549,
+      "rightX" : 93.036,
+      "topY" : 648.4549,
+      "baseLineY" : 657.72,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 93,
+      "bottomY" : 660.4899,
+      "rightX" : 234.456,
+      "topY" : 648.4899,
+      "baseLineY" : 657.72,
+      "fontId" : 5,
+      "text" : "Signature and title of Official"
+    }, {
+      "leftX" : 234.48,
+      "bottomY" : 660.4549,
+      "rightX" : 241.44,
+      "topY" : 648.4549,
+      "baseLineY" : 657.72,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 674.135,
+      "rightX" : 86.04,
+      "topY" : 662.135,
+      "baseLineY" : 671.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 687.935,
+      "rightX" : 303.96,
+      "topY" : 675.935,
+      "baseLineY" : 685.2,
+      "fontId" : 7,
+      "text" : "Attachment – Form RD 3560-65 (if needed) "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 701.735,
+      "rightX" : 422.64,
+      "topY" : 689.735,
+      "baseLineY" : 699,
+      "fontId" : 7,
+      "text" : "Handbook Letter 305, Final Determination/Demand Letter (if needed) "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 713.2791,
+      "rightX" : 85.53,
+      "topY" : 703.2791,
+      "baseLineY" : 711,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 727.3191,
+      "rightX" : 85.53,
+      "topY" : 717.3191,
+      "baseLineY" : 725.04,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 384.36,
+      "bottomY" : 745.535,
+      "rightX" : 387.36,
+      "topY" : 733.535,
+      "baseLineY" : 742.8,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 384.36,
+      "bottomY" : 763.7749,
+      "rightX" : 387.36,
+      "topY" : 751.7749,
+      "baseLineY" : 761.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 384.36,
+      "bottomY" : 782.135,
+      "rightX" : 387.36,
+      "topY" : 770.135,
+      "baseLineY" : 779.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 792.2279,
+      "rightX" : 83.28,
+      "topY" : 791.2279,
+      "baseLineY" : 792,
+      "fontId" : 12,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 83.04,
+      "bottomY" : 39.1192,
+      "rightX" : 85.53,
+      "topY" : 29.1192,
+      "baseLineY" : 36.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 47.5191,
+      "rightX" : 138.09,
+      "topY" : 37.5191,
+      "baseLineY" : 45.24,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 59.0391,
+      "rightX" : 139.41,
+      "topY" : 49.0391,
+      "baseLineY" : 56.76,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 384.36,
+      "bottomY" : 71.855,
+      "rightX" : 537.6,
+      "topY" : 59.855,
+      "baseLineY" : 69.12,
+      "fontId" : 7,
+      "text" : "Handbook Letter 304-A (3560) "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 81.1433,
+      "rightX" : 85.05,
+      "topY" : 73.1433,
+      "baseLineY" : 79.32,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 99.3349,
+      "rightX" : 165,
+      "topY" : 87.3349,
+      "baseLineY" : 96.6,
+      "fontId" : 7,
+      "text" : "REFERENCE: "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 99.3349,
+      "rightX" : 289.8,
+      "topY" : 87.3349,
+      "baseLineY" : 96.6,
+      "fontId" : 7,
+      "text" : "HB-3-3560, Chapter 9 "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 114.4429,
+      "rightX" : 86.28,
+      "topY" : 101.4429,
+      "baseLineY" : 111.48,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 126.8391,
+      "rightX" : 85.68,
+      "topY" : 116.8391,
+      "baseLineY" : 124.56,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 140.735,
+      "rightX" : 149.04,
+      "topY" : 128.735,
+      "baseLineY" : 138,
+      "fontId" : 7,
+      "text" : "PURPOSE: "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 140.735,
+      "rightX" : 491.5186,
+      "topY" : 128.735,
+      "baseLineY" : 138,
+      "fontId" : 7,
+      "text" : "Preliminary Determination Notice for Borrower or Management "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 154.6549,
+      "rightX" : 475.68,
+      "topY" : 142.6549,
+      "baseLineY" : 151.92,
+      "fontId" : 7,
+      "text" : "Agent Initial Letter to Recipients of Unauthorized Assistance "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 167.627,
+      "rightX" : 85.8,
+      "topY" : 156.627,
+      "baseLineY" : 165.12,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 179.1591,
+      "rightX" : 85.53,
+      "topY" : 169.1591,
+      "baseLineY" : 176.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 189.0233,
+      "rightX" : 85.17,
+      "topY" : 181.0233,
+      "baseLineY" : 187.2,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 190.32,
+      "bottomY" : 207.3349,
+      "rightX" : 424.68,
+      "topY" : 195.3349,
+      "baseLineY" : 204.6,
+      "fontId" : 7,
+      "text" : "PRELIMINARY DETERMINATION NOTICE "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 216.6233,
+      "rightX" : 85.05,
+      "topY" : 208.6233,
+      "baseLineY" : 214.8,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 463.2,
+      "bottomY" : 234.935,
+      "rightX" : 467.196,
+      "topY" : 222.935,
+      "baseLineY" : 232.2,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 467.16,
+      "bottomY" : 234.9699,
+      "rightX" : 518.2079,
+      "topY" : 222.9699,
+      "baseLineY" : 232.2,
+      "fontId" : 5,
+      "text" : "insert date"
+    }, {
+      "leftX" : 518.16,
+      "bottomY" : 234.935,
+      "rightX" : 525.2401,
+      "topY" : 222.935,
+      "baseLineY" : 232.2,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 246.4792,
+      "rightX" : 85.53,
+      "topY" : 236.4792,
+      "baseLineY" : 244.2,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 258.1224,
+      "rightX" : 85.53,
+      "topY" : 248.1224,
+      "baseLineY" : 255.8433,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 276.3349,
+      "rightX" : 120.276,
+      "topY" : 264.3349,
+      "baseLineY" : 273.6,
+      "fontId" : 7,
+      "text" : "Dear ["
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 276.3699,
+      "rightX" : 284.016,
+      "topY" : 264.3699,
+      "baseLineY" : 273.6,
+      "fontId" : 5,
+      "text" : "insert name of borrower or tenant"
+    }, {
+      "leftX" : 284.04,
+      "bottomY" : 276.3349,
+      "rightX" : 294.36,
+      "topY" : 264.3349,
+      "baseLineY" : 273.6,
+      "fontId" : 7,
+      "text" : "]: "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 290.1349,
+      "rightX" : 86.04,
+      "topY" : 278.1349,
+      "baseLineY" : 287.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 303.9349,
+      "rightX" : 408.5158,
+      "topY" : 291.9349,
+      "baseLineY" : 301.2,
+      "fontId" : 7,
+      "text" : "[Borrower and/or Management Agent name] has determined that ("
+    }, {
+      "leftX" : 408.48,
+      "bottomY" : 303.9699,
+      "rightX" : 475.2,
+      "topY" : 291.9699,
+      "baseLineY" : 301.2,
+      "fontId" : 5,
+      "text" : "you)(name of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 317.7699,
+      "rightX" : 119.976,
+      "topY" : 305.7699,
+      "baseLineY" : 314.9999,
+      "fontId" : 5,
+      "text" : "tenant"
+    }, {
+      "leftX" : 120,
+      "bottomY" : 317.7349,
+      "rightX" : 130.956,
+      "topY" : 305.7349,
+      "baseLineY" : 314.9999,
+      "fontId" : 7,
+      "text" : ") ("
+    }, {
+      "leftX" : 130.92,
+      "bottomY" : 317.7699,
+      "rightX" : 176.148,
+      "topY" : 305.7699,
+      "baseLineY" : 314.9999,
+      "fontId" : 5,
+      "text" : "have, has"
+    }, {
+      "leftX" : 176.28,
+      "bottomY" : 317.7349,
+      "rightX" : 496.7985,
+      "topY" : 305.7349,
+      "baseLineY" : 314.9999,
+      "fontId" : 7,
+      "text" : ") received unauthorized financial assistance in the form of a (loan, "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 331.5349,
+      "rightX" : 240,
+      "topY" : 319.5349,
+      "baseLineY" : 328.7999,
+      "fontId" : 7,
+      "text" : "grant, subsidy) amounting to $ "
+    }, {
+      "leftX" : 263.04,
+      "bottomY" : 331.5349,
+      "rightX" : 371.88,
+      "topY" : 319.5349,
+      "baseLineY" : 328.7999,
+      "fontId" : 7,
+      "text" : "which must be repaid. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 345.335,
+      "rightX" : 86.04,
+      "topY" : 333.335,
+      "baseLineY" : 342.6,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 359.135,
+      "rightX" : 476.3999,
+      "topY" : 347.135,
+      "baseLineY" : 356.4,
+      "fontId" : 7,
+      "text" : "(Insert a paragraph briefly describing the circumstances under which the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 372.9349,
+      "rightX" : 517.9198,
+      "topY" : 360.9349,
+      "baseLineY" : 370.2,
+      "fontId" : 7,
+      "text" : "unauthorized assistance was extended, including the reason(s) as provided in 7 CFR part "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 386.7349,
+      "rightX" : 180,
+      "topY" : 374.7349,
+      "baseLineY" : 384,
+      "fontId" : 7,
+      "text" : "3560 (Subpart O). "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 400.4271,
+      "rightX" : 85.92,
+      "topY" : 389.4271,
+      "baseLineY" : 397.92,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 414.3699,
+      "rightX" : 516.8398,
+      "topY" : 402.3699,
+      "baseLineY" : 411.6,
+      "fontId" : 5,
+      "text" : "You must notify the tenant in writing that a determination has been made that $ in "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 428.1699,
+      "rightX" : 516.8396,
+      "topY" : 416.1699,
+      "baseLineY" : 425.4,
+      "fontId" : 5,
+      "text" : "unauthorized assistance was received. Please provide a copy of this notice to the Rural "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 441.9699,
+      "rightX" : 337.3199,
+      "topY" : 429.9699,
+      "baseLineY" : 439.2,
+      "fontId" : 5,
+      "text" : "Development office within seven (7) business days. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 455.5391,
+      "rightX" : 85.92,
+      "topY" : 444.5391,
+      "baseLineY" : 453,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 469.4499,
+      "rightX" : 515.5198,
+      "topY" : 457.4499,
+      "baseLineY" : 466.68,
+      "fontId" : 5,
+      "text" : "The unauthorized assistance determination notice is a preliminary notice, not a demand "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 483.2499,
+      "rightX" : 359.28,
+      "topY" : 471.2499,
+      "baseLineY" : 480.48,
+      "fontId" : 5,
+      "text" : "letter.  The unauthorized assistance determination will: "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 496.8191,
+      "rightX" : 85.92,
+      "topY" : 485.8191,
+      "baseLineY" : 494.28,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 510.6099,
+      "rightX" : 120.7056,
+      "topY" : 498.6099,
+      "baseLineY" : 507.84,
+      "fontId" : 5,
+      "text" : "(1)"
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 510.7878,
+      "rightX" : 123.5381,
+      "topY" : 498.7878,
+      "baseLineY" : 507.84,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 510.6099,
+      "rightX" : 467.52,
+      "topY" : 498.6099,
+      "baseLineY" : 507.84,
+      "fontId" : 5,
+      "text" : "Specify the reasons the assistance was determined to be unauthorized; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 524.5299,
+      "rightX" : 120.7056,
+      "topY" : 512.5299,
+      "baseLineY" : 521.76,
+      "fontId" : 5,
+      "text" : "(2)"
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 524.7079,
+      "rightX" : 123.5381,
+      "topY" : 512.7079,
+      "baseLineY" : 521.76,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 524.5299,
+      "rightX" : 514.5598,
+      "topY" : 512.5299,
+      "baseLineY" : 521.76,
+      "fontId" : 5,
+      "text" : "State the amount of unauthorized assistance to be repaid and specify the parties "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 538.3299,
+      "rightX" : 407.76,
+      "topY" : 526.3299,
+      "baseLineY" : 535.56,
+      "fontId" : 5,
+      "text" : "responsible for repayment of the unauthorized assistance; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 552.1299,
+      "rightX" : 120.7056,
+      "topY" : 540.1299,
+      "baseLineY" : 549.36,
+      "fontId" : 5,
+      "text" : "(3)"
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 552.3078,
+      "rightX" : 123.5381,
+      "topY" : 540.3078,
+      "baseLineY" : 549.36,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 552.1299,
+      "rightX" : 475.9199,
+      "topY" : 540.1299,
+      "baseLineY" : 549.36,
+      "fontId" : 5,
+      "text" : "Establish a place and time when the persons receiving the unauthorized "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 566.05,
+      "rightX" : 523.7998,
+      "topY" : 554.05,
+      "baseLineY" : 563.28,
+      "fontId" : 5,
+      "text" : "assistance determination notice may meet with you to discuss issues related to the "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 579.8499,
+      "rightX" : 478.6798,
+      "topY" : 567.8499,
+      "baseLineY" : 577.08,
+      "fontId" : 5,
+      "text" : "unauthorized assistance notice such as the establishment of a repayment "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 593.6499,
+      "rightX" : 199.92,
+      "topY" : 581.6499,
+      "baseLineY" : 590.88,
+      "fontId" : 5,
+      "text" : "schedule; and, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 607.4499,
+      "rightX" : 120.7056,
+      "topY" : 595.4499,
+      "baseLineY" : 604.68,
+      "fontId" : 5,
+      "text" : "(4)"
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 607.6278,
+      "rightX" : 123.5381,
+      "topY" : 595.6278,
+      "baseLineY" : 604.68,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 607.4499,
+      "rightX" : 491.7598,
+      "topY" : 595.4499,
+      "baseLineY" : 604.68,
+      "fontId" : 5,
+      "text" : "Advise the tenants they may present facts, figures, written records, or other "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 621.2499,
+      "rightX" : 520.9198,
+      "topY" : 609.2499,
+      "baseLineY" : 618.48,
+      "fontId" : 5,
+      "text" : "information within a specified period of time which might alter the determination "
+    }, {
+      "leftX" : 127.56,
+      "bottomY" : 635.05,
+      "rightX" : 353.76,
+      "topY" : 623.05,
+      "baseLineY" : 632.28,
+      "fontId" : 5,
+      "text" : "that the assistance received was unauthorized. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 646.4683,
+      "rightX" : 85.53,
+      "topY" : 636.4683,
+      "baseLineY" : 644.16,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 657.992,
+      "rightX" : 85.53,
+      "topY" : 647.992,
+      "baseLineY" : 655.6837,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 669.5157,
+      "rightX" : 85.53,
+      "topY" : 659.5157,
+      "baseLineY" : 667.2075,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 681.0394,
+      "rightX" : 85.53,
+      "topY" : 671.0394,
+      "baseLineY" : 678.7311,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 696.227,
+      "rightX" : 169.6786,
+      "topY" : 685.227,
+      "baseLineY" : 693.72,
+      "fontId" : 10,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 169.56,
+      "bottomY" : 695.9991,
+      "rightX" : 172.05,
+      "topY" : 685.9991,
+      "baseLineY" : 693.72,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 792.107,
+      "rightX" : 85.8,
+      "topY" : 781.107,
+      "baseLineY" : 789.6,
+      "fontId" : 10,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 83.04,
+      "bottomY" : 39.1192,
+      "rightX" : 85.53,
+      "topY" : 29.1192,
+      "baseLineY" : 36.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 476.52,
+      "bottomY" : 47.5191,
+      "rightX" : 524.61,
+      "topY" : 37.5191,
+      "baseLineY" : 45.24,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 475.08,
+      "bottomY" : 59.0391,
+      "rightX" : 524.49,
+      "topY" : 49.0391,
+      "baseLineY" : 56.76,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 131.4099,
+      "rightX" : 499.9197,
+      "topY" : 119.4099,
+      "baseLineY" : 128.64,
+      "fontId" : 5,
+      "text" : "Upon request by the tenants, you will grant additional time for discussions related to "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 145.2099,
+      "rightX" : 453.9598,
+      "topY" : 133.2099,
+      "baseLineY" : 142.44,
+      "fontId" : 5,
+      "text" : "an unauthorized assistance determination notice. You must notify the Rural "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 159.0099,
+      "rightX" : 474.3586,
+      "topY" : 147.0099,
+      "baseLineY" : 156.24,
+      "fontId" : 5,
+      "text" : "Development office of schedule revisions when additional time is granted to the "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 172.8099,
+      "rightX" : 310.8,
+      "topY" : 160.8099,
+      "baseLineY" : 170.04,
+      "fontId" : 5,
+      "text" : "tenants in this unauthorized assistance claim. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 186.4991,
+      "rightX" : 85.92,
+      "topY" : 175.4991,
+      "baseLineY" : 183.96,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 200.4099,
+      "rightX" : 491.2798,
+      "topY" : 188.4099,
+      "baseLineY" : 197.64,
+      "fontId" : 5,
+      "text" : "After you have met with the tenants please provide a written explanation as to your "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 214.2099,
+      "rightX" : 503.2798,
+      "topY" : 202.2099,
+      "baseLineY" : 211.44,
+      "fontId" : 5,
+      "text" : "findings and what, if any, corrective arrangements (e.g., recovery of improper benefit "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 228.0099,
+      "rightX" : 492.96,
+      "topY" : 216.0099,
+      "baseLineY" : 225.24,
+      "fontId" : 5,
+      "text" : "agreements, evictions, legal proceedings, etc.) you are making. Complete Form RD "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 241.8099,
+      "rightX" : 434.1599,
+      "topY" : 229.8099,
+      "baseLineY" : 239.04,
+      "fontId" : 5,
+      "text" : "3560-65 and have the tenant sign the form as their agreement to repay. "
+    }, {
+      "leftX" : 434.1599,
+      "bottomY" : 241.7913,
+      "rightX" : 469.1999,
+      "topY" : 229.7913,
+      "baseLineY" : 239.04,
+      "fontId" : 17,
+      "text" : "Please "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 255.5913,
+      "rightX" : 499.5598,
+      "topY" : 243.5913,
+      "baseLineY" : 252.84,
+      "fontId" : 17,
+      "text" : "provide the Rural Development office the explanation within 10 days of the date of "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 269.3913,
+      "rightX" : 429.12,
+      "topY" : 257.3913,
+      "baseLineY" : 266.64,
+      "fontId" : 17,
+      "text" : "the meeting with the tenant, along with the signed Form RD 3560-65"
+    }, {
+      "leftX" : 429.12,
+      "bottomY" : 269.4099,
+      "rightX" : 435.12,
+      "topY" : 257.4099,
+      "baseLineY" : 266.64,
+      "fontId" : 5,
+      "text" : ". "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 283.2099,
+      "rightX" : 86.04,
+      "topY" : 271.2099,
+      "baseLineY" : 280.4399,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 297.0099,
+      "rightX" : 474.5998,
+      "topY" : 285.0099,
+      "baseLineY" : 294.2399,
+      "fontId" : 5,
+      "text" : "Should recovery of improper payments be required, Agency regulations require "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 310.8098,
+      "rightX" : 499.3199,
+      "topY" : 298.8098,
+      "baseLineY" : 308.0399,
+      "fontId" : 5,
+      "text" : "collection be made by lump sum cash payment, or payment over a reasonable period "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 324.6098,
+      "rightX" : 128.04,
+      "topY" : 312.6098,
+      "baseLineY" : 321.8399,
+      "fontId" : 5,
+      "text" : "of time. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 338.4098,
+      "rightX" : 86.04,
+      "topY" : 326.4098,
+      "baseLineY" : 335.6399,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 352.2098,
+      "rightX" : 492.7198,
+      "topY" : 340.2098,
+      "baseLineY" : 349.4399,
+      "fontId" : 5,
+      "text" : "If the tenant fails to respond to the unauthorized assistance determination notice or "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 366.0098,
+      "rightX" : 485.9999,
+      "topY" : 354.0098,
+      "baseLineY" : 363.2399,
+      "fontId" : 5,
+      "text" : "fails to agree to a repayment schedule, please send Handbook Letter 305-A, Final "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 379.8098,
+      "rightX" : 482.9999,
+      "topY" : 367.8098,
+      "baseLineY" : 377.0399,
+      "fontId" : 5,
+      "text" : "Determination/Demand Letter to the tenant and a copy to the Rural Development "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 393.6098,
+      "rightX" : 495.9598,
+      "topY" : 381.6098,
+      "baseLineY" : 390.8398,
+      "fontId" : 5,
+      "text" : "Servicing office. If you receive no response to this letter, please return the Form RD "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 407.4098,
+      "rightX" : 340.6799,
+      "topY" : 395.4098,
+      "baseLineY" : 404.6398,
+      "fontId" : 5,
+      "text" : "3560-65 to the Rural Development office, unsigned. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 420.9791,
+      "rightX" : 85.92,
+      "topY" : 409.9791,
+      "baseLineY" : 418.44,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 434.855,
+      "rightX" : 500.3998,
+      "topY" : 422.855,
+      "baseLineY" : 432.12,
+      "fontId" : 7,
+      "text" : "If you disagree with the decision or facts used in making the decision, you may file a "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 448.6549,
+      "rightX" : 481.7999,
+      "topY" : 436.6549,
+      "baseLineY" : 445.92,
+      "fontId" : 7,
+      "text" : "Tenant Grievance under the provisions of 7 CFR 356.160.  To initiate the Tenant "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 462.4549,
+      "rightX" : 503.0398,
+      "topY" : 450.4549,
+      "baseLineY" : 459.72,
+      "fontId" : 7,
+      "text" : "Grievance procedures, you will need to write to this office within 10 calendar days of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 476.2549,
+      "rightX" : 515.5199,
+      "topY" : 464.2549,
+      "baseLineY" : 473.52,
+      "fontId" : 7,
+      "text" : "the receipt of this letter and explain why the decision was wrong or to request a meeting "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 490.0549,
+      "rightX" : 488.5198,
+      "topY" : 478.0549,
+      "baseLineY" : 487.3199,
+      "fontId" : 7,
+      "text" : "with us.  You can present any new information or evidence with the letter or at the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 503.8549,
+      "rightX" : 134.64,
+      "topY" : 491.8549,
+      "baseLineY" : 501.1199,
+      "fontId" : 7,
+      "text" : "meeting. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 517.5471,
+      "rightX" : 85.92,
+      "topY" : 506.5471,
+      "baseLineY" : 515.04,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 531.4549,
+      "rightX" : 404.64,
+      "topY" : 519.4549,
+      "baseLineY" : 528.72,
+      "fontId" : 7,
+      "text" : "*See attachment Tenant Grievance Procedures, 7 CFR 3560.160. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 545.0591,
+      "rightX" : 85.92,
+      "topY" : 534.0591,
+      "baseLineY" : 542.52,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 558.935,
+      "rightX" : 520.1997,
+      "topY" : 546.935,
+      "baseLineY" : 556.2,
+      "fontId" : 7,
+      "text" : "If you have any questions concerning the subject matter, please contact [Borrower and/or "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 572.735,
+      "rightX" : 223.08,
+      "topY" : 560.735,
+      "baseLineY" : 570,
+      "fontId" : 7,
+      "text" : "Management Agent name]. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 587.8429,
+      "rightX" : 86.28,
+      "topY" : 574.8429,
+      "baseLineY" : 584.88,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 600.2392,
+      "rightX" : 85.68,
+      "topY" : 590.2392,
+      "baseLineY" : 597.96,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 614.135,
+      "rightX" : 140.4,
+      "topY" : 602.135,
+      "baseLineY" : 611.4,
+      "fontId" : 7,
+      "text" : "Sincerely, "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 625.3313,
+      "rightX" : 85.41,
+      "topY" : 616.3313,
+      "baseLineY" : 623.28,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 89.04,
+      "bottomY" : 637.895,
+      "rightX" : 93.036,
+      "topY" : 625.895,
+      "baseLineY" : 635.16,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 93,
+      "bottomY" : 637.93,
+      "rightX" : 234.456,
+      "topY" : 625.93,
+      "baseLineY" : 635.16,
+      "fontId" : 5,
+      "text" : "Signature and title of Official"
+    }, {
+      "leftX" : 234.48,
+      "bottomY" : 637.895,
+      "rightX" : 241.44,
+      "topY" : 625.895,
+      "baseLineY" : 635.16,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 651.5749,
+      "rightX" : 86.04,
+      "topY" : 639.5749,
+      "baseLineY" : 648.84,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 665.375,
+      "rightX" : 297.96,
+      "topY" : 653.375,
+      "baseLineY" : 662.64,
+      "fontId" : 7,
+      "text" : "Attachment – Form RD 3560-65 (if needed) "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 679.175,
+      "rightX" : 435.36,
+      "topY" : 667.175,
+      "baseLineY" : 676.44,
+      "fontId" : 7,
+      "text" : "Handbook Letter 305-A, Final Determination/Demand Letter (if needed) "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 693.2392,
+      "rightX" : 85.53,
+      "topY" : 683.2392,
+      "baseLineY" : 690.96,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 384.36,
+      "bottomY" : 707.015,
+      "rightX" : 387.36,
+      "topY" : 695.015,
+      "baseLineY" : 704.28,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 528.36,
+      "bottomY" : 707.015,
+      "rightX" : 531.36,
+      "topY" : 695.015,
+      "baseLineY" : 704.28,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 792.2279,
+      "rightX" : 83.28,
+      "topY" : 791.2279,
+      "baseLineY" : 792,
+      "fontId" : 12,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 10,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 83.04,
+      "bottomY" : 39.1192,
+      "rightX" : 85.53,
+      "topY" : 29.1192,
+      "baseLineY" : 36.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 47.5191,
+      "rightX" : 138.09,
+      "topY" : 37.5191,
+      "baseLineY" : 45.24,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 59.0391,
+      "rightX" : 139.41,
+      "topY" : 49.0391,
+      "baseLineY" : 56.76,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 384.36,
+      "bottomY" : 126.815,
+      "rightX" : 525,
+      "topY" : 114.815,
+      "baseLineY" : 124.08,
+      "fontId" : 7,
+      "text" : "Handbook Letter 305 (3560) "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 136.2233,
+      "rightX" : 85.05,
+      "topY" : 128.2233,
+      "baseLineY" : 134.4,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 154.415,
+      "rightX" : 165,
+      "topY" : 142.415,
+      "baseLineY" : 151.68,
+      "fontId" : 7,
+      "text" : "REFERENCE: "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 154.415,
+      "rightX" : 286.8,
+      "topY" : 142.415,
+      "baseLineY" : 151.68,
+      "fontId" : 7,
+      "text" : "HB-3-3560 Chapter 9 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 172.6549,
+      "rightX" : 93,
+      "topY" : 160.6549,
+      "baseLineY" : 169.92,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 191.0149,
+      "rightX" : 149.04,
+      "topY" : 179.0149,
+      "baseLineY" : 188.28,
+      "fontId" : 7,
+      "text" : "PURPOSE: "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 191.0149,
+      "rightX" : 460.44,
+      "topY" : 179.0149,
+      "baseLineY" : 188.28,
+      "fontId" : 7,
+      "text" : "Final Determination Notice/Demand Letter to recipient of "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 204.8149,
+      "rightX" : 515.8798,
+      "topY" : 192.8149,
+      "baseLineY" : 202.08,
+      "fontId" : 7,
+      "text" : "unauthorized assistance to state final determination. Send if borrower "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 218.6149,
+      "rightX" : 515.1598,
+      "topY" : 206.6149,
+      "baseLineY" : 215.8799,
+      "fontId" : 7,
+      "text" : "or tenant fails to respond to an unauthorized assistance determination "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 232.4149,
+      "rightX" : 412.2,
+      "topY" : 220.4149,
+      "baseLineY" : 229.6799,
+      "fontId" : 7,
+      "text" : "notice or fails to agree to a repayment schedule. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 245.3871,
+      "rightX" : 85.8,
+      "topY" : 234.3871,
+      "baseLineY" : 242.88,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 256.9192,
+      "rightX" : 85.53,
+      "topY" : 246.9192,
+      "baseLineY" : 254.64,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 161.88,
+      "bottomY" : 275.135,
+      "rightX" : 453.24,
+      "topY" : 263.135,
+      "baseLineY" : 272.4,
+      "fontId" : 7,
+      "text" : "FINAL DETERMINATION NOTICE/DEMAND LETTER "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 284.5433,
+      "rightX" : 85.05,
+      "topY" : 276.5433,
+      "baseLineY" : 282.72,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 463.2,
+      "bottomY" : 302.735,
+      "rightX" : 467.196,
+      "topY" : 290.735,
+      "baseLineY" : 300,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 467.16,
+      "bottomY" : 302.7699,
+      "rightX" : 518.2079,
+      "topY" : 290.7699,
+      "baseLineY" : 300,
+      "fontId" : 5,
+      "text" : "insert date"
+    }, {
+      "leftX" : 518.16,
+      "bottomY" : 302.735,
+      "rightX" : 525.2401,
+      "topY" : 290.735,
+      "baseLineY" : 300,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 312.1433,
+      "rightX" : 85.05,
+      "topY" : 304.1433,
+      "baseLineY" : 310.32,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 330.335,
+      "rightX" : 120.276,
+      "topY" : 318.335,
+      "baseLineY" : 327.6,
+      "fontId" : 7,
+      "text" : "Dear ["
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 330.3699,
+      "rightX" : 284.016,
+      "topY" : 318.3699,
+      "baseLineY" : 327.6,
+      "fontId" : 5,
+      "text" : "insert name of borrower or tenant"
+    }, {
+      "leftX" : 284.04,
+      "bottomY" : 330.335,
+      "rightX" : 294.36,
+      "topY" : 318.335,
+      "baseLineY" : 327.6,
+      "fontId" : 7,
+      "text" : "]: "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 344.255,
+      "rightX" : 86.04,
+      "topY" : 332.255,
+      "baseLineY" : 341.52,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 358.055,
+      "rightX" : 475.5598,
+      "topY" : 346.055,
+      "baseLineY" : 355.32,
+      "fontId" : 7,
+      "text" : "After careful consideration of all information available, Rural Development has "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 371.855,
+      "rightX" : 510.72,
+      "topY" : 359.855,
+      "baseLineY" : 369.12,
+      "fontId" : 7,
+      "text" : "determined that you have received unauthorized financial assistance as outlined below. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 385.5471,
+      "rightX" : 85.92,
+      "topY" : 374.5471,
+      "baseLineY" : 383.04,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 399.455,
+      "rightX" : 199.32,
+      "topY" : 387.455,
+      "baseLineY" : 396.72,
+      "fontId" : 7,
+      "text" : "[Insert a paragraph to: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 413.255,
+      "rightX" : 119.9863,
+      "topY" : 401.255,
+      "baseLineY" : 410.52,
+      "fontId" : 7,
+      "text" : "(a)"
+    }, {
+      "leftX" : 119.4,
+      "bottomY" : 413.3771,
+      "rightX" : 122.6981,
+      "topY" : 401.3771,
+      "baseLineY" : 410.52,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 126.84,
+      "bottomY" : 413.255,
+      "rightX" : 309.72,
+      "topY" : 401.255,
+      "baseLineY" : 410.52,
+      "fontId" : 7,
+      "text" : "Describe the unauthorized assistance; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 427.055,
+      "rightX" : 120.5811,
+      "topY" : 415.055,
+      "baseLineY" : 424.32,
+      "fontId" : 7,
+      "text" : "(b)"
+    }, {
+      "leftX" : 120,
+      "bottomY" : 427.1772,
+      "rightX" : 123.2981,
+      "topY" : 415.1772,
+      "baseLineY" : 424.32,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 126.84,
+      "bottomY" : 427.055,
+      "rightX" : 508.4397,
+      "topY" : 415.055,
+      "baseLineY" : 424.32,
+      "fontId" : 7,
+      "text" : "State the amount of unauthorized assistance which must be repaid (same as the "
+    }, {
+      "leftX" : 126.84,
+      "bottomY" : 440.735,
+      "rightX" : 524.5198,
+      "topY" : 428.735,
+      "baseLineY" : 438,
+      "fontId" : 7,
+      "text" : "amount stated in Handbook Letter 304 unless subsequent information provided by "
+    }, {
+      "leftX" : 126.84,
+      "bottomY" : 454.535,
+      "rightX" : 381.36,
+      "topY" : 442.535,
+      "baseLineY" : 451.8,
+      "fontId" : 7,
+      "text" : "the recipient caused this amount to be changed); and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 468.335,
+      "rightX" : 119.9863,
+      "topY" : 456.335,
+      "baseLineY" : 465.6,
+      "fontId" : 7,
+      "text" : "(c)"
+    }, {
+      "leftX" : 119.4,
+      "bottomY" : 468.4571,
+      "rightX" : 122.6981,
+      "topY" : 456.4571,
+      "baseLineY" : 465.6,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 126.84,
+      "bottomY" : 468.335,
+      "rightX" : 482.64,
+      "topY" : 456.335,
+      "baseLineY" : 465.6,
+      "fontId" : 7,
+      "text" : "State what further action is to be taken by the Agency.  (See 7 CFR 3560, "
+    }, {
+      "leftX" : 126.84,
+      "bottomY" : 482.135,
+      "rightX" : 407.04,
+      "topY" : 470.135,
+      "baseLineY" : 479.4,
+      "fontId" : 7,
+      "text" : "3560.709, including termination of tenancy if applicable.) "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 495.935,
+      "rightX" : 120.5811,
+      "topY" : 483.935,
+      "baseLineY" : 493.2,
+      "fontId" : 7,
+      "text" : "(d)"
+    }, {
+      "leftX" : 120,
+      "bottomY" : 496.0572,
+      "rightX" : 123.2981,
+      "topY" : 484.0572,
+      "baseLineY" : 493.2,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 126.84,
+      "bottomY" : 495.935,
+      "rightX" : 499.7998,
+      "topY" : 483.935,
+      "baseLineY" : 493.2,
+      "fontId" : 7,
+      "text" : "Attach Form RD 3560-65 to this letter which describes the amount owed and "
+    }, {
+      "leftX" : 126.84,
+      "bottomY" : 509.735,
+      "rightX" : 496.56,
+      "topY" : 497.735,
+      "baseLineY" : 507,
+      "fontId" : 7,
+      "text" : "payment agreement.  This form should be signed and returned to our office.] "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 523.4271,
+      "rightX" : 85.92,
+      "topY" : 512.4271,
+      "baseLineY" : 520.92,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 537.3349,
+      "rightX" : 500.3998,
+      "topY" : 525.3349,
+      "baseLineY" : 534.6,
+      "fontId" : 7,
+      "text" : "If you disagree with the decision or facts used in making the decision, you may file a "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 551.135,
+      "rightX" : 481.7999,
+      "topY" : 539.135,
+      "baseLineY" : 548.4,
+      "fontId" : 7,
+      "text" : "Tenant Grievance under the provisions of 7 CFR 356.160.  To initiate the Tenant "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 564.935,
+      "rightX" : 503.0398,
+      "topY" : 552.935,
+      "baseLineY" : 562.2,
+      "fontId" : 7,
+      "text" : "Grievance procedures, you will need to write to this office within 10 calendar days of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 578.735,
+      "rightX" : 515.5199,
+      "topY" : 566.735,
+      "baseLineY" : 576,
+      "fontId" : 7,
+      "text" : "the receipt of this letter and explain why the decision was wrong or to request a meeting "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 592.535,
+      "rightX" : 488.5198,
+      "topY" : 580.535,
+      "baseLineY" : 589.8,
+      "fontId" : 7,
+      "text" : "with us.  You can present any new information or evidence with the letter or at the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 606.335,
+      "rightX" : 134.64,
+      "topY" : 594.335,
+      "baseLineY" : 603.6,
+      "fontId" : 7,
+      "text" : "meeting. "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 620.0271,
+      "rightX" : 85.92,
+      "topY" : 609.0271,
+      "baseLineY" : 617.52,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 633.935,
+      "rightX" : 522.9598,
+      "topY" : 621.935,
+      "baseLineY" : 631.2,
+      "fontId" : 7,
+      "text" : "The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 647.735,
+      "rightX" : 511.1997,
+      "topY" : 635.735,
+      "baseLineY" : 645,
+      "fontId" : 7,
+      "text" : "credit recipients on the basis of race, color, religion, national origin, sex, marital status, "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 661.535,
+      "rightX" : 493.9198,
+      "topY" : 649.535,
+      "baseLineY" : 658.8,
+      "fontId" : 7,
+      "text" : "handicap, or age (provided that the recipient has the capacity to enter into a binding "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 675.3349,
+      "rightX" : 520.2,
+      "topY" : 663.3349,
+      "baseLineY" : 672.6,
+      "fontId" : 7,
+      "text" : "contract), because all or part of the recipient’s income derives from any public assistance "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 687.9471,
+      "rightX" : 85.8,
+      "topY" : 676.9471,
+      "baseLineY" : 685.44,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 700.5437,
+      "rightX" : 85.8,
+      "topY" : 689.5437,
+      "baseLineY" : 698.0366,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 713.2618,
+      "rightX" : 85.8,
+      "topY" : 702.2618,
+      "baseLineY" : 710.7547,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 725.8584,
+      "rightX" : 169.6786,
+      "topY" : 714.8584,
+      "baseLineY" : 723.3514,
+      "fontId" : 10,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 169.56,
+      "bottomY" : 725.6391,
+      "rightX" : 172.05,
+      "topY" : 715.6391,
+      "baseLineY" : 723.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.0375,
+      "bottomY" : 737.4019,
+      "rightX" : 85.5275,
+      "topY" : 727.4019,
+      "baseLineY" : 735.1227,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 792.107,
+      "rightX" : 85.8,
+      "topY" : 781.107,
+      "baseLineY" : 789.6,
+      "fontId" : 10,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 11,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 476.52,
+      "bottomY" : 47.5191,
+      "rightX" : 524.61,
+      "topY" : 37.5191,
+      "baseLineY" : 45.24,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 475.08,
+      "bottomY" : 59.0391,
+      "rightX" : 524.49,
+      "topY" : 49.0391,
+      "baseLineY" : 56.76,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 83.4354,
+      "rightX" : 87.78,
+      "topY" : 76.4354,
+      "baseLineY" : 81.84,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 101.735,
+      "rightX" : 492.3599,
+      "topY" : 89.735,
+      "baseLineY" : 99,
+      "fontId" : 7,
+      "text" : "program. Department of Agriculture regulations provide that no agency, officer, or "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 115.6549,
+      "rightX" : 462.9599,
+      "topY" : 103.6549,
+      "baseLineY" : 112.92,
+      "fontId" : 7,
+      "text" : "employee of the United States Department of Agriculture shall exclude from "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 129.4549,
+      "rightX" : 507.2398,
+      "topY" : 117.4549,
+      "baseLineY" : 126.72,
+      "fontId" : 7,
+      "text" : "participation in, deny the benefits of, or subject to discrimination any person based on "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 143.2549,
+      "rightX" : 518.5198,
+      "topY" : 131.2549,
+      "baseLineY" : 140.52,
+      "fontId" : 7,
+      "text" : "race, color, religion, sex, age, handicap, or national origin under any program or activity "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 157.0549,
+      "rightX" : 494.3999,
+      "topY" : 145.0549,
+      "baseLineY" : 154.3199,
+      "fontId" : 7,
+      "text" : "administered by such agency, officer, or employee. The Fair Housing Act prohibits "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 170.8549,
+      "rightX" : 520.1998,
+      "topY" : 158.8549,
+      "baseLineY" : 168.1199,
+      "fontId" : 7,
+      "text" : "discrimination in real estate-related transactions, or in the terms and conditions of such a "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 184.6549,
+      "rightX" : 504.2398,
+      "topY" : 172.6549,
+      "baseLineY" : 181.9199,
+      "fontId" : 7,
+      "text" : "transaction, because of race, color, religion, sex, handicap, familial status, or national "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 198.4549,
+      "rightX" : 514.5598,
+      "topY" : 186.4549,
+      "baseLineY" : 195.7199,
+      "fontId" : 7,
+      "text" : "origin. If an applicant or borrower believes he or she has been discriminated against for "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 212.2549,
+      "rightX" : 502.5598,
+      "topY" : 200.2549,
+      "baseLineY" : 209.5199,
+      "fontId" : 7,
+      "text" : "any of these reasons, that person can write the Secretary of Agriculture, Washington, "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 226.0549,
+      "rightX" : 153.72,
+      "topY" : 214.0549,
+      "baseLineY" : 223.3199,
+      "fontId" : 7,
+      "text" : "D.C. 20250. "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 239.8548,
+      "rightX" : 522.8398,
+      "topY" : 227.8548,
+      "baseLineY" : 237.1199,
+      "fontId" : 7,
+      "text" : "Applicants also cannot be denied a loan because the applicant has in good faith exercised "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 253.6548,
+      "rightX" : 521.5198,
+      "topY" : 241.6548,
+      "baseLineY" : 250.9199,
+      "fontId" : 7,
+      "text" : "his or her rights under the Consumer Credit Protection Act. If an applicant believes he or "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 267.4548,
+      "rightX" : 499.0799,
+      "topY" : 255.4548,
+      "baseLineY" : 264.7198,
+      "fontId" : 7,
+      "text" : "she was denied a loan for this reason, the applicant should contact the Federal Trade "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 281.2548,
+      "rightX" : 284.4,
+      "topY" : 269.2548,
+      "baseLineY" : 278.5198,
+      "fontId" : 7,
+      "text" : "Commission, Washington, D.C. 20580. "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 295.0548,
+      "rightX" : 89.04,
+      "topY" : 283.0548,
+      "baseLineY" : 292.3198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 308.8548,
+      "rightX" : 407.64,
+      "topY" : 296.8548,
+      "baseLineY" : 306.1198,
+      "fontId" : 7,
+      "text" : "*See attachment Tenant Grievance Procedures, 7 CFR 3560.160. "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 322.5471,
+      "rightX" : 88.92,
+      "topY" : 311.5471,
+      "baseLineY" : 320.04,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 336.455,
+      "rightX" : 511.9198,
+      "topY" : 324.455,
+      "baseLineY" : 333.72,
+      "fontId" : 7,
+      "text" : "If you do not cooperate in effecting the necessary adjustments to your account, we will "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 350.255,
+      "rightX" : 473.7598,
+      "topY" : 338.255,
+      "baseLineY" : 347.52,
+      "fontId" : 7,
+      "text" : "have no alternative but to initiate appropriate action to collect the unauthorized "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 364.0549,
+      "rightX" : 134.04,
+      "topY" : 352.0549,
+      "baseLineY" : 361.32,
+      "fontId" : 7,
+      "text" : "amount. "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 379.0429,
+      "rightX" : 89.28,
+      "topY" : 366.0429,
+      "baseLineY" : 376.08,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 391.4391,
+      "rightX" : 88.68,
+      "topY" : 381.4391,
+      "baseLineY" : 389.16,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 405.335,
+      "rightX" : 143.4,
+      "topY" : 393.335,
+      "baseLineY" : 402.6,
+      "fontId" : 7,
+      "text" : "Sincerely, "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 416.5312,
+      "rightX" : 88.41,
+      "topY" : 407.5312,
+      "baseLineY" : 414.48,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 429.215,
+      "rightX" : 96.036,
+      "topY" : 417.215,
+      "baseLineY" : 426.48,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 96,
+      "bottomY" : 429.2499,
+      "rightX" : 237.456,
+      "topY" : 417.2499,
+      "baseLineY" : 426.48,
+      "fontId" : 5,
+      "text" : "Signature and title of Official"
+    }, {
+      "leftX" : 237.48,
+      "bottomY" : 429.215,
+      "rightX" : 244.44,
+      "topY" : 417.215,
+      "baseLineY" : 426.48,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 442.895,
+      "rightX" : 89.04,
+      "topY" : 430.895,
+      "baseLineY" : 440.16,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 456.695,
+      "rightX" : 151.08,
+      "topY" : 444.695,
+      "baseLineY" : 453.96,
+      "fontId" : 7,
+      "text" : "Attachment "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 470.2671,
+      "rightX" : 88.92,
+      "topY" : 459.2671,
+      "baseLineY" : 467.76,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 479.0391,
+      "rightX" : 88.53,
+      "topY" : 469.0391,
+      "baseLineY" : 476.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 230.04,
+      "bottomY" : 478.3554,
+      "rightX" : 231.78,
+      "topY" : 471.3554,
+      "baseLineY" : 476.76,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 792.2279,
+      "rightX" : 86.28,
+      "topY" : 791.2279,
+      "baseLineY" : 792,
+      "fontId" : 12,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 12,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 387.36,
+      "bottomY" : 88.8949,
+      "rightX" : 540.6,
+      "topY" : 76.8949,
+      "baseLineY" : 86.16,
+      "fontId" : 7,
+      "text" : "Handbook Letter 305-A (3560) "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 98.1833,
+      "rightX" : 88.05,
+      "topY" : 90.1833,
+      "baseLineY" : 96.36,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 116.375,
+      "rightX" : 168,
+      "topY" : 104.375,
+      "baseLineY" : 113.64,
+      "fontId" : 7,
+      "text" : "REFERENCE: "
+    }, {
+      "leftX" : 183,
+      "bottomY" : 116.375,
+      "rightX" : 289.8,
+      "topY" : 104.375,
+      "baseLineY" : 113.64,
+      "fontId" : 7,
+      "text" : "HB-3-3560 Chapter 9 "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 128.8791,
+      "rightX" : 88.68,
+      "topY" : 118.8791,
+      "baseLineY" : 126.6,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 142.7749,
+      "rightX" : 152.04,
+      "topY" : 130.7749,
+      "baseLineY" : 140.04,
+      "fontId" : 7,
+      "text" : "PURPOSE: "
+    }, {
+      "leftX" : 183,
+      "bottomY" : 142.7749,
+      "rightX" : 463.7999,
+      "topY" : 130.7749,
+      "baseLineY" : 140.04,
+      "fontId" : 7,
+      "text" : "Final Determination Notice/Demand Letter to recipient of "
+    }, {
+      "leftX" : 183,
+      "bottomY" : 156.6949,
+      "rightX" : 496.5585,
+      "topY" : 144.6949,
+      "baseLineY" : 153.96,
+      "fontId" : 7,
+      "text" : "unauthorized assistance to state final determination. Borrower or "
+    }, {
+      "leftX" : 183,
+      "bottomY" : 170.4949,
+      "rightX" : 490.1998,
+      "topY" : 158.4949,
+      "baseLineY" : 167.7599,
+      "fontId" : 7,
+      "text" : "Management Agent to send if borrower identified unauthorized "
+    }, {
+      "leftX" : 183,
+      "bottomY" : 184.2949,
+      "rightX" : 467.5198,
+      "topY" : 172.2949,
+      "baseLineY" : 181.5599,
+      "fontId" : 7,
+      "text" : "assistance, when tenant fails to respond to an unauthorized "
+    }, {
+      "leftX" : 183,
+      "bottomY" : 198.0949,
+      "rightX" : 488.16,
+      "topY" : 186.0949,
+      "baseLineY" : 195.3599,
+      "fontId" : 7,
+      "text" : "assistance determination notice or fails to agree to a repayment "
+    }, {
+      "leftX" : 183,
+      "bottomY" : 211.8949,
+      "rightX" : 231,
+      "topY" : 199.8949,
+      "baseLineY" : 209.1599,
+      "fontId" : 7,
+      "text" : "schedule. "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 223.4391,
+      "rightX" : 88.53,
+      "topY" : 213.4391,
+      "baseLineY" : 221.16,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 233.3033,
+      "rightX" : 88.17,
+      "topY" : 225.3033,
+      "baseLineY" : 231.48,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 165,
+      "bottomY" : 251.615,
+      "rightX" : 456.36,
+      "topY" : 239.615,
+      "baseLineY" : 248.88,
+      "fontId" : 7,
+      "text" : "FINAL DETERMINATION NOTICE/DEMAND LETTER "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 260.9033,
+      "rightX" : 88.05,
+      "topY" : 252.9033,
+      "baseLineY" : 259.08,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 411.12,
+      "bottomY" : 279.2149,
+      "rightX" : 415.116,
+      "topY" : 267.2149,
+      "baseLineY" : 276.48,
+      "fontId" : 7,
+      "text" : "["
+    }, {
+      "leftX" : 415.08,
+      "bottomY" : 279.2499,
+      "rightX" : 466.1279,
+      "topY" : 267.2499,
+      "baseLineY" : 276.48,
+      "fontId" : 5,
+      "text" : "insert date"
+    }, {
+      "leftX" : 466.08,
+      "bottomY" : 279.2149,
+      "rightX" : 473.16,
+      "topY" : 267.2149,
+      "baseLineY" : 276.48,
+      "fontId" : 7,
+      "text" : "] "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 293.6149,
+      "rightX" : 123.276,
+      "topY" : 281.6149,
+      "baseLineY" : 290.88,
+      "fontId" : 7,
+      "text" : "Dear ["
+    }, {
+      "leftX" : 123.24,
+      "bottomY" : 293.6499,
+      "rightX" : 224.976,
+      "topY" : 281.6499,
+      "baseLineY" : 290.88,
+      "fontId" : 5,
+      "text" : "insert name of tenant"
+    }, {
+      "leftX" : 225,
+      "bottomY" : 293.6149,
+      "rightX" : 235.32,
+      "topY" : 281.6149,
+      "baseLineY" : 290.88,
+      "fontId" : 7,
+      "text" : "]: "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 308.0149,
+      "rightX" : 514.3198,
+      "topY" : 296.0149,
+      "baseLineY" : 305.28,
+      "fontId" : 7,
+      "text" : "After careful consideration of all information available, [Borrower and/or Management "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 322.2949,
+      "rightX" : 507.1173,
+      "topY" : 310.2949,
+      "baseLineY" : 319.56,
+      "fontId" : 7,
+      "text" : "Agent name] has determined that you have received unauthorized financial assistance "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 336.6949,
+      "rightX" : 292.92,
+      "topY" : 324.6949,
+      "baseLineY" : 333.96,
+      "fontId" : 7,
+      "text" : "as outlined below. [Insert a paragraph to: "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 348.9591,
+      "rightX" : 88.53,
+      "topY" : 338.9591,
+      "baseLineY" : 346.68,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108.48,
+      "bottomY" : 362.735,
+      "rightX" : 121.716,
+      "topY" : 350.735,
+      "baseLineY" : 360,
+      "fontId" : 7,
+      "text" : "(a)"
+    }, {
+      "leftX" : 121.8,
+      "bottomY" : 362.8571,
+      "rightX" : 125.136,
+      "topY" : 350.8571,
+      "baseLineY" : 360,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 127.32,
+      "bottomY" : 362.735,
+      "rightX" : 309.72,
+      "topY" : 350.735,
+      "baseLineY" : 360,
+      "fontId" : 7,
+      "text" : "Describe the unauthorized assistance; "
+    }, {
+      "leftX" : 107.88,
+      "bottomY" : 376.535,
+      "rightX" : 121.836,
+      "topY" : 364.535,
+      "baseLineY" : 373.8,
+      "fontId" : 7,
+      "text" : "(b)"
+    }, {
+      "leftX" : 121.92,
+      "bottomY" : 376.6571,
+      "rightX" : 125.256,
+      "topY" : 364.6571,
+      "baseLineY" : 373.8,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 127.32,
+      "bottomY" : 376.535,
+      "rightX" : 508.9198,
+      "topY" : 364.535,
+      "baseLineY" : 373.8,
+      "fontId" : 7,
+      "text" : "State the amount of unauthorized assistance which must be repaid (same as the "
+    }, {
+      "leftX" : 127.32,
+      "bottomY" : 390.3349,
+      "rightX" : 509.9998,
+      "topY" : 378.3349,
+      "baseLineY" : 387.6,
+      "fontId" : 7,
+      "text" : "amount stated in Handbook Letter 304 unless subsequent information provided "
+    }, {
+      "leftX" : 127.32,
+      "bottomY" : 404.1349,
+      "rightX" : 396.72,
+      "topY" : 392.1349,
+      "baseLineY" : 401.4,
+      "fontId" : 7,
+      "text" : "by the recipient caused this amount to be changed); and "
+    }, {
+      "leftX" : 108.48,
+      "bottomY" : 417.9349,
+      "rightX" : 121.716,
+      "topY" : 405.9349,
+      "baseLineY" : 415.2,
+      "fontId" : 7,
+      "text" : "(c)"
+    }, {
+      "leftX" : 121.8,
+      "bottomY" : 418.0571,
+      "rightX" : 125.136,
+      "topY" : 406.0571,
+      "baseLineY" : 415.2,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 127.32,
+      "bottomY" : 417.9349,
+      "rightX" : 500.2798,
+      "topY" : 405.9349,
+      "baseLineY" : 415.2,
+      "fontId" : 7,
+      "text" : "Attach Form RD 3560-65 to this letter which describes the amount owed and "
+    }, {
+      "leftX" : 127.32,
+      "bottomY" : 431.7349,
+      "rightX" : 498.36,
+      "topY" : 419.7349,
+      "baseLineY" : 428.9999,
+      "fontId" : 7,
+      "text" : "payment agreement. This form should be signed by the Agency and returned "
+    }, {
+      "leftX" : 127.32,
+      "bottomY" : 445.5349,
+      "rightX" : 262.92,
+      "topY" : 433.5349,
+      "baseLineY" : 442.7999,
+      "fontId" : 7,
+      "text" : "to our Rural Development.] "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 460.6429,
+      "rightX" : 89.28,
+      "topY" : 447.6429,
+      "baseLineY" : 457.68,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 474.335,
+      "rightX" : 503.3998,
+      "topY" : 462.335,
+      "baseLineY" : 471.6,
+      "fontId" : 7,
+      "text" : "If you disagree with the decision or facts used in making the decision, you may file a "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 488.135,
+      "rightX" : 484.7986,
+      "topY" : 476.135,
+      "baseLineY" : 485.4,
+      "fontId" : 7,
+      "text" : "Tenant Grievance under the provisions of 7 CFR 356.160.  To initiate the Tenant "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 501.9349,
+      "rightX" : 506.0398,
+      "topY" : 489.9349,
+      "baseLineY" : 499.2,
+      "fontId" : 7,
+      "text" : "Grievance procedures, you will need to write to this office within 10 calendar days of "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 515.735,
+      "rightX" : 518.5199,
+      "topY" : 503.735,
+      "baseLineY" : 513,
+      "fontId" : 7,
+      "text" : "the receipt of this letter and explain why the decision was wrong or to request a meeting "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 529.5349,
+      "rightX" : 491.5198,
+      "topY" : 517.5349,
+      "baseLineY" : 526.7999,
+      "fontId" : 7,
+      "text" : "with us.  You can present any new information or evidence with the letter or at the "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 543.3349,
+      "rightX" : 137.64,
+      "topY" : 531.3349,
+      "baseLineY" : 540.6,
+      "fontId" : 7,
+      "text" : "meeting. "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 557.0271,
+      "rightX" : 88.92,
+      "topY" : 546.0271,
+      "baseLineY" : 554.52,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 92.04,
+      "bottomY" : 570.935,
+      "rightX" : 407.64,
+      "topY" : 558.935,
+      "baseLineY" : 568.2,
+      "fontId" : 7,
+      "text" : "*See attachment Tenant Grievance Procedures, 7 CFR 3560.160. "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 584.735,
+      "rightX" : 96,
+      "topY" : 572.735,
+      "baseLineY" : 582,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 598.535,
+      "rightX" : 491.1599,
+      "topY" : 586.535,
+      "baseLineY" : 595.8,
+      "fontId" : 7,
+      "text" : "If you do not cooperate in effecting the necessary adjustments to your account, we "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 612.3349,
+      "rightX" : 496.4433,
+      "topY" : 600.3349,
+      "baseLineY" : 609.6,
+      "fontId" : 7,
+      "text" : "will have no alternative but to initiate appropriate action to collect the unauthorized "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 626.135,
+      "rightX" : 135,
+      "topY" : 614.135,
+      "baseLineY" : 623.4,
+      "fontId" : 7,
+      "text" : "amount. "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 639.8271,
+      "rightX" : 88.92,
+      "topY" : 628.8271,
+      "baseLineY" : 637.32,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 653.735,
+      "rightX" : 144.36,
+      "topY" : 641.735,
+      "baseLineY" : 651,
+      "fontId" : 7,
+      "text" : "Sincerely, "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 664.9312,
+      "rightX" : 88.41,
+      "topY" : 655.9312,
+      "baseLineY" : 662.88,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 680.015,
+      "rightX" : 245.28,
+      "topY" : 668.015,
+      "baseLineY" : 677.28,
+      "fontId" : 7,
+      "text" : "[Signature and title of Official] "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 693.695,
+      "rightX" : 89.04,
+      "topY" : 681.695,
+      "baseLineY" : 690.96,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 707.495,
+      "rightX" : 152.04,
+      "topY" : 695.495,
+      "baseLineY" : 704.76,
+      "fontId" : 7,
+      "text" : "Attachment "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 721.295,
+      "rightX" : 96,
+      "topY" : 709.295,
+      "baseLineY" : 718.56,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 736.547,
+      "rightX" : 172.6786,
+      "topY" : 725.547,
+      "baseLineY" : 734.04,
+      "fontId" : 10,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 172.56,
+      "bottomY" : 736.3191,
+      "rightX" : 175.05,
+      "topY" : 726.3191,
+      "baseLineY" : 734.04,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 737.6279,
+      "rightX" : 86.28,
+      "topY" : 736.6279,
+      "baseLineY" : 737.4,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 86.04,
+      "bottomY" : 792.2279,
+      "rightX" : 86.28,
+      "topY" : 791.2279,
+      "baseLineY" : 792,
+      "fontId" : 12,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 7.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 22.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 10.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 13.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 1.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 11.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 15,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 16,
+    "fontFamily" : "Arial-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 17,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

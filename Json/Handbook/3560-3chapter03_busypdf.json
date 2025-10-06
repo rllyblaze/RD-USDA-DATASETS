@@ -1,0 +1,4101 @@
+{
+  "pdfDoc" : "3560-3chapter03.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 189.24,
+      "bottomY" : 95.1179,
+      "rightX" : 444.75,
+      "topY" : 81.1179,
+      "baseLineY" : 91.8,
+      "fontId" : 2,
+      "text" : "CHAPTER 3:  AUTOMATED SYSTEMS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 127.6439,
+      "rightX" : 96,
+      "topY" : 115.6439,
+      "baseLineY" : 124.8,
+      "fontId" : 3,
+      "text" : "3.1   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 127.6439,
+      "rightX" : 207,
+      "topY" : 115.6439,
+      "baseLineY" : 124.8,
+      "fontId" : 3,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.3349,
+      "rightX" : 540.7198,
+      "topY" : 141.3349,
+      "baseLineY" : 150.6,
+      "fontId" : 4,
+      "text" : "Many of the Agency’s account servicing activities are dependent on data submitted to the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 167.1349,
+      "rightX" : 507.8399,
+      "topY" : 155.1349,
+      "baseLineY" : 164.4,
+      "fontId" : 4,
+      "text" : "Agency by tenants and borrowers.  These data are tracked by the Agency using automated "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 180.9349,
+      "rightX" : 535.4398,
+      "topY" : 168.9349,
+      "baseLineY" : 178.2,
+      "fontId" : 4,
+      "text" : "systems.  This section describes the Agency’s four primary automated information management "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 194.7349,
+      "rightX" : 514.4399,
+      "topY" : 182.7349,
+      "baseLineY" : 191.9999,
+      "fontId" : 4,
+      "text" : "systems—the Management Agent Interactive Network Connection (MINC), the Automated "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 208.5349,
+      "rightX" : 513.4799,
+      "topY" : 196.5349,
+      "baseLineY" : 205.7999,
+      "fontId" : 4,
+      "text" : "Multi-Family Housing Accounting System (AMAS), the Multi-Family Information System "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 222.3349,
+      "rightX" : 539.7599,
+      "topY" : 210.3349,
+      "baseLineY" : 219.5999,
+      "fontId" : 4,
+      "text" : "(MFIS), and the Prepayment Tracking and Concurrence (Pre-Trac)—including their purpose and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 236.1349,
+      "rightX" : 446.28,
+      "topY" : 224.1349,
+      "baseLineY" : 233.3999,
+      "fontId" : 4,
+      "text" : "capabilities, staff responsibilities, and training and certification requirements. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 261.9349,
+      "rightX" : 527.9996,
+      "topY" : 249.9349,
+      "baseLineY" : 259.1999,
+      "fontId" : 4,
+      "text" : "It is important to understand that while this section identifies the specific activities that "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 275.7348,
+      "rightX" : 521.8798,
+      "topY" : 263.7348,
+      "baseLineY" : 272.9999,
+      "fontId" : 4,
+      "text" : "may be accomplished using the various automated systems, many of the activities listed for a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 289.5348,
+      "rightX" : 523.5599,
+      "topY" : 277.5348,
+      "baseLineY" : 286.7999,
+      "fontId" : 4,
+      "text" : "particular system cannot be accomplished without inputs from one or more of the others.  For "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 303.3348,
+      "rightX" : 537.1199,
+      "topY" : 291.3348,
+      "baseLineY" : 300.5999,
+      "fontId" : 4,
+      "text" : "instance, monthly loan payment amounts are tracked using AMAS, but those amounts cannot be "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 317.1348,
+      "rightX" : 529.1998,
+      "topY" : 305.1348,
+      "baseLineY" : 314.3998,
+      "fontId" : 4,
+      "text" : "determined without inputs from MFIS.  Similarly, while MFIS is used to identify and track the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 330.9348,
+      "rightX" : 528.4799,
+      "topY" : 318.9348,
+      "baseLineY" : 328.1998,
+      "fontId" : 4,
+      "text" : "status of borrower noncompliance, the standards by which compliance is measured come from "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 344.7348,
+      "rightX" : 112.68,
+      "topY" : 332.7348,
+      "baseLineY" : 341.9998,
+      "fontId" : 4,
+      "text" : "AMAS. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 370.4148,
+      "rightX" : 505.7998,
+      "topY" : 358.4148,
+      "baseLineY" : 367.6798,
+      "fontId" : 4,
+      "text" : "Every MFH Servicing official is required to be familiar with each of the Agency’s "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 384.2148,
+      "rightX" : 536.6396,
+      "topY" : 372.2148,
+      "baseLineY" : 381.4798,
+      "fontId" : 4,
+      "text" : "automated systems.  This includes gaining familiarity with not only the basic information in this "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 398.0148,
+      "rightX" : 542.52,
+      "topY" : 386.0148,
+      "baseLineY" : 395.2798,
+      "fontId" : 4,
+      "text" : "chapter, but the more detailed user manuals for each system and periodic training offered to staff. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 423.9237,
+      "rightX" : 96,
+      "topY" : 411.9237,
+      "baseLineY" : 421.0798,
+      "fontId" : 3,
+      "text" : "3.2   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 423.9237,
+      "rightX" : 442.0803,
+      "topY" : 411.9237,
+      "baseLineY" : 421.0798,
+      "fontId" : 3,
+      "text" : "MANAGEMENT INTERACTIVE NETWORK CONNECTION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 449.6147,
+      "rightX" : 542.76,
+      "topY" : 437.6147,
+      "baseLineY" : 446.8798,
+      "fontId" : 4,
+      "text" : "MINC is a database used by the Agency to reduce the cost of compliance and increase the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 463.4147,
+      "rightX" : 434.64,
+      "topY" : 451.4147,
+      "baseLineY" : 460.6797,
+      "fontId" : 4,
+      "text" : "effectiveness of supervisory actions in the Multi-Family Housing program. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 489.3237,
+      "rightX" : 192,
+      "topY" : 477.3237,
+      "baseLineY" : 486.4797,
+      "fontId" : 3,
+      "text" : "A.  Background "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 515.0147,
+      "rightX" : 525.5999,
+      "topY" : 503.0147,
+      "baseLineY" : 512.2797,
+      "fontId" : 4,
+      "text" : "Before a borrower can submit a payment to the Agency for review and processing, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 528.8147,
+      "rightX" : 536.5199,
+      "topY" : 516.8147,
+      "baseLineY" : 526.0797,
+      "fontId" : 4,
+      "text" : "the Agency needs to determine and inform the borrower of the correct payment amount.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 542.6147,
+      "rightX" : 536.9998,
+      "topY" : 530.6147,
+      "baseLineY" : 539.8797,
+      "fontId" : 4,
+      "text" : "Before the payment amount can be determined, the borrower needs to collect and submit "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 556.4147,
+      "rightX" : 529.4363,
+      "topY" : 544.4147,
+      "baseLineY" : 553.6797,
+      "fontId" : 4,
+      "text" : "to the Agency the tenant data that is used in the calculation of rental assistance, interest "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 570.2147,
+      "rightX" : 543.1198,
+      "topY" : 558.2147,
+      "baseLineY" : 567.4797,
+      "fontId" : 4,
+      "text" : "credit, and ultimately, the “net” payment amount that must be submitted by the borrower.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 584.0147,
+      "rightX" : 520.5601,
+      "topY" : 572.0147,
+      "baseLineY" : 581.2797,
+      "fontId" : 4,
+      "text" : "To make the required calculations, tenant data are entered into MFIS, and the outputs "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 597.8147,
+      "rightX" : 530.6373,
+      "topY" : 585.8147,
+      "baseLineY" : 595.0797,
+      "fontId" : 4,
+      "text" : "from MFIS are ultimately entered into AMAS for tracking.  It is crucial that tenant data "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 611.6147,
+      "rightX" : 529.7999,
+      "topY" : 599.6147,
+      "baseLineY" : 608.8798,
+      "fontId" : 4,
+      "text" : "be correct, because over $1 billion in tenant subsidy is awarded annually based on each "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 625.4147,
+      "rightX" : 182.28,
+      "topY" : 613.4147,
+      "baseLineY" : 622.6797,
+      "fontId" : 4,
+      "text" : "tenant’s status. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 651.2147,
+      "rightX" : 517.9198,
+      "topY" : 639.2147,
+      "baseLineY" : 648.4797,
+      "fontId" : 4,
+      "text" : "Previously borrowers have submitted tenant data to the Agency by mailing paper "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 665.0147,
+      "rightX" : 540.1199,
+      "topY" : 653.0147,
+      "baseLineY" : 662.2797,
+      "fontId" : 4,
+      "text" : "copies to the Servicing Office each month to reflect current occupancy status.  Borrowers "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 678.8147,
+      "rightX" : 498,
+      "topY" : 666.8147,
+      "baseLineY" : 676.0797,
+      "fontId" : 4,
+      "text" : "now must submit data through an automated interface with the Agency – MINC. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 292.32,
+      "bottomY" : 760.4391,
+      "rightX" : 308.13,
+      "topY" : 750.4391,
+      "baseLineY" : 758.16,
+      "fontId" : 1,
+      "text" : "3-1 "
+    }, {
+      "leftX" : 65.28,
+      "bottomY" : 771.9591,
+      "rightX" : 146.3604,
+      "topY" : 761.9591,
+      "baseLineY" : 769.68,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.0039,
+      "rightX" : 256.68,
+      "topY" : 74.0039,
+      "baseLineY" : 83.16,
+      "fontId" : 3,
+      "text" : "B.  Purpose and Capabilities "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 111.6949,
+      "rightX" : 513.8373,
+      "topY" : 99.6949,
+      "baseLineY" : 108.96,
+      "fontId" : 4,
+      "text" : "MINC enables management agents to transmit tenant data electronically, via the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.4949,
+      "rightX" : 440.1598,
+      "topY" : 113.4949,
+      "baseLineY" : 122.7599,
+      "fontId" : 4,
+      "text" : "Internet.  In addition to tenant data, management agents can transmit "
+    }, {
+      "leftX" : 440.1598,
+      "bottomY" : 125.5299,
+      "rightX" : 528.84,
+      "topY" : 113.5299,
+      "baseLineY" : 122.7599,
+      "fontId" : 5,
+      "text" : "Form RD 3560-7, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.3299,
+      "rightX" : 392.3265,
+      "topY" : 127.3299,
+      "baseLineY" : 136.5599,
+      "fontId" : 5,
+      "text" : "Multiple Family Housing Project Budget/Utility Allowance"
+    }, {
+      "leftX" : 392.28,
+      "bottomY" : 139.2949,
+      "rightX" : 418.56,
+      "topY" : 127.2949,
+      "baseLineY" : 136.5599,
+      "fontId" : 4,
+      "text" : ", and "
+    }, {
+      "leftX" : 418.56,
+      "bottomY" : 139.3299,
+      "rightX" : 513.24,
+      "topY" : 127.3299,
+      "baseLineY" : 136.5599,
+      "fontId" : 5,
+      "text" : "Form RD 3560-10, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.1298,
+      "rightX" : 225.8159,
+      "topY" : 141.1298,
+      "baseLineY" : 150.3599,
+      "fontId" : 5,
+      "text" : "Borrower Balance Sheet"
+    }, {
+      "leftX" : 225.84,
+      "bottomY" : 153.0949,
+      "rightX" : 526.1997,
+      "topY" : 141.0949,
+      "baseLineY" : 150.3599,
+      "fontId" : 4,
+      "text" : ".  Data that are transmitted correctly, and contain changes that "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.8949,
+      "rightX" : 538.0762,
+      "topY" : 154.8949,
+      "baseLineY" : 164.1599,
+      "fontId" : 4,
+      "text" : "are within the allowable parameters, are automatically uploaded into MFIS. Data that are "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 180.6949,
+      "rightX" : 532.4399,
+      "topY" : 168.6949,
+      "baseLineY" : 177.9599,
+      "fontId" : 4,
+      "text" : "transmitted incorrectly, or that does not comply with Agency regulations, are “rejected” "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 194.4949,
+      "rightX" : 526.5598,
+      "topY" : 182.4949,
+      "baseLineY" : 191.7599,
+      "fontId" : 4,
+      "text" : "by MINC.  Questionable data transactions, containing changes requiring review by the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 208.2948,
+      "rightX" : 537.12,
+      "topY" : 196.2948,
+      "baseLineY" : 205.5599,
+      "fontId" : 4,
+      "text" : "Agency, are held in a “pending” status in the MFIS electronic transmission web page.  A "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 222.0948,
+      "rightX" : 497.1597,
+      "topY" : 210.0948,
+      "baseLineY" : 219.3599,
+      "fontId" : 4,
+      "text" : "message is sent to the management agent, detailing the result of each transaction "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 235.8948,
+      "rightX" : 521.8798,
+      "topY" : 223.8948,
+      "baseLineY" : 233.1599,
+      "fontId" : 4,
+      "text" : "transmitted such as accepted, rejected, pending, etc.  The Agency reviews transmitted "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 249.6948,
+      "rightX" : 512.8798,
+      "topY" : 237.6948,
+      "baseLineY" : 246.9598,
+      "fontId" : 4,
+      "text" : "transactions, through the use of a “Daily Report,” to determine if there is any action "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 263.4948,
+      "rightX" : 518.8799,
+      "topY" : 251.4948,
+      "baseLineY" : 260.7598,
+      "fontId" : 4,
+      "text" : "necessary on the Agency’s part. MINC provides the capability of Borrowers to view, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 277.2948,
+      "rightX" : 230.52,
+      "topY" : 265.2948,
+      "baseLineY" : 274.5598,
+      "fontId" : 4,
+      "text" : "approve and submit their "
+    }, {
+      "leftX" : 230.64,
+      "bottomY" : 277.3297,
+      "rightX" : 319.2,
+      "topY" : 265.3297,
+      "baseLineY" : 274.5598,
+      "fontId" : 5,
+      "text" : "Form RD 3560-29"
+    }, {
+      "leftX" : 319.2,
+      "bottomY" : 277.2948,
+      "rightX" : 542.7599,
+      "topY" : 265.2948,
+      "baseLineY" : 274.5598,
+      "fontId" : 4,
+      "text" : " to the Agency.  If the borrower discovers any "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 291.0948,
+      "rightX" : 537.1186,
+      "topY" : 279.0948,
+      "baseLineY" : 288.3598,
+      "fontId" : 4,
+      "text" : "discrepancies in the report, a correcting transaction is transmitted or the Servicing Office "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 304.8948,
+      "rightX" : 513.4799,
+      "topY" : 292.8948,
+      "baseLineY" : 302.1598,
+      "fontId" : 4,
+      "text" : "is contacted for guidance.  Once the report is determined to be correct, the borrower "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 318.6947,
+      "rightX" : 279.96,
+      "topY" : 306.6947,
+      "baseLineY" : 315.9598,
+      "fontId" : 4,
+      "text" : "approves and submits the payment. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 344.6037,
+      "rightX" : 236.4,
+      "topY" : 332.6037,
+      "baseLineY" : 341.7598,
+      "fontId" : 3,
+      "text" : "C.  Staff Responsibilities "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 370.2947,
+      "rightX" : 515.1599,
+      "topY" : 358.2947,
+      "baseLineY" : 367.5598,
+      "fontId" : 4,
+      "text" : "In accordance with 7 CFR Part 3560, all borrowers are required to electronically "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 384.0947,
+      "rightX" : 541.5598,
+      "topY" : 372.0947,
+      "baseLineY" : 381.3597,
+      "fontId" : 4,
+      "text" : "transmit their tenant and financial data and process their payments, for projects with eight "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 397.8947,
+      "rightX" : 508.5598,
+      "topY" : 385.8947,
+      "baseLineY" : 395.1597,
+      "fontId" : 4,
+      "text" : "units or more.  Agency Staff should contact all borrowers/management agents, and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 411.6947,
+      "rightX" : 540,
+      "topY" : 399.6947,
+      "baseLineY" : 408.9597,
+      "fontId" : 4,
+      "text" : "provide them with instructions for accessing and using MINC.  The steps involved in this "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 425.4947,
+      "rightX" : 222.9599,
+      "topY" : 413.4947,
+      "baseLineY" : 422.7597,
+      "fontId" : 4,
+      "text" : "process are as follows:  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 451.5548,
+      "rightX" : 113.52,
+      "topY" : 439.5548,
+      "baseLineY" : 449.3997,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 452.2569,
+      "rightX" : 116.856,
+      "topY" : 440.2569,
+      "baseLineY" : 449.3997,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 452.1347,
+      "rightX" : 529.5598,
+      "topY" : 440.1347,
+      "baseLineY" : 449.3997,
+      "fontId" : 4,
+      "text" : "Contact the borrower/management agent, and verify that the taxpayer identification "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 465.9347,
+      "rightX" : 460.56,
+      "topY" : 453.9347,
+      "baseLineY" : 463.1997,
+      "fontId" : 4,
+      "text" : "number on file with the Agency is correct for the management agent; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 491.9948,
+      "rightX" : 113.52,
+      "topY" : 479.9948,
+      "baseLineY" : 489.8397,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 492.6969,
+      "rightX" : 116.856,
+      "topY" : 480.6969,
+      "baseLineY" : 489.8397,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 492.5747,
+      "rightX" : 523.3186,
+      "topY" : 480.5747,
+      "baseLineY" : 489.8397,
+      "fontId" : 4,
+      "text" : "Validate that all projects for said management agent are associated to the taxpayer "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 506.3747,
+      "rightX" : 235.92,
+      "topY" : 494.3747,
+      "baseLineY" : 503.6397,
+      "fontId" : 4,
+      "text" : "identification number; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 532.4348,
+      "rightX" : 113.52,
+      "topY" : 520.4348,
+      "baseLineY" : 530.2797,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 533.1369,
+      "rightX" : 116.856,
+      "topY" : 521.1369,
+      "baseLineY" : 530.2797,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 533.0147,
+      "rightX" : 475.4398,
+      "topY" : 521.0147,
+      "baseLineY" : 530.2797,
+      "fontId" : 4,
+      "text" : "Inform the borrower/management agent to access the MINC Web site at "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 546.8147,
+      "rightX" : 290.64,
+      "topY" : 534.8147,
+      "baseLineY" : 544.0797,
+      "fontId" : 8,
+      "text" : "https://usdaminc.sc.egov.usda.gov"
+    }, {
+      "leftX" : 290.64,
+      "bottomY" : 546.8147,
+      "rightX" : 522.2399,
+      "topY" : 534.8147,
+      "baseLineY" : 544.0797,
+      "fontId" : 4,
+      "text" : ", and print a copy of the training handbook; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 572.8751,
+      "rightX" : 113.52,
+      "topY" : 560.8751,
+      "baseLineY" : 570.72,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 573.5771,
+      "rightX" : 116.856,
+      "topY" : 561.5771,
+      "baseLineY" : 570.72,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 573.4549,
+      "rightX" : 508.9199,
+      "topY" : 561.4549,
+      "baseLineY" : 570.72,
+      "fontId" : 4,
+      "text" : "Instruct the borrower/management agent to follow the step-by-step instructions "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 587.255,
+      "rightX" : 539.8799,
+      "topY" : 575.255,
+      "baseLineY" : 584.52,
+      "fontId" : 4,
+      "text" : "contained in the training handbook to obtain a MINC access code and password.  The "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 601.055,
+      "rightX" : 531.9597,
+      "topY" : 589.055,
+      "baseLineY" : 598.32,
+      "fontId" : 4,
+      "text" : "help manual should be consulted for any problems they encounter while completing "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 614.855,
+      "rightX" : 517.7997,
+      "topY" : 602.855,
+      "baseLineY" : 612.12,
+      "fontId" : 4,
+      "text" : "this process.  In the event that questions still exist after having consulted the help "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 628.655,
+      "rightX" : 539.1597,
+      "topY" : 616.655,
+      "baseLineY" : 625.92,
+      "fontId" : 4,
+      "text" : "manual, the borrower/management agent should then contact the Servicing Office for "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 642.455,
+      "rightX" : 180,
+      "topY" : 630.455,
+      "baseLineY" : 639.72,
+      "fontId" : 4,
+      "text" : "assistance. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 668.255,
+      "rightX" : 495.9598,
+      "topY" : 656.255,
+      "baseLineY" : 665.52,
+      "fontId" : 4,
+      "text" : "The borrower/management agent will be required to electronically accept an "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 682.055,
+      "rightX" : 535.7999,
+      "topY" : 670.055,
+      "baseLineY" : 679.32,
+      "fontId" : 4,
+      "text" : "automated version of the Trading Partner Agreement (TPA) while obtaining their MINC "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 695.855,
+      "rightX" : 541.5598,
+      "topY" : 683.855,
+      "baseLineY" : 693.12,
+      "fontId" : 4,
+      "text" : "access code and password.  The date of acceptance is stored within the system should this "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 709.655,
+      "rightX" : 289.3199,
+      "topY" : 697.655,
+      "baseLineY" : 706.92,
+      "fontId" : 4,
+      "text" : "information be needed at a later date. "
+    }, {
+      "leftX" : 314.88,
+      "bottomY" : 755.0391,
+      "rightX" : 330.6865,
+      "topY" : 745.0391,
+      "baseLineY" : 752.76,
+      "fontId" : 1,
+      "text" : "3-2 "
+    }, {
+      "leftX" : 92.28,
+      "bottomY" : 772.4391,
+      "rightX" : 94.77,
+      "topY" : 762.4391,
+      "baseLineY" : 770.16,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 85.8949,
+      "rightX" : 294.96,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : " The Servicing Office goals are to: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 111.9551,
+      "rightX" : 113.52,
+      "topY" : 99.9551,
+      "baseLineY" : 109.8,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 112.6571,
+      "rightX" : 116.856,
+      "topY" : 100.6571,
+      "baseLineY" : 109.8,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 112.535,
+      "rightX" : 482.5198,
+      "topY" : 100.535,
+      "baseLineY" : 109.8,
+      "fontId" : 4,
+      "text" : "Maintain project information on MFIS, completing primary processing of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 126.3349,
+      "rightX" : 543.2397,
+      "topY" : 114.3349,
+      "baseLineY" : 123.6,
+      "fontId" : 4,
+      "text" : "submissions of changes to tenant data between the first and tenth days of each month;  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 152.3951,
+      "rightX" : 113.52,
+      "topY" : 140.3951,
+      "baseLineY" : 150.24,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 153.0971,
+      "rightX" : 116.856,
+      "topY" : 141.0971,
+      "baseLineY" : 150.24,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 152.975,
+      "rightX" : 437.5198,
+      "topY" : 140.975,
+      "baseLineY" : 150.24,
+      "fontId" : 4,
+      "text" : "Provide MFIS reports in a timely manner, or as requested by the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 166.7749,
+      "rightX" : 293.28,
+      "topY" : 154.7749,
+      "baseLineY" : 164.04,
+      "fontId" : 4,
+      "text" : "borrower/management agent; and  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.9551,
+      "rightX" : 113.52,
+      "topY" : 180.9551,
+      "baseLineY" : 190.8,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 193.6571,
+      "rightX" : 116.856,
+      "topY" : 181.6571,
+      "baseLineY" : 190.8,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 193.535,
+      "rightX" : 384.9599,
+      "topY" : 181.535,
+      "baseLineY" : 190.8,
+      "fontId" : 4,
+      "text" : "Confirm the receipt of data transmission when asked. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 219.2149,
+      "rightX" : 506.5198,
+      "topY" : 207.2149,
+      "baseLineY" : 216.48,
+      "fontId" : 4,
+      "text" : "The Servicing Office should refer borrowers/management agents to vendors to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 233.0149,
+      "rightX" : 504.9598,
+      "topY" : 221.0149,
+      "baseLineY" : 230.28,
+      "fontId" : 4,
+      "text" : "troubleshoot software as needed.  Some borrowers/management agents with small "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 246.8149,
+      "rightX" : 538.5959,
+      "topY" : 234.8149,
+      "baseLineY" : 244.08,
+      "fontId" : 4,
+      "text" : "projects do not use vendor software; instead, they transmit through MINC using the “Fill-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 260.6149,
+      "rightX" : 489.9598,
+      "topY" : 248.6149,
+      "baseLineY" : 257.8799,
+      "fontId" : 4,
+      "text" : "a-Form” option and may need more assistance from the Servicing Office.  Any "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 274.4149,
+      "rightX" : 533.8798,
+      "topY" : 262.4149,
+      "baseLineY" : 271.6799,
+      "fontId" : 4,
+      "text" : "automation or program-related issues that are discovered by the Servicing Office should "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 288.2149,
+      "rightX" : 302.28,
+      "topY" : 276.2149,
+      "baseLineY" : 285.4799,
+      "fontId" : 4,
+      "text" : "be reported to the Leadership Designee. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 314.1238,
+      "rightX" : 219.36,
+      "topY" : 302.1238,
+      "baseLineY" : 311.2799,
+      "fontId" : 3,
+      "text" : "D.  Benefits of MINC "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 339.8149,
+      "rightX" : 528.2398,
+      "topY" : 327.8149,
+      "baseLineY" : 337.0799,
+      "fontId" : 4,
+      "text" : "MINC benefits all parties involved.  Electronic submission of data saves borrowers "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 353.6148,
+      "rightX" : 533.0399,
+      "topY" : 341.6148,
+      "baseLineY" : 350.8799,
+      "fontId" : 4,
+      "text" : "the burden and cost of generating and mailing paper documentation to the Agency.  The "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 367.4148,
+      "rightX" : 487.3198,
+      "topY" : 355.4148,
+      "baseLineY" : 364.6799,
+      "fontId" : 4,
+      "text" : "Agency saves the burden and cost of handling mail, sorting and copying paper "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 381.2148,
+      "rightX" : 515.5198,
+      "topY" : 369.2148,
+      "baseLineY" : 378.4799,
+      "fontId" : 4,
+      "text" : "documentation, and reentering tenant data by hand.  Freeing staff from clerical tasks "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 395.0148,
+      "rightX" : 537.9598,
+      "topY" : 383.0148,
+      "baseLineY" : 392.2798,
+      "fontId" : 4,
+      "text" : "allows them to focus on analytical responsibilities, such as reviewing occupancy patterns "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 408.8148,
+      "rightX" : 532.4398,
+      "topY" : 396.8148,
+      "baseLineY" : 406.0798,
+      "fontId" : 4,
+      "text" : "to uncover civil rights violations, tenant fraud, unacceptable management practices, and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 422.6148,
+      "rightX" : 296.04,
+      "topY" : 410.6148,
+      "baseLineY" : 419.8798,
+      "fontId" : 4,
+      "text" : "warning signs of occupancy problems. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 448.4148,
+      "rightX" : 493.9198,
+      "topY" : 436.4148,
+      "baseLineY" : 445.6798,
+      "fontId" : 4,
+      "text" : "In addition, MINC allows borrowers more time to meet deadlines.  Changes "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 462.2148,
+      "rightX" : 535.5598,
+      "topY" : 450.2148,
+      "baseLineY" : 459.4798,
+      "fontId" : 4,
+      "text" : "submitted through MINC are required to be filed by the tenth of the month, an extension "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 476.015,
+      "rightX" : 521.3997,
+      "topY" : 464.015,
+      "baseLineY" : 473.28,
+      "fontId" : 4,
+      "text" : "of 10 days.  For borrowers, this provides more time to ensure that their information is "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 489.815,
+      "rightX" : 533.6399,
+      "topY" : 477.815,
+      "baseLineY" : 487.08,
+      "fontId" : 4,
+      "text" : "assembled properly, and is complete and accurate.  More accurate information results in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 503.6149,
+      "rightX" : 526.1999,
+      "topY" : 491.6149,
+      "baseLineY" : 500.88,
+      "fontId" : 4,
+      "text" : "fewer mistakes to correct with the borrower.  Even if there are mistakes, MINC allows "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 517.4149,
+      "rightX" : 517.7999,
+      "topY" : 505.4149,
+      "baseLineY" : 514.6799,
+      "fontId" : 4,
+      "text" : "for next-day response by the Agency.  As a result, corrections can be made while the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 531.2149,
+      "rightX" : 268.56,
+      "topY" : 519.2149,
+      "baseLineY" : 528.48,
+      "fontId" : 4,
+      "text" : "borrower’s memory is still fresh. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 557.0149,
+      "rightX" : 504.1198,
+      "topY" : 545.0149,
+      "baseLineY" : 554.28,
+      "fontId" : 4,
+      "text" : "MINC also reduces the chance that borrowers will be charged overage for late "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 570.8149,
+      "rightX" : 507.5998,
+      "topY" : 558.8149,
+      "baseLineY" : 568.08,
+      "fontId" : 4,
+      "text" : "certifications, which can result in a substantial penalty for borrowers, management "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 584.6149,
+      "rightX" : 513.9598,
+      "topY" : 572.6149,
+      "baseLineY" : 581.8799,
+      "fontId" : 4,
+      "text" : "agents, and site managers.  Extended submission deadlines and faster turnaround on "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 598.4149,
+      "rightX" : 498.96,
+      "topY" : 586.4149,
+      "baseLineY" : 595.6799,
+      "fontId" : 4,
+      "text" : "submission reviews reduce the possibility of overage being charged for late data. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 624.2149,
+      "rightX" : 535.7974,
+      "topY" : 612.2149,
+      "baseLineY" : 621.48,
+      "fontId" : 4,
+      "text" : "MINC reduces the chance that borrowers will be charged a late fee due to the receipt "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 638.0149,
+      "rightX" : 528.4799,
+      "topY" : 626.0149,
+      "baseLineY" : 635.28,
+      "fontId" : 4,
+      "text" : "of their mortgage payment being delayed by delivery issues such as mail routing errors "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 651.8149,
+      "rightX" : 499.5598,
+      "topY" : 639.8149,
+      "baseLineY" : 649.08,
+      "fontId" : 4,
+      "text" : "and incorrect postage.  Borrowers have the ability to review the accuracy of their "
+    }, {
+      "leftX" : 499.5598,
+      "bottomY" : 651.8499,
+      "rightX" : 529.1998,
+      "topY" : 639.8499,
+      "baseLineY" : 649.08,
+      "fontId" : 5,
+      "text" : "Form "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 665.6499,
+      "rightX" : 166.92,
+      "topY" : 653.6499,
+      "baseLineY" : 662.88,
+      "fontId" : 5,
+      "text" : "RD 3560-29"
+    }, {
+      "leftX" : 166.92,
+      "bottomY" : 665.615,
+      "rightX" : 534.1199,
+      "topY" : 653.615,
+      "baseLineY" : 662.88,
+      "fontId" : 4,
+      "text" : " online, making any corrections and approving it for processing.  Borrowers "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 679.415,
+      "rightX" : 342.2399,
+      "topY" : 667.415,
+      "baseLineY" : 676.68,
+      "fontId" : 4,
+      "text" : "who are required to submit a payment with their "
+    }, {
+      "leftX" : 342.2399,
+      "bottomY" : 679.4499,
+      "rightX" : 430.8,
+      "topY" : 667.4499,
+      "baseLineY" : 676.68,
+      "fontId" : 5,
+      "text" : "Form RD 3560-29"
+    }, {
+      "leftX" : 430.8,
+      "bottomY" : 679.415,
+      "rightX" : 528.396,
+      "topY" : 667.415,
+      "baseLineY" : 676.68,
+      "fontId" : 4,
+      "text" : " can sign up for Pre-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 693.2149,
+      "rightX" : 497.8798,
+      "topY" : 681.2149,
+      "baseLineY" : 690.48,
+      "fontId" : 4,
+      "text" : "Authorized Debit (PAD), which electronically transfers the funds owed from the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 707.0149,
+      "rightX" : 525.7199,
+      "topY" : 695.0149,
+      "baseLineY" : 704.28,
+      "fontId" : 4,
+      "text" : "borrower’s bank account to Rural Development.  Borrowers who receive an RA check "
+    }, {
+      "leftX" : 313.68,
+      "bottomY" : 736.6792,
+      "rightX" : 329.4865,
+      "topY" : 726.6792,
+      "baseLineY" : 734.4,
+      "fontId" : 1,
+      "text" : "3-3 "
+    }, {
+      "leftX" : 71.9964,
+      "bottomY" : 756.1239,
+      "rightX" : 74.4864,
+      "topY" : 746.1239,
+      "baseLineY" : 753.8447,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 115.2,
+      "bottomY" : 748.1991,
+      "rightX" : 196.2804,
+      "topY" : 738.1991,
+      "baseLineY" : 745.92,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 85.8949,
+      "rightX" : 510.5999,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "must be signed up for Electronic Funds Transfer (EFT), whereby the RA due to the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.6949,
+      "rightX" : 471.84,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : "borrower is transferred from the Agency to the project’s operating account. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.6039,
+      "rightX" : 366.6,
+      "topY" : 113.6039,
+      "baseLineY" : 122.7599,
+      "fontId" : 3,
+      "text" : "E.  Staff Training and Certification Requirements "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 151.2949,
+      "rightX" : 519.1198,
+      "topY" : 139.2949,
+      "baseLineY" : 148.5599,
+      "fontId" : 4,
+      "text" : "Beyond gaining familiarity with the functions of the system, there are few formal "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 165.0949,
+      "rightX" : 491.64,
+      "topY" : 153.0949,
+      "baseLineY" : 162.3599,
+      "fontId" : 4,
+      "text" : "training or certification requirements for MFH Servicing officials using MINC. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 191.0038,
+      "rightX" : 96,
+      "topY" : 179.0038,
+      "baseLineY" : 188.1599,
+      "fontId" : 3,
+      "text" : "3.3   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 191.0038,
+      "rightX" : 485.04,
+      "topY" : 179.0038,
+      "baseLineY" : 188.1599,
+      "fontId" : 3,
+      "text" : "AUTOMATED MULTI-FAMILY HOUSING ACCOUNTING SYSTEM "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 216.8038,
+      "rightX" : 257.4,
+      "topY" : 204.8038,
+      "baseLineY" : 213.9599,
+      "fontId" : 3,
+      "text" : "A.  Purpose and Capabilities "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 242.4949,
+      "rightX" : 532.9198,
+      "topY" : 230.4949,
+      "baseLineY" : 239.7599,
+      "fontId" : 4,
+      "text" : "AMAS maintains loan account information, tracks loan status, and disburses project "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 256.2948,
+      "rightX" : 533.1599,
+      "topY" : 244.2948,
+      "baseLineY" : 253.5599,
+      "fontId" : 4,
+      "text" : "subsidy.  AMAS has been operational since 1985 and is located on the U.S. Department "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 270.0948,
+      "rightX" : 534.3597,
+      "topY" : 258.0948,
+      "baseLineY" : 267.3599,
+      "fontId" : 4,
+      "text" : "of Agriculture (USDA) Kansas City mainframe.  The Systems Development Division in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 283.8948,
+      "rightX" : 253.44,
+      "topY" : 271.8948,
+      "baseLineY" : 281.1599,
+      "fontId" : 4,
+      "text" : "St. Louis administers AMAS. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 309.6948,
+      "rightX" : 532.1998,
+      "topY" : 297.6948,
+      "baseLineY" : 306.9598,
+      "fontId" : 4,
+      "text" : "AMAS is the Agency’s primary financial accounting system.  Any data relating to a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 323.4948,
+      "rightX" : 538.7999,
+      "topY" : 311.4948,
+      "baseLineY" : 320.7598,
+      "fontId" : 4,
+      "text" : "borrower’s account (e.g., payment amount, payment due date, account status) are tracked "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 337.2948,
+      "rightX" : 482.1598,
+      "topY" : 325.2948,
+      "baseLineY" : 334.5598,
+      "fontId" : 4,
+      "text" : "using AMAS.  In addition, payment entry, verification, and reconciliation are "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 351.0948,
+      "rightX" : 246.72,
+      "topY" : 339.0948,
+      "baseLineY" : 348.3598,
+      "fontId" : 4,
+      "text" : "accomplished using AMAS. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 377.0037,
+      "rightX" : 235.68,
+      "topY" : 365.0037,
+      "baseLineY" : 374.1598,
+      "fontId" : 3,
+      "text" : "B.  Staff Responsibilities "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 402.6947,
+      "rightX" : 466.68,
+      "topY" : 390.6947,
+      "baseLineY" : 399.9598,
+      "fontId" : 4,
+      "text" : "Agency staff using AMAS are responsible for the following activities: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 428.8749,
+      "rightX" : 113.52,
+      "topY" : 416.8749,
+      "baseLineY" : 426.7198,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 429.5769,
+      "rightX" : 116.856,
+      "topY" : 417.5769,
+      "baseLineY" : 426.7198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 429.4548,
+      "rightX" : 337.92,
+      "topY" : 417.4548,
+      "baseLineY" : 426.7198,
+      "fontId" : 4,
+      "text" : "Closing loans, including reamortized loans; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 455.5149,
+      "rightX" : 113.52,
+      "topY" : 443.5149,
+      "baseLineY" : 453.3598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 456.2169,
+      "rightX" : 116.856,
+      "topY" : 444.2169,
+      "baseLineY" : 453.3598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 456.0948,
+      "rightX" : 238.32,
+      "topY" : 444.0948,
+      "baseLineY" : 453.3598,
+      "fontId" : 4,
+      "text" : "Disbursing loan funds; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 482.1549,
+      "rightX" : 113.52,
+      "topY" : 470.1549,
+      "baseLineY" : 479.9998,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 482.857,
+      "rightX" : 116.856,
+      "topY" : 470.857,
+      "baseLineY" : 479.9998,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 482.7348,
+      "rightX" : 480.84,
+      "topY" : 470.7348,
+      "baseLineY" : 479.9998,
+      "fontId" : 4,
+      "text" : "Determining note, rental assistance, and interest credit payment amounts; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 508.7949,
+      "rightX" : 113.52,
+      "topY" : 496.7949,
+      "baseLineY" : 506.6398,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 509.497,
+      "rightX" : 116.856,
+      "topY" : 497.497,
+      "baseLineY" : 506.6398,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 509.3748,
+      "rightX" : 285.36,
+      "topY" : 497.3748,
+      "baseLineY" : 506.6398,
+      "fontId" : 4,
+      "text" : "Determining payment due dates; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 535.5549,
+      "rightX" : 113.52,
+      "topY" : 523.5549,
+      "baseLineY" : 533.3998,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 536.257,
+      "rightX" : 116.856,
+      "topY" : 524.257,
+      "baseLineY" : 533.3998,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 536.1348,
+      "rightX" : 285.96,
+      "topY" : 524.1348,
+      "baseLineY" : 533.3998,
+      "fontId" : 4,
+      "text" : "Verify loan payment processing; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 562.075,
+      "rightX" : 113.52,
+      "topY" : 550.075,
+      "baseLineY" : 559.9199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 562.777,
+      "rightX" : 116.856,
+      "topY" : 550.777,
+      "baseLineY" : 559.9199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 562.6548,
+      "rightX" : 526.4398,
+      "topY" : 550.6548,
+      "baseLineY" : 559.9199,
+      "fontId" : 4,
+      "text" : "Converting accounts from Daily Interest Accrual System (DIAS) to Predetermined "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 576.4548,
+      "rightX" : 321.24,
+      "topY" : 564.4548,
+      "baseLineY" : 573.7198,
+      "fontId" : 4,
+      "text" : "Amortization Schedule System (PASS); "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 602.635,
+      "rightX" : 113.52,
+      "topY" : 590.635,
+      "baseLineY" : 600.4799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 603.337,
+      "rightX" : 116.856,
+      "topY" : 591.337,
+      "baseLineY" : 600.4799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 603.2148,
+      "rightX" : 354.6,
+      "topY" : 591.2148,
+      "baseLineY" : 600.4799,
+      "fontId" : 4,
+      "text" : "Determining current loan balances for transfer; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 629.275,
+      "rightX" : 113.52,
+      "topY" : 617.275,
+      "baseLineY" : 627.1199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 629.977,
+      "rightX" : 116.856,
+      "topY" : 617.977,
+      "baseLineY" : 627.1199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 629.8548,
+      "rightX" : 237,
+      "topY" : 617.8548,
+      "baseLineY" : 627.1199,
+      "fontId" : 4,
+      "text" : "Obligating loan funds; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 655.9149,
+      "rightX" : 113.52,
+      "topY" : 643.9149,
+      "baseLineY" : 653.7598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 656.617,
+      "rightX" : 116.856,
+      "topY" : 644.617,
+      "baseLineY" : 653.7598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 656.4948,
+      "rightX" : 410.88,
+      "topY" : 644.4948,
+      "baseLineY" : 653.7598,
+      "fontId" : 4,
+      "text" : "Adjusting accounts in response to unauthorized assistance; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 682.5549,
+      "rightX" : 113.52,
+      "topY" : 670.5549,
+      "baseLineY" : 680.3998,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 683.257,
+      "rightX" : 116.856,
+      "topY" : 671.257,
+      "baseLineY" : 680.3998,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 683.1348,
+      "rightX" : 354.6,
+      "topY" : 671.1348,
+      "baseLineY" : 680.3998,
+      "fontId" : 4,
+      "text" : "Processing recaptured unauthorized assistance; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 709.315,
+      "rightX" : 113.52,
+      "topY" : 697.315,
+      "baseLineY" : 707.1599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 710.017,
+      "rightX" : 116.856,
+      "topY" : 698.017,
+      "baseLineY" : 707.1599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 709.8948,
+      "rightX" : 342.6,
+      "topY" : 697.8948,
+      "baseLineY" : 707.1599,
+      "fontId" : 4,
+      "text" : "Adjusting accounts for interest rate changes; "
+    }, {
+      "leftX" : 296.88,
+      "bottomY" : 760.5592,
+      "rightX" : 312.69,
+      "topY" : 750.5592,
+      "baseLineY" : 758.28,
+      "fontId" : 1,
+      "text" : "3-4 "
+    }, {
+      "leftX" : 532.8,
+      "bottomY" : 783.9591,
+      "rightX" : 537.8099,
+      "topY" : 773.9591,
+      "baseLineY" : 781.68,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.2751,
+      "rightX" : 113.52,
+      "topY" : 74.2751,
+      "baseLineY" : 84.12,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.9771,
+      "rightX" : 116.856,
+      "topY" : 74.9771,
+      "baseLineY" : 84.12,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.855,
+      "rightX" : 256.92,
+      "topY" : 74.855,
+      "baseLineY" : 84.12,
+      "fontId" : 4,
+      "text" : "Tracking rental assistance; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 112.9151,
+      "rightX" : 113.52,
+      "topY" : 100.9151,
+      "baseLineY" : 110.76,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 113.6172,
+      "rightX" : 116.856,
+      "topY" : 101.6172,
+      "baseLineY" : 110.76,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 113.495,
+      "rightX" : 379.32,
+      "topY" : 101.495,
+      "baseLineY" : 110.76,
+      "fontId" : 4,
+      "text" : "Tracking inventory property status and acquisitions; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.5551,
+      "rightX" : 113.52,
+      "topY" : 127.5551,
+      "baseLineY" : 137.4,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 140.2572,
+      "rightX" : 116.856,
+      "topY" : 128.2572,
+      "baseLineY" : 137.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 140.135,
+      "rightX" : 467.88,
+      "topY" : 128.135,
+      "baseLineY" : 137.4,
+      "fontId" : 4,
+      "text" : "Tracking Servicing Office and overall Agency loan and subsidy totals; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.3151,
+      "rightX" : 113.52,
+      "topY" : 154.3151,
+      "baseLineY" : 164.16,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 167.0172,
+      "rightX" : 116.856,
+      "topY" : 155.0172,
+      "baseLineY" : 164.16,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 166.895,
+      "rightX" : 375.96,
+      "topY" : 154.895,
+      "baseLineY" : 164.16,
+      "fontId" : 4,
+      "text" : "Tracking and correcting account discrepancies; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.9552,
+      "rightX" : 113.52,
+      "topY" : 180.9552,
+      "baseLineY" : 190.8,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 193.6572,
+      "rightX" : 116.856,
+      "topY" : 181.6572,
+      "baseLineY" : 190.8,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 193.535,
+      "rightX" : 296.4,
+      "topY" : 181.535,
+      "baseLineY" : 190.8,
+      "fontId" : 4,
+      "text" : "Tracking account payment history. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 219.324,
+      "rightX" : 367.32,
+      "topY" : 207.324,
+      "baseLineY" : 216.48,
+      "fontId" : 3,
+      "text" : "C.  Staff Training and Certification Requirements "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 245.015,
+      "rightX" : 517.8,
+      "topY" : 233.015,
+      "baseLineY" : 242.28,
+      "fontId" : 4,
+      "text" : "MFH Servicing officials must be certified by the Leadership Designee to process "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 258.815,
+      "rightX" : 535.3199,
+      "topY" : 246.815,
+      "baseLineY" : 256.08,
+      "fontId" : 4,
+      "text" : "payments in AMAS.  The AMAS Coordinator is responsible for the payment processing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 272.615,
+      "rightX" : 534.3601,
+      "topY" : 260.615,
+      "baseLineY" : 269.88,
+      "fontId" : 4,
+      "text" : "certification process and will make recommendations to the Leadership Designee, based "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 286.415,
+      "rightX" : 532.7999,
+      "topY" : 274.415,
+      "baseLineY" : 283.68,
+      "fontId" : 4,
+      "text" : "on certification examination.  Uncertified staff may access the view-only screens within "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 300.2149,
+      "rightX" : 319.56,
+      "topY" : 288.2149,
+      "baseLineY" : 297.48,
+      "fontId" : 4,
+      "text" : "the system, but cannot alter any of the data. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 325.802,
+      "rightX" : 121.8,
+      "topY" : 314.802,
+      "baseLineY" : 323.28,
+      "fontId" : 9,
+      "text" : "1.  "
+    }, {
+      "leftX" : 121.8,
+      "bottomY" : 326.0313,
+      "rightX" : 230.76,
+      "topY" : 314.0313,
+      "baseLineY" : 323.28,
+      "fontId" : 10,
+      "text" : "Basic Skills Required "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 351.815,
+      "rightX" : 510.1173,
+      "topY" : 339.815,
+      "baseLineY" : 349.08,
+      "fontId" : 4,
+      "text" : "The basic areas a Loan Servicer must master to receive certification include the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.6149,
+      "rightX" : 161.04,
+      "topY" : 353.6149,
+      "baseLineY" : 362.88,
+      "fontId" : 4,
+      "text" : "following: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 391.7951,
+      "rightX" : 113.52,
+      "topY" : 379.7951,
+      "baseLineY" : 389.64,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 392.4971,
+      "rightX" : 116.856,
+      "topY" : 380.4971,
+      "baseLineY" : 389.64,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 392.375,
+      "rightX" : 524.52,
+      "topY" : 380.375,
+      "baseLineY" : 389.64,
+      "fontId" : 4,
+      "text" : "The employee must successfully review and process payments for three call dates; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 418.3151,
+      "rightX" : 113.52,
+      "topY" : 406.3151,
+      "baseLineY" : 416.16,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 419.0171,
+      "rightX" : 116.856,
+      "topY" : 407.0171,
+      "baseLineY" : 416.16,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 418.8949,
+      "rightX" : 527.8798,
+      "topY" : 406.8949,
+      "baseLineY" : 416.16,
+      "fontId" : 4,
+      "text" : "The employee must understand the process for verifying that payment processed in "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 432.6949,
+      "rightX" : 328.32,
+      "topY" : 420.6949,
+      "baseLineY" : 429.96,
+      "fontId" : 4,
+      "text" : "MFIS is updated correctly in AMAS; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 458.7551,
+      "rightX" : 113.52,
+      "topY" : 446.7551,
+      "baseLineY" : 456.6,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 459.4571,
+      "rightX" : 116.856,
+      "topY" : 447.4571,
+      "baseLineY" : 456.6,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 459.3349,
+      "rightX" : 539.8798,
+      "topY" : 447.3349,
+      "baseLineY" : 456.6,
+      "fontId" : 4,
+      "text" : "For offices on the wholesale lockbox system, the employee must properly prepare the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 473.1349,
+      "rightX" : 542.0385,
+      "topY" : 461.1349,
+      "baseLineY" : 470.4,
+      "fontId" : 4,
+      "text" : "Field Office Remittance Reconciliation Report and all related forms for submission to "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 486.9349,
+      "rightX" : 239.28,
+      "topY" : 474.9349,
+      "baseLineY" : 484.2,
+      "fontId" : 4,
+      "text" : "the wholesale lockbox. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 512.522,
+      "rightX" : 121.8,
+      "topY" : 501.522,
+      "baseLineY" : 510,
+      "fontId" : 9,
+      "text" : "2.  "
+    }, {
+      "leftX" : 121.8,
+      "bottomY" : 512.7513,
+      "rightX" : 311.04,
+      "topY" : 500.7513,
+      "baseLineY" : 510,
+      "fontId" : 10,
+      "text" : "Procedures for Certification Training "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 538.535,
+      "rightX" : 394.68,
+      "topY" : 526.535,
+      "baseLineY" : 535.8,
+      "fontId" : 4,
+      "text" : "The procedures for certification training are as follows: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 564.5951,
+      "rightX" : 113.52,
+      "topY" : 552.5951,
+      "baseLineY" : 562.44,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 565.2971,
+      "rightX" : 116.856,
+      "topY" : 553.2971,
+      "baseLineY" : 562.44,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 565.175,
+      "rightX" : 526.08,
+      "topY" : 553.175,
+      "baseLineY" : 562.44,
+      "fontId" : 4,
+      "text" : "The employee will be trained by the AMAS Coordinator, or by a qualified Agency "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 578.975,
+      "rightX" : 397.92,
+      "topY" : 566.975,
+      "baseLineY" : 576.24,
+      "fontId" : 4,
+      "text" : "employee.  The training must cover the following areas: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 605.1551,
+      "rightX" : 131.928,
+      "topY" : 593.1551,
+      "baseLineY" : 603,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 605.8571,
+      "rightX" : 135.216,
+      "topY" : 593.8571,
+      "baseLineY" : 603,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 605.735,
+      "rightX" : 184.2,
+      "topY" : 593.735,
+      "baseLineY" : 603,
+      "fontId" : 4,
+      "text" : "Release "
+    }, {
+      "leftX" : 184.2,
+      "bottomY" : 605.7699,
+      "rightX" : 273,
+      "topY" : 593.7699,
+      "baseLineY" : 603,
+      "fontId" : 5,
+      "text" : "Form RD 3560-29"
+    }, {
+      "leftX" : 273,
+      "bottomY" : 605.735,
+      "rightX" : 387.6,
+      "topY" : 593.735,
+      "baseLineY" : 603,
+      "fontId" : 4,
+      "text" : " for borrower’s review; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 631.9151,
+      "rightX" : 131.928,
+      "topY" : 619.9151,
+      "baseLineY" : 629.76,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 632.6172,
+      "rightX" : 135.216,
+      "topY" : 620.6172,
+      "baseLineY" : 629.76,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 632.495,
+      "rightX" : 448.92,
+      "topY" : 620.495,
+      "baseLineY" : 629.76,
+      "fontId" : 4,
+      "text" : "Reviewing and processing the borrower’s payment transmittal; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 658.5551,
+      "rightX" : 131.928,
+      "topY" : 646.5551,
+      "baseLineY" : 656.4,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 659.2571,
+      "rightX" : 135.216,
+      "topY" : 647.2571,
+      "baseLineY" : 656.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 659.1349,
+      "rightX" : 331.6801,
+      "topY" : 647.1349,
+      "baseLineY" : 656.4,
+      "fontId" : 4,
+      "text" : "Establish and maintain PAD accounts; "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 685.1951,
+      "rightX" : 131.9281,
+      "topY" : 673.1951,
+      "baseLineY" : 683.04,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.8801,
+      "bottomY" : 685.8971,
+      "rightX" : 135.2161,
+      "topY" : 673.8971,
+      "baseLineY" : 683.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 685.7749,
+      "rightX" : 309.9601,
+      "topY" : 673.7749,
+      "baseLineY" : 683.04,
+      "fontId" : 4,
+      "text" : "Understanding the payment logic; "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 711.8351,
+      "rightX" : 131.9281,
+      "topY" : 699.8351,
+      "baseLineY" : 709.68,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.8801,
+      "bottomY" : 712.5371,
+      "rightX" : 135.2161,
+      "topY" : 700.5371,
+      "baseLineY" : 709.68,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 712.415,
+      "rightX" : 405.6001,
+      "topY" : 700.415,
+      "baseLineY" : 709.68,
+      "fontId" : 4,
+      "text" : "Signing onto the AMAS Cash System (AMAS-CSH); "
+    }, {
+      "leftX" : 71.9964,
+      "bottomY" : 756.1239,
+      "rightX" : 74.4864,
+      "topY" : 746.1239,
+      "baseLineY" : 753.8447,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 301.8,
+      "bottomY" : 751.0791,
+      "rightX" : 317.61,
+      "topY" : 741.0791,
+      "baseLineY" : 748.8,
+      "fontId" : 1,
+      "text" : "3-5 "
+    }, {
+      "leftX" : 79.2,
+      "bottomY" : 762.5991,
+      "rightX" : 162.8042,
+      "topY" : 752.5991,
+      "baseLineY" : 760.32,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.2751,
+      "rightX" : 131.928,
+      "topY" : 74.2751,
+      "baseLineY" : 84.12,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 86.9771,
+      "rightX" : 135.216,
+      "topY" : 74.9771,
+      "baseLineY" : 84.12,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 86.855,
+      "rightX" : 444.6,
+      "topY" : 74.855,
+      "baseLineY" : 84.12,
+      "fontId" : 4,
+      "text" : "Inputting regular payments and special collections into MFIS; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 112.9151,
+      "rightX" : 131.928,
+      "topY" : 100.9151,
+      "baseLineY" : 110.76,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 113.6172,
+      "rightX" : 135.216,
+      "topY" : 101.6172,
+      "baseLineY" : 110.76,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 113.495,
+      "rightX" : 377.6399,
+      "topY" : 101.495,
+      "baseLineY" : 110.76,
+      "fontId" : 4,
+      "text" : "Handle any pending transactions in AMAS; and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 139.5551,
+      "rightX" : 131.928,
+      "topY" : 127.5551,
+      "baseLineY" : 137.4,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 140.2572,
+      "rightX" : 135.216,
+      "topY" : 128.2572,
+      "baseLineY" : 137.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 140.135,
+      "rightX" : 472.8,
+      "topY" : 128.135,
+      "baseLineY" : 137.4,
+      "fontId" : 4,
+      "text" : "Submitting checks, cash, and accounting data to the Finance Office. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.1951,
+      "rightX" : 113.52,
+      "topY" : 154.1951,
+      "baseLineY" : 164.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 166.8972,
+      "rightX" : 116.856,
+      "topY" : 154.8972,
+      "baseLineY" : 164.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 166.775,
+      "rightX" : 540.8398,
+      "topY" : 154.775,
+      "baseLineY" : 164.04,
+      "fontId" : 4,
+      "text" : "The trainee will make copies of all the records related to preparing the test collections "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 180.575,
+      "rightX" : 515.7598,
+      "topY" : 168.575,
+      "baseLineY" : 177.84,
+      "fontId" : 4,
+      "text" : "and will include them in an envelope as if they were being mailed to the Finance "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 194.375,
+      "rightX" : 537.8374,
+      "topY" : 182.375,
+      "baseLineY" : 191.64,
+      "fontId" : 4,
+      "text" : "Office.  The envelope will be marked “Payment Certification for (trainee name)” and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 208.175,
+      "rightX" : 307.92,
+      "topY" : 196.175,
+      "baseLineY" : 205.44,
+      "fontId" : 4,
+      "text" : "submitted to the AMAS Coordinator. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 233.762,
+      "rightX" : 121.8,
+      "topY" : 222.762,
+      "baseLineY" : 231.24,
+      "fontId" : 9,
+      "text" : "3.  "
+    }, {
+      "leftX" : 121.8,
+      "bottomY" : 233.9913,
+      "rightX" : 290.04,
+      "topY" : 221.9913,
+      "baseLineY" : 231.24,
+      "fontId" : 10,
+      "text" : "Recommendation of Certification "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 259.7749,
+      "rightX" : 517.7998,
+      "topY" : 247.7749,
+      "baseLineY" : 257.04,
+      "fontId" : 4,
+      "text" : "The AMAS Coordinator will review the balanced blocks and the accounting data "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.5749,
+      "rightX" : 502.0798,
+      "topY" : 261.5749,
+      "baseLineY" : 270.84,
+      "fontId" : 4,
+      "text" : "envelope prepared for the examination.  When the employee has demonstrated an "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 287.3749,
+      "rightX" : 506.5198,
+      "topY" : 275.3749,
+      "baseLineY" : 284.64,
+      "fontId" : 4,
+      "text" : "understanding of the payment process and proficiency in all steps listed above, the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 301.1749,
+      "rightX" : 510.4798,
+      "topY" : 289.1749,
+      "baseLineY" : 298.4399,
+      "fontId" : 4,
+      "text" : "AMAS Coordinator will recommend certification to the Leadership Designee.  The "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 314.9749,
+      "rightX" : 237,
+      "topY" : 302.9749,
+      "baseLineY" : 312.2399,
+      "fontId" : 4,
+      "text" : "Leadership Designee will: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 341.035,
+      "rightX" : 113.52,
+      "topY" : 329.035,
+      "baseLineY" : 338.8799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 341.7371,
+      "rightX" : 116.856,
+      "topY" : 329.7371,
+      "baseLineY" : 338.8799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 341.6149,
+      "rightX" : 526.1998,
+      "topY" : 329.6149,
+      "baseLineY" : 338.8799,
+      "fontId" : 4,
+      "text" : "Instruct the IRM to notify the Security Officer in the Finance Office to add AMAS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 355.4149,
+      "rightX" : 450.9598,
+      "topY" : 343.4149,
+      "baseLineY" : 352.6799,
+      "fontId" : 4,
+      "text" : "payment process to the employee’s user identification number; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 381.475,
+      "rightX" : 113.52,
+      "topY" : 369.475,
+      "baseLineY" : 379.3199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 382.1771,
+      "rightX" : 116.856,
+      "topY" : 370.1771,
+      "baseLineY" : 379.3199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 382.0549,
+      "rightX" : 529.5597,
+      "topY" : 370.0549,
+      "baseLineY" : 379.3199,
+      "fontId" : 4,
+      "text" : "Notify the Loan Servicer and employee, by letter, of the employee’s certification to "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 395.8549,
+      "rightX" : 499.1997,
+      "topY" : 383.8549,
+      "baseLineY" : 393.1199,
+      "fontId" : 4,
+      "text" : "process payments.  The letter must list the possible reasons for withdrawal of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 409.6549,
+      "rightX" : 189.96,
+      "topY" : 397.6549,
+      "baseLineY" : 406.9199,
+      "fontId" : 4,
+      "text" : "certification. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 435.242,
+      "rightX" : 121.8,
+      "topY" : 424.242,
+      "baseLineY" : 432.72,
+      "fontId" : 9,
+      "text" : "4.  "
+    }, {
+      "leftX" : 121.8,
+      "bottomY" : 435.4713,
+      "rightX" : 284.76,
+      "topY" : 423.4713,
+      "baseLineY" : 432.72,
+      "fontId" : 10,
+      "text" : "Monitoring Payment Processing "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 461.255,
+      "rightX" : 518.8785,
+      "topY" : 449.255,
+      "baseLineY" : 458.52,
+      "fontId" : 4,
+      "text" : "After certification, the AMAS Coordinator will periodically monitor Field Office "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 475.0549,
+      "rightX" : 508.4398,
+      "topY" : 463.0549,
+      "baseLineY" : 472.32,
+      "fontId" : 4,
+      "text" : "payment processing activities to ensure that payments are being input properly and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 488.8549,
+      "rightX" : 540.48,
+      "topY" : 476.8549,
+      "baseLineY" : 486.12,
+      "fontId" : 4,
+      "text" : "verified.  For newly certified employees, monitoring should be daily for a 30-day period.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 502.655,
+      "rightX" : 502.9198,
+      "topY" : 490.655,
+      "baseLineY" : 499.92,
+      "fontId" : 4,
+      "text" : "For experienced employees, monitoring should be no less than monthly, provided "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 516.4549,
+      "rightX" : 529.5598,
+      "topY" : 504.4549,
+      "baseLineY" : 513.72,
+      "fontId" : 4,
+      "text" : "monitoring reports do not indicate any of the problems that could lead to withdrawal of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 530.255,
+      "rightX" : 171.96,
+      "topY" : 518.255,
+      "baseLineY" : 527.52,
+      "fontId" : 4,
+      "text" : "certification. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 556.055,
+      "rightX" : 510.4798,
+      "topY" : 544.055,
+      "baseLineY" : 553.32,
+      "fontId" : 4,
+      "text" : "A log of each monitoring activity should be kept by the AMAS Coordinator for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 569.855,
+      "rightX" : 211.32,
+      "topY" : 557.855,
+      "baseLineY" : 567.12,
+      "fontId" : 4,
+      "text" : "documentation using "
+    }, {
+      "leftX" : 211.32,
+      "bottomY" : 569.8899,
+      "rightX" : 527.3998,
+      "topY" : 557.8899,
+      "baseLineY" : 567.12,
+      "fontId" : 5,
+      "text" : "Form RD 3560-64, Online Payment Certification Monitoring Log"
+    }, {
+      "leftX" : 527.3998,
+      "bottomY" : 569.855,
+      "rightX" : 533.28,
+      "topY" : 557.855,
+      "baseLineY" : 567.12,
+      "fontId" : 4,
+      "text" : ". "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 595.442,
+      "rightX" : 121.8,
+      "topY" : 584.442,
+      "baseLineY" : 592.92,
+      "fontId" : 9,
+      "text" : "5.  "
+    }, {
+      "leftX" : 121.8,
+      "bottomY" : 595.6713,
+      "rightX" : 359.52,
+      "topY" : 583.6713,
+      "baseLineY" : 592.92,
+      "fontId" : 10,
+      "text" : "Withdrawal of Certification and Recertification "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 621.4549,
+      "rightX" : 498.8386,
+      "topY" : 609.4549,
+      "baseLineY" : 618.72,
+      "fontId" : 4,
+      "text" : "Certification may be withdrawn from an employee if the effective date of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 635.255,
+      "rightX" : 488.5199,
+      "topY" : 623.255,
+      "baseLineY" : 632.52,
+      "fontId" : 4,
+      "text" : "payment and the call date differ by more than 3 days and there is not sufficient "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 649.055,
+      "rightX" : 542.7599,
+      "topY" : 637.055,
+      "baseLineY" : 646.32,
+      "fontId" : 4,
+      "text" : "justification (e.g., office was closed on the regularly scheduled work day that the payment "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 662.855,
+      "rightX" : 529.2,
+      "topY" : 650.855,
+      "baseLineY" : 660.12,
+      "fontId" : 4,
+      "text" : "was received; weekend and holidays caused a 3-day delay before the payment could be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 676.655,
+      "rightX" : 165.36,
+      "topY" : 664.655,
+      "baseLineY" : 673.92,
+      "fontId" : 4,
+      "text" : "processed). "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 702.455,
+      "rightX" : 504.4799,
+      "topY" : 690.455,
+      "baseLineY" : 699.72,
+      "fontId" : 4,
+      "text" : "After the third occurrence of any of the above errors in a 12-month period, the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 716.255,
+      "rightX" : 494.6398,
+      "topY" : 704.255,
+      "baseLineY" : 713.52,
+      "fontId" : 4,
+      "text" : "Leadership Designee will notify the Loan Servicer and employee in writing that "
+    }, {
+      "leftX" : 296.88,
+      "bottomY" : 760.5592,
+      "rightX" : 312.69,
+      "topY" : 750.5592,
+      "baseLineY" : 758.28,
+      "fontId" : 1,
+      "text" : "3-6 "
+    }, {
+      "leftX" : 74.28,
+      "bottomY" : 777.9591,
+      "rightX" : 76.77,
+      "topY" : 767.9591,
+      "baseLineY" : 775.68,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 85.8949,
+      "rightX" : 512.3999,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "certification may be withdrawn.  The notice will include plans and requirements for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.6949,
+      "rightX" : 196.32,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : "remedial training. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 125.4949,
+      "rightX" : 533.6419,
+      "topY" : 113.4949,
+      "baseLineY" : 122.7599,
+      "fontId" : 4,
+      "text" : "The Leadership Designee will withdraw certification after the fourth occurrence in a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.2949,
+      "rightX" : 520.5599,
+      "topY" : 127.2949,
+      "baseLineY" : 136.5599,
+      "fontId" : 4,
+      "text" : "12-month period of any of the above errors.  The Leadership Designee will notify the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.095,
+      "rightX" : 531.1199,
+      "topY" : 141.095,
+      "baseLineY" : 150.36,
+      "fontId" : 4,
+      "text" : "Loan Servicer and employee in writing, with a copy to the IRM for the State.  The IRM "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.8949,
+      "rightX" : 535.1998,
+      "topY" : 154.8949,
+      "baseLineY" : 164.16,
+      "fontId" : 4,
+      "text" : "will notify the Security Office in the Finance Office to remove online payment authority "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 180.6949,
+      "rightX" : 320.04,
+      "topY" : 168.6949,
+      "baseLineY" : 177.96,
+      "fontId" : 4,
+      "text" : "from the employee’s identification number. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 206.282,
+      "rightX" : 121.8,
+      "topY" : 195.282,
+      "baseLineY" : 203.76,
+      "fontId" : 9,
+      "text" : "6.  "
+    }, {
+      "leftX" : 121.8,
+      "bottomY" : 206.5113,
+      "rightX" : 178.08,
+      "topY" : 194.5113,
+      "baseLineY" : 203.76,
+      "fontId" : 10,
+      "text" : "Retraining "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 232.295,
+      "rightX" : 530.1598,
+      "topY" : 220.295,
+      "baseLineY" : 229.56,
+      "fontId" : 4,
+      "text" : "An employee should be retrained immediately when a payment processing problem "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 246.095,
+      "rightX" : 516.8398,
+      "topY" : 234.095,
+      "baseLineY" : 243.36,
+      "fontId" : 4,
+      "text" : "occurs as a result of an employee error.  This training should cover the areas causing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.8949,
+      "rightX" : 500.5198,
+      "topY" : 247.8949,
+      "baseLineY" : 257.16,
+      "fontId" : 4,
+      "text" : "problems and should prevent recurrence of the error.  After certification has been "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.6949,
+      "rightX" : 507.4797,
+      "topY" : 261.6949,
+      "baseLineY" : 270.96,
+      "fontId" : 4,
+      "text" : "withdrawn, the Leadership Designee must determine whether it is desirable for the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 287.4949,
+      "rightX" : 530.1599,
+      "topY" : 275.4949,
+      "baseLineY" : 284.7599,
+      "fontId" : 4,
+      "text" : "employee to process payments.  If so, the retraining should be performed immediately.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 301.2949,
+      "rightX" : 497.5198,
+      "topY" : 289.2949,
+      "baseLineY" : 298.5599,
+      "fontId" : 4,
+      "text" : "The employee may be recertified if retraining has been completed, the employee "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 315.0949,
+      "rightX" : 489.4799,
+      "topY" : 303.0949,
+      "baseLineY" : 312.3599,
+      "fontId" : 4,
+      "text" : "demonstrates the necessary skills to process payments, the AMAS Coordinator "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 328.8949,
+      "rightX" : 430.92,
+      "topY" : 316.8949,
+      "baseLineY" : 326.1599,
+      "fontId" : 4,
+      "text" : "recommends recertification, and the Leadership Designee concurs. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 354.8038,
+      "rightX" : 96,
+      "topY" : 342.8038,
+      "baseLineY" : 351.9599,
+      "fontId" : 3,
+      "text" : "3.4   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 354.8038,
+      "rightX" : 352.0801,
+      "topY" : 342.8038,
+      "baseLineY" : 351.9599,
+      "fontId" : 3,
+      "text" : "MULTI-FAMILY INFORMATION SYSTEM  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 380.6038,
+      "rightX" : 257.4,
+      "topY" : 368.6038,
+      "baseLineY" : 377.7599,
+      "fontId" : 3,
+      "text" : "A.  Purpose and Capabilities "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 406.2948,
+      "rightX" : 508.6799,
+      "topY" : 394.2948,
+      "baseLineY" : 403.5599,
+      "fontId" : 4,
+      "text" : "MFIS assists MFH Servicing officials in monitoring the Multi-Family Housing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 420.0948,
+      "rightX" : 532.6797,
+      "topY" : 408.0948,
+      "baseLineY" : 417.3599,
+      "fontId" : 4,
+      "text" : "program, maintains data on clients, and provides comprehensive and flexible reporting.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 433.8948,
+      "rightX" : 537.2398,
+      "topY" : 421.8948,
+      "baseLineY" : 431.1599,
+      "fontId" : 4,
+      "text" : "MFIS was designed to improve management and supervision routines of MFH Servicing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 447.6948,
+      "rightX" : 525.96,
+      "topY" : 435.6948,
+      "baseLineY" : 444.9598,
+      "fontId" : 4,
+      "text" : "officials.  It is the monitoring and scheduling system used by the Agency and provides "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 461.4948,
+      "rightX" : 479.2797,
+      "topY" : 449.4948,
+      "baseLineY" : 458.7598,
+      "fontId" : 4,
+      "text" : "the analytical tools to review budgets and financial information.  MFIS has a "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 475.2948,
+      "rightX" : 542.2784,
+      "topY" : 463.2948,
+      "baseLineY" : 472.5598,
+      "fontId" : 4,
+      "text" : "classification system that uses information entered during normal supervisory activities to "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 489.0948,
+      "rightX" : 382.3198,
+      "topY" : 477.0948,
+      "baseLineY" : 486.3598,
+      "fontId" : 4,
+      "text" : "identify projects needing additional servicing attention.   "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 514.8948,
+      "rightX" : 537.8397,
+      "topY" : 502.8948,
+      "baseLineY" : 512.1598,
+      "fontId" : 4,
+      "text" : "MFIS is used by the Agency to track tenant data, and it is employed mainly to ensure "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 528.6947,
+      "rightX" : 520.1997,
+      "topY" : 516.6947,
+      "baseLineY" : 525.9598,
+      "fontId" : 4,
+      "text" : "that each tenant receives the correct amount of subsidy.  MFIS uses the tenant data to "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 542.4947,
+      "rightX" : 503.0385,
+      "topY" : 530.4947,
+      "baseLineY" : 539.7598,
+      "fontId" : 4,
+      "text" : "calculate tenant rents and rental assistance, which drive many subsequent account "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 556.2948,
+      "rightX" : 519.3561,
+      "topY" : 544.2948,
+      "baseLineY" : 553.5598,
+      "fontId" : 4,
+      "text" : "servicing activities.  MFIS is also the source for occupancy statistics used to describe "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 570.0948,
+      "rightX" : 330.2399,
+      "topY" : 558.0948,
+      "baseLineY" : 567.3598,
+      "fontId" : 4,
+      "text" : "Multi-Family Housing program beneficiaries. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 595.8948,
+      "rightX" : 502.1998,
+      "topY" : 583.8948,
+      "baseLineY" : 593.1598,
+      "fontId" : 4,
+      "text" : "MFIS is the primary tool used by the Agency to track the status of borrowers’ "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 609.6947,
+      "rightX" : 524.3998,
+      "topY" : 597.6947,
+      "baseLineY" : 606.9598,
+      "fontId" : 4,
+      "text" : "compliance with loan agreements and all other program requirements.  Account status "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 623.4947,
+      "rightX" : 524.9999,
+      "topY" : 611.4947,
+      "baseLineY" : 620.7598,
+      "fontId" : 4,
+      "text" : "data from AMAS are transferred to MFIS, where MFH Servicing officials use them to "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 637.2948,
+      "rightX" : 507.3597,
+      "topY" : 625.2948,
+      "baseLineY" : 634.5598,
+      "fontId" : 4,
+      "text" : "monitor the status of borrower compliance.  For instance, the system holds data on "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 651.0948,
+      "rightX" : 545.8797,
+      "topY" : 639.0948,
+      "baseLineY" : 648.3598,
+      "fontId" : 4,
+      "text" : "project classification based on compliance status (i.e., Classification codes A, B, C, or D).  "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 664.8948,
+      "rightX" : 536.7599,
+      "topY" : 652.8948,
+      "baseLineY" : 662.1598,
+      "fontId" : 4,
+      "text" : "In addition, the system tracks the status of project budgets (i.e., when they are due, when "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 678.6948,
+      "rightX" : 341.2799,
+      "topY" : 666.6948,
+      "baseLineY" : 675.9598,
+      "fontId" : 4,
+      "text" : "they are received, and when they are approved). "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 704.4948,
+      "rightX" : 538.9198,
+      "topY" : 692.4948,
+      "baseLineY" : 701.7598,
+      "fontId" : 4,
+      "text" : "The goal of using MFIS for tracking is to identify borrower compliance violations, as "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 718.2948,
+      "rightX" : 519.1198,
+      "topY" : 706.2948,
+      "baseLineY" : 715.5598,
+      "fontId" : 4,
+      "text" : "well as to track the status of servicing letters, workout agreements, and other Agency "
+    }, {
+      "leftX" : 294.6,
+      "bottomY" : 746.0391,
+      "rightX" : 310.4065,
+      "topY" : 736.0391,
+      "baseLineY" : 743.76,
+      "fontId" : 1,
+      "text" : "3-7 "
+    }, {
+      "leftX" : 71.9964,
+      "bottomY" : 756.1239,
+      "rightX" : 74.4864,
+      "topY" : 746.1239,
+      "baseLineY" : 753.8447,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 757.6792,
+      "rightX" : 155.6042,
+      "topY" : 747.6792,
+      "baseLineY" : 755.4,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 85.8949,
+      "rightX" : 539.1599,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "servicing actions.  For instance, MFIS tracks the 15-day period for responses to servicing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.6949,
+      "rightX" : 541.0801,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : "letters or monitoring letters and alerts staff to the need for follow-up when that period has "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 113.4949,
+      "rightX" : 150,
+      "topY" : 101.4949,
+      "baseLineY" : 110.7599,
+      "fontId" : 4,
+      "text" : "expired. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 139.2949,
+      "rightX" : 524.1599,
+      "topY" : 127.2949,
+      "baseLineY" : 136.5599,
+      "fontId" : 4,
+      "text" : "MFIS also is used to track each team’s performance in meeting Agency goals, and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.0949,
+      "rightX" : 519.4797,
+      "topY" : 141.0949,
+      "baseLineY" : 150.3599,
+      "fontId" : 4,
+      "text" : "evaluates those teams that may need additional assistance in determining solutions to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.8949,
+      "rightX" : 541.3201,
+      "topY" : 154.8949,
+      "baseLineY" : 164.1599,
+      "fontId" : 4,
+      "text" : "problem accounts and the effectiveness of actions previously taken.  The Agency uses the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 180.6949,
+      "rightX" : 495.3598,
+      "topY" : 168.6949,
+      "baseLineY" : 177.9599,
+      "fontId" : 4,
+      "text" : "information from MFIS in monthly staff meetings and to provide information to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 194.4949,
+      "rightX" : 519.1185,
+      "topY" : 182.4949,
+      "baseLineY" : 191.7599,
+      "fontId" : 4,
+      "text" : "borrowers.  MFIS allows for timely assembly of this information with minimal effort "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 208.2948,
+      "rightX" : 270.72,
+      "topY" : 196.2948,
+      "baseLineY" : 205.5599,
+      "fontId" : 4,
+      "text" : "from the MFH Servicing official. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 234.0948,
+      "rightX" : 511.5598,
+      "topY" : 222.0948,
+      "baseLineY" : 231.3599,
+      "fontId" : 4,
+      "text" : "All regular borrower payments are processed through MFIS.  MFIS maintains a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 247.8948,
+      "rightX" : 286.68,
+      "topY" : 235.8948,
+      "baseLineY" : 245.1599,
+      "fontId" : 4,
+      "text" : "collection history for each borrower. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.8038,
+      "rightX" : 274.32,
+      "topY" : 261.8038,
+      "baseLineY" : 270.9598,
+      "fontId" : 3,
+      "text" : "B.  Major Components of MFIS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 299.4948,
+      "rightX" : 523.5599,
+      "topY" : 287.4948,
+      "baseLineY" : 296.7598,
+      "fontId" : 4,
+      "text" : "The MFIS home page displays icons that each represents a Web page of their own "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 313.2948,
+      "rightX" : 514.6797,
+      "topY" : 301.2948,
+      "baseLineY" : 310.5598,
+      "fontId" : 4,
+      "text" : "that link to each other and are capable of interacting by accessing the data contained "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 327.0948,
+      "rightX" : 516.4799,
+      "topY" : 315.0948,
+      "baseLineY" : 324.3598,
+      "fontId" : 4,
+      "text" : "therein.  The five main icons a MFH Servicing official should be concerned with are "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 340.8948,
+      "rightX" : 535.9199,
+      "topY" : 328.8948,
+      "baseLineY" : 338.1598,
+      "fontId" : 4,
+      "text" : "Projects, Project Payments, Customers, Reports, Electronic Transmissions, and Message "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 354.6947,
+      "rightX" : 512.916,
+      "topY" : 342.6947,
+      "baseLineY" : 351.9598,
+      "fontId" : 4,
+      "text" : "Board.  Each web page contains links for data input and analysis of important multi-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 368.4947,
+      "rightX" : 476.2798,
+      "topY" : 356.4947,
+      "baseLineY" : 365.7598,
+      "fontId" : 4,
+      "text" : "family housing portfolio issues such as borrower compliance with their loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 382.2947,
+      "rightX" : 534.3597,
+      "topY" : 370.2947,
+      "baseLineY" : 379.5598,
+      "fontId" : 4,
+      "text" : "agreement/resolution, management efficiency, financial stability, occupancy trends, rent "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 396.0947,
+      "rightX" : 510.4786,
+      "topY" : 384.0947,
+      "baseLineY" : 393.3597,
+      "fontId" : 4,
+      "text" : "structures, and identities-of-interest, as well as program strengths and deficiencies.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 409.8947,
+      "rightX" : 519.5999,
+      "topY" : 397.8947,
+      "baseLineY" : 407.1597,
+      "fontId" : 4,
+      "text" : "Moreover, MFIS archives a history of the multi-family housing portfolio nationwide, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 423.6947,
+      "rightX" : 524.0398,
+      "topY" : 411.6947,
+      "baseLineY" : 420.9597,
+      "fontId" : 4,
+      "text" : "providing information necessary for determining the need for program changes and/or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 437.4947,
+      "rightX" : 302.28,
+      "topY" : 425.4947,
+      "baseLineY" : 434.7597,
+      "fontId" : 4,
+      "text" : "enhancements as well as funding needs. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 463.5548,
+      "rightX" : 113.52,
+      "topY" : 451.5548,
+      "baseLineY" : 461.3997,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 464.2569,
+      "rightX" : 116.856,
+      "topY" : 452.2569,
+      "baseLineY" : 461.3997,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 464.2436,
+      "rightX" : 176.88,
+      "topY" : 452.2436,
+      "baseLineY" : 461.3997,
+      "fontId" : 3,
+      "text" : "Projects.  "
+    }, {
+      "leftX" : 176.88,
+      "bottomY" : 464.1347,
+      "rightX" : 544.4398,
+      "topY" : 452.1347,
+      "baseLineY" : 461.3997,
+      "fontId" : 4,
+      "text" : "This page is used when working on information specific to a single project.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 477.9347,
+      "rightX" : 511.7998,
+      "topY" : 465.9347,
+      "baseLineY" : 475.1997,
+      "fontId" : 4,
+      "text" : "It contains the data on the borrower, management agent, project tenants, type of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 491.7347,
+      "rightX" : 542.402,
+      "topY" : 479.7347,
+      "baseLineY" : 488.9997,
+      "fontId" : 4,
+      "text" : "project, and the like.  Basically it contains all information that was formerly contained "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 505.5346,
+      "rightX" : 537.7198,
+      "topY" : 493.5346,
+      "baseLineY" : 502.7997,
+      "fontId" : 4,
+      "text" : "on the Management Card System for each project.  Any incorrect information on this "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 519.3346,
+      "rightX" : 338.8799,
+      "topY" : 507.3346,
+      "baseLineY" : 516.5997,
+      "fontId" : 4,
+      "text" : "page could lead to improper calculations on "
+    }, {
+      "leftX" : 338.8799,
+      "bottomY" : 519.3696,
+      "rightX" : 430.56,
+      "topY" : 507.3696,
+      "baseLineY" : 516.5997,
+      "fontId" : 5,
+      "text" : "Form RD 3560-29,"
+    }, {
+      "leftX" : 430.56,
+      "bottomY" : 519.3346,
+      "rightX" : 433.56,
+      "topY" : 507.3346,
+      "baseLineY" : 516.5997,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 433.56,
+      "bottomY" : 519.3696,
+      "rightX" : 525.24,
+      "topY" : 507.3696,
+      "baseLineY" : 516.5997,
+      "fontId" : 5,
+      "text" : "Notice of Payment "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 533.1696,
+      "rightX" : 181.536,
+      "topY" : 521.1696,
+      "baseLineY" : 530.3997,
+      "fontId" : 5,
+      "text" : "Due Report"
+    }, {
+      "leftX" : 181.56,
+      "bottomY" : 533.1346,
+      "rightX" : 527.2797,
+      "topY" : 521.1346,
+      "baseLineY" : 530.3997,
+      "fontId" : 4,
+      "text" : ", that the borrower uses to make their monthly/annual installment from, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 546.9346,
+      "rightX" : 319.2,
+      "topY" : 534.9346,
+      "baseLineY" : 544.1996,
+      "fontId" : 4,
+      "text" : "thus causing unnecessary delinquencies."
+    }, {
+      "leftX" : 319.32,
+      "bottomY" : 546.9696,
+      "rightX" : 322.32,
+      "topY" : 534.9696,
+      "baseLineY" : 544.1996,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 572.7346,
+      "rightX" : 504.2398,
+      "topY" : 560.7346,
+      "baseLineY" : 569.9996,
+      "fontId" : 4,
+      "text" : "The Projects page is also where the Agency maintains information concerning "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 586.5346,
+      "rightX" : 531.96,
+      "topY" : 574.5346,
+      "baseLineY" : 583.7997,
+      "fontId" : 4,
+      "text" : "borrower/management agent compliance with Agency regulations.  One link on this "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 600.3346,
+      "rightX" : 538.4399,
+      "topY" : 588.3346,
+      "baseLineY" : 597.5997,
+      "fontId" : 4,
+      "text" : "page is Supervisory Activities.  Supervisory Activities, when properly populated, can "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 614.1346,
+      "rightX" : 517.1986,
+      "topY" : 602.1346,
+      "baseLineY" : 611.3997,
+      "fontId" : 4,
+      "text" : "serve as an excellent tickler system to let the MFH Servicing official know when "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 627.9347,
+      "rightX" : 500.6398,
+      "topY" : 615.9347,
+      "baseLineY" : 625.1997,
+      "fontId" : 4,
+      "text" : "action is needed on their part.  The same is true for the link Servicing Efforts, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 641.7347,
+      "rightX" : 523.1999,
+      "topY" : 629.7347,
+      "baseLineY" : 638.9997,
+      "fontId" : 4,
+      "text" : "Findings, Financial Instruments, and Rents.  When all components are analyzed, a "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 655.5346,
+      "rightX" : 500.8798,
+      "topY" : 643.5346,
+      "baseLineY" : 652.7997,
+      "fontId" : 4,
+      "text" : "clear and concise picture of the needs of the project can easily be determined. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 681.5948,
+      "rightX" : 113.52,
+      "topY" : 669.5948,
+      "baseLineY" : 679.4397,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 682.2968,
+      "rightX" : 116.856,
+      "topY" : 670.2968,
+      "baseLineY" : 679.4397,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 682.2836,
+      "rightX" : 225.2401,
+      "topY" : 670.2836,
+      "baseLineY" : 679.4397,
+      "fontId" : 3,
+      "text" : "Project Payments.  "
+    }, {
+      "leftX" : 225.2401,
+      "bottomY" : 682.1747,
+      "rightX" : 503.8799,
+      "topY" : 670.1747,
+      "baseLineY" : 679.4397,
+      "fontId" : 4,
+      "text" : "This page is used to perform activities related to payment "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 695.9747,
+      "rightX" : 527.28,
+      "topY" : 683.9747,
+      "baseLineY" : 693.2397,
+      "fontId" : 4,
+      "text" : "processing.  These functions include scheduling the release of Form Rd 3560-29 to "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 709.7746,
+      "rightX" : 529.7999,
+      "topY" : 697.7746,
+      "baseLineY" : 707.0397,
+      "fontId" : 4,
+      "text" : "borrowers, processing payments, and review payments.  In addition, users can view "
+    }, {
+      "leftX" : 296.88,
+      "bottomY" : 760.5592,
+      "rightX" : 312.69,
+      "topY" : 750.5592,
+      "baseLineY" : 758.28,
+      "fontId" : 1,
+      "text" : "3-8 "
+    }, {
+      "leftX" : 74.28,
+      "bottomY" : 777.9591,
+      "rightX" : 76.77,
+      "topY" : 767.9591,
+      "baseLineY" : 775.68,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 85.8949,
+      "rightX" : 539.0398,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "and make adjustments for a specific pay period, monitor uncollectible returns, review "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 99.6949,
+      "rightX" : 538.6798,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : "and edit RA Obligations tracking for projects receiving RA units due to an obligation "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 113.4949,
+      "rightX" : 518.7599,
+      "topY" : 101.4949,
+      "baseLineY" : 110.7599,
+      "fontId" : 4,
+      "text" : "or transfer of units.  The Project Payments page can be a very valuable tool when "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 127.2949,
+      "rightX" : 539.2797,
+      "topY" : 115.2949,
+      "baseLineY" : 124.5599,
+      "fontId" : 4,
+      "text" : "evaluating the feasibility of various servicing actions, providing collection history for "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 141.0949,
+      "rightX" : 300,
+      "topY" : 129.0949,
+      "baseLineY" : 138.3599,
+      "fontId" : 4,
+      "text" : "a specific project at any given time. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 167.155,
+      "rightX" : 113.52,
+      "topY" : 155.155,
+      "baseLineY" : 164.9999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 167.8571,
+      "rightX" : 116.856,
+      "topY" : 155.8571,
+      "baseLineY" : 164.9999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 167.8439,
+      "rightX" : 184.32,
+      "topY" : 155.8439,
+      "baseLineY" : 164.9999,
+      "fontId" : 3,
+      "text" : "Customers."
+    }, {
+      "leftX" : 184.32,
+      "bottomY" : 167.7349,
+      "rightX" : 535.32,
+      "topY" : 155.7349,
+      "baseLineY" : 164.9999,
+      "fontId" : 4,
+      "text" : "  This page should be used when working on information across projects "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 181.5349,
+      "rightX" : 540.1199,
+      "topY" : 169.5349,
+      "baseLineY" : 178.7999,
+      "fontId" : 4,
+      "text" : "or specific only to the borrower, key member, or management agent.  This is the page "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 195.3349,
+      "rightX" : 539.6399,
+      "topY" : 183.3349,
+      "baseLineY" : 192.5999,
+      "fontId" : 4,
+      "text" : "used to enter the key members of the borrower and management agent.  It also allows "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 209.1349,
+      "rightX" : 514.0786,
+      "topY" : 197.1349,
+      "baseLineY" : 206.3999,
+      "fontId" : 4,
+      "text" : "the user to access all of the projects managed by a particular management agent, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 222.9349,
+      "rightX" : 413.28,
+      "topY" : 210.9349,
+      "baseLineY" : 220.1999,
+      "fontId" : 4,
+      "text" : "enabling an identical change to multiple projects with ease. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 248.995,
+      "rightX" : 113.52,
+      "topY" : 236.995,
+      "baseLineY" : 246.8399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 249.697,
+      "rightX" : 116.856,
+      "topY" : 237.697,
+      "baseLineY" : 246.8399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 249.6838,
+      "rightX" : 172.56,
+      "topY" : 237.6838,
+      "baseLineY" : 246.8399,
+      "fontId" : 3,
+      "text" : "Reports. "
+    }, {
+      "leftX" : 172.56,
+      "bottomY" : 249.5749,
+      "rightX" : 516.2399,
+      "topY" : 237.5749,
+      "baseLineY" : 246.8399,
+      "fontId" : 4,
+      "text" : " This page contains predesigned reports by category, such as borrower, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 263.3749,
+      "rightX" : 502.3198,
+      "topY" : 251.3749,
+      "baseLineY" : 260.6399,
+      "fontId" : 4,
+      "text" : "financials, findings, management agent, project, project summary, tenant, and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 277.1748,
+      "rightX" : 523.3199,
+      "topY" : 265.1748,
+      "baseLineY" : 274.4399,
+      "fontId" : 4,
+      "text" : "tracking.  Under each category, several different reports that may be generated are "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 290.9748,
+      "rightX" : 533.5198,
+      "topY" : 278.9748,
+      "baseLineY" : 288.2399,
+      "fontId" : 4,
+      "text" : "listed.  The user is allowed to complete various data fields to allow one to zero in on "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 304.7748,
+      "rightX" : 327.84,
+      "topY" : 292.7748,
+      "baseLineY" : 302.0399,
+      "fontId" : 4,
+      "text" : "the particular information that is desired.  "
+    }, {
+      "leftX" : 327.84,
+      "bottomY" : 304.8098,
+      "rightX" : 530.5198,
+      "topY" : 292.8098,
+      "baseLineY" : 302.0399,
+      "fontId" : 5,
+      "text" : "The accuracy of these reports is based on "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 318.6098,
+      "rightX" : 506.2798,
+      "topY" : 306.6098,
+      "baseLineY" : 315.8398,
+      "fontId" : 5,
+      "text" : "the information that has been input into the Projects and Customer Web pages."
+    }, {
+      "leftX" : 506.2798,
+      "bottomY" : 318.5748,
+      "rightX" : 509.2798,
+      "topY" : 306.5748,
+      "baseLineY" : 315.8398,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 344.635,
+      "rightX" : 113.52,
+      "topY" : 332.635,
+      "baseLineY" : 342.4799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 345.337,
+      "rightX" : 116.856,
+      "topY" : 333.337,
+      "baseLineY" : 342.4799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 345.3238,
+      "rightX" : 264.7187,
+      "topY" : 333.3238,
+      "baseLineY" : 342.4799,
+      "fontId" : 3,
+      "text" : "Electronic Transmissions.  "
+    }, {
+      "leftX" : 264.7187,
+      "bottomY" : 345.2148,
+      "rightX" : 528.5986,
+      "topY" : 333.2148,
+      "baseLineY" : 342.4799,
+      "fontId" : 4,
+      "text" : "This page allows the MFIS user to view the individual "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 359.0148,
+      "rightX" : 528.1138,
+      "topY" : 347.0148,
+      "baseLineY" : 356.2798,
+      "fontId" : 4,
+      "text" : "transactions that have been electronically transmitted by the borrower/management "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 372.8148,
+      "rightX" : 540.9598,
+      "topY" : 360.8148,
+      "baseLineY" : 370.0798,
+      "fontId" : 4,
+      "text" : "agent.  It is an important tool in assisting the borrower/management agent in correctly "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 386.6148,
+      "rightX" : 514.32,
+      "topY" : 374.6148,
+      "baseLineY" : 383.8798,
+      "fontId" : 4,
+      "text" : "transmitting the data necessary to reflect the correct tenant and/or financial data. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 412.6749,
+      "rightX" : 113.52,
+      "topY" : 400.6749,
+      "baseLineY" : 410.5198,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 413.377,
+      "rightX" : 116.856,
+      "topY" : 401.377,
+      "baseLineY" : 410.5198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 413.3638,
+      "rightX" : 213.24,
+      "topY" : 401.3638,
+      "baseLineY" : 410.5198,
+      "fontId" : 3,
+      "text" : "Message Board.  "
+    }, {
+      "leftX" : 213.24,
+      "bottomY" : 413.2548,
+      "rightX" : 506.8798,
+      "topY" : 401.2548,
+      "baseLineY" : 410.5198,
+      "fontId" : 4,
+      "text" : "Below the icons for the individual Web pages is a link to the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 427.0548,
+      "rightX" : 522.8399,
+      "topY" : 415.0548,
+      "baseLineY" : 424.3198,
+      "fontId" : 4,
+      "text" : "message board.  Each user of MFIS is encouraged to view the message board on a "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 440.8548,
+      "rightX" : 543.2399,
+      "topY" : 428.8548,
+      "baseLineY" : 438.1198,
+      "fontId" : 4,
+      "text" : "regular basis.  This shows information on changes that have been made to the system.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 454.6548,
+      "rightX" : 505.1998,
+      "topY" : 442.6548,
+      "baseLineY" : 451.9198,
+      "fontId" : 4,
+      "text" : "Step-by-step instructions for the input of all requested and/or required data are "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 468.4548,
+      "rightX" : 496.3198,
+      "topY" : 456.4548,
+      "baseLineY" : 465.7198,
+      "fontId" : 4,
+      "text" : "provided in the training manuals that are accessible from the message board. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 494.3637,
+      "rightX" : 236.4,
+      "topY" : 482.3637,
+      "baseLineY" : 491.5198,
+      "fontId" : 3,
+      "text" : "C.  Staff Responsibilities "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 520.0547,
+      "rightX" : 540.2398,
+      "topY" : 508.0547,
+      "baseLineY" : 517.3198,
+      "fontId" : 4,
+      "text" : "MFH Servicing officials are responsible for populating all data fields contained in the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 533.8547,
+      "rightX" : 536.8798,
+      "topY" : 521.8547,
+      "baseLineY" : 531.1198,
+      "fontId" : 4,
+      "text" : "MFIS system with accurate and current information.  The upgrading of the MFIS system "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 547.6547,
+      "rightX" : 533.8796,
+      "topY" : 535.6547,
+      "baseLineY" : 544.9197,
+      "fontId" : 4,
+      "text" : "is an ongoing process.  It is extremely important that the information contained in MFIS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 561.4547,
+      "rightX" : 450.48,
+      "topY" : 549.4547,
+      "baseLineY" : 558.7197,
+      "fontId" : 4,
+      "text" : "III for each borrower/management agent/project be input and accurate. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 587.3637,
+      "rightX" : 96,
+      "topY" : 575.3637,
+      "baseLineY" : 584.5198,
+      "fontId" : 3,
+      "text" : "3.5   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 587.3637,
+      "rightX" : 391.32,
+      "topY" : 575.3637,
+      "baseLineY" : 584.5198,
+      "fontId" : 3,
+      "text" : "PREPAYMENT TRACKING AND CONCURRENCE "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 613.0547,
+      "rightX" : 527.2798,
+      "topY" : 601.0547,
+      "baseLineY" : 610.3198,
+      "fontId" : 4,
+      "text" : "Pre-Trac is a Web-based automated application that allows the Agency to significantly "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 626.8547,
+      "rightX" : 534.6,
+      "topY" : 614.8547,
+      "baseLineY" : 624.1198,
+      "fontId" : 4,
+      "text" : "reduce the reporting burden required to process and monitor Multi-Family Housing prepayment "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 640.6548,
+      "rightX" : 539.7599,
+      "topY" : 628.6548,
+      "baseLineY" : 637.9198,
+      "fontId" : 4,
+      "text" : "activity.  This means that the Agency enters prepayment-tracking information once for use by all "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 654.4548,
+      "rightX" : 535.68,
+      "topY" : 642.4548,
+      "baseLineY" : 651.7198,
+      "fontId" : 4,
+      "text" : "administrative levels.  The Agency uses Pre-Trac to process all prepayment requests to meet the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 668.2547,
+      "rightX" : 532.6798,
+      "topY" : 656.2547,
+      "baseLineY" : 665.5198,
+      "fontId" : 4,
+      "text" : "Agency’s requirements.  Pre-Trac is designed to lead the user through the statutorily prescribed "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 682.0547,
+      "rightX" : 179.64,
+      "topY" : 670.0547,
+      "baseLineY" : 679.3198,
+      "fontId" : 4,
+      "text" : "prepayment process.   "
+    }, {
+      "leftX" : 301.8,
+      "bottomY" : 743.8791,
+      "rightX" : 317.6065,
+      "topY" : 733.8791,
+      "baseLineY" : 741.6,
+      "fontId" : 1,
+      "text" : "3-9 "
+    }, {
+      "leftX" : 71.9964,
+      "bottomY" : 756.1239,
+      "rightX" : 74.4864,
+      "topY" : 746.1239,
+      "baseLineY" : 753.8447,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 79.2,
+      "bottomY" : 755.3991,
+      "rightX" : 162.8042,
+      "topY" : 745.3991,
+      "baseLineY" : 753.12,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 10,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 85.8949,
+      "rightX" : 483.4799,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "The Portfolio Management Branch uses Pre-Trac to issue all concurrence and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.6949,
+      "rightX" : 532.4399,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : "authorizations of incentives to avert prepayment, and equity loans and prepayments.  The MFH "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 113.4949,
+      "rightX" : 532.7999,
+      "topY" : 101.4949,
+      "baseLineY" : 110.7599,
+      "fontId" : 4,
+      "text" : "Servicing official can view prepayment status and will complete the final prepayment servicing "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 127.2949,
+      "rightX" : 488.6399,
+      "topY" : 115.2949,
+      "baseLineY" : 124.5599,
+      "fontId" : 4,
+      "text" : "steps using PreTrac.  See Chapter 15 for more detailed information on using Pre-Trac. "
+    }, {
+      "leftX" : 71.9998,
+      "bottomY" : 153.2039,
+      "rightX" : 95.9998,
+      "topY" : 141.2039,
+      "baseLineY" : 150.3599,
+      "fontId" : 3,
+      "text" : "3.6   "
+    }, {
+      "leftX" : 107.9998,
+      "bottomY" : 153.2039,
+      "rightX" : 262.0798,
+      "topY" : 141.2039,
+      "baseLineY" : 150.3599,
+      "fontId" : 3,
+      "text" : "FURTHER INFORMATION "
+    }, {
+      "leftX" : 107.9998,
+      "bottomY" : 178.8949,
+      "rightX" : 526.9172,
+      "topY" : 166.8949,
+      "baseLineY" : 176.1599,
+      "fontId" : 4,
+      "text" : "Because there is a detailed users’ manual for each of the Agency’s automated systems, "
+    }, {
+      "leftX" : 71.9998,
+      "bottomY" : 192.6949,
+      "rightX" : 523.4397,
+      "topY" : 180.6949,
+      "baseLineY" : 189.9599,
+      "fontId" : 4,
+      "text" : "the discussion provided here is intended to be more of a basic introduction to the systems and "
+    }, {
+      "leftX" : 71.9998,
+      "bottomY" : 206.4949,
+      "rightX" : 515.7598,
+      "topY" : 194.4949,
+      "baseLineY" : 203.7599,
+      "fontId" : 4,
+      "text" : "their uses and requirements than an exhaustive step-by-step tutorial.  Agency staff requiring "
+    }, {
+      "leftX" : 71.9998,
+      "bottomY" : 220.2948,
+      "rightX" : 524.0396,
+      "topY" : 208.2948,
+      "baseLineY" : 217.5599,
+      "fontId" : 4,
+      "text" : "more detailed information on any of the automated systems should refer to the relevant users’ "
+    }, {
+      "leftX" : 71.9998,
+      "bottomY" : 234.0948,
+      "rightX" : 113.2798,
+      "topY" : 222.0948,
+      "baseLineY" : 231.3599,
+      "fontId" : 4,
+      "text" : "manual. "
+    }, {
+      "leftX" : 300.36,
+      "bottomY" : 718.1991,
+      "rightX" : 321.2062,
+      "topY" : 708.1991,
+      "baseLineY" : 715.92,
+      "fontId" : 1,
+      "text" : "3-10 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 11.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

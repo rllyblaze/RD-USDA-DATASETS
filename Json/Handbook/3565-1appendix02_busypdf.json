@@ -1,0 +1,914 @@
+{
+  "pdfDoc" : "3565-1appendix02.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 476.46,
+      "bottomY" : 47.6391,
+      "rightX" : 524.4958,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 72.3839,
+      "rightX" : 309,
+      "topY" : 60.3839,
+      "baseLineY" : 69.54,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 270.48,
+      "bottomY" : 86.1839,
+      "rightX" : 344.46,
+      "topY" : 74.1839,
+      "baseLineY" : 83.34,
+      "fontId" : 2,
+      "text" : "APPENDIX 2 "
+    }, {
+      "leftX" : 259.32,
+      "bottomY" : 99.9839,
+      "rightX" : 355.68,
+      "topY" : 87.9839,
+      "baseLineY" : 97.14,
+      "fontId" : 2,
+      "text" : "LIST OF FORMS "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 113.6749,
+      "rightX" : 93,
+      "topY" : 101.6749,
+      "baseLineY" : 110.9399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 127.4749,
+      "rightX" : 495.5398,
+      "topY" : 115.4749,
+      "baseLineY" : 124.7399,
+      "fontId" : 3,
+      "text" : "Below is a list of forms that are mentioned in the text of this handbook.  Since these "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 141.2749,
+      "rightX" : 522.8399,
+      "topY" : 129.2749,
+      "baseLineY" : 138.5399,
+      "fontId" : 3,
+      "text" : "forms may change more frequently than the handbook, users are encouraged to obtain the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 155.0749,
+      "rightX" : 511.6198,
+      "topY" : 143.0749,
+      "baseLineY" : 152.3399,
+      "fontId" : 3,
+      "text" : "most updated copy of these forms from the Rural Development Instructions home page "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 168.8749,
+      "rightX" : 341.34,
+      "topY" : 156.8749,
+      "baseLineY" : 166.1399,
+      "fontId" : 3,
+      "text" : "(http://rdinit.usda.gov/regs) for their own reference. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 182.6148,
+      "rightX" : 93,
+      "topY" : 170.6148,
+      "baseLineY" : 179.8799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 196.4498,
+      "rightX" : 196.32,
+      "topY" : 184.4498,
+      "baseLineY" : 193.6799,
+      "fontId" : 4,
+      "text" : "AIA Document A-101 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 210.2498,
+      "rightX" : 184.98,
+      "topY" : 198.2498,
+      "baseLineY" : 207.4799,
+      "fontId" : 4,
+      "text" : "AIA Document 702 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 224.0498,
+      "rightX" : 208.38,
+      "topY" : 212.0498,
+      "baseLineY" : 221.2798,
+      "fontId" : 4,
+      "text" : "ASTM Standard E-1527 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 237.8498,
+      "rightX" : 356.328,
+      "topY" : 225.8498,
+      "baseLineY" : 235.0798,
+      "fontId" : 4,
+      "text" : "Form RD 449-30, Loan Note Guarantee Report of Loss"
+    }, {
+      "leftX" : 356.28,
+      "bottomY" : 237.8498,
+      "rightX" : 359.28,
+      "topY" : 225.8498,
+      "baseLineY" : 235.0798,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 251.6497,
+      "rightX" : 292.92,
+      "topY" : 239.6497,
+      "baseLineY" : 248.8798,
+      "fontId" : 4,
+      "text" : "Form RD 451-2, Schedule of Remittances "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 265.4497,
+      "rightX" : 520.3199,
+      "topY" : 253.4497,
+      "baseLineY" : 262.6798,
+      "fontId" : 4,
+      "text" : "Form RD 1910-11, Applicant Certification, Federal Collection Policies for Consumer or "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 279.2497,
+      "rightX" : 201.36,
+      "topY" : 267.2497,
+      "baseLineY" : 276.4798,
+      "fontId" : 4,
+      "text" : "Commercial Debts "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 293.0497,
+      "rightX" : 376.6201,
+      "topY" : 281.0497,
+      "baseLineY" : 290.2798,
+      "fontId" : 4,
+      "text" : "Form RD 1924-13, Estimate and Certificate of Actual Cost "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 306.8497,
+      "rightX" : 379.86,
+      "topY" : 294.8497,
+      "baseLineY" : 304.0798,
+      "fontId" : 4,
+      "text" : "Form RD 1924-16, Record of Pre-Construction Conference "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 320.6497,
+      "rightX" : 274.62,
+      "topY" : 308.6497,
+      "baseLineY" : 317.8798,
+      "fontId" : 4,
+      "text" : "Form RD 1924-25, Plan Certification "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 334.4497,
+      "rightX" : 432.6,
+      "topY" : 322.4497,
+      "baseLineY" : 331.6797,
+      "fontId" : 4,
+      "text" : "Form RD 1940-3, Request for Obligation of Funds, Guaranteed Loans "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 348.2497,
+      "rightX" : 377.28,
+      "topY" : 336.2497,
+      "baseLineY" : 345.4797,
+      "fontId" : 4,
+      "text" : "Form RD 1940-20, Request for Environmental Information "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 362.0496,
+      "rightX" : 493.5599,
+      "topY" : 350.0496,
+      "baseLineY" : 359.2797,
+      "fontId" : 4,
+      "text" : "Form RD 1940-21, Environmental Assessment for Class I Action; or Exhibit H, RD "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 375.8496,
+      "rightX" : 93,
+      "topY" : 363.8496,
+      "baseLineY" : 373.0797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 375.8496,
+      "rightX" : 456.06,
+      "topY" : 363.8496,
+      "baseLineY" : 373.0797,
+      "fontId" : 4,
+      "text" : "Instruction 1940-G, Environmental Assessment for Class II Actions  "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 389.6496,
+      "rightX" : 438.9,
+      "topY" : 377.6496,
+      "baseLineY" : 386.8797,
+      "fontId" : 4,
+      "text" : "Form RD 1940-22, Environmental Checklist for Categorical Exclusions "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 403.4496,
+      "rightX" : 361.62,
+      "topY" : 391.4496,
+      "baseLineY" : 400.6797,
+      "fontId" : 4,
+      "text" : "Form RD 1944-37, Previous Participation Certification "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 417.2496,
+      "rightX" : 348.6,
+      "topY" : 405.2496,
+      "baseLineY" : 414.4797,
+      "fontId" : 4,
+      "text" : "Form RD 1980-19, Guaranteed Loan Closing Report "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 431.0496,
+      "rightX" : 520.2598,
+      "topY" : 419.0496,
+      "baseLineY" : 428.2797,
+      "fontId" : 4,
+      "text" : "Form RD  1980-24, Request Interest Assistance/Interest Rate Buydown/Subsidy Payment "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 444.8496,
+      "rightX" : 245.34,
+      "topY" : 432.8496,
+      "baseLineY" : 442.0797,
+      "fontId" : 4,
+      "text" : "to Guaranteed Loan Lender "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 458.6496,
+      "rightX" : 381.96,
+      "topY" : 446.6496,
+      "baseLineY" : 455.8796,
+      "fontId" : 4,
+      "text" : "Form RD 1980-37, Purchase of a Guaranteed Loan Portion "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 472.4496,
+      "rightX" : 340.62,
+      "topY" : 460.4496,
+      "baseLineY" : 469.6796,
+      "fontId" : 4,
+      "text" : "Form RD 1980-41, Guaranteed Loan Status Report "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 486.2495,
+      "rightX" : 409.32,
+      "topY" : 474.2495,
+      "baseLineY" : 483.4796,
+      "fontId" : 4,
+      "text" : "Form RD 1980-43, Lender’s Guaranteed Loan Payment to USDA "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 500.0495,
+      "rightX" : 393.6,
+      "topY" : 488.0495,
+      "baseLineY" : 497.2796,
+      "fontId" : 4,
+      "text" : "Form RD 1980-44, Guaranteed Loan Borrower Default Status "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 513.8495,
+      "rightX" : 388.92,
+      "topY" : 501.8495,
+      "baseLineY" : 511.0796,
+      "fontId" : 4,
+      "text" : "Form RD 2006-38, Civil Rights Impact Analysis Certification "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 527.6495,
+      "rightX" : 472.9799,
+      "topY" : 515.6495,
+      "baseLineY" : 524.8796,
+      "fontId" : 4,
+      "text" : "Form RD 3550-6, Notice of Special Flood Hazards, Flood Insurance Purchase "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 541.4495,
+      "rightX" : 444.6,
+      "topY" : 529.4495,
+      "baseLineY" : 538.6796,
+      "fontId" : 4,
+      "text" : "Requirements, and Availability of Federal Disaster Relief Assistance  "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 555.2495,
+      "rightX" : 433.98,
+      "topY" : 543.2495,
+      "baseLineY" : 552.4796,
+      "fontId" : 4,
+      "text" : "Form RD 3555-11, Guaranteed Rural Housing Lender Record Change "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 569.0495,
+      "rightX" : 279.3,
+      "topY" : 557.0495,
+      "baseLineY" : 566.2796,
+      "fontId" : 4,
+      "text" : "Form RD 3560-8, Tenant Certification "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 582.8495,
+      "rightX" : 417.6,
+      "topY" : 570.8495,
+      "baseLineY" : 580.0796,
+      "fontId" : 4,
+      "text" : "Form RD 3560-9, Multi-Family Housing Interest Credit Agreement "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 596.6495,
+      "rightX" : 403.32,
+      "topY" : 584.6495,
+      "baseLineY" : 593.8796,
+      "fontId" : 4,
+      "text" : "Form RD 3560-30, Certification of NO Identify of Interest (IOI)  "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 610.4495,
+      "rightX" : 452.94,
+      "topY" : 598.4495,
+      "baseLineY" : 607.6796,
+      "fontId" : 4,
+      "text" : "Form RD 3560-31, Identity of Interest Disclosure/Qualification Certificate "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 624.2495,
+      "rightX" : 357.66,
+      "topY" : 612.2495,
+      "baseLineY" : 621.4796,
+      "fontId" : 4,
+      "text" : "Form RD 3565-1, Application for Loan and Guarantee "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 638.0495,
+      "rightX" : 303.3,
+      "topY" : 626.0495,
+      "baseLineY" : 635.2796,
+      "fontId" : 4,
+      "text" : "Form RD 3565-2, Conditional Commitment "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 651.8495,
+      "rightX" : 279.3,
+      "topY" : 639.8495,
+      "baseLineY" : 649.0796,
+      "fontId" : 4,
+      "text" : "Form RD 3565-3, Lender’s Agreement "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 665.6146,
+      "rightX" : 93,
+      "topY" : 653.6146,
+      "baseLineY" : 662.8796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 247.68,
+      "bottomY" : 679.4146,
+      "rightX" : 367.32,
+      "topY" : 667.4146,
+      "baseLineY" : 676.6796,
+      "fontId" : 3,
+      "text" : "Appendix 2, Page 1 of 2 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 693.2146,
+      "rightX" : 217.92,
+      "topY" : 681.2146,
+      "baseLineY" : 690.4796,
+      "fontId" : 3,
+      "text" : "(12-18-98)  SPECIAL PN "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 707.0146,
+      "rightX" : 214.92,
+      "topY" : 695.0146,
+      "baseLineY" : 704.2796,
+      "fontId" : 3,
+      "text" : "(12-01-14) SPECIAL PN "
+    }, {
+      "leftX" : 234,
+      "bottomY" : 707.0146,
+      "rightX" : 237,
+      "topY" : 695.0146,
+      "baseLineY" : 704.2796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 270,
+      "bottomY" : 707.0146,
+      "rightX" : 273,
+      "topY" : 695.0146,
+      "baseLineY" : 704.2796,
+      "fontId" : 3,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 72.3099,
+      "rightX" : 147,
+      "topY" : 60.3099,
+      "baseLineY" : 69.54,
+      "fontId" : 4,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 86.1099,
+      "rightX" : 93,
+      "topY" : 74.1099,
+      "baseLineY" : 83.34,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 99.9099,
+      "rightX" : 286.32,
+      "topY" : 87.9099,
+      "baseLineY" : 97.14,
+      "fontId" : 4,
+      "text" : "Form RD 3565-4, Loan Note Guarantee "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 113.7099,
+      "rightX" : 343.2959,
+      "topY" : 101.7099,
+      "baseLineY" : 110.9399,
+      "fontId" : 4,
+      "text" : "Form RD 3565-5, Assignment Guarantee Agreement"
+    }, {
+      "leftX" : 343.32,
+      "bottomY" : 113.6749,
+      "rightX" : 346.32,
+      "topY" : 101.6749,
+      "baseLineY" : 110.9399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 346.26,
+      "bottomY" : 113.7099,
+      "rightX" : 349.26,
+      "topY" : 101.7099,
+      "baseLineY" : 110.9399,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 127.5099,
+      "rightX" : 458.6399,
+      "topY" : 115.5099,
+      "baseLineY" : 124.7399,
+      "fontId" : 4,
+      "text" : "Form AD 1047, Certification Regarding Debarment, Suspension, and Other "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 141.3098,
+      "rightX" : 380.64,
+      "topY" : 129.3098,
+      "baseLineY" : 138.5399,
+      "fontId" : 4,
+      "text" : "Responsibility Matters – Primary Covered Transactions "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 155.1098,
+      "rightX" : 486.6598,
+      "topY" : 143.1098,
+      "baseLineY" : 152.3399,
+      "fontId" : 4,
+      "text" : "Form AD 1048, Certification Regarding Debarment, Suspension, Ineligibility and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 168.9098,
+      "rightX" : 381.408,
+      "topY" : 156.9098,
+      "baseLineY" : 166.1399,
+      "fontId" : 4,
+      "text" : "Voluntary Exclusion – Lower Tier Covered Transactions"
+    }, {
+      "leftX" : 381.36,
+      "bottomY" : 168.8749,
+      "rightX" : 384.36,
+      "topY" : 156.8749,
+      "baseLineY" : 166.1399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 182.6498,
+      "rightX" : 151.644,
+      "topY" : 170.6498,
+      "baseLineY" : 179.8799,
+      "fontId" : 4,
+      "text" : "FEMA Form"
+    }, {
+      "leftX" : 151.62,
+      "bottomY" : 182.6148,
+      "rightX" : 188.64,
+      "topY" : 170.6148,
+      "baseLineY" : 179.8799,
+      "fontId" : 3,
+      "text" : " 81-93, "
+    }, {
+      "leftX" : 188.64,
+      "bottomY" : 182.6498,
+      "rightX" : 376.4399,
+      "topY" : 170.6498,
+      "baseLineY" : 179.8799,
+      "fontId" : 4,
+      "text" : "Standard Flood Hazard Determination"
+    }, {
+      "leftX" : 376.38,
+      "bottomY" : 182.6148,
+      "rightX" : 379.38,
+      "topY" : 170.6148,
+      "baseLineY" : 179.8799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 196.4498,
+      "rightX" : 370.02,
+      "topY" : 184.4498,
+      "baseLineY" : 193.6799,
+      "fontId" : 4,
+      "text" : "Form HUD 935.2, Affirmative Fair Housing Market Plan "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 210.2498,
+      "rightX" : 311.58,
+      "topY" : 198.2498,
+      "baseLineY" : 207.4799,
+      "fontId" : 4,
+      "text" : "Form HUD 9822, Physical Inspection Report "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 224.0498,
+      "rightX" : 312.2999,
+      "topY" : 212.0498,
+      "baseLineY" : 221.2798,
+      "fontId" : 4,
+      "text" : "Form HUD 9832, Management Entity Profile "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 237.8498,
+      "rightX" : 275.0399,
+      "topY" : 225.8498,
+      "baseLineY" : 235.0798,
+      "fontId" : 4,
+      "text" : "Form I-94, Arrival-Departure Record "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 251.6497,
+      "rightX" : 320.64,
+      "topY" : 239.6497,
+      "baseLineY" : 248.8798,
+      "fontId" : 4,
+      "text" : "Form I-551 (or I-151), Alien Registration Card "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 265.4497,
+      "rightX" : 355.5599,
+      "topY" : 253.4497,
+      "baseLineY" : 262.6798,
+      "fontId" : 4,
+      "text" : "RD Instruction 1940-Q Exhibit A-2, Statement of Loan "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 279.2497,
+      "rightX" : 166.98,
+      "topY" : 267.2497,
+      "baseLineY" : 276.4798,
+      "fontId" : 4,
+      "text" : "      Guarantees "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 293.0497,
+      "rightX" : 93,
+      "topY" : 281.0497,
+      "baseLineY" : 290.2798,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 306.8497,
+      "rightX" : 93,
+      "topY" : 294.8497,
+      "baseLineY" : 304.0798,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 320.6497,
+      "rightX" : 93,
+      "topY" : 308.6497,
+      "baseLineY" : 317.8798,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 334.4497,
+      "rightX" : 93,
+      "topY" : 322.4497,
+      "baseLineY" : 331.6797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 348.2497,
+      "rightX" : 93,
+      "topY" : 336.2497,
+      "baseLineY" : 345.4797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 362.0496,
+      "rightX" : 93,
+      "topY" : 350.0496,
+      "baseLineY" : 359.2797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 375.8496,
+      "rightX" : 93,
+      "topY" : 363.8496,
+      "baseLineY" : 373.0797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 389.6496,
+      "rightX" : 93,
+      "topY" : 377.6496,
+      "baseLineY" : 386.8797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 403.4496,
+      "rightX" : 93,
+      "topY" : 391.4496,
+      "baseLineY" : 400.6797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 417.2496,
+      "rightX" : 93,
+      "topY" : 405.2496,
+      "baseLineY" : 414.4797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 431.0496,
+      "rightX" : 93,
+      "topY" : 419.0496,
+      "baseLineY" : 428.2797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 444.8496,
+      "rightX" : 93,
+      "topY" : 432.8496,
+      "baseLineY" : 442.0797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 458.6496,
+      "rightX" : 93,
+      "topY" : 446.6496,
+      "baseLineY" : 455.8796,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 472.4496,
+      "rightX" : 93,
+      "topY" : 460.4496,
+      "baseLineY" : 469.6796,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 486.2495,
+      "rightX" : 93,
+      "topY" : 474.2495,
+      "baseLineY" : 483.4796,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 500.0495,
+      "rightX" : 93,
+      "topY" : 488.0495,
+      "baseLineY" : 497.2796,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 513.8495,
+      "rightX" : 93,
+      "topY" : 501.8495,
+      "baseLineY" : 511.0796,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 527.6495,
+      "rightX" : 93,
+      "topY" : 515.6495,
+      "baseLineY" : 524.8796,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 541.4495,
+      "rightX" : 93,
+      "topY" : 529.4495,
+      "baseLineY" : 538.6796,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 555.2495,
+      "rightX" : 93,
+      "topY" : 543.2495,
+      "baseLineY" : 552.4796,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 569.0495,
+      "rightX" : 93,
+      "topY" : 557.0495,
+      "baseLineY" : 566.2796,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 582.8146,
+      "rightX" : 93,
+      "topY" : 570.8146,
+      "baseLineY" : 580.0796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 596.6145,
+      "rightX" : 93,
+      "topY" : 584.6145,
+      "baseLineY" : 593.8796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 610.4145,
+      "rightX" : 93,
+      "topY" : 598.4145,
+      "baseLineY" : 607.6796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 624.2146,
+      "rightX" : 93,
+      "topY" : 612.2146,
+      "baseLineY" : 621.4796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 638.0146,
+      "rightX" : 93,
+      "topY" : 626.0146,
+      "baseLineY" : 635.2796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 651.8146,
+      "rightX" : 93,
+      "topY" : 639.8146,
+      "baseLineY" : 649.0796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 665.6146,
+      "rightX" : 93,
+      "topY" : 653.6146,
+      "baseLineY" : 662.8796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 679.4146,
+      "rightX" : 93,
+      "topY" : 667.4146,
+      "baseLineY" : 676.6796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 693.2146,
+      "rightX" : 93,
+      "topY" : 681.2146,
+      "baseLineY" : 690.4796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 707.0146,
+      "rightX" : 93,
+      "topY" : 695.0146,
+      "baseLineY" : 704.2796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 720.8146,
+      "rightX" : 93,
+      "topY" : 708.8146,
+      "baseLineY" : 718.0796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 247.68,
+      "bottomY" : 734.6146,
+      "rightX" : 367.32,
+      "topY" : 722.6146,
+      "baseLineY" : 731.8796,
+      "fontId" : 3,
+      "text" : "Appendix 2, Page 2 of 2 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#0000ff"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

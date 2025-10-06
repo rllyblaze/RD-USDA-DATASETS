@@ -1,0 +1,1303 @@
+{
+  "pdfDoc" : "3565-1chapter09.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 467.34,
+      "bottomY" : 85.3814,
+      "rightX" : 525,
+      "topY" : 73.3814,
+      "baseLineY" : 83.04,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 160.2,
+      "bottomY" : 122.7317,
+      "rightX" : 456.0602,
+      "topY" : 108.7317,
+      "baseLineY" : 120,
+      "fontId" : 2,
+      "text" : "CHAPTER 9:  INSURANCE REQUIREMENTS "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 144.1214,
+      "rightX" : 93,
+      "topY" : 132.1214,
+      "baseLineY" : 141.78,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 169.9214,
+      "rightX" : 107.9964,
+      "topY" : 157.9214,
+      "baseLineY" : 167.58,
+      "fontId" : 3,
+      "text" : "9.1 "
+    }, {
+      "leftX" : 125.9964,
+      "bottomY" : 169.9214,
+      "rightX" : 224.9819,
+      "topY" : 157.9214,
+      "baseLineY" : 167.58,
+      "fontId" : 3,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 195.6014,
+      "rightX" : 541.98,
+      "topY" : 183.6014,
+      "baseLineY" : 193.2599,
+      "fontId" : 1,
+      "text" : "Insurance protects the GRRHP loan against                                                                     "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 209.4014,
+      "rightX" : 578.94,
+      "topY" : 197.4014,
+      "baseLineY" : 207.0599,
+      "fontId" : 1,
+      "text" : "loss or damage.  Lenders must review the borrower’s                                                                              "
+    }, {
+      "leftX" : 398.22,
+      "bottomY" : 198.9015,
+      "rightX" : 570.1679,
+      "topY" : 186.9015,
+      "baseLineY" : 196.56,
+      "fontId" : 1,
+      "text" : "KEY TOPICS IN THIS CHAPTER"
+    }, {
+      "leftX" : 570.18,
+      "bottomY" : 198.9015,
+      "rightX" : 573.18,
+      "topY" : 186.9015,
+      "baseLineY" : 196.56,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 223.2014,
+      "rightX" : 526.56,
+      "topY" : 211.2014,
+      "baseLineY" : 220.8599,
+      "fontId" : 1,
+      "text" : "insurance policies to confirm that the coverage is                                                                   "
+    }, {
+      "leftX" : 387,
+      "bottomY" : 219.4071,
+      "rightX" : 392.52,
+      "topY" : 207.4071,
+      "baseLineY" : 217.26,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 392.52,
+      "bottomY" : 219.5288,
+      "rightX" : 395.856,
+      "topY" : 207.5288,
+      "baseLineY" : 217.26,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 401.4,
+      "bottomY" : 219.6015,
+      "rightX" : 496.349,
+      "topY" : 207.6015,
+      "baseLineY" : 217.26,
+      "fontId" : 1,
+      "text" : "Types of Insurance "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 237.0014,
+      "rightX" : 545.58,
+      "topY" : 225.0014,
+      "baseLineY" : 234.6599,
+      "fontId" : 1,
+      "text" : "adequate to protect against financial loss due to                                                                            "
+    }, {
+      "leftX" : 387,
+      "bottomY" : 234.0471,
+      "rightX" : 392.52,
+      "topY" : 222.0471,
+      "baseLineY" : 231.9,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 392.52,
+      "bottomY" : 234.1688,
+      "rightX" : 395.856,
+      "topY" : 222.1688,
+      "baseLineY" : 231.9,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 401.4,
+      "bottomY" : 234.2415,
+      "rightX" : 507.3144,
+      "topY" : 222.2415,
+      "baseLineY" : 231.9,
+      "fontId" : 1,
+      "text" : "Acceptable Coverage "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 250.8014,
+      "rightX" : 577.56,
+      "topY" : 238.8014,
+      "baseLineY" : 248.4599,
+      "fontId" : 1,
+      "text" : "property damage, employee dishonesty or error, and                                                                               "
+    }, {
+      "leftX" : 387,
+      "bottomY" : 248.747,
+      "rightX" : 392.52,
+      "topY" : 236.747,
+      "baseLineY" : 246.6,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 392.52,
+      "bottomY" : 248.8688,
+      "rightX" : 395.856,
+      "topY" : 236.8688,
+      "baseLineY" : 246.6,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 401.4,
+      "bottomY" : 248.9414,
+      "rightX" : 507.3698,
+      "topY" : 236.9414,
+      "baseLineY" : 246.6,
+      "fontId" : 1,
+      "text" : "Authorized Providers "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 264.6014,
+      "rightX" : 515.28,
+      "topY" : 252.6014,
+      "baseLineY" : 262.2599,
+      "fontId" : 1,
+      "text" : "personal injuries that occur on the property.  Lenders                                                         "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 278.4013,
+      "rightX" : 518.1984,
+      "topY" : 266.4013,
+      "baseLineY" : 276.0599,
+      "fontId" : 1,
+      "text" : "intending to sell GRRHP loans in the secondary market must require insurance coverage "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 292.2013,
+      "rightX" : 450.3202,
+      "topY" : 280.2013,
+      "baseLineY" : 289.8599,
+      "fontId" : 1,
+      "text" : "consistent with the standards of Fannie Mae, Freddie Mac, or Ginnie Mae. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 318.0013,
+      "rightX" : 520.0405,
+      "topY" : 306.0013,
+      "baseLineY" : 315.6599,
+      "fontId" : 1,
+      "text" : "Lenders must continue to monitor the insurance policies over the term of the loan "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 331.8013,
+      "rightX" : 492.622,
+      "topY" : 319.8013,
+      "baseLineY" : 329.4598,
+      "fontId" : 1,
+      "text" : "so that each GRRHP property is continuously insured with acceptable property and "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 345.6013,
+      "rightX" : 519.0181,
+      "topY" : 333.6013,
+      "baseLineY" : 343.2598,
+      "fontId" : 1,
+      "text" : "liability insurance policies.  The named insured must be the borrower. Insurance policies "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 359.4013,
+      "rightX" : 390.9926,
+      "topY" : 347.4013,
+      "baseLineY" : 357.0598,
+      "fontId" : 1,
+      "text" : "must also include the lender in a loss payee/mortgagee clause. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 385.2013,
+      "rightX" : 521.3821,
+      "topY" : 373.2013,
+      "baseLineY" : 382.8598,
+      "fontId" : 1,
+      "text" : "The following section identifies the types of insurance and the specific provisions "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 399.0013,
+      "rightX" : 261.8784,
+      "topY" : 387.0013,
+      "baseLineY" : 396.6598,
+      "fontId" : 1,
+      "text" : "that must be included in the policy. "
+    }, {
+      "leftX" : 111.96,
+      "bottomY" : 427.2317,
+      "rightX" : 503.4937,
+      "topY" : 413.2317,
+      "baseLineY" : 424.5,
+      "fontId" : 2,
+      "text" : "SECTION 1: OVERVIEW OF INSURANCE REQUIREMENTS "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 453.0015,
+      "rightX" : 107.9928,
+      "topY" : 441.0015,
+      "baseLineY" : 450.66,
+      "fontId" : 3,
+      "text" : "9.2 "
+    }, {
+      "leftX" : 125.9928,
+      "bottomY" : 453.0015,
+      "rightX" : 196.9776,
+      "topY" : 441.0015,
+      "baseLineY" : 450.66,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 478.6815,
+      "rightX" : 453.1851,
+      "topY" : 466.6815,
+      "baseLineY" : 476.34,
+      "fontId" : 1,
+      "text" : "Described throughout this chapter are the different types of Agency "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 492.4814,
+      "rightX" : 471.8281,
+      "topY" : 480.4814,
+      "baseLineY" : 490.14,
+      "fontId" : 1,
+      "text" : "insurance requirements for the GRRHP program.  At a minimum, lenders must "
+    }, {
+      "leftX" : 538.6799,
+      "bottomY" : 498.9014,
+      "rightX" : 541.6799,
+      "topY" : 486.9014,
+      "baseLineY" : 496.5599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 506.2814,
+      "rightX" : 483.9385,
+      "topY" : 494.2814,
+      "baseLineY" : 503.94,
+      "fontId" : 1,
+      "text" : "establish insurance standards for GRRHP loans that meet or exceed the insurance "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 520.0815,
+      "rightX" : 482.3122,
+      "topY" : 508.0815,
+      "baseLineY" : 517.74,
+      "fontId" : 1,
+      "text" : "requirements of Fannie Mae, Freddie Mac, or Ginnie Mae.  Failure to ensure that "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 533.8814,
+      "rightX" : 495.2173,
+      "topY" : 521.8814,
+      "baseLineY" : 531.5399,
+      "fontId" : 1,
+      "text" : "proper insurance is maintained on the property may result in denial of the guarantee "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 547.6814,
+      "rightX" : 210.3384,
+      "topY" : 535.6814,
+      "baseLineY" : 545.34,
+      "fontId" : 1,
+      "text" : "payment by the Agency. "
+    }, {
+      "leftX" : 186.42,
+      "bottomY" : 575.9116,
+      "rightX" : 425.5506,
+      "topY" : 561.9116,
+      "baseLineY" : 573.1799,
+      "fontId" : 2,
+      "text" : "SECTION 2:  TYPES OF INSURANCE"
+    }, {
+      "leftX" : 425.58,
+      "bottomY" : 568.4561,
+      "rightX" : 427.83,
+      "topY" : 559.4561,
+      "baseLineY" : 566.7,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 427.86,
+      "bottomY" : 575.9116,
+      "rightX" : 431.355,
+      "topY" : 561.9116,
+      "baseLineY" : 573.1799,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 601.7414,
+      "rightX" : 108,
+      "topY" : 589.7414,
+      "baseLineY" : 599.3999,
+      "fontId" : 3,
+      "text" : "9.3 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 601.7414,
+      "rightX" : 269.328,
+      "topY" : 589.7414,
+      "baseLineY" : 599.3999,
+      "fontId" : 3,
+      "text" : "PROPERTY INSURANCE "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 627.4214,
+      "rightX" : 484.9318,
+      "topY" : 615.4214,
+      "baseLineY" : 625.0799,
+      "fontId" : 1,
+      "text" : "Property insurance protects the physical asset against loss due to damage.  "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 641.2213,
+      "rightX" : 229.5984,
+      "topY" : 629.2213,
+      "baseLineY" : 638.8799,
+      "fontId" : 1,
+      "text" : "Property insurance includes: "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 667.0214,
+      "rightX" : 519,
+      "topY" : 655.0214,
+      "baseLineY" : 664.6799,
+      "fontId" : 1,
+      "text" : "_______________________________________________________________________ "
+    }, {
+      "leftX" : 297.96,
+      "bottomY" : 692.8214,
+      "rightX" : 316.974,
+      "topY" : 680.8214,
+      "baseLineY" : 690.4799,
+      "fontId" : 1,
+      "text" : "9-1 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 706.6214,
+      "rightX" : 187.2804,
+      "topY" : 694.6214,
+      "baseLineY" : 704.2799,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 85.3814,
+      "rightX" : 147.66,
+      "topY" : 73.3814,
+      "baseLineY" : 83.04,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 111.887,
+      "rightX" : 131.52,
+      "topY" : 99.887,
+      "baseLineY" : 109.74,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 112.0088,
+      "rightX" : 134.856,
+      "topY" : 100.0088,
+      "baseLineY" : 109.74,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 112.0815,
+      "rightX" : 233.3808,
+      "topY" : 100.0815,
+      "baseLineY" : 109.74,
+      "fontId" : 3,
+      "text" : "Hazard Insurance"
+    }, {
+      "leftX" : 233.4,
+      "bottomY" : 112.0815,
+      "rightX" : 500.946,
+      "topY" : 100.0815,
+      "baseLineY" : 109.74,
+      "fontId" : 1,
+      "text" : " to protect the property against fire and weather-related "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 125.8214,
+      "rightX" : 514.6516,
+      "topY" : 113.8214,
+      "baseLineY" : 123.48,
+      "fontId" : 1,
+      "text" : "damage, as well as damage from civil commotion, aircraft, or other vehicles.  "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 139.6214,
+      "rightX" : 511.2624,
+      "topY" : 127.6214,
+      "baseLineY" : 137.28,
+      "fontId" : 1,
+      "text" : "The policy must be endorsed to include all the extended coverage perils.  An "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 153.4214,
+      "rightX" : 309.6961,
+      "topY" : 141.4214,
+      "baseLineY" : 151.08,
+      "fontId" : 1,
+      "text" : "“all risks” policy is recommended. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 179.927,
+      "rightX" : 131.52,
+      "topY" : 167.927,
+      "baseLineY" : 177.78,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 180.0488,
+      "rightX" : 134.856,
+      "topY" : 168.0488,
+      "baseLineY" : 177.78,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 180.1214,
+      "rightX" : 227.676,
+      "topY" : 168.1214,
+      "baseLineY" : 177.78,
+      "fontId" : 3,
+      "text" : "Flood Insurance"
+    }, {
+      "leftX" : 227.7,
+      "bottomY" : 180.1214,
+      "rightX" : 523.9534,
+      "topY" : 168.1214,
+      "baseLineY" : 177.78,
+      "fontId" : 1,
+      "text" : " to protect the property against losses caused by flooding due "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 193.9214,
+      "rightX" : 494.306,
+      "topY" : 181.9214,
+      "baseLineY" : 191.58,
+      "fontId" : 1,
+      "text" : "to natural disasters such as hurricanes.  Flood insurance through NFIP is "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 207.7214,
+      "rightX" : 513.8835,
+      "topY" : 195.7214,
+      "baseLineY" : 205.3799,
+      "fontId" : 1,
+      "text" : "required for all properties located in a Special Flood Hazard Area (“SFHA”) "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 221.5214,
+      "rightX" : 506.3378,
+      "topY" : 209.5214,
+      "baseLineY" : 219.1799,
+      "fontId" : 1,
+      "text" : "as identified by FEMA.  For every GRRHP loan, the lender must complete "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 235.3214,
+      "rightX" : 236.6375,
+      "topY" : 223.3214,
+      "baseLineY" : 232.9799,
+      "fontId" : 7,
+      "text" : "FEMA Form 81-93"
+    }, {
+      "leftX" : 236.64,
+      "bottomY" : 235.3214,
+      "rightX" : 242.64,
+      "topY" : 223.3214,
+      "baseLineY" : 232.9799,
+      "fontId" : 1,
+      "text" : ", "
+    }, {
+      "leftX" : 242.64,
+      "bottomY" : 235.3214,
+      "rightX" : 430.4196,
+      "topY" : 223.3214,
+      "baseLineY" : 232.9799,
+      "fontId" : 7,
+      "text" : "Standard Flood Hazard Determination"
+    }, {
+      "leftX" : 430.44,
+      "bottomY" : 235.3214,
+      "rightX" : 482.9904,
+      "topY" : 223.3214,
+      "baseLineY" : 232.9799,
+      "fontId" : 1,
+      "text" : ", and must "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 249.1214,
+      "rightX" : 492.9001,
+      "topY" : 237.1214,
+      "baseLineY" : 246.7799,
+      "fontId" : 1,
+      "text" : "determine whether any of the improvements on a property are or will be "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 262.8614,
+      "rightX" : 476.6784,
+      "topY" : 250.8614,
+      "baseLineY" : 260.5199,
+      "fontId" : 1,
+      "text" : "located in a SFHA. See Chapter 11, Paragraph 11.7 A. for additional "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 276.6613,
+      "rightX" : 212.652,
+      "topY" : 264.6613,
+      "baseLineY" : 274.3199,
+      "fontId" : 1,
+      "text" : "requirements. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 303.167,
+      "rightX" : 131.5199,
+      "topY" : 291.167,
+      "baseLineY" : 301.0199,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 303.2887,
+      "rightX" : 134.8559,
+      "topY" : 291.2887,
+      "baseLineY" : 301.0199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 303.3614,
+      "rightX" : 272.0328,
+      "topY" : 291.3614,
+      "baseLineY" : 301.0199,
+      "fontId" : 3,
+      "text" : "Builder’s Risk Insurance"
+    }, {
+      "leftX" : 272.0399,
+      "bottomY" : 303.3614,
+      "rightX" : 496.9236,
+      "topY" : 291.3614,
+      "baseLineY" : 301.0199,
+      "fontId" : 1,
+      "text" : " to protect the property against loss or damage "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 317.1613,
+      "rightX" : 499.2382,
+      "topY" : 305.1613,
+      "baseLineY" : 314.8199,
+      "fontId" : 1,
+      "text" : "during construction or reconstruction after an insured loss.  Builder’s risk "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 330.9613,
+      "rightX" : 504.9202,
+      "topY" : 318.9613,
+      "baseLineY" : 328.6199,
+      "fontId" : 1,
+      "text" : "insurance is required during all periods of construction, reconstruction and "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 344.7613,
+      "rightX" : 213.9779,
+      "topY" : 332.7613,
+      "baseLineY" : 342.4199,
+      "fontId" : 1,
+      "text" : "rehabilitation. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 371.2669,
+      "rightX" : 131.5199,
+      "topY" : 359.2669,
+      "baseLineY" : 369.1199,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 371.3887,
+      "rightX" : 134.8559,
+      "topY" : 359.3887,
+      "baseLineY" : 369.1199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 371.4613,
+      "rightX" : 311.2908,
+      "topY" : 359.4613,
+      "baseLineY" : 369.1199,
+      "fontId" : 3,
+      "text" : "Boiler and Machinery Coverage "
+    }, {
+      "leftX" : 311.2799,
+      "bottomY" : 371.4613,
+      "rightX" : 494.249,
+      "topY" : 359.4613,
+      "baseLineY" : 369.1199,
+      "fontId" : 1,
+      "text" : "may be required for any property that "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 385.2013,
+      "rightX" : 524.2847,
+      "topY" : 373.2013,
+      "baseLineY" : 382.8599,
+      "fontId" : 1,
+      "text" : "operates steam boilers, turbines, engines, or other pressure vessels to cover the "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 399.0013,
+      "rightX" : 505.8985,
+      "topY" : 387.0013,
+      "baseLineY" : 396.6599,
+      "fontId" : 1,
+      "text" : "cost of boiler replacement and other machinery in the event of an accident. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 425.5069,
+      "rightX" : 131.5199,
+      "topY" : 413.5069,
+      "baseLineY" : 423.3599,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 425.6287,
+      "rightX" : 134.8559,
+      "topY" : 413.6287,
+      "baseLineY" : 423.3599,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 425.7013,
+      "rightX" : 321.7631,
+      "topY" : 413.7013,
+      "baseLineY" : 423.3599,
+      "fontId" : 3,
+      "text" : "Sinkhole or Earthquake Insurance"
+    }, {
+      "leftX" : 321.7199,
+      "bottomY" : 425.7013,
+      "rightX" : 518.3474,
+      "topY" : 413.7013,
+      "baseLineY" : 423.3599,
+      "fontId" : 1,
+      "text" : " is required in areas where there is a risk "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 439.4413,
+      "rightX" : 362.238,
+      "topY" : 427.4413,
+      "baseLineY" : 437.0999,
+      "fontId" : 1,
+      "text" : "of damage from this form of natural disaster. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 465.9469,
+      "rightX" : 131.5199,
+      "topY" : 453.9469,
+      "baseLineY" : 463.7999,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 466.0687,
+      "rightX" : 134.8559,
+      "topY" : 454.0687,
+      "baseLineY" : 463.7999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 466.1413,
+      "rightX" : 283.3703,
+      "topY" : 454.1413,
+      "baseLineY" : 463.7999,
+      "fontId" : 3,
+      "text" : "Business Income Insurance"
+    }, {
+      "leftX" : 283.3799,
+      "bottomY" : 466.1413,
+      "rightX" : 493.6202,
+      "topY" : 454.1413,
+      "baseLineY" : 463.7999,
+      "fontId" : 1,
+      "text" : " is required to cover the loss of income to a "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 479.9413,
+      "rightX" : 503.2593,
+      "topY" : 467.9413,
+      "baseLineY" : 477.5999,
+      "fontId" : 1,
+      "text" : "property resulting from an event that makes one or more units temporarily "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 493.7413,
+      "rightX" : 215.3615,
+      "topY" : 481.7413,
+      "baseLineY" : 491.3998,
+      "fontId" : 1,
+      "text" : "uninhabitable. "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 519.6613,
+      "rightX" : 108.0035,
+      "topY" : 507.6613,
+      "baseLineY" : 517.3198,
+      "fontId" : 3,
+      "text" : "9.4 "
+    }, {
+      "leftX" : 126.0035,
+      "bottomY" : 519.6613,
+      "rightX" : 261.42,
+      "topY" : 507.6613,
+      "baseLineY" : 517.3198,
+      "fontId" : 3,
+      "text" : "FIDELITY INSURANCE "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 545.3413,
+      "rightX" : 519.0527,
+      "topY" : 533.3413,
+      "baseLineY" : 542.9999,
+      "fontId" : 1,
+      "text" : "Fidelity insurance protects the property against loss due to employee dishonesty.  "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 559.1413,
+      "rightX" : 507.5879,
+      "topY" : 547.1413,
+      "baseLineY" : 556.7999,
+      "fontId" : 1,
+      "text" : "The policy must provide coverage on all persons with control over or access to project "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 572.9413,
+      "rightX" : 524.0151,
+      "topY" : 560.9413,
+      "baseLineY" : 570.5999,
+      "fontId" : 1,
+      "text" : "income or other assets.  Fidelity coverage may also be known as Blanket Crime Coverage "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 586.7413,
+      "rightX" : 524.273,
+      "topY" : 574.7413,
+      "baseLineY" : 584.3998,
+      "fontId" : 1,
+      "text" : "or Fidelity Bonding.  Property managers must provide the lender with evidence of fidelity "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 600.5413,
+      "rightX" : 141.9719,
+      "topY" : 588.5413,
+      "baseLineY" : 598.1998,
+      "fontId" : 1,
+      "text" : "insurance. "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 626.4613,
+      "rightX" : 107.9891,
+      "topY" : 614.4613,
+      "baseLineY" : 624.1199,
+      "fontId" : 3,
+      "text" : "9.5 "
+    }, {
+      "leftX" : 125.9891,
+      "bottomY" : 626.4613,
+      "rightX" : 482.8727,
+      "topY" : 614.4613,
+      "baseLineY" : 624.1199,
+      "fontId" : 3,
+      "text" : "MORTGAGEE’S ERRORS AND OMISSIONS (E&O) INSURANCE"
+    }, {
+      "leftX" : 482.94,
+      "bottomY" : 620.1609,
+      "rightX" : 484.935,
+      "topY" : 612.1609,
+      "baseLineY" : 618.5999,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 484.98,
+      "bottomY" : 626.4613,
+      "rightX" : 487.98,
+      "topY" : 614.4613,
+      "baseLineY" : 624.1199,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 652.1414,
+      "rightX" : 494.254,
+      "topY" : 640.1414,
+      "baseLineY" : 649.7999,
+      "fontId" : 1,
+      "text" : "E&O coverage protects the borrower against loss resulting from negligence, "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 665.8814,
+      "rightX" : 510.6554,
+      "topY" : 653.8814,
+      "baseLineY" : 663.5399,
+      "fontId" : 1,
+      "text" : "errors, or omissions committed by those persons covered under the borrower’s fidelity  "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 691.6814,
+      "rightX" : 519,
+      "topY" : 679.6814,
+      "baseLineY" : 689.3399,
+      "fontId" : 1,
+      "text" : "_______________________________________________________________________ "
+    }, {
+      "leftX" : 297.96,
+      "bottomY" : 717.4814,
+      "rightX" : 316.9741,
+      "topY" : 705.4814,
+      "baseLineY" : 715.1399,
+      "fontId" : 1,
+      "text" : "9-2 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 467.34,
+      "bottomY" : 85.3814,
+      "rightX" : 525,
+      "topY" : 73.3814,
+      "baseLineY" : 83.04,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 111.1814,
+      "rightX" : 506.6206,
+      "topY" : 99.1814,
+      "baseLineY" : 108.84,
+      "fontId" : 1,
+      "text" : "insurance policy.  Obtaining E&O insurance does not diminish or limit the borrower’s "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 124.9814,
+      "rightX" : 310.9475,
+      "topY" : 112.9814,
+      "baseLineY" : 122.64,
+      "fontId" : 1,
+      "text" : "documentary obligations and responsibilities. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 150.9014,
+      "rightX" : 107.9892,
+      "topY" : 138.9014,
+      "baseLineY" : 148.5599,
+      "fontId" : 3,
+      "text" : "9.6 "
+    }, {
+      "leftX" : 125.9892,
+      "bottomY" : 150.9014,
+      "rightX" : 266.6004,
+      "topY" : 138.9014,
+      "baseLineY" : 148.5599,
+      "fontId" : 3,
+      "text" : "LIABILITY INSURANCE "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 176.5814,
+      "rightX" : 505.914,
+      "topY" : 164.5814,
+      "baseLineY" : 174.2399,
+      "fontId" : 1,
+      "text" : "This coverage insures against any personal injury that might occur in or on the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 190.3814,
+      "rightX" : 487.8969,
+      "topY" : 178.3814,
+      "baseLineY" : 188.0399,
+      "fontId" : 1,
+      "text" : "property’s common areas, common elements, commercial space, and public areas. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 204.1814,
+      "rightX" : 93,
+      "topY" : 192.1814,
+      "baseLineY" : 201.8399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 230.1014,
+      "rightX" : 108,
+      "topY" : 218.1014,
+      "baseLineY" : 227.7599,
+      "fontId" : 3,
+      "text" : "9.7 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 230.1014,
+      "rightX" : 298.008,
+      "topY" : 218.1014,
+      "baseLineY" : 227.7599,
+      "fontId" : 3,
+      "text" : "WORKER’S COMPENSATION "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 255.7813,
+      "rightX" : 510.5641,
+      "topY" : 243.7813,
+      "baseLineY" : 253.4399,
+      "fontId" : 1,
+      "text" : "This insurance coverage, also known as employer’s liability coverage, provides "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 269.5813,
+      "rightX" : 504.2332,
+      "topY" : 257.5813,
+      "baseLineY" : 267.2399,
+      "fontId" : 1,
+      "text" : "for replacement of lost wages to workers that suffer job injuries.  This coverage is not "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 283.3813,
+      "rightX" : 409.8987,
+      "topY" : 271.3813,
+      "baseLineY" : 281.0399,
+      "fontId" : 1,
+      "text" : "required by the Agency but may be required by State or local law. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 309.3013,
+      "rightX" : 107.9892,
+      "topY" : 297.3013,
+      "baseLineY" : 306.9599,
+      "fontId" : 3,
+      "text" : "9.8 "
+    }, {
+      "leftX" : 125.9892,
+      "bottomY" : 309.3013,
+      "rightX" : 439.3034,
+      "topY" : 297.3013,
+      "baseLineY" : 306.9599,
+      "fontId" : 3,
+      "text" : "EVIDENCE OF INSURANCE, TERMS, AND COVERAGE "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 334.9813,
+      "rightX" : 509.5681,
+      "topY" : 322.9813,
+      "baseLineY" : 332.6399,
+      "fontId" : 1,
+      "text" : "The lender must obtain the original policy or the declaration page and evidence "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 348.7813,
+      "rightX" : 493.8817,
+      "topY" : 336.7813,
+      "baseLineY" : 346.4398,
+      "fontId" : 1,
+      "text" : "that the first full year’s premium has been paid for all required insurance coverage.  "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 362.5813,
+      "rightX" : 473.9117,
+      "topY" : 350.5813,
+      "baseLineY" : 360.2398,
+      "fontId" : 1,
+      "text" : "Either originals or certified copies of current insurance policies and receipts for "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 376.3813,
+      "rightX" : 479.6284,
+      "topY" : 364.3813,
+      "baseLineY" : 374.0398,
+      "fontId" : 1,
+      "text" : "subsequent annual premiums must be kept on file by the lender.  The term of the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 390.1813,
+      "rightX" : 507.2161,
+      "topY" : 378.1813,
+      "baseLineY" : 387.8398,
+      "fontId" : 1,
+      "text" : "insurance policy may not be less than one year.  All policies must be on an occurrence "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 403.9813,
+      "rightX" : 511.7462,
+      "topY" : 391.9813,
+      "baseLineY" : 401.6398,
+      "fontId" : 1,
+      "text" : "basis. The lender must determine an acceptable level of coverage based on the needs of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 417.7813,
+      "rightX" : 154.3488,
+      "topY" : 405.7813,
+      "baseLineY" : 415.4398,
+      "fontId" : 1,
+      "text" : "the property. "
+    }, {
+      "leftX" : 129.6,
+      "bottomY" : 446.0117,
+      "rightX" : 485.8342,
+      "topY" : 432.0117,
+      "baseLineY" : 443.28,
+      "fontId" : 2,
+      "text" : "SECTION 3:  AUTHORIZED INSURANCE PROVIDERS "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 471.7815,
+      "rightX" : 107.9928,
+      "topY" : 459.7815,
+      "baseLineY" : 469.44,
+      "fontId" : 3,
+      "text" : "9.9 "
+    }, {
+      "leftX" : 125.9928,
+      "bottomY" : 471.7815,
+      "rightX" : 196.9776,
+      "topY" : 459.7815,
+      "baseLineY" : 469.44,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 497.4615,
+      "rightX" : 524.5258,
+      "topY" : 485.4615,
+      "baseLineY" : 495.12,
+      "fontId" : 1,
+      "text" : "Borrowers are responsible for selecting an insurance provider that is reputable and "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 511.2614,
+      "rightX" : 490.9513,
+      "topY" : 499.2614,
+      "baseLineY" : 508.92,
+      "fontId" : 1,
+      "text" : "financially sound.  The lender must review all relevant available information about "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 525.0614,
+      "rightX" : 506.255,
+      "topY" : 513.0614,
+      "baseLineY" : 522.72,
+      "fontId" : 1,
+      "text" : "insurers including financial statements, insurance rating reports from Best’s Insurance "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 538.8614,
+      "rightX" : 519.4689,
+      "topY" : 526.8614,
+      "baseLineY" : 536.52,
+      "fontId" : 1,
+      "text" : "Reports or another suitable rating firm, and information from State insurance authorities. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 564.6614,
+      "rightX" : 520.3126,
+      "topY" : 552.6614,
+      "baseLineY" : 562.3199,
+      "fontId" : 1,
+      "text" : "The borrower is required to disclose any identity of interest relationships with the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 578.4615,
+      "rightX" : 387.7018,
+      "topY" : 566.4615,
+      "baseLineY" : 576.12,
+      "fontId" : 1,
+      "text" : "insurer company or must certify to the lender that none exists."
+    }, {
+      "leftX" : 387.66,
+      "bottomY" : 572.1609,
+      "rightX" : 389.655,
+      "topY" : 564.1609,
+      "baseLineY" : 570.5999,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 389.64,
+      "bottomY" : 578.4613,
+      "rightX" : 392.64,
+      "topY" : 566.4613,
+      "baseLineY" : 576.1199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 604.3814,
+      "rightX" : 113.9856,
+      "topY" : 592.3814,
+      "baseLineY" : 602.0399,
+      "fontId" : 3,
+      "text" : "9.10 "
+    }, {
+      "leftX" : 125.9856,
+      "bottomY" : 604.3814,
+      "rightX" : 444.9648,
+      "topY" : 592.3814,
+      "baseLineY" : 602.0399,
+      "fontId" : 3,
+      "text" : "ACCEPTABLE RATINGS FOR INSURANCE PROVIDERS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 630.0614,
+      "rightX" : 495.6202,
+      "topY" : 618.0614,
+      "baseLineY" : 627.7199,
+      "fontId" : 1,
+      "text" : "A hazard or property insurance provider needs to meet one of the acceptable "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 643.8614,
+      "rightX" : 495.8925,
+      "topY" : 631.8614,
+      "baseLineY" : 641.5199,
+      "fontId" : 1,
+      "text" : "rating categories established by one of the rating agencies approved by Fannie Mae, "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 657.6614,
+      "rightX" : 233.0208,
+      "topY" : 645.6614,
+      "baseLineY" : 655.3199,
+      "fontId" : 1,
+      "text" : "Freddie Mac, or Ginnie Mae. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 671.4614,
+      "rightX" : 525,
+      "topY" : 659.4614,
+      "baseLineY" : 669.1199,
+      "fontId" : 1,
+      "text" : "________________________________________________________________________ "
+    }, {
+      "leftX" : 297.96,
+      "bottomY" : 697.2614,
+      "rightX" : 316.9741,
+      "topY" : 685.2614,
+      "baseLineY" : 694.9199,
+      "fontId" : 1,
+      "text" : "9-3 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 711.0614,
+      "rightX" : 187.2805,
+      "topY" : 699.0614,
+      "baseLineY" : 708.7199,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

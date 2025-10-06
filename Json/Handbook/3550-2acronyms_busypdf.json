@@ -1,0 +1,1636 @@
+{
+  "pdfDoc" : "3550-2acronyms.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-2-3550 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 123.3239,
+      "rightX" : 309,
+      "topY" : 111.3239,
+      "baseLineY" : 120.48,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 192,
+      "bottomY" : 137.184,
+      "rightX" : 423,
+      "topY" : 125.184,
+      "baseLineY" : 134.34,
+      "fontId" : 2,
+      "text" : "ACRONYMS USED IN THIS HANDBOOK "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 170.615,
+      "rightX" : 75,
+      "topY" : 158.615,
+      "baseLineY" : 167.88,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 184.415,
+      "rightX" : 99,
+      "topY" : 172.415,
+      "baseLineY" : 181.68,
+      "fontId" : 3,
+      "text" : "ACE "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 184.415,
+      "rightX" : 111,
+      "topY" : 172.415,
+      "baseLineY" : 181.68,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 184.415,
+      "rightX" : 279.3,
+      "topY" : 172.415,
+      "baseLineY" : 181.68,
+      "fontId" : 3,
+      "text" : "Active Corps of Executives "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 198.2149,
+      "rightX" : 75,
+      "topY" : 186.2149,
+      "baseLineY" : 195.48,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 212.0149,
+      "rightX" : 100.32,
+      "topY" : 200.0149,
+      "baseLineY" : 209.28,
+      "fontId" : 3,
+      "text" : "ADR "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 212.0149,
+      "rightX" : 111,
+      "topY" : 200.0149,
+      "baseLineY" : 209.28,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 212.0149,
+      "rightX" : 296.34,
+      "topY" : 200.0149,
+      "baseLineY" : 209.28,
+      "fontId" : 3,
+      "text" : "Alternative Dispute Resolution "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 225.8149,
+      "rightX" : 75,
+      "topY" : 213.8149,
+      "baseLineY" : 223.08,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 239.6149,
+      "rightX" : 111,
+      "topY" : 227.6149,
+      "baseLineY" : 236.8799,
+      "fontId" : 3,
+      "text" : "AFDC  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 239.6149,
+      "rightX" : 345.96,
+      "topY" : 227.6149,
+      "baseLineY" : 236.8799,
+      "fontId" : 3,
+      "text" : "Aid to Families with Dependent Children "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 253.4149,
+      "rightX" : 75,
+      "topY" : 241.4149,
+      "baseLineY" : 250.6799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 267.2149,
+      "rightX" : 97.68,
+      "topY" : 255.2149,
+      "baseLineY" : 264.4799,
+      "fontId" : 3,
+      "text" : "CFR "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 267.2149,
+      "rightX" : 111,
+      "topY" : 255.2149,
+      "baseLineY" : 264.4799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 267.2149,
+      "rightX" : 284.64,
+      "topY" : 255.2149,
+      "baseLineY" : 264.4799,
+      "fontId" : 3,
+      "text" : "Code of Federal Regulations "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 281.0149,
+      "rightX" : 75,
+      "topY" : 269.0149,
+      "baseLineY" : 278.2799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 294.8149,
+      "rightX" : 111,
+      "topY" : 282.8149,
+      "baseLineY" : 292.0799,
+      "fontId" : 3,
+      "text" : "COLA  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 294.8149,
+      "rightX" : 276,
+      "topY" : 282.8149,
+      "baseLineY" : 292.0799,
+      "fontId" : 3,
+      "text" : "Cost of Living Adjustment "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 308.6148,
+      "rightX" : 75,
+      "topY" : 296.6148,
+      "baseLineY" : 305.8799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 322.4148,
+      "rightX" : 104.34,
+      "topY" : 310.4148,
+      "baseLineY" : 319.6799,
+      "fontId" : 3,
+      "text" : "CFPB "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 322.4148,
+      "rightX" : 111,
+      "topY" : 310.4148,
+      "baseLineY" : 319.6799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 322.4148,
+      "rightX" : 333.9,
+      "topY" : 310.4148,
+      "baseLineY" : 319.6799,
+      "fontId" : 3,
+      "text" : "Consumer Financial Protection Bureau "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 336.2148,
+      "rightX" : 75,
+      "topY" : 324.2148,
+      "baseLineY" : 333.4799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 350.0148,
+      "rightX" : 97.68,
+      "topY" : 338.0148,
+      "baseLineY" : 347.2798,
+      "fontId" : 3,
+      "text" : "CFR "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 350.0148,
+      "rightX" : 111,
+      "topY" : 338.0148,
+      "baseLineY" : 347.2798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 350.0148,
+      "rightX" : 284.6399,
+      "topY" : 338.0148,
+      "baseLineY" : 347.2798,
+      "fontId" : 3,
+      "text" : "Code of Federal Regulations "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 363.7548,
+      "rightX" : 75,
+      "topY" : 351.7548,
+      "baseLineY" : 361.0198,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 377.5548,
+      "rightX" : 99.66,
+      "topY" : 365.5548,
+      "baseLineY" : 374.8198,
+      "fontId" : 3,
+      "text" : "COR "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 377.5548,
+      "rightX" : 111,
+      "topY" : 365.5548,
+      "baseLineY" : 374.8198,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 377.5548,
+      "rightX" : 315.6,
+      "topY" : 365.5548,
+      "baseLineY" : 374.8198,
+      "fontId" : 3,
+      "text" : "Contracting Officer Representative "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 391.3548,
+      "rightX" : 75,
+      "topY" : 379.3548,
+      "baseLineY" : 388.6198,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 405.1548,
+      "rightX" : 111,
+      "topY" : 393.1548,
+      "baseLineY" : 402.4198,
+      "fontId" : 3,
+      "text" : "DLOS  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 405.1548,
+      "rightX" : 389.2798,
+      "topY" : 393.1548,
+      "baseLineY" : 402.4198,
+      "fontId" : 3,
+      "text" : "Dedicated Loan Origination and Servicing System "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 418.9548,
+      "rightX" : 75,
+      "topY" : 406.9548,
+      "baseLineY" : 416.2198,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 432.7547,
+      "rightX" : 97.02,
+      "topY" : 420.7547,
+      "baseLineY" : 430.0198,
+      "fontId" : 3,
+      "text" : "DOJ "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 432.7547,
+      "rightX" : 111,
+      "topY" : 420.7547,
+      "baseLineY" : 430.0198,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 432.7547,
+      "rightX" : 252.3,
+      "topY" : 420.7547,
+      "baseLineY" : 430.0198,
+      "fontId" : 3,
+      "text" : "Department of Justice "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 446.5547,
+      "rightX" : 75,
+      "topY" : 434.5547,
+      "baseLineY" : 443.8198,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 460.3547,
+      "rightX" : 91.02,
+      "topY" : 448.3547,
+      "baseLineY" : 457.6198,
+      "fontId" : 3,
+      "text" : "EA "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 460.3547,
+      "rightX" : 111,
+      "topY" : 448.3547,
+      "baseLineY" : 457.6198,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 460.3547,
+      "rightX" : 277.98,
+      "topY" : 448.3547,
+      "baseLineY" : 457.6198,
+      "fontId" : 3,
+      "text" : "Environmental Assessment "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 474.1547,
+      "rightX" : 75,
+      "topY" : 462.1547,
+      "baseLineY" : 471.4197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 487.9547,
+      "rightX" : 93,
+      "topY" : 475.9547,
+      "baseLineY" : 485.2197,
+      "fontId" : 3,
+      "text" : "EIS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 487.9547,
+      "rightX" : 111,
+      "topY" : 475.9547,
+      "baseLineY" : 485.2197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 487.9547,
+      "rightX" : 305.64,
+      "topY" : 475.9547,
+      "baseLineY" : 485.2197,
+      "fontId" : 3,
+      "text" : "Environmental Impact Statement "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 501.7547,
+      "rightX" : 75,
+      "topY" : 489.7547,
+      "baseLineY" : 499.0197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 515.5547,
+      "rightX" : 97.68,
+      "topY" : 503.5547,
+      "baseLineY" : 512.8197,
+      "fontId" : 3,
+      "text" : "EPA "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 515.5547,
+      "rightX" : 111,
+      "topY" : 503.5547,
+      "baseLineY" : 512.8197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 515.5547,
+      "rightX" : 310.98,
+      "topY" : 503.5547,
+      "baseLineY" : 512.8197,
+      "fontId" : 3,
+      "text" : "Environmental Protection Agency "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 529.3547,
+      "rightX" : 75,
+      "topY" : 517.3547,
+      "baseLineY" : 526.6197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 543.1546,
+      "rightX" : 111,
+      "topY" : 531.1546,
+      "baseLineY" : 540.4197,
+      "fontId" : 3,
+      "text" : "ECOA  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 543.1546,
+      "rightX" : 289.9799,
+      "topY" : 531.1546,
+      "baseLineY" : 540.4197,
+      "fontId" : 3,
+      "text" : "Equal Credit Opportunity Act "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 556.9547,
+      "rightX" : 75,
+      "topY" : 544.9547,
+      "baseLineY" : 554.2197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 570.7547,
+      "rightX" : 94.32,
+      "topY" : 558.7547,
+      "baseLineY" : 568.0197,
+      "fontId" : 3,
+      "text" : "EIR "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 570.7547,
+      "rightX" : 111,
+      "topY" : 558.7547,
+      "baseLineY" : 568.0197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 570.7547,
+      "rightX" : 262.98,
+      "topY" : 558.7547,
+      "baseLineY" : 568.0197,
+      "fontId" : 3,
+      "text" : "Equivalent Interest Rate "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 584.5547,
+      "rightX" : 75,
+      "topY" : 572.5547,
+      "baseLineY" : 581.8197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 598.3547,
+      "rightX" : 111,
+      "topY" : 586.3547,
+      "baseLineY" : 595.6197,
+      "fontId" : 3,
+      "text" : "FEMA  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 598.3547,
+      "rightX" : 346.62,
+      "topY" : 586.3547,
+      "baseLineY" : 595.6197,
+      "fontId" : 3,
+      "text" : "Federal Emergency Management Agency "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 612.1546,
+      "rightX" : 75,
+      "topY" : 600.1546,
+      "baseLineY" : 609.4197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 625.9547,
+      "rightX" : 99,
+      "topY" : 613.9547,
+      "baseLineY" : 623.2197,
+      "fontId" : 3,
+      "text" : "FHA "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 625.9547,
+      "rightX" : 111,
+      "topY" : 613.9547,
+      "baseLineY" : 623.2197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 625.9547,
+      "rightX" : 302.28,
+      "topY" : 613.9547,
+      "baseLineY" : 623.2197,
+      "fontId" : 3,
+      "text" : "Federal Housing Administration "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 639.7547,
+      "rightX" : 75,
+      "topY" : 627.7547,
+      "baseLineY" : 637.0197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 653.5547,
+      "rightX" : 96.36,
+      "topY" : 641.5547,
+      "baseLineY" : 650.8197,
+      "fontId" : 3,
+      "text" : "FCP "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 653.5547,
+      "rightX" : 111,
+      "topY" : 641.5547,
+      "baseLineY" : 650.8197,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 653.5547,
+      "rightX" : 249.66,
+      "topY" : 641.5547,
+      "baseLineY" : 650.8197,
+      "fontId" : 3,
+      "text" : "Farm Credit Program "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 667.3547,
+      "rightX" : 88.32,
+      "topY" : 655.3547,
+      "baseLineY" : 664.6198,
+      "fontId" : 3,
+      "text" : "FP "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 667.3547,
+      "rightX" : 111,
+      "topY" : 655.3547,
+      "baseLineY" : 664.6198,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 667.3547,
+      "rightX" : 225.96,
+      "topY" : 655.3547,
+      "baseLineY" : 664.6198,
+      "fontId" : 3,
+      "text" : "Farmer Program "
+    }, {
+      "leftX" : 71.9867,
+      "bottomY" : 679.6187,
+      "rightX" : 534.5103,
+      "topY" : 669.6187,
+      "baseLineY" : 677.3396,
+      "fontId" : 1,
+      "text" : "____________________________________________________________________________________________ "
+    }, {
+      "leftX" : 71.9867,
+      "bottomY" : 697.1336,
+      "rightX" : 74.4917,
+      "topY" : 687.1336,
+      "baseLineY" : 694.8545,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 242.0261,
+      "bottomY" : 697.1336,
+      "rightX" : 336.4546,
+      "topY" : 687.1336,
+      "baseLineY" : 694.8545,
+      "fontId" : 1,
+      "text" : "Acronyms, Page 1 of 3 "
+    }, {
+      "leftX" : 71.9867,
+      "bottomY" : 708.5965,
+      "rightX" : 176.1145,
+      "topY" : 698.5965,
+      "baseLineY" : 706.3174,
+      "fontId" : 1,
+      "text" : "(12-23-96) SPECIAL PN "
+    }, {
+      "leftX" : 71.9667,
+      "bottomY" : 720.1195,
+      "rightX" : 213.3589,
+      "topY" : 710.1195,
+      "baseLineY" : 717.8404,
+      "fontId" : 1,
+      "text" : "Revised (03-31-21)  SPECIAL PN "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-2-3550 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 115.475,
+      "rightX" : 75,
+      "topY" : 103.475,
+      "baseLineY" : 112.74,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 129.2749,
+      "rightX" : 97.02,
+      "topY" : 117.2749,
+      "baseLineY" : 126.54,
+      "fontId" : 3,
+      "text" : "FSA "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 129.2749,
+      "rightX" : 111,
+      "topY" : 117.2749,
+      "baseLineY" : 126.54,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 129.2749,
+      "rightX" : 251.64,
+      "topY" : 117.2749,
+      "baseLineY" : 126.54,
+      "fontId" : 3,
+      "text" : "Farm Service Agency "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 143.0749,
+      "rightX" : 75,
+      "topY" : 131.0749,
+      "baseLineY" : 140.34,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 156.8749,
+      "rightX" : 91.68,
+      "topY" : 144.8749,
+      "baseLineY" : 154.14,
+      "fontId" : 3,
+      "text" : "HB "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 156.8749,
+      "rightX" : 111,
+      "topY" : 144.8749,
+      "baseLineY" : 154.14,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 156.8749,
+      "rightX" : 196.98,
+      "topY" : 144.8749,
+      "baseLineY" : 154.14,
+      "fontId" : 3,
+      "text" : "Handbook "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 170.6749,
+      "rightX" : 75,
+      "topY" : 158.6749,
+      "baseLineY" : 167.9399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 184.4749,
+      "rightX" : 100.98,
+      "topY" : 172.4749,
+      "baseLineY" : 181.7399,
+      "fontId" : 3,
+      "text" : "HUD "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 184.4749,
+      "rightX" : 111,
+      "topY" : 172.4749,
+      "baseLineY" : 181.7399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 184.4749,
+      "rightX" : 381.3,
+      "topY" : 172.4749,
+      "baseLineY" : 181.7399,
+      "fontId" : 3,
+      "text" : "Department of Housing and Urban Development "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 198.2749,
+      "rightX" : 75,
+      "topY" : 186.2749,
+      "baseLineY" : 195.5399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 212.0149,
+      "rightX" : 95.64,
+      "topY" : 200.0149,
+      "baseLineY" : 209.2799,
+      "fontId" : 3,
+      "text" : "IRA "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 212.0149,
+      "rightX" : 111,
+      "topY" : 200.0149,
+      "baseLineY" : 209.2799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 212.0149,
+      "rightX" : 296.28,
+      "topY" : 200.0149,
+      "baseLineY" : 209.2799,
+      "fontId" : 3,
+      "text" : "Individual Retirement Account "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 225.8149,
+      "rightX" : 75,
+      "topY" : 213.8149,
+      "baseLineY" : 223.0799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 239.6148,
+      "rightX" : 93.66,
+      "topY" : 227.6148,
+      "baseLineY" : 236.8799,
+      "fontId" : 3,
+      "text" : "IRS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 239.6148,
+      "rightX" : 111,
+      "topY" : 227.6148,
+      "baseLineY" : 236.8799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 239.6148,
+      "rightX" : 268.2576,
+      "topY" : 227.6148,
+      "baseLineY" : 236.8799,
+      "fontId" : 3,
+      "text" : "Internal Revenue Service "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 253.4148,
+      "rightX" : 75,
+      "topY" : 241.4148,
+      "baseLineY" : 250.6799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 267.2148,
+      "rightX" : 100.98,
+      "topY" : 255.2148,
+      "baseLineY" : 264.4799,
+      "fontId" : 3,
+      "text" : "NAD "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 267.2148,
+      "rightX" : 111,
+      "topY" : 255.2148,
+      "baseLineY" : 264.4799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 267.2148,
+      "rightX" : 274.98,
+      "topY" : 255.2148,
+      "baseLineY" : 264.4799,
+      "fontId" : 3,
+      "text" : "National Appeals Division "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 281.0148,
+      "rightX" : 75,
+      "topY" : 269.0148,
+      "baseLineY" : 278.2798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 294.8148,
+      "rightX" : 111,
+      "topY" : 282.8148,
+      "baseLineY" : 292.0798,
+      "fontId" : 3,
+      "text" : "NEPA  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 294.8148,
+      "rightX" : 316.62,
+      "topY" : 282.8148,
+      "baseLineY" : 292.0798,
+      "fontId" : 3,
+      "text" : "National Environmental Policy Act "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 308.6148,
+      "rightX" : 75,
+      "topY" : 296.6148,
+      "baseLineY" : 305.8798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 322.4148,
+      "rightX" : 100.98,
+      "topY" : 310.4148,
+      "baseLineY" : 319.6798,
+      "fontId" : 3,
+      "text" : "NFIP "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 322.4148,
+      "rightX" : 111,
+      "topY" : 310.4148,
+      "baseLineY" : 319.6798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 322.4148,
+      "rightX" : 313.3199,
+      "topY" : 310.4148,
+      "baseLineY" : 319.6798,
+      "fontId" : 3,
+      "text" : "National Flood Insurance Program "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 336.2148,
+      "rightX" : 75,
+      "topY" : 324.2148,
+      "baseLineY" : 333.4798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 350.0148,
+      "rightX" : 100.32,
+      "topY" : 338.0148,
+      "baseLineY" : 347.2798,
+      "fontId" : 3,
+      "text" : "OGC "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 350.0148,
+      "rightX" : 111,
+      "topY" : 338.0148,
+      "baseLineY" : 347.2798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 350.0148,
+      "rightX" : 273.96,
+      "topY" : 338.0148,
+      "baseLineY" : 347.2798,
+      "fontId" : 3,
+      "text" : "Office of General Counsel "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 363.8147,
+      "rightX" : 75,
+      "topY" : 351.8147,
+      "baseLineY" : 361.0798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 377.6147,
+      "rightX" : 96.3,
+      "topY" : 365.6147,
+      "baseLineY" : 374.8798,
+      "fontId" : 3,
+      "text" : "OIG "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 377.6147,
+      "rightX" : 111,
+      "topY" : 365.6147,
+      "baseLineY" : 374.8798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 377.6147,
+      "rightX" : 279.3,
+      "topY" : 365.6147,
+      "baseLineY" : 374.8798,
+      "fontId" : 3,
+      "text" : "Office of Inspector General "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 391.4147,
+      "rightX" : 75,
+      "topY" : 379.4147,
+      "baseLineY" : 388.6797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 405.2147,
+      "rightX" : 85.68,
+      "topY" : 393.2147,
+      "baseLineY" : 402.4797,
+      "fontId" : 3,
+      "text" : "PI "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 405.2147,
+      "rightX" : 111,
+      "topY" : 393.2147,
+      "baseLineY" : 402.4797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 405.2147,
+      "rightX" : 249.66,
+      "topY" : 393.2147,
+      "baseLineY" : 402.4797,
+      "fontId" : 3,
+      "text" : "Principal and Interest "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 419.0147,
+      "rightX" : 75,
+      "topY" : 407.0147,
+      "baseLineY" : 416.2797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 432.8147,
+      "rightX" : 97.02,
+      "topY" : 420.8147,
+      "baseLineY" : 430.0797,
+      "fontId" : 3,
+      "text" : "PITI "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 432.8147,
+      "rightX" : 111,
+      "topY" : 420.8147,
+      "baseLineY" : 430.0797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 432.8147,
+      "rightX" : 340.02,
+      "topY" : 420.8147,
+      "baseLineY" : 430.0797,
+      "fontId" : 3,
+      "text" : "Principal, Interest, Taxes, and Insurance "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 446.6147,
+      "rightX" : 75,
+      "topY" : 434.6147,
+      "baseLineY" : 443.8797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 460.4147,
+      "rightX" : 111,
+      "topY" : 448.4147,
+      "baseLineY" : 457.6797,
+      "fontId" : 3,
+      "text" : "PRAS  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 460.4147,
+      "rightX" : 357.6,
+      "topY" : 448.4147,
+      "baseLineY" : 457.6797,
+      "fontId" : 3,
+      "text" : "Principal Reduction Attributable to Subsidy "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 474.2146,
+      "rightX" : 75,
+      "topY" : 462.2146,
+      "baseLineY" : 471.4797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 488.0146,
+      "rightX" : 91.68,
+      "topY" : 476.0146,
+      "baseLineY" : 485.2797,
+      "fontId" : 3,
+      "text" : "RD "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 488.0146,
+      "rightX" : 111,
+      "topY" : 476.0146,
+      "baseLineY" : 485.2797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 488.0146,
+      "rightX" : 241.32,
+      "topY" : 476.0146,
+      "baseLineY" : 485.2797,
+      "fontId" : 3,
+      "text" : "Rural Development "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 501.8146,
+      "rightX" : 75,
+      "topY" : 489.8146,
+      "baseLineY" : 499.0797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 515.6146,
+      "rightX" : 99,
+      "topY" : 503.6146,
+      "baseLineY" : 512.8796,
+      "fontId" : 3,
+      "text" : "REO "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 515.6146,
+      "rightX" : 111,
+      "topY" : 503.6146,
+      "baseLineY" : 512.8796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 515.6146,
+      "rightX" : 238.98,
+      "topY" : 503.6146,
+      "baseLineY" : 512.8796,
+      "fontId" : 3,
+      "text" : "Real Estate Owned "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 529.4146,
+      "rightX" : 75,
+      "topY" : 517.4146,
+      "baseLineY" : 526.6796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 543.2146,
+      "rightX" : 112.32,
+      "topY" : 531.2146,
+      "baseLineY" : 540.4796,
+      "fontId" : 3,
+      "text" : "RESPA "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 543.2146,
+      "rightX" : 352.56,
+      "topY" : 531.2146,
+      "baseLineY" : 540.4796,
+      "fontId" : 3,
+      "text" : "Real Estate and Settlement Procedures Act "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 557.0146,
+      "rightX" : 75,
+      "topY" : 545.0146,
+      "baseLineY" : 554.2797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 570.8146,
+      "rightX" : 98.34,
+      "topY" : 558.8146,
+      "baseLineY" : 568.0797,
+      "fontId" : 3,
+      "text" : "RHS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 570.8146,
+      "rightX" : 111,
+      "topY" : 558.8146,
+      "baseLineY" : 568.0797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 570.8146,
+      "rightX" : 256.32,
+      "topY" : 558.8146,
+      "baseLineY" : 568.0797,
+      "fontId" : 3,
+      "text" : "Rural Housing Service "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 584.6146,
+      "rightX" : 75,
+      "topY" : 572.6146,
+      "baseLineY" : 581.8796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 598.4146,
+      "rightX" : 113.7,
+      "topY" : 586.4146,
+      "baseLineY" : 595.6796,
+      "fontId" : 3,
+      "text" : "SCORE "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 598.4146,
+      "rightX" : 321.6599,
+      "topY" : 586.4146,
+      "baseLineY" : 595.6796,
+      "fontId" : 3,
+      "text" : "Service Corps of Retired Executives "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 612.2146,
+      "rightX" : 75,
+      "topY" : 600.2146,
+      "baseLineY" : 609.4796,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 626.0146,
+      "rightX" : 111,
+      "topY" : 614.0146,
+      "baseLineY" : 623.2797,
+      "fontId" : 3,
+      "text" : "SCRA  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 626.0146,
+      "rightX" : 346.68,
+      "topY" : 614.0146,
+      "baseLineY" : 623.2797,
+      "fontId" : 3,
+      "text" : "Servicemembers Civil Relief Act of 2003 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 639.8146,
+      "rightX" : 75,
+      "topY" : 627.8146,
+      "baseLineY" : 637.0797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 653.6146,
+      "rightX" : 120.96,
+      "topY" : 641.6146,
+      "baseLineY" : 650.8796,
+      "fontId" : 3,
+      "text" : "Servicing "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 653.6146,
+      "rightX" : 342.24,
+      "topY" : 641.6146,
+      "baseLineY" : 650.8796,
+      "fontId" : 3,
+      "text" : "Servicing and Asset Management Office "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 667.4147,
+      "rightX" : 105.66,
+      "topY" : 655.4147,
+      "baseLineY" : 664.6797,
+      "fontId" : 3,
+      "text" : "Office "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 681.2146,
+      "rightX" : 75,
+      "topY" : 669.2146,
+      "baseLineY" : 678.4797,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 702.6547,
+      "rightX" : 534.5145,
+      "topY" : 692.6547,
+      "baseLineY" : 700.3756,
+      "fontId" : 1,
+      "text" : "____________________________________________________________________________________________ "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 720.1195,
+      "rightX" : 74.495,
+      "topY" : 710.1195,
+      "baseLineY" : 717.8404,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 242.0294,
+      "bottomY" : 720.1195,
+      "rightX" : 336.4579,
+      "topY" : 710.1195,
+      "baseLineY" : 717.8404,
+      "fontId" : 1,
+      "text" : "Acronyms, Page 2 of 3 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 540.0209,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-2-3550"
+    }, {
+      "leftX" : 540,
+      "bottomY" : 84.095,
+      "rightX" : 543,
+      "topY" : 72.095,
+      "baseLineY" : 81.36,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 115.475,
+      "rightX" : 88.32,
+      "topY" : 103.475,
+      "baseLineY" : 112.74,
+      "fontId" : 3,
+      "text" : "SF "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 115.475,
+      "rightX" : 111,
+      "topY" : 103.475,
+      "baseLineY" : 112.74,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 115.475,
+      "rightX" : 218.64,
+      "topY" : 103.475,
+      "baseLineY" : 112.74,
+      "fontId" : 3,
+      "text" : "Standard Form "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 129.2749,
+      "rightX" : 75,
+      "topY" : 117.2749,
+      "baseLineY" : 126.54,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 143.0749,
+      "rightX" : 111,
+      "topY" : 131.0749,
+      "baseLineY" : 140.34,
+      "fontId" : 3,
+      "text" : "SFHA  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 143.0749,
+      "rightX" : 277.2599,
+      "topY" : 131.0749,
+      "baseLineY" : 140.34,
+      "fontId" : 3,
+      "text" : "Special Flood Hazard Area "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 156.8749,
+      "rightX" : 75,
+      "topY" : 144.8749,
+      "baseLineY" : 154.14,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 170.6749,
+      "rightX" : 97.02,
+      "topY" : 158.6749,
+      "baseLineY" : 167.9399,
+      "fontId" : 3,
+      "text" : "SFH "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 170.6749,
+      "rightX" : 111,
+      "topY" : 158.6749,
+      "baseLineY" : 167.9399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 170.6749,
+      "rightX" : 258.3,
+      "topY" : 158.6749,
+      "baseLineY" : 167.9399,
+      "fontId" : 3,
+      "text" : "Single Family Housing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 184.4749,
+      "rightX" : 75,
+      "topY" : 172.4749,
+      "baseLineY" : 181.7399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 198.2749,
+      "rightX" : 99.66,
+      "topY" : 186.2749,
+      "baseLineY" : 195.5399,
+      "fontId" : 3,
+      "text" : "TDD "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 198.2749,
+      "rightX" : 111,
+      "topY" : 186.2749,
+      "baseLineY" : 195.5399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 198.2749,
+      "rightX" : 340.92,
+      "topY" : 186.2749,
+      "baseLineY" : 195.5399,
+      "fontId" : 3,
+      "text" : "Telecommunication Device for the Deaf "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 212.0149,
+      "rightX" : 75,
+      "topY" : 200.0149,
+      "baseLineY" : 209.2799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 225.8149,
+      "rightX" : 97.68,
+      "topY" : 213.8149,
+      "baseLineY" : 223.0799,
+      "fontId" : 3,
+      "text" : "TSQ "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 225.8149,
+      "rightX" : 111,
+      "topY" : 213.8149,
+      "baseLineY" : 223.0799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 225.8149,
+      "rightX" : 309.6,
+      "topY" : 213.8149,
+      "baseLineY" : 223.0799,
+      "fontId" : 3,
+      "text" : "Transaction Screen Questionnaire "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 239.6148,
+      "rightX" : 75,
+      "topY" : 227.6148,
+      "baseLineY" : 236.8799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 253.4148,
+      "rightX" : 111,
+      "topY" : 241.4148,
+      "baseLineY" : 250.6799,
+      "fontId" : 3,
+      "text" : "U.S.C.  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 253.4148,
+      "rightX" : 239.64,
+      "topY" : 241.4148,
+      "baseLineY" : 250.6799,
+      "fontId" : 3,
+      "text" : "United States Code "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 267.2148,
+      "rightX" : 75,
+      "topY" : 255.2148,
+      "baseLineY" : 264.4799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 281.0148,
+      "rightX" : 111,
+      "topY" : 269.0148,
+      "baseLineY" : 278.2798,
+      "fontId" : 3,
+      "text" : "USDA  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 281.0148,
+      "rightX" : 363.84,
+      "topY" : 269.0148,
+      "baseLineY" : 278.2798,
+      "fontId" : 3,
+      "text" : "The United States Department of Agriculture "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 294.8148,
+      "rightX" : 75,
+      "topY" : 282.8148,
+      "baseLineY" : 292.0798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 308.6148,
+      "rightX" : 92.34,
+      "topY" : 296.6148,
+      "baseLineY" : 305.8798,
+      "fontId" : 3,
+      "text" : "VA "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 308.6148,
+      "rightX" : 111,
+      "topY" : 296.6148,
+      "baseLineY" : 305.8798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 308.6148,
+      "rightX" : 299.22,
+      "topY" : 296.6148,
+      "baseLineY" : 305.8798,
+      "fontId" : 3,
+      "text" : "Department of Veterans Affairs "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 322.4148,
+      "rightX" : 75,
+      "topY" : 310.4148,
+      "baseLineY" : 319.6798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 336.2148,
+      "rightX" : 111,
+      "topY" : 324.2148,
+      "baseLineY" : 333.4798,
+      "fontId" : 3,
+      "text" : "VISTA  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 336.2148,
+      "rightX" : 307.56,
+      "topY" : 324.2148,
+      "baseLineY" : 333.4798,
+      "fontId" : 3,
+      "text" : "Volunteers in Service to America "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 350.0148,
+      "rightX" : 75,
+      "topY" : 338.0148,
+      "baseLineY" : 347.2798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 679.6191,
+      "rightX" : 384.555,
+      "topY" : 669.6191,
+      "baseLineY" : 677.34,
+      "fontId" : 1,
+      "text" : "______________________________________________________________ "
+    }, {
+      "leftX" : 382.0161,
+      "bottomY" : 679.6191,
+      "rightX" : 534.5233,
+      "topY" : 669.6191,
+      "baseLineY" : 677.34,
+      "fontId" : 1,
+      "text" : "______________________________ "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 697.1441,
+      "rightX" : 74.505,
+      "topY" : 687.1441,
+      "baseLineY" : 694.865,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 245.0955,
+      "bottomY" : 697.1441,
+      "rightX" : 333.4048,
+      "topY" : 687.1441,
+      "baseLineY" : 694.865,
+      "fontId" : 1,
+      "text" : "Glossary, Page 3 of 3 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.607,
+      "rightX" : 176.1378,
+      "topY" : 698.607,
+      "baseLineY" : 706.3279,
+      "fontId" : 1,
+      "text" : "(12-23-96) SPECIAL PN "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 720.13,
+      "rightX" : 213.3722,
+      "topY" : 710.13,
+      "baseLineY" : 717.8508,
+      "fontId" : 1,
+      "text" : "Revised (03-31-21)  SPECIAL PN "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

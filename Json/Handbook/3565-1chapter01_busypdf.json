@@ -1,0 +1,6079 @@
+{
+  "pdfDoc" : "3565-1chapter01.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.1599,
+      "bottomY" : 83.3712,
+      "rightX" : 542.4994,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72.0003,
+      "bottomY" : 95.0716,
+      "rightX" : 74.5053,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 119.1917,
+      "rightX" : 483.5245,
+      "topY" : 105.1917,
+      "baseLineY" : 116.46,
+      "fontId" : 2,
+      "text" : "CHAPTER 1:  OVERVIEW OF GUARANTEED RURAL "
+    }, {
+      "leftX" : 152.58,
+      "bottomY" : 135.5717,
+      "rightX" : 462.8647,
+      "topY" : 121.5717,
+      "baseLineY" : 132.84,
+      "fontId" : 2,
+      "text" : "RENTAL HOUSING PROGRAM ORIGINATION "
+    }, {
+      "leftX" : 206.28,
+      "bottomY" : 151.9517,
+      "rightX" : 409.127,
+      "topY" : 137.9517,
+      "baseLineY" : 149.22,
+      "fontId" : 2,
+      "text" : "AND SERVICING HANDBOOK "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 185.6415,
+      "rightX" : 89.9712,
+      "topY" : 173.6415,
+      "baseLineY" : 183.3,
+      "fontId" : 3,
+      "text" : "1.1 "
+    }, {
+      "leftX" : 107.9712,
+      "bottomY" : 185.6415,
+      "rightX" : 206.856,
+      "topY" : 173.6415,
+      "baseLineY" : 183.3,
+      "fontId" : 3,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 211.5014,
+      "rightX" : 518.3162,
+      "topY" : 199.5014,
+      "baseLineY" : 209.16,
+      "fontId" : 4,
+      "text" : "This chapter provides an overview of the Guaranteed Rural Rental Housing Program "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 225.4814,
+      "rightX" : 473.2528,
+      "topY" : 213.4814,
+      "baseLineY" : 223.14,
+      "fontId" : 4,
+      "text" : "(GRRHP) Handbook and key program features.  It includes the following sections: "
+    }, {
+      "leftX" : 240.48,
+      "bottomY" : 267.8263,
+      "rightX" : 369.6641,
+      "topY" : 256.8263,
+      "baseLineY" : 265.68,
+      "fontId" : 5,
+      "text" : "Key Topics in this Chapter "
+    }, {
+      "leftX" : 195.72,
+      "bottomY" : 286.4863,
+      "rightX" : 314.091,
+      "topY" : 275.4863,
+      "baseLineY" : 284.34,
+      "fontId" : 6,
+      "text" : "Section 1:  The Handbook "
+    }, {
+      "leftX" : 195.72,
+      "bottomY" : 299.2063,
+      "rightX" : 416.4685,
+      "topY" : 288.2063,
+      "baseLineY" : 297.06,
+      "fontId" : 6,
+      "text" : "Section 2:  The Rural Housing Service (RHS)       "
+    }, {
+      "leftX" : 416.4839,
+      "bottomY" : 299.2063,
+      "rightX" : 421.9893,
+      "topY" : 288.2063,
+      "baseLineY" : 297.06,
+      "fontId" : 6,
+      "text" : "  "
+    }, {
+      "leftX" : 422.0047,
+      "bottomY" : 299.2063,
+      "rightX" : 433.0308,
+      "topY" : 288.2063,
+      "baseLineY" : 297.06,
+      "fontId" : 6,
+      "text" : "    "
+    }, {
+      "leftX" : 195.72,
+      "bottomY" : 311.9263,
+      "rightX" : 332.2201,
+      "topY" : 300.9263,
+      "baseLineY" : 309.78,
+      "fontId" : 6,
+      "text" : "Section 3:  Program Overview "
+    }, {
+      "leftX" : 195.72,
+      "bottomY" : 324.6463,
+      "rightX" : 345.0139,
+      "topY" : 313.6463,
+      "baseLineY" : 322.5,
+      "fontId" : 6,
+      "text" : "Section 4:  Federal Requirements "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 363.5717,
+      "rightX" : 309.495,
+      "topY" : 349.5717,
+      "baseLineY" : 360.84,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 207.3599,
+      "bottomY" : 391.9511,
+      "rightX" : 408.0372,
+      "topY" : 377.9511,
+      "baseLineY" : 389.2194,
+      "fontId" : 2,
+      "text" : "SECTION 1: THE HANDBOOK "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 418.0215,
+      "rightX" : 89.9712,
+      "topY" : 406.0215,
+      "baseLineY" : 415.68,
+      "fontId" : 3,
+      "text" : "1.2 "
+    }, {
+      "leftX" : 107.9712,
+      "bottomY" : 418.0215,
+      "rightX" : 166.908,
+      "topY" : 406.0215,
+      "baseLineY" : 415.68,
+      "fontId" : 3,
+      "text" : "PURPOSE "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 443.8814,
+      "rightX" : 523.1768,
+      "topY" : 431.8814,
+      "baseLineY" : 441.54,
+      "fontId" : 4,
+      "text" : "This handbook provides lenders and Rural Housing Service (hereinafter referred to as "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 457.8615,
+      "rightX" : 528.8821,
+      "topY" : 445.8615,
+      "baseLineY" : 455.52,
+      "fontId" : 4,
+      "text" : "RHS or the Agency) staff with guidance on the origination and servicing of GRRHP loans and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 471.8415,
+      "rightX" : 537.5962,
+      "topY" : 459.8415,
+      "baseLineY" : 469.5,
+      "fontId" : 4,
+      "text" : "the approval of qualified lenders.  Lenders will use this handbook as a guide for carrying out the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 485.8215,
+      "rightX" : 522.9033,
+      "topY" : 473.8215,
+      "baseLineY" : 483.48,
+      "fontId" : 4,
+      "text" : "activities and procedures required by the regulation.  Agency staff will use the handbook as a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 499.8015,
+      "rightX" : 432.8425,
+      "topY" : 487.8015,
+      "baseLineY" : 497.46,
+      "fontId" : 4,
+      "text" : "reference to monitor and evaluate a lender’s performance in the program.   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 525.7815,
+      "rightX" : 541.4882,
+      "topY" : 513.7815,
+      "baseLineY" : 523.4401,
+      "fontId" : 4,
+      "text" : "These instructions are intended to be consistent with all applicable laws, civil rights laws, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 539.7615,
+      "rightX" : 518.6393,
+      "topY" : 527.7615,
+      "baseLineY" : 537.42,
+      "fontId" : 4,
+      "text" : "Executive Orders, and U.S. Department of Agriculture (USDA) regulations.  Nothing in this "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 553.7415,
+      "rightX" : 529.7162,
+      "topY" : 541.7415,
+      "baseLineY" : 551.4,
+      "fontId" : 4,
+      "text" : "handbook should be construed to supersede, rescind, or otherwise amend such laws, Executive "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 567.7215,
+      "rightX" : 190.4664,
+      "topY" : 555.7215,
+      "baseLineY" : 565.38,
+      "fontId" : 4,
+      "text" : "Orders, and regulations. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 593.7014,
+      "rightX" : 515.8394,
+      "topY" : 581.7014,
+      "baseLineY" : 591.36,
+      "fontId" : 4,
+      "text" : "This handbook and any additions or revisions to this handbook will be distributed to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 607.6815,
+      "rightX" : 378.5878,
+      "topY" : 595.6815,
+      "baseLineY" : 605.34,
+      "fontId" : 4,
+      "text" : "approved lenders and are available to other interested parties at "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 621.6615,
+      "rightX" : 289.4353,
+      "topY" : 609.6615,
+      "baseLineY" : 619.32,
+      "fontId" : 7,
+      "text" : "www.rurdev.usda.gov/regs/hblist.html#hbw6"
+    }, {
+      "leftX" : 289.44,
+      "bottomY" : 621.6615,
+      "rightX" : 295.44,
+      "topY" : 609.6615,
+      "baseLineY" : 619.32,
+      "fontId" : 4,
+      "text" : ". "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 647.6415,
+      "rightX" : 111,
+      "topY" : 635.6415,
+      "baseLineY" : 645.3,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 661.6215,
+      "rightX" : 111,
+      "topY" : 649.6215,
+      "baseLineY" : 659.28,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 675.6015,
+      "rightX" : 543,
+      "topY" : 663.6015,
+      "baseLineY" : 673.26,
+      "fontId" : 4,
+      "text" : "______________________________________________________________________________ "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 687.3312,
+      "rightX" : 315.2258,
+      "topY" : 677.3312,
+      "baseLineY" : 685.38,
+      "fontId" : 1,
+      "text" : "1-1 "
+    }, {
+      "leftX" : 72.0003,
+      "bottomY" : 699.0315,
+      "rightX" : 151.1393,
+      "topY" : 689.0315,
+      "baseLineY" : 697.0803,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455"
+    }, {
+      "leftX" : 151.2,
+      "bottomY" : 699.4215,
+      "rightX" : 154.2,
+      "topY" : 687.4215,
+      "baseLineY" : 697.08,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 712.9815,
+      "rightX" : 75,
+      "topY" : 700.9815,
+      "baseLineY" : 710.64,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.3712,
+      "rightX" : 120.3395,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.0716,
+      "rightX" : 74.505,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 109.2014,
+      "rightX" : 89.9964,
+      "topY" : 97.2014,
+      "baseLineY" : 106.86,
+      "fontId" : 3,
+      "text" : "1.3 "
+    }, {
+      "leftX" : 107.9964,
+      "bottomY" : 109.2014,
+      "rightX" : 251.6651,
+      "topY" : 97.2014,
+      "baseLineY" : 106.86,
+      "fontId" : 3,
+      "text" : "USING THE HANDBOOK "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 135.0614,
+      "rightX" : 529.3418,
+      "topY" : 123.0614,
+      "baseLineY" : 132.72,
+      "fontId" : 4,
+      "text" : "This handbook has been organized for ease in looking up information.  Several graphic "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 149.0414,
+      "rightX" : 501.9386,
+      "topY" : 137.0414,
+      "baseLineY" : 146.7,
+      "fontId" : 4,
+      "text" : "tools and conventions have been used to make information easier to find and understand. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 175.2014,
+      "rightX" : 122.6688,
+      "topY" : 163.2014,
+      "baseLineY" : 172.8599,
+      "fontId" : 3,
+      "text" : "A. "
+    }, {
+      "leftX" : 144.0288,
+      "bottomY" : 175.2014,
+      "rightX" : 247.4327,
+      "topY" : 163.2014,
+      "baseLineY" : 172.8599,
+      "fontId" : 3,
+      "text" : "Handbook Symbols "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 201.647,
+      "rightX" : 113.52,
+      "topY" : 189.647,
+      "baseLineY" : 199.4999,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 201.7688,
+      "rightX" : 116.856,
+      "topY" : 189.7688,
+      "baseLineY" : 199.4999,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 201.8414,
+      "rightX" : 182.0436,
+      "topY" : 189.8414,
+      "baseLineY" : 199.4999,
+      "fontId" : 3,
+      "text" : "References"
+    }, {
+      "leftX" : 182.04,
+      "bottomY" : 201.8414,
+      "rightX" : 486.9746,
+      "topY" : 189.8414,
+      "baseLineY" : 199.4999,
+      "fontId" : 4,
+      "text" : ".  The book symbol directs the reader to additional information "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 215.8214,
+      "rightX" : 368.6902,
+      "topY" : 203.8214,
+      "baseLineY" : 213.4799,
+      "fontId" : 4,
+      "text" : "sources, such as laws, regulations, or instructions. "
+    }, {
+      "leftX" : 530.58,
+      "bottomY" : 215.7312,
+      "rightX" : 533.085,
+      "topY" : 205.7312,
+      "baseLineY" : 213.78,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 248.387,
+      "rightX" : 113.52,
+      "topY" : 236.387,
+      "baseLineY" : 246.2399,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 248.5087,
+      "rightX" : 116.856,
+      "topY" : 236.5087,
+      "baseLineY" : 246.2399,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 248.5814,
+      "rightX" : 183.804,
+      "topY" : 236.5814,
+      "baseLineY" : 246.2399,
+      "fontId" : 3,
+      "text" : "Civil rights"
+    }, {
+      "leftX" : 183.78,
+      "bottomY" : 248.5814,
+      "rightX" : 462.0051,
+      "topY" : 236.5814,
+      "baseLineY" : 246.2399,
+      "fontId" : 4,
+      "text" : ".  A modified fair housing logotype highlights processing "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 262.5614,
+      "rightX" : 453.8774,
+      "topY" : 250.5614,
+      "baseLineY" : 260.2199,
+      "fontId" : 4,
+      "text" : "procedures with significant fair housing or civil rights implications. "
+    }, {
+      "leftX" : 539.58,
+      "bottomY" : 280.1112,
+      "rightX" : 542.085,
+      "topY" : 270.1112,
+      "baseLineY" : 278.16,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 295.127,
+      "rightX" : 113.52,
+      "topY" : 283.127,
+      "baseLineY" : 292.9799,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 295.2487,
+      "rightX" : 116.856,
+      "topY" : 283.2487,
+      "baseLineY" : 292.9799,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 295.3214,
+      "rightX" : 176.0424,
+      "topY" : 283.3214,
+      "baseLineY" : 292.9799,
+      "fontId" : 3,
+      "text" : "Deadlines"
+    }, {
+      "leftX" : 176.04,
+      "bottomY" : 295.3214,
+      "rightX" : 478.5145,
+      "topY" : 283.3214,
+      "baseLineY" : 292.9799,
+      "fontId" : 4,
+      "text" : ".  Time frames for completing required actions are highlighted "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 309.3014,
+      "rightX" : 532.3599,
+      "topY" : 297.3014,
+      "baseLineY" : 306.9599,
+      "fontId" : 4,
+      "text" : "by a small clock to make them easier to locate.  Deadlines are also underlined in the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 323.2814,
+      "rightX" : 526.4786,
+      "topY" : 311.2814,
+      "baseLineY" : 320.9399,
+      "fontId" : 4,
+      "text" : "text.  Deadlines are generally expressed in terms of calendar days unless otherwise "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 337.2614,
+      "rightX" : 158.7,
+      "topY" : 325.2614,
+      "baseLineY" : 334.92,
+      "fontId" : 4,
+      "text" : "noted. "
+    }, {
+      "leftX" : 525.5399,
+      "bottomY" : 355.1712,
+      "rightX" : 528.0449,
+      "topY" : 345.1712,
+      "baseLineY" : 353.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 369.827,
+      "rightX" : 113.52,
+      "topY" : 357.827,
+      "baseLineY" : 367.68,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 369.9488,
+      "rightX" : 116.856,
+      "topY" : 357.9488,
+      "baseLineY" : 367.68,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 370.0214,
+      "rightX" : 196.1496,
+      "topY" : 358.0214,
+      "baseLineY" : 367.68,
+      "fontId" : 3,
+      "text" : "Helpful hints."
+    }, {
+      "leftX" : 196.14,
+      "bottomY" : 370.0214,
+      "rightX" : 480.1586,
+      "topY" : 358.0214,
+      "baseLineY" : 367.68,
+      "fontId" : 4,
+      "text" : "  Helpful hints, cautions, or important facts are included in "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 384.0014,
+      "rightX" : 447.9553,
+      "topY" : 372.0014,
+      "baseLineY" : 381.66,
+      "fontId" : 4,
+      "text" : "text boxes throughout the handbook and display this hand symbol. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 410.1614,
+      "rightX" : 122.0064,
+      "topY" : 398.1614,
+      "baseLineY" : 407.82,
+      "fontId" : 3,
+      "text" : "B. "
+    }, {
+      "leftX" : 126.0264,
+      "bottomY" : 410.1614,
+      "rightX" : 257.3917,
+      "topY" : 398.1614,
+      "baseLineY" : 407.82,
+      "fontId" : 3,
+      "text" : "Citations and Text Boxes "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 435.8281,
+      "rightX" : 113.0508,
+      "topY" : 424.8281,
+      "baseLineY" : 433.86,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 435.9397,
+      "rightX" : 116.0923,
+      "topY" : 424.9397,
+      "baseLineY" : 433.86,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 436.2014,
+      "rightX" : 232.7928,
+      "topY" : 424.2014,
+      "baseLineY" : 433.86,
+      "fontId" : 3,
+      "text" : "Regulatory citations."
+    }, {
+      "leftX" : 232.8,
+      "bottomY" : 436.2014,
+      "rightX" : 281.5104,
+      "topY" : 424.2014,
+      "baseLineY" : 433.86,
+      "fontId" : 4,
+      "text" : "  The text "
+    }, {
+      "leftX" : 334.5,
+      "bottomY" : 445.0063,
+      "rightX" : 491.7787,
+      "topY" : 434.0063,
+      "baseLineY" : 442.86,
+      "fontId" : 5,
+      "text" : "The Code of Federal Regulations "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 450.1815,
+      "rightX" : 251.352,
+      "topY" : 438.1815,
+      "baseLineY" : 447.84,
+      "fontId" : 4,
+      "text" : "of the GRRHP regulation "
+    }, {
+      "leftX" : 251.34,
+      "bottomY" : 449.9863,
+      "rightX" : 255.6112,
+      "topY" : 438.9863,
+      "baseLineY" : 447.84,
+      "fontId" : 12,
+      "text" : "["
+    }, {
+      "leftX" : 255.54,
+      "bottomY" : 450.1815,
+      "rightX" : 264.54,
+      "topY" : 438.1815,
+      "baseLineY" : 447.84,
+      "fontId" : 13,
+      "text" : "7 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 464.1615,
+      "rightX" : 203.3532,
+      "topY" : 452.1615,
+      "baseLineY" : 461.82,
+      "fontId" : 13,
+      "text" : "CFR part 3565]"
+    }, {
+      "leftX" : 203.64,
+      "bottomY" : 464.1615,
+      "rightX" : 275.7408,
+      "topY" : 452.1615,
+      "baseLineY" : 461.82,
+      "fontId" : 4,
+      "text" : " is provided in "
+    }, {
+      "leftX" : 296.64,
+      "bottomY" : 469.9064,
+      "rightX" : 381.2058,
+      "topY" : 458.9064,
+      "baseLineY" : 467.76,
+      "fontId" : 5,
+      "text" : "What is the CFR?"
+    }, {
+      "leftX" : 381.2398,
+      "bottomY" : 469.9064,
+      "rightX" : 447.2845,
+      "topY" : 458.9064,
+      "baseLineY" : 467.76,
+      "fontId" : 6,
+      "text" : "  The Code of  "
+    }, {
+      "leftX" : 530.58,
+      "bottomY" : 461.1312,
+      "rightX" : 533.085,
+      "topY" : 451.1312,
+      "baseLineY" : 459.18,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 478.1415,
+      "rightX" : 274.446,
+      "topY" : 466.1415,
+      "baseLineY" : 475.8,
+      "fontId" : 4,
+      "text" : "Appendix 1.  All references to "
+    }, {
+      "leftX" : 296.64,
+      "bottomY" : 482.6264,
+      "rightX" : 525.4852,
+      "topY" : 471.6264,
+      "baseLineY" : 480.48,
+      "fontId" : 6,
+      "text" : "Federal Regulations (CFR) is published in volumes "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 492.1215,
+      "rightX" : 245.5799,
+      "topY" : 480.1215,
+      "baseLineY" : 489.78,
+      "fontId" : 4,
+      "text" : "this regulation appear in "
+    }, {
+      "leftX" : 296.64,
+      "bottomY" : 495.3464,
+      "rightX" : 494.7522,
+      "topY" : 484.3464,
+      "baseLineY" : 493.2,
+      "fontId" : 6,
+      "text" : "and is numbered according to the Agency or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 506.1015,
+      "rightX" : 252.588,
+      "topY" : 494.1015,
+      "baseLineY" : 503.76,
+      "fontId" : 4,
+      "text" : "italicized brackets.  Other "
+    }, {
+      "leftX" : 296.64,
+      "bottomY" : 508.0664,
+      "rightX" : 526.8984,
+      "topY" : 497.0664,
+      "baseLineY" : 505.92,
+      "fontId" : 6,
+      "text" : "subject.  The part pertaining to USDA can be found "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 520.0815,
+      "rightX" : 278.8848,
+      "topY" : 508.0815,
+      "baseLineY" : 517.7401,
+      "fontId" : 4,
+      "text" : "referenced regulations or Rural "
+    }, {
+      "leftX" : 296.64,
+      "bottomY" : 520.7864,
+      "rightX" : 394.2269,
+      "topY" : 509.7864,
+      "baseLineY" : 518.64,
+      "fontId" : 6,
+      "text" : "in Title 7 of the CFR. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 534.0616,
+      "rightX" : 281.1047,
+      "topY" : 522.0616,
+      "baseLineY" : 531.7201,
+      "fontId" : 4,
+      "text" : "Development (RD) Instructions "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 548.0415,
+      "rightX" : 227.6039,
+      "topY" : 536.0415,
+      "baseLineY" : 545.7001,
+      "fontId" : 4,
+      "text" : "may be found on the "
+    }, {
+      "leftX" : 296.64,
+      "bottomY" : 536.7463,
+      "rightX" : 471.0354,
+      "topY" : 525.7463,
+      "baseLineY" : 534.6,
+      "fontId" : 5,
+      "text" : "Where do I find Federal regulations?"
+    }, {
+      "leftX" : 471.0595,
+      "bottomY" : 536.7463,
+      "rightX" : 504.2817,
+      "topY" : 525.7463,
+      "baseLineY" : 534.6,
+      "fontId" : 6,
+      "text" : "  Some "
+    }, {
+      "leftX" : 296.64,
+      "bottomY" : 549.4663,
+      "rightX" : 406.8309,
+      "topY" : 538.4663,
+      "baseLineY" : 547.32,
+      "fontId" : 6,
+      "text" : "sources for the CFR are: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 562.0215,
+      "rightX" : 232.9727,
+      "topY" : 550.0215,
+      "baseLineY" : 559.6801,
+      "fontId" : 4,
+      "text" : "USDA/RD website at "
+    }, {
+      "leftX" : 314.6395,
+      "bottomY" : 565.9663,
+      "rightX" : 524.4344,
+      "topY" : 554.9663,
+      "baseLineY" : 563.82,
+      "fontId" : 6,
+      "text" : "Purchase it from the U.S. Government Printing "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 576.0015,
+      "rightX" : 280.7568,
+      "topY" : 564.0015,
+      "baseLineY" : 573.66,
+      "fontId" : 4,
+      "text" : "http://www.rurdev.usda.gov/Re "
+    }, {
+      "leftX" : 296.64,
+      "bottomY" : 565.7881,
+      "rightX" : 301.6908,
+      "topY" : 554.7881,
+      "baseLineY" : 563.82,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 301.6798,
+      "bottomY" : 565.8998,
+      "rightX" : 304.7323,
+      "topY" : 554.8998,
+      "baseLineY" : 563.82,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 314.64,
+      "bottomY" : 578.6863,
+      "rightX" : 485.0562,
+      "topY" : 567.6863,
+      "baseLineY" : 576.54,
+      "fontId" : 6,
+      "text" : "Office, Superintendent of Documents, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 589.9815,
+      "rightX" : 261.7043,
+      "topY" : 577.9815,
+      "baseLineY" : 587.64,
+      "fontId" : 4,
+      "text" : "gulationsAndGuidance.html"
+    }, {
+      "leftX" : 261.72,
+      "bottomY" : 589.7864,
+      "rightX" : 264.465,
+      "topY" : 578.7864,
+      "baseLineY" : 587.64,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 314.64,
+      "bottomY" : 591.4064,
+      "rightX" : 450.2277,
+      "topY" : 580.4064,
+      "baseLineY" : 589.26,
+      "fontId" : 6,
+      "text" : "Washington, DC 20402-9328. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 616.7415,
+      "rightX" : 219.4139,
+      "topY" : 604.7415,
+      "baseLineY" : 614.4,
+      "fontId" : 3,
+      "text" : "Form references.  "
+    }, {
+      "leftX" : 219.42,
+      "bottomY" : 616.7415,
+      "rightX" : 259.74,
+      "topY" : 604.7415,
+      "baseLineY" : 614.4,
+      "fontId" : 4,
+      "text" : "Agency "
+    }, {
+      "leftX" : 296.64,
+      "bottomY" : 607.7281,
+      "rightX" : 301.6908,
+      "topY" : 596.7281,
+      "baseLineY" : 605.76,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 301.6798,
+      "bottomY" : 607.8398,
+      "rightX" : 304.7323,
+      "topY" : 596.8398,
+      "baseLineY" : 605.76,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 314.6395,
+      "bottomY" : 607.9064,
+      "rightX" : 470.1097,
+      "topY" : 596.9064,
+      "baseLineY" : 605.76,
+      "fontId" : 6,
+      "text" : "View the e-CFR on the Internet at: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 616.5471,
+      "rightX" : 113.52,
+      "topY" : 604.5471,
+      "baseLineY" : 614.4,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 616.6688,
+      "rightX" : 116.856,
+      "topY" : 604.6688,
+      "baseLineY" : 614.4,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 630.7215,
+      "rightX" : 253.9247,
+      "topY" : 618.7215,
+      "baseLineY" : 628.38,
+      "fontId" : 4,
+      "text" : "forms, guides, and system "
+    }, {
+      "leftX" : 314.64,
+      "bottomY" : 620.6263,
+      "rightX" : 496.9958,
+      "topY" : 609.6263,
+      "baseLineY" : 618.48,
+      "fontId" : 14,
+      "text" : "http://www.gpoaccess.gov/cfr/index.html"
+    }, {
+      "leftX" : 496.9805,
+      "bottomY" : 620.6263,
+      "rightX" : 502.4858,
+      "topY" : 609.6263,
+      "baseLineY" : 618.48,
+      "fontId" : 6,
+      "text" : ". "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 644.7014,
+      "rightX" : 260.616,
+      "topY" : 632.7014,
+      "baseLineY" : 642.36,
+      "fontId" : 4,
+      "text" : "letters are shown in italics.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 658.6814,
+      "rightX" : 364.8625,
+      "topY" : 646.6814,
+      "baseLineY" : 656.34,
+      "fontId" : 4,
+      "text" : "Appendix 2 lists all forms used in this handbook. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 685.247,
+      "rightX" : 113.52,
+      "topY" : 673.247,
+      "baseLineY" : 683.1,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 685.3688,
+      "rightX" : 116.856,
+      "topY" : 673.3688,
+      "baseLineY" : 683.1,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 685.4414,
+      "rightX" : 244.4244,
+      "topY" : 673.4414,
+      "baseLineY" : 683.1,
+      "fontId" : 3,
+      "text" : "Examples and exhibits."
+    }, {
+      "leftX" : 244.44,
+      "bottomY" : 685.4414,
+      "rightX" : 507.7154,
+      "topY" : 673.4414,
+      "baseLineY" : 683.1,
+      "fontId" : 4,
+      "text" : "  Text boxes labeled as examples or exhibits provide a "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 699.4214,
+      "rightX" : 528.4221,
+      "topY" : 687.4214,
+      "baseLineY" : 697.08,
+      "fontId" : 4,
+      "text" : "specific illustration of a concept described in the text or provide additional detailed "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 719.6713,
+      "rightX" : 74.505,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 281.2797,
+      "bottomY" : 719.6713,
+      "rightX" : 297.2256,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : "1-2 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.1599,
+      "bottomY" : 83.3712,
+      "rightX" : 542.4994,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72.0003,
+      "bottomY" : 95.0716,
+      "rightX" : 74.5053,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 109.0216,
+      "rightX" : 516.1965,
+      "topY" : 97.0216,
+      "baseLineY" : 106.6801,
+      "fontId" : 4,
+      "text" : "information.  Exhibits are numbered in sequence, using the chapter number.  For "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 123.0016,
+      "rightX" : 526.3129,
+      "topY" : 111.0016,
+      "baseLineY" : 120.6601,
+      "fontId" : 4,
+      "text" : "example, Exhibit 2-1 is the first exhibit in Chapter 2.  Examples are not numbered. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 149.1615,
+      "rightX" : 122.664,
+      "topY" : 137.1615,
+      "baseLineY" : 146.8201,
+      "fontId" : 3,
+      "text" : "C. "
+    }, {
+      "leftX" : 126.024,
+      "bottomY" : 149.1615,
+      "rightX" : 279.024,
+      "topY" : 137.1615,
+      "baseLineY" : 146.8201,
+      "fontId" : 3,
+      "text" : "Attachments and Appendices "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 169.6071,
+      "rightX" : 113.52,
+      "topY" : 157.6071,
+      "baseLineY" : 167.4601,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 169.7289,
+      "rightX" : 116.856,
+      "topY" : 157.7289,
+      "baseLineY" : 167.4601,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 169.8015,
+      "rightX" : 200.388,
+      "topY" : 157.8015,
+      "baseLineY" : 167.4601,
+      "fontId" : 3,
+      "text" : "Attachments.  "
+    }, {
+      "leftX" : 200.4,
+      "bottomY" : 169.8015,
+      "rightX" : 534.6888,
+      "topY" : 157.8015,
+      "baseLineY" : 167.4601,
+      "fontId" : 4,
+      "text" : "Attachments at the end of each chapter contain technical information "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 183.7815,
+      "rightX" : 523.2303,
+      "topY" : 171.7815,
+      "baseLineY" : 181.4401,
+      "fontId" : 4,
+      "text" : "that is specific to the topics covered in the chapter.  Attachments are referenced in "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 197.7615,
+      "rightX" : 533.6112,
+      "topY" : 185.7615,
+      "baseLineY" : 195.42,
+      "fontId" : 4,
+      "text" : "sequence, using the chapter number and a letter; for example, Attachment 4-A is the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 211.7415,
+      "rightX" : 269.4911,
+      "topY" : 199.7415,
+      "baseLineY" : 209.4,
+      "fontId" : 4,
+      "text" : "first attachment in Chapter 4. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.3071,
+      "rightX" : 113.52,
+      "topY" : 220.3071,
+      "baseLineY" : 230.16,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 232.4289,
+      "rightX" : 116.856,
+      "topY" : 220.4289,
+      "baseLineY" : 230.16,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 232.5015,
+      "rightX" : 278.826,
+      "topY" : 220.5015,
+      "baseLineY" : 230.16,
+      "fontId" : 3,
+      "text" : "Glossary and acronyms lists.  "
+    }, {
+      "leftX" : 278.88,
+      "bottomY" : 232.5015,
+      "rightX" : 541.6969,
+      "topY" : 220.5015,
+      "baseLineY" : 230.16,
+      "fontId" : 4,
+      "text" : "Key words and terms are defined in the glossary.  The "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 246.4815,
+      "rightX" : 493.69,
+      "topY" : 234.4815,
+      "baseLineY" : 244.14,
+      "fontId" : 4,
+      "text" : "glossary and list of acronyms can be found immediately before Appendix 1. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 271.0671,
+      "rightX" : 113.52,
+      "topY" : 259.0671,
+      "baseLineY" : 268.92,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 271.1889,
+      "rightX" : 116.856,
+      "topY" : 259.1889,
+      "baseLineY" : 268.92,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 271.2615,
+      "rightX" : 188.34,
+      "topY" : 259.2615,
+      "baseLineY" : 268.92,
+      "fontId" : 3,
+      "text" : "Appendices."
+    }, {
+      "leftX" : 188.34,
+      "bottomY" : 271.2615,
+      "rightX" : 502.1549,
+      "topY" : 259.2615,
+      "baseLineY" : 268.92,
+      "fontId" : 4,
+      "text" : "  Appendices at the end of the handbook include forms and other "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 285.2415,
+      "rightX" : 481.4709,
+      "topY" : 273.2415,
+      "baseLineY" : 282.9001,
+      "fontId" : 4,
+      "text" : "reference materials that relate to multiple chapters or the entire handbook."
+    }, {
+      "leftX" : 481.5,
+      "bottomY" : 285.2415,
+      "rightX" : 484.5,
+      "topY" : 273.2415,
+      "baseLineY" : 282.9001,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 136.62,
+      "bottomY" : 307.7117,
+      "rightX" : 478.7204,
+      "topY" : 293.7117,
+      "baseLineY" : 304.98,
+      "fontId" : 2,
+      "text" : "SECTION 2: THE RURAL HOUSING SERVICE (RHS) "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 333.7815,
+      "rightX" : 89.9856,
+      "topY" : 321.7815,
+      "baseLineY" : 331.44,
+      "fontId" : 3,
+      "text" : "1.4 "
+    }, {
+      "leftX" : 107.9844,
+      "bottomY" : 333.7815,
+      "rightX" : 235.092,
+      "topY" : 321.7815,
+      "baseLineY" : 331.44,
+      "fontId" : 3,
+      "text" : "RHS ORGANIZATION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 359.6415,
+      "rightX" : 523.0636,
+      "topY" : 347.6415,
+      "baseLineY" : 357.3,
+      "fontId" : 4,
+      "text" : "RHS is a credit agency within USDA for rural housing and community development.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 373.6215,
+      "rightX" : 508.6941,
+      "topY" : 361.6215,
+      "baseLineY" : 371.28,
+      "fontId" : 4,
+      "text" : "The Agency’s purpose is to increase the availability of affordable housing and community "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 387.6015,
+      "rightX" : 207.984,
+      "topY" : 375.6015,
+      "baseLineY" : 385.26,
+      "fontId" : 4,
+      "text" : "facilities for rural residents. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 411.6015,
+      "rightX" : 536.848,
+      "topY" : 399.6015,
+      "baseLineY" : 409.26,
+      "fontId" : 4,
+      "text" : "The GRRHP will be administered jointly by the RHS National Office and State Offices.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 425.5815,
+      "rightX" : 521.9686,
+      "topY" : 413.5815,
+      "baseLineY" : 423.24,
+      "fontId" : 4,
+      "text" : "The National Office will allocate guarantee authority to the States.  National Office staff will "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 439.5615,
+      "rightX" : 372.2078,
+      "topY" : 427.5615,
+      "baseLineY" : 437.22,
+      "fontId" : 4,
+      "text" : "also approve lenders and allocate interest credit, if applicable. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 463.5615,
+      "rightX" : 503.2813,
+      "topY" : 451.5615,
+      "baseLineY" : 461.22,
+      "fontId" : 4,
+      "text" : "All applications will be sent to the State Offices initially.  State Offices will score "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 477.5415,
+      "rightX" : 525.0477,
+      "topY" : 465.5415,
+      "baseLineY" : 475.2,
+      "fontId" : 4,
+      "text" : "applications and submit them to the National Office for its concurrence, when applicable, and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 491.5215,
+      "rightX" : 118.3224,
+      "topY" : 479.5215,
+      "baseLineY" : 489.1801,
+      "fontId" : 4,
+      "text" : "funding.  "
+    }, {
+      "leftX" : 185.7,
+      "bottomY" : 518.0117,
+      "rightX" : 433.2075,
+      "topY" : 504.0117,
+      "baseLineY" : 515.28,
+      "fontId" : 2,
+      "text" : "SECTION 3:  PROGRAM OVERVIEW  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 544.0815,
+      "rightX" : 89.9928,
+      "topY" : 532.0815,
+      "baseLineY" : 541.74,
+      "fontId" : 3,
+      "text" : "1.5 "
+    }, {
+      "leftX" : 107.9928,
+      "bottomY" : 544.0815,
+      "rightX" : 219.3,
+      "topY" : 532.0815,
+      "baseLineY" : 541.74,
+      "fontId" : 3,
+      "text" : "PROGRAM GOALS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 569.9414,
+      "rightX" : 266.418,
+      "topY" : 557.9414,
+      "baseLineY" : 567.6,
+      "fontId" : 4,
+      "text" : "The GRRHP was established to: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 596.507,
+      "rightX" : 113.52,
+      "topY" : 584.507,
+      "baseLineY" : 594.36,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 596.6288,
+      "rightX" : 116.856,
+      "topY" : 584.6288,
+      "baseLineY" : 594.36,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 596.7014,
+      "rightX" : 427.776,
+      "topY" : 584.7014,
+      "baseLineY" : 594.36,
+      "fontId" : 4,
+      "text" : "Increase the supply of affordable rental housing in rural areas; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 621.2871,
+      "rightX" : 113.52,
+      "topY" : 609.2871,
+      "baseLineY" : 619.14,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 621.4088,
+      "rightX" : 116.856,
+      "topY" : 609.4088,
+      "baseLineY" : 619.14,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 621.4815,
+      "rightX" : 538.5048,
+      "topY" : 609.4815,
+      "baseLineY" : 619.14,
+      "fontId" : 4,
+      "text" : "Ensure that housing is affordable to rural residents whose incomes are 115 percent or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 635.4615,
+      "rightX" : 297.36,
+      "topY" : 623.4615,
+      "baseLineY" : 633.12,
+      "fontId" : 4,
+      "text" : "less of area median income (AMI); "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 649.4414,
+      "rightX" : 75,
+      "topY" : 637.4414,
+      "baseLineY" : 647.1,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 663.4214,
+      "rightX" : 75,
+      "topY" : 651.4214,
+      "baseLineY" : 661.08,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 677.4015,
+      "rightX" : 543,
+      "topY" : 665.4015,
+      "baseLineY" : 675.06,
+      "fontId" : 4,
+      "text" : "______________________________________________________________________________ "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 689.1312,
+      "rightX" : 315.2258,
+      "topY" : 679.1312,
+      "baseLineY" : 687.18,
+      "fontId" : 1,
+      "text" : "1-3 "
+    }, {
+      "leftX" : 72.0003,
+      "bottomY" : 700.8316,
+      "rightX" : 153.6834,
+      "topY" : 690.8316,
+      "baseLineY" : 698.8804,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 714.7815,
+      "rightX" : 75,
+      "topY" : 702.7815,
+      "baseLineY" : 712.44,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.3712,
+      "rightX" : 120.3395,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.0716,
+      "rightX" : 74.505,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 109.6071,
+      "rightX" : 113.52,
+      "topY" : 97.6071,
+      "baseLineY" : 107.46,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 109.7288,
+      "rightX" : 116.856,
+      "topY" : 97.7288,
+      "baseLineY" : 107.46,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 109.8015,
+      "rightX" : 516.4128,
+      "topY" : 97.8015,
+      "baseLineY" : 107.46,
+      "fontId" : 4,
+      "text" : "Provide housing that is decent, safe, sanitary, and competitive in the market; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 134.3871,
+      "rightX" : 113.52,
+      "topY" : 122.3871,
+      "baseLineY" : 132.2401,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 134.5089,
+      "rightX" : 116.856,
+      "topY" : 122.5089,
+      "baseLineY" : 132.2401,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 134.5815,
+      "rightX" : 436.2506,
+      "topY" : 122.5815,
+      "baseLineY" : 132.2401,
+      "fontId" : 4,
+      "text" : "Foster risk-sharing partnerships with public and private lenders. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 148.5615,
+      "rightX" : 111,
+      "topY" : 136.5615,
+      "baseLineY" : 146.22,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 162.5415,
+      "rightX" : 529.6249,
+      "topY" : 150.5415,
+      "baseLineY" : 160.2,
+      "fontId" : 4,
+      "text" : "Under the program, the Agency will provide credit enhancements through Government "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 176.5215,
+      "rightX" : 528.7953,
+      "topY" : 164.5215,
+      "baseLineY" : 174.18,
+      "fontId" : 4,
+      "text" : "guarantees to encourage private and public lenders to make new loans for the construction and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 190.5014,
+      "rightX" : 534.0237,
+      "topY" : 178.5014,
+      "baseLineY" : 188.16,
+      "fontId" : 4,
+      "text" : "preservation of affordable rural rental properties.  The Agency will review lender qualifications "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 204.4814,
+      "rightX" : 525.3506,
+      "topY" : 192.4814,
+      "baseLineY" : 202.14,
+      "fontId" : 4,
+      "text" : "and approve eligible lenders to participate in the program.  Approved, lenders will underwrite "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 218.4614,
+      "rightX" : 531.7081,
+      "topY" : 206.4614,
+      "baseLineY" : 216.1199,
+      "fontId" : 4,
+      "text" : "and service the loans guaranteed by the Agency.  The Agency will monitor lender performance "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 232.4414,
+      "rightX" : 271.7375,
+      "topY" : 220.4414,
+      "baseLineY" : 230.0999,
+      "fontId" : 4,
+      "text" : "to ensure it meets program requirements. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 246.4214,
+      "rightX" : 111,
+      "topY" : 234.4214,
+      "baseLineY" : 244.0799,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 260.5813,
+      "rightX" : 89.9568,
+      "topY" : 248.5813,
+      "baseLineY" : 258.2399,
+      "fontId" : 3,
+      "text" : "1.6 "
+    }, {
+      "leftX" : 107.9568,
+      "bottomY" : 260.5813,
+      "rightX" : 252.06,
+      "topY" : 248.5813,
+      "baseLineY" : 258.2399,
+      "fontId" : 3,
+      "text" : "ELIGIBLE RURAL AREA "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 286.4413,
+      "rightX" : 529.049,
+      "topY" : 274.4413,
+      "baseLineY" : 284.0999,
+      "fontId" : 4,
+      "text" : "Loans under this program may only be made in an eligible rural area.  An eligible rural "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 300.4213,
+      "rightX" : 109.4544,
+      "topY" : 288.4213,
+      "baseLineY" : 298.0799,
+      "fontId" : 4,
+      "text" : "area is: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 326.9869,
+      "rightX" : 113.52,
+      "topY" : 314.9869,
+      "baseLineY" : 324.8399,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 327.1087,
+      "rightX" : 116.856,
+      "topY" : 315.1087,
+      "baseLineY" : 324.8399,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 327.1813,
+      "rightX" : 459.9914,
+      "topY" : 315.1813,
+      "baseLineY" : 324.8399,
+      "fontId" : 4,
+      "text" : "Open country which is not a part of or associated with an urban area. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 353.7469,
+      "rightX" : 113.52,
+      "topY" : 341.7469,
+      "baseLineY" : 351.5999,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 353.8687,
+      "rightX" : 116.856,
+      "topY" : 341.8687,
+      "baseLineY" : 351.5999,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 353.9413,
+      "rightX" : 530.7985,
+      "topY" : 341.9413,
+      "baseLineY" : 351.5999,
+      "fontId" : 4,
+      "text" : "Any town, village, city, or place, including the immediate, adjacent, densely-settled "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 367.9214,
+      "rightX" : 478.0713,
+      "topY" : 355.9214,
+      "baseLineY" : 365.5799,
+      "fontId" : 4,
+      "text" : "area which is not part of or associated with an urban area and which has: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 394.487,
+      "rightX" : 131.928,
+      "topY" : 382.487,
+      "baseLineY" : 392.3399,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 131.94,
+      "bottomY" : 394.6087,
+      "rightX" : 135.276,
+      "topY" : 382.6087,
+      "baseLineY" : 392.3399,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 394.6814,
+      "rightX" : 523.1763,
+      "topY" : 382.6814,
+      "baseLineY" : 392.3399,
+      "fontId" : 4,
+      "text" : "An area with a population of 10,000 or less if it is rural in character, or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 421.247,
+      "rightX" : 131.928,
+      "topY" : 409.247,
+      "baseLineY" : 419.0999,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 131.94,
+      "bottomY" : 421.3687,
+      "rightX" : 135.276,
+      "topY" : 409.3687,
+      "baseLineY" : 419.0999,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 421.4414,
+      "rightX" : 541.9125,
+      "topY" : 409.4414,
+      "baseLineY" : 419.0999,
+      "fontId" : 4,
+      "text" : "An area with a population in excess of 10,000, but not in excess of 20,000, "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 435.4214,
+      "rightX" : 536.7122,
+      "topY" : 423.4214,
+      "baseLineY" : 433.0799,
+      "fontId" : 4,
+      "text" : "that is not contained within a Metropolitan Statistical Area and has a serious lack "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 449.4014,
+      "rightX" : 542.7441,
+      "topY" : 437.4014,
+      "baseLineY" : 447.0599,
+      "fontId" : 4,
+      "text" : "of mortgage credit for low and moderate income households, as determined by the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 463.3814,
+      "rightX" : 517.5292,
+      "topY" : 451.3814,
+      "baseLineY" : 461.0399,
+      "fontId" : 4,
+      "text" : "Secretary of Agriculture and the Secretary of the Department of Housing and "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 477.3614,
+      "rightX" : 297.6133,
+      "topY" : 465.3614,
+      "baseLineY" : 475.02,
+      "fontId" : 4,
+      "text" : "Urban Development (HUD), or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 503.927,
+      "rightX" : 131.928,
+      "topY" : 491.927,
+      "baseLineY" : 501.78,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 131.94,
+      "bottomY" : 504.0488,
+      "rightX" : 135.276,
+      "topY" : 492.0488,
+      "baseLineY" : 501.78,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 504.1214,
+      "rightX" : 535.4952,
+      "topY" : 492.1214,
+      "baseLineY" : 501.78,
+      "fontId" : 4,
+      "text" : "An area classified as a rural area prior to October 1, 1990, (even if within "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 518.1015,
+      "rightX" : 528.9626,
+      "topY" : 506.1015,
+      "baseLineY" : 515.76,
+      "fontId" : 4,
+      "text" : "a Metropolitan Statistical Area), with a population exceeding 10,000, but not in "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 532.0815,
+      "rightX" : 528.0117,
+      "topY" : 520.0815,
+      "baseLineY" : 529.74,
+      "fontId" : 4,
+      "text" : "excess of 25,000, which is rural in character and has a serious lack of mortgage "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 546.0614,
+      "rightX" : 540.8961,
+      "topY" : 534.0614,
+      "baseLineY" : 543.72,
+      "fontId" : 4,
+      "text" : "credit for low and moderate income families.  (This definition is effective through "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 560.0414,
+      "rightX" : 405.6566,
+      "topY" : 548.0414,
+      "baseLineY" : 557.7,
+      "fontId" : 4,
+      "text" : "the receipt of the most current decennial census data.) "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 586.607,
+      "rightX" : 113.52,
+      "topY" : 574.607,
+      "baseLineY" : 584.46,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 586.7288,
+      "rightX" : 116.856,
+      "topY" : 574.7288,
+      "baseLineY" : 584.46,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 586.8014,
+      "rightX" : 517.9466,
+      "topY" : 574.8014,
+      "baseLineY" : 584.46,
+      "fontId" : 4,
+      "text" : "A Section 515 revitalization property that will use Section 538 Guaranteed Rural "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 600.7814,
+      "rightX" : 521.513,
+      "topY" : 588.7814,
+      "baseLineY" : 598.4399,
+      "fontId" : 4,
+      "text" : "Rental Housing loan funds.  (This is permissible in areas that are no longer rural.) "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 626.9414,
+      "rightX" : 89.9712,
+      "topY" : 614.9414,
+      "baseLineY" : 624.6,
+      "fontId" : 3,
+      "text" : "1.7 "
+    }, {
+      "leftX" : 107.9712,
+      "bottomY" : 626.9414,
+      "rightX" : 241.1592,
+      "topY" : 614.9414,
+      "baseLineY" : 624.6,
+      "fontId" : 3,
+      "text" : "PROGRAM FEATURES "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 652.8014,
+      "rightX" : 434.0413,
+      "topY" : 640.8014,
+      "baseLineY" : 650.46,
+      "fontId" : 4,
+      "text" : "The GRRHP program offers the following types of loan guarantees "
+    }, {
+      "leftX" : 433.98,
+      "bottomY" : 652.8014,
+      "rightX" : 515.2296,
+      "topY" : 640.8014,
+      "baseLineY" : 650.46,
+      "fontId" : 13,
+      "text" : "[7 CFR 3565.52 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 666.7814,
+      "rightX" : 190.8696,
+      "topY" : 654.7814,
+      "baseLineY" : 664.4399,
+      "fontId" : 13,
+      "text" : "(c)(1), (c)(2), and (c)(3)]"
+    }, {
+      "leftX" : 191.16,
+      "bottomY" : 666.7814,
+      "rightX" : 200.5224,
+      "topY" : 654.7814,
+      "baseLineY" : 664.4399,
+      "fontId" : 4,
+      "text" : ":  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 692.1481,
+      "rightX" : 113.0508,
+      "topY" : 681.1481,
+      "baseLineY" : 690.18,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 692.2597,
+      "rightX" : 116.0923,
+      "topY" : 681.2597,
+      "baseLineY" : 690.18,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 125.9995,
+      "bottomY" : 692.3263,
+      "rightX" : 389.537,
+      "topY" : 681.3263,
+      "baseLineY" : 690.18,
+      "fontId" : 6,
+      "text" : "The Agency may guarantee permanent loans (Option One). "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 719.6713,
+      "rightX" : 74.505,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 281.2797,
+      "bottomY" : 719.6713,
+      "rightX" : 297.2256,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : "1-4 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.1599,
+      "bottomY" : 83.3712,
+      "rightX" : 542.4994,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72.0003,
+      "bottomY" : 95.0716,
+      "rightX" : 74.5053,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 108.4083,
+      "rightX" : 113.0508,
+      "topY" : 97.4083,
+      "baseLineY" : 106.4401,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 108.5199,
+      "rightX" : 116.0923,
+      "topY" : 97.5199,
+      "baseLineY" : 106.4401,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 125.9995,
+      "bottomY" : 108.5865,
+      "rightX" : 535.2691,
+      "topY" : 97.5865,
+      "baseLineY" : 106.4401,
+      "fontId" : 6,
+      "text" : "The Agency may guarantee advances during construction and [when eligible] the permanent "
+    }, {
+      "leftX" : 125.9995,
+      "bottomY" : 121.3068,
+      "rightX" : 214.0876,
+      "topY" : 110.3068,
+      "baseLineY" : 119.1605,
+      "fontId" : 6,
+      "text" : "loan (Option Two). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 146.6285,
+      "rightX" : 113.0508,
+      "topY" : 135.6285,
+      "baseLineY" : 144.6604,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 146.7401,
+      "rightX" : 116.0922,
+      "topY" : 135.7401,
+      "baseLineY" : 144.6604,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 125.9995,
+      "bottomY" : 146.8067,
+      "rightX" : 540.724,
+      "topY" : 135.8067,
+      "baseLineY" : 144.6604,
+      "fontId" : 6,
+      "text" : "The Agency may provide a single continuous guarantee for construction and permanent loans "
+    }, {
+      "leftX" : 125.9995,
+      "bottomY" : 159.5271,
+      "rightX" : 197.8394,
+      "topY" : 148.5271,
+      "baseLineY" : 157.3807,
+      "fontId" : 6,
+      "text" : "(Option Three). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 184.2475,
+      "rightX" : 272.902,
+      "topY" : 173.2475,
+      "baseLineY" : 182.1011,
+      "fontId" : 6,
+      "text" : "Key features of the program include: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 209.2072,
+      "rightX" : 121.4263,
+      "topY" : 198.2072,
+      "baseLineY" : 207.0609,
+      "fontId" : 5,
+      "text" : "A. "
+    }, {
+      "leftX" : 126.0017,
+      "bottomY" : 209.2072,
+      "rightX" : 257.9264,
+      "topY" : 198.2072,
+      "baseLineY" : 207.0609,
+      "fontId" : 5,
+      "text" : "Risk Sharing With Lenders "
+    }, {
+      "leftX" : 125.9995,
+      "bottomY" : 233.8672,
+      "rightX" : 514.0009,
+      "topY" : 222.8672,
+      "baseLineY" : 231.7208,
+      "fontId" : 6,
+      "text" : "The Agency will provide a guarantee in the event of loss of up to 90 percent of the loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 246.5875,
+      "rightX" : 522.3698,
+      "topY" : 235.5875,
+      "baseLineY" : 244.4412,
+      "fontId" : 6,
+      "text" : "amount; lenders will retain the remaining 10 percent of any loss.  The Agency and lender risk "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.3078,
+      "rightX" : 538.988,
+      "topY" : 248.3078,
+      "baseLineY" : 257.1615,
+      "fontId" : 6,
+      "text" : "sharing percentages will be applied equally to every dollar of the Agency-approved loss amount.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 272.0282,
+      "rightX" : 524.9775,
+      "topY" : 261.0282,
+      "baseLineY" : 269.8818,
+      "fontId" : 6,
+      "text" : "While this type of lending presents additional risks to lenders, the Agency believes that lender "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 284.7485,
+      "rightX" : 488.5053,
+      "topY" : 273.7485,
+      "baseLineY" : 282.6022,
+      "fontId" : 6,
+      "text" : "performance will be improved if lenders have a financial interest in preventing losses. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 309.7083,
+      "rightX" : 120.8291,
+      "topY" : 298.7083,
+      "baseLineY" : 307.5619,
+      "fontId" : 5,
+      "text" : "B. "
+    }, {
+      "leftX" : 126.005,
+      "bottomY" : 309.7083,
+      "rightX" : 234.1383,
+      "topY" : 298.7083,
+      "baseLineY" : 307.5619,
+      "fontId" : 5,
+      "text" : "Affordability Features "
+    }, {
+      "leftX" : 125.9995,
+      "bottomY" : 328.3688,
+      "rightX" : 538.136,
+      "topY" : 317.3688,
+      "baseLineY" : 326.2224,
+      "fontId" : 6,
+      "text" : "The program restricts both tenant income and unit rents.  The program is designed to provide "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 341.0891,
+      "rightX" : 536.4385,
+      "topY" : 330.0891,
+      "baseLineY" : 338.9428,
+      "fontId" : 6,
+      "text" : "housing for low- or moderate-income families or individuals whose incomes at initial occupancy "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 353.8095,
+      "rightX" : 532.7327,
+      "topY" : 342.8095,
+      "baseLineY" : 351.6631,
+      "fontId" : 6,
+      "text" : "do not exceed 115 percent of the AMI adjusted for family size.  Monthly rent for a unit may not "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 366.5298,
+      "rightX" : 516.2134,
+      "topY" : 355.5298,
+      "baseLineY" : 364.3835,
+      "fontId" : 6,
+      "text" : "exceed 30 percent of 115 percent of adjusted AMI.  Average project rent may not exceed 30 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 379.2501,
+      "rightX" : 248.3024,
+      "topY" : 368.2501,
+      "baseLineY" : 377.1038,
+      "fontId" : 6,
+      "text" : "percent of 100 percent of AMI. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 398.2104,
+      "rightX" : 121.433,
+      "topY" : 387.2104,
+      "baseLineY" : 396.0641,
+      "fontId" : 5,
+      "text" : "C. "
+    }, {
+      "leftX" : 126.0083,
+      "bottomY" : 398.2104,
+      "rightX" : 315.4166,
+      "topY" : 387.2104,
+      "baseLineY" : 396.0641,
+      "fontId" : 5,
+      "text" : "Construction and Permanent Financing "
+    }, {
+      "leftX" : 125.9995,
+      "bottomY" : 422.8704,
+      "rightX" : 492.2254,
+      "topY" : 411.8704,
+      "baseLineY" : 420.724,
+      "fontId" : 6,
+      "text" : "The program may provide credit enhancement for construction lending as part of a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 435.5907,
+      "rightX" : 516.2255,
+      "topY" : 424.5907,
+      "baseLineY" : 433.4444,
+      "fontId" : 6,
+      "text" : "construction and permanent loan.  This feature is intended to encourage greater construction "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 448.311,
+      "rightX" : 504.6701,
+      "topY" : 437.311,
+      "baseLineY" : 446.1647,
+      "fontId" : 6,
+      "text" : "lending in rural areas and make it easier for lenders to make one loan to finance a project. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 473.2708,
+      "rightX" : 121.433,
+      "topY" : 462.2708,
+      "baseLineY" : 471.1245,
+      "fontId" : 5,
+      "text" : "D. "
+    }, {
+      "leftX" : 126.0072,
+      "bottomY" : 473.2708,
+      "rightX" : 348.7651,
+      "topY" : 462.2708,
+      "baseLineY" : 471.1245,
+      "fontId" : 5,
+      "text" : "Lender Origination, Servicing, and Disposition "
+    }, {
+      "leftX" : 125.9995,
+      "bottomY" : 491.9313,
+      "rightX" : 540.5593,
+      "topY" : 480.9313,
+      "baseLineY" : 489.785,
+      "fontId" : 6,
+      "text" : "To be approved to participate in the program lenders must be experienced in affordable rental "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 504.6517,
+      "rightX" : 541.8977,
+      "topY" : 493.6517,
+      "baseLineY" : 502.5053,
+      "fontId" : 6,
+      "text" : "housing loan origination and servicing.  Lenders will be responsible for underwriting the loan in a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 517.372,
+      "rightX" : 539.0748,
+      "topY" : 506.372,
+      "baseLineY" : 515.2256,
+      "fontId" : 6,
+      "text" : "prudent manner and for servicing the loan to ensure repayment and protection of the property.  In "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 530.0923,
+      "rightX" : 517.8295,
+      "topY" : 519.0923,
+      "baseLineY" : 527.946,
+      "fontId" : 6,
+      "text" : "the event of default by the borrower, lenders must dispose of properties prior to submitting a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 542.8127,
+      "rightX" : 202.3687,
+      "topY" : 531.8127,
+      "baseLineY" : 540.6663,
+      "fontId" : 6,
+      "text" : "claim to the Agency. "
+    }, {
+      "leftX" : 125.9995,
+      "bottomY" : 561.5324,
+      "rightX" : 503.9903,
+      "topY" : 550.5324,
+      "baseLineY" : 559.3861,
+      "fontId" : 6,
+      "text" : "When a borrower defaults on a loan, the lender must submit a liquidation plan for the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 574.2528,
+      "rightX" : 542.6872,
+      "topY" : 563.2528,
+      "baseLineY" : 572.1064,
+      "fontId" : 6,
+      "text" : "Agency’s approval.  When the property is liquidated, the lender will be able to submit a claim and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 586.9731,
+      "rightX" : 529.2367,
+      "topY" : 575.9731,
+      "baseLineY" : 584.8268,
+      "fontId" : 6,
+      "text" : "receive payment for the Agency’s share of any loss if the lender has complied with all program "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 599.6935,
+      "rightX" : 173.5803,
+      "topY" : 588.6935,
+      "baseLineY" : 597.5471,
+      "fontId" : 6,
+      "text" : "requirements.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 611.3712,
+      "rightX" : 538.1908,
+      "topY" : 601.3712,
+      "baseLineY" : 609.42,
+      "fontId" : 1,
+      "text" : "____________________________________________________________________________________________ "
+    }, {
+      "leftX" : 299.2797,
+      "bottomY" : 623.0716,
+      "rightX" : 315.2255,
+      "topY" : 613.0716,
+      "baseLineY" : 621.1204,
+      "fontId" : 1,
+      "text" : "1-5 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 634.7719,
+      "rightX" : 153.683,
+      "topY" : 624.7719,
+      "baseLineY" : 632.8207,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 646.4723,
+      "rightX" : 188.4956,
+      "topY" : 636.4723,
+      "baseLineY" : 644.5211,
+      "fontId" : 1,
+      "text" : "Revised (11-15-19)  PN 531 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.3712,
+      "rightX" : 120.3395,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.0716,
+      "rightX" : 74.505,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.7712,
+      "rightX" : 74.505,
+      "topY" : 96.7712,
+      "baseLineY" : 104.82,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 120.9016,
+      "rightX" : 122.0088,
+      "topY" : 108.9016,
+      "baseLineY" : 118.5601,
+      "fontId" : 3,
+      "text" : "E. "
+    }, {
+      "leftX" : 126.0288,
+      "bottomY" : 120.9016,
+      "rightX" : 299.0808,
+      "topY" : 108.9016,
+      "baseLineY" : 118.5601,
+      "fontId" : 3,
+      "text" : "The Notice of Program Funding   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 140.7616,
+      "rightX" : 518.6041,
+      "topY" : 128.7616,
+      "baseLineY" : 138.4201,
+      "fontId" : 4,
+      "text" : "The availability of GRRHP guarantee and interest credit authority under all three "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 154.7415,
+      "rightX" : 527.2287,
+      "topY" : 142.7415,
+      "baseLineY" : 152.4001,
+      "fontId" : 4,
+      "text" : "options and the criteria for allocating this assistance will be made public through some "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 168.7215,
+      "rightX" : 516.1777,
+      "topY" : 156.7215,
+      "baseLineY" : 166.3801,
+      "fontId" : 4,
+      "text" : "form of electronic communication such as e-mail service, GovDelivery, or a Federal "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 182.7015,
+      "rightX" : 528.0613,
+      "topY" : 170.7015,
+      "baseLineY" : 180.36,
+      "fontId" : 4,
+      "text" : "Register Notice..  Once the public has been notified, lenders may submit a summary of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 196.6815,
+      "rightX" : 537.113,
+      "topY" : 184.6815,
+      "baseLineY" : 194.34,
+      "fontId" : 4,
+      "text" : "proposed projects for scoring and ranking.  All responses will be reviewed and ranked in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 210.6615,
+      "rightX" : 520.7713,
+      "topY" : 198.6615,
+      "baseLineY" : 208.32,
+      "fontId" : 4,
+      "text" : "accordance with selection criteria included in the Notice.  Applicants selected will be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 224.6415,
+      "rightX" : 524.1885,
+      "topY" : 212.6415,
+      "baseLineY" : 222.3,
+      "fontId" : 4,
+      "text" : "issued a Notice to Proceed with Processing (Notice to Proceed) of an application for a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 238.6214,
+      "rightX" : 184.4424,
+      "topY" : 226.6214,
+      "baseLineY" : 236.28,
+      "fontId" : 4,
+      "text" : "loan guarantee. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 264.7814,
+      "rightX" : 89.9748,
+      "topY" : 252.7814,
+      "baseLineY" : 262.4399,
+      "fontId" : 3,
+      "text" : "1.8 "
+    }, {
+      "leftX" : 107.9748,
+      "bottomY" : 264.7814,
+      "rightX" : 534.0541,
+      "topY" : 252.7814,
+      "baseLineY" : 262.4399,
+      "fontId" : 3,
+      "text" : "ROLES AND RESPONSIBILITIES OF AGENCY, LENDER, AND BORROWER "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 290.6414,
+      "rightX" : 518.4933,
+      "topY" : 278.6414,
+      "baseLineY" : 288.2999,
+      "fontId" : 4,
+      "text" : "Each participant in the guarantee program has responsibilities that must be met if the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 304.6214,
+      "rightX" : 506.8088,
+      "topY" : 292.6214,
+      "baseLineY" : 302.2799,
+      "fontId" : 4,
+      "text" : "program is to achieve its goals.  Agency staff, participating lenders, and borrowers should "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 318.6014,
+      "rightX" : 484.9586,
+      "topY" : 306.6014,
+      "baseLineY" : 316.2599,
+      "fontId" : 4,
+      "text" : "understand the range of tasks for which they are responsible.  The responsibilities are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 332.5814,
+      "rightX" : 168.9048,
+      "topY" : 320.5814,
+      "baseLineY" : 330.24,
+      "fontId" : 4,
+      "text" : "summarized below. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 358.7414,
+      "rightX" : 190.6212,
+      "topY" : 346.7414,
+      "baseLineY" : 356.4,
+      "fontId" : 3,
+      "text" : "The Agency will"
+    }, {
+      "leftX" : 190.62,
+      "bottomY" : 358.7414,
+      "rightX" : 196.9824,
+      "topY" : 346.7414,
+      "baseLineY" : 356.4,
+      "fontId" : 4,
+      "text" : ": "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 385.307,
+      "rightX" : 113.52,
+      "topY" : 373.307,
+      "baseLineY" : 383.16,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 385.4288,
+      "rightX" : 116.856,
+      "topY" : 373.4288,
+      "baseLineY" : 383.16,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 385.5014,
+      "rightX" : 468.2424,
+      "topY" : 373.5014,
+      "baseLineY" : 383.16,
+      "fontId" : 4,
+      "text" : "Approve qualified lenders and monitor lenders for compliance; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 412.067,
+      "rightX" : 113.52,
+      "topY" : 400.067,
+      "baseLineY" : 409.92,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 412.1888,
+      "rightX" : 116.8559,
+      "topY" : 400.1888,
+      "baseLineY" : 409.92,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 412.2614,
+      "rightX" : 510.9272,
+      "topY" : 400.2614,
+      "baseLineY" : 409.92,
+      "fontId" : 4,
+      "text" : "Conduct the National Environmental Policy Act (NEPA) environmental "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 426.2415,
+      "rightX" : 201.0804,
+      "topY" : 414.2415,
+      "baseLineY" : 423.9,
+      "fontId" : 4,
+      "text" : "review; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 452.8071,
+      "rightX" : 113.52,
+      "topY" : 440.8071,
+      "baseLineY" : 450.66,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 452.9288,
+      "rightX" : 116.8559,
+      "topY" : 440.9288,
+      "baseLineY" : 450.66,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 453.0015,
+      "rightX" : 378.3168,
+      "topY" : 441.0015,
+      "baseLineY" : 450.66,
+      "fontId" : 4,
+      "text" : "Approve the loan guarantee application; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 479.5671,
+      "rightX" : 113.52,
+      "topY" : 467.5671,
+      "baseLineY" : 477.42,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 479.6888,
+      "rightX" : 116.8559,
+      "topY" : 467.6888,
+      "baseLineY" : 477.42,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 479.7615,
+      "rightX" : 279.7151,
+      "topY" : 467.7615,
+      "baseLineY" : 477.42,
+      "fontId" : 4,
+      "text" : "Process and pay claims. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 505.9215,
+      "rightX" : 196.6823,
+      "topY" : 493.9215,
+      "baseLineY" : 503.58,
+      "fontId" : 3,
+      "text" : "The Lender must"
+    }, {
+      "leftX" : 196.68,
+      "bottomY" : 505.9215,
+      "rightX" : 203.0424,
+      "topY" : 493.9215,
+      "baseLineY" : 503.58,
+      "fontId" : 4,
+      "text" : ": "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 532.4871,
+      "rightX" : 113.52,
+      "topY" : 520.4871,
+      "baseLineY" : 530.34,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 532.6088,
+      "rightX" : 116.856,
+      "topY" : 520.6088,
+      "baseLineY" : 530.34,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 532.6815,
+      "rightX" : 299.6039,
+      "topY" : 520.6815,
+      "baseLineY" : 530.34,
+      "fontId" : 4,
+      "text" : "Originate and service loans; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 559.2471,
+      "rightX" : 113.52,
+      "topY" : 547.2471,
+      "baseLineY" : 557.1,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 559.3689,
+      "rightX" : 116.8559,
+      "topY" : 547.3689,
+      "baseLineY" : 557.1,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 559.4415,
+      "rightX" : 476.5609,
+      "topY" : 547.4415,
+      "baseLineY" : 557.1,
+      "fontId" : 4,
+      "text" : "Monitor the borrower and property for compliance with program "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 573.4215,
+      "rightX" : 231.0803,
+      "topY" : 561.4215,
+      "baseLineY" : 571.08,
+      "fontId" : 4,
+      "text" : "requirements; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 599.9871,
+      "rightX" : 113.52,
+      "topY" : 587.9871,
+      "baseLineY" : 597.84,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 600.1088,
+      "rightX" : 116.8559,
+      "topY" : 588.1088,
+      "baseLineY" : 597.84,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 600.1815,
+      "rightX" : 453.6085,
+      "topY" : 588.1815,
+      "baseLineY" : 597.84,
+      "fontId" : 4,
+      "text" : "Manage the mortgage asset through regular monitoring; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 626.747,
+      "rightX" : 113.52,
+      "topY" : 614.747,
+      "baseLineY" : 624.6,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 626.8688,
+      "rightX" : 116.8559,
+      "topY" : 614.8688,
+      "baseLineY" : 624.6,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 626.9414,
+      "rightX" : 438.0513,
+      "topY" : 614.9414,
+      "baseLineY" : 624.6,
+      "fontId" : 4,
+      "text" : "Provide reports to the Agency on loans in their portfolio. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 653.1015,
+      "rightX" : 209.2919,
+      "topY" : 641.1015,
+      "baseLineY" : 650.76,
+      "fontId" : 3,
+      "text" : "The Borrower must"
+    }, {
+      "leftX" : 209.28,
+      "bottomY" : 653.1015,
+      "rightX" : 215.6423,
+      "topY" : 641.1015,
+      "baseLineY" : 650.76,
+      "fontId" : 4,
+      "text" : ": "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 679.6671,
+      "rightX" : 113.52,
+      "topY" : 667.6671,
+      "baseLineY" : 677.52,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 679.7888,
+      "rightX" : 116.8559,
+      "topY" : 667.7888,
+      "baseLineY" : 677.52,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 679.8615,
+      "rightX" : 474.3793,
+      "topY" : 667.8615,
+      "baseLineY" : 677.52,
+      "fontId" : 4,
+      "text" : "Develop and maintain property that is decent, safe, and sanitary; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 705.2281,
+      "rightX" : 113.0508,
+      "topY" : 694.2281,
+      "baseLineY" : 703.26,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 705.3398,
+      "rightX" : 116.0923,
+      "topY" : 694.3398,
+      "baseLineY" : 703.26,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 161.9996,
+      "bottomY" : 705.4064,
+      "rightX" : 417.5756,
+      "topY" : 694.4064,
+      "baseLineY" : 703.26,
+      "fontId" : 6,
+      "text" : "Ensure that the occupancy and rent requirements are met; "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 719.6713,
+      "rightX" : 74.505,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 281.2797,
+      "bottomY" : 719.6713,
+      "rightX" : 297.2256,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : "1-6 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.1599,
+      "bottomY" : 83.3712,
+      "rightX" : 542.4994,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72.0003,
+      "bottomY" : 95.0716,
+      "rightX" : 74.5053,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 108.4083,
+      "rightX" : 113.0508,
+      "topY" : 97.4083,
+      "baseLineY" : 106.4401,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 108.5199,
+      "rightX" : 116.0923,
+      "topY" : 97.5199,
+      "baseLineY" : 106.4401,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 161.9996,
+      "bottomY" : 108.5865,
+      "rightX" : 417.7798,
+      "topY" : 97.5865,
+      "baseLineY" : 106.4401,
+      "fontId" : 6,
+      "text" : "Comply with all other program rules and regulations; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 133.9082,
+      "rightX" : 113.0508,
+      "topY" : 122.9082,
+      "baseLineY" : 131.9401,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 134.0198,
+      "rightX" : 116.0922,
+      "topY" : 123.0198,
+      "baseLineY" : 131.9401,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 161.9996,
+      "bottomY" : 134.0864,
+      "rightX" : 323.287,
+      "topY" : 123.0864,
+      "baseLineY" : 131.9401,
+      "fontId" : 6,
+      "text" : "Comply with the loan requirements. "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 159.0461,
+      "rightX" : 88.4765,
+      "topY" : 148.0461,
+      "baseLineY" : 156.8998,
+      "fontId" : 5,
+      "text" : "1.9 "
+    }, {
+      "leftX" : 107.9319,
+      "bottomY" : 159.0461,
+      "rightX" : 247.4174,
+      "topY" : 148.0461,
+      "baseLineY" : 156.8998,
+      "fontId" : 5,
+      "text" : "IDENTITY OF INTERESTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 183.7061,
+      "rightX" : 490.2225,
+      "topY" : 172.7061,
+      "baseLineY" : 181.5598,
+      "fontId" : 6,
+      "text" : "Hidden identity of interest relationships may undermine the confidence of participants "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 196.4264,
+      "rightX" : 457.7866,
+      "topY" : 185.4264,
+      "baseLineY" : 194.2801,
+      "fontId" : 6,
+      "text" : "and the public that the program is fair and open.  The lender is responsible for properly "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 209.1468,
+      "rightX" : 481.7482,
+      "topY" : 198.1468,
+      "baseLineY" : 207.0004,
+      "fontId" : 6,
+      "text" : "addressing any identity of interest situations and for disclosing their existence to the Agency "
+    }, {
+      "leftX" : 530.58,
+      "bottomY" : 199.3961,
+      "rightX" : 532.83,
+      "topY" : 190.3961,
+      "baseLineY" : 197.64,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 221.8671,
+      "rightX" : 98.6374,
+      "topY" : 210.8671,
+      "baseLineY" : 219.7208,
+      "fontId" : 6,
+      "text" : "using "
+    }, {
+      "leftX" : 98.6395,
+      "bottomY" : 221.8671,
+      "rightX" : 186.9912,
+      "topY" : 210.8671,
+      "baseLineY" : 219.7208,
+      "fontId" : 12,
+      "text" : "Forms RD 3560-30 "
+    }, {
+      "leftX" : 187.0198,
+      "bottomY" : 221.8671,
+      "rightX" : 534.4379,
+      "topY" : 210.8671,
+      "baseLineY" : 219.7208,
+      "fontId" : 6,
+      "text" : "“Certification of No Identity of Interest (IOI)” or 3560-31 “Identity of Interest "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 234.5874,
+      "rightX" : 239.5493,
+      "topY" : 223.5874,
+      "baseLineY" : 232.4411,
+      "fontId" : 6,
+      "text" : "Disclosure/Qualification Certificate”. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.3078,
+      "rightX" : 496.076,
+      "topY" : 248.3078,
+      "baseLineY" : 257.1615,
+      "fontId" : 6,
+      "text" : "Identity of interest may exist between the borrower and another party, such as a general "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 272.0282,
+      "rightX" : 530.4071,
+      "topY" : 261.0282,
+      "baseLineY" : 269.8818,
+      "fontId" : 6,
+      "text" : "contractor, architect, engineer, attorney, subcontractor, material supplier, or equipment lessor (hereafter "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 284.7485,
+      "rightX" : 350.1254,
+      "topY" : 273.7485,
+      "baseLineY" : 282.6022,
+      "fontId" : 6,
+      "text" : "called “other entities”) in circumstances such as the following: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 310.0702,
+      "rightX" : 113.0508,
+      "topY" : 299.0702,
+      "baseLineY" : 308.1021,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 310.1819,
+      "rightX" : 116.0923,
+      "topY" : 299.1819,
+      "baseLineY" : 308.1021,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 310.2485,
+      "rightX" : 530.6367,
+      "topY" : 299.2485,
+      "baseLineY" : 308.1021,
+      "fontId" : 6,
+      "text" : "When there is any financial interest of the borrower in any other entity, except provisions of "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 322.9688,
+      "rightX" : 530.5674,
+      "topY" : 311.9688,
+      "baseLineY" : 320.8224,
+      "fontId" : 6,
+      "text" : "normal professional services by architects, engineers, attorneys, or accountants with a client-"
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 335.6891,
+      "rightX" : 493.2267,
+      "topY" : 324.6891,
+      "baseLineY" : 333.5428,
+      "fontId" : 6,
+      "text" : "professional relationship (these situations will not constitute an identity of interest); "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 348.4095,
+      "rightX" : 110.745,
+      "topY" : 337.4095,
+      "baseLineY" : 346.2631,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 361.7312,
+      "rightX" : 113.0508,
+      "topY" : 350.7312,
+      "baseLineY" : 359.763,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 361.8428,
+      "rightX" : 116.0923,
+      "topY" : 350.8428,
+      "baseLineY" : 359.763,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 361.9094,
+      "rightX" : 531.4832,
+      "topY" : 350.9094,
+      "baseLineY" : 359.763,
+      "fontId" : 6,
+      "text" : "When one or more of the officers, directors, stockholders, or partners of the borrower is also "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 374.6297,
+      "rightX" : 402.5868,
+      "topY" : 363.6297,
+      "baseLineY" : 372.4834,
+      "fontId" : 6,
+      "text" : "an officer, director, stockholder, or partner of any other entity;  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 399.9514,
+      "rightX" : 113.0508,
+      "topY" : 388.9514,
+      "baseLineY" : 397.9833,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 400.0631,
+      "rightX" : 116.0923,
+      "topY" : 389.0631,
+      "baseLineY" : 397.9833,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 400.1296,
+      "rightX" : 533.8219,
+      "topY" : 389.1296,
+      "baseLineY" : 397.9833,
+      "fontId" : 6,
+      "text" : "When any officer, director, stockholder, or partner of the borrower has any financial interest, "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 412.85,
+      "rightX" : 267.1298,
+      "topY" : 401.85,
+      "baseLineY" : 410.7036,
+      "fontId" : 6,
+      "text" : "whatsoever, in any other entity;  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 438.1717,
+      "rightX" : 113.0508,
+      "topY" : 427.1717,
+      "baseLineY" : 436.2036,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 438.2833,
+      "rightX" : 116.0923,
+      "topY" : 427.2833,
+      "baseLineY" : 436.2036,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 438.3499,
+      "rightX" : 488.3034,
+      "topY" : 427.3499,
+      "baseLineY" : 436.2036,
+      "fontId" : 6,
+      "text" : "When any spouse or relative (such as grandmother, aunt, daughter, granddaughter, "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 451.0703,
+      "rightX" : 523.9817,
+      "topY" : 440.0703,
+      "baseLineY" : 448.9239,
+      "fontId" : 6,
+      "text" : "grandfather, uncle, son, grandson, mother, sister, niece, cousin, father, brother, nephew) or "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 463.7906,
+      "rightX" : 525.3113,
+      "topY" : 452.7906,
+      "baseLineY" : 461.6443,
+      "fontId" : 6,
+      "text" : "step-relatives of the borrower, on its principals, has any significant financial interest in any "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 476.5109,
+      "rightX" : 181.4935,
+      "topY" : 465.5109,
+      "baseLineY" : 474.3646,
+      "fontId" : 6,
+      "text" : "other entity;  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 501.8327,
+      "rightX" : 113.0508,
+      "topY" : 490.8327,
+      "baseLineY" : 499.8645,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 501.9443,
+      "rightX" : 116.0923,
+      "topY" : 490.9443,
+      "baseLineY" : 499.8645,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 502.0109,
+      "rightX" : 388.8639,
+      "topY" : 491.0109,
+      "baseLineY" : 499.8645,
+      "fontId" : 6,
+      "text" : "When any other entity advances any funds to the borrower;  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 527.3326,
+      "rightX" : 113.0508,
+      "topY" : 516.3326,
+      "baseLineY" : 525.3645,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0398,
+      "bottomY" : 527.4443,
+      "rightX" : 116.0923,
+      "topY" : 516.4443,
+      "baseLineY" : 525.3645,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 527.5108,
+      "rightX" : 517.9921,
+      "topY" : 516.5108,
+      "baseLineY" : 525.3645,
+      "fontId" : 6,
+      "text" : "When any other entity provides and pays, on behalf of the borrower, the cost of any legal "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 540.2312,
+      "rightX" : 528.8743,
+      "topY" : 529.2312,
+      "baseLineY" : 538.0848,
+      "fontId" : 6,
+      "text" : "services, architectural services, engineering services, or other development costs, other than "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 552.9515,
+      "rightX" : 534.2029,
+      "topY" : 541.9515,
+      "baseLineY" : 550.8052,
+      "fontId" : 6,
+      "text" : "those of a surveyor, general superintendent, or engineer employed by a general contractor, in "
+    }, {
+      "leftX" : 122.4003,
+      "bottomY" : 565.6719,
+      "rightX" : 389.9444,
+      "topY" : 554.6719,
+      "baseLineY" : 563.5255,
+      "fontId" : 6,
+      "text" : "connection with obligations under the construction contract; "
+    }, {
+      "leftX" : 108.0011,
+      "bottomY" : 590.9936,
+      "rightX" : 113.0519,
+      "topY" : 579.9936,
+      "baseLineY" : 589.0255,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 113.0409,
+      "bottomY" : 591.1052,
+      "rightX" : 116.0934,
+      "topY" : 580.1052,
+      "baseLineY" : 589.0255,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 122.4014,
+      "bottomY" : 591.1718,
+      "rightX" : 520.1891,
+      "topY" : 580.1718,
+      "baseLineY" : 589.0255,
+      "fontId" : 6,
+      "text" : "When any other entity takes significant stock or any interest in the borrower as part of the "
+    }, {
+      "leftX" : 122.4014,
+      "bottomY" : 603.8921,
+      "rightX" : 233.7209,
+      "topY" : 592.8921,
+      "baseLineY" : 601.7457,
+      "fontId" : 6,
+      "text" : "consideration to be paid; "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 627.5712,
+      "rightX" : 538.1908,
+      "topY" : 617.5712,
+      "baseLineY" : 625.62,
+      "fontId" : 1,
+      "text" : "____________________________________________________________________________________________ "
+    }, {
+      "leftX" : 299.2797,
+      "bottomY" : 639.2715,
+      "rightX" : 315.2255,
+      "topY" : 629.2715,
+      "baseLineY" : 637.3203,
+      "fontId" : 1,
+      "text" : "1-7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 650.9719,
+      "rightX" : 151.139,
+      "topY" : 640.9719,
+      "baseLineY" : 649.0207,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455"
+    }, {
+      "leftX" : 151.2,
+      "bottomY" : 651.3615,
+      "rightX" : 154.2,
+      "topY" : 639.3615,
+      "baseLineY" : 649.02,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 677.507,
+      "rightX" : 113.52,
+      "topY" : 665.507,
+      "baseLineY" : 675.36,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 677.6288,
+      "rightX" : 116.856,
+      "topY" : 665.6288,
+      "baseLineY" : 675.36,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 677.7014,
+      "rightX" : 505.973,
+      "topY" : 665.7014,
+      "baseLineY" : 675.36,
+      "fontId" : 4,
+      "text" : "When there exists or comes into being any side deals, agreements, contracts, or "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 691.6814,
+      "rightX" : 513.8809,
+      "topY" : 679.6814,
+      "baseLineY" : 689.34,
+      "fontId" : 4,
+      "text" : "undertakings that alter, amend, or cancel any of the required loan or construction "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 705.6615,
+      "rightX" : 231.4968,
+      "topY" : 693.6615,
+      "baseLineY" : 703.32,
+      "fontId" : 4,
+      "text" : "closing documents; or "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.3712,
+      "rightX" : 120.3395,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.0716,
+      "rightX" : 74.505,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 109.6071,
+      "rightX" : 113.52,
+      "topY" : 97.6071,
+      "baseLineY" : 107.46,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 109.7288,
+      "rightX" : 116.856,
+      "topY" : 97.7288,
+      "baseLineY" : 107.46,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 109.8015,
+      "rightX" : 535.0273,
+      "topY" : 97.8015,
+      "baseLineY" : 107.46,
+      "fontId" : 4,
+      "text" : "When another party can significantly influence the management or operating policies "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 123.7815,
+      "rightX" : 523.999,
+      "topY" : 111.7815,
+      "baseLineY" : 121.44,
+      "fontId" : 4,
+      "text" : "of the transacting parties, or if it has an ownership interest in one of the transacting "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 137.7614,
+      "rightX" : 525.5569,
+      "topY" : 125.7614,
+      "baseLineY" : 135.42,
+      "fontId" : 4,
+      "text" : "parties and can significantly influence the other to an extent that one or more of the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 151.7414,
+      "rightX" : 532.5387,
+      "topY" : 139.7414,
+      "baseLineY" : 149.4,
+      "fontId" : 4,
+      "text" : "transacting parties might be prevented from fully pursuing its own separate interests. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 177.7214,
+      "rightX" : 521.1098,
+      "topY" : 165.7214,
+      "baseLineY" : 175.3799,
+      "fontId" : 4,
+      "text" : "When considering whether a lender’s relationship in an entity that purchased the low income "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 191.7014,
+      "rightX" : 506.5706,
+      "topY" : 179.7014,
+      "baseLineY" : 189.3599,
+      "fontId" : 4,
+      "text" : "housing tax credits generated by a project may be an inappropriate identity of interest, the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 205.6814,
+      "rightX" : 511.4541,
+      "topY" : 193.6814,
+      "baseLineY" : 203.3399,
+      "fontId" : 4,
+      "text" : "Agency will determine whether the lender’s interest in the entity controlling the tax credits "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 219.6613,
+      "rightX" : 528.4202,
+      "topY" : 207.6613,
+      "baseLineY" : 217.3199,
+      "fontId" : 4,
+      "text" : "conflicts with the lender’s responsibilities under the program.  From to time to time affordable "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 233.6413,
+      "rightX" : 542.7842,
+      "topY" : 221.6413,
+      "baseLineY" : 231.2999,
+      "fontId" : 4,
+      "text" : "housing lenders, in addition to providing loan funds on affordable housing projects may purchase "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 247.6213,
+      "rightX" : 525.6002,
+      "topY" : 235.6213,
+      "baseLineY" : 245.2798,
+      "fontId" : 4,
+      "text" : "an interest in an entity that purchased the low income housing tax credits on that project.  The "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 261.6013,
+      "rightX" : 512.4309,
+      "topY" : 249.6013,
+      "baseLineY" : 259.2598,
+      "fontId" : 4,
+      "text" : "Agency does not want to discourage this practice however the Agency must be sure that its "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 275.5813,
+      "rightX" : 522.5883,
+      "topY" : 263.5813,
+      "baseLineY" : 273.2398,
+      "fontId" : 4,
+      "text" : "interest as a guarantor is not compromised by the lender’s interest in the tax credit ownership "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 289.5613,
+      "rightX" : 389.4937,
+      "topY" : 277.5613,
+      "baseLineY" : 287.2198,
+      "fontId" : 4,
+      "text" : "entity.  The Agency will look to several factors during its review; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 316.1269,
+      "rightX" : 131.52,
+      "topY" : 304.1269,
+      "baseLineY" : 313.9798,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 316.2486,
+      "rightX" : 134.856,
+      "topY" : 304.2486,
+      "baseLineY" : 313.9798,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 316.3213,
+      "rightX" : 472.2614,
+      "topY" : 304.3213,
+      "baseLineY" : 313.9798,
+      "fontId" : 4,
+      "text" : "The lender’s ownership interest in the entity owning the tax credits; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 342.8869,
+      "rightX" : 131.52,
+      "topY" : 330.8869,
+      "baseLineY" : 340.7398,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 343.0087,
+      "rightX" : 134.856,
+      "topY" : 331.0087,
+      "baseLineY" : 340.7398,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 343.0813,
+      "rightX" : 524.3517,
+      "topY" : 331.0813,
+      "baseLineY" : 340.7398,
+      "fontId" : 4,
+      "text" : "The lender’s ability to effect action within the entity that owns the tax credits;  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 369.6469,
+      "rightX" : 131.52,
+      "topY" : 357.6469,
+      "baseLineY" : 367.4998,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 369.7687,
+      "rightX" : 134.856,
+      "topY" : 357.7687,
+      "baseLineY" : 367.4998,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 369.8413,
+      "rightX" : 540.1713,
+      "topY" : 357.8413,
+      "baseLineY" : 367.4998,
+      "fontId" : 4,
+      "text" : "The connection and interaction between the subsidiary of the lender that owns the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 383.8213,
+      "rightX" : 507.6302,
+      "topY" : 371.8213,
+      "baseLineY" : 381.4799,
+      "fontId" : 4,
+      "text" : "interest in the entity owning the subsidiary of the lender that originates and "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 397.8013,
+      "rightX" : 379.6561,
+      "topY" : 385.8013,
+      "baseLineY" : 395.4599,
+      "fontId" : 4,
+      "text" : "services the loan guaranteed by the Agency; and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 424.3669,
+      "rightX" : 131.52,
+      "topY" : 412.3669,
+      "baseLineY" : 422.2199,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 424.4887,
+      "rightX" : 134.856,
+      "topY" : 412.4887,
+      "baseLineY" : 422.2199,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 424.5613,
+      "rightX" : 433.4257,
+      "topY" : 412.5613,
+      "baseLineY" : 422.2199,
+      "fontId" : 4,
+      "text" : "The loan to cost ratio of the guaranteed loan for the project. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 450.7213,
+      "rightX" : 75,
+      "topY" : 438.7213,
+      "baseLineY" : 448.3799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 470.7614,
+      "rightX" : 95.952,
+      "topY" : 458.7614,
+      "baseLineY" : 468.4199,
+      "fontId" : 3,
+      "text" : "1.10 "
+    }, {
+      "leftX" : 107.952,
+      "bottomY" : 470.7614,
+      "rightX" : 314.0042,
+      "topY" : 458.7614,
+      "baseLineY" : 468.4199,
+      "fontId" : 3,
+      "text" : "AGENCY EXCEPTION AUTHORITY "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 488.3712,
+      "rightX" : 74.505,
+      "topY" : 478.3712,
+      "baseLineY" : 486.42,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 508.3215,
+      "rightX" : 354.8449,
+      "topY" : 496.3215,
+      "baseLineY" : 505.98,
+      "fontId" : 4,
+      "text" : "Exceptions to any requirement of this handbook or "
+    }, {
+      "leftX" : 354.84,
+      "bottomY" : 508.3215,
+      "rightX" : 445.8167,
+      "topY" : 496.3215,
+      "baseLineY" : 505.98,
+      "fontId" : 13,
+      "text" : "[7 CFR part 3565]"
+    }, {
+      "leftX" : 446.1,
+      "bottomY" : 508.3215,
+      "rightX" : 484.4425,
+      "topY" : 496.3215,
+      "baseLineY" : 505.98,
+      "fontId" : 4,
+      "text" : ", which "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 522.3015,
+      "rightX" : 490.7786,
+      "topY" : 510.3015,
+      "baseLineY" : 519.96,
+      "fontId" : 4,
+      "text" : "are not inconsistent with any applicable law, may be approved by the Administrator or "
+    }, {
+      "leftX" : 531.48,
+      "bottomY" : 523.8912,
+      "rightX" : 533.985,
+      "topY" : 513.8912,
+      "baseLineY" : 521.94,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 536.2815,
+      "rightX" : 475.5385,
+      "topY" : 524.2815,
+      "baseLineY" : 533.9401,
+      "fontId" : 4,
+      "text" : "a designee, on an individual basis, if the application of the requirement or failure to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 550.2615,
+      "rightX" : 465.0645,
+      "topY" : 538.2615,
+      "baseLineY" : 547.92,
+      "fontId" : 4,
+      "text" : "take action would adversely affect the government’s interest, adversely affect the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 564.2415,
+      "rightX" : 537.2134,
+      "topY" : 552.2415,
+      "baseLineY" : 561.9,
+      "fontId" : 4,
+      "text" : "accomplishment of the purposes of the program, or result in undue hardship.  The Administrator "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 578.2215,
+      "rightX" : 533.8918,
+      "topY" : 566.2215,
+      "baseLineY" : 575.88,
+      "fontId" : 4,
+      "text" : "may exercise such authority independently or at the request of the State Director.  A request for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 592.2014,
+      "rightX" : 490.9611,
+      "topY" : 580.2014,
+      "baseLineY" : 589.86,
+      "fontId" : 4,
+      "text" : "an exception to any requirement may also be initiated by the Deputy Administrator for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 606.1815,
+      "rightX" : 540.3873,
+      "topY" : 594.1815,
+      "baseLineY" : 603.84,
+      "fontId" : 4,
+      "text" : "Multifamily Housing.   The exception request must provide clear and convincing evidence of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 620.1615,
+      "rightX" : 387.3841,
+      "topY" : 608.1615,
+      "baseLineY" : 617.82,
+      "fontId" : 4,
+      "text" : "need for the exception.  At a minimum, the request must include: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 646.7271,
+      "rightX" : 113.52,
+      "topY" : 634.7271,
+      "baseLineY" : 644.58,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 646.8488,
+      "rightX" : 116.856,
+      "topY" : 634.8488,
+      "baseLineY" : 644.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 646.9215,
+      "rightX" : 540.0793,
+      "topY" : 634.9215,
+      "baseLineY" : 644.58,
+      "fontId" : 4,
+      "text" : "A full explanation of the circumstances, including an explanation of the adverse effect "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 660.9015,
+      "rightX" : 528.4226,
+      "topY" : 648.9015,
+      "baseLineY" : 658.56,
+      "fontId" : 4,
+      "text" : "on the government’s interest or on the accomplishment of program purposes, or any "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 674.8814,
+      "rightX" : 419.765,
+      "topY" : 662.8814,
+      "baseLineY" : 672.54,
+      "fontId" : 4,
+      "text" : "undue hardship that may result if an exception is not granted; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 701.447,
+      "rightX" : 113.52,
+      "topY" : 689.447,
+      "baseLineY" : 699.3,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 701.5688,
+      "rightX" : 116.856,
+      "topY" : 689.5688,
+      "baseLineY" : 699.3,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 701.6415,
+      "rightX" : 387.4186,
+      "topY" : 689.6415,
+      "baseLineY" : 699.3,
+      "fontId" : 4,
+      "text" : "A discussion of proposed alternatives considered; and  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 719.6713,
+      "rightX" : 74.505,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 281.2797,
+      "bottomY" : 719.6713,
+      "rightX" : 297.2256,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : "1-8 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.1599,
+      "bottomY" : 83.3712,
+      "rightX" : 542.4994,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72.0003,
+      "bottomY" : 95.0716,
+      "rightX" : 74.5053,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 109.6071,
+      "rightX" : 113.52,
+      "topY" : 97.6071,
+      "baseLineY" : 107.46,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 109.7288,
+      "rightX" : 116.856,
+      "topY" : 97.7288,
+      "baseLineY" : 107.46,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 109.8015,
+      "rightX" : 496.5002,
+      "topY" : 97.8015,
+      "baseLineY" : 107.46,
+      "fontId" : 4,
+      "text" : "A discussion of how the adverse effect will be eliminated or minimized if the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 123.7815,
+      "rightX" : 225.2304,
+      "topY" : 111.7815,
+      "baseLineY" : 121.44,
+      "fontId" : 4,
+      "text" : "exception is granted. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 149.7614,
+      "rightX" : 477.8245,
+      "topY" : 137.7614,
+      "baseLineY" : 147.42,
+      "fontId" : 4,
+      "text" : "State Office requests for exceptions regarding architectural and engineering, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 163.7414,
+      "rightX" : 525.4849,
+      "topY" : 151.7414,
+      "baseLineY" : 161.4,
+      "fontId" : 4,
+      "text" : "environmental, or civil rights issues must be accompanied by the review and comments of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 177.7214,
+      "rightX" : 524.551,
+      "topY" : 165.7214,
+      "baseLineY" : 175.3799,
+      "fontId" : 4,
+      "text" : "appropriate State Office technical staff and will be referred to the appropriate National Office "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 191.7014,
+      "rightX" : 502.7449,
+      "topY" : 179.7014,
+      "baseLineY" : 189.3599,
+      "fontId" : 4,
+      "text" : "technical staff for further comment before a decision is made.  Likewise, when exception "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 205.6814,
+      "rightX" : 542.4912,
+      "topY" : 193.6814,
+      "baseLineY" : 203.3399,
+      "fontId" : 4,
+      "text" : "requests on such issues are generated by the Administrator or National Office staff, such requests "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 219.6613,
+      "rightX" : 527.9711,
+      "topY" : 207.6613,
+      "baseLineY" : 217.3199,
+      "fontId" : 4,
+      "text" : "will be referred to the appropriate National Office technical staff for further comment before a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 233.6413,
+      "rightX" : 158.022,
+      "topY" : 221.6413,
+      "baseLineY" : 231.2999,
+      "fontId" : 4,
+      "text" : "decision is made. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 259.8013,
+      "rightX" : 95.9424,
+      "topY" : 247.8013,
+      "baseLineY" : 257.4598,
+      "fontId" : 3,
+      "text" : "1.11 "
+    }, {
+      "leftX" : 107.9424,
+      "bottomY" : 259.8013,
+      "rightX" : 254.0375,
+      "topY" : 247.8013,
+      "baseLineY" : 257.4598,
+      "fontId" : 3,
+      "text" : "REVIEWS AND APPEALS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 285.6613,
+      "rightX" : 513.3625,
+      "topY" : 273.6613,
+      "baseLineY" : 283.3198,
+      "fontId" : 4,
+      "text" : "Only the borrower and/or lender can appeal an Agency decision.  The borrower and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 299.6413,
+      "rightX" : 542.4614,
+      "topY" : 287.6413,
+      "baseLineY" : 297.2998,
+      "fontId" : 4,
+      "text" : "lender must jointly execute the written request for review of an alleged adverse decision made by "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 313.6213,
+      "rightX" : 524.0793,
+      "topY" : 301.6213,
+      "baseLineY" : 311.2798,
+      "fontId" : 4,
+      "text" : "the Agency and both must participate in the appeal.  In cases where the Agency has denied or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 327.6013,
+      "rightX" : 538.9341,
+      "topY" : 315.6013,
+      "baseLineY" : 325.2599,
+      "fontId" : 4,
+      "text" : "reduced the amount of final loss payment to the lender, the adverse decision may be appealed by "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 341.5813,
+      "rightX" : 479.5922,
+      "topY" : 329.5813,
+      "baseLineY" : 339.2399,
+      "fontId" : 4,
+      "text" : "the lender only.  A decision by a lender adverse to the interest of the borrower is not "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 355.5613,
+      "rightX" : 479.0665,
+      "topY" : 343.5613,
+      "baseLineY" : 353.2199,
+      "fontId" : 4,
+      "text" : "a decision by the Agency, whether or not concurred in by the Agency.  Appeals will "
+    }, {
+      "leftX" : 524.7599,
+      "bottomY" : 364.2312,
+      "rightX" : 527.2649,
+      "topY" : 354.2312,
+      "baseLineY" : 362.28,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 369.5414,
+      "rightX" : 295.4688,
+      "topY" : 357.5414,
+      "baseLineY" : 367.1999,
+      "fontId" : 4,
+      "text" : "be handled in accordance with 7 CFR part 11. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 395.5214,
+      "rightX" : 539.8921,
+      "topY" : 383.5214,
+      "baseLineY" : 393.1799,
+      "fontId" : 4,
+      "text" : "An Agency decision that is not made in favor of the lender may be considered an adverse "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 409.5014,
+      "rightX" : 537.384,
+      "topY" : 397.5014,
+      "baseLineY" : 407.1599,
+      "fontId" : 4,
+      "text" : "decision.  Agency decisions may include administrative actions taken by Agency officials or the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 423.4814,
+      "rightX" : 532.7977,
+      "topY" : 411.4814,
+      "baseLineY" : 421.1399,
+      "fontId" : 4,
+      "text" : "Agency’s failure to take required actions within required or reasonable timeframes.  The lender "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 437.4614,
+      "rightX" : 517.7744,
+      "topY" : 425.4614,
+      "baseLineY" : 435.1199,
+      "fontId" : 4,
+      "text" : "may request a review of adverse Agency decisions by the next-level supervisor except those "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 451.4414,
+      "rightX" : 521.6857,
+      "topY" : 439.4414,
+      "baseLineY" : 449.0999,
+      "fontId" : 4,
+      "text" : "decisions made by the Secretary.  In addition, most adverse decisions may be appealed to the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 465.4214,
+      "rightX" : 536.328,
+      "topY" : 453.4214,
+      "baseLineY" : 463.08,
+      "fontId" : 4,
+      "text" : "National Appeals Division (NAD).  The Agency review and appeals policy for all programs can "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 479.4014,
+      "rightX" : 213.3084,
+      "topY" : 467.4014,
+      "baseLineY" : 477.06,
+      "fontId" : 4,
+      "text" : "be found in Attachment 1-A. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 505.3814,
+      "rightX" : 111,
+      "topY" : 493.3814,
+      "baseLineY" : 503.04,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 531.3615,
+      "rightX" : 111,
+      "topY" : 519.3615,
+      "baseLineY" : 529.02,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 555.0912,
+      "rightX" : 538.1908,
+      "topY" : 545.0912,
+      "baseLineY" : 553.14,
+      "fontId" : 1,
+      "text" : "____________________________________________________________________________________________ "
+    }, {
+      "leftX" : 299.2797,
+      "bottomY" : 566.7916,
+      "rightX" : 315.2255,
+      "topY" : 556.7916,
+      "baseLineY" : 564.8403,
+      "fontId" : 1,
+      "text" : "1-9 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 578.4919,
+      "rightX" : 151.139,
+      "topY" : 568.4919,
+      "baseLineY" : 576.5407,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455"
+    }, {
+      "leftX" : 151.2,
+      "bottomY" : 578.8814,
+      "rightX" : 154.2,
+      "topY" : 566.8814,
+      "baseLineY" : 576.54,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 592.4414,
+      "rightX" : 75,
+      "topY" : 580.4414,
+      "baseLineY" : 590.1,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 173.1,
+      "bottomY" : 620.9117,
+      "rightX" : 442.2877,
+      "topY" : 606.9117,
+      "baseLineY" : 618.18,
+      "fontId" : 2,
+      "text" : "SECTION 4: FEDERAL REQUIREMENTS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 646.9815,
+      "rightX" : 95.9472,
+      "topY" : 634.9815,
+      "baseLineY" : 644.64,
+      "fontId" : 3,
+      "text" : "1.12 "
+    }, {
+      "leftX" : 107.9472,
+      "bottomY" : 646.9815,
+      "rightX" : 306.9876,
+      "topY" : 634.9815,
+      "baseLineY" : 644.64,
+      "fontId" : 3,
+      "text" : "INTERGOVERNMENTAL REVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 672.8415,
+      "rightX" : 468.3609,
+      "topY" : 660.8415,
+      "baseLineY" : 670.5,
+      "fontId" : 4,
+      "text" : "The Agency is responsible for ensuring that intergovernmental review and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 686.8214,
+      "rightX" : 485.3337,
+      "topY" : 674.8214,
+      "baseLineY" : 684.48,
+      "fontId" : 4,
+      "text" : "comment is obtained on all proposals in accordance with RD Instruction 1970-I.  The "
+    }, {
+      "leftX" : 531.48,
+      "bottomY" : 688.4112,
+      "rightX" : 533.985,
+      "topY" : 678.4112,
+      "baseLineY" : 686.46,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 10,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.3712,
+      "rightX" : 120.3395,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.0716,
+      "rightX" : 74.505,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 109.0216,
+      "rightX" : 533.903,
+      "topY" : 97.0216,
+      "baseLineY" : 106.6801,
+      "fontId" : 4,
+      "text" : "intergovernmental review process must be initiated by the lender or the borrower.  This process "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 123.0016,
+      "rightX" : 526.1593,
+      "topY" : 111.0016,
+      "baseLineY" : 120.6601,
+      "fontId" : 4,
+      "text" : "should be completed as early as possible since all comments must be submitted to the Agency "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 136.9815,
+      "rightX" : 333.288,
+      "topY" : 124.9815,
+      "baseLineY" : 134.6401,
+      "fontId" : 4,
+      "text" : "for consideration as part of the environmental review. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 163.1415,
+      "rightX" : 95.9616,
+      "topY" : 151.1415,
+      "baseLineY" : 160.8,
+      "fontId" : 3,
+      "text" : "1.13 "
+    }, {
+      "leftX" : 107.9616,
+      "bottomY" : 163.1415,
+      "rightX" : 361.6751,
+      "topY" : 151.1415,
+      "baseLineY" : 160.8,
+      "fontId" : 3,
+      "text" : "NATIONAL FLOOD INSURANCE PROGRAM "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 189.0015,
+      "rightX" : 473.0353,
+      "topY" : 177.0015,
+      "baseLineY" : 186.66,
+      "fontId" : 4,
+      "text" : "Property located in a Special Flood Hazard Area (SFHA) designated by the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 202.9815,
+      "rightX" : 488.5501,
+      "topY" : 190.9815,
+      "baseLineY" : 200.64,
+      "fontId" : 4,
+      "text" : "Federal Emergency Management Agency (FEMA) is not eligible for Federal financial "
+    }, {
+      "leftX" : 531.48,
+      "bottomY" : 204.5712,
+      "rightX" : 533.985,
+      "topY" : 194.5712,
+      "baseLineY" : 202.62,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 216.9615,
+      "rightX" : 499.5098,
+      "topY" : 204.9615,
+      "baseLineY" : 214.62,
+      "fontId" : 4,
+      "text" : "assistance, including loan guarantees, unless flood insurance through the National Flood "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 230.9414,
+      "rightX" : 534.6205,
+      "topY" : 218.9414,
+      "baseLineY" : 228.6,
+      "fontId" : 4,
+      "text" : "Insurance Program (NFIP) is available.  Flood insurance through NFIP must be purchased prior "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 244.9214,
+      "rightX" : 530.0041,
+      "topY" : 232.9214,
+      "baseLineY" : 242.58,
+      "fontId" : 4,
+      "text" : "to loan closing and issuance of the guarantee, in accordance with the National Flood Insurance "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 258.9014,
+      "rightX" : 530.0289,
+      "topY" : 246.9014,
+      "baseLineY" : 256.5599,
+      "fontId" : 4,
+      "text" : "Act, as amended, and RD Instruction 426.2.  These requirements are also addressed in Chapter "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 272.8814,
+      "rightX" : 90,
+      "topY" : 260.8814,
+      "baseLineY" : 270.5399,
+      "fontId" : 4,
+      "text" : "11. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 299.0414,
+      "rightX" : 95.9664,
+      "topY" : 287.0414,
+      "baseLineY" : 296.6999,
+      "fontId" : 3,
+      "text" : "1.14 "
+    }, {
+      "leftX" : 107.9664,
+      "bottomY" : 299.0414,
+      "rightX" : 269.1504,
+      "topY" : 287.0414,
+      "baseLineY" : 296.6999,
+      "fontId" : 3,
+      "text" : "HISTORIC PRESERVATION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 324.9014,
+      "rightX" : 482.1482,
+      "topY" : 312.9014,
+      "baseLineY" : 322.5599,
+      "fontId" : 4,
+      "text" : "The Agency is responsible for compliance with historic preservation statutes, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 338.8814,
+      "rightX" : 488.4458,
+      "topY" : 326.8814,
+      "baseLineY" : 336.5399,
+      "fontId" : 4,
+      "text" : "regulations, and related directives, in accordance with RD Instruction 1940-G and RD "
+    }, {
+      "leftX" : 531.48,
+      "bottomY" : 340.4712,
+      "rightX" : 533.985,
+      "topY" : 330.4712,
+      "baseLineY" : 338.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 352.8614,
+      "rightX" : 167.7936,
+      "topY" : 340.8614,
+      "baseLineY" : 350.52,
+      "fontId" : 4,
+      "text" : "Instruction 1901-F. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 379.0214,
+      "rightX" : 95.976,
+      "topY" : 367.0214,
+      "baseLineY" : 376.68,
+      "fontId" : 3,
+      "text" : "1.15 "
+    }, {
+      "leftX" : 107.976,
+      "bottomY" : 379.0214,
+      "rightX" : 195.258,
+      "topY" : 367.0214,
+      "baseLineY" : 376.68,
+      "fontId" : 3,
+      "text" : "CIVIL RIGHTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 405.0614,
+      "rightX" : 122.6736,
+      "topY" : 393.0614,
+      "baseLineY" : 402.72,
+      "fontId" : 3,
+      "text" : "A. "
+    }, {
+      "leftX" : 126.0336,
+      "bottomY" : 405.0614,
+      "rightX" : 225.1272,
+      "topY" : 393.0614,
+      "baseLineY" : 402.72,
+      "fontId" : 3,
+      "text" : "Nondiscrimination "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 430.9214,
+      "rightX" : 282.3984,
+      "topY" : 418.9214,
+      "baseLineY" : 428.58,
+      "fontId" : 4,
+      "text" : "Federal civil rights laws ensure that "
+    }, {
+      "leftX" : 364.86,
+      "bottomY" : 441.8863,
+      "rightX" : 476.0017,
+      "topY" : 430.8863,
+      "baseLineY" : 439.74,
+      "fontId" : 5,
+      "text" : "Key Civil Rights Issues "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 444.9014,
+      "rightX" : 292.5131,
+      "topY" : 432.9014,
+      "baseLineY" : 442.56,
+      "fontId" : 4,
+      "text" : "no person will, exclude from participation in, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 458.8814,
+      "rightX" : 235.4819,
+      "topY" : 446.8814,
+      "baseLineY" : 456.54,
+      "fontId" : 4,
+      "text" : "deny the benefits of, or subject to "
+    }, {
+      "leftX" : 352.38,
+      "bottomY" : 457.9512,
+      "rightX" : 354.885,
+      "topY" : 447.9512,
+      "baseLineY" : 456,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 472.8615,
+      "rightX" : 268.5695,
+      "topY" : 460.8615,
+      "baseLineY" : 470.52,
+      "fontId" : 4,
+      "text" : "discrimination, any person in the United "
+    }, {
+      "leftX" : 311.04,
+      "bottomY" : 473.1481,
+      "rightX" : 316.0908,
+      "topY" : 462.1481,
+      "baseLineY" : 471.18,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 316.0798,
+      "bottomY" : 473.2597,
+      "rightX" : 319.1323,
+      "topY" : 462.2597,
+      "baseLineY" : 471.18,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 329.0395,
+      "bottomY" : 473.3263,
+      "rightX" : 362.8008,
+      "topY" : 462.3263,
+      "baseLineY" : 471.18,
+      "fontId" : 6,
+      "text" : "Access "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 486.8415,
+      "rightX" : 284.22,
+      "topY" : 474.8415,
+      "baseLineY" : 484.5,
+      "fontId" : 4,
+      "text" : "States under program activity conducted by "
+    }, {
+      "leftX" : 311.04,
+      "bottomY" : 486.6481,
+      "rightX" : 316.0908,
+      "topY" : 475.6481,
+      "baseLineY" : 484.68,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 316.0798,
+      "bottomY" : 486.7597,
+      "rightX" : 319.1323,
+      "topY" : 475.7597,
+      "baseLineY" : 484.68,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 329.0395,
+      "bottomY" : 486.8263,
+      "rightX" : 497.2893,
+      "topY" : 475.8263,
+      "baseLineY" : 484.68,
+      "fontId" : 6,
+      "text" : "Consistency and fairness of treatment "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 500.8215,
+      "rightX" : 271.1041,
+      "topY" : 488.8215,
+      "baseLineY" : 498.48,
+      "fontId" : 4,
+      "text" : "Rural Development, on the basis of race, "
+    }, {
+      "leftX" : 311.04,
+      "bottomY" : 500.1481,
+      "rightX" : 316.0908,
+      "topY" : 489.1481,
+      "baseLineY" : 498.18,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 316.0798,
+      "bottomY" : 500.2597,
+      "rightX" : 319.1323,
+      "topY" : 489.2597,
+      "baseLineY" : 498.18,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 329.0395,
+      "bottomY" : 500.3263,
+      "rightX" : 525.1346,
+      "topY" : 489.3263,
+      "baseLineY" : 498.18,
+      "fontId" : 6,
+      "text" : "Disparate impacts -- intended or unintended "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 514.8015,
+      "rightX" : 267.3408,
+      "topY" : 502.8015,
+      "baseLineY" : 512.46,
+      "fontId" : 4,
+      "text" : "color, religion, sex, age, national origin, "
+    }, {
+      "leftX" : 311.04,
+      "bottomY" : 513.6481,
+      "rightX" : 316.0908,
+      "topY" : 502.6481,
+      "baseLineY" : 511.68,
+      "fontId" : 10,
+      "text" : ""
+    }, {
+      "leftX" : 316.0798,
+      "bottomY" : 513.7597,
+      "rightX" : 319.1323,
+      "topY" : 502.7597,
+      "baseLineY" : 511.68,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 329.0395,
+      "bottomY" : 513.8263,
+      "rightX" : 401.1748,
+      "topY" : 502.8263,
+      "baseLineY" : 511.68,
+      "fontId" : 6,
+      "text" : "Record keeping "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 528.7815,
+      "rightX" : 288.2951,
+      "topY" : 516.7815,
+      "baseLineY" : 526.4401,
+      "fontId" : 4,
+      "text" : "familial status, physical or mental disability, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 542.7615,
+      "rightX" : 523.6921,
+      "topY" : 530.7615,
+      "baseLineY" : 540.42,
+      "fontId" : 4,
+      "text" : "or because all or part of an individual income is derived from any public assistance program.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 556.7415,
+      "rightX" : 509.9733,
+      "topY" : 544.7415,
+      "baseLineY" : 554.4,
+      "fontId" : 4,
+      "text" : "Discrimination in employment practices also is prohibited.  Exhibit 7-5 lists the applicable "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 570.7215,
+      "rightX" : 482.0925,
+      "topY" : 558.7215,
+      "baseLineY" : 568.38,
+      "fontId" : 4,
+      "text" : "Federal laws and Executive Orders and highlights key aspects of these requirements. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 590.7014,
+      "rightX" : 540.2811,
+      "topY" : 578.7014,
+      "baseLineY" : 588.36,
+      "fontId" : 4,
+      "text" : "The rules of nondiscrimination apply to all parties involved in this process.  The lender is "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 604.6815,
+      "rightX" : 524.6571,
+      "topY" : 592.6815,
+      "baseLineY" : 602.34,
+      "fontId" : 4,
+      "text" : "responsible for upholding the laws pertaining to nondiscrimination in selecting, assisting, and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 618.6615,
+      "rightX" : 526.2957,
+      "topY" : 606.6615,
+      "baseLineY" : 616.32,
+      "fontId" : 4,
+      "text" : "monitoring a borrower.  Borrowers are held accountable for any discrimination resulting from "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 632.6415,
+      "rightX" : 498.2985,
+      "topY" : 620.6415,
+      "baseLineY" : 630.3,
+      "fontId" : 4,
+      "text" : "development and management tasks, from the hiring of construction firms, and from the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 646.6215,
+      "rightX" : 170.8116,
+      "topY" : 634.6215,
+      "baseLineY" : 644.28,
+      "fontId" : 4,
+      "text" : "selection of tenants. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 660.6015,
+      "rightX" : 111,
+      "topY" : 648.6015,
+      "baseLineY" : 658.26,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 674.5815,
+      "rightX" : 525.3145,
+      "topY" : 662.5815,
+      "baseLineY" : 672.24,
+      "fontId" : 4,
+      "text" : "Effective program management and consistent policies and procedures are essential to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 688.5614,
+      "rightX" : 506.4494,
+      "topY" : 676.5614,
+      "baseLineY" : 686.22,
+      "fontId" : 4,
+      "text" : "ensure that all applicants are treated fairly.  Poor program implementation, whether or not "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 719.6713,
+      "rightX" : 74.505,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 278.7597,
+      "bottomY" : 719.6713,
+      "rightX" : 299.7476,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : "1-10 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 11,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.1599,
+      "bottomY" : 83.3712,
+      "rightX" : 542.4994,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72.0003,
+      "bottomY" : 95.0716,
+      "rightX" : 74.5053,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 109.0216,
+      "rightX" : 536.3726,
+      "topY" : 97.0216,
+      "baseLineY" : 106.6801,
+      "fontId" : 4,
+      "text" : "discrimination is intended, may have possible civil rights consequences.  Attention to consistent "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 123.0016,
+      "rightX" : 401.5462,
+      "topY" : 111.0016,
+      "baseLineY" : 120.6601,
+      "fontId" : 4,
+      "text" : "procedures is especially important in several key areas listed below. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 149.5672,
+      "rightX" : 113.52,
+      "topY" : 137.5672,
+      "baseLineY" : 147.4201,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 149.6889,
+      "rightX" : 116.856,
+      "topY" : 137.6889,
+      "baseLineY" : 147.4201,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 149.7616,
+      "rightX" : 174.1272,
+      "topY" : 137.7616,
+      "baseLineY" : 147.4201,
+      "fontId" : 3,
+      "text" : "Outreach."
+    }, {
+      "leftX" : 174.12,
+      "bottomY" : 149.7616,
+      "rightX" : 514.0109,
+      "topY" : 137.7616,
+      "baseLineY" : 147.4201,
+      "fontId" : 4,
+      "text" : "  Information about the availability of GRRHP rental units and how to "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 163.7415,
+      "rightX" : 533.6565,
+      "topY" : 151.7415,
+      "baseLineY" : 161.4001,
+      "fontId" : 4,
+      "text" : "apply for tenancy must be broadly disseminated, and the information, assistance, and "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 177.7215,
+      "rightX" : 495.019,
+      "topY" : 165.7215,
+      "baseLineY" : 175.3801,
+      "fontId" : 4,
+      "text" : "courtesy extended to those who make inquiries must be equal and consistent. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 204.2871,
+      "rightX" : 113.52,
+      "topY" : 192.2871,
+      "baseLineY" : 202.1401,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 204.4089,
+      "rightX" : 116.856,
+      "topY" : 192.4089,
+      "baseLineY" : 202.1401,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 204.4815,
+      "rightX" : 285.582,
+      "topY" : 192.4815,
+      "baseLineY" : 202.1401,
+      "fontId" : 3,
+      "text" : "Application-taking procedures. "
+    }, {
+      "leftX" : 285.6,
+      "bottomY" : 204.4815,
+      "rightX" : 518.7897,
+      "topY" : 192.4815,
+      "baseLineY" : 202.1401,
+      "fontId" : 4,
+      "text" : " Application-taking procedures must be fair and "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 218.4615,
+      "rightX" : 372.3337,
+      "topY" : 206.4615,
+      "baseLineY" : 216.1201,
+      "fontId" : 4,
+      "text" : "equally accessible to all potential tenant applicants. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 245.0271,
+      "rightX" : 113.52,
+      "topY" : 233.0271,
+      "baseLineY" : 242.8801,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 245.1489,
+      "rightX" : 116.856,
+      "topY" : 233.1489,
+      "baseLineY" : 242.8801,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 245.2215,
+      "rightX" : 241.3056,
+      "topY" : 233.2215,
+      "baseLineY" : 242.8801,
+      "fontId" : 3,
+      "text" : "Determining eligibility."
+    }, {
+      "leftX" : 241.32,
+      "bottomY" : 245.2215,
+      "rightX" : 534.121,
+      "topY" : 233.2215,
+      "baseLineY" : 242.8801,
+      "fontId" : 4,
+      "text" : "  Lenders, borrowers, and property managers must use equal "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 259.2015,
+      "rightX" : 540.8577,
+      "topY" : 247.2015,
+      "baseLineY" : 256.86,
+      "fontId" : 4,
+      "text" : "rigor for all applicants when verifying income, conducting credit checks, and allowing "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 273.1815,
+      "rightX" : 283.5744,
+      "topY" : 261.1815,
+      "baseLineY" : 270.84,
+      "fontId" : 4,
+      "text" : "applicants to clarify information. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 299.7471,
+      "rightX" : 113.52,
+      "topY" : 287.7471,
+      "baseLineY" : 297.6,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 299.8689,
+      "rightX" : 116.856,
+      "topY" : 287.8689,
+      "baseLineY" : 297.6,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 299.9415,
+      "rightX" : 221.8704,
+      "topY" : 287.9415,
+      "baseLineY" : 297.6,
+      "fontId" : 3,
+      "text" : "Making exceptions."
+    }, {
+      "leftX" : 221.88,
+      "bottomY" : 299.9415,
+      "rightX" : 520.2609,
+      "topY" : 287.9415,
+      "baseLineY" : 297.6,
+      "fontId" : 4,
+      "text" : "  Standards for offering exceptions to policies and procedures "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 313.9215,
+      "rightX" : 323.6208,
+      "topY" : 301.9215,
+      "baseLineY" : 311.58,
+      "fontId" : 4,
+      "text" : "must be applied equally and consistently. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 340.4871,
+      "rightX" : 113.52,
+      "topY" : 328.4871,
+      "baseLineY" : 338.3401,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 340.6089,
+      "rightX" : 116.856,
+      "topY" : 328.6089,
+      "baseLineY" : 338.3401,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 340.6815,
+      "rightX" : 255.8316,
+      "topY" : 328.6815,
+      "baseLineY" : 338.3401,
+      "fontId" : 3,
+      "text" : "Loan terms and subsidies."
+    }, {
+      "leftX" : 255.84,
+      "bottomY" : 340.6815,
+      "rightX" : 517.0881,
+      "topY" : 328.6815,
+      "baseLineY" : 338.3401,
+      "fontId" : 4,
+      "text" : "  Opportunities for subsidies and favorable loan terms "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 354.6615,
+      "rightX" : 360.6097,
+      "topY" : 342.6615,
+      "baseLineY" : 352.3201,
+      "fontId" : 4,
+      "text" : "must be made available equally and consistently. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 381.2271,
+      "rightX" : 113.52,
+      "topY" : 369.2271,
+      "baseLineY" : 379.0801,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 381.3489,
+      "rightX" : 116.856,
+      "topY" : 369.3489,
+      "baseLineY" : 379.0801,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 381.4215,
+      "rightX" : 236.1528,
+      "topY" : 369.4215,
+      "baseLineY" : 379.0801,
+      "fontId" : 3,
+      "text" : "Hearings and appeals."
+    }, {
+      "leftX" : 236.1599,
+      "bottomY" : 381.4215,
+      "rightX" : 531.8625,
+      "topY" : 369.4215,
+      "baseLineY" : 379.0801,
+      "fontId" : 4,
+      "text" : "  Avenues for remedies when problems arise must be equally "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 395.4016,
+      "rightX" : 256.3871,
+      "topY" : 383.4016,
+      "baseLineY" : 393.0601,
+      "fontId" : 4,
+      "text" : "accessible to all applicants. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 421.5616,
+      "rightX" : 122.0159,
+      "topY" : 409.5616,
+      "baseLineY" : 419.2201,
+      "fontId" : 3,
+      "text" : "B. "
+    }, {
+      "leftX" : 126.0359,
+      "bottomY" : 421.5616,
+      "rightX" : 426.2522,
+      "topY" : 409.5616,
+      "baseLineY" : 419.2201,
+      "fontId" : 3,
+      "text" : "Reasonable Accommodations for Persons with Disabilities "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 447.4215,
+      "rightX" : 528.7761,
+      "topY" : 435.4215,
+      "baseLineY" : 445.0801,
+      "fontId" : 4,
+      "text" : "It is unlawful for owners or managers to refuse to make reasonable accommodations in "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 461.4016,
+      "rightX" : 530.2642,
+      "topY" : 449.4016,
+      "baseLineY" : 459.0601,
+      "fontId" : 4,
+      "text" : "rules, policies, practices, or services, when such accommodations may be necessary to afford a "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 475.3816,
+      "rightX" : 529.4354,
+      "topY" : 463.3816,
+      "baseLineY" : 473.0401,
+      "fontId" : 4,
+      "text" : "qualified person with a disability equal opportunity to use and enjoy a dwelling unit, including "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 489.3616,
+      "rightX" : 535.165,
+      "topY" : 477.3616,
+      "baseLineY" : 487.0201,
+      "fontId" : 4,
+      "text" : "public and common use areas.  It is also unlawful for owners or managers to refuse to permit, at "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 503.3416,
+      "rightX" : 494.4998,
+      "topY" : 491.3416,
+      "baseLineY" : 501.0001,
+      "fontId" : 4,
+      "text" : "the expense of a qualified person with a disability, reasonable modifications of existing "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 517.3216,
+      "rightX" : 535.6149,
+      "topY" : 505.3216,
+      "baseLineY" : 514.9801,
+      "fontId" : 4,
+      "text" : "premises, occupied or to be occupied by a disabled person so that they may have full enjoyment "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 531.3016,
+      "rightX" : 217.6943,
+      "topY" : 519.3016,
+      "baseLineY" : 528.9601,
+      "fontId" : 4,
+      "text" : "of the premises of a dwelling. "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 555.3016,
+      "rightX" : 74.9999,
+      "topY" : 543.3016,
+      "baseLineY" : 552.9601,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 569.2816,
+      "rightX" : 74.9999,
+      "topY" : 557.2816,
+      "baseLineY" : 566.9401,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 583.2616,
+      "rightX" : 74.9999,
+      "topY" : 571.2616,
+      "baseLineY" : 580.9202,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 597.2416,
+      "rightX" : 530.9999,
+      "topY" : 585.2416,
+      "baseLineY" : 594.9001,
+      "fontId" : 4,
+      "text" : "____________________________________________________________________________ "
+    }, {
+      "leftX" : 296.76,
+      "bottomY" : 608.9712,
+      "rightX" : 317.7479,
+      "topY" : 598.9712,
+      "baseLineY" : 607.02,
+      "fontId" : 1,
+      "text" : "1-11 "
+    }, {
+      "leftX" : 72.0004,
+      "bottomY" : 620.6716,
+      "rightX" : 153.6834,
+      "topY" : 610.6716,
+      "baseLineY" : 618.7203,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 72.0004,
+      "bottomY" : 632.3719,
+      "rightX" : 74.5054,
+      "topY" : 622.3719,
+      "baseLineY" : 630.4207,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 646.5015,
+      "rightX" : 95.9904,
+      "topY" : 634.5015,
+      "baseLineY" : 644.16,
+      "fontId" : 3,
+      "text" : "1.16 "
+    }, {
+      "leftX" : 107.9904,
+      "bottomY" : 646.5015,
+      "rightX" : 199.968,
+      "topY" : 634.5015,
+      "baseLineY" : 644.16,
+      "fontId" : 3,
+      "text" : "FAIR HOUSING "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 672.3615,
+      "rightX" : 485.3889,
+      "topY" : 660.3615,
+      "baseLineY" : 670.02,
+      "fontId" : 4,
+      "text" : "Federal fair housing regulations provide the specific framework to ensure that "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 686.3415,
+      "rightX" : 463.961,
+      "topY" : 674.3415,
+      "baseLineY" : 684,
+      "fontId" : 4,
+      "text" : "Federal housing assistance is available to all individuals qualified by income and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 700.3214,
+      "rightX" : 470.9606,
+      "topY" : 688.3214,
+      "baseLineY" : 697.98,
+      "fontId" : 4,
+      "text" : "residence in rural areas, without regard to race, color, religion, sex, familial status, "
+    }, {
+      "leftX" : 539.58,
+      "bottomY" : 693.0912,
+      "rightX" : 542.085,
+      "topY" : 683.0912,
+      "baseLineY" : 691.14,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 714.3014,
+      "rightX" : 479.7673,
+      "topY" : 702.3014,
+      "baseLineY" : 711.96,
+      "fontId" : 4,
+      "text" : "national origin, or disability.  This includes any actions in the financing, sale, rental, "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 12,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.3712,
+      "rightX" : 120.3395,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.0716,
+      "rightX" : 74.505,
+      "topY" : 85.0716,
+      "baseLineY" : 93.1204,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 109.0216,
+      "rightX" : 518.3497,
+      "topY" : 97.0216,
+      "baseLineY" : 106.6801,
+      "fontId" : 4,
+      "text" : "or advertising of the dwellings or in the provision of brokerage services that involve Federal "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 123.0016,
+      "rightX" : 126.1332,
+      "topY" : 111.0016,
+      "baseLineY" : 120.6601,
+      "fontId" : 4,
+      "text" : "assistance. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 147.0016,
+      "rightX" : 535.3681,
+      "topY" : 135.0016,
+      "baseLineY" : 144.6601,
+      "fontId" : 4,
+      "text" : "All participating lenders and borrowers must comply with the requirements of Title VIII "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 160.9815,
+      "rightX" : 534.3598,
+      "topY" : 148.9815,
+      "baseLineY" : 158.6401,
+      "fontId" : 4,
+      "text" : "of the Civil Rights Act of 1968, as amended by the Fair Housing Amendments Act of 1988 (the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 174.9615,
+      "rightX" : 533.8293,
+      "topY" : 162.9615,
+      "baseLineY" : 172.6201,
+      "fontId" : 4,
+      "text" : "Fair Housing Act).  Any lender or borrower that refuses to comply with the regulations is liable "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 188.9415,
+      "rightX" : 241.884,
+      "topY" : 176.9415,
+      "baseLineY" : 186.6,
+      "fontId" : 4,
+      "text" : "for sanctions as authorized by law. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 214.9215,
+      "rightX" : 536.2897,
+      "topY" : 202.9215,
+      "baseLineY" : 212.58,
+      "fontId" : 4,
+      "text" : "If a resident or prospective resident believes that their denial of occupancy was based on "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 228.9015,
+      "rightX" : 329.3497,
+      "topY" : 216.9015,
+      "baseLineY" : 226.56,
+      "fontId" : 4,
+      "text" : "discrimination, they may file a complaint with HUD. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 253.0815,
+      "rightX" : 95.9472,
+      "topY" : 241.0815,
+      "baseLineY" : 250.74,
+      "fontId" : 3,
+      "text" : "1.17 "
+    }, {
+      "leftX" : 107.9472,
+      "bottomY" : 253.0815,
+      "rightX" : 321.6252,
+      "topY" : 241.0815,
+      "baseLineY" : 250.74,
+      "fontId" : 3,
+      "text" : "ENVIRONMENTAL REQUIREMENTS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 278.9414,
+      "rightX" : 459.269,
+      "topY" : 266.9414,
+      "baseLineY" : 276.6,
+      "fontId" : 4,
+      "text" : "It is the Agency’s policy to give environmental quality equal consideration with "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 292.9214,
+      "rightX" : 481.2194,
+      "topY" : 280.9214,
+      "baseLineY" : 290.58,
+      "fontId" : 4,
+      "text" : "economic, social, and other factors in its program development and decision-making "
+    }, {
+      "leftX" : 538.6799,
+      "bottomY" : 294.6912,
+      "rightX" : 541.1849,
+      "topY" : 284.6912,
+      "baseLineY" : 292.74,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 306.9015,
+      "rightX" : 534.3649,
+      "topY" : 294.9015,
+      "baseLineY" : 304.56,
+      "fontId" : 4,
+      "text" : "processes.  The Agency is concerned with the impact of the project on important environmental "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 320.8815,
+      "rightX" : 533.723,
+      "topY" : 308.8815,
+      "baseLineY" : 318.54,
+      "fontId" : 4,
+      "text" : "resources, as well as the quality of life for residents and the long-term viability of the project as "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 334.8615,
+      "rightX" : 528.5352,
+      "topY" : 322.8615,
+      "baseLineY" : 332.52,
+      "fontId" : 4,
+      "text" : "an investment.  It is the responsibility of the Agency to effectively integrate the environmental "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 348.8415,
+      "rightX" : 502.781,
+      "topY" : 336.8415,
+      "baseLineY" : 346.5,
+      "fontId" : 4,
+      "text" : "policies and procedures, described in RD Instruction 1940-G and Executive Order 12898 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 362.8215,
+      "rightX" : 532.6597,
+      "topY" : 350.8215,
+      "baseLineY" : 360.48,
+      "fontId" : 4,
+      "text" : "“Federal Actions to Address Environmental Justice in Minority Populations and Low – Income "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 376.8015,
+      "rightX" : 508.2002,
+      "topY" : 364.8015,
+      "baseLineY" : 374.4601,
+      "fontId" : 4,
+      "text" : "Populations” and the Departmental Regulation 5600-002 which implements the Executive "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 390.7815,
+      "rightX" : 382.2386,
+      "topY" : 378.7815,
+      "baseLineY" : 388.4401,
+      "fontId" : 4,
+      "text" : "Order”, into loan guarantee origination and servicing activities.  "
+    }, {
+      "leftX" : 382.26,
+      "bottomY" : 390.3912,
+      "rightX" : 384.765,
+      "topY" : 380.3912,
+      "baseLineY" : 388.44,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 404.7615,
+      "rightX" : 75,
+      "topY" : 392.7615,
+      "baseLineY" : 402.42,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 418.7415,
+      "rightX" : 490.937,
+      "topY" : 406.7415,
+      "baseLineY" : 416.4,
+      "fontId" : 4,
+      "text" : "Lenders and borrowers must cooperate fully with the Agency and provide such "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 432.7215,
+      "rightX" : 529.1329,
+      "topY" : 420.7215,
+      "baseLineY" : 430.38,
+      "fontId" : 4,
+      "text" : "information as the Agency needs to complete its environmental review.  Lenders must become "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 446.7015,
+      "rightX" : 528.809,
+      "topY" : 434.7015,
+      "baseLineY" : 444.36,
+      "fontId" : 4,
+      "text" : "familiar with the requirements so they can help advise borrowers and reduce the probability of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 460.6815,
+      "rightX" : 542.4778,
+      "topY" : 448.6815,
+      "baseLineY" : 458.3401,
+      "fontId" : 4,
+      "text" : "unacceptable applications being submitted to the Agency and so they can speed Agency approval "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 474.6615,
+      "rightX" : 260.052,
+      "topY" : 462.6615,
+      "baseLineY" : 472.3201,
+      "fontId" : 4,
+      "text" : "or consent to certain servicing actions. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 500.6415,
+      "rightX" : 520.9442,
+      "topY" : 488.6415,
+      "baseLineY" : 498.3001,
+      "fontId" : 4,
+      "text" : "The responsibilities of the lender and the Agency to address environmental issues are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 514.6216,
+      "rightX" : 262.2253,
+      "topY" : 502.6216,
+      "baseLineY" : 512.2801,
+      "fontId" : 4,
+      "text" : "discussed in more detail in Chapter 11. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 528.6016,
+      "rightX" : 75,
+      "topY" : 516.6016,
+      "baseLineY" : 526.2601,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 542.5816,
+      "rightX" : 75,
+      "topY" : 530.5816,
+      "baseLineY" : 540.2401,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 556.5616,
+      "rightX" : 75,
+      "topY" : 544.5616,
+      "baseLineY" : 554.2201,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 570.5415,
+      "rightX" : 75,
+      "topY" : 558.5415,
+      "baseLineY" : 568.2001,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 584.5215,
+      "rightX" : 75,
+      "topY" : 572.5215,
+      "baseLineY" : 582.1801,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 598.5016,
+      "rightX" : 75,
+      "topY" : 586.5016,
+      "baseLineY" : 596.1601,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 719.6713,
+      "rightX" : 74.505,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 278.7597,
+      "bottomY" : 719.6713,
+      "rightX" : 299.7476,
+      "topY" : 709.6713,
+      "baseLineY" : 717.7201,
+      "fontId" : 1,
+      "text" : "1-12 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 13,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.1599,
+      "bottomY" : 83.3712,
+      "rightX" : 542.4994,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 475.2001,
+      "bottomY" : 95.0713,
+      "rightX" : 542.5264,
+      "topY" : 85.0713,
+      "baseLineY" : 93.1201,
+      "fontId" : 1,
+      "text" : "Attachment 1-A "
+    }, {
+      "leftX" : 494.4605,
+      "bottomY" : 106.7717,
+      "rightX" : 542.5235,
+      "topY" : 96.7717,
+      "baseLineY" : 104.8205,
+      "fontId" : 1,
+      "text" : "Page 1 of 2 "
+    }, {
+      "leftX" : 243.72,
+      "bottomY" : 135.2117,
+      "rightX" : 371.7474,
+      "topY" : 121.2117,
+      "baseLineY" : 132.48,
+      "fontId" : 2,
+      "text" : "ATTACHMENT 1-A "
+    }, {
+      "leftX" : 109.9803,
+      "bottomY" : 163.5911,
+      "rightX" : 505.4367,
+      "topY" : 149.5911,
+      "baseLineY" : 160.8594,
+      "fontId" : 2,
+      "text" : "REVIEW AND APPEALS OF ADVERSE AGENCY DECISIONS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 201.6615,
+      "rightX" : 86.652,
+      "topY" : 189.6615,
+      "baseLineY" : 199.32,
+      "fontId" : 3,
+      "text" : "A. "
+    }, {
+      "leftX" : 90.012,
+      "bottomY" : 201.6615,
+      "rightX" : 336.1979,
+      "topY" : 189.6615,
+      "baseLineY" : 199.32,
+      "fontId" : 3,
+      "text" : "INFORMING LENDERS OF THEIR RIGHTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 227.5215,
+      "rightX" : 527.9114,
+      "topY" : 215.5215,
+      "baseLineY" : 225.18,
+      "fontId" : 4,
+      "text" : "Whenever the Agency makes a decision that will adversely affect a lender, the Agency "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 241.5014,
+      "rightX" : 529.7041,
+      "topY" : 229.5014,
+      "baseLineY" : 239.16,
+      "fontId" : 4,
+      "text" : "must inform the lender in writing that a review by the next-level supervisor may be requested.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 255.4814,
+      "rightX" : 512.6445,
+      "topY" : 243.4814,
+      "baseLineY" : 253.14,
+      "fontId" : 4,
+      "text" : "The Agency must also inform the lender whether or not the decision can be appealed to the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 269.4614,
+      "rightX" : 243.1499,
+      "topY" : 257.4614,
+      "baseLineY" : 267.1199,
+      "fontId" : 4,
+      "text" : "National Appeals Division (NAD). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 295.4414,
+      "rightX" : 474.9801,
+      "topY" : 283.4414,
+      "baseLineY" : 293.0999,
+      "fontId" : 4,
+      "text" : "The lender and/or borrower can appeal an Agency decision made under this "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 309.4214,
+      "rightX" : 477.9249,
+      "topY" : 297.4214,
+      "baseLineY" : 307.08,
+      "fontId" : 4,
+      "text" : "program.  In cases where the Agency has denied or reduced the amount of final loss "
+    }, {
+      "leftX" : 531.48,
+      "bottomY" : 311.0112,
+      "rightX" : 533.985,
+      "topY" : 301.0112,
+      "baseLineY" : 309.06,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 323.4014,
+      "rightX" : 517.3437,
+      "topY" : 311.4014,
+      "baseLineY" : 321.06,
+      "fontId" : 4,
+      "text" : "payment to the lender, the adverse decision may be appealed by the lender only.  A decision "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 337.3814,
+      "rightX" : 529.0102,
+      "topY" : 325.3814,
+      "baseLineY" : 335.04,
+      "fontId" : 4,
+      "text" : "made by a lender adverse to the interest of the borrower is not a decision made by the Agency, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 351.3615,
+      "rightX" : 535.3624,
+      "topY" : 339.3615,
+      "baseLineY" : 349.02,
+      "fontId" : 4,
+      "text" : "whether or not concurred in by the Agency.  Appeals will be handled in accordance with 7 CFR "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 365.3415,
+      "rightX" : 533.6882,
+      "topY" : 353.3415,
+      "baseLineY" : 363,
+      "fontId" : 4,
+      "text" : "part 11.  Any lender adversely affected by an Agency decision under this subpart may request a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 379.3215,
+      "rightX" : 309.8101,
+      "topY" : 367.3215,
+      "baseLineY" : 376.98,
+      "fontId" : 4,
+      "text" : "determination of appealability from the Director, "
+    }, {
+      "leftX" : 309.84,
+      "bottomY" : 380.1602,
+      "rightX" : 518.6061,
+      "topY" : 368.1602,
+      "baseLineY" : 376.98,
+      "fontId" : 16,
+      "text" : "NAD, USDA, within 30 days of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 393.0602,
+      "rightX" : 223.1761,
+      "topY" : 381.0602,
+      "baseLineY" : 389.88,
+      "fontId" : 16,
+      "text" : "the adverse decision."
+    }, {
+      "leftX" : 223.2,
+      "bottomY" : 392.2215,
+      "rightX" : 226.2,
+      "topY" : 380.2215,
+      "baseLineY" : 389.88,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 418.9815,
+      "rightX" : 194.2692,
+      "topY" : 406.9815,
+      "baseLineY" : 416.64,
+      "fontId" : 3,
+      "text" : "Review Requests"
+    }, {
+      "leftX" : 194.28,
+      "bottomY" : 418.9815,
+      "rightX" : 496.8793,
+      "topY" : 406.9815,
+      "baseLineY" : 416.64,
+      "fontId" : 4,
+      "text" : ".  Lenders who want to request a review by the next-level         "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 432.9615,
+      "rightX" : 500.6953,
+      "topY" : 420.9615,
+      "baseLineY" : 430.62,
+      "fontId" : 4,
+      "text" : "supervisor must do so within 15 days of the date of the Agency’s letter notifying the        "
+    }, {
+      "leftX" : 532.7399,
+      "bottomY" : 438.2112,
+      "rightX" : 535.2449,
+      "topY" : 428.2112,
+      "baseLineY" : 436.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 446.9415,
+      "rightX" : 534.3386,
+      "topY" : 434.9415,
+      "baseLineY" : 444.6,
+      "fontId" : 4,
+      "text" : "applicant of an adverse decision.  The lender shall have the option to make the request                "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 460.9215,
+      "rightX" : 533.5298,
+      "topY" : 448.9215,
+      "baseLineY" : 458.58,
+      "fontId" : 4,
+      "text" : "in writing or verbally.  Copies of written requests should be retained in the lender’s files.  If the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 474.9015,
+      "rightX" : 539.8286,
+      "topY" : 462.9015,
+      "baseLineY" : 472.56,
+      "fontId" : 4,
+      "text" : "lender chooses to make a verbal request, it should be carefully documented.  The review must be "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 488.8815,
+      "rightX" : 270.1129,
+      "topY" : 476.8815,
+      "baseLineY" : 486.54,
+      "fontId" : 4,
+      "text" : "completed within 45 days of the request. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 515.0415,
+      "rightX" : 193.668,
+      "topY" : 503.0415,
+      "baseLineY" : 512.7,
+      "fontId" : 3,
+      "text" : "Appeal Requests"
+    }, {
+      "leftX" : 193.68,
+      "bottomY" : 515.0415,
+      "rightX" : 520.7397,
+      "topY" : 503.0415,
+      "baseLineY" : 512.7,
+      "fontId" : 4,
+      "text" : ".  Lenders who wish to appeal an adverse decision must                    "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 529.0215,
+      "rightX" : 498.8968,
+      "topY" : 517.0215,
+      "baseLineY" : 526.6801,
+      "fontId" : 4,
+      "text" : "submit a written request to NAD within 30 days of receiving notice of an adverse            "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 543.0015,
+      "rightX" : 519.8,
+      "topY" : 531.0015,
+      "baseLineY" : 540.66,
+      "fontId" : 4,
+      "text" : "decision.  The request must be personally signed by the participant and include a copy of the "
+    }, {
+      "leftX" : 532.7399,
+      "bottomY" : 536.3713,
+      "rightX" : 535.2449,
+      "topY" : 526.3713,
+      "baseLineY" : 534.42,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 556.9815,
+      "rightX" : 539.6882,
+      "topY" : 544.9815,
+      "baseLineY" : 554.64,
+      "fontId" : 4,
+      "text" : "adverse decision to be appealed and a brief statement describing why the participant believes the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 570.9615,
+      "rightX" : 162.756,
+      "topY" : 558.9615,
+      "baseLineY" : 568.62,
+      "fontId" : 4,
+      "text" : "decision is wrong. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 596.9414,
+      "rightX" : 533.4203,
+      "topY" : 584.9414,
+      "baseLineY" : 594.6,
+      "fontId" : 4,
+      "text" : "NAD will notify the participant and the Agency once it has made a final determination.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 610.9214,
+      "rightX" : 498.7658,
+      "topY" : 598.9214,
+      "baseLineY" : 608.58,
+      "fontId" : 4,
+      "text" : "If NAD reverses the Agency’s decision, the next loan processing action that would have "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 624.9015,
+      "rightX" : 528.8954,
+      "topY" : 612.9015,
+      "baseLineY" : 622.56,
+      "fontId" : 4,
+      "text" : "occurred (had no adverse decision been made) must be taken within 30 days after the effective "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 638.8814,
+      "rightX" : 216.2592,
+      "topY" : 626.8814,
+      "baseLineY" : 636.54,
+      "fontId" : 4,
+      "text" : "date of the notice from NAD. "
+    }, {
+      "leftX" : 72.0003,
+      "bottomY" : 719.6713,
+      "rightX" : 153.6833,
+      "topY" : 709.6713,
+      "baseLineY" : 717.72,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 14,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.3712,
+      "rightX" : 120.3395,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.0712,
+      "rightX" : 139.3264,
+      "topY" : 85.0712,
+      "baseLineY" : 93.12,
+      "fontId" : 1,
+      "text" : "Attachment 1-A "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.7716,
+      "rightX" : 120.0629,
+      "topY" : 96.7716,
+      "baseLineY" : 104.8204,
+      "fontId" : 1,
+      "text" : "Page 2 of 2 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 132.9016,
+      "rightX" : 85.9728,
+      "topY" : 120.9016,
+      "baseLineY" : 130.5601,
+      "fontId" : 3,
+      "text" : "B. "
+    }, {
+      "leftX" : 89.9928,
+      "bottomY" : 132.9016,
+      "rightX" : 337.2325,
+      "topY" : 120.9016,
+      "baseLineY" : 130.5601,
+      "fontId" : 3,
+      "text" : "DECISIONS THAT CANNOT BE APPEALED "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 158.7616,
+      "rightX" : 382.1306,
+      "topY" : 146.7616,
+      "baseLineY" : 156.4201,
+      "fontId" : 4,
+      "text" : "Decisions that cannot be appealed by the lender include: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 185.3272,
+      "rightX" : 113.52,
+      "topY" : 173.3272,
+      "baseLineY" : 183.1801,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 185.4489,
+      "rightX" : 116.856,
+      "topY" : 173.4489,
+      "baseLineY" : 183.1801,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 185.5216,
+      "rightX" : 521.1837,
+      "topY" : 173.5216,
+      "baseLineY" : 183.1801,
+      "fontId" : 4,
+      "text" : "Interest rates set by the Agency’s procedures, unless the participant alleges that an "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 199.5016,
+      "rightX" : 291.0719,
+      "topY" : 187.5016,
+      "baseLineY" : 197.1601,
+      "fontId" : 4,
+      "text" : "incorrect interest rate was applied; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 226.0672,
+      "rightX" : 113.52,
+      "topY" : 214.0672,
+      "baseLineY" : 223.9201,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 226.1889,
+      "rightX" : 116.856,
+      "topY" : 214.1889,
+      "baseLineY" : 223.9201,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 226.2616,
+      "rightX" : 351.0193,
+      "topY" : 214.2616,
+      "baseLineY" : 223.9201,
+      "fontId" : 4,
+      "text" : "Decisions made in accordance with the statute; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 252.8272,
+      "rightX" : 113.52,
+      "topY" : 240.8272,
+      "baseLineY" : 250.6801,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 252.9489,
+      "rightX" : 116.856,
+      "topY" : 240.9489,
+      "baseLineY" : 250.6801,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 253.0216,
+      "rightX" : 327.5701,
+      "topY" : 241.0216,
+      "baseLineY" : 250.6801,
+      "fontId" : 4,
+      "text" : "Denials of credit due to lack of funds; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 279.5872,
+      "rightX" : 113.52,
+      "topY" : 267.5872,
+      "baseLineY" : 277.4401,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 279.7089,
+      "rightX" : 116.856,
+      "topY" : 267.7089,
+      "baseLineY" : 277.4401,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 279.7816,
+      "rightX" : 270.4859,
+      "topY" : 267.7816,
+      "baseLineY" : 277.4401,
+      "fontId" : 4,
+      "text" : "Decisions made by the lender. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 305.7616,
+      "rightX" : 535.933,
+      "topY" : 293.7616,
+      "baseLineY" : 303.4201,
+      "fontId" : 4,
+      "text" : "Participants may submit a written request to NAD to confirm that the decision cannot be "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 319.7416,
+      "rightX" : 528.7953,
+      "topY" : 307.7416,
+      "baseLineY" : 317.4001,
+      "fontId" : 4,
+      "text" : "appealed.  Even though a decision is not appealable, Agency staff must provide the participant "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 333.7216,
+      "rightX" : 362.7082,
+      "topY" : 321.7216,
+      "baseLineY" : 331.3802,
+      "fontId" : 4,
+      "text" : "an opportunity for a review and explanation of the decision. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 719.6713,
+      "rightX" : 74.505,
+      "topY" : 709.6713,
+      "baseLineY" : 717.72,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 8,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 11.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 15,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 16,
+    "fontFamily" : "CourierNew",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

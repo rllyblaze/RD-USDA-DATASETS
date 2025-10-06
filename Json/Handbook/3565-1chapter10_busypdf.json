@@ -1,0 +1,5870 @@
+{
+  "pdfDoc" : "3565-1chapter10.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 234.78,
+      "bottomY" : 131.7916,
+      "rightX" : 388.0706,
+      "topY" : 117.7916,
+      "baseLineY" : 129.0599,
+      "fontId" : 2,
+      "text" : "CHAPTER 10: CLAIMS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 165.4815,
+      "rightX" : 95.952,
+      "topY" : 153.4815,
+      "baseLineY" : 163.14,
+      "fontId" : 3,
+      "text" : "10.1 "
+    }, {
+      "leftX" : 107.952,
+      "bottomY" : 165.4815,
+      "rightX" : 266.7361,
+      "topY" : 153.4815,
+      "baseLineY" : 163.14,
+      "fontId" : 3,
+      "text" : "PURPOSE AND OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 191.3415,
+      "rightX" : 284.2909,
+      "topY" : 179.3415,
+      "baseLineY" : 189,
+      "fontId" : 1,
+      "text" : "This chapter addresses the property  "
+    }, {
+      "leftX" : 333.18,
+      "bottomY" : 200.3415,
+      "rightX" : 519.3553,
+      "topY" : 188.3415,
+      "baseLineY" : 198,
+      "fontId" : 3,
+      "text" : "KEY TOPICS IN THIS CHAPTER "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 205.3214,
+      "rightX" : 278.8367,
+      "topY" : 193.3214,
+      "baseLineY" : 202.98,
+      "fontId" : 1,
+      "text" : "liquidation and claim processes.  When all "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 219.3014,
+      "rightX" : 271.3008,
+      "topY" : 207.3014,
+      "baseLineY" : 216.96,
+      "fontId" : 1,
+      "text" : "reasonable efforts to resolve deficiencies "
+    }, {
+      "leftX" : 302.4,
+      "bottomY" : 219.5881,
+      "rightX" : 307.4508,
+      "topY" : 208.5881,
+      "baseLineY" : 217.62,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 307.4398,
+      "bottomY" : 219.6997,
+      "rightX" : 310.4922,
+      "topY" : 208.6997,
+      "baseLineY" : 217.62,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 316.8003,
+      "bottomY" : 219.7663,
+      "rightX" : 452.9896,
+      "topY" : 208.7663,
+      "baseLineY" : 217.62,
+      "fontId" : 6,
+      "text" : "Pre-Liquidation Requirements "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 233.2814,
+      "rightX" : 248.4097,
+      "topY" : 221.2814,
+      "baseLineY" : 230.9399,
+      "fontId" : 1,
+      "text" : "in loan performance have failed, the "
+    }, {
+      "leftX" : 302.4,
+      "bottomY" : 233.0881,
+      "rightX" : 307.4508,
+      "topY" : 222.0881,
+      "baseLineY" : 231.12,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 307.4398,
+      "bottomY" : 233.1997,
+      "rightX" : 310.4922,
+      "topY" : 222.1997,
+      "baseLineY" : 231.12,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 316.8003,
+      "bottomY" : 233.2663,
+      "rightX" : 414.9373,
+      "topY" : 222.2663,
+      "baseLineY" : 231.12,
+      "fontId" : 6,
+      "text" : "Decision to Liquidate "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 247.2614,
+      "rightX" : 277.2577,
+      "topY" : 235.2614,
+      "baseLineY" : 244.9199,
+      "fontId" : 1,
+      "text" : "lender must liquidate the loan and dispose "
+    }, {
+      "leftX" : 302.4,
+      "bottomY" : 246.5881,
+      "rightX" : 307.4508,
+      "topY" : 235.5881,
+      "baseLineY" : 244.62,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 307.4398,
+      "bottomY" : 246.6997,
+      "rightX" : 310.4922,
+      "topY" : 235.6997,
+      "baseLineY" : 244.62,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 316.8003,
+      "bottomY" : 246.7663,
+      "rightX" : 411.7312,
+      "topY" : 235.7663,
+      "baseLineY" : 244.62,
+      "fontId" : 6,
+      "text" : "Property Liquidation "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 261.2414,
+      "rightX" : 268.5312,
+      "topY" : 249.2414,
+      "baseLineY" : 258.8999,
+      "fontId" : 1,
+      "text" : "of the property in order to submit a final "
+    }, {
+      "leftX" : 302.4,
+      "bottomY" : 260.0881,
+      "rightX" : 307.4508,
+      "topY" : 249.0881,
+      "baseLineY" : 258.12,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 307.4398,
+      "bottomY" : 260.1997,
+      "rightX" : 310.4922,
+      "topY" : 249.1997,
+      "baseLineY" : 258.12,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 316.8003,
+      "bottomY" : 260.2663,
+      "rightX" : 529.5059,
+      "topY" : 249.2663,
+      "baseLineY" : 258.12,
+      "fontId" : 6,
+      "text" : "Agency Election of Assignment or Conveyance "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 275.2213,
+      "rightX" : 268.26,
+      "topY" : 263.2213,
+      "baseLineY" : 272.8799,
+      "fontId" : 1,
+      "text" : "loss claim.  An overview of the GRRHP "
+    }, {
+      "leftX" : 302.4,
+      "bottomY" : 273.5881,
+      "rightX" : 307.4508,
+      "topY" : 262.5881,
+      "baseLineY" : 271.62,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 307.4398,
+      "bottomY" : 273.6997,
+      "rightX" : 310.4922,
+      "topY" : 262.6997,
+      "baseLineY" : 271.62,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 316.8003,
+      "bottomY" : 273.7663,
+      "rightX" : 479.4086,
+      "topY" : 262.7663,
+      "baseLineY" : 271.62,
+      "fontId" : 6,
+      "text" : "Determination of the Claim Amount "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 289.2014,
+      "rightX" : 271.5287,
+      "topY" : 277.2014,
+      "baseLineY" : 286.8599,
+      "fontId" : 1,
+      "text" : "liquidation and claim payment process is "
+    }, {
+      "leftX" : 302.4,
+      "bottomY" : 287.0881,
+      "rightX" : 307.4508,
+      "topY" : 276.0881,
+      "baseLineY" : 285.12,
+      "fontId" : 4,
+      "text" : ""
+    }, {
+      "leftX" : 307.4398,
+      "bottomY" : 287.1997,
+      "rightX" : 310.4922,
+      "topY" : 276.1997,
+      "baseLineY" : 285.12,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 316.8003,
+      "bottomY" : 287.2663,
+      "rightX" : 441.0566,
+      "topY" : 276.2663,
+      "baseLineY" : 285.12,
+      "fontId" : 6,
+      "text" : "Payment of the Final Claim "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 303.1814,
+      "rightX" : 185.118,
+      "topY" : 291.1814,
+      "baseLineY" : 300.8399,
+      "fontId" : 1,
+      "text" : "shown in Exhibit 10-1. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 317.1614,
+      "rightX" : 75,
+      "topY" : 305.1614,
+      "baseLineY" : 314.8199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 331.1414,
+      "rightX" : 75,
+      "topY" : 319.1414,
+      "baseLineY" : 328.7999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 271.02,
+      "bottomY" : 344.1463,
+      "rightX" : 343.7318,
+      "topY" : 333.1463,
+      "baseLineY" : 342,
+      "fontId" : 7,
+      "text" : "EXHIBIT 10-1 "
+    }, {
+      "leftX" : 194.0996,
+      "bottomY" : 357.0467,
+      "rightX" : 417.839,
+      "topY" : 346.0467,
+      "baseLineY" : 354.9004,
+      "fontId" : 7,
+      "text" : "THE LIQUIDATION PROCESS FOR GRRHP"
+    }, {
+      "leftX" : 417.84,
+      "bottomY" : 357.0463,
+      "rightX" : 420.585,
+      "topY" : 346.0463,
+      "baseLineY" : 354.9,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 366.361,
+      "rightX" : 307.995,
+      "topY" : 358.361,
+      "baseLineY" : 364.8,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 123.3,
+      "bottomY" : 379.1264,
+      "rightX" : 494.1792,
+      "topY" : 368.1264,
+      "baseLineY" : 376.98,
+      "fontId" : 6,
+      "text" : "The lender submits a liquidation plan and supporting documentation to the Agency  "
+    }, {
+      "leftX" : 192.06,
+      "bottomY" : 391.8467,
+      "rightX" : 422.639,
+      "topY" : 380.8464,
+      "baseLineY" : 389.7003,
+      "fontId" : 6,
+      "text" : "within 30 calendar days of the decision to liquidate. "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 401.401,
+      "rightX" : 307.995,
+      "topY" : 393.401,
+      "baseLineY" : 399.84,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 142.32,
+      "bottomY" : 413.9863,
+      "rightX" : 472.4205,
+      "topY" : 402.9863,
+      "baseLineY" : 411.84,
+      "fontId" : 6,
+      "text" : "The Agency notifies the lender of its decision to approve or reject the plan "
+    }, {
+      "leftX" : 125.6996,
+      "bottomY" : 426.7067,
+      "rightX" : 527.7844,
+      "topY" : 415.7063,
+      "baseLineY" : 424.5603,
+      "fontId" : 6,
+      "text" : "within 20 calendar days of receipt of the plan.  If the Agency fails to respond to the lender  "
+    }, {
+      "leftX" : 137.4004,
+      "bottomY" : 439.4267,
+      "rightX" : 516.0916,
+      "topY" : 428.4263,
+      "baseLineY" : 437.2803,
+      "fontId" : 6,
+      "text" : "within 20 calendar days, the liquidation plan will be considered approved by default,  "
+    }, {
+      "leftX" : 196.7997,
+      "bottomY" : 452.1467,
+      "rightX" : 453.9799,
+      "topY" : 441.1467,
+      "baseLineY" : 450.0003,
+      "fontId" : 6,
+      "text" : "and the 90-day period for interest accrual will commence. "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 461.521,
+      "rightX" : 307.995,
+      "topY" : 453.521,
+      "baseLineY" : 459.96,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 145.74,
+      "bottomY" : 474.2864,
+      "rightX" : 471.846,
+      "topY" : 463.2864,
+      "baseLineY" : 472.14,
+      "fontId" : 6,
+      "text" : "If the liquidation is expected to exceed 90 calendar days, the lender must  "
+    }, {
+      "leftX" : 194.9996,
+      "bottomY" : 487.0067,
+      "rightX" : 335.6083,
+      "topY" : 476.0067,
+      "baseLineY" : 484.8604,
+      "fontId" : 6,
+      "text" : "submit with the liquidation plan"
+    }, {
+      "leftX" : 335.6391,
+      "bottomY" : 487.0067,
+      "rightX" : 414.2175,
+      "topY" : 476.0067,
+      "baseLineY" : 484.8604,
+      "fontId" : 10,
+      "text" : " Form RD 449-30"
+    }, {
+      "leftX" : 414.2394,
+      "bottomY" : 487.0067,
+      "rightX" : 422.503,
+      "topY" : 476.0067,
+      "baseLineY" : 484.8604,
+      "fontId" : 6,
+      "text" : ",  "
+    }, {
+      "leftX" : 148.619,
+      "bottomY" : 499.727,
+      "rightX" : 283.4226,
+      "topY" : 488.727,
+      "baseLineY" : 497.5807,
+      "fontId" : 10,
+      "text" : "“Loan Note Guarantee Report"
+    }, {
+      "leftX" : 283.4391,
+      "bottomY" : 499.727,
+      "rightX" : 286.1841,
+      "topY" : 488.727,
+      "baseLineY" : 497.5807,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 286.1995,
+      "bottomY" : 499.727,
+      "rightX" : 326.5663,
+      "topY" : 488.727,
+      "baseLineY" : 497.5807,
+      "fontId" : 10,
+      "text" : "of Loss”,"
+    }, {
+      "leftX" : 326.5795,
+      "bottomY" : 499.727,
+      "rightX" : 468.8671,
+      "topY" : 488.727,
+      "baseLineY" : 497.5807,
+      "fontId" : 6,
+      "text" : " for an estimated loss payment.  "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 509.1009,
+      "rightX" : 307.995,
+      "topY" : 501.1009,
+      "baseLineY" : 507.5399,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 170.94,
+      "bottomY" : 521.8663,
+      "rightX" : 446.505,
+      "topY" : 510.8663,
+      "baseLineY" : 519.7199,
+      "fontId" : 6,
+      "text" : "Payment on the estimated loss claim is normally made within  "
+    }, {
+      "leftX" : 159.6602,
+      "bottomY" : 534.5866,
+      "rightX" : 373.6525,
+      "topY" : 523.5863,
+      "baseLineY" : 532.4402,
+      "fontId" : 6,
+      "text" : "30 calendar days after the Agency’s approval of "
+    }, {
+      "leftX" : 373.68,
+      "bottomY" : 534.5863,
+      "rightX" : 449.498,
+      "topY" : 523.5863,
+      "baseLineY" : 532.4399,
+      "fontId" : 10,
+      "text" : "Form RD 449-30"
+    }, {
+      "leftX" : 449.52,
+      "bottomY" : 534.5863,
+      "rightX" : 455.0242,
+      "topY" : 523.5863,
+      "baseLineY" : 532.4399,
+      "fontId" : 6,
+      "text" : ". "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 543.9609,
+      "rightX" : 307.995,
+      "topY" : 535.9609,
+      "baseLineY" : 542.3999,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 193.5,
+      "bottomY" : 556.7262,
+      "rightX" : 421.212,
+      "topY" : 545.7262,
+      "baseLineY" : 554.5799,
+      "fontId" : 6,
+      "text" : "The lender acquires and disposes of the property in "
+    }, {
+      "leftX" : 224.5196,
+      "bottomY" : 569.4466,
+      "rightX" : 390.1891,
+      "topY" : 558.4466,
+      "baseLineY" : 567.3002,
+      "fontId" : 6,
+      "text" : "accordance with the liquidation plan. "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 578.8209,
+      "rightX" : 307.995,
+      "topY" : 570.8209,
+      "baseLineY" : 577.2599,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 138.3,
+      "bottomY" : 591.5863,
+      "rightX" : 330.4708,
+      "topY" : 580.5863,
+      "baseLineY" : 589.44,
+      "fontId" : 6,
+      "text" : "The lender submits a final report of loss on "
+    }, {
+      "leftX" : 330.4796,
+      "bottomY" : 591.5863,
+      "rightX" : 406.2976,
+      "topY" : 580.5863,
+      "baseLineY" : 589.44,
+      "fontId" : 10,
+      "text" : "Form RD 449-30"
+    }, {
+      "leftX" : 406.3196,
+      "bottomY" : 591.5863,
+      "rightX" : 476.3731,
+      "topY" : 580.5863,
+      "baseLineY" : 589.44,
+      "fontId" : 6,
+      "text" : " to the Agency. "
+    }, {
+      "leftX" : 171.5398,
+      "bottomY" : 604.3067,
+      "rightX" : 445.9054,
+      "topY" : 593.3063,
+      "baseLineY" : 602.1603,
+      "fontId" : 6,
+      "text" : "The final loss claim is normally paid within 60 calendar days  "
+    }, {
+      "leftX" : 227.7602,
+      "bottomY" : 617.0266,
+      "rightX" : 387.0186,
+      "topY" : 606.0266,
+      "baseLineY" : 614.8802,
+      "fontId" : 6,
+      "text" : "of receipt of the final report of loss. "
+    }, {
+      "leftX" : 306.0004,
+      "bottomY" : 629.7469,
+      "rightX" : 308.7454,
+      "topY" : 618.7469,
+      "baseLineY" : 627.6006,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 306.0004,
+      "bottomY" : 642.4673,
+      "rightX" : 308.7454,
+      "topY" : 631.4673,
+      "baseLineY" : 640.3209,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 656.4014,
+      "rightX" : 319.9752,
+      "topY" : 644.4014,
+      "baseLineY" : 654.0599,
+      "fontId" : 1,
+      "text" : "10-1 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 670.3814,
+      "rightX" : 169.3559,
+      "topY" : 658.3814,
+      "baseLineY" : 668.0399,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 85.6215,
+      "rightX" : 129.66,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 99.7815,
+      "rightX" : 309,
+      "topY" : 87.7815,
+      "baseLineY" : 97.44,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 141.78,
+      "bottomY" : 116.1317,
+      "rightX" : 473.6484,
+      "topY" : 102.1317,
+      "baseLineY" : 113.4,
+      "fontId" : 2,
+      "text" : "SECTION 1: PRE-LIQUIDATION REQUIREMENTS "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 132.5121,
+      "rightX" : 309.4952,
+      "topY" : 118.5121,
+      "baseLineY" : 129.7804,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 146.5815,
+      "rightX" : 95.9712,
+      "topY" : 134.5815,
+      "baseLineY" : 144.24,
+      "fontId" : 3,
+      "text" : "10.2 "
+    }, {
+      "leftX" : 107.9712,
+      "bottomY" : 146.5815,
+      "rightX" : 178.9176,
+      "topY" : 134.5815,
+      "baseLineY" : 144.24,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 160.4414,
+      "rightX" : 75,
+      "topY" : 148.4414,
+      "baseLineY" : 158.1,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 174.4214,
+      "rightX" : 520.1378,
+      "topY" : 162.4214,
+      "baseLineY" : 172.08,
+      "fontId" : 1,
+      "text" : "Before a decision to liquidate can be considered, the lender must make all reasonable "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 188.4014,
+      "rightX" : 529.2313,
+      "topY" : 176.4014,
+      "baseLineY" : 186.0599,
+      "fontId" : 1,
+      "text" : "attempts to resolve the deficiencies with the property.  Chapter 7 provides a variety of Agency-"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 202.3814,
+      "rightX" : 542.2731,
+      "topY" : 190.3814,
+      "baseLineY" : 200.0399,
+      "fontId" : 1,
+      "text" : "recommended special servicing actions to help lenders restore a property’s physical and financial "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 216.3614,
+      "rightX" : 533.0545,
+      "topY" : 204.3614,
+      "baseLineY" : 214.0199,
+      "fontId" : 1,
+      "text" : "health.  Implementation of a workout plan can often delay or eliminate the need to liquidate the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 230.3413,
+      "rightX" : 526.1529,
+      "topY" : 218.3413,
+      "baseLineY" : 227.9999,
+      "fontId" : 1,
+      "text" : "account.  As a part of the notification to the Agency of a decision to liquidate, the lender must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 244.3213,
+      "rightX" : 531.0309,
+      "topY" : 232.3213,
+      "baseLineY" : 241.9799,
+      "fontId" : 1,
+      "text" : "certify that they have made all reasonable attempts to resolve the issues using special servicing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 258.3013,
+      "rightX" : 118.6176,
+      "topY" : 246.3013,
+      "baseLineY" : 255.9598,
+      "fontId" : 1,
+      "text" : "methods. "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 274.7717,
+      "rightX" : 309.495,
+      "topY" : 260.7717,
+      "baseLineY" : 272.04,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 177.8999,
+      "bottomY" : 291.1521,
+      "rightX" : 437.5294,
+      "topY" : 277.1521,
+      "baseLineY" : 288.4203,
+      "fontId" : 2,
+      "text" : "SECTION 2: DECISION TO LIQUIDATE "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 305.2215,
+      "rightX" : 75,
+      "topY" : 293.2215,
+      "baseLineY" : 302.88,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 319.2615,
+      "rightX" : 95.9712,
+      "topY" : 307.2615,
+      "baseLineY" : 316.92,
+      "fontId" : 3,
+      "text" : "10.3 "
+    }, {
+      "leftX" : 107.9712,
+      "bottomY" : 319.2615,
+      "rightX" : 178.9176,
+      "topY" : 307.2615,
+      "baseLineY" : 316.92,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 333.1215,
+      "rightX" : 75,
+      "topY" : 321.1215,
+      "baseLineY" : 330.78,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 347.1015,
+      "rightX" : 524.9832,
+      "topY" : 335.1015,
+      "baseLineY" : 344.76,
+      "fontId" : 1,
+      "text" : "A decision to liquidate must be made by the lender when it determines that the default "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 361.0815,
+      "rightX" : 519.005,
+      "topY" : 349.0815,
+      "baseLineY" : 358.74,
+      "fontId" : 1,
+      "text" : "cannot be cured through special servicing, and it is in the best interest of the Agency and the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 375.0615,
+      "rightX" : 171.54,
+      "topY" : 363.0615,
+      "baseLineY" : 372.72,
+      "fontId" : 1,
+      "text" : "lender to liquidate.   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 389.0415,
+      "rightX" : 111,
+      "topY" : 377.0415,
+      "baseLineY" : 386.7,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 403.0215,
+      "rightX" : 538.3298,
+      "topY" : 391.0215,
+      "baseLineY" : 400.6801,
+      "fontId" : 1,
+      "text" : "In the event of a default involving a loan to an Indian tribe or tribal corporation, which is "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 417.0015,
+      "rightX" : 530.7745,
+      "topY" : 405.0015,
+      "baseLineY" : 414.6601,
+      "fontId" : 1,
+      "text" : "secured by an interest in land within such tribe's reservation (as determined by the Secretary of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 430.9815,
+      "rightX" : 513.5607,
+      "topY" : 418.9815,
+      "baseLineY" : 428.6401,
+      "fontId" : 1,
+      "text" : "the Interior), including a community in Alaska incorporated by the Secretary of the Interior "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 444.9616,
+      "rightX" : 528.9477,
+      "topY" : 432.9616,
+      "baseLineY" : 442.6201,
+      "fontId" : 1,
+      "text" : "pursuant to the Indian Reorganization Act (25 U.S.C. 461 et seq.), the lender shall only pursue "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 458.9416,
+      "rightX" : 519.9327,
+      "topY" : 446.9416,
+      "baseLineY" : 456.6001,
+      "fontId" : 1,
+      "text" : "liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 472.9216,
+      "rightX" : 528.7369,
+      "topY" : 460.9216,
+      "baseLineY" : 470.5801,
+      "fontId" : 1,
+      "text" : "Indian housing authority serving the tribe.  If the lender subsequently proceeds to liquidate the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 486.9016,
+      "rightX" : 539.8251,
+      "topY" : 474.9016,
+      "baseLineY" : 484.5601,
+      "fontId" : 1,
+      "text" : "account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 500.8816,
+      "rightX" : 350.088,
+      "topY" : 488.8816,
+      "baseLineY" : 498.5401,
+      "fontId" : 1,
+      "text" : "to one of the entities described in the preceding sentence. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 524.8816,
+      "rightX" : 501.3482,
+      "topY" : 512.8816,
+      "baseLineY" : 522.5402,
+      "fontId" : 1,
+      "text" : "Liquidation should be considered when any of the following circumstances exist: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 549.4672,
+      "rightX" : 113.52,
+      "topY" : 537.4672,
+      "baseLineY" : 547.3201,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 549.5889,
+      "rightX" : 116.856,
+      "topY" : 537.5889,
+      "baseLineY" : 547.3201,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 549.6616,
+      "rightX" : 542.4602,
+      "topY" : 537.6616,
+      "baseLineY" : 547.3201,
+      "fontId" : 1,
+      "text" : "A loan has been delinquent for 90 calendar days, and the lender and borrower have not "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 563.6416,
+      "rightX" : 393.7286,
+      "topY" : 551.6416,
+      "baseLineY" : 561.3001,
+      "fontId" : 1,
+      "text" : "been able to agree on the terms to cure the delinquency; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 588.2272,
+      "rightX" : 113.52,
+      "topY" : 576.2272,
+      "baseLineY" : 586.0801,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 588.349,
+      "rightX" : 116.856,
+      "topY" : 576.349,
+      "baseLineY" : 586.0801,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 588.4216,
+      "rightX" : 464.7081,
+      "topY" : 576.4216,
+      "baseLineY" : 586.0801,
+      "fontId" : 1,
+      "text" : "The borrower has failed to comply with the approved workout plan; or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 613.0072,
+      "rightX" : 113.52,
+      "topY" : 601.0072,
+      "baseLineY" : 610.8601,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 613.1289,
+      "rightX" : 116.856,
+      "topY" : 601.1289,
+      "baseLineY" : 610.8601,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 613.2016,
+      "rightX" : 536.7767,
+      "topY" : 601.2016,
+      "baseLineY" : 610.8601,
+      "fontId" : 1,
+      "text" : "Delaying liquidation will impair the recovery value of the collateral or jeopardize full "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 627.1816,
+      "rightX" : 226.8551,
+      "topY" : 615.1816,
+      "baseLineY" : 624.8401,
+      "fontId" : 1,
+      "text" : "recovery on the loan. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 651.1816,
+      "rightX" : 534.0093,
+      "topY" : 639.1816,
+      "baseLineY" : 648.8401,
+      "fontId" : 1,
+      "text" : "If not already paid off under the guarantee, the holder may initiate by written demand to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 665.1616,
+      "rightX" : 515.2101,
+      "topY" : 653.1616,
+      "baseLineY" : 662.8201,
+      "fontId" : 1,
+      "text" : "the lender and/or the Agency requesting commencement of foreclosure or repurchase of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 679.1416,
+      "rightX" : 545.9277,
+      "topY" : 667.1416,
+      "baseLineY" : 676.8001,
+      "fontId" : 1,
+      "text" : "unpaid guaranteed portion of the loan when the borrower is not less than 60 days in default or the  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 693.1216,
+      "rightX" : 75,
+      "topY" : 681.1216,
+      "baseLineY" : 690.7801,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 707.1016,
+      "rightX" : 319.9751,
+      "topY" : 695.1016,
+      "baseLineY" : 704.7601,
+      "fontId" : 1,
+      "text" : "10-2 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.6015,
+      "rightX" : 111,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 113.5815,
+      "rightX" : 528.0902,
+      "topY" : 101.5815,
+      "baseLineY" : 111.24,
+      "fontId" : 1,
+      "text" : "lender has failed to remit to the holder its pro rata share of any payment made by the borrower "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 127.5614,
+      "rightX" : 294.8929,
+      "topY" : 115.5614,
+      "baseLineY" : 125.22,
+      "fontId" : 1,
+      "text" : "within 30 days of the lender’s receipt thereof ["
+    }, {
+      "leftX" : 294.9,
+      "bottomY" : 127.5614,
+      "rightX" : 402.3024,
+      "topY" : 115.5614,
+      "baseLineY" : 125.22,
+      "fontId" : 13,
+      "text" : "§3565.405(a) and (b)]"
+    }, {
+      "leftX" : 402.6,
+      "bottomY" : 127.5614,
+      "rightX" : 521.4443,
+      "topY" : 115.5614,
+      "baseLineY" : 125.22,
+      "fontId" : 1,
+      "text" : ".  During the liquidation "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 141.5414,
+      "rightX" : 499.9893,
+      "topY" : 129.5414,
+      "baseLineY" : 139.2,
+      "fontId" : 1,
+      "text" : "process, the lender must follow the procedures for repurchasing the loan from the holder "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 155.5214,
+      "rightX" : 503.8443,
+      "topY" : 143.5214,
+      "baseLineY" : 153.1799,
+      "fontId" : 1,
+      "text" : "regardless of when the holder formally requests that it be reimbursed under the guarantee "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 169.5014,
+      "rightX" : 75.9961,
+      "topY" : 157.5014,
+      "baseLineY" : 167.1599,
+      "fontId" : 1,
+      "text" : "["
+    }, {
+      "leftX" : 75.9601,
+      "bottomY" : 169.5014,
+      "rightX" : 178.7904,
+      "topY" : 157.5014,
+      "baseLineY" : 167.1599,
+      "fontId" : 13,
+      "text" : "§3565.405(a) and (b)"
+    }, {
+      "leftX" : 178.6801,
+      "bottomY" : 169.5014,
+      "rightX" : 188.64,
+      "topY" : 157.5014,
+      "baseLineY" : 167.1599,
+      "fontId" : 1,
+      "text" : "]. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.4814,
+      "rightX" : 75,
+      "topY" : 171.4814,
+      "baseLineY" : 181.1399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.4613,
+      "rightX" : 75,
+      "topY" : 185.4613,
+      "baseLineY" : 195.1199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 197.4613,
+      "rightX" : 490.9298,
+      "topY" : 185.4613,
+      "baseLineY" : 195.1199,
+      "fontId" : 1,
+      "text" : "Once a decision is made to liquidate a loan, the lender must meet the following "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 211.4413,
+      "rightX" : 389.4326,
+      "topY" : 199.4413,
+      "baseLineY" : 209.0999,
+      "fontId" : 1,
+      "text" : "deadlines in order to be eligible for payment under the guarantee: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 225.4213,
+      "rightX" : 111,
+      "topY" : 213.4213,
+      "baseLineY" : 223.0798,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 532.7399,
+      "bottomY" : 219.2415,
+      "rightX" : 535.7399,
+      "topY" : 207.2415,
+      "baseLineY" : 216.9,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 239.9869,
+      "rightX" : 113.52,
+      "topY" : 227.9869,
+      "baseLineY" : 237.8398,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 240.1087,
+      "rightX" : 116.856,
+      "topY" : 228.1087,
+      "baseLineY" : 237.8398,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 240.1815,
+      "rightX" : 508.9223,
+      "topY" : 228.1813,
+      "baseLineY" : 237.8398,
+      "fontId" : 1,
+      "text" : "Notify the borrower and the Agency within 7 calendar days from the date of the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 254.1615,
+      "rightX" : 331.4425,
+      "topY" : 242.1615,
+      "baseLineY" : 251.82,
+      "fontId" : 1,
+      "text" : "decision to liquidate (see Paragraph 10.4);  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 278.7471,
+      "rightX" : 113.52,
+      "topY" : 266.7471,
+      "baseLineY" : 276.6,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 278.8689,
+      "rightX" : 116.856,
+      "topY" : 266.8689,
+      "baseLineY" : 276.6,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 278.9415,
+      "rightX" : 530.1119,
+      "topY" : 266.9414,
+      "baseLineY" : 276.6,
+      "fontId" : 1,
+      "text" : "Submit a liquidation action plan for Agency approval within 30 calendar days of the "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 292.9214,
+      "rightX" : 351.0503,
+      "topY" : 280.9214,
+      "baseLineY" : 290.58,
+      "fontId" : 1,
+      "text" : "notice to the Agency (see Paragraph 10.5); and "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 317.507,
+      "rightX" : 113.5199,
+      "topY" : 305.507,
+      "baseLineY" : 315.36,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.5199,
+      "bottomY" : 317.6288,
+      "rightX" : 116.8559,
+      "topY" : 305.6288,
+      "baseLineY" : 315.36,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 317.7014,
+      "rightX" : 160.0343,
+      "topY" : 305.7014,
+      "baseLineY" : 315.36,
+      "fontId" : 1,
+      "text" : "Submit "
+    }, {
+      "leftX" : 160.0199,
+      "bottomY" : 317.7014,
+      "rightX" : 242.6496,
+      "topY" : 305.7014,
+      "baseLineY" : 315.36,
+      "fontId" : 13,
+      "text" : "Form RD 449-30"
+    }, {
+      "leftX" : 242.6399,
+      "bottomY" : 317.7014,
+      "rightX" : 531.954,
+      "topY" : 305.7014,
+      "baseLineY" : 315.36,
+      "fontId" : 1,
+      "text" : " for an estimated loss payment if the liquidation is expected "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 331.6815,
+      "rightX" : 359.9961,
+      "topY" : 319.6815,
+      "baseLineY" : 329.34,
+      "fontId" : 1,
+      "text" : "to exceed 90 calendar days (see Paragraph 10.7). "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 355.6815,
+      "rightX" : 535.3788,
+      "topY" : 343.6815,
+      "baseLineY" : 353.34,
+      "fontId" : 1,
+      "text" : "When the lender decides to liquidate, they must report to the Agency on a monthly basis "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 369.6615,
+      "rightX" : 101.0339,
+      "topY" : 357.6615,
+      "baseLineY" : 367.32,
+      "fontId" : 1,
+      "text" : "using "
+    }, {
+      "leftX" : 101.0399,
+      "bottomY" : 369.6615,
+      "rightX" : 189.6671,
+      "topY" : 357.6615,
+      "baseLineY" : 367.32,
+      "fontId" : 13,
+      "text" : "Form RD 1980-41"
+    }, {
+      "leftX" : 189.6599,
+      "bottomY" : 369.6615,
+      "rightX" : 478.814,
+      "topY" : 357.6615,
+      "baseLineY" : 367.32,
+      "fontId" : 1,
+      "text" : " until the account is satisfied or the guarantee is terminated. "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 383.6415,
+      "rightX" : 74.9999,
+      "topY" : 371.6415,
+      "baseLineY" : 381.3,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 397.6215,
+      "rightX" : 534.7669,
+      "topY" : 385.6215,
+      "baseLineY" : 395.28,
+      "fontId" : 1,
+      "text" : "At the same time the lender has decided to pursue liquidation, the lender must notify the "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 411.6015,
+      "rightX" : 522.4442,
+      "topY" : 399.6015,
+      "baseLineY" : 409.26,
+      "fontId" : 1,
+      "text" : "holder of the intent to liquidate, unless the holder has already been paid under the guarantee.  "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 425.5815,
+      "rightX" : 74.9999,
+      "topY" : 413.5815,
+      "baseLineY" : 423.2401,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 439.7415,
+      "rightX" : 95.9663,
+      "topY" : 427.7415,
+      "baseLineY" : 437.4001,
+      "fontId" : 3,
+      "text" : "10.4 "
+    }, {
+      "leftX" : 107.9663,
+      "bottomY" : 439.7415,
+      "rightX" : 411.0121,
+      "topY" : 427.7415,
+      "baseLineY" : 437.4001,
+      "fontId" : 3,
+      "text" : "NOTICE OF LIQUIDATION AND POTENTIAL CLAIM "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 465.6015,
+      "rightX" : 74.9999,
+      "topY" : 453.6015,
+      "baseLineY" : 463.2601,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 465.6015,
+      "rightX" : 489.6889,
+      "topY" : 453.6015,
+      "baseLineY" : 463.2601,
+      "fontId" : 1,
+      "text" : "Once the lender has made a decision to liquidate the account, they must notify  "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 479.5815,
+      "rightX" : 510.8613,
+      "topY" : 467.5815,
+      "baseLineY" : 477.2401,
+      "fontId" : 1,
+      "text" : "the Agency and the borrower within 7 calendar days of the decision.  This notification will "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 493.5615,
+      "rightX" : 535.8026,
+      "topY" : 481.5615,
+      "baseLineY" : 491.22,
+      "fontId" : 1,
+      "text" : "inform the borrower that liquidation proceedings will commence and alert the Agency to expect "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 507.5415,
+      "rightX" : 534.8521,
+      "topY" : 495.5415,
+      "baseLineY" : 505.2,
+      "fontId" : 1,
+      "text" : "a submission of the liquidation plan. The holder may request of the lender that it (the holder) be "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 521.5215,
+      "rightX" : 517.9077,
+      "topY" : 509.5215,
+      "baseLineY" : 519.1801,
+      "fontId" : 1,
+      "text" : "paid off prior to liquidation.  If, under the guarantee, the lender does not repurchase the loan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 535.5015,
+      "rightX" : 500.3049,
+      "topY" : 523.5015,
+      "baseLineY" : 533.16,
+      "fontId" : 1,
+      "text" : "from the holder, the Agency will repurchase the loan from the holder in accordance with "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 549.4815,
+      "rightX" : 75.996,
+      "topY" : 537.4815,
+      "baseLineY" : 547.14,
+      "fontId" : 1,
+      "text" : "["
+    }, {
+      "leftX" : 75.96,
+      "bottomY" : 549.4815,
+      "rightX" : 148.4844,
+      "topY" : 537.4815,
+      "baseLineY" : 547.14,
+      "fontId" : 13,
+      "text" : "§3565.405 (b)]"
+    }, {
+      "leftX" : 148.8,
+      "bottomY" : 549.4815,
+      "rightX" : 154.8,
+      "topY" : 537.4815,
+      "baseLineY" : 547.14,
+      "fontId" : 1,
+      "text" : ". "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 563.4615,
+      "rightX" : 111,
+      "topY" : 551.4615,
+      "baseLineY" : 561.12,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 577.6215,
+      "rightX" : 95.9664,
+      "topY" : 565.6215,
+      "baseLineY" : 575.28,
+      "fontId" : 3,
+      "text" : "10.5 "
+    }, {
+      "leftX" : 107.9664,
+      "bottomY" : 577.6215,
+      "rightX" : 339.4153,
+      "topY" : 565.6215,
+      "baseLineY" : 575.28,
+      "fontId" : 3,
+      "text" : "SUBMISSION OF A LIQUIDATION PLAN "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 603.4815,
+      "rightX" : 510.1161,
+      "topY" : 591.4815,
+      "baseLineY" : 601.14,
+      "fontId" : 1,
+      "text" : "Within 30 calendar days after notifying the Agency of the decision to liquidate, the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 617.4615,
+      "rightX" : 532.7589,
+      "topY" : 605.4615,
+      "baseLineY" : 615.12,
+      "fontId" : 1,
+      "text" : "lender must submit to the Agency, in writing, the proposed liquidation plan.  Upon approval by "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 631.4414,
+      "rightX" : 532.6307,
+      "topY" : 619.4414,
+      "baseLineY" : 629.1,
+      "fontId" : 1,
+      "text" : "the Agency, the lender will commence liquidation.  If, within 20 calendar days of the Agency’s "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 645.4214,
+      "rightX" : 490.4258,
+      "topY" : 633.4214,
+      "baseLineY" : 643.0799,
+      "fontId" : 1,
+      "text" : "receipt of the liquidation plan, the Agency fails to respond to the lender's proposal, the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 659.4013,
+      "rightX" : 288.9815,
+      "topY" : 647.4013,
+      "baseLineY" : 657.0599,
+      "fontId" : 1,
+      "text" : "liquidation plan will be approved by default. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 673.3814,
+      "rightX" : 75,
+      "topY" : 661.3814,
+      "baseLineY" : 671.0399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 687.3614,
+      "rightX" : 319.9752,
+      "topY" : 675.3614,
+      "baseLineY" : 685.0199,
+      "fontId" : 1,
+      "text" : "10-3 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 701.3413,
+      "rightX" : 169.3559,
+      "topY" : 689.3413,
+      "baseLineY" : 698.9999,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.3213,
+      "rightX" : 75,
+      "topY" : 703.3213,
+      "baseLineY" : 712.9799,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 85.6215,
+      "rightX" : 129.66,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.6015,
+      "rightX" : 437.0331,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : "A liquidation plan must include, but is not limited to the following:  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 113.5815,
+      "rightX" : 111,
+      "topY" : 101.5815,
+      "baseLineY" : 111.24,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 128.1471,
+      "rightX" : 113.52,
+      "topY" : 116.1471,
+      "baseLineY" : 126,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 128.2688,
+      "rightX" : 116.856,
+      "topY" : 116.2688,
+      "baseLineY" : 126,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 128.3415,
+      "rightX" : 530.0186,
+      "topY" : 116.3415,
+      "baseLineY" : 126,
+      "fontId" : 1,
+      "text" : "Documentation to establish the lender's and/or holder’s ownership of the guaranteed "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 142.3214,
+      "rightX" : 518.9553,
+      "topY" : 130.3214,
+      "baseLineY" : 139.98,
+      "fontId" : 1,
+      "text" : "loan, promissory note, and related security instruments and a copy of the payment "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 156.3014,
+      "rightX" : 530.7543,
+      "topY" : 144.3014,
+      "baseLineY" : 153.96,
+      "fontId" : 1,
+      "text" : "ledger or equivalent which reflects the current loan balance, accrued interest to date, "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 170.2814,
+      "rightX" : 325.8119,
+      "topY" : 158.2814,
+      "baseLineY" : 167.9399,
+      "fontId" : 1,
+      "text" : "and the method of computing the interest. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 190.847,
+      "rightX" : 113.52,
+      "topY" : 178.847,
+      "baseLineY" : 188.7,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 190.9688,
+      "rightX" : 116.856,
+      "topY" : 178.9688,
+      "baseLineY" : 188.7,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 191.0414,
+      "rightX" : 498.9554,
+      "topY" : 179.0414,
+      "baseLineY" : 188.7,
+      "fontId" : 1,
+      "text" : "A full and complete list of all collateral, including any personal and corporate "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 205.0214,
+      "rightX" : 179.8176,
+      "topY" : 193.0214,
+      "baseLineY" : 202.6799,
+      "fontId" : 1,
+      "text" : "guarantees. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 225.587,
+      "rightX" : 113.52,
+      "topY" : 213.587,
+      "baseLineY" : 223.4399,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 225.7088,
+      "rightX" : 116.856,
+      "topY" : 213.7088,
+      "baseLineY" : 223.4399,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 225.7814,
+      "rightX" : 531.6577,
+      "topY" : 213.7814,
+      "baseLineY" : 223.4399,
+      "fontId" : 1,
+      "text" : "The recommended liquidation methods for making the maximum collection possible "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 239.7614,
+      "rightX" : 526.6581,
+      "topY" : 227.7614,
+      "baseLineY" : 237.4199,
+      "fontId" : 1,
+      "text" : "on the indebtedness and the justification for such methods, including recommended "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 253.7414,
+      "rightX" : 182.8164,
+      "topY" : 241.7414,
+      "baseLineY" : 251.3999,
+      "fontId" : 1,
+      "text" : "actions for:  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 274.307,
+      "rightX" : 149.928,
+      "topY" : 262.307,
+      "baseLineY" : 272.1599,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 149.94,
+      "bottomY" : 274.4287,
+      "rightX" : 153.276,
+      "topY" : 262.4287,
+      "baseLineY" : 272.1599,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 274.5014,
+      "rightX" : 379.092,
+      "topY" : 262.5014,
+      "baseLineY" : 272.1599,
+      "fontId" : 1,
+      "text" : "Acquiring and disposing of all collateral; and "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 295.067,
+      "rightX" : 149.928,
+      "topY" : 283.067,
+      "baseLineY" : 292.9199,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 149.94,
+      "bottomY" : 295.1887,
+      "rightX" : 153.276,
+      "topY" : 283.1887,
+      "baseLineY" : 292.9199,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 295.2614,
+      "rightX" : 294.4919,
+      "topY" : 283.2614,
+      "baseLineY" : 292.9199,
+      "fontId" : 1,
+      "text" : "Collecting from guarantors. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 315.827,
+      "rightX" : 113.52,
+      "topY" : 303.827,
+      "baseLineY" : 313.6799,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 315.9487,
+      "rightX" : 116.856,
+      "topY" : 303.9487,
+      "baseLineY" : 313.6799,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 316.0214,
+      "rightX" : 519.9261,
+      "topY" : 304.0214,
+      "baseLineY" : 313.6799,
+      "fontId" : 1,
+      "text" : "An appraisal of the collateral and the due diligence report.  In order to formulate a "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 330.0014,
+      "rightX" : 532.2238,
+      "topY" : 318.0014,
+      "baseLineY" : 327.6599,
+      "fontId" : 1,
+      "text" : "liquidation plan that maximizes recovery, collateral must be evaluated in accordance "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 343.9814,
+      "rightX" : 541.5841,
+      "topY" : 331.9814,
+      "baseLineY" : 341.64,
+      "fontId" : 1,
+      "text" : "with the requirements contained in Chapter 11 for the release of hazardous substances, "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 357.9614,
+      "rightX" : 521.3342,
+      "topY" : 345.9614,
+      "baseLineY" : 355.62,
+      "fontId" : 1,
+      "text" : "petroleum products, or other environmental hazards that may adversely impact the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 371.9414,
+      "rightX" : 500.3853,
+      "topY" : 359.9414,
+      "baseLineY" : 369.6,
+      "fontId" : 1,
+      "text" : "market value of the collateral. The appraiser must consider this information in "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 385.9214,
+      "rightX" : 274.2587,
+      "topY" : 373.9214,
+      "baseLineY" : 383.58,
+      "fontId" : 1,
+      "text" : "developing an appraised value. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 406.4871,
+      "rightX" : 113.52,
+      "topY" : 394.4871,
+      "baseLineY" : 404.34,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 406.6088,
+      "rightX" : 116.856,
+      "topY" : 394.6088,
+      "baseLineY" : 404.34,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 406.6815,
+      "rightX" : 287.1552,
+      "topY" : 394.6815,
+      "baseLineY" : 404.34,
+      "fontId" : 1,
+      "text" : "The proposed date of foreclosure. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 427.2471,
+      "rightX" : 113.52,
+      "topY" : 415.2471,
+      "baseLineY" : 425.1,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 427.3688,
+      "rightX" : 116.856,
+      "topY" : 415.3688,
+      "baseLineY" : 425.1,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 427.4415,
+      "rightX" : 287.3568,
+      "topY" : 415.4415,
+      "baseLineY" : 425.1,
+      "fontId" : 1,
+      "text" : "The proposed date of liquidation.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 448.0071,
+      "rightX" : 113.52,
+      "topY" : 436.0071,
+      "baseLineY" : 445.86,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 448.1288,
+      "rightX" : 116.856,
+      "topY" : 436.1288,
+      "baseLineY" : 445.86,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 448.2015,
+      "rightX" : 442.4637,
+      "topY" : 436.2015,
+      "baseLineY" : 445.86,
+      "fontId" : 1,
+      "text" : "Steps to be taken to preserve the collateral and protect the tenants. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 468.7671,
+      "rightX" : 113.52,
+      "topY" : 456.7671,
+      "baseLineY" : 466.62,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 468.8888,
+      "rightX" : 116.856,
+      "topY" : 456.8888,
+      "baseLineY" : 466.62,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 468.9615,
+      "rightX" : 419.9354,
+      "topY" : 456.9615,
+      "baseLineY" : 466.62,
+      "fontId" : 1,
+      "text" : "Copies of the borrower's latest available financial statements. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 489.5271,
+      "rightX" : 113.52,
+      "topY" : 477.5271,
+      "baseLineY" : 487.38,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 489.6489,
+      "rightX" : 116.856,
+      "topY" : 477.6489,
+      "baseLineY" : 487.38,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 489.7215,
+      "rightX" : 527.1182,
+      "topY" : 477.7215,
+      "baseLineY" : 487.38,
+      "fontId" : 1,
+      "text" : "Copies of the personal or corporate guarantor's latest available financial statements. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 510.2871,
+      "rightX" : 113.52,
+      "topY" : 498.2871,
+      "baseLineY" : 508.14,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 510.4089,
+      "rightX" : 116.856,
+      "topY" : 498.4089,
+      "baseLineY" : 508.14,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 510.4815,
+      "rightX" : 535.1953,
+      "topY" : 498.4815,
+      "baseLineY" : 508.14,
+      "fontId" : 1,
+      "text" : "An itemized list of estimated liquidation expenses expected to be incurred along with "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 524.4615,
+      "rightX" : 269.5991,
+      "topY" : 512.4615,
+      "baseLineY" : 522.1201,
+      "fontId" : 1,
+      "text" : "justification for each expense. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 545.0271,
+      "rightX" : 113.52,
+      "topY" : 533.0271,
+      "baseLineY" : 542.8801,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 545.1489,
+      "rightX" : 116.856,
+      "topY" : 533.1489,
+      "baseLineY" : 542.8801,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 545.2215,
+      "rightX" : 501.5744,
+      "topY" : 533.2215,
+      "baseLineY" : 542.8801,
+      "fontId" : 1,
+      "text" : "A schedule to periodically report to the Agency on the progress of liquidation. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 565.7871,
+      "rightX" : 113.52,
+      "topY" : 553.7871,
+      "baseLineY" : 563.64,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 565.9088,
+      "rightX" : 116.8559,
+      "topY" : 553.9088,
+      "baseLineY" : 563.64,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 565.9815,
+      "rightX" : 378.0359,
+      "topY" : 553.9815,
+      "baseLineY" : 563.64,
+      "fontId" : 1,
+      "text" : "An estimate and justification of protective advances. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 586.5471,
+      "rightX" : 113.5199,
+      "topY" : 574.5471,
+      "baseLineY" : 584.4,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.5199,
+      "bottomY" : 586.6688,
+      "rightX" : 116.8559,
+      "topY" : 574.6688,
+      "baseLineY" : 584.4,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 586.7415,
+      "rightX" : 530.9089,
+      "topY" : 574.7415,
+      "baseLineY" : 584.4,
+      "fontId" : 1,
+      "text" : "Proposed protective bid amounts on collateral to be sold at auction and a breakdown "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 600.7215,
+      "rightX" : 334.4112,
+      "topY" : 588.7215,
+      "baseLineY" : 598.38,
+      "fontId" : 1,
+      "text" : "to show how the amounts were determined. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 621.2871,
+      "rightX" : 113.5199,
+      "topY" : 609.2871,
+      "baseLineY" : 619.14,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.5199,
+      "bottomY" : 621.4088,
+      "rightX" : 116.8559,
+      "topY" : 609.4088,
+      "baseLineY" : 619.14,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 621.4815,
+      "rightX" : 492.0241,
+      "topY" : 609.4815,
+      "baseLineY" : 619.14,
+      "fontId" : 1,
+      "text" : "A determination of whether a deed-in-lieu of foreclosure will be considered. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 641.4615,
+      "rightX" : 110.9999,
+      "topY" : 629.4615,
+      "baseLineY" : 639.12,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 661.4415,
+      "rightX" : 74.9999,
+      "topY" : 649.4415,
+      "baseLineY" : 659.1,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.9599,
+      "bottomY" : 675.4215,
+      "rightX" : 319.9751,
+      "topY" : 663.4215,
+      "baseLineY" : 673.08,
+      "fontId" : 1,
+      "text" : "10-4 "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 689.4015,
+      "rightX" : 110.9999,
+      "topY" : 677.4015,
+      "baseLineY" : 687.06,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 100.1871,
+      "rightX" : 113.52,
+      "topY" : 88.1871,
+      "baseLineY" : 98.04,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 100.3089,
+      "rightX" : 116.856,
+      "topY" : 88.3089,
+      "baseLineY" : 98.04,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 100.3815,
+      "rightX" : 521.7933,
+      "topY" : 88.3815,
+      "baseLineY" : 98.04,
+      "fontId" : 1,
+      "text" : "If a voluntary conveyance is considered, the proposed amount to be credited to the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 114.3615,
+      "rightX" : 204.834,
+      "topY" : 102.3615,
+      "baseLineY" : 112.02,
+      "fontId" : 1,
+      "text" : "guaranteed debt. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 134.9271,
+      "rightX" : 113.52,
+      "topY" : 122.9271,
+      "baseLineY" : 132.78,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 135.0488,
+      "rightX" : 116.856,
+      "topY" : 123.0488,
+      "baseLineY" : 132.78,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 135.1215,
+      "rightX" : 508.4073,
+      "topY" : 123.1215,
+      "baseLineY" : 132.78,
+      "fontId" : 1,
+      "text" : "Any relevant legal opinions, including, for example, opinions on environmental "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 149.1015,
+      "rightX" : 306.036,
+      "topY" : 137.1015,
+      "baseLineY" : 146.76,
+      "fontId" : 1,
+      "text" : "issues, title searches, and bankruptcy. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 169.2614,
+      "rightX" : 95.9616,
+      "topY" : 157.2614,
+      "baseLineY" : 166.92,
+      "fontId" : 3,
+      "text" : "10.6 "
+    }, {
+      "leftX" : 107.9616,
+      "bottomY" : 169.2614,
+      "rightX" : 319.0535,
+      "topY" : 157.2614,
+      "baseLineY" : 166.92,
+      "fontId" : 3,
+      "text" : "APPROVAL OF LIQUIDATION PLAN "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 195.1215,
+      "rightX" : 522.0599,
+      "topY" : 183.1214,
+      "baseLineY" : 192.78,
+      "fontId" : 1,
+      "text" : "The Agency will accept or reject the lender's liquidation plan within 20 calendar days "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 209.1015,
+      "rightX" : 537.5807,
+      "topY" : 197.1015,
+      "baseLineY" : 206.76,
+      "fontId" : 1,
+      "text" : "after receipt of the plan or request that the lender make revisions to the plan.  If the Agency fails "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 223.0815,
+      "rightX" : 530.322,
+      "topY" : 211.0815,
+      "baseLineY" : 220.74,
+      "fontId" : 1,
+      "text" : "to meet this deadline, the plan will be approved by default.  When the State Office receives the "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 237.0614,
+      "rightX" : 517.0796,
+      "topY" : 225.0614,
+      "baseLineY" : 234.72,
+      "fontId" : 1,
+      "text" : "lender’s liquidation plan, the State Office immediately must notify the Director of the Multi-"
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 251.0414,
+      "rightX" : 286.0943,
+      "topY" : 239.0414,
+      "baseLineY" : 248.7,
+      "fontId" : 1,
+      "text" : "Family Housing Guarantee Loan Division.   "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 277.0214,
+      "rightX" : 527.1457,
+      "topY" : 265.0214,
+      "baseLineY" : 274.6799,
+      "fontId" : 1,
+      "text" : "The State Office will review and assess the lender’s liquidation plan.  The State Office "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 291.0014,
+      "rightX" : 530.4745,
+      "topY" : 279.0014,
+      "baseLineY" : 288.6599,
+      "fontId" : 1,
+      "text" : "will recommend acceptance or rejection of a liquidation plan and send it to the National Office "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 304.9814,
+      "rightX" : 536.9113,
+      "topY" : 292.9814,
+      "baseLineY" : 302.64,
+      "fontId" : 1,
+      "text" : "for concurrence in a timely manner.  The Director of the Multi-Family Housing Guarantee Loan "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 318.9614,
+      "rightX" : 524.7193,
+      "topY" : 306.9614,
+      "baseLineY" : 316.62,
+      "fontId" : 1,
+      "text" : "Division will review the State Office recommendation and the liquidation plan.  The National "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 332.9414,
+      "rightX" : 522.5485,
+      "topY" : 320.9414,
+      "baseLineY" : 330.6,
+      "fontId" : 1,
+      "text" : "Office must concur with the State Office recommendation on all lender submitted liquidation "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 346.9214,
+      "rightX" : 106.3751,
+      "topY" : 334.9214,
+      "baseLineY" : 344.58,
+      "fontId" : 1,
+      "text" : "plans.  "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 372.9015,
+      "rightX" : 479.4817,
+      "topY" : 360.9015,
+      "baseLineY" : 370.56,
+      "fontId" : 1,
+      "text" : "When a liquidation plan is approved by the Agency, the lender must proceed "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 386.8815,
+      "rightX" : 539.8751,
+      "topY" : 374.8815,
+      "baseLineY" : 384.54,
+      "fontId" : 1,
+      "text" : "expeditiously with liquidation, in accordance with the terms of the plan.  Agency approval of the "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 400.8615,
+      "rightX" : 521.7049,
+      "topY" : 388.8615,
+      "baseLineY" : 398.52,
+      "fontId" : 1,
+      "text" : "lender’s liquidation plan is normally classified as a categorical exclusion under the Agency’s "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 414.8415,
+      "rightX" : 505.1617,
+      "topY" : 402.8415,
+      "baseLineY" : 412.5,
+      "fontId" : 1,
+      "text" : "environmental review process, unless the proposed method of liquidation will result in an "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 428.8215,
+      "rightX" : 522.3345,
+      "topY" : 416.8215,
+      "baseLineY" : 426.48,
+      "fontId" : 1,
+      "text" : "alteration of the purpose, operation, location, or design of the project as originally approved.  "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 442.8015,
+      "rightX" : 512.4428,
+      "topY" : 430.8015,
+      "baseLineY" : 440.4601,
+      "fontId" : 1,
+      "text" : "The liquidation plan may be modified when conditions warrant.  All modifications must be "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 456.7815,
+      "rightX" : 374.8725,
+      "topY" : 444.7815,
+      "baseLineY" : 454.4401,
+      "fontId" : 1,
+      "text" : "approved, in writing, by the Agency prior to implementation.   "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 482.7615,
+      "rightX" : 74.9999,
+      "topY" : 470.7615,
+      "baseLineY" : 480.4201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 496.9215,
+      "rightX" : 95.9663,
+      "topY" : 484.9215,
+      "baseLineY" : 494.5801,
+      "fontId" : 3,
+      "text" : "10.7 "
+    }, {
+      "leftX" : 107.9663,
+      "bottomY" : 496.9215,
+      "rightX" : 326.7719,
+      "topY" : 484.9215,
+      "baseLineY" : 494.5801,
+      "fontId" : 3,
+      "text" : "FILING AN ESTIMATED LOSS CLAIM "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 522.7815,
+      "rightX" : 540.828,
+      "topY" : 510.7815,
+      "baseLineY" : 520.4401,
+      "fontId" : 1,
+      "text" : "Upon approval of the liquidation plan, all interest credit payments, if applicable, from the "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 536.7615,
+      "rightX" : 538.3414,
+      "topY" : 524.7615,
+      "baseLineY" : 534.42,
+      "fontId" : 1,
+      "text" : "Agency will cease.  If the liquidation plan is expected to exceed 90 calendar days the lender will "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 550.7415,
+      "rightX" : 528.8773,
+      "topY" : 538.7415,
+      "baseLineY" : 548.4001,
+      "fontId" : 1,
+      "text" : "submit an estimated loss payment with the liquidation plan.  Any estimated loss payment must "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 564.7215,
+      "rightX" : 524.9245,
+      "topY" : 552.7215,
+      "baseLineY" : 562.3801,
+      "fontId" : 1,
+      "text" : "be applied to the outstanding principal and interest of the guaranteed debt.  Estimates must be "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 578.7015,
+      "rightX" : 268.5095,
+      "topY" : 566.7015,
+      "baseLineY" : 576.36,
+      "fontId" : 1,
+      "text" : "prepared and submitted by the lender on "
+    }, {
+      "leftX" : 268.4999,
+      "bottomY" : 578.7015,
+      "rightX" : 354.127,
+      "topY" : 566.7015,
+      "baseLineY" : 576.36,
+      "fontId" : 13,
+      "text" : "Form RD 449-30 "
+    }, {
+      "leftX" : 354.1199,
+      "bottomY" : 578.7015,
+      "rightX" : 504.2844,
+      "topY" : 566.7015,
+      "baseLineY" : 576.36,
+      "fontId" : 1,
+      "text" : "using the basic loss formula as "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 592.6816,
+      "rightX" : 525.2328,
+      "topY" : 580.6816,
+      "baseLineY" : 590.3401,
+      "fontId" : 1,
+      "text" : "provided on the report.  The estimated loss claim will be promptly processed.  Payment of the "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 606.6615,
+      "rightX" : 538.0223,
+      "topY" : 594.6613,
+      "baseLineY" : 604.3201,
+      "fontId" : 1,
+      "text" : "estimated loss amount will normally be made to the lender within 30 calendar days after the loss "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 620.6414,
+      "rightX" : 286.4759,
+      "topY" : 608.6414,
+      "baseLineY" : 618.2999,
+      "fontId" : 1,
+      "text" : "estimate has been approved by the Agency.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 646.6214,
+      "rightX" : 111,
+      "topY" : 634.6214,
+      "baseLineY" : 644.2799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 672.6014,
+      "rightX" : 75,
+      "topY" : 660.6014,
+      "baseLineY" : 670.2599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 686.5813,
+      "rightX" : 319.9751,
+      "topY" : 674.5813,
+      "baseLineY" : 684.2399,
+      "fontId" : 1,
+      "text" : "10-5 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 700.5613,
+      "rightX" : 169.3559,
+      "topY" : 688.5613,
+      "baseLineY" : 698.2198,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 714.5414,
+      "rightX" : 75,
+      "topY" : 702.5414,
+      "baseLineY" : 712.1999,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 85.6215,
+      "rightX" : 129.66,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.7815,
+      "rightX" : 269.1696,
+      "topY" : 87.7815,
+      "baseLineY" : 97.44,
+      "fontId" : 3,
+      "text" : "10.8   WITHDRAWAL OF A CLAIM "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.6415,
+      "rightX" : 541.2915,
+      "topY" : 113.6415,
+      "baseLineY" : 123.3,
+      "fontId" : 1,
+      "text" : "At the request of the lender, if the borrower cures the default prior to the earliest payment "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 139.6214,
+      "rightX" : 525.8097,
+      "topY" : 127.6214,
+      "baseLineY" : 137.28,
+      "fontId" : 1,
+      "text" : "of the estimated loss claim or foreclosure, the guarantee will continue as if the default had not "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 153.6014,
+      "rightX" : 542.6954,
+      "topY" : 141.6014,
+      "baseLineY" : 151.2599,
+      "fontId" : 1,
+      "text" : "occurred.  The lender must notify the State Office, the Agency Finance Office and the holder that "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 167.5814,
+      "rightX" : 203.4576,
+      "topY" : 155.5814,
+      "baseLineY" : 165.2399,
+      "fontId" : 1,
+      "text" : "the default has been cured. "
+    }, {
+      "leftX" : 177.6,
+      "bottomY" : 196.0516,
+      "rightX" : 437.7693,
+      "topY" : 182.0516,
+      "baseLineY" : 193.3199,
+      "fontId" : 2,
+      "text" : "SECTION 3: PROPERTY LIQUIDATION "
+    }, {
+      "leftX" : 306.0007,
+      "bottomY" : 212.432,
+      "rightX" : 309.4957,
+      "topY" : 198.432,
+      "baseLineY" : 209.7003,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 226.5014,
+      "rightX" : 95.9712,
+      "topY" : 214.5014,
+      "baseLineY" : 224.16,
+      "fontId" : 3,
+      "text" : "10.9 "
+    }, {
+      "leftX" : 107.9712,
+      "bottomY" : 226.5014,
+      "rightX" : 261.8423,
+      "topY" : 214.5014,
+      "baseLineY" : 224.16,
+      "fontId" : 3,
+      "text" : "PROPERTY ACQUISITION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 252.3614,
+      "rightX" : 528.449,
+      "topY" : 240.3614,
+      "baseLineY" : 250.02,
+      "fontId" : 1,
+      "text" : "The first step in the liquidation process is to acquire the property.  The liquidation plan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 266.3414,
+      "rightX" : 432.1201,
+      "topY" : 254.3414,
+      "baseLineY" : 263.9999,
+      "fontId" : 1,
+      "text" : "must inform the Agency of the proposed method of acquisition, including: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 292.907,
+      "rightX" : 113.52,
+      "topY" : 280.907,
+      "baseLineY" : 290.7599,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 293.0288,
+      "rightX" : 116.856,
+      "topY" : 281.0288,
+      "baseLineY" : 290.7599,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 293.1014,
+      "rightX" : 226.8601,
+      "topY" : 281.1014,
+      "baseLineY" : 290.7599,
+      "fontId" : 1,
+      "text" : "Judicial foreclosure; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 319.667,
+      "rightX" : 113.52,
+      "topY" : 307.667,
+      "baseLineY" : 317.52,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 319.7888,
+      "rightX" : 116.856,
+      "topY" : 307.7888,
+      "baseLineY" : 317.52,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 319.8614,
+      "rightX" : 266.2176,
+      "topY" : 307.8614,
+      "baseLineY" : 317.52,
+      "fontId" : 1,
+      "text" : "Non-judicial foreclosure; or  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 346.427,
+      "rightX" : 113.52,
+      "topY" : 334.427,
+      "baseLineY" : 344.28,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 346.5488,
+      "rightX" : 116.856,
+      "topY" : 334.5488,
+      "baseLineY" : 344.28,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 346.6214,
+      "rightX" : 262.8073,
+      "topY" : 334.6214,
+      "baseLineY" : 344.28,
+      "fontId" : 1,
+      "text" : "Deed-in-lieu of foreclosure. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 372.6014,
+      "rightX" : 478.2002,
+      "topY" : 360.6014,
+      "baseLineY" : 370.26,
+      "fontId" : 1,
+      "text" : "The lender must estimate the time frame when the acquisition should occur.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 386.5815,
+      "rightX" : 396.2761,
+      "topY" : 374.5815,
+      "baseLineY" : 384.24,
+      "fontId" : 1,
+      "text" : "In most cases, acquisition should be completed within 120 calendar"
+    }, {
+      "leftX" : 396.3,
+      "bottomY" : 386.5815,
+      "rightX" : 399.3,
+      "topY" : 374.5815,
+      "baseLineY" : 384.24,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 399.3,
+      "bottomY" : 386.5815,
+      "rightX" : 526.2541,
+      "topY" : 374.5815,
+      "baseLineY" : 384.24,
+      "fontId" : 1,
+      "text" : "days from approval of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 400.5615,
+      "rightX" : 542.2873,
+      "topY" : 388.5615,
+      "baseLineY" : 398.22,
+      "fontId" : 1,
+      "text" : "liquidation plan.  If the lender foresees a longer acquisition period, the reasons for the delay must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 414.5415,
+      "rightX" : 507.2281,
+      "topY" : 402.5415,
+      "baseLineY" : 412.2,
+      "fontId" : 1,
+      "text" : "be explained in the liquidation plan.  Examples of appropriate reasons for a delay include: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 429.1071,
+      "rightX" : 113.52,
+      "topY" : 417.1071,
+      "baseLineY" : 426.96,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 429.2288,
+      "rightX" : 116.856,
+      "topY" : 417.2288,
+      "baseLineY" : 426.96,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 429.3015,
+      "rightX" : 394.6033,
+      "topY" : 417.3015,
+      "baseLineY" : 426.96,
+      "fontId" : 1,
+      "text" : "A State law declaration of bankruptcy by the borrower; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 455.8671,
+      "rightX" : 113.52,
+      "topY" : 443.8671,
+      "baseLineY" : 453.72,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 455.9888,
+      "rightX" : 116.856,
+      "topY" : 443.9888,
+      "baseLineY" : 453.72,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 456.0615,
+      "rightX" : 509.8077,
+      "topY" : 444.0615,
+      "baseLineY" : 453.72,
+      "fontId" : 1,
+      "text" : "Time to provide written notice to tenants or similar tenant protection measures; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 470.0415,
+      "rightX" : 129,
+      "topY" : 458.0415,
+      "baseLineY" : 467.7,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 484.6071,
+      "rightX" : 113.52,
+      "topY" : 472.6071,
+      "baseLineY" : 482.4601,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 484.7289,
+      "rightX" : 116.856,
+      "topY" : 472.7289,
+      "baseLineY" : 482.4601,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 484.8015,
+      "rightX" : 457.357,
+      "topY" : 472.8015,
+      "baseLineY" : 482.4601,
+      "fontId" : 1,
+      "text" : "Constraints imposed by other liens or financing on the property; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 511.3671,
+      "rightX" : 113.52,
+      "topY" : 499.3671,
+      "baseLineY" : 509.2201,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 511.4889,
+      "rightX" : 116.856,
+      "topY" : 499.4889,
+      "baseLineY" : 509.2201,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 511.5615,
+      "rightX" : 200.4216,
+      "topY" : 499.5615,
+      "baseLineY" : 509.2201,
+      "fontId" : 1,
+      "text" : "Court backlog. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 537.5415,
+      "rightX" : 526.6573,
+      "topY" : 525.5415,
+      "baseLineY" : 535.2001,
+      "fontId" : 1,
+      "text" : "Unless otherwise approved by the Agency, the amount bid by the lender at foreclosure "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 551.5215,
+      "rightX" : 503.255,
+      "topY" : 539.5215,
+      "baseLineY" : 549.1801,
+      "fontId" : 1,
+      "text" : "sale must equal the lesser of the sum of the outstanding principal and interest, liquidation "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 565.5015,
+      "rightX" : 469.1362,
+      "topY" : 553.5014,
+      "baseLineY" : 563.16,
+      "fontId" : 1,
+      "text" : "expense, and approved protective advances or the appraised value of the property. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 591.4814,
+      "rightX" : 523.2987,
+      "topY" : 579.4814,
+      "baseLineY" : 589.1399,
+      "fontId" : 1,
+      "text" : "Once the collateral has been purchased by a third party through foreclosure, the borrower has "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 605.4613,
+      "rightX" : 530.3761,
+      "topY" : 593.4613,
+      "baseLineY" : 603.1199,
+      "fontId" : 1,
+      "text" : "conveyed title to the lender, or an estimated loss payment is made by the Agency to the lender, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 619.4413,
+      "rightX" : 515.2105,
+      "topY" : 607.4413,
+      "baseLineY" : 617.0999,
+      "fontId" : 1,
+      "text" : "no further transfer of physical assets can be made.  Once the lender has title to the property, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 633.4214,
+      "rightX" : 532.5914,
+      "topY" : 621.4214,
+      "baseLineY" : 631.0799,
+      "fontId" : 1,
+      "text" : "interested purchasers of the real estate owned (REO) property may negotiate with the lender, at "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 647.4013,
+      "rightX" : 187.908,
+      "topY" : 635.4013,
+      "baseLineY" : 645.0599,
+      "fontId" : 1,
+      "text" : "the lender’s discretion.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 661.3813,
+      "rightX" : 75,
+      "topY" : 649.3813,
+      "baseLineY" : 659.0399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 675.3614,
+      "rightX" : 319.9752,
+      "topY" : 663.3614,
+      "baseLineY" : 673.0199,
+      "fontId" : 1,
+      "text" : "10-6 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 701.5213,
+      "rightX" : 75,
+      "topY" : 689.5213,
+      "baseLineY" : 699.1799,
+      "fontId" : 3,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.7815,
+      "rightX" : 101.946,
+      "topY" : 87.7815,
+      "baseLineY" : 97.44,
+      "fontId" : 3,
+      "text" : "10.10 "
+    }, {
+      "leftX" : 107.946,
+      "bottomY" : 99.7815,
+      "rightX" : 247.1063,
+      "topY" : 87.7815,
+      "baseLineY" : 97.44,
+      "fontId" : 3,
+      "text" : "LENDER LIQUIDATION "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 125.6415,
+      "rightX" : 75,
+      "topY" : 113.6415,
+      "baseLineY" : 123.3,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.6415,
+      "rightX" : 482.3577,
+      "topY" : 113.6415,
+      "baseLineY" : 123.3,
+      "fontId" : 1,
+      "text" : "If a property is acquired by the lender through foreclosure or other method of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 139.6214,
+      "rightX" : 436.7401,
+      "topY" : 127.6214,
+      "baseLineY" : 137.28,
+      "fontId" : 1,
+      "text" : "conveyance, the lender must dispose of the property in accordance with the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 153.6014,
+      "rightX" : 540.9889,
+      "topY" : 141.6014,
+      "baseLineY" : 151.2599,
+      "fontId" : 1,
+      "text" : "liquidation plan.  If complications in the liquidation process lead to unforeseen delays, the lender "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 167.5814,
+      "rightX" : 521.8197,
+      "topY" : 155.5814,
+      "baseLineY" : 165.2399,
+      "fontId" : 1,
+      "text" : "must immediately notify the Agency of the reason for the delay and submit a revised date for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 181.5614,
+      "rightX" : 531.0646,
+      "topY" : 169.5614,
+      "baseLineY" : 179.2199,
+      "fontId" : 1,
+      "text" : "expected liquidation. Failure to inform the Agency of the unforeseen circumstance could result "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 195.5414,
+      "rightX" : 363.3168,
+      "topY" : 183.5414,
+      "baseLineY" : 193.1999,
+      "fontId" : 1,
+      "text" : "in the denial of payments to the lender under the guarantee.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 209.5213,
+      "rightX" : 75,
+      "topY" : 197.5213,
+      "baseLineY" : 207.1799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 223.5013,
+      "rightX" : 473.6185,
+      "topY" : 211.5013,
+      "baseLineY" : 221.1599,
+      "fontId" : 1,
+      "text" : "While the Agency expects the lender to dispose of the property in a manner "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 237.4813,
+      "rightX" : 472.235,
+      "topY" : 225.4813,
+      "baseLineY" : 235.1398,
+      "fontId" : 1,
+      "text" : "that will yield the highest possible market value, marketing and liquidation actions "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 251.4613,
+      "rightX" : 319.5551,
+      "topY" : 239.4613,
+      "baseLineY" : 249.1198,
+      "fontId" : 1,
+      "text" : "must ensure that protections afforded to tenants in ["
+    }, {
+      "leftX" : 319.56,
+      "bottomY" : 251.4613,
+      "rightX" : 460.261,
+      "topY" : 239.4613,
+      "baseLineY" : 249.1198,
+      "fontId" : 13,
+      "text" : "7 CFR part 3560, subpart D]"
+    }, {
+      "leftX" : 460.56,
+      "bottomY" : 251.4613,
+      "rightX" : 481.2516,
+      "topY" : 239.4613,
+      "baseLineY" : 249.1198,
+      "fontId" : 1,
+      "text" : " are "
+    }, {
+      "leftX" : 531.48,
+      "bottomY" : 251.7614,
+      "rightX" : 534.48,
+      "topY" : 239.7614,
+      "baseLineY" : 249.42,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 265.4413,
+      "rightX" : 120.714,
+      "topY" : 253.4413,
+      "baseLineY" : 263.0998,
+      "fontId" : 1,
+      "text" : "provided. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 291.6013,
+      "rightX" : 101.958,
+      "topY" : 279.6013,
+      "baseLineY" : 289.2598,
+      "fontId" : 3,
+      "text" : "10.11 "
+    }, {
+      "leftX" : 107.958,
+      "bottomY" : 291.6013,
+      "rightX" : 428.6714,
+      "topY" : 279.6013,
+      "baseLineY" : 289.2598,
+      "fontId" : 3,
+      "text" : "FAILURE TO COMPLY WITH THE LIQUIDATION PLAN "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 317.4613,
+      "rightX" : 512.8922,
+      "topY" : 305.4613,
+      "baseLineY" : 315.1198,
+      "fontId" : 1,
+      "text" : "The purpose of the liquidation plan is to ensure timely liquidation of property at the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 331.4413,
+      "rightX" : 528.5049,
+      "topY" : 319.4413,
+      "baseLineY" : 329.0998,
+      "fontId" : 1,
+      "text" : "lowest cost to the Agency.  If the lender fails to comply with the liquidation plan that has been "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 345.4213,
+      "rightX" : 539.2512,
+      "topY" : 333.4213,
+      "baseLineY" : 343.0798,
+      "fontId" : 1,
+      "text" : "approved by the Agency, it may result in the denial of benefits to the lender under the guarantee. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 371.4013,
+      "rightX" : 487.9642,
+      "topY" : 359.4013,
+      "baseLineY" : 369.0598,
+      "fontId" : 1,
+      "text" : "If the lender becomes aware of any situation that would change any part of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 385.3813,
+      "rightX" : 515.5078,
+      "topY" : 373.3813,
+      "baseLineY" : 383.0399,
+      "fontId" : 1,
+      "text" : "liquidation plan, it must immediately inform the Agency of the reasons for such change and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 399.3613,
+      "rightX" : 427.8985,
+      "topY" : 387.3613,
+      "baseLineY" : 397.0199,
+      "fontId" : 1,
+      "text" : "submit an amendment to the liquidation plan for approval by the Agency. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 413.3413,
+      "rightX" : 75,
+      "topY" : 401.3413,
+      "baseLineY" : 410.9999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 184.14,
+      "bottomY" : 429.8117,
+      "rightX" : 434.7231,
+      "topY" : 415.8117,
+      "baseLineY" : 427.08,
+      "fontId" : 2,
+      "text" : "SECTION 4:  AGENCY ELECTION OF  "
+    }, {
+      "leftX" : 195.7798,
+      "bottomY" : 446.1921,
+      "rightX" : 419.6078,
+      "topY" : 432.1921,
+      "baseLineY" : 443.4604,
+      "fontId" : 2,
+      "text" : "ASSIGNMENT OR CONVEYANCE "
+    }, {
+      "leftX" : 305.9995,
+      "bottomY" : 462.5724,
+      "rightX" : 309.4944,
+      "topY" : 448.5724,
+      "baseLineY" : 459.8407,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 476.6415,
+      "rightX" : 101.97,
+      "topY" : 464.6415,
+      "baseLineY" : 474.3,
+      "fontId" : 3,
+      "text" : "10.12 "
+    }, {
+      "leftX" : 107.97,
+      "bottomY" : 476.6415,
+      "rightX" : 178.926,
+      "topY" : 464.6415,
+      "baseLineY" : 474.3,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 502.5014,
+      "rightX" : 534.473,
+      "topY" : 490.5014,
+      "baseLineY" : 500.16,
+      "fontId" : 1,
+      "text" : "While liquidation by the lender will occur in almost every case, the Agency reserves the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 516.4815,
+      "rightX" : 526.0167,
+      "topY" : 504.4815,
+      "baseLineY" : 514.14,
+      "fontId" : 1,
+      "text" : "right to require the lender to assign the loan or convey the property to the government prior to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 530.4615,
+      "rightX" : 520.973,
+      "topY" : 518.4615,
+      "baseLineY" : 528.12,
+      "fontId" : 1,
+      "text" : "liquidation if it determines that assignment or conveyance of title is in the best interest of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 544.4414,
+      "rightX" : 535.9393,
+      "topY" : 532.4414,
+      "baseLineY" : 542.1,
+      "fontId" : 1,
+      "text" : "government.  In these cases, the lender may submit a claim in accordance with the provisions of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 558.4214,
+      "rightX" : 524.4645,
+      "topY" : 546.4214,
+      "baseLineY" : 556.08,
+      "fontId" : 1,
+      "text" : "Section 5 of this chapter.  If a holder remains in possession of a certificate of guarantee of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 572.4015,
+      "rightX" : 444.7438,
+      "topY" : 560.4015,
+      "baseLineY" : 570.06,
+      "fontId" : 1,
+      "text" : "loan during this process, it must also be notified of such action by the lender. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 598.3814,
+      "rightX" : 517.1913,
+      "topY" : 586.3814,
+      "baseLineY" : 596.04,
+      "fontId" : 1,
+      "text" : "Examples of reasons the Agency may require loan assignment or conveyance of title "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 612.3614,
+      "rightX" : 113.7792,
+      "topY" : 600.3614,
+      "baseLineY" : 610.02,
+      "fontId" : 1,
+      "text" : "include: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 638.927,
+      "rightX" : 113.52,
+      "topY" : 626.927,
+      "baseLineY" : 636.78,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 639.0488,
+      "rightX" : 116.856,
+      "topY" : 627.0488,
+      "baseLineY" : 636.78,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 639.1214,
+      "rightX" : 531.0995,
+      "topY" : 627.1214,
+      "baseLineY" : 636.78,
+      "fontId" : 1,
+      "text" : "It would be less costly to the government for the Agency to dispose of the property; "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 665.1014,
+      "rightX" : 93,
+      "topY" : 653.1014,
+      "baseLineY" : 662.7599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 303.96,
+      "bottomY" : 679.0815,
+      "rightX" : 328.9752,
+      "topY" : 667.0815,
+      "baseLineY" : 676.74,
+      "fontId" : 1,
+      "text" : "10-7 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 693.0614,
+      "rightX" : 187.3559,
+      "topY" : 681.0614,
+      "baseLineY" : 690.72,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 707.0414,
+      "rightX" : 93,
+      "topY" : 695.0414,
+      "baseLineY" : 704.7,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 85.6215,
+      "rightX" : 129.66,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 99.6015,
+      "rightX" : 93,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 114.1671,
+      "rightX" : 113.52,
+      "topY" : 102.1671,
+      "baseLineY" : 112.02,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 114.2888,
+      "rightX" : 116.856,
+      "topY" : 102.2888,
+      "baseLineY" : 112.02,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 114.3615,
+      "rightX" : 539.8417,
+      "topY" : 102.3615,
+      "baseLineY" : 112.02,
+      "fontId" : 1,
+      "text" : "Tenant protection issues are of such a complicated nature that disposal or retention of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 128.3415,
+      "rightX" : 344.9712,
+      "topY" : 116.3415,
+      "baseLineY" : 126,
+      "fontId" : 1,
+      "text" : "the property by the Agency is necessary; and "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 142.3214,
+      "rightX" : 93,
+      "topY" : 130.3214,
+      "baseLineY" : 139.98,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 156.887,
+      "rightX" : 113.52,
+      "topY" : 144.887,
+      "baseLineY" : 154.74,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 157.0088,
+      "rightX" : 116.856,
+      "topY" : 145.0088,
+      "baseLineY" : 154.74,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 157.0815,
+      "rightX" : 414.839,
+      "topY" : 145.0815,
+      "baseLineY" : 154.74,
+      "fontId" : 1,
+      "text" : "The lender has been grossly negligent in servicing the loan. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 183.0614,
+      "rightX" : 526.0969,
+      "topY" : 171.0614,
+      "baseLineY" : 180.72,
+      "fontId" : 1,
+      "text" : "After a review of the proposed liquidation plan, the Agency will inform the lender if it "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.0414,
+      "rightX" : 312.5976,
+      "topY" : 185.0414,
+      "baseLineY" : 194.7,
+      "fontId" : 1,
+      "text" : "will require an assignment or conveyance of title. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 211.2014,
+      "rightX" : 75,
+      "topY" : 199.2014,
+      "baseLineY" : 208.8599,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 225.2414,
+      "rightX" : 75,
+      "topY" : 213.2414,
+      "baseLineY" : 222.8999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 239.2813,
+      "rightX" : 101.964,
+      "topY" : 227.2813,
+      "baseLineY" : 236.9399,
+      "fontId" : 3,
+      "text" : "10.13 "
+    }, {
+      "leftX" : 107.964,
+      "bottomY" : 239.2813,
+      "rightX" : 277.1832,
+      "topY" : 227.2813,
+      "baseLineY" : 236.9399,
+      "fontId" : 3,
+      "text" : "ASSIGNMENT OF THE LOAN "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 253.1413,
+      "rightX" : 75,
+      "topY" : 241.1413,
+      "baseLineY" : 250.7999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 267.1213,
+      "rightX" : 527.251,
+      "topY" : 255.1213,
+      "baseLineY" : 264.7798,
+      "fontId" : 1,
+      "text" : "An assignment of the guaranteed loan to the Agency must be in written and recordable "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 281.1014,
+      "rightX" : 523.8646,
+      "topY" : 269.1013,
+      "baseLineY" : 278.7598,
+      "fontId" : 1,
+      "text" : "form and must be completed within 90 calendar days of the Agency notice to the lender.  The "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 295.0814,
+      "rightX" : 511.9065,
+      "topY" : 283.0814,
+      "baseLineY" : 292.7399,
+      "fontId" : 1,
+      "text" : "assignment documents will be forwarded to the OGC’s Regional Attorney for review.  The "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 309.0614,
+      "rightX" : 521.3931,
+      "topY" : 297.0614,
+      "baseLineY" : 306.7199,
+      "fontId" : 1,
+      "text" : "assignment will be considered complete once the following transactions are completed to the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 323.0414,
+      "rightX" : 184.7953,
+      "topY" : 311.0414,
+      "baseLineY" : 320.6999,
+      "fontId" : 1,
+      "text" : "Agency’s satisfaction.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 337.0214,
+      "rightX" : 75,
+      "topY" : 325.0214,
+      "baseLineY" : 334.6799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 351.587,
+      "rightX" : 113.52,
+      "topY" : 339.587,
+      "baseLineY" : 349.4399,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 351.7088,
+      "rightX" : 116.856,
+      "topY" : 339.7088,
+      "baseLineY" : 349.4399,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 351.7814,
+      "rightX" : 491.2226,
+      "topY" : 339.7814,
+      "baseLineY" : 349.4399,
+      "fontId" : 1,
+      "text" : "Conveyance to the Agency of all rights and interests arising under the loan. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 378.347,
+      "rightX" : 113.52,
+      "topY" : 366.347,
+      "baseLineY" : 376.2,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 378.4688,
+      "rightX" : 116.856,
+      "topY" : 366.4688,
+      "baseLineY" : 376.2,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 378.5414,
+      "rightX" : 533.4098,
+      "topY" : 366.5414,
+      "baseLineY" : 376.2,
+      "fontId" : 1,
+      "text" : "Assignment to the Agency of all claims against the borrower or others arising out of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 392.5214,
+      "rightX" : 278.004,
+      "topY" : 380.5214,
+      "baseLineY" : 390.18,
+      "fontId" : 1,
+      "text" : "the loan transaction, including: "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 419.087,
+      "rightX" : 149.928,
+      "topY" : 407.087,
+      "baseLineY" : 416.94,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 149.94,
+      "bottomY" : 419.2088,
+      "rightX" : 153.276,
+      "topY" : 407.2088,
+      "baseLineY" : 416.94,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 419.2814,
+      "rightX" : 531.821,
+      "topY" : 407.2814,
+      "baseLineY" : 416.94,
+      "fontId" : 1,
+      "text" : "All collateral agreements affecting financing, construction, use, or operation "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 433.2614,
+      "rightX" : 260.1025,
+      "topY" : 421.2614,
+      "baseLineY" : 430.92,
+      "fontId" : 1,
+      "text" : "of the property; and "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 459.8271,
+      "rightX" : 149.928,
+      "topY" : 447.8271,
+      "baseLineY" : 457.68,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 149.94,
+      "bottomY" : 459.9488,
+      "rightX" : 153.276,
+      "topY" : 447.9488,
+      "baseLineY" : 457.68,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 460.0215,
+      "rightX" : 523.8914,
+      "topY" : 448.0215,
+      "baseLineY" : 457.68,
+      "fontId" : 1,
+      "text" : "All claims under policies of title, or other insurance, surety bonds, or other "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 474.0015,
+      "rightX" : 219.4176,
+      "topY" : 462.0015,
+      "baseLineY" : 471.66,
+      "fontId" : 1,
+      "text" : "guarantees. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 500.5671,
+      "rightX" : 113.52,
+      "topY" : 488.5671,
+      "baseLineY" : 498.42,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 500.6888,
+      "rightX" : 116.856,
+      "topY" : 488.6888,
+      "baseLineY" : 498.42,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 500.7615,
+      "rightX" : 520.9575,
+      "topY" : 488.7615,
+      "baseLineY" : 498.42,
+      "fontId" : 1,
+      "text" : "A due diligence report which evaluates the effect of potential contamination from "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 514.7415,
+      "rightX" : 504.4946,
+      "topY" : 502.7415,
+      "baseLineY" : 512.4,
+      "fontId" : 1,
+      "text" : "hazardous wastes and from the release of hazardous substances and petroleum "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 528.7215,
+      "rightX" : 509.8873,
+      "topY" : 516.7215,
+      "baseLineY" : 526.38,
+      "fontId" : 1,
+      "text" : "products on the security value of real property and an appraisal which takes the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 542.7015,
+      "rightX" : 390.7705,
+      "topY" : 530.7015,
+      "baseLineY" : 540.36,
+      "fontId" : 1,
+      "text" : "findings of the due diligence report into consideration. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 568.6815,
+      "rightX" : 526.7786,
+      "topY" : 556.6815,
+      "baseLineY" : 566.34,
+      "fontId" : 1,
+      "text" : "If the Agency requires an assignment, the lender must stop any liquidation actions that "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 582.6615,
+      "rightX" : 144.1164,
+      "topY" : 570.6615,
+      "baseLineY" : 580.32,
+      "fontId" : 1,
+      "text" : "are in process. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 608.8215,
+      "rightX" : 101.94,
+      "topY" : 596.8215,
+      "baseLineY" : 606.48,
+      "fontId" : 3,
+      "text" : "10.14 "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 608.8215,
+      "rightX" : 359.6282,
+      "topY" : 596.8215,
+      "baseLineY" : 606.48,
+      "fontId" : 3,
+      "text" : "CONVEYANCE OF TITLE TO THE AGENCY "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 634.6815,
+      "rightX" : 531.5906,
+      "topY" : 622.6815,
+      "baseLineY" : 632.34,
+      "fontId" : 1,
+      "text" : "When the Agency requires a conveyance of title to the property, the lender must inform "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 648.6615,
+      "rightX" : 520.2482,
+      "topY" : 636.6615,
+      "baseLineY" : 646.32,
+      "fontId" : 1,
+      "text" : "the Agency of the method and time frame for obtaining title to the property. The lender must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 662.6415,
+      "rightX" : 524.3594,
+      "topY" : 650.6415,
+      "baseLineY" : 660.3,
+      "fontId" : 1,
+      "text" : "obtain a deed in lieu of foreclosure from the borrower or implement the approved liquidation  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 688.6215,
+      "rightX" : 75,
+      "topY" : 676.6215,
+      "baseLineY" : 686.28,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 702.6015,
+      "rightX" : 319.9752,
+      "topY" : 690.6015,
+      "baseLineY" : 700.26,
+      "fontId" : 1,
+      "text" : "10-8 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 716.5815,
+      "rightX" : 111,
+      "topY" : 704.5815,
+      "baseLineY" : 714.24,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.6015,
+      "rightX" : 534.293,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : "plan.  Once the foreclosure action is completed and the lender has obtained title to the property, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 113.5815,
+      "rightX" : 534.2363,
+      "topY" : 101.5815,
+      "baseLineY" : 111.24,
+      "fontId" : 1,
+      "text" : "the lender must transfer the title to the Agency.  The Agency will accept the conveyance of title "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 127.5614,
+      "rightX" : 512.0938,
+      "topY" : 115.5614,
+      "baseLineY" : 125.22,
+      "fontId" : 1,
+      "text" : "upon acceptance of the documents listed below and receipt of a satisfactory warranty deed. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 154.127,
+      "rightX" : 113.52,
+      "topY" : 142.127,
+      "baseLineY" : 151.98,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 154.2488,
+      "rightX" : 116.856,
+      "topY" : 142.2488,
+      "baseLineY" : 151.98,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 154.3214,
+      "rightX" : 509.8503,
+      "topY" : 142.3214,
+      "baseLineY" : 151.98,
+      "fontId" : 1,
+      "text" : "A release of all claims of the lender or other holder of the guarantee against the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 168.3014,
+      "rightX" : 172.7316,
+      "topY" : 156.3014,
+      "baseLineY" : 165.96,
+      "fontId" : 1,
+      "text" : "property. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 182.2814,
+      "rightX" : 129,
+      "topY" : 170.2814,
+      "baseLineY" : 179.9399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 196.847,
+      "rightX" : 113.52,
+      "topY" : 184.847,
+      "baseLineY" : 194.7,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 196.9688,
+      "rightX" : 116.856,
+      "topY" : 184.9688,
+      "baseLineY" : 194.7,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 197.0414,
+      "rightX" : 520.9575,
+      "topY" : 185.0414,
+      "baseLineY" : 194.7,
+      "fontId" : 1,
+      "text" : "A due diligence report which evaluates the effect of potential contamination from "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 211.0214,
+      "rightX" : 504.4946,
+      "topY" : 199.0214,
+      "baseLineY" : 208.6799,
+      "fontId" : 1,
+      "text" : "hazardous wastes and from the release of hazardous substances and petroleum "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 225.0014,
+      "rightX" : 509.8873,
+      "topY" : 213.0014,
+      "baseLineY" : 222.6599,
+      "fontId" : 1,
+      "text" : "products on the security value of real property and an appraisal which takes the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 238.9814,
+      "rightX" : 390.7705,
+      "topY" : 226.9814,
+      "baseLineY" : 236.6399,
+      "fontId" : 1,
+      "text" : "findings of the due diligence report into consideration. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 265.547,
+      "rightX" : 113.52,
+      "topY" : 253.547,
+      "baseLineY" : 263.3999,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 265.6687,
+      "rightX" : 116.856,
+      "topY" : 253.6687,
+      "baseLineY" : 263.3999,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 265.7414,
+      "rightX" : 506.7026,
+      "topY" : 253.7414,
+      "baseLineY" : 263.3999,
+      "fontId" : 1,
+      "text" : "An assignment of the lender’s rights to any operating funds and any reserves or "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 279.7213,
+      "rightX" : 360.3145,
+      "topY" : 267.7213,
+      "baseLineY" : 277.3799,
+      "fontId" : 1,
+      "text" : "escrow account established for such purposes as: "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 306.287,
+      "rightX" : 149.928,
+      "topY" : 294.287,
+      "baseLineY" : 304.1399,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 149.94,
+      "bottomY" : 306.4087,
+      "rightX" : 153.276,
+      "topY" : 294.4087,
+      "baseLineY" : 304.1399,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 306.4814,
+      "rightX" : 541.0826,
+      "topY" : 294.4814,
+      "baseLineY" : 304.1399,
+      "fontId" : 1,
+      "text" : "The maintenance of the property, including any replacement reserve or capital "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 320.4614,
+      "rightX" : 287.7409,
+      "topY" : 308.4614,
+      "baseLineY" : 318.1199,
+      "fontId" : 1,
+      "text" : "improvement reserves; or "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 347.027,
+      "rightX" : 149.928,
+      "topY" : 335.027,
+      "baseLineY" : 344.8799,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 149.94,
+      "bottomY" : 347.1487,
+      "rightX" : 153.276,
+      "topY" : 335.1487,
+      "baseLineY" : 344.8799,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 347.2214,
+      "rightX" : 384.829,
+      "topY" : 335.2214,
+      "baseLineY" : 344.8799,
+      "fontId" : 1,
+      "text" : "The payment of property taxes and insurance. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 373.2014,
+      "rightX" : 535.5213,
+      "topY" : 361.2014,
+      "baseLineY" : 370.8599,
+      "fontId" : 1,
+      "text" : "Prior to acceptance of conveyance of property, the Agency will conduct an inspection to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 387.1814,
+      "rightX" : 491.3234,
+      "topY" : 375.1814,
+      "baseLineY" : 384.8399,
+      "fontId" : 1,
+      "text" : "determine the physical condition, security, and need for rehabilitation and repair.  This "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 401.1614,
+      "rightX" : 538.7977,
+      "topY" : 389.1614,
+      "baseLineY" : 398.8199,
+      "fontId" : 1,
+      "text" : "inspection will encompass site conditions, building exteriors, common elements, and interiors of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 415.1414,
+      "rightX" : 116.4696,
+      "topY" : 403.1414,
+      "baseLineY" : 412.8,
+      "fontId" : 1,
+      "text" : "all units. "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 429.1214,
+      "rightX" : 309,
+      "topY" : 417.1214,
+      "baseLineY" : 426.78,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 116.7,
+      "bottomY" : 445.5917,
+      "rightX" : 498.7566,
+      "topY" : 431.5917,
+      "baseLineY" : 442.86,
+      "fontId" : 2,
+      "text" : "SECTION 5: DETERMINATION OF THE CLAIM AMOUNT "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 459.6615,
+      "rightX" : 75,
+      "topY" : 447.6615,
+      "baseLineY" : 457.32,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 479.7015,
+      "rightX" : 101.958,
+      "topY" : 467.7015,
+      "baseLineY" : 477.36,
+      "fontId" : 3,
+      "text" : "10.15 "
+    }, {
+      "leftX" : 107.958,
+      "bottomY" : 479.7015,
+      "rightX" : 206.8572,
+      "topY" : 467.7015,
+      "baseLineY" : 477.36,
+      "fontId" : 3,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 499.5615,
+      "rightX" : 521.885,
+      "topY" : 487.5615,
+      "baseLineY" : 497.22,
+      "fontId" : 1,
+      "text" : "The determination of the claim amount actually begins during the development of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 513.5415,
+      "rightX" : 541.4423,
+      "topY" : 501.5415,
+      "baseLineY" : 511.2,
+      "fontId" : 1,
+      "text" : "liquidation plan.  Factors such as the date of the decision to liquidate, estimated liquidation value "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 527.5215,
+      "rightX" : 529.8525,
+      "topY" : 515.5215,
+      "baseLineY" : 525.1801,
+      "fontId" : 1,
+      "text" : "of the security property, estimated date of foreclosure and estimated date of liquidation will all "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 541.5015,
+      "rightX" : 535.0546,
+      "topY" : 529.5015,
+      "baseLineY" : 539.16,
+      "fontId" : 1,
+      "text" : "affect the amount the Agency will be required to pay to the lender.  The Agency will review the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 555.4815,
+      "rightX" : 539.1169,
+      "topY" : 543.4815,
+      "baseLineY" : 553.14,
+      "fontId" : 1,
+      "text" : "liquidation plan to be sure that the costs and time frames of acquisition and liquidation minimize "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 569.4615,
+      "rightX" : 524.4771,
+      "topY" : 557.4615,
+      "baseLineY" : 567.1201,
+      "fontId" : 1,
+      "text" : "losses to the government.  Calculating the amount payable under the guarantee is a multi-step "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 583.4415,
+      "rightX" : 187.5096,
+      "topY" : 571.4415,
+      "baseLineY" : 581.1,
+      "fontId" : 1,
+      "text" : "process detailed below. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 609.4215,
+      "rightX" : 514.2841,
+      "topY" : 597.4215,
+      "baseLineY" : 607.08,
+      "fontId" : 1,
+      "text" : "If there is a loss claim due to contamination from a release of hazardous substances, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 623.4015,
+      "rightX" : 513.9194,
+      "topY" : 611.4015,
+      "baseLineY" : 621.0601,
+      "fontId" : 1,
+      "text" : "hazardous wastes, or petroleum products, the Agency shall not finalize loss claims until the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 637.3815,
+      "rightX" : 542.1058,
+      "topY" : 625.3815,
+      "baseLineY" : 635.04,
+      "fontId" : 1,
+      "text" : "guaranteed lender has sold the property or the Agency has accepted assignment or conveyance of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 651.3615,
+      "rightX" : 170.5788,
+      "topY" : 639.3615,
+      "baseLineY" : 649.02,
+      "fontId" : 1,
+      "text" : "title to the property. "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 677.3415,
+      "rightX" : 319.9751,
+      "topY" : 665.3415,
+      "baseLineY" : 675,
+      "fontId" : 1,
+      "text" : "10-9 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 691.3214,
+      "rightX" : 169.3559,
+      "topY" : 679.3214,
+      "baseLineY" : 688.98,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 705.4815,
+      "rightX" : 75,
+      "topY" : 693.4815,
+      "baseLineY" : 703.14,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 719.5215,
+      "rightX" : 75,
+      "topY" : 707.5215,
+      "baseLineY" : 717.18,
+      "fontId" : 3,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 10,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 85.6215,
+      "rightX" : 129.66,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.7815,
+      "rightX" : 101.952,
+      "topY" : 87.7815,
+      "baseLineY" : 97.44,
+      "fontId" : 3,
+      "text" : "10.16 "
+    }, {
+      "leftX" : 107.952,
+      "bottomY" : 99.7815,
+      "rightX" : 353.7192,
+      "topY" : 87.7815,
+      "baseLineY" : 97.44,
+      "fontId" : 3,
+      "text" : "DETERMINATION OF THE DATE OF LOSS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 113.6415,
+      "rightX" : 75,
+      "topY" : 101.6415,
+      "baseLineY" : 111.3,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 127.8014,
+      "rightX" : 122.664,
+      "topY" : 115.8014,
+      "baseLineY" : 125.46,
+      "fontId" : 3,
+      "text" : "A. "
+    }, {
+      "leftX" : 126.024,
+      "bottomY" : 127.8014,
+      "rightX" : 230.052,
+      "topY" : 115.8014,
+      "baseLineY" : 125.46,
+      "fontId" : 3,
+      "text" : "Lender Liquidation "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 141.8414,
+      "rightX" : 111,
+      "topY" : 129.8414,
+      "baseLineY" : 139.4999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 155.7014,
+      "rightX" : 512.4432,
+      "topY" : 143.7014,
+      "baseLineY" : 153.3599,
+      "fontId" : 1,
+      "text" : "The date of loss is the date the loan is terminated due to foreclosure or other "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 169.6814,
+      "rightX" : 375.5602,
+      "topY" : 157.6814,
+      "baseLineY" : 167.3399,
+      "fontId" : 1,
+      "text" : "means of conveyance.  This date will be the earliest of: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 196.247,
+      "rightX" : 113.52,
+      "topY" : 184.247,
+      "baseLineY" : 194.0999,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 196.3687,
+      "rightX" : 116.856,
+      "topY" : 184.3687,
+      "baseLineY" : 194.0999,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 196.4414,
+      "rightX" : 354.271,
+      "topY" : 184.4414,
+      "baseLineY" : 194.0999,
+      "fontId" : 1,
+      "text" : "The date on which the property is acquired; or  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 223.007,
+      "rightX" : 113.52,
+      "topY" : 211.007,
+      "baseLineY" : 220.8599,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 223.1287,
+      "rightX" : 116.856,
+      "topY" : 211.1287,
+      "baseLineY" : 220.8599,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 223.2014,
+      "rightX" : 476.468,
+      "topY" : 211.2014,
+      "baseLineY" : 220.8599,
+      "fontId" : 1,
+      "text" : "The proposed date of acquisition in the liquidation plan or any approved "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 237.1814,
+      "rightX" : 306.8952,
+      "topY" : 225.1814,
+      "baseLineY" : 234.8399,
+      "fontId" : 1,
+      "text" : "modifications to the liquidation plan. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 263.1613,
+      "rightX" : 541.8274,
+      "topY" : 251.1613,
+      "baseLineY" : 260.8199,
+      "fontId" : 1,
+      "text" : "If the date of acquisition is later than the date approved by the Agency, the date of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 277.1413,
+      "rightX" : 511.0106,
+      "topY" : 265.1413,
+      "baseLineY" : 274.7999,
+      "fontId" : 1,
+      "text" : "loss for the purpose of calculation of the claim will be the Agency’s approved date. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 303.3013,
+      "rightX" : 122.0112,
+      "topY" : 291.3013,
+      "baseLineY" : 300.9599,
+      "fontId" : 3,
+      "text" : "B. "
+    }, {
+      "leftX" : 126.0312,
+      "bottomY" : 303.3013,
+      "rightX" : 381.4753,
+      "topY" : 291.3013,
+      "baseLineY" : 300.9599,
+      "fontId" : 3,
+      "text" : "Assignment or Conveyance of Title to the Agency "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 329.1613,
+      "rightX" : 532.5657,
+      "topY" : 317.1613,
+      "baseLineY" : 326.8199,
+      "fontId" : 1,
+      "text" : "Where the Agency requires an assignment of the loan or conveyance of title, the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 343.1414,
+      "rightX" : 510.7245,
+      "topY" : 331.1414,
+      "baseLineY" : 340.7999,
+      "fontId" : 1,
+      "text" : "date of loss will be the date on which the Agency accepts assignment of the loan or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 357.1214,
+      "rightX" : 205.4592,
+      "topY" : 345.1214,
+      "baseLineY" : 354.7799,
+      "fontId" : 1,
+      "text" : "conveyance of title. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 383.1014,
+      "rightX" : 513.737,
+      "topY" : 371.1014,
+      "baseLineY" : 380.7599,
+      "fontId" : 1,
+      "text" : "In submitting the liquidation plan to the Agency, the lender must specify the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 397.0814,
+      "rightX" : 528.3314,
+      "topY" : 385.0814,
+      "baseLineY" : 394.7399,
+      "fontId" : 1,
+      "text" : "estimated date of assignment or conveyance of title.  Unless the delay in assignment or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 411.0614,
+      "rightX" : 536.0925,
+      "topY" : 399.0614,
+      "baseLineY" : 408.7199,
+      "fontId" : 1,
+      "text" : "conveyance is due to Agency action or inaction, the date of loss may be no later than the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 425.0414,
+      "rightX" : 382.8768,
+      "topY" : 413.0414,
+      "baseLineY" : 422.7,
+      "fontId" : 1,
+      "text" : "date approved in the liquidation plan or any amendment. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 439.0214,
+      "rightX" : 75,
+      "topY" : 427.0214,
+      "baseLineY" : 436.68,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 453.1814,
+      "rightX" : 101.952,
+      "topY" : 441.1814,
+      "baseLineY" : 450.84,
+      "fontId" : 3,
+      "text" : "10.17 "
+    }, {
+      "leftX" : 107.952,
+      "bottomY" : 453.1814,
+      "rightX" : 254.1408,
+      "topY" : 441.1814,
+      "baseLineY" : 450.84,
+      "fontId" : 3,
+      "text" : "CALCULATION OF LOSS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 479.0414,
+      "rightX" : 540.463,
+      "topY" : 467.0414,
+      "baseLineY" : 476.7,
+      "fontId" : 1,
+      "text" : "In order to receive payment under the guarantee, the lender must calculate and submit for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 493.0214,
+      "rightX" : 157.4088,
+      "topY" : 481.0214,
+      "baseLineY" : 490.68,
+      "fontId" : 1,
+      "text" : "Agency approval "
+    }, {
+      "leftX" : 157.38,
+      "bottomY" : 493.0214,
+      "rightX" : 240.0097,
+      "topY" : 481.0214,
+      "baseLineY" : 490.68,
+      "fontId" : 13,
+      "text" : "Form RD 449-30"
+    }, {
+      "leftX" : 240,
+      "bottomY" : 493.0214,
+      "rightX" : 515.3137,
+      "topY" : 481.0214,
+      "baseLineY" : 490.68,
+      "fontId" : 1,
+      "text" : ".  The information contained in the report will be used to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 507.0014,
+      "rightX" : 523.895,
+      "topY" : 495.0014,
+      "baseLineY" : 504.66,
+      "fontId" : 1,
+      "text" : "estimate the loss to the Agency on an individual loan.  The aggregate amounts reported by all "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 520.9815,
+      "rightX" : 532.7114,
+      "topY" : 508.9815,
+      "baseLineY" : 518.64,
+      "fontId" : 1,
+      "text" : "lenders will be used to forecast the amount the Agency will need to disburse in claim payments "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 534.9615,
+      "rightX" : 520.6737,
+      "topY" : 522.9615,
+      "baseLineY" : 532.62,
+      "fontId" : 1,
+      "text" : "in a fiscal year.  When completing the report of loss, the lender should use the following as a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 548.9414,
+      "rightX" : 104.7,
+      "topY" : 536.9414,
+      "baseLineY" : 546.6,
+      "fontId" : 1,
+      "text" : "guide. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 562.9214,
+      "rightX" : 111,
+      "topY" : 550.9214,
+      "baseLineY" : 560.58,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 577.0815,
+      "rightX" : 122.6736,
+      "topY" : 565.0815,
+      "baseLineY" : 574.74,
+      "fontId" : 3,
+      "text" : "A. "
+    }, {
+      "leftX" : 126.0336,
+      "bottomY" : 577.0815,
+      "rightX" : 304.4879,
+      "topY" : 565.0815,
+      "baseLineY" : 574.74,
+      "fontId" : 3,
+      "text" : "Request for Estimated Loss Claim "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 602.9414,
+      "rightX" : 229.6273,
+      "topY" : 590.9414,
+      "baseLineY" : 600.6,
+      "fontId" : 13,
+      "text" : "Form RD 449-30 "
+    }, {
+      "leftX" : 229.62,
+      "bottomY" : 602.9414,
+      "rightX" : 531.0673,
+      "topY" : 590.9414,
+      "baseLineY" : 600.6,
+      "fontId" : 1,
+      "text" : "must be completed following the guidance in Paragraph 10.7.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 616.9214,
+      "rightX" : 535.0297,
+      "topY" : 604.9214,
+      "baseLineY" : 614.58,
+      "fontId" : 1,
+      "text" : "Unpaid principal and interest figures inserted in lines 11 and 12 must be calculated as of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 630.9015,
+      "rightX" : 278.5944,
+      "topY" : 618.9015,
+      "baseLineY" : 628.56,
+      "fontId" : 1,
+      "text" : "the date of submission of the form. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 656.8814,
+      "rightX" : 75,
+      "topY" : 644.8814,
+      "baseLineY" : 654.54,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 291.96,
+      "bottomY" : 670.8614,
+      "rightX" : 322.974,
+      "topY" : 658.8614,
+      "baseLineY" : 668.52,
+      "fontId" : 1,
+      "text" : "10-10 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 11,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.7815,
+      "rightX" : 75,
+      "topY" : 87.7815,
+      "baseLineY" : 97.44,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.7815,
+      "rightX" : 111,
+      "topY" : 87.7815,
+      "baseLineY" : 97.44,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 119.8214,
+      "rightX" : 534.9579,
+      "topY" : 107.8214,
+      "baseLineY" : 117.48,
+      "fontId" : 3,
+      "text" : "B.  Final Report of Loss (when an estimated loss claim payment has not been made)"
+    }, {
+      "leftX" : 534.96,
+      "bottomY" : 119.041,
+      "rightX" : 536.955,
+      "topY" : 111.041,
+      "baseLineY" : 117.48,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 139.6815,
+      "rightX" : 352.6512,
+      "topY" : 127.6815,
+      "baseLineY" : 137.34,
+      "fontId" : 1,
+      "text" : "The unpaid principal and interest figure on "
+    }, {
+      "leftX" : 352.62,
+      "bottomY" : 139.6815,
+      "rightX" : 438.2471,
+      "topY" : 127.6815,
+      "baseLineY" : 137.34,
+      "fontId" : 13,
+      "text" : "Form RD 449-30 "
+    }, {
+      "leftX" : 438.24,
+      "bottomY" : 139.6815,
+      "rightX" : 530.6304,
+      "topY" : 127.6815,
+      "baseLineY" : 137.34,
+      "fontId" : 1,
+      "text" : "must be calculated "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.6615,
+      "rightX" : 517.1961,
+      "topY" : 141.6615,
+      "baseLineY" : 151.32,
+      "fontId" : 1,
+      "text" : "based on the date of loss as explained in Paragraph 10.16 A.  For interest calculation "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 167.6415,
+      "rightX" : 531.6321,
+      "topY" : 155.6415,
+      "baseLineY" : 165.3,
+      "fontId" : 1,
+      "text" : "purposes, the Agency will pay interest that accrues no more than 90 calendar days from "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 181.6214,
+      "rightX" : 380.0267,
+      "topY" : 169.6214,
+      "baseLineY" : 179.28,
+      "fontId" : 1,
+      "text" : "the date the liquidation plan is approved by the Agency. "
+    }, {
+      "leftX" : 380.04,
+      "bottomY" : 181.0361,
+      "rightX" : 382.29,
+      "topY" : 172.0361,
+      "baseLineY" : 179.28,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 201.7813,
+      "rightX" : 75,
+      "topY" : 189.7813,
+      "baseLineY" : 199.4399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 215.8213,
+      "rightX" : 99,
+      "topY" : 203.8213,
+      "baseLineY" : 213.4799,
+      "fontId" : 3,
+      "text" : "10.18"
+    }, {
+      "leftX" : 99,
+      "bottomY" : 215.7487,
+      "rightX" : 102.336,
+      "topY" : 203.7487,
+      "baseLineY" : 213.4799,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 215.8213,
+      "rightX" : 259.6799,
+      "topY" : 203.8213,
+      "baseLineY" : 213.4799,
+      "fontId" : 3,
+      "text" : "PROTECTIVE ADVANCES "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 229.6813,
+      "rightX" : 540.4801,
+      "topY" : 217.6813,
+      "baseLineY" : 227.3398,
+      "fontId" : 1,
+      "text" : "The calculation of the loss amount may include any amounts approved by the Agency for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 243.6613,
+      "rightX" : 526.8744,
+      "topY" : 231.6613,
+      "baseLineY" : 241.3198,
+      "fontId" : 1,
+      "text" : "protective advances not paid from the project’s cash flow.  In general, protective advances are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 257.6413,
+      "rightX" : 538.5433,
+      "topY" : 245.6413,
+      "baseLineY" : 255.2998,
+      "fontId" : 1,
+      "text" : "funds necessary to protect the value of the asset and ensure the security, health, and safety of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 271.6212,
+      "rightX" : 540.5568,
+      "topY" : 259.6212,
+      "baseLineY" : 269.2798,
+      "fontId" : 1,
+      "text" : "tenants.  The lender must obtain the Agency’s written approval for any protective advance above "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 285.6013,
+      "rightX" : 246.9432,
+      "topY" : 273.6013,
+      "baseLineY" : 283.2598,
+      "fontId" : 1,
+      "text" : "$5,000.  Such amounts may include:"
+    }, {
+      "leftX" : 246.96,
+      "bottomY" : 285.016,
+      "rightX" : 249.21,
+      "topY" : 276.016,
+      "baseLineY" : 283.2599,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 306.167,
+      "rightX" : 113.52,
+      "topY" : 294.167,
+      "baseLineY" : 304.02,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 306.2888,
+      "rightX" : 116.856,
+      "topY" : 294.2888,
+      "baseLineY" : 304.02,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 306.3615,
+      "rightX" : 200.8752,
+      "topY" : 294.3615,
+      "baseLineY" : 304.02,
+      "fontId" : 1,
+      "text" : "Property taxes;  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 326.9271,
+      "rightX" : 113.52,
+      "topY" : 314.9271,
+      "baseLineY" : 324.78,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 327.0488,
+      "rightX" : 116.856,
+      "topY" : 315.0488,
+      "baseLineY" : 324.78,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 327.1215,
+      "rightX" : 512.2268,
+      "topY" : 315.1215,
+      "baseLineY" : 324.78,
+      "fontId" : 1,
+      "text" : "Water and sewer charges and other special assessments that are liens prior to the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 341.1015,
+      "rightX" : 225.5665,
+      "topY" : 329.1015,
+      "baseLineY" : 338.76,
+      "fontId" : 1,
+      "text" : "guaranteed loan; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 361.6671,
+      "rightX" : 113.52,
+      "topY" : 349.6671,
+      "baseLineY" : 359.52,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 361.7888,
+      "rightX" : 116.856,
+      "topY" : 349.7888,
+      "baseLineY" : 359.52,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 361.8615,
+      "rightX" : 218.8848,
+      "topY" : 349.8615,
+      "baseLineY" : 359.52,
+      "fontId" : 1,
+      "text" : "Property insurance. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 381.8415,
+      "rightX" : 506.5825,
+      "topY" : 369.8415,
+      "baseLineY" : 379.5,
+      "fontId" : 1,
+      "text" : "The lender may include an  estimated amount of protective advances as part of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 395.8215,
+      "rightX" : 522.8084,
+      "topY" : 383.8215,
+      "baseLineY" : 393.48,
+      "fontId" : 1,
+      "text" : "liquidation plan (see Paragraph 10.5).  Once the plan is approved by the Agency, this amount "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 409.8015,
+      "rightX" : 475.8338,
+      "topY" : 397.8015,
+      "baseLineY" : 407.4601,
+      "fontId" : 1,
+      "text" : "must be included by the lender in the calculation for the report of final loss on Form"
+    }, {
+      "leftX" : 475.68,
+      "bottomY" : 409.8015,
+      "rightX" : 534.6624,
+      "topY" : 397.8015,
+      "baseLineY" : 407.4601,
+      "fontId" : 13,
+      "text" : " RD 449-30,"
+    }, {
+      "leftX" : 534.66,
+      "bottomY" : 409.8015,
+      "rightX" : 537.66,
+      "topY" : 397.8015,
+      "baseLineY" : 407.4601,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 423.7815,
+      "rightX" : 331.4485,
+      "topY" : 411.7815,
+      "baseLineY" : 421.4401,
+      "fontId" : 1,
+      "text" : "unless a different amount is approved by the Agency. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 449.9415,
+      "rightX" : 101.952,
+      "topY" : 437.9415,
+      "baseLineY" : 447.6001,
+      "fontId" : 3,
+      "text" : "10.19 "
+    }, {
+      "leftX" : 107.952,
+      "bottomY" : 449.9415,
+      "rightX" : 259.1256,
+      "topY" : 437.9415,
+      "baseLineY" : 447.6001,
+      "fontId" : 3,
+      "text" : "LIQUIDATION EXPENSES "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 475.8015,
+      "rightX" : 538.6725,
+      "topY" : 463.8015,
+      "baseLineY" : 473.4601,
+      "fontId" : 1,
+      "text" : "The calculation of the loss amount will include any amounts approved by the Agency for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 489.7816,
+      "rightX" : 542.0519,
+      "topY" : 477.7816,
+      "baseLineY" : 487.4401,
+      "fontId" : 1,
+      "text" : "liquidation expenses.  In general, liquidation expenses are defined as those expenses necessary to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 503.7616,
+      "rightX" : 384.1067,
+      "topY" : 491.7616,
+      "baseLineY" : 501.4201,
+      "fontId" : 1,
+      "text" : "market and dispose of the property.  Such amounts may include: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 524.3272,
+      "rightX" : 113.52,
+      "topY" : 512.3272,
+      "baseLineY" : 522.1801,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 524.4489,
+      "rightX" : 116.856,
+      "topY" : 512.4489,
+      "baseLineY" : 522.1801,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 524.5216,
+      "rightX" : 375.9453,
+      "topY" : 512.5216,
+      "baseLineY" : 522.1801,
+      "fontId" : 1,
+      "text" : "Loan guarantee fees paid after the borrower default;"
+    }, {
+      "leftX" : 375.9,
+      "bottomY" : 523.936,
+      "rightX" : 378.15,
+      "topY" : 514.936,
+      "baseLineY" : 522.1799,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 545.0869,
+      "rightX" : 113.52,
+      "topY" : 533.0869,
+      "baseLineY" : 542.9399,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 545.2087,
+      "rightX" : 116.856,
+      "topY" : 533.2087,
+      "baseLineY" : 542.9399,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 545.2813,
+      "rightX" : 490.2134,
+      "topY" : 533.2813,
+      "baseLineY" : 542.9399,
+      "fontId" : 1,
+      "text" : "Reasonable third-party expenses to maintain and liquidate the property; and"
+    }, {
+      "leftX" : 490.2,
+      "bottomY" : 544.696,
+      "rightX" : 492.45,
+      "topY" : 535.696,
+      "baseLineY" : 542.9399,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 565.8471,
+      "rightX" : 113.52,
+      "topY" : 553.8471,
+      "baseLineY" : 563.7,
+      "fontId" : 11,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 565.9688,
+      "rightX" : 116.856,
+      "topY" : 553.9688,
+      "baseLineY" : 563.7,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 566.0415,
+      "rightX" : 487.8674,
+      "topY" : 554.0415,
+      "baseLineY" : 563.7,
+      "fontId" : 1,
+      "text" : "Independent appraiser’s fees, including the cost of the due diligence report."
+    }, {
+      "leftX" : 487.86,
+      "bottomY" : 565.4561,
+      "rightX" : 490.11,
+      "topY" : 556.4561,
+      "baseLineY" : 563.7,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 586.2014,
+      "rightX" : 75,
+      "topY" : 574.2014,
+      "baseLineY" : 583.86,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 600.2415,
+      "rightX" : 101.94,
+      "topY" : 588.2415,
+      "baseLineY" : 597.9,
+      "fontId" : 3,
+      "text" : "10.20 "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 600.2415,
+      "rightX" : 444.8282,
+      "topY" : 588.2415,
+      "baseLineY" : 597.9,
+      "fontId" : 3,
+      "text" : "LEGAL EXPENSES DURING BANKRUPTCY PROCEEDINGS"
+    }, {
+      "leftX" : 444.78,
+      "bottomY" : 599.656,
+      "rightX" : 447.03,
+      "topY" : 590.656,
+      "baseLineY" : 597.8999,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 626.1014,
+      "rightX" : 542.1838,
+      "topY" : 614.1014,
+      "baseLineY" : 623.7599,
+      "fontId" : 1,
+      "text" : "The lender is responsible for protecting the guaranteed loan and all collateral securing the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 640.0813,
+      "rightX" : 539.5801,
+      "topY" : 628.0813,
+      "baseLineY" : 637.7399,
+      "fontId" : 1,
+      "text" : "loan in bankruptcy proceedings.  The State Office will immediately notify the National Office of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 654.0614,
+      "rightX" : 502.9107,
+      "topY" : 642.0614,
+      "baseLineY" : 651.7199,
+      "fontId" : 1,
+      "text" : "all bankruptcy and pending bankruptcy proceedings and shall submit status reports to the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 668.0414,
+      "rightX" : 246.3923,
+      "topY" : 656.0414,
+      "baseLineY" : 665.6999,
+      "fontId" : 1,
+      "text" : "National Office on a monthly basis. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 678.5561,
+      "rightX" : 110.25,
+      "topY" : 669.5561,
+      "baseLineY" : 676.8,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 291.96,
+      "bottomY" : 692.5815,
+      "rightX" : 322.974,
+      "topY" : 680.5815,
+      "baseLineY" : 690.24,
+      "fontId" : 1,
+      "text" : "10-11 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 706.5614,
+      "rightX" : 169.3559,
+      "topY" : 694.5614,
+      "baseLineY" : 704.22,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 12,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 85.6215,
+      "rightX" : 129.66,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.6015,
+      "rightX" : 75,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 110.1161,
+      "rightX" : 110.25,
+      "topY" : 101.1161,
+      "baseLineY" : 108.36,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 124.1415,
+      "rightX" : 515.5826,
+      "topY" : 112.1415,
+      "baseLineY" : 121.8,
+      "fontId" : 1,
+      "text" : "When a bankruptcy proceeding results in the liquidation of the borrower entity legal "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 138.1214,
+      "rightX" : 535.5649,
+      "topY" : 126.1214,
+      "baseLineY" : 135.78,
+      "fontId" : 1,
+      "text" : "expenses will be handled as directed by the court.  All reasonable and customary legal expenses "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 152.1014,
+      "rightX" : 535.6851,
+      "topY" : 140.1014,
+      "baseLineY" : 149.7599,
+      "fontId" : 1,
+      "text" : "to protect the collateral may be shared based on the guaranteed percentage, usually a 90/10 split "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 166.0814,
+      "rightX" : 486.0698,
+      "topY" : 154.0814,
+      "baseLineY" : 163.7399,
+      "fontId" : 1,
+      "text" : "between the Agency and the lender.  Chapter 11 of the Bankruptcy Code pertains to a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 180.0614,
+      "rightX" : 505.8098,
+      "topY" : 168.0614,
+      "baseLineY" : 177.7199,
+      "fontId" : 1,
+      "text" : "reorganization of a business, where legal protection is afforded to the business.  Expenses "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 194.0414,
+      "rightX" : 528.4322,
+      "topY" : 182.0414,
+      "baseLineY" : 191.6999,
+      "fontId" : 1,
+      "text" : "incurred by the lender in a Chapter 11 reorganization can never be liquidation expenses unless "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 208.0213,
+      "rightX" : 313.6009,
+      "topY" : 196.0213,
+      "baseLineY" : 205.6799,
+      "fontId" : 1,
+      "text" : "the proceeding becomes a Chapter 11 liquidation. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 222.0013,
+      "rightX" : 75,
+      "topY" : 210.0013,
+      "baseLineY" : 219.6599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 236.1613,
+      "rightX" : 101.946,
+      "topY" : 224.1613,
+      "baseLineY" : 233.8198,
+      "fontId" : 3,
+      "text" : "10.21 "
+    }, {
+      "leftX" : 107.946,
+      "bottomY" : 236.1613,
+      "rightX" : 318.6695,
+      "topY" : 224.1613,
+      "baseLineY" : 233.8198,
+      "fontId" : 3,
+      "text" : "MAXIMUM GUARANTEE PAYMENT "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 262.0213,
+      "rightX" : 516.4041,
+      "topY" : 250.0213,
+      "baseLineY" : 259.6798,
+      "fontId" : 1,
+      "text" : "The maximum guarantee payment will not exceed the product of 90 percent, or such "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 276.0013,
+      "rightX" : 505.4774,
+      "topY" : 264.0013,
+      "baseLineY" : 273.6598,
+      "fontId" : 1,
+      "text" : "lesser guarantee percentage as set forth in the Loan Note Guarantee Agreement, times the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 289.9813,
+      "rightX" : 267.8065,
+      "topY" : 277.9813,
+      "baseLineY" : 287.6398,
+      "fontId" : 1,
+      "text" : "allowable loss amount, as determined in "
+    }, {
+      "leftX" : 267.78,
+      "bottomY" : 289.9813,
+      "rightX" : 353.4071,
+      "topY" : 277.9813,
+      "baseLineY" : 287.6398,
+      "fontId" : 13,
+      "text" : "Form RD 449-30."
+    }, {
+      "leftX" : 353.4,
+      "bottomY" : 289.9813,
+      "rightX" : 526.536,
+      "topY" : 277.9813,
+      "baseLineY" : 287.6398,
+      "fontId" : 1,
+      "text" : "  The maximum guarantee payment "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 303.9613,
+      "rightX" : 446.9305,
+      "topY" : 291.9613,
+      "baseLineY" : 301.6198,
+      "fontId" : 1,
+      "text" : "must be approved by the Agency in accordance with Section 6 of this chapter."
+    }, {
+      "leftX" : 446.94,
+      "bottomY" : 303.8886,
+      "rightX" : 450.276,
+      "topY" : 291.8886,
+      "baseLineY" : 301.6198,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 154.8,
+      "bottomY" : 332.4317,
+      "rightX" : 460.593,
+      "topY" : 318.4317,
+      "baseLineY" : 329.7,
+      "fontId" : 2,
+      "text" : "SECTION 6: PAYMENT OF THE FINAL CLAIM "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 358.5015,
+      "rightX" : 101.97,
+      "topY" : 346.5015,
+      "baseLineY" : 356.16,
+      "fontId" : 3,
+      "text" : "10.22 "
+    }, {
+      "leftX" : 107.97,
+      "bottomY" : 358.5015,
+      "rightX" : 178.926,
+      "topY" : 346.5015,
+      "baseLineY" : 356.16,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 384.3615,
+      "rightX" : 539.3402,
+      "topY" : 372.3615,
+      "baseLineY" : 382.02,
+      "fontId" : 1,
+      "text" : "Within 60 calendar days of liquidation of the property, the lender must submit a report of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 398.3415,
+      "rightX" : 218.1755,
+      "topY" : 386.3415,
+      "baseLineY" : 396,
+      "fontId" : 1,
+      "text" : "final loss to the Agency using "
+    }, {
+      "leftX" : 218.16,
+      "bottomY" : 398.3415,
+      "rightX" : 300.7896,
+      "topY" : 386.3415,
+      "baseLineY" : 396,
+      "fontId" : 13,
+      "text" : "Form RD 449-30"
+    }, {
+      "leftX" : 300.78,
+      "bottomY" : 398.3415,
+      "rightX" : 306.78,
+      "topY" : 386.3415,
+      "baseLineY" : 396,
+      "fontId" : 1,
+      "text" : ". "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 424.3215,
+      "rightX" : 507.2541,
+      "topY" : 412.3215,
+      "baseLineY" : 421.98,
+      "fontId" : 1,
+      "text" : "The lender must certify that all possibilities of collection have been exhausted as a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 438.3015,
+      "rightX" : 499.2382,
+      "topY" : 426.3015,
+      "baseLineY" : 435.96,
+      "fontId" : 1,
+      "text" : "condition for payment of the final claim.  Upon payment, in whole or in part, the note or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 452.2815,
+      "rightX" : 530.3715,
+      "topY" : 440.2815,
+      "baseLineY" : 449.94,
+      "fontId" : 1,
+      "text" : "judgement evidencing the debt shall be assigned to the United States, and the lender shall have "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 466.2615,
+      "rightX" : 355.3837,
+      "topY" : 454.2615,
+      "baseLineY" : 463.92,
+      "fontId" : 1,
+      "text" : "no further claim against the borrower or the United States. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 492.4215,
+      "rightX" : 101.97,
+      "topY" : 480.4215,
+      "baseLineY" : 490.08,
+      "fontId" : 3,
+      "text" : "10.23 "
+    }, {
+      "leftX" : 107.97,
+      "bottomY" : 492.4215,
+      "rightX" : 364.1579,
+      "topY" : 480.4215,
+      "baseLineY" : 490.08,
+      "fontId" : 3,
+      "text" : "SUBMISSION OF A REPORT OF FINAL LOSS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 518.2815,
+      "rightX" : 516.1862,
+      "topY" : 506.2815,
+      "baseLineY" : 515.9401,
+      "fontId" : 1,
+      "text" : "If the final loss is less than the estimated loss payment, the lender will reimburse the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 532.2615,
+      "rightX" : 244.7147,
+      "topY" : 520.2615,
+      "baseLineY" : 529.92,
+      "fontId" : 1,
+      "text" : "Agency for the overpayment, using "
+    }, {
+      "leftX" : 244.68,
+      "bottomY" : 532.2615,
+      "rightX" : 537.0988,
+      "topY" : 520.2615,
+      "baseLineY" : 529.92,
+      "fontId" : 13,
+      "text" : "Form RD 1980-43, “Lender’s Guaranteed Loan Payment to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 546.2415,
+      "rightX" : 109.2696,
+      "topY" : 534.2415,
+      "baseLineY" : 543.9001,
+      "fontId" : 13,
+      "text" : "USDA”"
+    }, {
+      "leftX" : 109.26,
+      "bottomY" : 546.2415,
+      "rightX" : 115.26,
+      "topY" : 534.2415,
+      "baseLineY" : 543.9001,
+      "fontId" : 1,
+      "text" : ". "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 572.2215,
+      "rightX" : 542.2803,
+      "topY" : 560.2215,
+      "baseLineY" : 569.8801,
+      "fontId" : 1,
+      "text" : "In those instances where the lender has made authorized protective advances not included "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 586.2015,
+      "rightX" : 516.9193,
+      "topY" : 574.2015,
+      "baseLineY" : 583.86,
+      "fontId" : 1,
+      "text" : "in the estimated loss payment, it may claim recovery for the guaranteed portion of approved "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 600.1816,
+      "rightX" : 523.0149,
+      "topY" : 588.1816,
+      "baseLineY" : 597.8401,
+      "fontId" : 1,
+      "text" : "amounts advanced, and interest resulting from such advances, not to exceed 90 calendar days "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 614.1615,
+      "rightX" : 534.8638,
+      "topY" : 602.1615,
+      "baseLineY" : 611.8201,
+      "fontId" : 1,
+      "text" : "from the Agency’s approval of the liquidation plan.  Such payment will be made by the Agency "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 628.1415,
+      "rightX" : 271.926,
+      "topY" : 616.1415,
+      "baseLineY" : 625.8,
+      "fontId" : 1,
+      "text" : "when the final report of loss is approved. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 654.3015,
+      "rightX" : 75,
+      "topY" : 642.3015,
+      "baseLineY" : 651.9601,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 668.1615,
+      "rightX" : 75,
+      "topY" : 656.1615,
+      "baseLineY" : 665.8201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 694.1415,
+      "rightX" : 75,
+      "topY" : 682.1415,
+      "baseLineY" : 691.8,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 291.96,
+      "bottomY" : 708.1215,
+      "rightX" : 322.974,
+      "topY" : 696.1215,
+      "baseLineY" : 705.78,
+      "fontId" : 1,
+      "text" : "10-12 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 13,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.7815,
+      "rightX" : 75,
+      "topY" : 87.7815,
+      "baseLineY" : 97.44,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 125.8214,
+      "rightX" : 101.958,
+      "topY" : 113.8214,
+      "baseLineY" : 123.48,
+      "fontId" : 3,
+      "text" : "10.24 "
+    }, {
+      "leftX" : 107.958,
+      "bottomY" : 125.8214,
+      "rightX" : 307.7652,
+      "topY" : 113.8214,
+      "baseLineY" : 123.48,
+      "fontId" : 3,
+      "text" : "THE APPROVED CLAIM AMOUNT "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 151.6814,
+      "rightX" : 531.2257,
+      "topY" : 139.6814,
+      "baseLineY" : 149.34,
+      "fontId" : 1,
+      "text" : "If the State Office reviewing the lender’s claim is satisfied with the lender’s calculation "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 165.6614,
+      "rightX" : 523.596,
+      "topY" : 153.6614,
+      "baseLineY" : 163.3199,
+      "fontId" : 1,
+      "text" : "of the final claim amount, then the State Office will forward the claim payment request to the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 179.6414,
+      "rightX" : 510.4937,
+      "topY" : 167.6414,
+      "baseLineY" : 177.2999,
+      "fontId" : 1,
+      "text" : "USDA Finance Office for processing.  The Finance Office will process the claim normally "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 193.6215,
+      "rightX" : 443.9242,
+      "topY" : 181.6214,
+      "baseLineY" : 191.2799,
+      "fontId" : 1,
+      "text" : "within 60 calendar days of receipt of the claim request from the State Office. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 219.6015,
+      "rightX" : 75,
+      "topY" : 207.6015,
+      "baseLineY" : 217.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 233.5815,
+      "rightX" : 75,
+      "topY" : 221.5815,
+      "baseLineY" : 231.24,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 247.5614,
+      "rightX" : 75,
+      "topY" : 235.5614,
+      "baseLineY" : 245.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 261.5414,
+      "rightX" : 75,
+      "topY" : 249.5414,
+      "baseLineY" : 259.2,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 275.5214,
+      "rightX" : 75,
+      "topY" : 263.5214,
+      "baseLineY" : 273.1799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 289.5014,
+      "rightX" : 75,
+      "topY" : 277.5014,
+      "baseLineY" : 287.1599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 303.4814,
+      "rightX" : 75,
+      "topY" : 291.4814,
+      "baseLineY" : 301.14,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 317.4614,
+      "rightX" : 75,
+      "topY" : 305.4614,
+      "baseLineY" : 315.12,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 331.4414,
+      "rightX" : 75,
+      "topY" : 319.4414,
+      "baseLineY" : 329.1,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 345.4214,
+      "rightX" : 75,
+      "topY" : 333.4214,
+      "baseLineY" : 343.08,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 359.4015,
+      "rightX" : 75,
+      "topY" : 347.4015,
+      "baseLineY" : 357.06,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 373.3815,
+      "rightX" : 75,
+      "topY" : 361.3815,
+      "baseLineY" : 371.04,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 387.3615,
+      "rightX" : 75,
+      "topY" : 375.3615,
+      "baseLineY" : 385.02,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 401.3415,
+      "rightX" : 75,
+      "topY" : 389.3415,
+      "baseLineY" : 399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 415.3215,
+      "rightX" : 75,
+      "topY" : 403.3215,
+      "baseLineY" : 412.98,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 429.3015,
+      "rightX" : 75,
+      "topY" : 417.3015,
+      "baseLineY" : 426.9601,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 443.2815,
+      "rightX" : 75,
+      "topY" : 431.2815,
+      "baseLineY" : 440.9401,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 457.2615,
+      "rightX" : 75,
+      "topY" : 445.2615,
+      "baseLineY" : 454.9201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 471.2415,
+      "rightX" : 75,
+      "topY" : 459.2415,
+      "baseLineY" : 468.9001,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 485.2216,
+      "rightX" : 75,
+      "topY" : 473.2216,
+      "baseLineY" : 482.8801,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 499.2016,
+      "rightX" : 75,
+      "topY" : 487.2016,
+      "baseLineY" : 496.8601,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 513.1816,
+      "rightX" : 75,
+      "topY" : 501.1816,
+      "baseLineY" : 510.8401,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 527.1616,
+      "rightX" : 75,
+      "topY" : 515.1616,
+      "baseLineY" : 524.8201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 541.1416,
+      "rightX" : 75,
+      "topY" : 529.1416,
+      "baseLineY" : 538.8001,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 555.1216,
+      "rightX" : 75,
+      "topY" : 543.1216,
+      "baseLineY" : 552.7802,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 569.1016,
+      "rightX" : 75,
+      "topY" : 557.1016,
+      "baseLineY" : 566.7601,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 583.0816,
+      "rightX" : 75,
+      "topY" : 571.0816,
+      "baseLineY" : 580.7401,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 597.0616,
+      "rightX" : 75,
+      "topY" : 585.0616,
+      "baseLineY" : 594.7201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 611.0415,
+      "rightX" : 75,
+      "topY" : 599.0415,
+      "baseLineY" : 608.7001,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 625.0216,
+      "rightX" : 75,
+      "topY" : 613.0216,
+      "baseLineY" : 622.6801,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 639.0016,
+      "rightX" : 75,
+      "topY" : 627.0016,
+      "baseLineY" : 636.6601,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 652.9815,
+      "rightX" : 75,
+      "topY" : 640.9815,
+      "baseLineY" : 650.6401,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 666.9616,
+      "rightX" : 75,
+      "topY" : 654.9616,
+      "baseLineY" : 664.6201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 677.476,
+      "rightX" : 74.25,
+      "topY" : 668.476,
+      "baseLineY" : 675.7199,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 291.96,
+      "bottomY" : 691.5014,
+      "rightX" : 322.974,
+      "topY" : 679.5014,
+      "baseLineY" : 689.1599,
+      "fontId" : 1,
+      "text" : "10-13 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 705.4814,
+      "rightX" : 169.3559,
+      "topY" : 693.4814,
+      "baseLineY" : 703.1399,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 11.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 15,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 16,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 17,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

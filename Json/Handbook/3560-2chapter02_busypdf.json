@@ -1,0 +1,4903 @@
+{
+  "pdfDoc" : "3560-2chapter02.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 496.86,
+      "bottomY" : 48.5391,
+      "rightX" : 544.905,
+      "topY" : 38.5391,
+      "baseLineY" : 46.26,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 496.86,
+      "bottomY" : 62.375,
+      "rightX" : 499.86,
+      "topY" : 50.375,
+      "baseLineY" : 59.64,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 176.52,
+      "bottomY" : 95.1779,
+      "rightX" : 449.1161,
+      "topY" : 81.1779,
+      "baseLineY" : 91.86,
+      "fontId" : 3,
+      "text" : "CHAPTER 2:  MULTI-FAMILY HOUSING "
+    }, {
+      "leftX" : 174.72,
+      "bottomY" : 111.2579,
+      "rightX" : 450.855,
+      "topY" : 97.2579,
+      "baseLineY" : 107.94,
+      "fontId" : 3,
+      "text" : "PROGRAMS AND ASSET MANAGEMENT "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 143.7839,
+      "rightX" : 96,
+      "topY" : 131.7839,
+      "baseLineY" : 140.94,
+      "fontId" : 4,
+      "text" : "2.1   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 143.7839,
+      "rightX" : 207,
+      "topY" : 131.7839,
+      "baseLineY" : 140.94,
+      "fontId" : 4,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 169.475,
+      "rightX" : 542.9398,
+      "topY" : 157.475,
+      "baseLineY" : 166.74,
+      "fontId" : 2,
+      "text" : "This chapter introduces key aspects of the Section 515 Multi-Family Housing and Section "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.2749,
+      "rightX" : 516.9598,
+      "topY" : 171.2749,
+      "baseLineY" : 180.54,
+      "fontId" : 2,
+      "text" : "514/516 Farm Labor Housing programs.  Under these programs, the Agency provides direct "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.0749,
+      "rightX" : 537.0588,
+      "topY" : 185.0749,
+      "baseLineY" : 194.34,
+      "fontId" : 2,
+      "text" : "loans and grants to support the development of affordable rental housing that serves rural areas.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 210.8749,
+      "rightX" : 529.92,
+      "topY" : 198.8749,
+      "baseLineY" : 208.14,
+      "fontId" : 2,
+      "text" : "The Section 538 Multi-Family Housing Guarantee program—the Agency’s third Multi-Family "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 224.6749,
+      "rightX" : 505.6186,
+      "topY" : 212.6749,
+      "baseLineY" : 221.9399,
+      "fontId" : 2,
+      "text" : "Housing Program that guarantees loans made by private lenders—is covered in a separate "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 238.4749,
+      "rightX" : 126.72,
+      "topY" : 226.4749,
+      "baseLineY" : 235.7399,
+      "fontId" : 2,
+      "text" : "regulation, "
+    }, {
+      "leftX" : 126.72,
+      "bottomY" : 238.5099,
+      "rightX" : 218.988,
+      "topY" : 226.5099,
+      "baseLineY" : 235.7399,
+      "fontId" : 5,
+      "text" : "[7 CFR Part 3565]"
+    }, {
+      "leftX" : 219,
+      "bottomY" : 238.4749,
+      "rightX" : 292.68,
+      "topY" : 226.4749,
+      "baseLineY" : 235.7399,
+      "fontId" : 2,
+      "text" : " and handbook "
+    }, {
+      "leftX" : 292.68,
+      "bottomY" : 238.5099,
+      "rightX" : 354.696,
+      "topY" : 226.5099,
+      "baseLineY" : 235.7399,
+      "fontId" : 5,
+      "text" : "(HB-1-3565)"
+    }, {
+      "leftX" : 354.72,
+      "bottomY" : 238.4749,
+      "rightX" : 360.66,
+      "topY" : 226.4749,
+      "baseLineY" : 235.7399,
+      "fontId" : 2,
+      "text" : ". "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 264.2149,
+      "rightX" : 514.2561,
+      "topY" : 252.2149,
+      "baseLineY" : 261.4799,
+      "fontId" : 2,
+      "text" : "This chapter also presents the asset management framework that the Agency uses to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 278.0149,
+      "rightX" : 496.2598,
+      "topY" : 266.0149,
+      "baseLineY" : 275.2799,
+      "fontId" : 2,
+      "text" : "oversee borrower performance in meeting their responsibilities under the program.  The "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 291.8149,
+      "rightX" : 487.9198,
+      "topY" : 279.8149,
+      "baseLineY" : 289.0799,
+      "fontId" : 2,
+      "text" : "framework provides MFH Servicing Officials with a consistent basis for ensuring that "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 305.6148,
+      "rightX" : 495.4799,
+      "topY" : 293.6148,
+      "baseLineY" : 302.8799,
+      "fontId" : 2,
+      "text" : "borrowers’ operation of projects meets the objectives of the program and complies with "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 319.4148,
+      "rightX" : 236.64,
+      "topY" : 307.4148,
+      "baseLineY" : 316.6799,
+      "fontId" : 2,
+      "text" : "applicable program requirements. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 345.2148,
+      "rightX" : 525.8949,
+      "topY" : 333.2148,
+      "baseLineY" : 342.4799,
+      "fontId" : 2,
+      "text" : "Section 1 introduces the types of loans and other forms of assistance available through "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 359.0148,
+      "rightX" : 519.2998,
+      "topY" : 347.0148,
+      "baseLineY" : 356.2798,
+      "fontId" : 2,
+      "text" : "the Section 515 program and the Agency’s objectives in providing this assistance.  Section 2 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 372.8148,
+      "rightX" : 521.8773,
+      "topY" : 360.8148,
+      "baseLineY" : 370.0798,
+      "fontId" : 2,
+      "text" : "describes the loans, grants, and other assistance available to increase the supply of affordable "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 386.6148,
+      "rightX" : 527.0999,
+      "topY" : 374.6148,
+      "baseLineY" : 383.8798,
+      "fontId" : 2,
+      "text" : "housing specifically targeted toward farm labor.  The chapter concludes with Section 3, which "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 400.4148,
+      "rightX" : 499.5,
+      "topY" : 388.4148,
+      "baseLineY" : 397.6798,
+      "fontId" : 2,
+      "text" : "outlines the Agency’s asset management framework, as well as the key parties involved. "
+    }, {
+      "leftX" : 180.9,
+      "bottomY" : 428.6579,
+      "rightX" : 434.5391,
+      "topY" : 414.6579,
+      "baseLineY" : 425.34,
+      "fontId" : 3,
+      "text" : "SECTION 1:  SECTION 515 PROGRAM "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 454.4639,
+      "rightX" : 96,
+      "topY" : 442.4639,
+      "baseLineY" : 451.62,
+      "fontId" : 4,
+      "text" : "2.2   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 454.4639,
+      "rightX" : 178.98,
+      "topY" : 442.4639,
+      "baseLineY" : 451.62,
+      "fontId" : 4,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 478.115,
+      "rightX" : 477.9598,
+      "topY" : 466.115,
+      "baseLineY" : 475.38,
+      "fontId" : 2,
+      "text" : "The Section 515 program offers direct loans to eligible borrowers to provide "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 491.915,
+      "rightX" : 522.84,
+      "topY" : 479.915,
+      "baseLineY" : 489.18,
+      "fontId" : 2,
+      "text" : "economically designed and constructed housing and related facilities for very low-, low-, and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 505.7149,
+      "rightX" : 524.2797,
+      "topY" : 493.7149,
+      "baseLineY" : 502.98,
+      "fontId" : 2,
+      "text" : "moderate-income households; elderly households; and persons with disabilities living in rural "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 519.5149,
+      "rightX" : 286.92,
+      "topY" : 507.5149,
+      "baseLineY" : 516.78,
+      "fontId" : 2,
+      "text" : "areas.  This section of the chapter describes: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 543.595,
+      "rightX" : 113.52,
+      "topY" : 531.595,
+      "baseLineY" : 541.4399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 544.2971,
+      "rightX" : 116.856,
+      "topY" : 532.2971,
+      "baseLineY" : 541.4399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 544.1749,
+      "rightX" : 274.32,
+      "topY" : 532.1749,
+      "baseLineY" : 541.4399,
+      "fontId" : 2,
+      "text" : "The types of projects allowed; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 570.2351,
+      "rightX" : 113.52,
+      "topY" : 558.2351,
+      "baseLineY" : 568.08,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 570.9371,
+      "rightX" : 116.856,
+      "topY" : 558.9371,
+      "baseLineY" : 568.08,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 570.8149,
+      "rightX" : 266.9999,
+      "topY" : 558.8149,
+      "baseLineY" : 568.08,
+      "fontId" : 2,
+      "text" : "The types of loans available; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 596.9351,
+      "rightX" : 113.52,
+      "topY" : 584.9351,
+      "baseLineY" : 594.78,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 597.6371,
+      "rightX" : 116.856,
+      "topY" : 585.6371,
+      "baseLineY" : 594.78,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 597.5149,
+      "rightX" : 368.5175,
+      "topY" : 585.5149,
+      "baseLineY" : 594.78,
+      "fontId" : 2,
+      "text" : "Rental assistance available from the Agency; and  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 623.5751,
+      "rightX" : 113.52,
+      "topY" : 611.5751,
+      "baseLineY" : 621.42,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 624.2771,
+      "rightX" : 116.856,
+      "topY" : 612.2771,
+      "baseLineY" : 621.42,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 624.1549,
+      "rightX" : 360.84,
+      "topY" : 612.1549,
+      "baseLineY" : 621.42,
+      "fontId" : 2,
+      "text" : "The Agency’s preference for leveraged projects. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 650.0639,
+      "rightX" : 96,
+      "topY" : 638.0639,
+      "baseLineY" : 647.22,
+      "fontId" : 4,
+      "text" : "2.3   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 650.0639,
+      "rightX" : 234.96,
+      "topY" : 638.0639,
+      "baseLineY" : 647.22,
+      "fontId" : 4,
+      "text" : "TYPES OF PROJECTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 675.7549,
+      "rightX" : 518.8786,
+      "topY" : 663.7549,
+      "baseLineY" : 673.02,
+      "fontId" : 2,
+      "text" : "There are five types of rental projects that can be developed using Section 515 loans: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 699.8351,
+      "rightX" : 113.52,
+      "topY" : 687.8351,
+      "baseLineY" : 697.68,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 700.5371,
+      "rightX" : 116.856,
+      "topY" : 688.5371,
+      "baseLineY" : 697.68,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 700.415,
+      "rightX" : 207.3,
+      "topY" : 688.415,
+      "baseLineY" : 697.68,
+      "fontId" : 2,
+      "text" : "Family projects; "
+    }, {
+      "leftX" : 314.64,
+      "bottomY" : 743.6991,
+      "rightX" : 330.465,
+      "topY" : 733.6991,
+      "baseLineY" : 741.42,
+      "fontId" : 1,
+      "text" : "2-1 "
+    }, {
+      "leftX" : 94.5,
+      "bottomY" : 755.2191,
+      "rightX" : 175.5959,
+      "topY" : 745.2191,
+      "baseLineY" : 752.94,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 68.88,
+      "bottomY" : 50.2791,
+      "rightX" : 116.925,
+      "topY" : 40.2791,
+      "baseLineY" : 48,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 68.88,
+      "bottomY" : 64.115,
+      "rightX" : 71.88,
+      "topY" : 52.115,
+      "baseLineY" : 61.38,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.2151,
+      "rightX" : 113.52,
+      "topY" : 74.2151,
+      "baseLineY" : 84.06,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.9171,
+      "rightX" : 116.856,
+      "topY" : 74.9171,
+      "baseLineY" : 84.06,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.795,
+      "rightX" : 208.62,
+      "topY" : 74.795,
+      "baseLineY" : 84.06,
+      "fontId" : 2,
+      "text" : "Elderly projects; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 112.8551,
+      "rightX" : 113.52,
+      "topY" : 100.8551,
+      "baseLineY" : 110.7,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 113.5572,
+      "rightX" : 116.856,
+      "topY" : 101.5572,
+      "baseLineY" : 110.7,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 113.435,
+      "rightX" : 231.66,
+      "topY" : 101.435,
+      "baseLineY" : 110.7,
+      "fontId" : 2,
+      "text" : "Congregate projects;  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.5551,
+      "rightX" : 113.52,
+      "topY" : 127.5551,
+      "baseLineY" : 137.4,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 140.2572,
+      "rightX" : 116.856,
+      "topY" : 128.2572,
+      "baseLineY" : 137.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 140.135,
+      "rightX" : 217.62,
+      "topY" : 128.135,
+      "baseLineY" : 137.4,
+      "fontId" : 2,
+      "text" : "Group homes; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.1951,
+      "rightX" : 113.52,
+      "topY" : 154.1951,
+      "baseLineY" : 164.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 166.8972,
+      "rightX" : 116.856,
+      "topY" : 154.8972,
+      "baseLineY" : 164.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 166.775,
+      "rightX" : 261.66,
+      "topY" : 154.775,
+      "baseLineY" : 164.04,
+      "fontId" : 2,
+      "text" : "Rural cooperative housing.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.575,
+      "rightX" : 523.6197,
+      "topY" : 180.575,
+      "baseLineY" : 189.84,
+      "fontId" : 2,
+      "text" : "The Agency also services existing mixed projects that contain both family and elderly "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 206.375,
+      "rightX" : 101.34,
+      "topY" : 194.375,
+      "baseLineY" : 203.64,
+      "fontId" : 2,
+      "text" : "units. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.175,
+      "rightX" : 522.8397,
+      "topY" : 220.175,
+      "baseLineY" : 229.44,
+      "fontId" : 2,
+      "text" : " The housing must be economical and must not include elaborate features but must be "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 245.975,
+      "rightX" : 523.8598,
+      "topY" : 233.975,
+      "baseLineY" : 243.24,
+      "fontId" : 2,
+      "text" : "adequate to meet tenants’ needs.  The project should be of average quality and cost.  With the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 259.7749,
+      "rightX" : 515.2798,
+      "topY" : 247.7749,
+      "baseLineY" : 257.04,
+      "fontId" : 2,
+      "text" : "exception of Off-Farm Labor Housing, all projects developed must be located in designated "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 273.5749,
+      "rightX" : 232.26,
+      "topY" : 261.5749,
+      "baseLineY" : 270.84,
+      "fontId" : 2,
+      "text" : "places as described in Chapter 3. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 299.4839,
+      "rightX" : 209.58,
+      "topY" : 287.4839,
+      "baseLineY" : 296.64,
+      "fontId" : 4,
+      "text" : "A.  Family Projects "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 325.1749,
+      "rightX" : 520.1998,
+      "topY" : 313.1749,
+      "baseLineY" : 322.4399,
+      "fontId" : 2,
+      "text" : "A family housing project is a rental property developed for occupancy by eligible "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 338.9749,
+      "rightX" : 529.1999,
+      "topY" : 326.9749,
+      "baseLineY" : 336.2399,
+      "fontId" : 2,
+      "text" : "very low-, low-, and moderate-income households.  Nonelderly and elderly households "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 352.7749,
+      "rightX" : 517.0198,
+      "topY" : 340.7749,
+      "baseLineY" : 350.0399,
+      "fontId" : 2,
+      "text" : "may occupy the housing.  Household income is the only tenant characteristic, except "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 366.5749,
+      "rightX" : 489.5337,
+      "topY" : 354.5749,
+      "baseLineY" : 363.8399,
+      "fontId" : 2,
+      "text" : "under extraordinary circumstances such as tenant displacement, which is given "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 380.3749,
+      "rightX" : 538.2597,
+      "topY" : 368.3749,
+      "baseLineY" : 377.6399,
+      "fontId" : 2,
+      "text" : "preference in selecting among eligible applicants for occupancy.  Priority is also given to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 394.1748,
+      "rightX" : 527.515,
+      "topY" : 382.1748,
+      "baseLineY" : 391.4399,
+      "fontId" : 2,
+      "text" : "those needing features of an accessible unit if one becomes available.  Occupancy may "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 407.9748,
+      "rightX" : 512.8798,
+      "topY" : 395.9748,
+      "baseLineY" : 405.2399,
+      "fontId" : 2,
+      "text" : "not be restricted to particular groups of eligible households and may include elderly "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 421.775,
+      "rightX" : 168,
+      "topY" : 409.775,
+      "baseLineY" : 419.04,
+      "fontId" : 2,
+      "text" : "households. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 447.6839,
+      "rightX" : 210.96,
+      "topY" : 435.6839,
+      "baseLineY" : 444.84,
+      "fontId" : 4,
+      "text" : "B.  Elderly Projects "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 473.375,
+      "rightX" : 511.9198,
+      "topY" : 461.375,
+      "baseLineY" : 470.64,
+      "fontId" : 2,
+      "text" : "An elderly project is a rental property that is developed for occupancy solely by "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 487.1749,
+      "rightX" : 536.5198,
+      "topY" : 475.1749,
+      "baseLineY" : 484.44,
+      "fontId" : 2,
+      "text" : "eligible elderly households, which include a tenant or cotenant who is disabled or age 62 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 500.9749,
+      "rightX" : 538.2598,
+      "topY" : 488.9749,
+      "baseLineY" : 498.24,
+      "fontId" : 2,
+      "text" : "years or older.  Persons with disabilities and their families are permitted to live in elderly "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 514.7749,
+      "rightX" : 151.98,
+      "topY" : 502.7749,
+      "baseLineY" : 512.0399,
+      "fontId" : 2,
+      "text" : "housing. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 540.6839,
+      "rightX" : 232.92,
+      "topY" : 528.6839,
+      "baseLineY" : 537.84,
+      "fontId" : 4,
+      "text" : "C.  Congregate Projects "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 566.3749,
+      "rightX" : 526.1398,
+      "topY" : 554.3749,
+      "baseLineY" : 563.64,
+      "fontId" : 2,
+      "text" : "Congregate projects are rental properties developed for occupancy by eligible very "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 580.1749,
+      "rightX" : 516.3597,
+      "topY" : 568.1749,
+      "baseLineY" : 577.4399,
+      "fontId" : 2,
+      "text" : "low-, low-, or moderate-income elderly households, individuals with disabilities and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 593.975,
+      "rightX" : 538.4962,
+      "topY" : 581.975,
+      "baseLineY" : 591.24,
+      "fontId" : 2,
+      "text" : "families who require some supervision and central services but are otherwise able to care "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 607.7749,
+      "rightX" : 517.5597,
+      "topY" : 595.7749,
+      "baseLineY" : 605.04,
+      "fontId" : 2,
+      "text" : "for themselves.  Congregate projects consist of private apartments and central dining "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 621.5749,
+      "rightX" : 539.5788,
+      "topY" : 609.5749,
+      "baseLineY" : 618.84,
+      "fontId" : 2,
+      "text" : "facilities in which a number of allowable preestablished services are provided to tenants.  "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 635.3749,
+      "rightX" : 524.0986,
+      "topY" : 623.3749,
+      "baseLineY" : 632.64,
+      "fontId" : 2,
+      "text" : "These projects are not designed to be nursing homes and, therefore, are not allowed to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 649.175,
+      "rightX" : 529.86,
+      "topY" : 637.175,
+      "baseLineY" : 646.44,
+      "fontId" : 2,
+      "text" : "pay for the cost of medical- or healthcare-related services.  When leasing units, priority "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 662.975,
+      "rightX" : 535.5599,
+      "topY" : 650.975,
+      "baseLineY" : 660.24,
+      "fontId" : 2,
+      "text" : "may be given to eligible elderly households who qualify for the services provided by the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 676.775,
+      "rightX" : 147.96,
+      "topY" : 664.775,
+      "baseLineY" : 674.04,
+      "fontId" : 2,
+      "text" : "facility. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 702.575,
+      "rightX" : 129,
+      "topY" : 690.575,
+      "baseLineY" : 699.84,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 769.9192,
+      "rightX" : 315.1016,
+      "topY" : 759.9192,
+      "baseLineY" : 767.64,
+      "fontId" : 1,
+      "text" : "2-2 "
+    }, {
+      "leftX" : 79.14,
+      "bottomY" : 787.4391,
+      "rightX" : 81.645,
+      "topY" : 777.4391,
+      "baseLineY" : 785.16,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 501.18,
+      "bottomY" : 46.4991,
+      "rightX" : 549.225,
+      "topY" : 36.4991,
+      "baseLineY" : 44.22,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 501.18,
+      "bottomY" : 60.3349,
+      "rightX" : 504.18,
+      "topY" : 48.3349,
+      "baseLineY" : 57.6,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.0639,
+      "rightX" : 201,
+      "topY" : 74.0639,
+      "baseLineY" : 83.22,
+      "fontId" : 4,
+      "text" : "D.  Group Homes "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 111.7549,
+      "rightX" : 531.9358,
+      "topY" : 99.7549,
+      "baseLineY" : 109.02,
+      "fontId" : 2,
+      "text" : "A group home is housing that is occupied by eligible very low-, low-, and moderate-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.5549,
+      "rightX" : 525.5998,
+      "topY" : 113.5549,
+      "baseLineY" : 122.8199,
+      "fontId" : 2,
+      "text" : "income elderly persons or individuals with disabilities who share living space within a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.3549,
+      "rightX" : 401.8199,
+      "topY" : 127.3549,
+      "baseLineY" : 136.6199,
+      "fontId" : 2,
+      "text" : "rental unit and in which a resident assistant may be required. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 165.2639,
+      "rightX" : 269.34,
+      "topY" : 153.2639,
+      "baseLineY" : 162.4199,
+      "fontId" : 4,
+      "text" : "E.  Rural Cooperative Housing "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 190.9549,
+      "rightX" : 538.9198,
+      "topY" : 178.9549,
+      "baseLineY" : 188.2199,
+      "fontId" : 2,
+      "text" : "Section 515 loans may be used to finance rural cooperative housing projects operated "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 204.7549,
+      "rightX" : 507.6,
+      "topY" : 192.7549,
+      "baseLineY" : 202.0199,
+      "fontId" : 2,
+      "text" : "by nonprofit consumer cooperatives for the benefit of eligible very low-, low-, and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 218.5549,
+      "rightX" : 431.5199,
+      "topY" : 206.5549,
+      "baseLineY" : 215.8199,
+      "fontId" : 2,
+      "text" : "moderate-income members, who will own and manage the project. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 244.4638,
+      "rightX" : 204.96,
+      "topY" : 232.4638,
+      "baseLineY" : 241.6199,
+      "fontId" : 4,
+      "text" : "F.  Mixed Projects "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 270.1548,
+      "rightX" : 516.9598,
+      "topY" : 258.1548,
+      "baseLineY" : 267.4199,
+      "fontId" : 2,
+      "text" : "Mixed projects are properties developed with a portion of the units designated as "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 283.9548,
+      "rightX" : 527.882,
+      "topY" : 271.9548,
+      "baseLineY" : 281.2198,
+      "fontId" : 2,
+      "text" : "family units and the remainder of the units established as elderly units.  At the time the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 297.7548,
+      "rightX" : 542.58,
+      "topY" : 285.7548,
+      "baseLineY" : 295.0198,
+      "fontId" : 2,
+      "text" : "project is developed, the borrower must designate the units that will be operated as family "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 311.5548,
+      "rightX" : 516.5986,
+      "topY" : 299.5548,
+      "baseLineY" : 308.8198,
+      "fontId" : 2,
+      "text" : "units and those that will be operated as elderly units. NOTE:  Rural Development no "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 325.3548,
+      "rightX" : 261.6,
+      "topY" : 313.3548,
+      "baseLineY" : 322.6198,
+      "fontId" : 2,
+      "text" : "longer finances mixed projects. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 351.2637,
+      "rightX" : 96,
+      "topY" : 339.2637,
+      "baseLineY" : 348.4198,
+      "fontId" : 4,
+      "text" : "2.4   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 351.2637,
+      "rightX" : 213.66,
+      "topY" : 339.2637,
+      "baseLineY" : 348.4198,
+      "fontId" : 4,
+      "text" : "TYPES OF LOANS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 376.9548,
+      "rightX" : 533.8798,
+      "topY" : 364.9548,
+      "baseLineY" : 374.2198,
+      "fontId" : 2,
+      "text" : "The rules governing the origination of Section 515 loans differ slightly, depending upon "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 390.7547,
+      "rightX" : 484.1998,
+      "topY" : 378.7547,
+      "baseLineY" : 388.0198,
+      "fontId" : 2,
+      "text" : "the type of loan being made.  The types of loans available under Section 515 include: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 416.8149,
+      "rightX" : 113.52,
+      "topY" : 404.8149,
+      "baseLineY" : 414.6598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 417.5169,
+      "rightX" : 116.856,
+      "topY" : 405.5169,
+      "baseLineY" : 414.6598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 417.3948,
+      "rightX" : 189.3,
+      "topY" : 405.3948,
+      "baseLineY" : 414.6598,
+      "fontId" : 2,
+      "text" : "Initial loans; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 443.4549,
+      "rightX" : 113.52,
+      "topY" : 431.4549,
+      "baseLineY" : 441.2998,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 444.1569,
+      "rightX" : 116.856,
+      "topY" : 432.1569,
+      "baseLineY" : 441.2998,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 444.0348,
+      "rightX" : 236.28,
+      "topY" : 432.0348,
+      "baseLineY" : 441.2998,
+      "fontId" : 2,
+      "text" : "Subsequent loans; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 468.1149,
+      "rightX" : 113.52,
+      "topY" : 456.1149,
+      "baseLineY" : 465.9598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 468.817,
+      "rightX" : 116.856,
+      "topY" : 456.817,
+      "baseLineY" : 465.9598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 468.6948,
+      "rightX" : 205.02,
+      "topY" : 456.6948,
+      "baseLineY" : 465.9598,
+      "fontId" : 2,
+      "text" : "Assumed loans. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 492.5148,
+      "rightX" : 526.5585,
+      "topY" : 480.5148,
+      "baseLineY" : 489.7798,
+      "fontId" : 2,
+      "text" : "Loans are only made to projects that further the program’s objectives and comply with "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 506.3148,
+      "rightX" : 233.22,
+      "topY" : 494.3148,
+      "baseLineY" : 503.5798,
+      "fontId" : 2,
+      "text" : "applicable Agency requirements. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 532.2237,
+      "rightX" : 194.34,
+      "topY" : 520.2237,
+      "baseLineY" : 529.3798,
+      "fontId" : 4,
+      "text" : "A.  Initial Loans "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 557.9148,
+      "rightX" : 540.9598,
+      "topY" : 545.9148,
+      "baseLineY" : 555.1798,
+      "fontId" : 2,
+      "text" : "Initial loans are made to projects with no existing Agency loan.  Most initial loans are "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 571.7148,
+      "rightX" : 495.3599,
+      "topY" : 559.7148,
+      "baseLineY" : 568.9798,
+      "fontId" : 2,
+      "text" : "made to build new properties.  However, the Agency does make initial loans for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 585.5148,
+      "rightX" : 472.2,
+      "topY" : 573.5148,
+      "baseLineY" : 582.7798,
+      "fontId" : 2,
+      "text" : "rehabilitation of existing properties when it is in the Agency’s best interest. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 611.3148,
+      "rightX" : 524.64,
+      "topY" : 599.3148,
+      "baseLineY" : 608.5798,
+      "fontId" : 2,
+      "text" : "The interest rate for these loans is set at the note rate established in RD Instruction "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 625.1148,
+      "rightX" : 531.1762,
+      "topY" : 613.1148,
+      "baseLineY" : 622.3798,
+      "fontId" : 2,
+      "text" : "440.1.  The Agency then provides interest credit assistance, which reduces the effective "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 638.9148,
+      "rightX" : 223.9561,
+      "topY" : 626.9148,
+      "baseLineY" : 636.1798,
+      "fontId" : 2,
+      "text" : "interest rate to 1 percent"
+    }, {
+      "leftX" : 224.46,
+      "bottomY" : 633.5033,
+      "rightX" : 228.45,
+      "topY" : 625.5033,
+      "baseLineY" : 631.68,
+      "fontId" : 8,
+      "text" : "1"
+    }, {
+      "leftX" : 228.48,
+      "bottomY" : 638.915,
+      "rightX" : 528.4797,
+      "topY" : 626.915,
+      "baseLineY" : 636.18,
+      "fontId" : 2,
+      "text" : ". Interest credit is only provided for units occupied by eligible "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 653.855,
+      "rightX" : 219,
+      "topY" : 641.855,
+      "baseLineY" : 651.12,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 672.9475,
+      "rightX" : 75.24,
+      "topY" : 666.9475,
+      "baseLineY" : 671.58,
+      "fontId" : 9,
+      "text" : "1"
+    }, {
+      "leftX" : 75.24,
+      "bottomY" : 677.3391,
+      "rightX" : 527.6293,
+      "topY" : 667.3391,
+      "baseLineY" : 675.06,
+      "fontId" : 1,
+      "text" : " Some existing projects do not receive interest credit, while others receive interest credit that reduces the interest "
+    }, {
+      "leftX" : 72.0035,
+      "bottomY" : 688.802,
+      "rightX" : 539.0389,
+      "topY" : 678.802,
+      "baseLineY" : 686.5229,
+      "fontId" : 1,
+      "text" : "rate to three percent.  However, all initial loans made by the Agency following the publication of this handbook will "
+    }, {
+      "leftX" : 72.0035,
+      "bottomY" : 700.325,
+      "rightX" : 234.4077,
+      "topY" : 690.325,
+      "baseLineY" : 698.0459,
+      "fontId" : 1,
+      "text" : "receive interest credit as described here. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1549,
+      "rightX" : 75,
+      "topY" : 708.1549,
+      "baseLineY" : 717.42,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 303.36,
+      "bottomY" : 748.9192,
+      "rightX" : 319.185,
+      "topY" : 738.9192,
+      "baseLineY" : 746.64,
+      "fontId" : 1,
+      "text" : "2-3 "
+    }, {
+      "leftX" : 83.58,
+      "bottomY" : 760.4391,
+      "rightX" : 164.6759,
+      "topY" : 750.4391,
+      "baseLineY" : 758.16,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 66.24,
+      "bottomY" : 47.2191,
+      "rightX" : 114.285,
+      "topY" : 37.2191,
+      "baseLineY" : 44.94,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 66.24,
+      "bottomY" : 61.055,
+      "rightX" : 69.24,
+      "topY" : 49.055,
+      "baseLineY" : 58.32,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 85.9549,
+      "rightX" : 536.8807,
+      "topY" : 73.9549,
+      "baseLineY" : 83.22,
+      "fontId" : 2,
+      "text" : "tenants paying at least 30 percent of their income for rent.  The administration of interest "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.7549,
+      "rightX" : 368.28,
+      "topY" : 87.7549,
+      "baseLineY" : 97.02,
+      "fontId" : 2,
+      "text" : "credit is covered in Chapter 7 and also in HB-3-3560. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 125.5549,
+      "rightX" : 531.2974,
+      "topY" : 113.5549,
+      "baseLineY" : 122.8199,
+      "fontId" : 2,
+      "text" : "The Agency establishes the term of these loans to correspond to the expected useful "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.3549,
+      "rightX" : 541.5,
+      "topY" : 127.3549,
+      "baseLineY" : 136.6199,
+      "fontId" : 2,
+      "text" : "life of the property.  The maximum term is 30 years with a 50-year amortization period.  . "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 165.2639,
+      "rightX" : 221.7,
+      "topY" : 153.2639,
+      "baseLineY" : 162.4199,
+      "fontId" : 4,
+      "text" : "B.  Subsequent Loans "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 190.9549,
+      "rightX" : 539.2198,
+      "topY" : 178.9549,
+      "baseLineY" : 188.2199,
+      "fontId" : 2,
+      "text" : "Subsequent loans can be issued during the term of an Agency loan to help an existing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 204.7549,
+      "rightX" : 513.2998,
+      "topY" : 192.7549,
+      "baseLineY" : 202.0199,
+      "fontId" : 2,
+      "text" : "borrower pay for repairs or improvements to the property or in conjunction with the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 218.5549,
+      "rightX" : 532.14,
+      "topY" : 206.5549,
+      "baseLineY" : 215.8199,
+      "fontId" : 2,
+      "text" : "transfer of a property where the purchaser is assuming the initial Agency loan.  The key "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.3548,
+      "rightX" : 540.241,
+      "topY" : 220.3548,
+      "baseLineY" : 229.6199,
+      "fontId" : 2,
+      "text" : "differences between processing requirements for subsequent and initial Section 515 loans "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 246.1548,
+      "rightX" : 521.3398,
+      "topY" : 234.1548,
+      "baseLineY" : 243.4199,
+      "fontId" : 2,
+      "text" : "are discussed in Chapter 11 of HB-1-3560.  Guidance regarding the requirements and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.9548,
+      "rightX" : 519.6,
+      "topY" : 247.9548,
+      "baseLineY" : 257.2198,
+      "fontId" : 2,
+      "text" : "procedures for processing project transfers is covered in the HB-3-3560.  Subsequent "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.7548,
+      "rightX" : 474.2398,
+      "topY" : 261.7548,
+      "baseLineY" : 271.0198,
+      "fontId" : 2,
+      "text" : "loans may also be used to finance equity to avert prepayment of the project. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 299.6638,
+      "rightX" : 209.7,
+      "topY" : 287.6638,
+      "baseLineY" : 296.8198,
+      "fontId" : 4,
+      "text" : "C.  Assumed Loans "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 325.3548,
+      "rightX" : 529.2598,
+      "topY" : 313.3548,
+      "baseLineY" : 322.6198,
+      "fontId" : 2,
+      "text" : "Section 515 loans may be assumed in conjunction with the transfer of ownership of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 339.1548,
+      "rightX" : 531.4799,
+      "topY" : 327.1548,
+      "baseLineY" : 336.4198,
+      "fontId" : 2,
+      "text" : "the property.  The terms and conditions of the assumption depend upon the needs of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 352.9548,
+      "rightX" : 277.26,
+      "topY" : 340.9548,
+      "baseLineY" : 350.2198,
+      "fontId" : 2,
+      "text" : "project at the time of the transfer.   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 378.7711,
+      "rightX" : 296.04,
+      "topY" : 366.7711,
+      "baseLineY" : 376.0198,
+      "fontId" : 10,
+      "text" : "1.  New Rates and Terms Assumption "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 404.5547,
+      "rightX" : 539.8761,
+      "topY" : 392.5547,
+      "baseLineY" : 401.8198,
+      "fontId" : 2,
+      "text" : "Most assumptions of Section 515 loans are new rates and terms assumptions—that is, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 418.3547,
+      "rightX" : 505.9197,
+      "topY" : 406.3547,
+      "baseLineY" : 415.6198,
+      "fontId" : 2,
+      "text" : "the purchaser assumes responsibility for all or a portion of the remaining debt.  To "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 432.1547,
+      "rightX" : 530.9398,
+      "topY" : 420.1547,
+      "baseLineY" : 429.4197,
+      "fontId" : 2,
+      "text" : "conserve the Agency’s budgetary resources, the transaction does not involve paying off "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 445.9547,
+      "rightX" : 485.6998,
+      "topY" : 433.9547,
+      "baseLineY" : 443.2197,
+      "fontId" : 2,
+      "text" : "the old loan and issuing a new initial loan.  Instead, the purchaser assumes the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 459.7547,
+      "rightX" : 514.9137,
+      "topY" : 447.7547,
+      "baseLineY" : 457.0197,
+      "fontId" : 2,
+      "text" : "outstanding debt, which is reamortized at new rates and terms.  New rates and terms "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 473.5547,
+      "rightX" : 533.8151,
+      "topY" : 461.5547,
+      "baseLineY" : 470.8197,
+      "fontId" : 2,
+      "text" : "assumptions are used when the purchaser will experience financial difficulties under the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 487.3547,
+      "rightX" : 533.8162,
+      "topY" : 475.3547,
+      "baseLineY" : 484.6197,
+      "fontId" : 2,
+      "text" : "terms of the initial loan or when a change in rates and terms is necessary to facilitate the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 501.1546,
+      "rightX" : 532.0799,
+      "topY" : 489.1546,
+      "baseLineY" : 498.4197,
+      "fontId" : 2,
+      "text" : "transfer.  Purchasers may apply for subsequent loans to make up the difference between "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 514.8946,
+      "rightX" : 523.1349,
+      "topY" : 502.8946,
+      "baseLineY" : 512.1597,
+      "fontId" : 2,
+      "text" : "the amount of debt assumed and the purchase price or to address physical needs at the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 528.6946,
+      "rightX" : 147.3,
+      "topY" : 516.6946,
+      "baseLineY" : 525.9597,
+      "fontId" : 2,
+      "text" : "project. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 554.511,
+      "rightX" : 301.38,
+      "topY" : 542.511,
+      "baseLineY" : 551.7596,
+      "fontId" : 10,
+      "text" : "2.  Same Rates and Terms Assumption "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 580.2947,
+      "rightX" : 543.175,
+      "topY" : 568.2947,
+      "baseLineY" : 577.5597,
+      "fontId" : 2,
+      "text" : "Transfers may also take place in conjunction with a same rates and terms assumption.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 594.0946,
+      "rightX" : 536.9398,
+      "topY" : 582.0946,
+      "baseLineY" : 591.3597,
+      "fontId" : 2,
+      "text" : "Under this type of assumption, the existing note terms, including the interest rate and the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 607.8946,
+      "rightX" : 323.28,
+      "topY" : 595.8946,
+      "baseLineY" : 605.1597,
+      "fontId" : 2,
+      "text" : "remaining repayment period, do not change. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 633.8036,
+      "rightX" : 96,
+      "topY" : 621.8036,
+      "baseLineY" : 630.9597,
+      "fontId" : 4,
+      "text" : "2.5   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 633.8036,
+      "rightX" : 482.94,
+      "topY" : 621.8036,
+      "baseLineY" : 630.9597,
+      "fontId" : 4,
+      "text" : "PREFERENCE FOR PROJECTS THAT LEVERAGE OTHER FUNDS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 659.4946,
+      "rightX" : 517.6199,
+      "topY" : 647.4946,
+      "baseLineY" : 656.7596,
+      "fontId" : 2,
+      "text" : "To maximize the number of units produced with Section 515 loan funds, the Agency "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 673.2947,
+      "rightX" : 540.8399,
+      "topY" : 661.2947,
+      "baseLineY" : 670.5597,
+      "fontId" : 2,
+      "text" : "gives preference to project applications for new loans that leverage other funds, thereby reducing "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 690.635,
+      "rightX" : 219,
+      "topY" : 678.635,
+      "baseLineY" : 687.9,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 714.1191,
+      "rightX" : 74.505,
+      "topY" : 704.1191,
+      "baseLineY" : 711.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 298.2,
+      "bottomY" : 749.2191,
+      "rightX" : 314.025,
+      "topY" : 739.2191,
+      "baseLineY" : 746.94,
+      "fontId" : 1,
+      "text" : "2-4 "
+    }, {
+      "leftX" : 78.06,
+      "bottomY" : 766.7392,
+      "rightX" : 80.565,
+      "topY" : 756.7392,
+      "baseLineY" : 764.46,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 487.56,
+      "bottomY" : 51.7191,
+      "rightX" : 535.605,
+      "topY" : 41.7191,
+      "baseLineY" : 49.44,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 487.56,
+      "bottomY" : 65.555,
+      "rightX" : 490.56,
+      "topY" : 53.555,
+      "baseLineY" : 62.82,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 85.9549,
+      "rightX" : 534.4798,
+      "topY" : 73.9549,
+      "baseLineY" : 83.22,
+      "fontId" : 2,
+      "text" : "the amount of Section 515 loan funds needed to develop the project.  The greater the leveraging "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.7549,
+      "rightX" : 537.8398,
+      "topY" : 87.7549,
+      "baseLineY" : 97.02,
+      "fontId" : 2,
+      "text" : "proposed in a project application, the greater the preference for funding.  Examples of funds that "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 113.5549,
+      "rightX" : 518.2198,
+      "topY" : 101.5549,
+      "baseLineY" : 110.8199,
+      "fontId" : 2,
+      "text" : "count as leveraged funds include borrower resources beyond the minimum required amount, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 127.3549,
+      "rightX" : 524.5198,
+      "topY" : 115.3549,
+      "baseLineY" : 124.6199,
+      "fontId" : 2,
+      "text" : "equity generated by the sale of low-income housing tax credits (LIHTCs), a second loan from "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 141.1549,
+      "rightX" : 442.86,
+      "topY" : 129.1549,
+      "baseLineY" : 138.4199,
+      "fontId" : 2,
+      "text" : "another lender, or a grant from a state or local public agency or other source. "
+    }, {
+      "leftX" : 188.34,
+      "bottomY" : 169.3979,
+      "rightX" : 427.0904,
+      "topY" : 155.3979,
+      "baseLineY" : 166.08,
+      "fontId" : 3,
+      "text" : "SECTION 2:  Section 514/516 Program "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 195.1439,
+      "rightX" : 96,
+      "topY" : 183.1439,
+      "baseLineY" : 192.3,
+      "fontId" : 4,
+      "text" : "2.6   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 195.1439,
+      "rightX" : 234.96,
+      "topY" : 183.1439,
+      "baseLineY" : 192.3,
+      "fontId" : 4,
+      "text" : "TYPES OF PROJECTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 220.8349,
+      "rightX" : 501.2998,
+      "topY" : 208.8349,
+      "baseLineY" : 218.1,
+      "fontId" : 2,
+      "text" : "The Section 514/516 Farm Labor Housing program provides funds to support the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 234.6349,
+      "rightX" : 537.9597,
+      "topY" : 222.6349,
+      "baseLineY" : 231.9,
+      "fontId" : 2,
+      "text" : "development of housing for farm labor.  Section 514/516 assistance differs from the Section 515 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 248.4349,
+      "rightX" : 210.96,
+      "topY" : 236.4349,
+      "baseLineY" : 245.7,
+      "fontId" : 2,
+      "text" : "loans in the following ways: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 274.4951,
+      "rightX" : 113.52,
+      "topY" : 262.4951,
+      "baseLineY" : 272.34,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 275.1971,
+      "rightX" : 116.856,
+      "topY" : 263.1971,
+      "baseLineY" : 272.34,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 275.0749,
+      "rightX" : 457.5,
+      "topY" : 263.0749,
+      "baseLineY" : 272.34,
+      "fontId" : 2,
+      "text" : "The objective of the program is to provide housing for farmworkers; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 301.1351,
+      "rightX" : 113.52,
+      "topY" : 289.1351,
+      "baseLineY" : 298.98,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 301.8371,
+      "rightX" : 116.856,
+      "topY" : 289.8371,
+      "baseLineY" : 298.98,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 301.7149,
+      "rightX" : 295.2,
+      "topY" : 289.7149,
+      "baseLineY" : 298.98,
+      "fontId" : 2,
+      "text" : "There are no rural restrictions; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 327.8351,
+      "rightX" : 113.52,
+      "topY" : 315.8351,
+      "baseLineY" : 325.68,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 328.5371,
+      "rightX" : 116.856,
+      "topY" : 316.5371,
+      "baseLineY" : 325.68,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 328.415,
+      "rightX" : 481.14,
+      "topY" : 316.415,
+      "baseLineY" : 325.68,
+      "fontId" : 2,
+      "text" : "Agency grants are available to support the development of these projects. "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 354.2149,
+      "rightX" : 446.5678,
+      "topY" : 342.2149,
+      "baseLineY" : 351.48,
+      "fontId" : 2,
+      "text" : "Section 514/516 assistance may be used for Off-Farm Labor Housing projects"
+    }, {
+      "leftX" : 446.5799,
+      "bottomY" : 354.2149,
+      "rightX" : 452.5799,
+      "topY" : 342.2149,
+      "baseLineY" : 351.48,
+      "fontId" : 11,
+      "text" : ". "
+    }, {
+      "leftX" : 452.5799,
+      "bottomY" : 354.2149,
+      "rightX" : 534.2399,
+      "topY" : 342.2149,
+      "baseLineY" : 351.48,
+      "fontId" : 2,
+      "text" : " On-Farm Labor "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 368.0149,
+      "rightX" : 515.2184,
+      "topY" : 356.0149,
+      "baseLineY" : 365.28,
+      "fontId" : 2,
+      "text" : "Housing projects may receive only 514 assistance.  They are not eligible for grants (Section "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 381.8149,
+      "rightX" : 458.1598,
+      "topY" : 369.8149,
+      "baseLineY" : 379.08,
+      "fontId" : 2,
+      "text" : "516).  Section 514 assistance may be used in conjunction with Federal LIHTCs. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 407.7239,
+      "rightX" : 259.3799,
+      "topY" : 395.7239,
+      "baseLineY" : 404.8799,
+      "fontId" : 4,
+      "text" : "A.  Off-Farm Labor Housing "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 433.4149,
+      "rightX" : 511.5598,
+      "topY" : 421.4149,
+      "baseLineY" : 430.6799,
+      "fontId" : 2,
+      "text" : "The Agency is authorized to make loans and grants for financing off-farm labor "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 447.2149,
+      "rightX" : 537.5996,
+      "topY" : 435.2149,
+      "baseLineY" : 444.4799,
+      "fontId" : 2,
+      "text" : "housing to broad-based nonprofit organizations; nonprofit organizations of farmworkers; "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 461.0149,
+      "rightX" : 153.3587,
+      "topY" : 449.0149,
+      "baseLineY" : 458.2799,
+      "fontId" : 2,
+      "text" : "Federally"
+    }, {
+      "leftX" : 153.3599,
+      "bottomY" : 461.0149,
+      "rightX" : 157.3559,
+      "topY" : 449.0149,
+      "baseLineY" : 458.2799,
+      "fontId" : 11,
+      "text" : "-"
+    }, {
+      "leftX" : 157.3199,
+      "bottomY" : 461.0149,
+      "rightX" : 519.1796,
+      "topY" : 449.0149,
+      "baseLineY" : 458.2799,
+      "fontId" : 2,
+      "text" : "recognized Indian tribes, agencies or political subdivisions of state or local "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 474.8149,
+      "rightX" : 530.5797,
+      "topY" : 462.8149,
+      "baseLineY" : 472.0799,
+      "fontId" : 2,
+      "text" : "government; and public agencies (such as local housing authorities).  Section 514 loans "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 488.6148,
+      "rightX" : 519.8397,
+      "topY" : 476.6148,
+      "baseLineY" : 485.8799,
+      "fontId" : 2,
+      "text" : "can be made to limited partnerships in which the general partner is a nonprofit entity. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 514.5238,
+      "rightX" : 257.3999,
+      "topY" : 502.5238,
+      "baseLineY" : 511.6799,
+      "fontId" : 4,
+      "text" : "B.  On-Farm Labor Housing "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 540.2148,
+      "rightX" : 515.6398,
+      "topY" : 528.2148,
+      "baseLineY" : 537.4799,
+      "fontId" : 2,
+      "text" : "On-farm labor housing is designed to provide adequate housing for farmworkers "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 554.0149,
+      "rightX" : 540.1796,
+      "topY" : 542.0149,
+      "baseLineY" : 551.2799,
+      "fontId" : 2,
+      "text" : "involved in a specific farming operation.  Individual farmers, family farm corporations or "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 567.8149,
+      "rightX" : 542.64,
+      "topY" : 555.8149,
+      "baseLineY" : 565.0799,
+      "fontId" : 2,
+      "text" : "partnerships, or associations of farmers may develop these projects but must operate them "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 581.6148,
+      "rightX" : 541.2596,
+      "topY" : 569.6148,
+      "baseLineY" : 578.8799,
+      "fontId" : 2,
+      "text" : "on a nonprofit basis.  To qualify for occupancy, an individual or a household must simply "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 595.4148,
+      "rightX" : 531.8397,
+      "topY" : 583.4148,
+      "baseLineY" : 592.6799,
+      "fontId" : 2,
+      "text" : "be employed as part of the farming operation.  There is no income restriction governing "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 609.2148,
+      "rightX" : 514.2599,
+      "topY" : 597.2148,
+      "baseLineY" : 606.4799,
+      "fontId" : 2,
+      "text" : "occupancy.  However, immediate family members of individuals with an ownership "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 623.0149,
+      "rightX" : 402.9609,
+      "topY" : 611.0149,
+      "baseLineY" : 620.2799,
+      "fontId" : 2,
+      "text" : "interest in the farm are prohibited from living in this housing "
+    }, {
+      "leftX" : 402.8999,
+      "bottomY" : 623.0149,
+      "rightX" : 414.8999,
+      "topY" : 611.0149,
+      "baseLineY" : 620.2799,
+      "fontId" : 11,
+      "text" : "on"
+    }, {
+      "leftX" : 414.8999,
+      "bottomY" : 623.0149,
+      "rightX" : 488.2198,
+      "topY" : 611.0149,
+      "baseLineY" : 620.2799,
+      "fontId" : 2,
+      "text" : " the property.   "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 648.9238,
+      "rightX" : 95.9999,
+      "topY" : 636.9238,
+      "baseLineY" : 646.0799,
+      "fontId" : 4,
+      "text" : "2.7   "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 648.9238,
+      "rightX" : 234.3599,
+      "topY" : 636.9238,
+      "baseLineY" : 646.0799,
+      "fontId" : 4,
+      "text" : "LOANS AND GRANTS "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 674.7238,
+      "rightX" : 272.3399,
+      "topY" : 662.7238,
+      "baseLineY" : 671.8799,
+      "fontId" : 4,
+      "text" : "A.  Farm Labor Housing Loans "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 700.4149,
+      "rightX" : 526.6196,
+      "topY" : 688.4149,
+      "baseLineY" : 697.6799,
+      "fontId" : 2,
+      "text" : "Section 514 loans for Farm Labor Housing projects are very similar to Section 515 "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 714.2149,
+      "rightX" : 359.5798,
+      "topY" : 702.2149,
+      "baseLineY" : 711.4799,
+      "fontId" : 2,
+      "text" : "loans.  However, they differ in two important ways: "
+    }, {
+      "leftX" : 305.94,
+      "bottomY" : 750.4192,
+      "rightX" : 308.445,
+      "topY" : 740.4192,
+      "baseLineY" : 748.14,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 310.02,
+      "bottomY" : 752.0391,
+      "rightX" : 325.8416,
+      "topY" : 742.0391,
+      "baseLineY" : 749.76,
+      "fontId" : 1,
+      "text" : "2-5 "
+    }, {
+      "leftX" : 89.88,
+      "bottomY" : 763.4991,
+      "rightX" : 170.9758,
+      "topY" : 753.4991,
+      "baseLineY" : 761.22,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619 "
+    }, {
+      "leftX" : 89.87,
+      "bottomY" : 775.0221,
+      "rightX" : 92.375,
+      "topY" : 765.0221,
+      "baseLineY" : 772.743,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 532.74,
+      "bottomY" : 773.9391,
+      "rightX" : 537.77,
+      "topY" : 763.9391,
+      "baseLineY" : 771.66,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 64.92,
+      "bottomY" : 50.5191,
+      "rightX" : 112.965,
+      "topY" : 40.5191,
+      "baseLineY" : 48.24,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 64.92,
+      "bottomY" : 64.355,
+      "rightX" : 67.92,
+      "topY" : 52.355,
+      "baseLineY" : 61.62,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.2151,
+      "rightX" : 113.52,
+      "topY" : 74.2151,
+      "baseLineY" : 84.06,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.9171,
+      "rightX" : 116.856,
+      "topY" : 74.9171,
+      "baseLineY" : 84.06,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.795,
+      "rightX" : 527.1549,
+      "topY" : 74.795,
+      "baseLineY" : 84.06,
+      "fontId" : 2,
+      "text" : "These loans carry a 1 percent effective interest rate (i.e., there is no interest credit); "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 100.595,
+      "rightX" : 146.34,
+      "topY" : 88.595,
+      "baseLineY" : 97.86,
+      "fontId" : 2,
+      "text" : "and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 126.6551,
+      "rightX" : 113.52,
+      "topY" : 114.6551,
+      "baseLineY" : 124.5,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 127.3571,
+      "rightX" : 116.856,
+      "topY" : 115.3571,
+      "baseLineY" : 124.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 127.235,
+      "rightX" : 354.6,
+      "topY" : 115.235,
+      "baseLineY" : 124.5,
+      "fontId" : 2,
+      "text" : "The maximum term for these loans is 33 years. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.095,
+      "rightX" : 536.22,
+      "topY" : 141.095,
+      "baseLineY" : 150.36,
+      "fontId" : 2,
+      "text" : "These loans can be used to finance either Off-Farm or On-Farm Labor Housing projects. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 178.8949,
+      "rightX" : 519.2759,
+      "topY" : 166.8949,
+      "baseLineY" : 176.16,
+      "fontId" : 2,
+      "text" : "At one time, loans for both types of projects were processed on a first-come, first-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.6949,
+      "rightX" : 514.2,
+      "topY" : 180.6949,
+      "baseLineY" : 189.96,
+      "fontId" : 2,
+      "text" : "served basis. Today, lending decisions regarding loans for Off-Farm Labor Housing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 206.4949,
+      "rightX" : 515.58,
+      "topY" : 194.4949,
+      "baseLineY" : 203.7599,
+      "fontId" : 2,
+      "text" : "projects are handled through a competitive NOFA process, while loans for On-Farm "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 220.2949,
+      "rightX" : 539.4598,
+      "topY" : 208.2949,
+      "baseLineY" : 217.5599,
+      "fontId" : 2,
+      "text" : "Labor Housing projects are still processed in the order that they are received.  Chapter 12 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 234.0949,
+      "rightX" : 538.6801,
+      "topY" : 222.0949,
+      "baseLineY" : 231.3599,
+      "fontId" : 2,
+      "text" : "of HB-1-3560 provides more detailed information about the origination process for Farm "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 247.8949,
+      "rightX" : 214.62,
+      "topY" : 235.8949,
+      "baseLineY" : 245.1599,
+      "fontId" : 2,
+      "text" : "Labor Housing loans. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.8038,
+      "rightX" : 276.3,
+      "topY" : 261.8038,
+      "baseLineY" : 270.9599,
+      "fontId" : 4,
+      "text" : "B.  Farm Labor Housing Grants "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 299.4349,
+      "rightX" : 533.34,
+      "topY" : 287.4349,
+      "baseLineY" : 296.6999,
+      "fontId" : 2,
+      "text" : "Section 516 grants may only be used to support the development of Off-Farm Labor "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 313.2348,
+      "rightX" : 534.8399,
+      "topY" : 301.2348,
+      "baseLineY" : 310.4999,
+      "fontId" : 2,
+      "text" : "Housing projects.  These grants may be used for the same purposes as Section 514 loans "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 327.0348,
+      "rightX" : 541.6198,
+      "topY" : 315.0348,
+      "baseLineY" : 324.2999,
+      "fontId" : 2,
+      "text" : "when there is reasonable doubt that the housing would not be provided without the grant.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 340.8348,
+      "rightX" : 525.2397,
+      "topY" : 328.8348,
+      "baseLineY" : 338.0999,
+      "fontId" : 2,
+      "text" : "Chapter 12 of HB-1-3560 provides more information about the origination process for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 354.6348,
+      "rightX" : 171,
+      "topY" : 342.6348,
+      "baseLineY" : 351.8998,
+      "fontId" : 2,
+      "text" : "these grants. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 380.5438,
+      "rightX" : 96,
+      "topY" : 368.5438,
+      "baseLineY" : 377.6998,
+      "fontId" : 4,
+      "text" : "2.8   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 380.5438,
+      "rightX" : 482.94,
+      "topY" : 368.5438,
+      "baseLineY" : 377.6998,
+      "fontId" : 4,
+      "text" : "PREFERENCE FOR PROJECTS THAT LEVERAGE OTHER FUNDS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 406.2348,
+      "rightX" : 536.64,
+      "topY" : 394.2348,
+      "baseLineY" : 403.4998,
+      "fontId" : 2,
+      "text" : "Like the Section 515 program, the Agency gives preference to applications for Off-Farm "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 420.0348,
+      "rightX" : 532.5599,
+      "topY" : 408.0348,
+      "baseLineY" : 417.2998,
+      "fontId" : 2,
+      "text" : "Labor Housing projects that leverage other sources of funds.  There is no leveraging preference "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 433.8348,
+      "rightX" : 275.28,
+      "topY" : 421.8348,
+      "baseLineY" : 431.0998,
+      "fontId" : 2,
+      "text" : "for On-Farm Labor Housing applications. "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 763.9192,
+      "rightX" : 315.1016,
+      "topY" : 753.9192,
+      "baseLineY" : 761.64,
+      "fontId" : 1,
+      "text" : "2-6 "
+    }, {
+      "leftX" : 532.74,
+      "bottomY" : 787.4391,
+      "rightX" : 537.765,
+      "topY" : 777.4391,
+      "baseLineY" : 785.16,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 496.2,
+      "bottomY" : 48.8991,
+      "rightX" : 544.245,
+      "topY" : 38.8991,
+      "baseLineY" : 46.62,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 496.2,
+      "bottomY" : 62.735,
+      "rightX" : 499.2,
+      "topY" : 50.735,
+      "baseLineY" : 60,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 180.9,
+      "bottomY" : 88.3979,
+      "rightX" : 434.5391,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 3,
+      "text" : "SECTION 3:  SECTION 521 PROGRAM "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 114.1439,
+      "rightX" : 161.04,
+      "topY" : 102.1439,
+      "baseLineY" : 111.3,
+      "fontId" : 4,
+      "text" : "2.9  OVERVIEW"
+    }, {
+      "leftX" : 161.04,
+      "bottomY" : 114.035,
+      "rightX" : 164.04,
+      "topY" : 102.035,
+      "baseLineY" : 111.3,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.8349,
+      "rightX" : 539.8785,
+      "topY" : 127.8349,
+      "baseLineY" : 137.1,
+      "fontId" : 2,
+      "text" : "The Section 521 Rental Assistance program provides assistance to individual residents of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 153.6349,
+      "rightX" : 517.9773,
+      "topY" : 141.6349,
+      "baseLineY" : 150.9,
+      "fontId" : 2,
+      "text" : "Agency financed multi-family projects. Rent subsidies under the Rental Assistance Program "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 167.4349,
+      "rightX" : 541.9797,
+      "topY" : 155.4349,
+      "baseLineY" : 164.7,
+      "fontId" : 2,
+      "text" : "ensure that elderly, disabled, and low-income residents of multi-family housing projects financed "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 181.2349,
+      "rightX" : 515.576,
+      "topY" : 169.2349,
+      "baseLineY" : 178.4999,
+      "fontId" : 2,
+      "text" : "by RHS are able to afford rent payments. With the help of the Rental Assistance Program, a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 195.0349,
+      "rightX" : 505.4998,
+      "topY" : 183.0349,
+      "baseLineY" : 192.2999,
+      "fontId" : 2,
+      "text" : "qualified applicant/tenant pays no more than 30 percent of his or her income for housing.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 220.8349,
+      "rightX" : 521.2198,
+      "topY" : 208.8349,
+      "baseLineY" : 218.0999,
+      "fontId" : 2,
+      "text" : "Residents of multi-family housing projects built under both the Rural Rental Housing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 234.6349,
+      "rightX" : 536.8798,
+      "topY" : 222.6349,
+      "baseLineY" : 231.8999,
+      "fontId" : 2,
+      "text" : "Program (Section 515) and the Farm Labor Housing Program (Section 514) are eligible to apply "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 248.4349,
+      "rightX" : 522.66,
+      "topY" : 236.4349,
+      "baseLineY" : 245.6999,
+      "fontId" : 2,
+      "text" : "for the Rental Assistance Program.  Not all residents of RHS-financed housing developments "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 262.2348,
+      "rightX" : 196.9188,
+      "topY" : 250.2348,
+      "baseLineY" : 259.4999,
+      "fontId" : 2,
+      "text" : "receive rental assistance.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 288.0348,
+      "rightX" : 513.8949,
+      "topY" : 276.0348,
+      "baseLineY" : 285.2999,
+      "fontId" : 2,
+      "text" : "The Agency and the project owner execute a contract in which the Agency commits "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 301.8348,
+      "rightX" : 515.8199,
+      "topY" : 289.8348,
+      "baseLineY" : 299.0999,
+      "fontId" : 2,
+      "text" : "payments on behalf of tenants in a designated number of the units. Both the Agency and the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 315.6348,
+      "rightX" : 520.2599,
+      "topY" : 303.6348,
+      "baseLineY" : 312.8998,
+      "fontId" : 2,
+      "text" : "project owner agree to be bound by all applicable Agency regulations. The contract becomes "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 329.4348,
+      "rightX" : 538.1998,
+      "topY" : 317.4348,
+      "baseLineY" : 326.6998,
+      "fontId" : 2,
+      "text" : "effective on the first day of the month in which it is executed (additional units may be covered if "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 343.2348,
+      "rightX" : 525.835,
+      "topY" : 331.2348,
+      "baseLineY" : 340.4998,
+      "fontId" : 2,
+      "text" : "funds are available and an additional contract is executed). The agreement may be renewed as "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 357.0348,
+      "rightX" : 498.5399,
+      "topY" : 345.0348,
+      "baseLineY" : 354.2998,
+      "fontId" : 2,
+      "text" : "many times as funds are made available. Leadership Designees may transfer unused and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 370.8348,
+      "rightX" : 368.8799,
+      "topY" : 358.8348,
+      "baseLineY" : 368.0998,
+      "fontId" : 2,
+      "text" : "unneeded contracts or portions of contracts to other projects.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 396.7437,
+      "rightX" : 93,
+      "topY" : 384.7437,
+      "baseLineY" : 393.8998,
+      "fontId" : 4,
+      "text" : "2.10"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 397.0506,
+      "rightX" : 96.336,
+      "topY" : 385.0506,
+      "baseLineY" : 393.8998,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 94.5,
+      "bottomY" : 396.7437,
+      "rightX" : 300.18,
+      "topY" : 384.7437,
+      "baseLineY" : 393.8998,
+      "fontId" : 4,
+      "text" : "  SECTION 515 & 514/516 PROGRAM "
+    }, {
+      "leftX" : 94.5,
+      "bottomY" : 422.5437,
+      "rightX" : 106.14,
+      "topY" : 410.5437,
+      "baseLineY" : 419.6998,
+      "fontId" : 4,
+      "text" : "A."
+    }, {
+      "leftX" : 106.14,
+      "bottomY" : 422.8506,
+      "rightX" : 109.476,
+      "topY" : 410.8506,
+      "baseLineY" : 419.6998,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 112.5,
+      "bottomY" : 422.5437,
+      "rightX" : 173.82,
+      "topY" : 410.5437,
+      "baseLineY" : 419.6998,
+      "fontId" : 4,
+      "text" : "Section 515 "
+    }, {
+      "leftX" : 94.5,
+      "bottomY" : 448.2347,
+      "rightX" : 529.0773,
+      "topY" : 436.2347,
+      "baseLineY" : 445.4998,
+      "fontId" : 2,
+      "text" : "Owners of Section 515 projects located in areas where prospective applicants are likely to "
+    }, {
+      "leftX" : 94.5,
+      "bottomY" : 462.0347,
+      "rightX" : 529.0198,
+      "topY" : 450.0347,
+      "baseLineY" : 459.2997,
+      "fontId" : 2,
+      "text" : "be overburdened by rent or where existing tenants are already overburdened can apply for "
+    }, {
+      "leftX" : 94.5,
+      "bottomY" : 475.8347,
+      "rightX" : 316.8,
+      "topY" : 463.8347,
+      "baseLineY" : 473.0997,
+      "fontId" : 2,
+      "text" : "rental assistance administered by the Agency. "
+    }, {
+      "leftX" : 94.5,
+      "bottomY" : 501.7436,
+      "rightX" : 105.48,
+      "topY" : 489.7436,
+      "baseLineY" : 498.8997,
+      "fontId" : 4,
+      "text" : "B."
+    }, {
+      "leftX" : 105.48,
+      "bottomY" : 502.0506,
+      "rightX" : 108.816,
+      "topY" : 490.0506,
+      "baseLineY" : 498.8997,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 112.5,
+      "bottomY" : 501.7436,
+      "rightX" : 195.18,
+      "topY" : 489.7436,
+      "baseLineY" : 498.8997,
+      "fontId" : 4,
+      "text" : "Section 514/516 "
+    }, {
+      "leftX" : 94.5,
+      "bottomY" : 527.4347,
+      "rightX" : 531.3596,
+      "topY" : 515.4347,
+      "baseLineY" : 524.6997,
+      "fontId" : 2,
+      "text" : "Off-Farm Labor Housing projects may also apply for rental assistance administered by the "
+    }, {
+      "leftX" : 94.5,
+      "bottomY" : 541.2347,
+      "rightX" : 527.6398,
+      "topY" : 529.2347,
+      "baseLineY" : 538.4997,
+      "fontId" : 2,
+      "text" : "Agency.  The requirements for obtaining rental assistance are the same as for Section 515 "
+    }, {
+      "leftX" : 94.5,
+      "bottomY" : 555.0346,
+      "rightX" : 538.0559,
+      "topY" : 543.0346,
+      "baseLineY" : 552.2997,
+      "fontId" : 2,
+      "text" : "projects.  Operating assistance may be used in lieu of tenant-specific rental assistance in off-"
+    }, {
+      "leftX" : 94.4999,
+      "bottomY" : 568.8347,
+      "rightX" : 526.9797,
+      "topY" : 556.8347,
+      "baseLineY" : 566.0997,
+      "fontId" : 2,
+      "text" : "farm labor housing projects financed under Section 514 or Section 516 that serve migrant "
+    }, {
+      "leftX" : 94.4999,
+      "bottomY" : 582.6347,
+      "rightX" : 507.36,
+      "topY" : 570.6347,
+      "baseLineY" : 579.8997,
+      "fontId" : 2,
+      "text" : "farm workers.  On-Farm Labor Housing projects are not eligible for rental assistance. "
+    }, {
+      "leftX" : 136.86,
+      "bottomY" : 610.8779,
+      "rightX" : 478.5731,
+      "topY" : 596.8779,
+      "baseLineY" : 607.56,
+      "fontId" : 3,
+      "text" : "SECTION 4:  ASSET MANAGEMENT FRAMEWORK "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 636.624,
+      "rightX" : 102,
+      "topY" : 624.624,
+      "baseLineY" : 633.78,
+      "fontId" : 4,
+      "text" : "2.11   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 636.624,
+      "rightX" : 242.7,
+      "topY" : 624.624,
+      "baseLineY" : 633.78,
+      "fontId" : 4,
+      "text" : "ASSET MANAGEMENT "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 662.315,
+      "rightX" : 498.9549,
+      "topY" : 650.315,
+      "baseLineY" : 659.58,
+      "fontId" : 2,
+      "text" : "The goal of the Agency’s asset management procedures is to ensure that projects "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 676.115,
+      "rightX" : 523.4998,
+      "topY" : 664.115,
+      "baseLineY" : 673.38,
+      "fontId" : 2,
+      "text" : "receiving Agency financing operate in a manner consistent with the program’s objectives and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 689.915,
+      "rightX" : 535.2001,
+      "topY" : 677.915,
+      "baseLineY" : 687.18,
+      "fontId" : 2,
+      "text" : "comply with applicable requirements.  Accordingly, this handbook covers the following aspects "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 703.7149,
+      "rightX" : 240.96,
+      "topY" : 691.7149,
+      "baseLineY" : 700.98,
+      "fontId" : 2,
+      "text" : "of project operation and oversight: "
+    }, {
+      "leftX" : 93.6,
+      "bottomY" : 760.7392,
+      "rightX" : 172.2209,
+      "topY" : 750.7392,
+      "baseLineY" : 758.46,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619"
+    }, {
+      "leftX" : 172.2,
+      "bottomY" : 761.195,
+      "rightX" : 175.2,
+      "topY" : 749.195,
+      "baseLineY" : 758.46,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 295.74,
+      "bottomY" : 749.2191,
+      "rightX" : 311.565,
+      "topY" : 739.2191,
+      "baseLineY" : 746.94,
+      "fontId" : 1,
+      "text" : "2-7 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 57.9,
+      "bottomY" : 55.4991,
+      "rightX" : 105.945,
+      "topY" : 45.4991,
+      "baseLineY" : 53.22,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 57.9,
+      "bottomY" : 69.3349,
+      "rightX" : 60.9,
+      "topY" : 57.3349,
+      "baseLineY" : 66.6,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.2151,
+      "rightX" : 113.52,
+      "topY" : 74.2151,
+      "baseLineY" : 84.06,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.9171,
+      "rightX" : 116.856,
+      "topY" : 74.9171,
+      "baseLineY" : 84.06,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.795,
+      "rightX" : 231.96,
+      "topY" : 74.795,
+      "baseLineY" : 84.06,
+      "fontId" : 2,
+      "text" : "Project Management; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 112.8551,
+      "rightX" : 113.52,
+      "topY" : 100.8551,
+      "baseLineY" : 110.7,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 113.5572,
+      "rightX" : 116.856,
+      "topY" : 101.5572,
+      "baseLineY" : 110.7,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 113.435,
+      "rightX" : 242.64,
+      "topY" : 101.435,
+      "baseLineY" : 110.7,
+      "fontId" : 2,
+      "text" : "Financial Management; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.5551,
+      "rightX" : 113.52,
+      "topY" : 127.5551,
+      "baseLineY" : 137.4,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 140.2572,
+      "rightX" : 116.856,
+      "topY" : 128.2572,
+      "baseLineY" : 137.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 140.135,
+      "rightX" : 291.66,
+      "topY" : 128.135,
+      "baseLineY" : 137.4,
+      "fontId" : 2,
+      "text" : "Physical Condition of the Project; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.1951,
+      "rightX" : 113.52,
+      "topY" : 154.1951,
+      "baseLineY" : 164.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 166.8972,
+      "rightX" : 116.856,
+      "topY" : 154.8972,
+      "baseLineY" : 164.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 166.775,
+      "rightX" : 223.26,
+      "topY" : 154.775,
+      "baseLineY" : 164.04,
+      "fontId" : 2,
+      "text" : "Project Occupancy; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.8352,
+      "rightX" : 113.52,
+      "topY" : 180.8352,
+      "baseLineY" : 190.6801,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 193.5372,
+      "rightX" : 116.856,
+      "topY" : 181.5372,
+      "baseLineY" : 190.6801,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 193.415,
+      "rightX" : 216.96,
+      "topY" : 181.415,
+      "baseLineY" : 190.6801,
+      "fontId" : 2,
+      "text" : "Project Rents; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 219.5352,
+      "rightX" : 113.52,
+      "topY" : 207.5352,
+      "baseLineY" : 217.3801,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 220.2372,
+      "rightX" : 116.856,
+      "topY" : 208.2372,
+      "baseLineY" : 217.3801,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 220.115,
+      "rightX" : 212.34,
+      "topY" : 208.115,
+      "baseLineY" : 217.3801,
+      "fontId" : 2,
+      "text" : "Rental Subsidies. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 245.915,
+      "rightX" : 491.8174,
+      "topY" : 233.915,
+      "baseLineY" : 243.1801,
+      "fontId" : 2,
+      "text" : "It presents the program requirements in each of these areas and describes the Agency’s "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 259.715,
+      "rightX" : 510.8398,
+      "topY" : 247.715,
+      "baseLineY" : 256.98,
+      "fontId" : 2,
+      "text" : "procedures for monitoring properties to ensure that borrowers, their agents, and tenants are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 273.515,
+      "rightX" : 221.28,
+      "topY" : 261.515,
+      "baseLineY" : 270.78,
+      "fontId" : 2,
+      "text" : "fulfilling their responsibilities. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 299.315,
+      "rightX" : 489.4798,
+      "topY" : 287.315,
+      "baseLineY" : 296.58,
+      "fontId" : 2,
+      "text" : "In addressing each topic area, the handbook first presents the requirements and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 313.115,
+      "rightX" : 487.7998,
+      "topY" : 301.115,
+      "baseLineY" : 310.38,
+      "fontId" : 2,
+      "text" : "procedures for Section 515 rental projects and then discusses differences or additional "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 326.915,
+      "rightX" : 495.5399,
+      "topY" : 314.915,
+      "baseLineY" : 324.18,
+      "fontId" : 2,
+      "text" : "requirements for other types of projects (e.g., congregate housing, Farm Labor housing, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 340.7149,
+      "rightX" : 142.68,
+      "topY" : 328.7149,
+      "baseLineY" : 337.98,
+      "fontId" : 2,
+      "text" : "cooperatives). "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 366.6239,
+      "rightX" : 102,
+      "topY" : 354.6239,
+      "baseLineY" : 363.78,
+      "fontId" : 4,
+      "text" : "2.12   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 366.6239,
+      "rightX" : 455.4,
+      "topY" : 354.6239,
+      "baseLineY" : 363.78,
+      "fontId" : 4,
+      "text" : "KEY ASSET MANAGEMENT ACTIVITIES AND DOCUMENTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 392.4239,
+      "rightX" : 241.32,
+      "topY" : 380.4239,
+      "baseLineY" : 389.58,
+      "fontId" : 4,
+      "text" : "A.  Key Agency Activities "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 431.9149,
+      "rightX" : 324.9562,
+      "topY" : 419.9149,
+      "baseLineY" : 429.1799,
+      "fontId" : 2,
+      "text" : "procedures to oversee the performance of all "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 418.1149,
+      "rightX" : 284.6387,
+      "topY" : 406.1149,
+      "baseLineY" : 415.3799,
+      "fontId" : 2,
+      "text" : "The Agency uses the same basic "
+    }, {
+      "leftX" : 393.3,
+      "bottomY" : 420.747,
+      "rightX" : 485.505,
+      "topY" : 409.747,
+      "baseLineY" : 418.14,
+      "fontId" : 13,
+      "text" : "Asset Management "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 445.7149,
+      "rightX" : 325.6799,
+      "topY" : 433.7149,
+      "baseLineY" : 442.9799,
+      "fontId" : 2,
+      "text" : "types of multi-family housing projects that it "
+    }, {
+      "leftX" : 367.38,
+      "bottomY" : 445.247,
+      "rightX" : 492.6015,
+      "topY" : 434.247,
+      "baseLineY" : 442.74,
+      "fontId" : 14,
+      "text" : "Asset management refers to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 459.5149,
+      "rightX" : 295.62,
+      "topY" : 447.5149,
+      "baseLineY" : 456.7799,
+      "fontId" : 2,
+      "text" : "directly finances.  While the Agency’s "
+    }, {
+      "leftX" : 349.3838,
+      "bottomY" : 457.907,
+      "rightX" : 475.2696,
+      "topY" : 446.907,
+      "baseLineY" : 455.3999,
+      "fontId" : 14,
+      "text" : "Agency oversight of project "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 473.3149,
+      "rightX" : 318.6562,
+      "topY" : 461.3149,
+      "baseLineY" : 470.5799,
+      "fontId" : 2,
+      "text" : "oversight activities are essentially the same "
+    }, {
+      "leftX" : 349.3838,
+      "bottomY" : 470.5669,
+      "rightX" : 526.0245,
+      "topY" : 459.5669,
+      "baseLineY" : 468.0599,
+      "fontId" : 14,
+      "text" : "performance to ensure that operation of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 487.1148,
+      "rightX" : 293.5775,
+      "topY" : 475.1148,
+      "baseLineY" : 484.3799,
+      "fontId" : 2,
+      "text" : "for all types of projects, the aspects of "
+    }, {
+      "leftX" : 349.3838,
+      "bottomY" : 483.2269,
+      "rightX" : 506.6438,
+      "topY" : 472.2269,
+      "baseLineY" : 480.7198,
+      "fontId" : 14,
+      "text" : "the property furthers the program’s "
+    }, {
+      "leftX" : 349.3838,
+      "bottomY" : 495.8319,
+      "rightX" : 528.1385,
+      "topY" : 484.8319,
+      "baseLineY" : 493.3249,
+      "fontId" : 14,
+      "text" : "objectives and complies with applicable "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 500.9148,
+      "rightX" : 330.2399,
+      "topY" : 488.9148,
+      "baseLineY" : 498.1799,
+      "fontId" : 2,
+      "text" : "borrower performance examined during these "
+    }, {
+      "leftX" : 349.3838,
+      "bottomY" : 508.4919,
+      "rightX" : 446.4602,
+      "topY" : 497.4919,
+      "baseLineY" : 505.9848,
+      "fontId" : 14,
+      "text" : "Agency requirements."
+    }, {
+      "leftX" : 446.52,
+      "bottomY" : 508.715,
+      "rightX" : 449.52,
+      "topY" : 496.715,
+      "baseLineY" : 505.98,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 514.7148,
+      "rightX" : 320.9999,
+      "topY" : 502.7148,
+      "baseLineY" : 511.9799,
+      "fontId" : 2,
+      "text" : "activities will vary by type of project due to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 528.5148,
+      "rightX" : 245.28,
+      "topY" : 516.5148,
+      "baseLineY" : 525.7798,
+      "fontId" : 2,
+      "text" : "differences in requirements. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 554.3148,
+      "rightX" : 413.82,
+      "topY" : 542.3148,
+      "baseLineY" : 551.5798,
+      "fontId" : 2,
+      "text" : "Agency oversight activities fall into three major categories: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 580.375,
+      "rightX" : 113.52,
+      "topY" : 568.375,
+      "baseLineY" : 578.2198,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 581.077,
+      "rightX" : 116.856,
+      "topY" : 569.077,
+      "baseLineY" : 578.2198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 580.9548,
+      "rightX" : 321.24,
+      "topY" : 568.9548,
+      "baseLineY" : 578.2198,
+      "fontId" : 2,
+      "text" : "Oversight of new projects or borrowers; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 607.015,
+      "rightX" : 113.52,
+      "topY" : 595.015,
+      "baseLineY" : 604.8599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 607.717,
+      "rightX" : 116.856,
+      "topY" : 595.717,
+      "baseLineY" : 604.8599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 607.5948,
+      "rightX" : 281.94,
+      "topY" : 595.5948,
+      "baseLineY" : 604.8599,
+      "fontId" : 2,
+      "text" : "Annual oversight activities; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 633.655,
+      "rightX" : 113.52,
+      "topY" : 621.655,
+      "baseLineY" : 631.4999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 634.357,
+      "rightX" : 116.856,
+      "topY" : 622.357,
+      "baseLineY" : 631.4999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 634.2348,
+      "rightX" : 265.92,
+      "topY" : 622.2348,
+      "baseLineY" : 631.4999,
+      "fontId" : 2,
+      "text" : "Periodic oversight activities. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 660.0948,
+      "rightX" : 111,
+      "topY" : 648.0948,
+      "baseLineY" : 657.3599,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 685.8948,
+      "rightX" : 111,
+      "topY" : 673.8948,
+      "baseLineY" : 683.1599,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 711.6948,
+      "rightX" : 111,
+      "topY" : 699.6948,
+      "baseLineY" : 708.9598,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 304.68,
+      "bottomY" : 757.5592,
+      "rightX" : 320.505,
+      "topY" : 747.5592,
+      "baseLineY" : 755.28,
+      "fontId" : 1,
+      "text" : "2-8 "
+    }, {
+      "leftX" : 84.54,
+      "bottomY" : 775.0791,
+      "rightX" : 89.57,
+      "topY" : 765.0791,
+      "baseLineY" : 772.8,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.58,
+      "bottomY" : 53.8791,
+      "rightX" : 542.625,
+      "topY" : 43.8791,
+      "baseLineY" : 51.6,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 494.58,
+      "bottomY" : 67.7149,
+      "rightX" : 497.58,
+      "topY" : 55.7149,
+      "baseLineY" : 64.98,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 85.9549,
+      "rightX" : 449.88,
+      "topY" : 73.9549,
+      "baseLineY" : 83.22,
+      "fontId" : 2,
+      "text" : "The specific activities in each category are summarized in Exhibit 2-1. "
+    }, {
+      "leftX" : 278.76,
+      "bottomY" : 110.9069,
+      "rightX" : 333.765,
+      "topY" : 99.9069,
+      "baseLineY" : 108.3,
+      "fontId" : 13,
+      "text" : "Exhibit 2-1 "
+    }, {
+      "leftX" : 225.96,
+      "bottomY" : 129.567,
+      "rightX" : 386.625,
+      "topY" : 118.567,
+      "baseLineY" : 126.96,
+      "fontId" : 13,
+      "text" : "Key Asset Management Activities "
+    }, {
+      "leftX" : 118.62,
+      "bottomY" : 154.2269,
+      "rightX" : 276.7846,
+      "topY" : 143.2269,
+      "baseLineY" : 151.62,
+      "fontId" : 13,
+      "text" : "Agency Actions for New Projects:"
+    }, {
+      "leftX" : 276.84,
+      "bottomY" : 154.127,
+      "rightX" : 279.585,
+      "topY" : 143.127,
+      "baseLineY" : 151.62,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 167.0355,
+      "rightX" : 143.4708,
+      "topY" : 156.0355,
+      "baseLineY" : 165.06,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 167.679,
+      "rightX" : 146.5125,
+      "topY" : 156.679,
+      "baseLineY" : 165.06,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 167.5671,
+      "rightX" : 305.145,
+      "topY" : 156.5671,
+      "baseLineY" : 165.06,
+      "fontId" : 14,
+      "text" : "Conduct pre-occupancy meeting; "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 180.4755,
+      "rightX" : 143.4708,
+      "topY" : 169.4755,
+      "baseLineY" : 178.5,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 181.119,
+      "rightX" : 146.5125,
+      "topY" : 170.119,
+      "baseLineY" : 178.5,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 181.0071,
+      "rightX" : 302.985,
+      "topY" : 170.0071,
+      "baseLineY" : 178.5,
+      "fontId" : 14,
+      "text" : "Conduct post occupancy review; "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 193.9155,
+      "rightX" : 143.4708,
+      "topY" : 182.9155,
+      "baseLineY" : 191.94,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 194.5591,
+      "rightX" : 146.5125,
+      "topY" : 183.5591,
+      "baseLineY" : 191.94,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 194.4471,
+      "rightX" : 299.985,
+      "topY" : 183.4471,
+      "baseLineY" : 191.94,
+      "fontId" : 14,
+      "text" : "Review project worksheets; and "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 207.3555,
+      "rightX" : 143.4708,
+      "topY" : 196.3555,
+      "baseLineY" : 205.38,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 207.9991,
+      "rightX" : 146.5125,
+      "topY" : 196.9991,
+      "baseLineY" : 205.38,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 207.8871,
+      "rightX" : 322.905,
+      "topY" : 196.8871,
+      "baseLineY" : 205.38,
+      "fontId" : 14,
+      "text" : "Review of quarterly/monthly reports. "
+    }, {
+      "leftX" : 118.62,
+      "bottomY" : 226.5869,
+      "rightX" : 232.8493,
+      "topY" : 215.5869,
+      "baseLineY" : 223.98,
+      "fontId" : 13,
+      "text" : "Annual Agency Actions:"
+    }, {
+      "leftX" : 232.92,
+      "bottomY" : 226.487,
+      "rightX" : 235.665,
+      "topY" : 215.487,
+      "baseLineY" : 223.98,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 239.3955,
+      "rightX" : 143.4708,
+      "topY" : 228.3955,
+      "baseLineY" : 237.42,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 240.039,
+      "rightX" : 146.5125,
+      "topY" : 229.039,
+      "baseLineY" : 237.42,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 239.927,
+      "rightX" : 284.145,
+      "topY" : 228.927,
+      "baseLineY" : 237.42,
+      "fontId" : 14,
+      "text" : "Review project worksheets;  "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 252.8355,
+      "rightX" : 143.4708,
+      "topY" : 241.8355,
+      "baseLineY" : 250.86,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 253.479,
+      "rightX" : 146.5125,
+      "topY" : 242.479,
+      "baseLineY" : 250.86,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 253.367,
+      "rightX" : 343.365,
+      "topY" : 242.367,
+      "baseLineY" : 250.86,
+      "fontId" : 14,
+      "text" : "Review of project annual financial report; "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 266.2755,
+      "rightX" : 143.4708,
+      "topY" : 255.2755,
+      "baseLineY" : 264.3,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 266.919,
+      "rightX" : 146.5125,
+      "topY" : 255.919,
+      "baseLineY" : 264.3,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 266.807,
+      "rightX" : 372.345,
+      "topY" : 255.807,
+      "baseLineY" : 264.3,
+      "fontId" : 14,
+      "text" : "Annual review of project reserve account (new); "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 279.7155,
+      "rightX" : 143.4708,
+      "topY" : 268.7155,
+      "baseLineY" : 277.74,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 280.359,
+      "rightX" : 146.5125,
+      "topY" : 269.359,
+      "baseLineY" : 277.74,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 280.247,
+      "rightX" : 266.685,
+      "topY" : 269.247,
+      "baseLineY" : 277.74,
+      "fontId" : 14,
+      "text" : "Annual physical review; "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 293.1555,
+      "rightX" : 143.4708,
+      "topY" : 282.1555,
+      "baseLineY" : 291.18,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 293.799,
+      "rightX" : 146.5125,
+      "topY" : 282.799,
+      "baseLineY" : 291.18,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 293.687,
+      "rightX" : 422.745,
+      "topY" : 282.687,
+      "baseLineY" : 291.18,
+      "fontId" : 14,
+      "text" : "Review and approval of project budget for the coming year; "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 306.5955,
+      "rightX" : 143.4708,
+      "topY" : 295.5955,
+      "baseLineY" : 304.62,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 307.239,
+      "rightX" : 146.5125,
+      "topY" : 296.239,
+      "baseLineY" : 304.62,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 307.127,
+      "rightX" : 484.5323,
+      "topY" : 296.127,
+      "baseLineY" : 304.62,
+      "fontId" : 14,
+      "text" : "Respond to evidence of potential compliance concerns (e.g., substantiated "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 319.7871,
+      "rightX" : 473.5203,
+      "topY" : 308.7871,
+      "baseLineY" : 317.28,
+      "fontId" : 14,
+      "text" : "tenant complaints, reports by other Agency staff or offices, information "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 332.4471,
+      "rightX" : 338.745,
+      "topY" : 321.4471,
+      "baseLineY" : 329.94,
+      "fontId" : 14,
+      "text" : "provided by public or other agency); and "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 345.3555,
+      "rightX" : 143.4708,
+      "topY" : 334.3555,
+      "baseLineY" : 343.38,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 345.9991,
+      "rightX" : 146.5125,
+      "topY" : 334.9991,
+      "baseLineY" : 343.38,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 345.8871,
+      "rightX" : 365.025,
+      "topY" : 334.8871,
+      "baseLineY" : 343.38,
+      "fontId" : 14,
+      "text" : "Respond to servicing requests from borrowers. "
+    }, {
+      "leftX" : 118.62,
+      "bottomY" : 364.6469,
+      "rightX" : 237.1227,
+      "topY" : 353.6469,
+      "baseLineY" : 362.04,
+      "fontId" : 13,
+      "text" : "Periodic Agency Actions:"
+    }, {
+      "leftX" : 237.18,
+      "bottomY" : 364.5471,
+      "rightX" : 239.925,
+      "topY" : 353.5471,
+      "baseLineY" : 362.04,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 377.4555,
+      "rightX" : 143.4708,
+      "topY" : 366.4555,
+      "baseLineY" : 375.48,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 378.0991,
+      "rightX" : 146.5125,
+      "topY" : 367.0991,
+      "baseLineY" : 375.48,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 377.9871,
+      "rightX" : 330.825,
+      "topY" : 366.9871,
+      "baseLineY" : 375.48,
+      "fontId" : 14,
+      "text" : "Perform physical inspection of project; "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 390.8955,
+      "rightX" : 143.4708,
+      "topY" : 379.8955,
+      "baseLineY" : 388.92,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 391.5391,
+      "rightX" : 146.5125,
+      "topY" : 380.5391,
+      "baseLineY" : 388.92,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 391.4271,
+      "rightX" : 325.905,
+      "topY" : 380.4271,
+      "baseLineY" : 388.92,
+      "fontId" : 14,
+      "text" : "Perform occupancy review of project; "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 404.2755,
+      "rightX" : 143.4708,
+      "topY" : 393.2755,
+      "baseLineY" : 402.3,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 404.919,
+      "rightX" : 146.5125,
+      "topY" : 393.919,
+      "baseLineY" : 402.3,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 404.807,
+      "rightX" : 292.725,
+      "topY" : 393.807,
+      "baseLineY" : 402.3,
+      "fontId" : 14,
+      "text" : "Perform supervisory visit; and "
+    }, {
+      "leftX" : 138.42,
+      "bottomY" : 417.7155,
+      "rightX" : 143.4708,
+      "topY" : 406.7155,
+      "baseLineY" : 415.74,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 143.46,
+      "bottomY" : 418.359,
+      "rightX" : 146.5125,
+      "topY" : 407.359,
+      "baseLineY" : 415.74,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 418.247,
+      "rightX" : 289.665,
+      "topY" : 407.247,
+      "baseLineY" : 415.74,
+      "fontId" : 14,
+      "text" : "Conduct compliance reviews. "
+    }, {
+      "leftX" : 118.62,
+      "bottomY" : 442.907,
+      "rightX" : 377.565,
+      "topY" : 431.907,
+      "baseLineY" : 440.4,
+      "fontId" : 14,
+      "text" : "All of the above require follow-up to address deficiencies. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 473.3639,
+      "rightX" : 208.98,
+      "topY" : 461.3639,
+      "baseLineY" : 470.52,
+      "fontId" : 4,
+      "text" : "B.  Key Documents "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 499.0549,
+      "rightX" : 533.581,
+      "topY" : 487.0549,
+      "baseLineY" : 496.32,
+      "fontId" : 2,
+      "text" : "Borrowers’ responsibilities under the program and evidence that they are complying "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 512.8549,
+      "rightX" : 532.1998,
+      "topY" : 500.8549,
+      "baseLineY" : 510.12,
+      "fontId" : 2,
+      "text" : "with program requirements are established through program loan and grant documents.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 526.6549,
+      "rightX" : 522.2349,
+      "topY" : 514.6549,
+      "baseLineY" : 523.9199,
+      "fontId" : 2,
+      "text" : "The key program documents used in Agency asset management activities are listed in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 540.4549,
+      "rightX" : 168.3,
+      "topY" : 528.4549,
+      "baseLineY" : 537.72,
+      "fontId" : 2,
+      "text" : "Exhibit 2-2. "
+    }, {
+      "leftX" : 307.62,
+      "bottomY" : 741.8391,
+      "rightX" : 323.4416,
+      "topY" : 731.8391,
+      "baseLineY" : 739.56,
+      "fontId" : 1,
+      "text" : "2-9 "
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 753.3592,
+      "rightX" : 168.9359,
+      "topY" : 743.3592,
+      "baseLineY" : 751.08,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 10,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 82.44,
+      "bottomY" : 56.4591,
+      "rightX" : 130.485,
+      "topY" : 46.4591,
+      "baseLineY" : 54.18,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 82.44,
+      "bottomY" : 70.295,
+      "rightX" : 85.44,
+      "topY" : 58.295,
+      "baseLineY" : 67.56,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 278.76,
+      "bottomY" : 85.1069,
+      "rightX" : 333.765,
+      "topY" : 74.1069,
+      "baseLineY" : 82.5,
+      "fontId" : 13,
+      "text" : "Exhibit 2-2 "
+    }, {
+      "leftX" : 245.34,
+      "bottomY" : 103.7669,
+      "rightX" : 367.185,
+      "topY" : 92.7669,
+      "baseLineY" : 101.16,
+      "fontId" : 13,
+      "text" : "Key Program Documents "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 128.5755,
+      "rightX" : 146.1708,
+      "topY" : 117.5755,
+      "baseLineY" : 126.6,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 129.219,
+      "rightX" : 149.2124,
+      "topY" : 118.219,
+      "baseLineY" : 126.6,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 129.107,
+      "rightX" : 270.105,
+      "topY" : 118.107,
+      "baseLineY" : 126.6,
+      "fontId" : 14,
+      "text" : "Mortgage or deed of trust; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 142.0155,
+      "rightX" : 146.1708,
+      "topY" : 131.0155,
+      "baseLineY" : 140.04,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 142.659,
+      "rightX" : 149.2124,
+      "topY" : 131.659,
+      "baseLineY" : 140.04,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 142.547,
+      "rightX" : 234.705,
+      "topY" : 131.547,
+      "baseLineY" : 140.04,
+      "fontId" : 14,
+      "text" : "Promissory Note;  "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 155.4555,
+      "rightX" : 146.1708,
+      "topY" : 144.4555,
+      "baseLineY" : 153.48,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 156.099,
+      "rightX" : 149.2124,
+      "topY" : 145.099,
+      "baseLineY" : 153.48,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 155.987,
+      "rightX" : 275.925,
+      "topY" : 144.987,
+      "baseLineY" : 153.48,
+      "fontId" : 14,
+      "text" : "Loan agreement/resolution; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 168.8955,
+      "rightX" : 146.1708,
+      "topY" : 157.8955,
+      "baseLineY" : 166.92,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 169.539,
+      "rightX" : 149.2124,
+      "topY" : 158.539,
+      "baseLineY" : 166.92,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 169.427,
+      "rightX" : 231.345,
+      "topY" : 158.427,
+      "baseLineY" : 166.92,
+      "fontId" : 14,
+      "text" : "Grant agreement; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 182.3355,
+      "rightX" : 146.1708,
+      "topY" : 171.3355,
+      "baseLineY" : 180.36,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 182.979,
+      "rightX" : 149.2124,
+      "topY" : 171.979,
+      "baseLineY" : 180.36,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 182.867,
+      "rightX" : 360.165,
+      "topY" : 171.867,
+      "baseLineY" : 180.36,
+      "fontId" : 14,
+      "text" : "Interest credit and rental assistance agreement; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 195.7755,
+      "rightX" : 146.1708,
+      "topY" : 184.7755,
+      "baseLineY" : 193.8,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 196.419,
+      "rightX" : 149.2124,
+      "topY" : 185.419,
+      "baseLineY" : 193.8,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 196.307,
+      "rightX" : 281.745,
+      "topY" : 185.307,
+      "baseLineY" : 193.8,
+      "fontId" : 14,
+      "text" : "Rental assistance agreement; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 209.2155,
+      "rightX" : 146.1708,
+      "topY" : 198.2155,
+      "baseLineY" : 207.24,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 209.859,
+      "rightX" : 149.2124,
+      "topY" : 198.859,
+      "baseLineY" : 207.24,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 209.747,
+      "rightX" : 236.865,
+      "topY" : 198.747,
+      "baseLineY" : 207.24,
+      "fontId" : 14,
+      "text" : "Management plan; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 222.6555,
+      "rightX" : 146.1708,
+      "topY" : 211.6555,
+      "baseLineY" : 220.68,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 223.299,
+      "rightX" : 149.2124,
+      "topY" : 212.299,
+      "baseLineY" : 220.68,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 223.187,
+      "rightX" : 271.065,
+      "topY" : 212.187,
+      "baseLineY" : 220.68,
+      "fontId" : 14,
+      "text" : "Management certification; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 236.0955,
+      "rightX" : 146.1708,
+      "topY" : 225.0955,
+      "baseLineY" : 234.12,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 236.739,
+      "rightX" : 149.2124,
+      "topY" : 225.739,
+      "baseLineY" : 234.12,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 236.627,
+      "rightX" : 263.685,
+      "topY" : 225.627,
+      "baseLineY" : 234.12,
+      "fontId" : 14,
+      "text" : "Management agreement; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 249.5355,
+      "rightX" : 146.1708,
+      "topY" : 238.5355,
+      "baseLineY" : 247.56,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 250.179,
+      "rightX" : 149.2124,
+      "topY" : 239.179,
+      "baseLineY" : 247.56,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 250.0671,
+      "rightX" : 340.965,
+      "topY" : 239.0671,
+      "baseLineY" : 247.56,
+      "fontId" : 14,
+      "text" : "Affirmative Fair Housing Marketing Plan; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 262.9755,
+      "rightX" : 146.1708,
+      "topY" : 251.9755,
+      "baseLineY" : 261,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 263.619,
+      "rightX" : 149.2124,
+      "topY" : 252.619,
+      "baseLineY" : 261,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 263.5071,
+      "rightX" : 236.805,
+      "topY" : 252.5071,
+      "baseLineY" : 261,
+      "fontId" : 14,
+      "text" : "Project worksheet; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 276.3555,
+      "rightX" : 146.1708,
+      "topY" : 265.3555,
+      "baseLineY" : 274.38,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 276.9991,
+      "rightX" : 149.2124,
+      "topY" : 265.9991,
+      "baseLineY" : 274.38,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 276.8871,
+      "rightX" : 301.845,
+      "topY" : 265.8871,
+      "baseLineY" : 274.38,
+      "fontId" : 14,
+      "text" : "Utility allowance documentation; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 289.7955,
+      "rightX" : 146.1708,
+      "topY" : 278.7955,
+      "baseLineY" : 287.82,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 290.4391,
+      "rightX" : 149.2124,
+      "topY" : 279.4391,
+      "baseLineY" : 287.82,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 290.3271,
+      "rightX" : 244.125,
+      "topY" : 279.3271,
+      "baseLineY" : 287.82,
+      "fontId" : 14,
+      "text" : "Tenant certification; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 303.2355,
+      "rightX" : 146.1708,
+      "topY" : 292.2355,
+      "baseLineY" : 301.26,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 303.8791,
+      "rightX" : 149.2124,
+      "topY" : 292.8791,
+      "baseLineY" : 301.26,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 303.7671,
+      "rightX" : 223.365,
+      "topY" : 292.7671,
+      "baseLineY" : 301.26,
+      "fontId" : 14,
+      "text" : "Dwelling lease; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 316.6755,
+      "rightX" : 146.1708,
+      "topY" : 305.6755,
+      "baseLineY" : 314.7,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 317.3191,
+      "rightX" : 149.2124,
+      "topY" : 306.3191,
+      "baseLineY" : 314.7,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 317.2071,
+      "rightX" : 221.565,
+      "topY" : 306.2071,
+      "baseLineY" : 314.7,
+      "fontId" : 14,
+      "text" : "Project budget; "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 330.1155,
+      "rightX" : 146.1708,
+      "topY" : 319.1155,
+      "baseLineY" : 328.14,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 330.7591,
+      "rightX" : 149.2124,
+      "topY" : 319.7591,
+      "baseLineY" : 328.14,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 330.6471,
+      "rightX" : 327.825,
+      "topY" : 319.6471,
+      "baseLineY" : 328.14,
+      "fontId" : 14,
+      "text" : "Annual financial report for project; and "
+    }, {
+      "leftX" : 141.12,
+      "bottomY" : 343.5555,
+      "rightX" : 146.1708,
+      "topY" : 332.5555,
+      "baseLineY" : 341.58,
+      "fontId" : 15,
+      "text" : "•"
+    }, {
+      "leftX" : 146.16,
+      "bottomY" : 344.199,
+      "rightX" : 149.2124,
+      "topY" : 333.199,
+      "baseLineY" : 341.58,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 151.92,
+      "bottomY" : 344.087,
+      "rightX" : 275.325,
+      "topY" : 333.087,
+      "baseLineY" : 341.58,
+      "fontId" : 14,
+      "text" : "Agency Monitoring Forms. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 374.5439,
+      "rightX" : 102,
+      "topY" : 362.5439,
+      "baseLineY" : 371.7,
+      "fontId" : 4,
+      "text" : "2.13   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 374.5439,
+      "rightX" : 512.6401,
+      "topY" : 362.5439,
+      "baseLineY" : 371.7,
+      "fontId" : 4,
+      "text" : "ASSET MANAGEMENT PROCEDURES FOR MULTI-FAMILY HOUSING "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 388.3439,
+      "rightX" : 173.64,
+      "topY" : 376.3439,
+      "baseLineY" : 385.5,
+      "fontId" : 4,
+      "text" : "PROJECTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 414.035,
+      "rightX" : 521.46,
+      "topY" : 402.035,
+      "baseLineY" : 411.3,
+      "fontId" : 2,
+      "text" : "Chapters 3 through 9 describe the program requirements for Section 515 and 514/516 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 427.8349,
+      "rightX" : 115.98,
+      "topY" : 415.8349,
+      "baseLineY" : 425.1,
+      "fontId" : 2,
+      "text" : "projects. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 453.7439,
+      "rightX" : 307.56,
+      "topY" : 441.7439,
+      "baseLineY" : 450.9,
+      "fontId" : 4,
+      "text" : "A.  Property Management (Chapter 3) "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 479.4349,
+      "rightX" : 526.8608,
+      "topY" : 467.4349,
+      "baseLineY" : 476.7,
+      "fontId" : 2,
+      "text" : "Borrowers must comply with a number of program requirements regarding general "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 493.2349,
+      "rightX" : 503.2822,
+      "topY" : 481.2349,
+      "baseLineY" : 490.4999,
+      "fontId" : 2,
+      "text" : "project management functions.  The borrower’s plans for project management are "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 507.0349,
+      "rightX" : 525.7798,
+      "topY" : 495.0349,
+      "baseLineY" : 504.2999,
+      "fontId" : 2,
+      "text" : "documented in management documents (the management plan and management entity "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 520.8349,
+      "rightX" : 517.1962,
+      "topY" : 508.8349,
+      "baseLineY" : 518.0999,
+      "fontId" : 2,
+      "text" : "profile).  The Agency must also approve the project’s management agent and review "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 534.6349,
+      "rightX" : 289.56,
+      "topY" : 522.6349,
+      "baseLineY" : 531.8999,
+      "fontId" : 2,
+      "text" : "management fees for reasonableness. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 560.5438,
+      "rightX" : 309,
+      "topY" : 548.5438,
+      "baseLineY" : 557.6999,
+      "fontId" : 4,
+      "text" : "B.  Financial Management (Chapter 4) "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 586.2348,
+      "rightX" : 534.5374,
+      "topY" : 574.2348,
+      "baseLineY" : 583.4999,
+      "fontId" : 2,
+      "text" : "Borrowers must establish project financial management systems and procedures that "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 600.0349,
+      "rightX" : 529.1998,
+      "topY" : 588.0349,
+      "baseLineY" : 597.2999,
+      "fontId" : 2,
+      "text" : "reflect the complexity of project operations and provide adequate supervision to ensure "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 613.8349,
+      "rightX" : 541.1396,
+      "topY" : 601.8349,
+      "baseLineY" : 611.0999,
+      "fontId" : 2,
+      "text" : "that program objectives are met.  The Agency has specific requirements regarding project "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 627.6349,
+      "rightX" : 516.2398,
+      "topY" : 615.6349,
+      "baseLineY" : 624.8999,
+      "fontId" : 2,
+      "text" : "accounting, budgeting, financial reporting, and project annual financial reports.  The "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 641.4349,
+      "rightX" : 529.8597,
+      "topY" : 629.4349,
+      "baseLineY" : 638.7,
+      "fontId" : 2,
+      "text" : "borrower’s accounting system identified in the management plan must comply with the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 655.2349,
+      "rightX" : 530.6398,
+      "topY" : 643.2349,
+      "baseLineY" : 652.4999,
+      "fontId" : 2,
+      "text" : "Agency’s chart of accounts.  The Agency will monitor project accounts through project "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 669.0349,
+      "rightX" : 530.9399,
+      "topY" : 657.0349,
+      "baseLineY" : 666.2999,
+      "fontId" : 2,
+      "text" : "reports and monitoring visits to the site.  The Agency approves the budget on an annual "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 682.8349,
+      "rightX" : 378.5399,
+      "topY" : 670.8349,
+      "baseLineY" : 680.0999,
+      "fontId" : 2,
+      "text" : "basis and reviews financial reports on an ongoing basis. "
+    }, {
+      "leftX" : 300.42,
+      "bottomY" : 736.7392,
+      "rightX" : 321.2216,
+      "topY" : 726.7392,
+      "baseLineY" : 734.46,
+      "fontId" : 1,
+      "text" : "2-10 "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 760.2591,
+      "rightX" : 88.905,
+      "topY" : 750.2591,
+      "baseLineY" : 757.98,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 11,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 490.56,
+      "bottomY" : 53.5191,
+      "rightX" : 538.605,
+      "topY" : 43.5191,
+      "baseLineY" : 51.24,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 490.56,
+      "bottomY" : 67.355,
+      "rightX" : 493.56,
+      "topY" : 55.355,
+      "baseLineY" : 64.62,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.0639,
+      "rightX" : 333.3,
+      "topY" : 74.0639,
+      "baseLineY" : 83.22,
+      "fontId" : 4,
+      "text" : "C.  Project Physical Conditions (Chapter 5) "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 111.7549,
+      "rightX" : 536.9984,
+      "topY" : 99.7549,
+      "baseLineY" : 109.02,
+      "fontId" : 2,
+      "text" : "Borrowers are responsible for maintaining their projects’ physical conditions to meet "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.5549,
+      "rightX" : 532.62,
+      "topY" : 113.5549,
+      "baseLineY" : 122.8199,
+      "fontId" : 2,
+      "text" : "program standards for decent, safe, and sanitary housing.  MFH Servicing Officials will "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.3549,
+      "rightX" : 539.3398,
+      "topY" : 127.3549,
+      "baseLineY" : 136.6199,
+      "fontId" : 2,
+      "text" : "monitor the quality of the housing through regular physical inspections of the property as "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.1549,
+      "rightX" : 510.8998,
+      "topY" : 141.1549,
+      "baseLineY" : 150.4199,
+      "fontId" : 2,
+      "text" : "well as through the budget process.  The Agency will review the borrower’s capital "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.9549,
+      "rightX" : 539.2798,
+      "topY" : 154.9549,
+      "baseLineY" : 164.2199,
+      "fontId" : 2,
+      "text" : "budget planning and approve reserve withdrawals for capital improvements.  In the event "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 180.7549,
+      "rightX" : 539.9988,
+      "topY" : 168.7549,
+      "baseLineY" : 178.0199,
+      "fontId" : 2,
+      "text" : "that a borrower fails to meet program standards, MFH Servicing Officials are responsible "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 194.5549,
+      "rightX" : 532.1398,
+      "topY" : 182.5549,
+      "baseLineY" : 191.8199,
+      "fontId" : 2,
+      "text" : "for ensuring that the borrower takes appropriate actions to correct physical deficiencies. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 220.4638,
+      "rightX" : 288.96,
+      "topY" : 208.4638,
+      "baseLineY" : 217.6199,
+      "fontId" : 4,
+      "text" : "D.  Project Occupancy (Chapter 6) "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 246.1548,
+      "rightX" : 493.6196,
+      "topY" : 234.1548,
+      "baseLineY" : 243.4199,
+      "fontId" : 2,
+      "text" : "MFH Servicing Officials will monitor borrowers’ compliance with program "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.9548,
+      "rightX" : 488.8797,
+      "topY" : 247.9548,
+      "baseLineY" : 257.2198,
+      "fontId" : 2,
+      "text" : "occupancy rules, ensuring that tenant eligibility requirements are observed and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.7548,
+      "rightX" : 529.7997,
+      "topY" : 261.7548,
+      "baseLineY" : 271.0198,
+      "fontId" : 2,
+      "text" : "occupancy policies are consistently followed.  The borrower must market the project to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 287.5548,
+      "rightX" : 527.2197,
+      "topY" : 275.5548,
+      "baseLineY" : 284.8198,
+      "fontId" : 2,
+      "text" : "all eligible applicants and process applications, select tenants, and assign units in a fair "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 301.3548,
+      "rightX" : 522.8998,
+      "topY" : 289.3548,
+      "baseLineY" : 298.6198,
+      "fontId" : 2,
+      "text" : "and consistent manner.  Borrower must also observe Agency rules regarding dwelling "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 315.1548,
+      "rightX" : 540.8326,
+      "topY" : 303.1548,
+      "baseLineY" : 312.4198,
+      "fontId" : 2,
+      "text" : "leases, tenant recertification, termination of occupancy, and tenant grievance procedures.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 328.9548,
+      "rightX" : 536.8785,
+      "topY" : 316.9548,
+      "baseLineY" : 326.2198,
+      "fontId" : 2,
+      "text" : "MFH Servicing Officials will check compliance with these requirements through regular "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 342.7547,
+      "rightX" : 301.98,
+      "topY" : 330.7547,
+      "baseLineY" : 340.0198,
+      "fontId" : 2,
+      "text" : "reports and monitoring visits to the site. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 368.6637,
+      "rightX" : 411,
+      "topY" : 356.6637,
+      "baseLineY" : 365.8198,
+      "fontId" : 4,
+      "text" : "E.  Rents, Shelter Cost, and Utility Allowances (Chapter 7) "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 394.3547,
+      "rightX" : 534.602,
+      "topY" : 382.3547,
+      "baseLineY" : 391.6198,
+      "fontId" : 2,
+      "text" : "MFH Servicing Officials will review projects to ensure that the borrower establishes "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 408.1547,
+      "rightX" : 533.4598,
+      "topY" : 396.1547,
+      "baseLineY" : 405.4197,
+      "fontId" : 2,
+      "text" : "appropriate rents, occupancy charges, and utility allowances for individual units and, on "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 421.9547,
+      "rightX" : 514.1999,
+      "topY" : 409.9547,
+      "baseLineY" : 419.2197,
+      "fontId" : 2,
+      "text" : "an annual basis, review budgets to approve or deny requests for rent changes.  MFH "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 435.7547,
+      "rightX" : 534.9008,
+      "topY" : 423.7547,
+      "baseLineY" : 433.0197,
+      "fontId" : 2,
+      "text" : "Servicing Officials will also ensure that the borrower meets all requirements in handling "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 449.5547,
+      "rightX" : 178.68,
+      "topY" : 437.5547,
+      "baseLineY" : 446.8197,
+      "fontId" : 2,
+      "text" : "the following: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 475.6148,
+      "rightX" : 113.52,
+      "topY" : 463.6148,
+      "baseLineY" : 473.4597,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 476.3169,
+      "rightX" : 116.856,
+      "topY" : 464.3169,
+      "baseLineY" : 473.4597,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 476.1947,
+      "rightX" : 316.8599,
+      "topY" : 464.1947,
+      "baseLineY" : 473.4597,
+      "fontId" : 2,
+      "text" : "Tenant rent payments during evictions; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 502.2548,
+      "rightX" : 113.52,
+      "topY" : 490.2548,
+      "baseLineY" : 500.0997,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 502.9569,
+      "rightX" : 116.856,
+      "topY" : 490.9569,
+      "baseLineY" : 500.0997,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 502.8347,
+      "rightX" : 269.28,
+      "topY" : 490.8347,
+      "baseLineY" : 500.0997,
+      "fontId" : 2,
+      "text" : "Tenant security deposits; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 528.8948,
+      "rightX" : 113.52,
+      "topY" : 516.8948,
+      "baseLineY" : 526.7397,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 529.5969,
+      "rightX" : 116.856,
+      "topY" : 517.5969,
+      "baseLineY" : 526.7397,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 529.4747,
+      "rightX" : 233.64,
+      "topY" : 517.4747,
+      "baseLineY" : 526.7397,
+      "fontId" : 2,
+      "text" : "Cases of tenant fraud. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 555.4437,
+      "rightX" : 274.98,
+      "topY" : 543.4437,
+      "baseLineY" : 552.5997,
+      "fontId" : 4,
+      "text" : "F.  Rental Subsidies (Chapter 8) "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 581.1347,
+      "rightX" : 500.2798,
+      "topY" : 569.1347,
+      "baseLineY" : 578.3998,
+      "fontId" : 2,
+      "text" : "A multi-family housing project may have one or more types of rental subsidy "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 594.9347,
+      "rightX" : 529.9198,
+      "topY" : 582.9347,
+      "baseLineY" : 592.1998,
+      "fontId" : 2,
+      "text" : "including Agency rental assistance (RA), HUD Section 8, or other local forms of rental "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 608.6747,
+      "rightX" : 538.982,
+      "topY" : 596.6747,
+      "baseLineY" : 605.9398,
+      "fontId" : 2,
+      "text" : "subsidy.  MFH Servicing Officials must ensure that borrowers comply with requirements "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 622.4747,
+      "rightX" : 520.1997,
+      "topY" : 610.4747,
+      "baseLineY" : 619.7397,
+      "fontId" : 2,
+      "text" : "to use RA appropriately.  Only eligible projects, units, and tenants may receive rental "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 636.2748,
+      "rightX" : 535.6198,
+      "topY" : 624.2748,
+      "baseLineY" : 633.5398,
+      "fontId" : 2,
+      "text" : "subsidies.  The borrower must enter into a rental subsidy agreement with the appropriate "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 650.0747,
+      "rightX" : 536.9396,
+      "topY" : 638.0747,
+      "baseLineY" : 647.3398,
+      "fontId" : 2,
+      "text" : "agency.  Agency staff has administrative responsibilities for RA including suspending or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 663.8747,
+      "rightX" : 541.5598,
+      "topY" : 651.8747,
+      "baseLineY" : 661.1398,
+      "fontId" : 2,
+      "text" : "transferring RA, replacing expiring RA agreements, and processing borrower requests for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 677.6747,
+      "rightX" : 476.8798,
+      "topY" : 665.6747,
+      "baseLineY" : 674.9398,
+      "fontId" : 2,
+      "text" : "additional RA, modifying RA agreements and agency oversight of borrower "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 691.4747,
+      "rightX" : 174.6,
+      "topY" : 679.4747,
+      "baseLineY" : 688.7397,
+      "fontId" : 2,
+      "text" : "performance. "
+    }, {
+      "leftX" : 308.76,
+      "bottomY" : 751.9792,
+      "rightX" : 329.5616,
+      "topY" : 741.9792,
+      "baseLineY" : 749.7,
+      "fontId" : 1,
+      "text" : "2-11 "
+    }, {
+      "leftX" : 91.14,
+      "bottomY" : 763.4991,
+      "rightX" : 172.2359,
+      "topY" : 753.4991,
+      "baseLineY" : 761.22,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 12,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 67.26,
+      "bottomY" : 54.5391,
+      "rightX" : 115.305,
+      "topY" : 44.5391,
+      "baseLineY" : 52.26,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 67.26,
+      "bottomY" : 68.375,
+      "rightX" : 70.26,
+      "topY" : 56.375,
+      "baseLineY" : 65.64,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.0639,
+      "rightX" : 291.72,
+      "topY" : 74.0639,
+      "baseLineY" : 83.22,
+      "fontId" : 4,
+      "text" : "G.  Agency Monitoring (Chapter 9) "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 111.7549,
+      "rightX" : 511.9199,
+      "topY" : 99.7549,
+      "baseLineY" : 109.02,
+      "fontId" : 2,
+      "text" : "MFH Servicing Officials must perform regular reviews of multi-family housing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.5549,
+      "rightX" : 539.5822,
+      "topY" : 113.5549,
+      "baseLineY" : 122.8199,
+      "fontId" : 2,
+      "text" : "projects to monitor project performance and ensure compliance with program regulations "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.3549,
+      "rightX" : 525.2397,
+      "topY" : 127.3549,
+      "baseLineY" : 136.6199,
+      "fontId" : 2,
+      "text" : "and civil rights laws.  MFH Servicing Officials will make efforts to plan and prioritize "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.1549,
+      "rightX" : 507.6585,
+      "topY" : 141.1549,
+      "baseLineY" : 150.4199,
+      "fontId" : 2,
+      "text" : "monitoring activities to focus on the projects that need the most Agency attention.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.9549,
+      "rightX" : 506.6398,
+      "topY" : 154.9549,
+      "baseLineY" : 164.2199,
+      "fontId" : 2,
+      "text" : "Borrowers will submit reports on an ongoing basis (either monthly or quarterly, as "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 180.7549,
+      "rightX" : 529.8599,
+      "topY" : 168.7549,
+      "baseLineY" : 178.0199,
+      "fontId" : 2,
+      "text" : "needed) to provide the Agency with much of the information needed to monitor project "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 194.5549,
+      "rightX" : 510.5998,
+      "topY" : 182.5549,
+      "baseLineY" : 191.8199,
+      "fontId" : 2,
+      "text" : "performance.  However, Agency staff may also perform site visits as part of annual "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 208.3548,
+      "rightX" : 357.3599,
+      "topY" : 196.3548,
+      "baseLineY" : 205.6199,
+      "fontId" : 2,
+      "text" : "reviews, physical inspections, and supervisory visit."
+    }, {
+      "leftX" : 357.3,
+      "bottomY" : 208.3898,
+      "rightX" : 360.3,
+      "topY" : 196.3898,
+      "baseLineY" : 205.6199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 296.76,
+      "bottomY" : 751.9192,
+      "rightX" : 317.5616,
+      "topY" : 741.9192,
+      "baseLineY" : 749.64,
+      "fontId" : 1,
+      "text" : "2-12 "
+    }, {
+      "leftX" : 79.14,
+      "bottomY" : 769.4391,
+      "rightX" : 84.17,
+      "topY" : 759.4391,
+      "baseLineY" : 767.16,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 6.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 12,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 15,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 16,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

@@ -1,0 +1,186 @@
+{
+  "pdfDoc" : "3560-2appendix01_3.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 493.0753,
+      "bottomY" : 59.1629,
+      "rightX" : 542.4868,
+      "topY" : 49.1629,
+      "baseLineY" : 56.8837,
+      "fontId" : 1,
+      "text" : "Appendix 1 "
+    }, {
+      "leftX" : 494.7585,
+      "bottomY" : 70.567,
+      "rightX" : 542.4868,
+      "topY" : 60.567,
+      "baseLineY" : 68.2879,
+      "fontId" : 1,
+      "text" : "Page 1 of 1 "
+    }, {
+      "leftX" : 539.9968,
+      "bottomY" : 82.0908,
+      "rightX" : 542.4868,
+      "topY" : 72.0908,
+      "baseLineY" : 79.8116,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 273.12,
+      "bottomY" : 98.2308,
+      "rightX" : 342.3934,
+      "topY" : 84.2308,
+      "baseLineY" : 95.04,
+      "fontId" : 2,
+      "text" : "Appendix 1 "
+    }, {
+      "leftX" : 306.0017,
+      "bottomY" : 114.3066,
+      "rightX" : 309.5117,
+      "topY" : 100.3066,
+      "baseLineY" : 111.1158,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 128.135,
+      "rightX" : 527.9998,
+      "topY" : 116.135,
+      "baseLineY" : 125.4,
+      "fontId" : 3,
+      "text" : "For the complete 7 CFR Part 3560, refer to the National Archives and Records Administration "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 141.935,
+      "rightX" : 346.56,
+      "topY" : 129.935,
+      "baseLineY" : 139.2,
+      "fontId" : 3,
+      "text" : "Electronic Code of Federal Regulations (eCFR) found at "
+    }, {
+      "leftX" : 346.56,
+      "bottomY" : 141.935,
+      "rightX" : 511.836,
+      "topY" : 129.935,
+      "baseLineY" : 139.2,
+      "fontId" : 4,
+      "text" : "https://www.ecfr.gov/current/title-"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 155.735,
+      "rightX" : 255.84,
+      "topY" : 143.735,
+      "baseLineY" : 153,
+      "fontId" : 4,
+      "text" : "7/subtitle-B/chapter-XXXV/part-3560"
+    }, {
+      "leftX" : 255.84,
+      "bottomY" : 155.735,
+      "rightX" : 261.96,
+      "topY" : 143.735,
+      "baseLineY" : 153,
+      "fontId" : 3,
+      "text" : ". "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 169.535,
+      "rightX" : 75,
+      "topY" : 157.535,
+      "baseLineY" : 166.8,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.3349,
+      "rightX" : 483.2398,
+      "topY" : 171.3349,
+      "baseLineY" : 180.6,
+      "fontId" : 3,
+      "text" : "The eCFR is a web version of the Code of Federal Regulations (CFR) that is updated "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.1349,
+      "rightX" : 529.3198,
+      "topY" : 185.1349,
+      "baseLineY" : 194.4,
+      "fontId" : 3,
+      "text" : "simultaneously with any published revisions.  Please use the link above for the most up to date "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 210.9349,
+      "rightX" : 205.68,
+      "topY" : 198.9349,
+      "baseLineY" : 208.2,
+      "fontId" : 3,
+      "text" : "version of the 7 CFR 3560. "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 227.1108,
+      "rightX" : 309.51,
+      "topY" : 213.1108,
+      "baseLineY" : 223.92,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 239.0271,
+      "rightX" : 74.76,
+      "topY" : 228.0271,
+      "baseLineY" : 236.52,
+      "fontId" : 5,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

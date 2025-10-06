@@ -1,0 +1,1738 @@
+{
+  "pdfDoc" : "3560-3chapter05.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4958,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 142.14,
+      "bottomY" : 95.1779,
+      "rightX" : 473.4255,
+      "topY" : 81.1779,
+      "baseLineY" : 91.86,
+      "fontId" : 2,
+      "text" : "CHAPTER 5:  OWNERSHIP AND ORGANIZATION "
+    }, {
+      "leftX" : 217.74,
+      "bottomY" : 111.2579,
+      "rightX" : 290.4178,
+      "topY" : 97.2579,
+      "baseLineY" : 107.94,
+      "fontId" : 2,
+      "text" : "CHANGES "
+    }, {
+      "leftX" : 290.4,
+      "bottomY" : 111.1499,
+      "rightX" : 394.2797,
+      "topY" : 97.1499,
+      "baseLineY" : 107.94,
+      "fontId" : 3,
+      "text" : "[7 CFR 3560.405]"
+    }, {
+      "leftX" : 394.26,
+      "bottomY" : 111.2579,
+      "rightX" : 397.755,
+      "topY" : 97.2579,
+      "baseLineY" : 107.94,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 143.7839,
+      "rightX" : 96,
+      "topY" : 131.7839,
+      "baseLineY" : 140.94,
+      "fontId" : 4,
+      "text" : "5.1   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 143.7839,
+      "rightX" : 207,
+      "topY" : 131.7839,
+      "baseLineY" : 140.94,
+      "fontId" : 4,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 169.475,
+      "rightX" : 534.8399,
+      "topY" : 157.475,
+      "baseLineY" : 166.74,
+      "fontId" : 5,
+      "text" : "During the term of an Agency loan, changing circumstances may lead borrowers to seek "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.2749,
+      "rightX" : 534.2398,
+      "topY" : 171.2749,
+      "baseLineY" : 180.54,
+      "fontId" : 5,
+      "text" : "Agency approval of a change in the structure of the ownership entity. For instance, partnerships "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.0749,
+      "rightX" : 536.6397,
+      "topY" : 185.0749,
+      "baseLineY" : 194.34,
+      "fontId" : 5,
+      "text" : "may dissolve, or substitute individuals or entities may obtain an ownership interest in a property "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 210.8749,
+      "rightX" : 526.6799,
+      "topY" : 198.8749,
+      "baseLineY" : 208.14,
+      "fontId" : 5,
+      "text" : "due to business reorganizations, retirements, or other reasons.  To address these situations, the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 224.6749,
+      "rightX" : 532.4998,
+      "topY" : 212.6749,
+      "baseLineY" : 221.9399,
+      "fontId" : 5,
+      "text" : "Agency has developed requirements and procedures for receiving notification of and reviewing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 238.4149,
+      "rightX" : 519.1737,
+      "topY" : 226.4149,
+      "baseLineY" : 235.6799,
+      "fontId" : 5,
+      "text" : "proposed changes, as well as granting approval for such changes to ensure that the Agency’s "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 252.2149,
+      "rightX" : 212.94,
+      "topY" : 240.2149,
+      "baseLineY" : 249.4799,
+      "fontId" : 5,
+      "text" : "security interest is protected. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 278.0149,
+      "rightX" : 504.1737,
+      "topY" : 266.0149,
+      "baseLineY" : 275.2799,
+      "fontId" : 5,
+      "text" : "This chapter covers the Agency’s requirements regarding changes in a borrower’s "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 291.8149,
+      "rightX" : 493.2599,
+      "topY" : 279.8149,
+      "baseLineY" : 289.0799,
+      "fontId" : 5,
+      "text" : "ownership structure and Agency procedures for reviewing and accepting such changes. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 317.7238,
+      "rightX" : 96,
+      "topY" : 305.7238,
+      "baseLineY" : 314.8799,
+      "fontId" : 4,
+      "text" : "5.2   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 317.7238,
+      "rightX" : 492.3,
+      "topY" : 305.7238,
+      "baseLineY" : 314.8799,
+      "fontId" : 4,
+      "text" : "OVERVIEW OF CHANGES REQUIRING PRIOR AGENCY CONSENT "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 343.4148,
+      "rightX" : 532.555,
+      "topY" : 331.4148,
+      "baseLineY" : 340.6799,
+      "fontId" : 5,
+      "text" : "The Agency imposes specific requirements on certain proposed changes in the structure "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 357.2148,
+      "rightX" : 530.8198,
+      "topY" : 345.2148,
+      "baseLineY" : 354.4799,
+      "fontId" : 5,
+      "text" : "of the borrower entity to ensure the adequacy of the new or substitute interests and thus protect "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 371.0148,
+      "rightX" : 286.62,
+      "topY" : 359.0148,
+      "baseLineY" : 368.2798,
+      "fontId" : 5,
+      "text" : "the interests of tenants and the Government. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 396.8148,
+      "rightX" : 507.5998,
+      "topY" : 384.8148,
+      "baseLineY" : 394.0798,
+      "fontId" : 5,
+      "text" : "The Agency requires that borrowers obtain prior Agency consent to organizational "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 410.6148,
+      "rightX" : 542.8798,
+      "topY" : 398.6148,
+      "baseLineY" : 407.8798,
+      "fontId" : 5,
+      "text" : "changes involving the controlling interests of the borrower entity to ensure that such changes will "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 424.4148,
+      "rightX" : 533.58,
+      "topY" : 412.4148,
+      "baseLineY" : 421.6798,
+      "fontId" : 5,
+      "text" : "continue to serve the needs of tenants and protect the interest of the Government.  For example, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 438.2148,
+      "rightX" : 531.1796,
+      "topY" : 426.2148,
+      "baseLineY" : 435.4798,
+      "fontId" : 5,
+      "text" : "if one partner in a borrower entity decides to sell their interest to a new individual from outside "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 452.0148,
+      "rightX" : 530.5797,
+      "topY" : 440.0148,
+      "baseLineY" : 449.2798,
+      "fontId" : 5,
+      "text" : "the existing organizational structure, the Agency needs to review that individual’s prior history "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 465.8147,
+      "rightX" : 524.6396,
+      "topY" : 453.8147,
+      "baseLineY" : 463.0798,
+      "fontId" : 5,
+      "text" : "and qualifications to ensure that the person is eligible to participate in the program (i.e., is not "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 479.6147,
+      "rightX" : 538.5599,
+      "topY" : 467.6147,
+      "baseLineY" : 476.8798,
+      "fontId" : 5,
+      "text" : "under suspension, debarred, under Office of the Inspector General (OIG) review, or known to be "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 493.4147,
+      "rightX" : 526.2598,
+      "topY" : 481.4147,
+      "baseLineY" : 490.6797,
+      "fontId" : 5,
+      "text" : "in default on any Agency loan[s]).  The purpose of this review is to evaluate that the borrower "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 507.2147,
+      "rightX" : 506.8798,
+      "topY" : 495.2147,
+      "baseLineY" : 504.4797,
+      "fontId" : 5,
+      "text" : "entity will continue to be eligible under program requirements and that any changes in the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 521.0147,
+      "rightX" : 454.86,
+      "topY" : 509.0147,
+      "baseLineY" : 518.2797,
+      "fontId" : 5,
+      "text" : "organizational structure do not adversely affect the Agency’s security interests. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 546.9236,
+      "rightX" : 96,
+      "topY" : 534.9236,
+      "baseLineY" : 544.0797,
+      "fontId" : 4,
+      "text" : "5.3   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 546.9236,
+      "rightX" : 427.02,
+      "topY" : 534.9236,
+      "baseLineY" : 544.0797,
+      "fontId" : 4,
+      "text" : "REQUIREMENTS FOR OBTAINING AGENCY CONSENT "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 572.7237,
+      "rightX" : 177.96,
+      "topY" : 560.7237,
+      "baseLineY" : 569.8798,
+      "fontId" : 4,
+      "text" : "A.  Overview "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 598.4147,
+      "rightX" : 541.4949,
+      "topY" : 586.4147,
+      "baseLineY" : 595.6797,
+      "fontId" : 5,
+      "text" : "Certain changes in the structure and ownership interests in the borrower entity require "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 612.2147,
+      "rightX" : 409.92,
+      "topY" : 600.2147,
+      "baseLineY" : 609.4797,
+      "fontId" : 5,
+      "text" : "Agency consent before they become effective.  These include: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 638.2749,
+      "rightX" : 113.52,
+      "topY" : 626.2749,
+      "baseLineY" : 636.1198,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 638.9769,
+      "rightX" : 116.856,
+      "topY" : 626.9769,
+      "baseLineY" : 636.1198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 638.8547,
+      "rightX" : 434.28,
+      "topY" : 626.8547,
+      "baseLineY" : 636.1198,
+      "fontId" : 5,
+      "text" : "Any changes in the controlling interests of the borrower entity;  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 664.9149,
+      "rightX" : 113.52,
+      "topY" : 652.9149,
+      "baseLineY" : 662.7598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 665.6169,
+      "rightX" : 116.856,
+      "topY" : 653.6169,
+      "baseLineY" : 662.7598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 665.4947,
+      "rightX" : 534.5996,
+      "topY" : 653.4947,
+      "baseLineY" : 662.7598,
+      "fontId" : 5,
+      "text" : "Changes in the ownership interests of the borrower entity that involve the transfer of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 679.3547,
+      "rightX" : 498.5398,
+      "topY" : 667.3547,
+      "baseLineY" : 676.6198,
+      "fontId" : 5,
+      "text" : "stock to any individual or organization not previously listed in the ownership "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 693.1547,
+      "rightX" : 317.94,
+      "topY" : 681.1547,
+      "baseLineY" : 690.4197,
+      "fontId" : 5,
+      "text" : "documents submitted to the Agency; or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.505,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 296.34,
+      "bottomY" : 760.4391,
+      "rightX" : 312.165,
+      "topY" : 750.4391,
+      "baseLineY" : 758.16,
+      "fontId" : 1,
+      "text" : "5-1 "
+    }, {
+      "leftX" : 73.2,
+      "bottomY" : 771.9591,
+      "rightX" : 154.2959,
+      "topY" : 761.9591,
+      "baseLineY" : 769.68,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    }, {
+      "leftX" : 73.19,
+      "bottomY" : 783.4821,
+      "rightX" : 189.0242,
+      "topY" : 773.4821,
+      "baseLineY" : 781.203,
+      "fontId" : 1,
+      "text" : "Revised (03-31-25)  PN 636 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 73.475,
+      "rightX" : 75,
+      "topY" : 61.475,
+      "baseLineY" : 70.74,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.5351,
+      "rightX" : 113.52,
+      "topY" : 87.5351,
+      "baseLineY" : 97.38,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 100.2371,
+      "rightX" : 116.856,
+      "topY" : 88.2371,
+      "baseLineY" : 97.38,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 100.115,
+      "rightX" : 536.8162,
+      "topY" : 88.115,
+      "baseLineY" : 97.38,
+      "fontId" : 5,
+      "text" : "A 100 percent change in membership interest where the tax ID remains the same and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 113.915,
+      "rightX" : 472.86,
+      "topY" : 101.915,
+      "baseLineY" : 111.18,
+      "fontId" : 5,
+      "text" : "the organizational entity remains the same during any 12-month period. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.7149,
+      "rightX" : 529.8598,
+      "topY" : 127.7149,
+      "baseLineY" : 136.98,
+      "fontId" : 5,
+      "text" : "Examples of such changes include changes in general partners, addition of new general "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.5149,
+      "rightX" : 507.6009,
+      "topY" : 141.5149,
+      "baseLineY" : 150.78,
+      "fontId" : 5,
+      "text" : "partners, proprietorship as a result of death, divorce, or other applicable ownership "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 167.3149,
+      "rightX" : 152.64,
+      "topY" : 155.3149,
+      "baseLineY" : 164.58,
+      "fontId" : 5,
+      "text" : "changes. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 193.2239,
+      "rightX" : 213,
+      "topY" : 181.2239,
+      "baseLineY" : 190.3799,
+      "fontId" : 4,
+      "text" : "B.  Written Request "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 218.9149,
+      "rightX" : 538.8597,
+      "topY" : 206.9149,
+      "baseLineY" : 216.1799,
+      "fontId" : 5,
+      "text" : "Requests for Agency consent to organizational changes must be submitted in writing, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.7149,
+      "rightX" : 162.06,
+      "topY" : 220.7149,
+      "baseLineY" : 229.9799,
+      "fontId" : 5,
+      "text" : "along with "
+    }, {
+      "leftX" : 162.06,
+      "bottomY" : 232.7498,
+      "rightX" : 207.624,
+      "topY" : 220.7498,
+      "baseLineY" : 229.9799,
+      "fontId" : 8,
+      "text" : "Form RD"
+    }, {
+      "leftX" : 207.6,
+      "bottomY" : 232.7149,
+      "rightX" : 210.6,
+      "topY" : 220.7149,
+      "baseLineY" : 229.9799,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 210.6,
+      "bottomY" : 232.7498,
+      "rightX" : 537.6599,
+      "topY" : 220.7498,
+      "baseLineY" : 229.9799,
+      "fontId" : 8,
+      "text" : "3560-1, Application for Partial Release, Subordination, or Consent,"
+    }, {
+      "leftX" : 537.6599,
+      "bottomY" : 232.7149,
+      "rightX" : 540.6599,
+      "topY" : 220.7149,
+      "baseLineY" : 229.9799,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 246.5149,
+      "rightX" : 529.9199,
+      "topY" : 234.5149,
+      "baseLineY" : 243.7799,
+      "fontId" : 5,
+      "text" : "to the MFH Servicing official.  Each request must describe the proposed changes in the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 260.3149,
+      "rightX" : 516.5398,
+      "topY" : 248.3149,
+      "baseLineY" : 257.5799,
+      "fontId" : 5,
+      "text" : "organizational structure of the borrower entity and provide the information shown in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 274.1148,
+      "rightX" : 515.9397,
+      "topY" : 262.1148,
+      "baseLineY" : 271.3799,
+      "fontId" : 5,
+      "text" : "Exhibit 5-1 for each new or substitute ownership interest or member in the borrower "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 287.9148,
+      "rightX" : 141.3,
+      "topY" : 275.9148,
+      "baseLineY" : 285.1799,
+      "fontId" : 5,
+      "text" : "entity. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 313.7148,
+      "rightX" : 541.9819,
+      "topY" : 301.7148,
+      "baseLineY" : 310.9799,
+      "fontId" : 5,
+      "text" : "The information included with the written request must demonstrate that the proposed "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 327.5148,
+      "rightX" : 498.8997,
+      "topY" : 315.5148,
+      "baseLineY" : 324.7798,
+      "fontId" : 5,
+      "text" : "change will not adversely affect the Agency’s security interest in the property by "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 341.3148,
+      "rightX" : 472.26,
+      "topY" : 329.3148,
+      "baseLineY" : 338.5798,
+      "fontId" : 5,
+      "text" : "illustrating that all key individuals would meet loan approval requirements. "
+    }, {
+      "leftX" : 278.82,
+      "bottomY" : 366.2669,
+      "rightX" : 333.825,
+      "topY" : 355.2669,
+      "baseLineY" : 363.66,
+      "fontId" : 9,
+      "text" : "Exhibit 5-1 "
+    }, {
+      "leftX" : 186.42,
+      "bottomY" : 384.8669,
+      "rightX" : 426.225,
+      "topY" : 373.8669,
+      "baseLineY" : 382.26,
+      "fontId" : 9,
+      "text" : "Required Content of Requests for Agency Consent "
+    }, {
+      "leftX" : 232.5,
+      "bottomY" : 397.5269,
+      "rightX" : 380.0822,
+      "topY" : 386.5269,
+      "baseLineY" : 394.92,
+      "fontId" : 9,
+      "text" : "to Changes in Borrower Entity "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 422.3355,
+      "rightX" : 90.6108,
+      "topY" : 411.3355,
+      "baseLineY" : 420.36,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 422.979,
+      "rightX" : 93.6524,
+      "topY" : 411.979,
+      "baseLineY" : 420.36,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 422.8991,
+      "rightX" : 452.0716,
+      "topY" : 411.8991,
+      "baseLineY" : 420.36,
+      "fontId" : 12,
+      "text" : "Form RD 3560-1, Application for Partial Release, Subordination, or Consent;"
+    }, {
+      "leftX" : 452.04,
+      "bottomY" : 422.867,
+      "rightX" : 454.785,
+      "topY" : 411.867,
+      "baseLineY" : 420.36,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 441.7755,
+      "rightX" : 90.6108,
+      "topY" : 430.7755,
+      "baseLineY" : 439.8,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 442.419,
+      "rightX" : 93.6524,
+      "topY" : 431.419,
+      "baseLineY" : 439.8,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 442.307,
+      "rightX" : 506.183,
+      "topY" : 431.307,
+      "baseLineY" : 439.8,
+      "fontId" : 13,
+      "text" : "The names, addresses, and taxpayer identification numbers of individuals with controlling "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 454.967,
+      "rightX" : 282.529,
+      "topY" : 443.967,
+      "baseLineY" : 452.46,
+      "fontId" : 13,
+      "text" : "interests in the new or substitute entity; "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 473.8755,
+      "rightX" : 90.6108,
+      "topY" : 462.8755,
+      "baseLineY" : 471.9,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 474.519,
+      "rightX" : 93.6524,
+      "topY" : 463.519,
+      "baseLineY" : 471.9,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 474.407,
+      "rightX" : 519.8936,
+      "topY" : 463.407,
+      "baseLineY" : 471.9,
+      "fontId" : 13,
+      "text" : "Certification that the new interests and/or members are not suspended, debarred, or in default "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 487.0671,
+      "rightX" : 193.9094,
+      "topY" : 476.0671,
+      "baseLineY" : 484.56,
+      "fontId" : 13,
+      "text" : "on Agency loan(s); "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 505.9755,
+      "rightX" : 90.6108,
+      "topY" : 494.9755,
+      "baseLineY" : 504,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 506.619,
+      "rightX" : 93.6524,
+      "topY" : 495.619,
+      "baseLineY" : 504,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 506.5071,
+      "rightX" : 525.285,
+      "topY" : 495.5071,
+      "baseLineY" : 504,
+      "fontId" : 13,
+      "text" : "The organizational role of the new interest/member or changes in roles of existing individuals; "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 525.4155,
+      "rightX" : 90.6108,
+      "topY" : 514.4155,
+      "baseLineY" : 523.44,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 526.0591,
+      "rightX" : 93.6524,
+      "topY" : 515.0591,
+      "baseLineY" : 523.44,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 525.9471,
+      "rightX" : 498.765,
+      "topY" : 514.9471,
+      "baseLineY" : 523.44,
+      "fontId" : 13,
+      "text" : "Résumé, including experience managing real estate, business experience, and education; "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 544.8555,
+      "rightX" : 90.6108,
+      "topY" : 533.8555,
+      "baseLineY" : 542.88,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 545.4991,
+      "rightX" : 93.6524,
+      "topY" : 534.4991,
+      "baseLineY" : 542.88,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 545.3871,
+      "rightX" : 196.3212,
+      "topY" : 534.3871,
+      "baseLineY" : 542.88,
+      "fontId" : 13,
+      "text" : "Identity-of-interest ("
+    }, {
+      "leftX" : 196.32,
+      "bottomY" : 545.4191,
+      "rightX" : 504.7715,
+      "topY" : 534.4191,
+      "baseLineY" : 542.88,
+      "fontId" : 12,
+      "text" : "Forms RD 3560-30, Certification of No Identity of Interest (IOI), and "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 558.0791,
+      "rightX" : 392.2146,
+      "topY" : 547.0791,
+      "baseLineY" : 555.54,
+      "fontId" : 12,
+      "text" : "3560-31, Identity of Interest Disclosure/Qualification Certificate"
+    }, {
+      "leftX" : 392.1643,
+      "bottomY" : 558.047,
+      "rightX" : 401.684,
+      "topY" : 547.047,
+      "baseLineY" : 555.54,
+      "fontId" : 13,
+      "text" : "); "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 576.9555,
+      "rightX" : 90.6108,
+      "topY" : 565.9555,
+      "baseLineY" : 574.98,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 577.599,
+      "rightX" : 93.6524,
+      "topY" : 566.599,
+      "baseLineY" : 574.98,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 577.487,
+      "rightX" : 236.685,
+      "topY" : 566.487,
+      "baseLineY" : 574.98,
+      "fontId" : 13,
+      "text" : "Personal financial statement; "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 596.3955,
+      "rightX" : 90.6108,
+      "topY" : 585.3955,
+      "baseLineY" : 594.42,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 597.039,
+      "rightX" : 93.6524,
+      "topY" : 586.039,
+      "baseLineY" : 594.42,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 596.927,
+      "rightX" : 447.405,
+      "topY" : 585.927,
+      "baseLineY" : 594.42,
+      "fontId" : 13,
+      "text" : "Percentage of ownership of the new interest/members in the borrower entity; "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 615.8355,
+      "rightX" : 90.6108,
+      "topY" : 604.8355,
+      "baseLineY" : 613.86,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 616.479,
+      "rightX" : 93.6524,
+      "topY" : 605.479,
+      "baseLineY" : 613.86,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 616.367,
+      "rightX" : 339.345,
+      "topY" : 605.367,
+      "baseLineY" : 613.86,
+      "fontId" : 13,
+      "text" : "Proposed amendments to organizational documents; "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 635.2755,
+      "rightX" : 90.6108,
+      "topY" : 624.2755,
+      "baseLineY" : 633.3,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 635.919,
+      "rightX" : 93.6524,
+      "topY" : 624.919,
+      "baseLineY" : 633.3,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 635.807,
+      "rightX" : 268.125,
+      "topY" : 624.807,
+      "baseLineY" : 633.3,
+      "fontId" : 13,
+      "text" : "Previous participation certification;  "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 654.6555,
+      "rightX" : 90.6108,
+      "topY" : 643.6555,
+      "baseLineY" : 652.68,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 655.299,
+      "rightX" : 93.6524,
+      "topY" : 644.299,
+      "baseLineY" : 652.68,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 655.187,
+      "rightX" : 521.8964,
+      "topY" : 644.187,
+      "baseLineY" : 652.68,
+      "fontId" : 13,
+      "text" : "Opinion of the borrower's attorney stating that the changes are in accordance with reapproved "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 667.847,
+      "rightX" : 508.8488,
+      "topY" : 656.847,
+      "baseLineY" : 665.34,
+      "fontId" : 13,
+      "text" : "organizational documents, are permitted by law, and comply with Agency regulations; and "
+    }, {
+      "leftX" : 85.56,
+      "bottomY" : 687.9555,
+      "rightX" : 90.6108,
+      "topY" : 676.9555,
+      "baseLineY" : 685.98,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 90.6,
+      "bottomY" : 688.599,
+      "rightX" : 93.6524,
+      "topY" : 677.599,
+      "baseLineY" : 685.98,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 106.86,
+      "bottomY" : 688.487,
+      "rightX" : 143.2005,
+      "topY" : 677.487,
+      "baseLineY" : 685.98,
+      "fontId" : 13,
+      "text" : "Current "
+    }, {
+      "leftX" : 143.22,
+      "bottomY" : 688.7149,
+      "rightX" : 277.8335,
+      "topY" : 676.7149,
+      "baseLineY" : 685.98,
+      "fontId" : 5,
+      "text" : "comprehensive credit report"
+    }, {
+      "leftX" : 277.86,
+      "bottomY" : 688.487,
+      "rightX" : 369.165,
+      "topY" : 677.487,
+      "baseLineY" : 685.98,
+      "fontId" : 13,
+      "text" : " (7 CFR 3560.405).. "
+    }, {
+      "leftX" : 299.34,
+      "bottomY" : 760.4991,
+      "rightX" : 315.165,
+      "topY" : 750.4991,
+      "baseLineY" : 758.22,
+      "fontId" : 1,
+      "text" : "5-2 "
+    }, {
+      "leftX" : 532.8,
+      "bottomY" : 783.9591,
+      "rightX" : 537.83,
+      "topY" : 773.9591,
+      "baseLineY" : 781.68,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4958,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 73.475,
+      "rightX" : 75,
+      "topY" : 61.475,
+      "baseLineY" : 70.74,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.3839,
+      "rightX" : 451.74,
+      "topY" : 87.3839,
+      "baseLineY" : 96.54,
+      "fontId" : 4,
+      "text" : "C.  Assumption of All Applicable Responsibilities by New Interests "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 125.0749,
+      "rightX" : 519.602,
+      "topY" : 113.0749,
+      "baseLineY" : 122.34,
+      "fontId" : 5,
+      "text" : "If any portion of the controlling interest in the borrower entity is transferred to an "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 138.8749,
+      "rightX" : 493.1398,
+      "topY" : 126.8749,
+      "baseLineY" : 136.14,
+      "fontId" : 5,
+      "text" : "individual or organization not previously holding a controlling interest, the new "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 152.6749,
+      "rightX" : 511.6197,
+      "topY" : 140.6749,
+      "baseLineY" : 149.9399,
+      "fontId" : 5,
+      "text" : "individual or organization must agree to assume the responsibilities and obligations "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.4749,
+      "rightX" : 272.6987,
+      "topY" : 154.4749,
+      "baseLineY" : 163.7399,
+      "fontId" : 5,
+      "text" : "established under the terms of the "
+    }, {
+      "leftX" : 272.6987,
+      "bottomY" : 166.5099,
+      "rightX" : 451.3199,
+      "topY" : 154.5099,
+      "baseLineY" : 163.7399,
+      "fontId" : 8,
+      "text" : "Form RD 3560-52, Promissory Note "
+    }, {
+      "leftX" : 451.3199,
+      "bottomY" : 166.4749,
+      "rightX" : 536.58,
+      "topY" : 154.4749,
+      "baseLineY" : 163.7399,
+      "fontId" : 5,
+      "text" : "with the Agency, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 180.2749,
+      "rightX" : 530.4598,
+      "topY" : 168.2749,
+      "baseLineY" : 177.5399,
+      "fontId" : 5,
+      "text" : "the mortgage, the loan agreement/resolution, and any applicable partnership documents "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 194.0749,
+      "rightX" : 175.98,
+      "topY" : 182.0749,
+      "baseLineY" : 191.3399,
+      "fontId" : 5,
+      "text" : "for the entity. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 219.9238,
+      "rightX" : 408.06,
+      "topY" : 207.9238,
+      "baseLineY" : 217.0799,
+      "fontId" : 4,
+      "text" : "D.  Assumption of Liability by Substitute General Partner "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 245.6148,
+      "rightX" : 532.2008,
+      "topY" : 233.6148,
+      "baseLineY" : 242.8799,
+      "fontId" : 5,
+      "text" : "In the case of substitution of any general partner, the substitute general partner must "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.4148,
+      "rightX" : 534.2997,
+      "topY" : 247.4148,
+      "baseLineY" : 256.6799,
+      "fontId" : 5,
+      "text" : "agree to assume the responsibilities and obligations of the original general partner under "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.2148,
+      "rightX" : 226.32,
+      "topY" : 261.2148,
+      "baseLineY" : 270.4799,
+      "fontId" : 5,
+      "text" : "the terms of the Agency "
+    }, {
+      "leftX" : 226.26,
+      "bottomY" : 273.2498,
+      "rightX" : 314.94,
+      "topY" : 261.2498,
+      "baseLineY" : 270.4799,
+      "fontId" : 8,
+      "text" : "Form RD 3560-52"
+    }, {
+      "leftX" : 314.94,
+      "bottomY" : 273.2148,
+      "rightX" : 522.8998,
+      "topY" : 261.2148,
+      "baseLineY" : 270.4799,
+      "fontId" : 5,
+      "text" : ", mortgage, and the borrower’s partnership "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 287.0148,
+      "rightX" : 163.98,
+      "topY" : 275.0148,
+      "baseLineY" : 284.2798,
+      "fontId" : 5,
+      "text" : "agreement. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 312.8148,
+      "rightX" : 533.5786,
+      "topY" : 300.8148,
+      "baseLineY" : 310.0798,
+      "fontId" : 5,
+      "text" : "In consultation with the Office of General Counsel (OGC), the Leadership Designee "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 326.6148,
+      "rightX" : 492.9549,
+      "topY" : 314.6148,
+      "baseLineY" : 323.8798,
+      "fontId" : 5,
+      "text" : "may require the substitute partner to sign an agreement to assume all applicable "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 340.4148,
+      "rightX" : 387.9,
+      "topY" : 328.4148,
+      "baseLineY" : 337.6798,
+      "fontId" : 5,
+      "text" : "responsibilities.  This agreement is placed in the case file. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 366.3237,
+      "rightX" : 329.7,
+      "topY" : 354.3237,
+      "baseLineY" : 363.4798,
+      "fontId" : 4,
+      "text" : "E.  Satisfaction of Eligibility Requirements "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 392.0148,
+      "rightX" : 538.6196,
+      "topY" : 380.0148,
+      "baseLineY" : 389.2798,
+      "fontId" : 5,
+      "text" : "All proposed new individuals in the ownership entity must meet applicable eligibility "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 405.8147,
+      "rightX" : 535.0798,
+      "topY" : 393.8147,
+      "baseLineY" : 403.0798,
+      "fontId" : 5,
+      "text" : "requirements for borrowers under 7 CFR 3560.55.  For further information on eligibility "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 419.6147,
+      "rightX" : 318.5999,
+      "topY" : 407.6147,
+      "baseLineY" : 416.8798,
+      "fontId" : 5,
+      "text" : "requirements, see Chapter 4 of HB-1-3560. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 445.5237,
+      "rightX" : 96,
+      "topY" : 433.5237,
+      "baseLineY" : 442.6797,
+      "fontId" : 4,
+      "text" : "5.4   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 445.5237,
+      "rightX" : 340.02,
+      "topY" : 433.5237,
+      "baseLineY" : 442.6797,
+      "fontId" : 4,
+      "text" : "BORROWER REQUESTS FOR CONSENT "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 471.2147,
+      "rightX" : 508.8596,
+      "topY" : 459.2147,
+      "baseLineY" : 468.4797,
+      "fontId" : 5,
+      "text" : "Borrowers must submit their written requests for Agency consent to organizational "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 485.0147,
+      "rightX" : 517.2561,
+      "topY" : 473.0147,
+      "baseLineY" : 482.2797,
+      "fontId" : 5,
+      "text" : "changes at least 45 days prior to the desired effective date of the change.  Borrower requests "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 498.815,
+      "rightX" : 315.66,
+      "topY" : 486.815,
+      "baseLineY" : 496.08,
+      "fontId" : 5,
+      "text" : "must contain the information listed in Exhibit 5-1. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 524.7239,
+      "rightX" : 96,
+      "topY" : 512.7239,
+      "baseLineY" : 521.88,
+      "fontId" : 4,
+      "text" : "5.5   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 524.7239,
+      "rightX" : 378.36,
+      "topY" : 512.7239,
+      "baseLineY" : 521.88,
+      "fontId" : 4,
+      "text" : "AGENCY REVIEW OF BORROWER REQUESTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 550.5239,
+      "rightX" : 177.96,
+      "topY" : 538.5239,
+      "baseLineY" : 547.68,
+      "fontId" : 4,
+      "text" : "A.  Overview "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 576.2149,
+      "rightX" : 536.2773,
+      "topY" : 564.2149,
+      "baseLineY" : 573.48,
+      "fontId" : 5,
+      "text" : "To ensure that all changes to borrower entities protect the interests of tenants and the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 590.0149,
+      "rightX" : 536.8799,
+      "topY" : 578.0149,
+      "baseLineY" : 587.28,
+      "fontId" : 5,
+      "text" : "Government, the Agency has developed procedures for review and approval of proposed "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 603.8149,
+      "rightX" : 510.1797,
+      "topY" : 591.8149,
+      "baseLineY" : 601.08,
+      "fontId" : 5,
+      "text" : "changes.  By preventing changes that do not further program objectives, the review "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 617.615,
+      "rightX" : 506.94,
+      "topY" : 605.615,
+      "baseLineY" : 614.88,
+      "fontId" : 5,
+      "text" : "process ensures that program implementation is consistent with Agency mandates. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 643.415,
+      "rightX" : 510.8961,
+      "topY" : 631.415,
+      "baseLineY" : 640.68,
+      "fontId" : 5,
+      "text" : "MFH Servicing officials need to take all actions necessary to determine that the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 657.2149,
+      "rightX" : 520.8598,
+      "topY" : 645.2149,
+      "baseLineY" : 654.48,
+      "fontId" : 5,
+      "text" : "changes will have no adverse impact on the loan or property.  These actions will vary "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 671.015,
+      "rightX" : 386.58,
+      "topY" : 659.015,
+      "baseLineY" : 668.28,
+      "fontId" : 5,
+      "text" : "based on the nature of the changes to the borrower entity. "
+    }, {
+      "leftX" : 301.62,
+      "bottomY" : 738.7791,
+      "rightX" : 317.4416,
+      "topY" : 728.7791,
+      "baseLineY" : 736.5,
+      "fontId" : 1,
+      "text" : "5-3 "
+    }, {
+      "leftX" : 81.48,
+      "bottomY" : 750.2992,
+      "rightX" : 162.5759,
+      "topY" : 740.2992,
+      "baseLineY" : 748.02,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 73.475,
+      "rightX" : 75,
+      "topY" : 61.475,
+      "baseLineY" : 70.74,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 99.2749,
+      "rightX" : 536.215,
+      "topY" : 87.2749,
+      "baseLineY" : 96.54,
+      "fontId" : 5,
+      "text" : "The Agency may reject such requests if the borrower fails to adequately demonstrate "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 113.0749,
+      "rightX" : 512.2798,
+      "topY" : 101.0749,
+      "baseLineY" : 110.34,
+      "fontId" : 5,
+      "text" : "that the proposed change will not adversely affect the interests of the Agency or the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 126.8749,
+      "rightX" : 222.3,
+      "topY" : 114.8749,
+      "baseLineY" : 124.14,
+      "fontId" : 5,
+      "text" : "tenants of the property. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 152.7839,
+      "rightX" : 423.3,
+      "topY" : 140.7839,
+      "baseLineY" : 149.9399,
+      "fontId" : 4,
+      "text" : "B.  MFH Servicing officials and Leadership Designee Actions "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 178.4749,
+      "rightX" : 532.9783,
+      "topY" : 166.4749,
+      "baseLineY" : 175.7399,
+      "fontId" : 5,
+      "text" : "MFH Servicing officials first review borrower submissions for completeness.  Next, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.2749,
+      "rightX" : 499.9198,
+      "topY" : 180.2749,
+      "baseLineY" : 189.5399,
+      "fontId" : 5,
+      "text" : "they perform a review to determine whether the new individuals or organizations "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 206.0149,
+      "rightX" : 515.5198,
+      "topY" : 194.0149,
+      "baseLineY" : 203.2799,
+      "fontId" : 5,
+      "text" : "proposed meet eligibility criteria (i.e., the same criteria required to qualify for a new "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 219.8149,
+      "rightX" : 489.2998,
+      "topY" : 207.8149,
+      "baseLineY" : 217.0799,
+      "fontId" : 5,
+      "text" : "Agency loan as set forth in the HB-1-3560).  To determine that approval of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 233.6148,
+      "rightX" : 501.6021,
+      "topY" : 221.6148,
+      "baseLineY" : 230.8799,
+      "fontId" : 5,
+      "text" : "transaction will not adversely affect the objectives of the loan or the property, the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 247.4148,
+      "rightX" : 520.4937,
+      "topY" : 235.4148,
+      "baseLineY" : 244.6799,
+      "fontId" : 5,
+      "text" : "Leadership Designee must consider past performance, experience, qualifications, and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 261.2148,
+      "rightX" : 487.9198,
+      "topY" : 249.2148,
+      "baseLineY" : 258.4799,
+      "fontId" : 5,
+      "text" : "abilities of any individual or organization obtaining an interest in the borrower "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 275.0148,
+      "rightX" : 535.9197,
+      "topY" : 263.0148,
+      "baseLineY" : 272.2798,
+      "fontId" : 5,
+      "text" : "organization.  Finally, MFH Servicing officials review all documentation to determine if "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 288.8148,
+      "rightX" : 527.8761,
+      "topY" : 276.8148,
+      "baseLineY" : 286.0798,
+      "fontId" : 5,
+      "text" : "the substitute general partners propose to assume all liability that had been assumed by "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 302.6148,
+      "rightX" : 222.6,
+      "topY" : 290.6148,
+      "baseLineY" : 299.8798,
+      "fontId" : 5,
+      "text" : "the withdrawing entity. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 328.4148,
+      "rightX" : 522.24,
+      "topY" : 316.4148,
+      "baseLineY" : 325.6798,
+      "fontId" : 5,
+      "text" : "When the initial review has been completed, MFH Servicing officials process and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 342.2148,
+      "rightX" : 143.76,
+      "topY" : 330.2148,
+      "baseLineY" : 339.4798,
+      "fontId" : 5,
+      "text" : "submit "
+    }, {
+      "leftX" : 143.76,
+      "bottomY" : 342.2497,
+      "rightX" : 229.32,
+      "topY" : 330.2497,
+      "baseLineY" : 339.4798,
+      "fontId" : 8,
+      "text" : "Form RD 3560-1 "
+    }, {
+      "leftX" : 229.32,
+      "bottomY" : 342.2148,
+      "rightX" : 531.5399,
+      "topY" : 330.2148,
+      "baseLineY" : 339.4798,
+      "fontId" : 5,
+      "text" : "to the Leadership Designee, who either approves or rejects the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 356.0148,
+      "rightX" : 520.5549,
+      "topY" : 344.0148,
+      "baseLineY" : 353.2798,
+      "fontId" : 5,
+      "text" : "proposed transfers or changes.  In cases where proposed membership changes are not "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 369.8147,
+      "rightX" : 508.9198,
+      "topY" : 357.8147,
+      "baseLineY" : 367.0798,
+      "fontId" : 5,
+      "text" : "covered in the organizational documents or appear to be in conflict with applicable "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 383.6147,
+      "rightX" : 513.5374,
+      "topY" : 371.6147,
+      "baseLineY" : 380.8798,
+      "fontId" : 5,
+      "text" : "regulatory requirements, MFH Servicing officials may submit case files to OGC for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 397.4147,
+      "rightX" : 536.5199,
+      "topY" : 385.4147,
+      "baseLineY" : 394.6797,
+      "fontId" : 5,
+      "text" : "review and concurrence regarding a borrower’s legal sufficiency to assume the proposed "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 411.2147,
+      "rightX" : 533.58,
+      "topY" : 399.2147,
+      "baseLineY" : 408.4797,
+      "fontId" : 5,
+      "text" : "role in the new organization.  OGC does not override the decisions made by the Agency "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 425.0147,
+      "rightX" : 294.66,
+      "topY" : 413.0147,
+      "baseLineY" : 422.2797,
+      "fontId" : 5,
+      "text" : "with regard to organizational changes. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 450.9236,
+      "rightX" : 96,
+      "topY" : 438.9236,
+      "baseLineY" : 448.0797,
+      "fontId" : 4,
+      "text" : "5.6   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 450.9236,
+      "rightX" : 303.66,
+      "topY" : 438.9236,
+      "baseLineY" : 448.0797,
+      "fontId" : 4,
+      "text" : "DOCUMENTATION OF CHANGES "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 476.6147,
+      "rightX" : 515.5798,
+      "topY" : 464.6147,
+      "baseLineY" : 473.8797,
+      "fontId" : 5,
+      "text" : "To ensure that there is a running history of all changes made to the organization of a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 490.4147,
+      "rightX" : 525.1799,
+      "topY" : 478.4147,
+      "baseLineY" : 487.6797,
+      "fontId" : 5,
+      "text" : "borrower entity, the Agency requires that all changes be adequately documented through both "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 504.2146,
+      "rightX" : 528.3,
+      "topY" : 492.2146,
+      "baseLineY" : 501.4797,
+      "fontId" : 5,
+      "text" : "written notification to borrowers and maintenance of case files.  MFH Servicing officials must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 518.0146,
+      "rightX" : 510.8398,
+      "topY" : 506.0146,
+      "baseLineY" : 515.2797,
+      "fontId" : 5,
+      "text" : "respond to all requests for Agency consent to changes in a formal letter, a copy of which is "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 531.8146,
+      "rightX" : 536.5737,
+      "topY" : 519.8146,
+      "baseLineY" : 529.0797,
+      "fontId" : 5,
+      "text" : "placed in the borrower’s case file.  Documentation allows the Agency to track the legality of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 545.6146,
+      "rightX" : 534.8998,
+      "topY" : 533.6146,
+      "baseLineY" : 542.8796,
+      "fontId" : 5,
+      "text" : "changes and the suitability of any new individuals or organizations added to the borrower entity "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 559.4147,
+      "rightX" : 539.9949,
+      "topY" : 547.4147,
+      "baseLineY" : 556.6797,
+      "fontId" : 5,
+      "text" : "over time.  All changes must be entered into the MFIS so that the automated system is always up "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 573.2146,
+      "rightX" : 110.34,
+      "topY" : 561.2146,
+      "baseLineY" : 570.4797,
+      "fontId" : 5,
+      "text" : "to date. "
+    }, {
+      "leftX" : 299.34,
+      "bottomY" : 760.4991,
+      "rightX" : 315.165,
+      "topY" : 750.4991,
+      "baseLineY" : 758.22,
+      "fontId" : 1,
+      "text" : "5-4 "
+    }, {
+      "leftX" : 532.8,
+      "bottomY" : 783.9591,
+      "rightX" : 537.83,
+      "topY" : 773.9591,
+      "baseLineY" : 781.68,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 14.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 11.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

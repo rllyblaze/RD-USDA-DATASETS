@@ -1,0 +1,4881 @@
+{
+  "pdfDoc" : "3560-3chapter08.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 122.16,
+      "bottomY" : 95.1179,
+      "rightX" : 493.35,
+      "topY" : 81.1179,
+      "baseLineY" : 91.8,
+      "fontId" : 2,
+      "text" : "CHAPTER 8:  SECURITY RESTRUCTURING REQUESTS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 127.6439,
+      "rightX" : 96,
+      "topY" : 115.6439,
+      "baseLineY" : 124.8,
+      "fontId" : 3,
+      "text" : "8.1   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 127.6439,
+      "rightX" : 207,
+      "topY" : 115.6439,
+      "baseLineY" : 124.8,
+      "fontId" : 3,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.3349,
+      "rightX" : 524.8799,
+      "topY" : 141.3349,
+      "baseLineY" : 150.6,
+      "fontId" : 4,
+      "text" : "During the term of an Agency loan, borrowers may face unexpected expenses or other "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 167.1349,
+      "rightX" : 534.4799,
+      "topY" : 155.1349,
+      "baseLineY" : 164.4,
+      "fontId" : 4,
+      "text" : "financial difficulties that require additional financing from other sources to adequately maintain "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 180.9349,
+      "rightX" : 520.7998,
+      "topY" : 168.9349,
+      "baseLineY" : 178.2,
+      "fontId" : 4,
+      "text" : "and operate the project.  In such cases, the Agency will consider restructuring the borrower’s "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 194.7349,
+      "rightX" : 539.4,
+      "topY" : 182.7349,
+      "baseLineY" : 191.9999,
+      "fontId" : 4,
+      "text" : "security, so long as doing so will not only help the property, but also be in the best interest of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 208.5349,
+      "rightX" : 519.8397,
+      "topY" : 196.5349,
+      "baseLineY" : 205.7999,
+      "fontId" : 4,
+      "text" : "tenants and the Government.  Potential security restructuring activities that may be approved "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 222.3349,
+      "rightX" : 511.9198,
+      "topY" : 210.3349,
+      "baseLineY" : 219.5999,
+      "fontId" : 4,
+      "text" : "include subordinations and junior liens, disposition of security property, leasing of security "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 236.1349,
+      "rightX" : 356.04,
+      "topY" : 224.1349,
+      "baseLineY" : 233.3999,
+      "fontId" : 4,
+      "text" : "property, and other liens against a property or other assets. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 261.9349,
+      "rightX" : 523.1999,
+      "topY" : 249.9349,
+      "baseLineY" : 259.1999,
+      "fontId" : 4,
+      "text" : "This chapter describes the requirements regarding such security restructuring requests "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 275.7348,
+      "rightX" : 401.88,
+      "topY" : 263.7348,
+      "baseLineY" : 272.9999,
+      "fontId" : 4,
+      "text" : "and Agency procedures for reviewing and approving those requests. "
+    }, {
+      "leftX" : 132.24,
+      "bottomY" : 304.0379,
+      "rightX" : 483.2681,
+      "topY" : 290.0379,
+      "baseLineY" : 300.72,
+      "fontId" : 2,
+      "text" : "SECTION 1:  SUBORDINATIONS AND JUNIOR LIENS "
+    }, {
+      "leftX" : 254.037,
+      "bottomY" : 320.0057,
+      "rightX" : 357.9626,
+      "topY" : 306.0057,
+      "baseLineY" : 316.7958,
+      "fontId" : 5,
+      "text" : "[7 CFR 3560.409]"
+    }, {
+      "leftX" : 357.8348,
+      "bottomY" : 320.1137,
+      "rightX" : 361.3448,
+      "topY" : 306.1137,
+      "baseLineY" : 316.7958,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 343.7639,
+      "rightX" : 96,
+      "topY" : 331.7639,
+      "baseLineY" : 340.92,
+      "fontId" : 3,
+      "text" : "8.2   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 343.7639,
+      "rightX" : 179.04,
+      "topY" : 331.7639,
+      "baseLineY" : 340.92,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 367.535,
+      "rightX" : 536.8797,
+      "topY" : 355.535,
+      "baseLineY" : 364.8,
+      "fontId" : 4,
+      "text" : "Borrowers may request a subordination or junior lien for any type of Agency loan.  Prior "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 381.335,
+      "rightX" : 392.2799,
+      "topY" : 369.335,
+      "baseLineY" : 378.6,
+      "fontId" : 4,
+      "text" : "Agency consent is required for all subordinations and junior liens. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 405.095,
+      "rightX" : 509.8798,
+      "topY" : 393.095,
+      "baseLineY" : 402.36,
+      "fontId" : 4,
+      "text" : "Because the requirements and procedures for subordinations and junior liens are so "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 418.895,
+      "rightX" : 539.5199,
+      "topY" : 406.895,
+      "baseLineY" : 416.16,
+      "fontId" : 4,
+      "text" : "similar, they have been combined in this section.  Where necessary, specific differences between "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 432.695,
+      "rightX" : 356.5199,
+      "topY" : 420.695,
+      "baseLineY" : 429.96,
+      "fontId" : 4,
+      "text" : "the requirements and procedures for the two are identified. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 456.5639,
+      "rightX" : 96,
+      "topY" : 444.5639,
+      "baseLineY" : 453.72,
+      "fontId" : 3,
+      "text" : "8.3   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 456.5639,
+      "rightX" : 256.08,
+      "topY" : 444.5639,
+      "baseLineY" : 453.72,
+      "fontId" : 3,
+      "text" : "REQUIRED CONDITIONS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 480.215,
+      "rightX" : 508.9198,
+      "topY" : 468.215,
+      "baseLineY" : 477.48,
+      "fontId" : 4,
+      "text" : "The Leadership Designee may grant consent to subordinations or junior liens if the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 494.015,
+      "rightX" : 542.0397,
+      "topY" : 482.015,
+      "baseLineY" : 491.28,
+      "fontId" : 4,
+      "text" : "borrower adequately documents that the request is consistent with the conditions listed in Exhibit "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 507.815,
+      "rightX" : 93.96,
+      "topY" : 495.815,
+      "baseLineY" : 505.08,
+      "fontId" : 4,
+      "text" : "8-1. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 531.6949,
+      "rightX" : 527.2799,
+      "topY" : 519.6949,
+      "baseLineY" : 528.96,
+      "fontId" : 4,
+      "text" : "If a junior lien is placed on any property without prior Agency consent, the Leadership "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 545.495,
+      "rightX" : 307.2,
+      "topY" : 533.495,
+      "baseLineY" : 542.76,
+      "fontId" : 4,
+      "text" : "Designee may pursue liquidation of the account. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 301.92,
+      "bottomY" : 760.1991,
+      "rightX" : 317.73,
+      "topY" : 750.1991,
+      "baseLineY" : 757.92,
+      "fontId" : 1,
+      "text" : "8-1 "
+    }, {
+      "leftX" : 81.84,
+      "bottomY" : 771.7191,
+      "rightX" : 162.9204,
+      "topY" : 761.7191,
+      "baseLineY" : 769.44,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 276.6,
+      "bottomY" : 86.7239,
+      "rightX" : 336.6,
+      "topY" : 74.7239,
+      "baseLineY" : 83.88,
+      "fontId" : 3,
+      "text" : "Exhibit 8-1 "
+    }, {
+      "leftX" : 160.44,
+      "bottomY" : 106.5239,
+      "rightX" : 452.76,
+      "topY" : 94.5239,
+      "baseLineY" : 103.68,
+      "fontId" : 3,
+      "text" : "Required Conditions for Subordinations or Junior Liens "
+    }, {
+      "leftX" : 82.8,
+      "bottomY" : 131.3355,
+      "rightX" : 87.8784,
+      "topY" : 120.3355,
+      "baseLineY" : 129.36,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 131.979,
+      "rightX" : 90.9091,
+      "topY" : 120.979,
+      "baseLineY" : 129.36,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 131.867,
+      "rightX" : 526.2001,
+      "topY" : 120.867,
+      "baseLineY" : 129.36,
+      "fontId" : 8,
+      "text" : "The action will enable the borrower to obtain credit to make needed improvements or repairs on "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 144.4671,
+      "rightX" : 521.5201,
+      "topY" : 133.4671,
+      "baseLineY" : 141.96,
+      "fontId" : 8,
+      "text" : "the property in circumstances where a loan of the same type involved could be made and funds "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 157.1852,
+      "rightX" : 509.7648,
+      "topY" : 146.1852,
+      "baseLineY" : 154.6781,
+      "fontId" : 8,
+      "text" : "in the reserve account have been depleted.  Repair costs should be reasonable and consistent "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 169.9032,
+      "rightX" : 199.7957,
+      "topY" : 158.9032,
+      "baseLineY" : 167.3962,
+      "fontId" : 8,
+      "text" : "with the local market; "
+    }, {
+      "leftX" : 82.8,
+      "bottomY" : 187.7355,
+      "rightX" : 87.8784,
+      "topY" : 176.7355,
+      "baseLineY" : 185.76,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 188.3791,
+      "rightX" : 90.9091,
+      "topY" : 177.3791,
+      "baseLineY" : 185.76,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 188.2671,
+      "rightX" : 485.76,
+      "topY" : 177.2671,
+      "baseLineY" : 185.76,
+      "fontId" : 8,
+      "text" : "The action will improve the borrower’s total financial condition or debt-paying ability; "
+    }, {
+      "leftX" : 82.8,
+      "bottomY" : 206.2155,
+      "rightX" : 87.8784,
+      "topY" : 195.2155,
+      "baseLineY" : 204.24,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 206.859,
+      "rightX" : 90.9091,
+      "topY" : 195.859,
+      "baseLineY" : 204.24,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 206.747,
+      "rightX" : 526.2,
+      "topY" : 195.747,
+      "baseLineY" : 204.24,
+      "fontId" : 8,
+      "text" : "The borrower is unable to refinance the loan on terms that can reasonably be expected to be met "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 219.4671,
+      "rightX" : 275.519,
+      "topY" : 208.4671,
+      "baseLineY" : 216.96,
+      "fontId" : 8,
+      "text" : "yet still meet the intent of the program; "
+    }, {
+      "leftX" : 82.8,
+      "bottomY" : 237.2955,
+      "rightX" : 87.8784,
+      "topY" : 226.2955,
+      "baseLineY" : 235.32,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 237.9391,
+      "rightX" : 90.9091,
+      "topY" : 226.9391,
+      "baseLineY" : 235.32,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 237.8271,
+      "rightX" : 522.5377,
+      "topY" : 226.8271,
+      "baseLineY" : 235.32,
+      "fontId" : 8,
+      "text" : "The action will not result in an unauthorized rent increase for the project or result in basic rents "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 250.427,
+      "rightX" : 506.3191,
+      "topY" : 239.427,
+      "baseLineY" : 247.92,
+      "fontId" : 8,
+      "text" : "that exceed the Conventional Rents for Comparable Units (CRCU) standard as discussed in "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 263.1451,
+      "rightX" : 214.4458,
+      "topY" : 252.1451,
+      "baseLineY" : 260.6381,
+      "fontId" : 8,
+      "text" : "Chapter 4 of HB-2-3560; "
+    }, {
+      "leftX" : 82.8,
+      "bottomY" : 280.9755,
+      "rightX" : 87.8784,
+      "topY" : 269.9755,
+      "baseLineY" : 279,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 281.619,
+      "rightX" : 90.9091,
+      "topY" : 270.619,
+      "baseLineY" : 279,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 281.5071,
+      "rightX" : 525.6006,
+      "topY" : 270.5071,
+      "baseLineY" : 279,
+      "fontId" : 8,
+      "text" : "The lienholder agrees in writing that foreclosure action under its lien will not be initiated before "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 294.1071,
+      "rightX" : 513.3583,
+      "topY" : 283.1071,
+      "baseLineY" : 291.6,
+      "fontId" : 8,
+      "text" : "holding a discussion with the MFH Servicing official, and after giving a reasonable period of "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 306.8251,
+      "rightX" : 479.4004,
+      "topY" : 295.8251,
+      "baseLineY" : 304.3181,
+      "fontId" : 8,
+      "text" : "notice to the Agency, and certifies that its operating plans are consistent with Agency "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 319.5432,
+      "rightX" : 164.0371,
+      "topY" : 308.5432,
+      "baseLineY" : 317.0362,
+      "fontId" : 8,
+      "text" : "requirements; "
+    }, {
+      "leftX" : 82.8,
+      "bottomY" : 337.3755,
+      "rightX" : 87.8784,
+      "topY" : 326.3755,
+      "baseLineY" : 335.4,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 338.019,
+      "rightX" : 90.9091,
+      "topY" : 327.019,
+      "baseLineY" : 335.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 337.907,
+      "rightX" : 376.8,
+      "topY" : 326.907,
+      "baseLineY" : 335.4,
+      "fontId" : 8,
+      "text" : "Security for the subordination or junior lien appears adequate; "
+    }, {
+      "leftX" : 82.8,
+      "bottomY" : 355.8555,
+      "rightX" : 87.8784,
+      "topY" : 344.8555,
+      "baseLineY" : 353.88,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 356.4991,
+      "rightX" : 90.9091,
+      "topY" : 345.4991,
+      "baseLineY" : 353.88,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 356.3871,
+      "rightX" : 507.48,
+      "topY" : 345.3871,
+      "baseLineY" : 353.88,
+      "fontId" : 8,
+      "text" : "The transaction must further loan objectives and not adversely affect the Agency’s security; "
+    }, {
+      "leftX" : 82.8,
+      "bottomY" : 374.2155,
+      "rightX" : 87.8784,
+      "topY" : 363.2155,
+      "baseLineY" : 372.24,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 374.859,
+      "rightX" : 90.9091,
+      "topY" : 363.859,
+      "baseLineY" : 372.24,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 374.747,
+      "rightX" : 515.0978,
+      "topY" : 363.747,
+      "baseLineY" : 372.24,
+      "fontId" : 8,
+      "text" : "The total debt against the security after the transaction does not exceed the appraised value of "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 387.467,
+      "rightX" : 422.7596,
+      "topY" : 376.467,
+      "baseLineY" : 384.96,
+      "fontId" : 8,
+      "text" : "the property and is within the Leadership Designee’s approval authority; "
+    }, {
+      "leftX" : 82.8,
+      "bottomY" : 405.4155,
+      "rightX" : 87.8784,
+      "topY" : 394.4155,
+      "baseLineY" : 403.44,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 406.0591,
+      "rightX" : 90.9091,
+      "topY" : 395.0591,
+      "baseLineY" : 403.44,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 405.9471,
+      "rightX" : 522.4796,
+      "topY" : 394.9471,
+      "baseLineY" : 403.44,
+      "fontId" : 8,
+      "text" : "There is no future advance clause that would allow the lender to advance additional money and "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 418.6671,
+      "rightX" : 311.8848,
+      "topY" : 407.6671,
+      "baseLineY" : 416.16,
+      "fontId" : 8,
+      "text" : "maintain the security or mortgage position; and "
+    }, {
+      "leftX" : 82.8,
+      "bottomY" : 436.4955,
+      "rightX" : 87.8784,
+      "topY" : 425.4955,
+      "baseLineY" : 434.52,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 87.84,
+      "bottomY" : 437.139,
+      "rightX" : 90.9091,
+      "topY" : 426.139,
+      "baseLineY" : 434.52,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 100.8,
+      "bottomY" : 437.027,
+      "rightX" : 368.04,
+      "topY" : 426.027,
+      "baseLineY" : 434.52,
+      "fontId" : 8,
+      "text" : "All other applicable regulatory requirements have been met. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 455.255,
+      "rightX" : 75,
+      "topY" : 443.255,
+      "baseLineY" : 452.52,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 481.1639,
+      "rightX" : 96,
+      "topY" : 469.1639,
+      "baseLineY" : 478.32,
+      "fontId" : 3,
+      "text" : "8.4   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 481.1639,
+      "rightX" : 504.7191,
+      "topY" : 469.1639,
+      "baseLineY" : 478.32,
+      "fontId" : 3,
+      "text" : "EVALUATING BORROWER REQUESTS FOR SUBORDINATIONS AND "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 494.9639,
+      "rightX" : 196.08,
+      "topY" : 482.9639,
+      "baseLineY" : 492.12,
+      "fontId" : 3,
+      "text" : "JUNIOR LIENS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 520.6549,
+      "rightX" : 506.6398,
+      "topY" : 508.6549,
+      "baseLineY" : 517.9199,
+      "fontId" : 4,
+      "text" : "The Leadership Designee will approve subordinations and junior liens only if they "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 534.4549,
+      "rightX" : 541.4398,
+      "topY" : 522.4549,
+      "baseLineY" : 531.72,
+      "fontId" : 4,
+      "text" : "generally improve a borrower’s financial condition and allow for completion of improvements or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 548.2549,
+      "rightX" : 541.8,
+      "topY" : 536.2549,
+      "baseLineY" : 545.52,
+      "fontId" : 4,
+      "text" : "repairs in cases of underfunded reserve accounts. MFH Servicing officials need to ensure that the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 562.0549,
+      "rightX" : 521.0398,
+      "topY" : 550.0549,
+      "baseLineY" : 559.3199,
+      "fontId" : 4,
+      "text" : "request does not alter project operations to make it ineligible under Agency requirements.  In "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 575.8549,
+      "rightX" : 518.7598,
+      "topY" : 563.8549,
+      "baseLineY" : 573.1199,
+      "fontId" : 4,
+      "text" : "addition, the subordination must not adversely affect the Agency’s ability to service the loan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 589.6549,
+      "rightX" : 511.3198,
+      "topY" : 577.6549,
+      "baseLineY" : 586.9199,
+      "fontId" : 4,
+      "text" : "according to program regulations, and must be determined to be within the bounds of good "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 603.4549,
+      "rightX" : 531.9598,
+      "topY" : 591.4549,
+      "baseLineY" : 600.72,
+      "fontId" : 4,
+      "text" : "judgment considering the intent, funding limitations, and respective program authorities. When "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 617.2549,
+      "rightX" : 520.3199,
+      "topY" : 605.2549,
+      "baseLineY" : 614.52,
+      "fontId" : 4,
+      "text" : "evaluating borrower requests for subordinations or junior liens, MFH Servicing officials will "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 631.0549,
+      "rightX" : 492.6,
+      "topY" : 619.0549,
+      "baseLineY" : 628.3199,
+      "fontId" : 4,
+      "text" : "review the request and check that the requirements listed in Exhibit 8-2 have been met. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 653.855,
+      "rightX" : 485.8799,
+      "topY" : 641.855,
+      "baseLineY" : 651.12,
+      "fontId" : 4,
+      "text" : "In most cases, the Agency will not require an appraisal of the property when a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 667.6549,
+      "rightX" : 519.5999,
+      "topY" : 655.6549,
+      "baseLineY" : 664.92,
+      "fontId" : 4,
+      "text" : "subordination or junior lien is proposed.  For subordinations, the Agency needs to look more "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 681.4549,
+      "rightX" : 491.7599,
+      "topY" : 669.4549,
+      "baseLineY" : 678.72,
+      "fontId" : 4,
+      "text" : "closely at the amount of non–Agency debt being assumed and to determine whether its "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 695.2549,
+      "rightX" : 534.24,
+      "topY" : 683.2549,
+      "baseLineY" : 692.52,
+      "fontId" : 4,
+      "text" : "secondary lien position is sufficient security for the remaining outstanding debt.  In some cases, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 709.0549,
+      "rightX" : 502.4398,
+      "topY" : 697.0549,
+      "baseLineY" : 706.3199,
+      "fontId" : 4,
+      "text" : "this determination may require an appraisal.  For junior liens, appraisals are almost never "
+    }, {
+      "leftX" : 79.2,
+      "bottomY" : 762.2392,
+      "rightX" : 531.69,
+      "topY" : 752.2392,
+      "baseLineY" : 759.96,
+      "fontId" : 1,
+      "text" : "__________________________________________________________________________________________ "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 773.7591,
+      "rightX" : 315.0865,
+      "topY" : 763.7591,
+      "baseLineY" : 771.48,
+      "fontId" : 1,
+      "text" : "8-2 "
+    }, {
+      "leftX" : 532.8,
+      "bottomY" : 797.2791,
+      "rightX" : 537.81,
+      "topY" : 787.2791,
+      "baseLineY" : 795,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 85.8949,
+      "rightX" : 542.1597,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "required, provided project budgets demonstrate that the project has a sufficient income to support "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.6949,
+      "rightX" : 536.1563,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : "the increased debt.  Appraisals are unnecessary in such cases because the Agency retains its lien "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 113.4949,
+      "rightX" : 533.1599,
+      "topY" : 101.4949,
+      "baseLineY" : 110.7599,
+      "fontId" : 4,
+      "text" : "position.  In either case, the Agency needs to determine whether projects are still in compliance "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 127.2949,
+      "rightX" : 532.1997,
+      "topY" : 115.2949,
+      "baseLineY" : 124.5599,
+      "fontId" : 4,
+      "text" : "with the conventional rents for comparable units standard following the subordination or junior "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 141.0949,
+      "rightX" : 425.52,
+      "topY" : 129.0949,
+      "baseLineY" : 138.3599,
+      "fontId" : 4,
+      "text" : "lien.  The Leadership Designee decides when appraisals will be required. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 163.8949,
+      "rightX" : 537.8396,
+      "topY" : 151.8949,
+      "baseLineY" : 161.1599,
+      "fontId" : 4,
+      "text" : "All requests for consent to subordinations or junior liens that do not satisfy the criteria of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 177.6949,
+      "rightX" : 522.8398,
+      "topY" : 165.6949,
+      "baseLineY" : 174.9599,
+      "fontId" : 4,
+      "text" : "Exhibit 8-2 must be submitted to the Agency with complete comments and recommendations "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 191.4949,
+      "rightX" : 528.3599,
+      "topY" : 179.4949,
+      "baseLineY" : 188.7599,
+      "fontId" : 4,
+      "text" : "from both the MFH Servicing official and Leadership Designee, and all of the borrower’s case "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 205.2948,
+      "rightX" : 483.7199,
+      "topY" : 193.2948,
+      "baseLineY" : 202.5599,
+      "fontId" : 4,
+      "text" : "files.  The Agency will review such requests on a case-by-case basis, and appropriate "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 219.0948,
+      "rightX" : 536.7599,
+      "topY" : 207.0948,
+      "baseLineY" : 216.3599,
+      "fontId" : 4,
+      "text" : "authorization will be granted or withheld depending on the individual merits of the proposal and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 232.8948,
+      "rightX" : 290.04,
+      "topY" : 220.8948,
+      "baseLineY" : 230.1599,
+      "fontId" : 4,
+      "text" : "its compatibility with program requirements. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 255.6948,
+      "rightX" : 534.8398,
+      "topY" : 243.6948,
+      "baseLineY" : 252.9598,
+      "fontId" : 4,
+      "text" : "MFH Servicing officials should follow the procedures in Paragraph 8.5 when evaluating "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 269.4948,
+      "rightX" : 144.96,
+      "topY" : 257.4948,
+      "baseLineY" : 266.7598,
+      "fontId" : 4,
+      "text" : "these requests. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 292.2948,
+      "rightX" : 129,
+      "topY" : 280.2948,
+      "baseLineY" : 289.5598,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 760.1991,
+      "rightX" : 315.09,
+      "topY" : 750.1991,
+      "baseLineY" : 757.92,
+      "fontId" : 1,
+      "text" : "8-3 "
+    }, {
+      "leftX" : 79.2,
+      "bottomY" : 771.7191,
+      "rightX" : 160.2804,
+      "topY" : 761.7191,
+      "baseLineY" : 769.44,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 276.6,
+      "bottomY" : 86.7239,
+      "rightX" : 336.6,
+      "topY" : 74.7239,
+      "baseLineY" : 83.88,
+      "fontId" : 3,
+      "text" : "Exhibit 8-2 "
+    }, {
+      "leftX" : 149.04,
+      "bottomY" : 106.5239,
+      "rightX" : 464.04,
+      "topY" : 94.5239,
+      "baseLineY" : 103.68,
+      "fontId" : 3,
+      "text" : "Required Documentation for Subordinations or Junior Liens "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 131.0271,
+      "rightX" : 520.5552,
+      "topY" : 120.0271,
+      "baseLineY" : 128.52,
+      "fontId" : 8,
+      "text" : "MFH Servicing officials may approve borrower requests only if they adequately document that the "
+    }, {
+      "leftX" : 83.04,
+      "bottomY" : 143.867,
+      "rightX" : 278.2824,
+      "topY" : 132.867,
+      "baseLineY" : 141.36,
+      "fontId" : 8,
+      "text" : "following requirements have been satisfied: "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 159.6555,
+      "rightX" : 98.9184,
+      "topY" : 148.6555,
+      "baseLineY" : 157.68,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 160.299,
+      "rightX" : 101.9491,
+      "topY" : 149.299,
+      "baseLineY" : 157.68,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 160.187,
+      "rightX" : 242.88,
+      "topY" : 149.187,
+      "baseLineY" : 157.68,
+      "fontId" : 8,
+      "text" : "The account must be current; "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 176.0955,
+      "rightX" : 98.9184,
+      "topY" : 165.0955,
+      "baseLineY" : 174.12,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 176.739,
+      "rightX" : 101.9491,
+      "topY" : 165.739,
+      "baseLineY" : 174.12,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 176.627,
+      "rightX" : 280.44,
+      "topY" : 165.627,
+      "baseLineY" : 174.12,
+      "fontId" : 8,
+      "text" : "The debt must be adequately secured; "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 192.5355,
+      "rightX" : 98.9184,
+      "topY" : 181.5355,
+      "baseLineY" : 190.56,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 193.179,
+      "rightX" : 101.9491,
+      "topY" : 182.179,
+      "baseLineY" : 190.56,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 193.0671,
+      "rightX" : 339.12,
+      "topY" : 182.0671,
+      "baseLineY" : 190.56,
+      "fontId" : 8,
+      "text" : "The borrower must provide adequate management; "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 208.9755,
+      "rightX" : 98.9184,
+      "topY" : 197.9755,
+      "baseLineY" : 207,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 209.619,
+      "rightX" : 101.9491,
+      "topY" : 198.619,
+      "baseLineY" : 207,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 209.5071,
+      "rightX" : 514.5601,
+      "topY" : 198.5071,
+      "baseLineY" : 207,
+      "fontId" : 8,
+      "text" : "The terms and conditions of the prior lien or junior lien must be such that the borrower can "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 222.227,
+      "rightX" : 390.9643,
+      "topY" : 211.227,
+      "baseLineY" : 219.72,
+      "fontId" : 8,
+      "text" : "reasonably be expected to meet them as well as all other debts; "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 238.0155,
+      "rightX" : 98.9184,
+      "topY" : 227.0155,
+      "baseLineY" : 236.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 238.659,
+      "rightX" : 101.9491,
+      "topY" : 227.659,
+      "baseLineY" : 236.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 238.547,
+      "rightX" : 494.631,
+      "topY" : 227.547,
+      "baseLineY" : 236.04,
+      "fontId" : 8,
+      "text" : "The proposed use of funds must not adversely affect the borrower’s ability to meet the "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 251.1471,
+      "rightX" : 527.1605,
+      "topY" : 240.1471,
+      "baseLineY" : 248.64,
+      "fontId" : 8,
+      "text" : "objectives of the program.  Indeed, it must improve the borrower’s ability to repay the loan or "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 263.9866,
+      "rightX" : 397.4448,
+      "topY" : 252.9866,
+      "baseLineY" : 261.4796,
+      "fontId" : 8,
+      "text" : "be necessary to place the borrower’s operation on a sound basis; "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 279.7755,
+      "rightX" : 98.9184,
+      "topY" : 268.7755,
+      "baseLineY" : 277.8,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 280.419,
+      "rightX" : 101.9491,
+      "topY" : 269.419,
+      "baseLineY" : 277.8,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 280.307,
+      "rightX" : 504.12,
+      "topY" : 269.307,
+      "baseLineY" : 277.8,
+      "fontId" : 8,
+      "text" : "Any proposed development must be planned and performed according to RD Instruction "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 292.907,
+      "rightX" : 499.4391,
+      "topY" : 281.907,
+      "baseLineY" : 290.4,
+      "fontId" : 8,
+      "text" : "1924-A, or in a manner directed by the other lienholder that meets the objectives of RD "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 305.7466,
+      "rightX" : 201.7166,
+      "topY" : 294.7466,
+      "baseLineY" : 303.2395,
+      "fontId" : 8,
+      "text" : "Instruction 1924-A; "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 321.5355,
+      "rightX" : 98.9184,
+      "topY" : 310.5355,
+      "baseLineY" : 319.56,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 322.179,
+      "rightX" : 101.9491,
+      "topY" : 311.179,
+      "baseLineY" : 319.56,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 322.0671,
+      "rightX" : 503.8804,
+      "topY" : 311.0671,
+      "baseLineY" : 319.56,
+      "fontId" : 8,
+      "text" : "Funds to be used for development or enlargement of farm operations must be handled as "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 334.6671,
+      "rightX" : 504.2655,
+      "topY" : 323.6671,
+      "baseLineY" : 332.16,
+      "fontId" : 8,
+      "text" : "prescribed for loan funds in RD Instruction 1902-A, except that if the lienholder will not "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 347.2637,
+      "rightX" : 525.3543,
+      "topY" : 336.2637,
+      "baseLineY" : 344.7567,
+      "fontId" : 8,
+      "text" : "permit the use of a supervised bank account, arrangements must be made to ensure that funds "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 359.9818,
+      "rightX" : 490.4403,
+      "topY" : 348.9818,
+      "baseLineY" : 357.4747,
+      "fontId" : 8,
+      "text" : "will be spent for planned purposes and must be approved by the Agency before being "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 372.6999,
+      "rightX" : 153.7147,
+      "topY" : 361.6999,
+      "baseLineY" : 370.1928,
+      "fontId" : 8,
+      "text" : "released; "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 388.6155,
+      "rightX" : 98.9184,
+      "topY" : 377.6155,
+      "baseLineY" : 386.64,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 389.2591,
+      "rightX" : 101.9491,
+      "topY" : 378.2591,
+      "baseLineY" : 386.64,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 389.1791,
+      "rightX" : 196.92,
+      "topY" : 378.1791,
+      "baseLineY" : 386.64,
+      "fontId" : 9,
+      "text" : "Form FEMA 81-93"
+    }, {
+      "leftX" : 196.92,
+      "bottomY" : 389.1471,
+      "rightX" : 288.36,
+      "topY" : 378.1471,
+      "baseLineY" : 386.64,
+      "fontId" : 8,
+      "text" : " must be completed; "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 405.0555,
+      "rightX" : 98.9184,
+      "topY" : 394.0555,
+      "baseLineY" : 403.08,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 405.699,
+      "rightX" : 101.9491,
+      "topY" : 394.699,
+      "baseLineY" : 403.08,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 405.587,
+      "rightX" : 378.36,
+      "topY" : 394.587,
+      "baseLineY" : 403.08,
+      "fontId" : 8,
+      "text" : "Subordinations or junior liens need not cover the entire site; "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 421.4955,
+      "rightX" : 98.9184,
+      "topY" : 410.4955,
+      "baseLineY" : 419.52,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 422.139,
+      "rightX" : 101.9491,
+      "topY" : 411.139,
+      "baseLineY" : 419.52,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 422.027,
+      "rightX" : 381.96,
+      "topY" : 411.027,
+      "baseLineY" : 419.52,
+      "fontId" : 8,
+      "text" : "Subordinations or junior liens must be for a specific amount; "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 437.9355,
+      "rightX" : 98.9184,
+      "topY" : 426.9355,
+      "baseLineY" : 435.96,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 438.579,
+      "rightX" : 101.9491,
+      "topY" : 427.579,
+      "baseLineY" : 435.96,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 438.467,
+      "rightX" : 512.8803,
+      "topY" : 427.467,
+      "baseLineY" : 435.96,
+      "fontId" : 8,
+      "text" : "Subordinations or junior liens must not adversely affect the Agency’s ability to service the "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 451.187,
+      "rightX" : 339.4848,
+      "topY" : 440.187,
+      "baseLineY" : 448.68,
+      "fontId" : 8,
+      "text" : "loan according to the requirements of this part; and "
+    }, {
+      "leftX" : 93.84,
+      "bottomY" : 466.9755,
+      "rightX" : 98.9184,
+      "topY" : 455.9755,
+      "baseLineY" : 465,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 98.88,
+      "bottomY" : 467.619,
+      "rightX" : 101.9491,
+      "topY" : 456.619,
+      "baseLineY" : 465,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 467.5071,
+      "rightX" : 523.4401,
+      "topY" : 456.5071,
+      "baseLineY" : 465,
+      "fontId" : 8,
+      "text" : "New prior or junior lienholders must agree to provide notice of foreclosure to the Agency, as "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 480.1071,
+      "rightX" : 513.1253,
+      "topY" : 469.1071,
+      "baseLineY" : 477.6,
+      "fontId" : 8,
+      "text" : "required in RD Instruction 1927-B.  Any junior lienholder’s consent to the foreclosure and "
+    }, {
+      "leftX" : 111.84,
+      "bottomY" : 492.8251,
+      "rightX" : 416.4005,
+      "topY" : 481.8251,
+      "baseLineY" : 490.3181,
+      "fontId" : 8,
+      "text" : "use of proceeds will be obtained prior to approval of the foreclosure. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 514.1639,
+      "rightX" : 75,
+      "topY" : 502.1639,
+      "baseLineY" : 511.32,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 536.9639,
+      "rightX" : 96,
+      "topY" : 524.9639,
+      "baseLineY" : 534.12,
+      "fontId" : 3,
+      "text" : "8.5   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 536.9639,
+      "rightX" : 539.6392,
+      "topY" : 524.9639,
+      "baseLineY" : 534.12,
+      "fontId" : 3,
+      "text" : "PROCEDURES FOR AUTHORIZATION OF SUBORDINATIONS AND JUNIOR "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 550.7639,
+      "rightX" : 147,
+      "topY" : 538.7639,
+      "baseLineY" : 547.92,
+      "fontId" : 3,
+      "text" : "LIENS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 573.5639,
+      "rightX" : 227.64,
+      "topY" : 561.5639,
+      "baseLineY" : 570.72,
+      "fontId" : 3,
+      "text" : "A.  Borrower Requests "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 599.255,
+      "rightX" : 485.3998,
+      "topY" : 587.255,
+      "baseLineY" : 596.52,
+      "fontId" : 4,
+      "text" : "MFH Servicing officials should instruct the borrower that each request for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 613.055,
+      "rightX" : 357.9599,
+      "topY" : 601.055,
+      "baseLineY" : 610.32,
+      "fontId" : 4,
+      "text" : "subordinations or junior liens must be submitted on "
+    }, {
+      "leftX" : 357.9599,
+      "bottomY" : 613.0899,
+      "rightX" : 443.52,
+      "topY" : 601.0899,
+      "baseLineY" : 610.32,
+      "fontId" : 10,
+      "text" : "Form RD 3560-1,"
+    }, {
+      "leftX" : 443.52,
+      "bottomY" : 613.055,
+      "rightX" : 541.08,
+      "topY" : 601.055,
+      "baseLineY" : 610.32,
+      "fontId" : 4,
+      "text" : " and provide a copy "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 626.855,
+      "rightX" : 238.32,
+      "topY" : 614.855,
+      "baseLineY" : 624.12,
+      "fontId" : 4,
+      "text" : "of the form to the Agency. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 652.764,
+      "rightX" : 284.64,
+      "topY" : 640.764,
+      "baseLineY" : 649.92,
+      "fontId" : 3,
+      "text" : "B.  Processing Borrower Requests "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 678.455,
+      "rightX" : 542.5198,
+      "topY" : 666.455,
+      "baseLineY" : 675.72,
+      "fontId" : 4,
+      "text" : "Upon receipt of the completed form, MFH Servicing officials will make a preliminary "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 692.255,
+      "rightX" : 542.6398,
+      "topY" : 680.255,
+      "baseLineY" : 689.52,
+      "fontId" : 4,
+      "text" : "feasibility determination regarding the request.  Key areas that the Agency will analyze as "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 706.055,
+      "rightX" : 274.32,
+      "topY" : 694.055,
+      "baseLineY" : 703.32,
+      "fontId" : 4,
+      "text" : "part of this determination include: "
+    }, {
+      "leftX" : 91.2,
+      "bottomY" : 752.7591,
+      "rightX" : 543.69,
+      "topY" : 742.7591,
+      "baseLineY" : 750.48,
+      "fontId" : 1,
+      "text" : "__________________________________________________________________________________________ "
+    }, {
+      "leftX" : 311.28,
+      "bottomY" : 764.2791,
+      "rightX" : 327.0865,
+      "topY" : 754.2791,
+      "baseLineY" : 762,
+      "fontId" : 1,
+      "text" : "8-4 "
+    }, {
+      "leftX" : 318,
+      "bottomY" : 787.6792,
+      "rightX" : 320.49,
+      "topY" : 777.6792,
+      "baseLineY" : 785.4,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.2751,
+      "rightX" : 113.52,
+      "topY" : 74.2751,
+      "baseLineY" : 84.12,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.9771,
+      "rightX" : 116.856,
+      "topY" : 74.9771,
+      "baseLineY" : 84.12,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.855,
+      "rightX" : 209.04,
+      "topY" : 74.855,
+      "baseLineY" : 84.12,
+      "fontId" : 4,
+      "text" : "Rates and terms; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 112.9151,
+      "rightX" : 113.52,
+      "topY" : 100.9151,
+      "baseLineY" : 110.76,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 113.6172,
+      "rightX" : 116.856,
+      "topY" : 101.6172,
+      "baseLineY" : 110.76,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 113.495,
+      "rightX" : 290.28,
+      "topY" : 101.495,
+      "baseLineY" : 110.76,
+      "fontId" : 4,
+      "text" : "Post-restructuring project budget; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.5551,
+      "rightX" : 113.52,
+      "topY" : 127.5551,
+      "baseLineY" : 137.4,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 140.2572,
+      "rightX" : 116.856,
+      "topY" : 128.2572,
+      "baseLineY" : 137.4,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 140.135,
+      "rightX" : 352.2,
+      "topY" : 128.135,
+      "baseLineY" : 137.4,
+      "fontId" : 4,
+      "text" : "Current compliance status of the property; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.3151,
+      "rightX" : 113.52,
+      "topY" : 154.3151,
+      "baseLineY" : 164.16,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 167.0172,
+      "rightX" : 116.856,
+      "topY" : 155.0172,
+      "baseLineY" : 164.16,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 166.895,
+      "rightX" : 299.04,
+      "topY" : 154.895,
+      "baseLineY" : 164.16,
+      "fontId" : 4,
+      "text" : "Capacity (for nonprofit borrowers). "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 192.575,
+      "rightX" : 541.6798,
+      "topY" : 180.575,
+      "baseLineY" : 189.84,
+      "fontId" : 4,
+      "text" : "If MFH Servicing officials discover violations at the property, the request must not be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 206.375,
+      "rightX" : 401.64,
+      "topY" : 194.375,
+      "baseLineY" : 203.64,
+      "fontId" : 4,
+      "text" : "approved without an Agency-approved work-out agreement. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.2839,
+      "rightX" : 345.6,
+      "topY" : 220.2839,
+      "baseLineY" : 229.44,
+      "fontId" : 3,
+      "text" : "C.  Recommendations to Leadership Designee "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 257.975,
+      "rightX" : 542.7598,
+      "topY" : 245.975,
+      "baseLineY" : 255.24,
+      "fontId" : 4,
+      "text" : "If there are no violations at the property and all other applicable criteria are met, MFH "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 271.7749,
+      "rightX" : 450.3599,
+      "topY" : 259.7749,
+      "baseLineY" : 269.04,
+      "fontId" : 4,
+      "text" : "Servicing officials forward a properly completed and executed copy of "
+    }, {
+      "leftX" : 450.48,
+      "bottomY" : 271.8099,
+      "rightX" : 533.16,
+      "topY" : 259.8099,
+      "baseLineY" : 269.04,
+      "fontId" : 10,
+      "text" : "Form RD 3560-1"
+    }, {
+      "leftX" : 533.16,
+      "bottomY" : 271.7749,
+      "rightX" : 536.16,
+      "topY" : 259.7749,
+      "baseLineY" : 269.04,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 285.5749,
+      "rightX" : 324.24,
+      "topY" : 273.5749,
+      "baseLineY" : 282.84,
+      "fontId" : 4,
+      "text" : "to the Leadership Designee.  Accompanying "
+    }, {
+      "leftX" : 324.24,
+      "bottomY" : 285.6099,
+      "rightX" : 406.92,
+      "topY" : 273.6099,
+      "baseLineY" : 282.84,
+      "fontId" : 10,
+      "text" : "Form RD 3560-1"
+    }, {
+      "leftX" : 406.92,
+      "bottomY" : 285.5749,
+      "rightX" : 500.64,
+      "topY" : 273.5749,
+      "baseLineY" : 282.84,
+      "fontId" : 4,
+      "text" : " should be a memo "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 299.3749,
+      "rightX" : 507.4798,
+      "topY" : 287.3749,
+      "baseLineY" : 296.64,
+      "fontId" : 4,
+      "text" : "containing all information needed to justify approval or disapproval of the request, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 313.1749,
+      "rightX" : 523.4399,
+      "topY" : 301.1749,
+      "baseLineY" : 310.4399,
+      "fontId" : 4,
+      "text" : "including an agreement from any new prior lienholder to provide the Agency advance "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 326.9749,
+      "rightX" : 522.3599,
+      "topY" : 314.9749,
+      "baseLineY" : 324.2399,
+      "fontId" : 4,
+      "text" : "notice of foreclosure.  As appropriate, MFH Servicing officials will also obtain junior "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 340.7749,
+      "rightX" : 499.7999,
+      "topY" : 328.7749,
+      "baseLineY" : 338.0399,
+      "fontId" : 4,
+      "text" : "lienholder consent to any transaction and use of proceeds prior to approval of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 354.5749,
+      "rightX" : 529.6799,
+      "topY" : 342.5749,
+      "baseLineY" : 351.8399,
+      "fontId" : 4,
+      "text" : "transaction.  When all required documentation has been assembled, the MFH Servicing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 368.3749,
+      "rightX" : 539.52,
+      "topY" : 356.3749,
+      "baseLineY" : 365.6399,
+      "fontId" : 4,
+      "text" : "official will forward the subordination and junior lien request to the Leadership Designee "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 382.1748,
+      "rightX" : 163.68,
+      "topY" : 370.1748,
+      "baseLineY" : 379.4399,
+      "fontId" : 4,
+      "text" : "for review. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 408.0838,
+      "rightX" : 201.72,
+      "topY" : 396.0838,
+      "baseLineY" : 405.2399,
+      "fontId" : 3,
+      "text" : "D.  Final Decision "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 433.7748,
+      "rightX" : 531.2399,
+      "topY" : 421.7748,
+      "baseLineY" : 431.0399,
+      "fontId" : 4,
+      "text" : "If the Leadership Designee agrees with the MFH Servicing official’s determination, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 447.5748,
+      "rightX" : 501.7198,
+      "topY" : 435.5748,
+      "baseLineY" : 444.8398,
+      "fontId" : 4,
+      "text" : "they will forward the subordination or junior lien request to the Office of General "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 461.3748,
+      "rightX" : 507.8399,
+      "topY" : 449.3748,
+      "baseLineY" : 458.6398,
+      "fontId" : 4,
+      "text" : "Counsel (OGC) for review of legal sufficiency and closing comments.  After OGC "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 475.0548,
+      "rightX" : 520.2,
+      "topY" : 463.0548,
+      "baseLineY" : 472.3198,
+      "fontId" : 4,
+      "text" : "review, the closing process will begin.  The Leadership Designee should obtain OGC "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 488.8548,
+      "rightX" : 491.8798,
+      "topY" : 476.8548,
+      "baseLineY" : 486.1198,
+      "fontId" : 4,
+      "text" : "guidance in the preparation of documents necessary to effect the subordination. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 514.6548,
+      "rightX" : 510.4798,
+      "topY" : 502.6548,
+      "baseLineY" : 511.9198,
+      "fontId" : 4,
+      "text" : "All subordination and junior lien requests exceeding the Leadership Designee’s "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 528.4548,
+      "rightX" : 474.6011,
+      "topY" : 516.4548,
+      "baseLineY" : 525.7198,
+      "fontId" : 4,
+      "text" : "approval authority limit must be submitted to the Agency for prior approval "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 542.2547,
+      "rightX" : 177.36,
+      "topY" : 530.2547,
+      "baseLineY" : 539.5198,
+      "fontId" : 4,
+      "text" : "authorization. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 568.1638,
+      "rightX" : 239.64,
+      "topY" : 556.1638,
+      "baseLineY" : 565.3198,
+      "fontId" : 3,
+      "text" : "E.  Appraisal Procedures "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 593.8548,
+      "rightX" : 533.7587,
+      "topY" : 581.8548,
+      "baseLineY" : 591.1198,
+      "fontId" : 4,
+      "text" : "The Leadership Designee may request an appraisal at any time deemed appropriate.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 607.6548,
+      "rightX" : 509.2797,
+      "topY" : 595.6548,
+      "baseLineY" : 604.9198,
+      "fontId" : 4,
+      "text" : "As stated in Paragraph 8.4, most subordinations and junior liens will not require an "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 621.4548,
+      "rightX" : 523.1973,
+      "topY" : 609.4548,
+      "baseLineY" : 618.7198,
+      "fontId" : 4,
+      "text" : "appraisal.  If an appraisal is deemed necessary, an Agency official authorized to make "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 635.2547,
+      "rightX" : 539.7598,
+      "topY" : 623.2547,
+      "baseLineY" : 632.5198,
+      "fontId" : 4,
+      "text" : "appraisals for the type of project involved will prepare an appraisal report.  Alternatively, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 649.0548,
+      "rightX" : 521.0399,
+      "topY" : 637.0548,
+      "baseLineY" : 646.3198,
+      "fontId" : 4,
+      "text" : "the new creditor may perform the appraisal as part of the due diligence process.  If an "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 662.8548,
+      "rightX" : 503.8799,
+      "topY" : 650.8548,
+      "baseLineY" : 660.1198,
+      "fontId" : 4,
+      "text" : "appraisal that is less than one year old is available, it may be used in lieu of a new "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 676.6548,
+      "rightX" : 157.32,
+      "topY" : 664.6548,
+      "baseLineY" : 673.9198,
+      "fontId" : 4,
+      "text" : "appraisal. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 299.64,
+      "bottomY" : 760.5592,
+      "rightX" : 315.45,
+      "topY" : 750.5592,
+      "baseLineY" : 758.28,
+      "fontId" : 1,
+      "text" : "8-5 "
+    }, {
+      "leftX" : 79.56,
+      "bottomY" : 772.0791,
+      "rightX" : 160.6404,
+      "topY" : 762.0791,
+      "baseLineY" : 769.8,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 86.0039,
+      "rightX" : 96,
+      "topY" : 74.0039,
+      "baseLineY" : 83.16,
+      "fontId" : 3,
+      "text" : "8.6   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.0039,
+      "rightX" : 320.76,
+      "topY" : 74.0039,
+      "baseLineY" : 83.16,
+      "fontId" : 3,
+      "text" : "POST-APPROVAL OF JUNIOR LIENS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 111.6949,
+      "rightX" : 509.2798,
+      "topY" : 99.6949,
+      "baseLineY" : 108.96,
+      "fontId" : 4,
+      "text" : "Sometimes a borrower will obtain additional credit (e.g., a personal loan) using the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 125.4949,
+      "rightX" : 532.9199,
+      "topY" : 113.4949,
+      "baseLineY" : 122.7599,
+      "fontId" : 4,
+      "text" : "project as security for that credit, despite the Agency’s requirements that prohibit such actions.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 139.2949,
+      "rightX" : 536.9999,
+      "topY" : 127.2949,
+      "baseLineY" : 136.5599,
+      "fontId" : 4,
+      "text" : "In effect, that loan functions as a junior lien on the property. When a junior lien is placed on any "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 153.0949,
+      "rightX" : 514.3199,
+      "topY" : 141.0949,
+      "baseLineY" : 150.3599,
+      "fontId" : 4,
+      "text" : "property without the prior consent of the Agency, the MFH Servicing official will normally "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 166.8949,
+      "rightX" : 377.64,
+      "topY" : 154.8949,
+      "baseLineY" : 164.1599,
+      "fontId" : 4,
+      "text" : "service the account for liquidation with the guidance of OGC.   "
+    }, {
+      "leftX" : 303.36,
+      "bottomY" : 746.0391,
+      "rightX" : 319.1665,
+      "topY" : 736.0391,
+      "baseLineY" : 743.76,
+      "fontId" : 1,
+      "text" : "8-6 "
+    }, {
+      "leftX" : 536.88,
+      "bottomY" : 769.4391,
+      "rightX" : 541.89,
+      "topY" : 759.4391,
+      "baseLineY" : 767.16,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 96.72,
+      "bottomY" : 88.3979,
+      "rightX" : 522.1757,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 2,
+      "text" : "SECTION 2:  PARTIAL DISPOSITION OF SECURITY PROPERTY  "
+    }, {
+      "leftX" : 254.0382,
+      "bottomY" : 104.3657,
+      "rightX" : 357.9651,
+      "topY" : 90.3657,
+      "baseLineY" : 101.1558,
+      "fontId" : 5,
+      "text" : "[7 CFR 3560.407]"
+    }, {
+      "leftX" : 357.8359,
+      "bottomY" : 104.4737,
+      "rightX" : 361.3459,
+      "topY" : 90.4737,
+      "baseLineY" : 101.1558,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 130.1639,
+      "rightX" : 96,
+      "topY" : 118.1639,
+      "baseLineY" : 127.32,
+      "fontId" : 3,
+      "text" : "8.7   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 130.1639,
+      "rightX" : 179.04,
+      "topY" : 118.1639,
+      "baseLineY" : 127.32,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 155.855,
+      "rightX" : 537.4798,
+      "topY" : 143.855,
+      "baseLineY" : 153.12,
+      "fontId" : 4,
+      "text" : "Borrowers may also request Agency approval of the sale of a portion of an interest in the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 169.6549,
+      "rightX" : 525.3599,
+      "topY" : 157.6549,
+      "baseLineY" : 166.92,
+      "fontId" : 4,
+      "text" : "security property under certain circumstances.  The borrower may use the proceeds from such "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.4549,
+      "rightX" : 539.1598,
+      "topY" : 171.4549,
+      "baseLineY" : 180.72,
+      "fontId" : 4,
+      "text" : "sale in accordance with Exhibit 8-3.  Alternatively, a borrower could grant a conveyance or right "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.2549,
+      "rightX" : 520.1998,
+      "topY" : 185.2549,
+      "baseLineY" : 194.52,
+      "fontId" : 4,
+      "text" : "of way easement, among other actions.  This section addresses each of these options, and the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 211.0549,
+      "rightX" : 362.04,
+      "topY" : 199.0549,
+      "baseLineY" : 208.3199,
+      "fontId" : 4,
+      "text" : "Agency’s procedures for reviewing and approving requests. "
+    }, {
+      "leftX" : 276.6,
+      "bottomY" : 237.804,
+      "rightX" : 336.6,
+      "topY" : 225.804,
+      "baseLineY" : 234.96,
+      "fontId" : 3,
+      "text" : "Exhibit 8-3 "
+    }, {
+      "leftX" : 134.4,
+      "bottomY" : 257.4839,
+      "rightX" : 478.68,
+      "topY" : 245.4839,
+      "baseLineY" : 254.64,
+      "fontId" : 3,
+      "text" : "Allowable Uses for Proceeds from Disposition of Security Property "
+    }, {
+      "leftX" : 98.52,
+      "bottomY" : 282.2955,
+      "rightX" : 103.5984,
+      "topY" : 271.2955,
+      "baseLineY" : 280.32,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 103.56,
+      "bottomY" : 282.9391,
+      "rightX" : 106.6291,
+      "topY" : 271.9391,
+      "baseLineY" : 280.32,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 116.52,
+      "bottomY" : 282.8271,
+      "rightX" : 507.1198,
+      "topY" : 271.8271,
+      "baseLineY" : 280.32,
+      "fontId" : 8,
+      "text" : "To pay customary incidental closing costs such as title and recording fees appropriate to "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 295.4271,
+      "rightX" : 510.9441,
+      "topY" : 284.4271,
+      "baseLineY" : 292.92,
+      "fontId" : 8,
+      "text" : "the transaction, including additional real estate tax the borrower is required to pay for the "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 308.2666,
+      "rightX" : 390.3619,
+      "topY" : 297.2666,
+      "baseLineY" : 305.7595,
+      "fontId" : 8,
+      "text" : "year for which alternate arrangements to pay cannot be made; "
+    }, {
+      "leftX" : 98.52,
+      "bottomY" : 327.0555,
+      "rightX" : 103.5984,
+      "topY" : 316.0555,
+      "baseLineY" : 325.08,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 103.56,
+      "bottomY" : 327.699,
+      "rightX" : 106.6291,
+      "topY" : 316.699,
+      "baseLineY" : 325.08,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 116.52,
+      "bottomY" : 327.587,
+      "rightX" : 311.4,
+      "topY" : 316.587,
+      "baseLineY" : 325.08,
+      "fontId" : 8,
+      "text" : "To pay debts owed to any prior lienholders; "
+    }, {
+      "leftX" : 98.52,
+      "bottomY" : 346.4955,
+      "rightX" : 103.5984,
+      "topY" : 335.4955,
+      "baseLineY" : 344.52,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 103.56,
+      "bottomY" : 347.139,
+      "rightX" : 106.6291,
+      "topY" : 336.139,
+      "baseLineY" : 344.52,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 116.52,
+      "bottomY" : 347.027,
+      "rightX" : 282.36,
+      "topY" : 336.027,
+      "baseLineY" : 344.52,
+      "fontId" : 8,
+      "text" : "To make extra payments on the loan; "
+    }, {
+      "leftX" : 98.52,
+      "bottomY" : 365.9355,
+      "rightX" : 103.5984,
+      "topY" : 354.9355,
+      "baseLineY" : 363.96,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 103.56,
+      "bottomY" : 366.579,
+      "rightX" : 106.6291,
+      "topY" : 355.579,
+      "baseLineY" : 363.96,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 116.52,
+      "bottomY" : 366.467,
+      "rightX" : 506.5574,
+      "topY" : 355.467,
+      "baseLineY" : 363.96,
+      "fontId" : 8,
+      "text" : "To pay costs necessary to determine the reasonableness of an offer or asking price, such "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 379.0671,
+      "rightX" : 508.7126,
+      "topY" : 368.0671,
+      "baseLineY" : 376.56,
+      "fontId" : 8,
+      "text" : "as fees for appraisal of minerals, land, or timber where the necessary appraisal cannot be "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 391.9066,
+      "rightX" : 220.7986,
+      "topY" : 380.9066,
+      "baseLineY" : 389.3995,
+      "fontId" : 8,
+      "text" : "obtained without costs; "
+    }, {
+      "leftX" : 98.52,
+      "bottomY" : 410.6955,
+      "rightX" : 103.5984,
+      "topY" : 399.6955,
+      "baseLineY" : 408.72,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 103.56,
+      "bottomY" : 411.339,
+      "rightX" : 106.6291,
+      "topY" : 400.339,
+      "baseLineY" : 408.72,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 116.52,
+      "bottomY" : 411.2271,
+      "rightX" : 508.6797,
+      "topY" : 400.2271,
+      "baseLineY" : 408.72,
+      "fontId" : 8,
+      "text" : "To pay a real estate broker's commission if the borrower can reasonably expect to obtain "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 423.8271,
+      "rightX" : 506.911,
+      "topY" : 412.8271,
+      "baseLineY" : 421.32,
+      "fontId" : 8,
+      "text" : "proceeds at least equal to the commission in excess of what could otherwise be obtained "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 436.5451,
+      "rightX" : 256.2039,
+      "topY" : 425.5451,
+      "baseLineY" : 434.0381,
+      "fontId" : 8,
+      "text" : "without the broker's assistance; "
+    }, {
+      "leftX" : 98.52,
+      "bottomY" : 455.4555,
+      "rightX" : 103.5984,
+      "topY" : 444.4555,
+      "baseLineY" : 453.48,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 103.56,
+      "bottomY" : 456.0991,
+      "rightX" : 106.6291,
+      "topY" : 445.0991,
+      "baseLineY" : 453.48,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 116.52,
+      "bottomY" : 455.9871,
+      "rightX" : 511.3206,
+      "topY" : 444.9871,
+      "baseLineY" : 453.48,
+      "fontId" : 8,
+      "text" : "To repair, develop, or enlarge the borrower’s facility for purposes for which a loan of the "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 468.587,
+      "rightX" : 495.287,
+      "topY" : 457.587,
+      "baseLineY" : 466.08,
+      "fontId" : 8,
+      "text" : "same type involved could be made, if the development or enlargement is necessary to "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 481.1837,
+      "rightX" : 513.4745,
+      "topY" : 470.1837,
+      "baseLineY" : 478.6766,
+      "fontId" : 8,
+      "text" : "improve the borrower’s debt-paying ability, place the operation on a more sound basis, or "
+    }, {
+      "leftX" : 116.029,
+      "bottomY" : 494.0232,
+      "rightX" : 266.2723,
+      "topY" : 483.0232,
+      "baseLineY" : 491.5161,
+      "fontId" : 8,
+      "text" : "otherwise further loan objectives; "
+    }, {
+      "leftX" : 98.52,
+      "bottomY" : 512.8155,
+      "rightX" : 103.5984,
+      "topY" : 501.8155,
+      "baseLineY" : 510.84,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 103.56,
+      "bottomY" : 513.459,
+      "rightX" : 106.6291,
+      "topY" : 502.459,
+      "baseLineY" : 510.84,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 116.52,
+      "bottomY" : 513.347,
+      "rightX" : 493.3198,
+      "topY" : 502.347,
+      "baseLineY" : 510.84,
+      "fontId" : 8,
+      "text" : "To purchase or acquire property to be used for purposes for which a loan of the same "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 525.9471,
+      "rightX" : 493.3295,
+      "topY" : 514.9471,
+      "baseLineY" : 523.44,
+      "fontId" : 8,
+      "text" : "type involved is authorized, if the debt will be as well secured after the transaction as "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 538.5437,
+      "rightX" : 466.4398,
+      "topY" : 527.5437,
+      "baseLineY" : 536.0366,
+      "fontId" : 8,
+      "text" : "before (The Agency will obtain a lien on the acquired property, and obtain title "
+    }, {
+      "leftX" : 116.04,
+      "bottomY" : 551.3832,
+      "rightX" : 183.2405,
+      "topY" : 540.3832,
+      "baseLineY" : 548.8762,
+      "fontId" : 8,
+      "text" : "evidence); and "
+    }, {
+      "leftX" : 98.52,
+      "bottomY" : 570.1755,
+      "rightX" : 103.5984,
+      "topY" : 559.1755,
+      "baseLineY" : 568.2,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 103.56,
+      "bottomY" : 570.8191,
+      "rightX" : 106.6291,
+      "topY" : 559.8191,
+      "baseLineY" : 568.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 116.52,
+      "bottomY" : 570.7071,
+      "rightX" : 401.88,
+      "topY" : 559.7071,
+      "baseLineY" : 568.2,
+      "fontId" : 8,
+      "text" : "To increase reserves based on an Agency-approved capital plan. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 607.1639,
+      "rightX" : 96,
+      "topY" : 595.1639,
+      "baseLineY" : 604.32,
+      "fontId" : 3,
+      "text" : "8.8   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 607.1639,
+      "rightX" : 507.8401,
+      "topY" : 595.1639,
+      "baseLineY" : 604.32,
+      "fontId" : 3,
+      "text" : "ALLOWABLE ACTIONS INVOLVING THE PARTIAL DISPOSITION OF "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 620.9639,
+      "rightX" : 242.04,
+      "topY" : 608.9639,
+      "baseLineY" : 618.12,
+      "fontId" : 3,
+      "text" : "SECURITY PROPERTY "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 646.655,
+      "rightX" : 500.6398,
+      "topY" : 634.655,
+      "baseLineY" : 643.92,
+      "fontId" : 4,
+      "text" : "The Leadership Designee may grant consent to requests for the following actions "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 660.455,
+      "rightX" : 390.6,
+      "topY" : 648.455,
+      "baseLineY" : 657.72,
+      "fontId" : 4,
+      "text" : "involving the partial disposition of security property for a project: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 686.6351,
+      "rightX" : 113.52,
+      "topY" : 674.6351,
+      "baseLineY" : 684.48,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 687.3372,
+      "rightX" : 116.856,
+      "topY" : 675.3372,
+      "baseLineY" : 684.48,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 687.215,
+      "rightX" : 483.96,
+      "topY" : 675.215,
+      "baseLineY" : 684.48,
+      "fontId" : 4,
+      "text" : "Use of proceeds from the sale of a portion of or an interest in the security; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 713.2751,
+      "rightX" : 113.52,
+      "topY" : 701.2751,
+      "baseLineY" : 711.12,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 713.9771,
+      "rightX" : 116.856,
+      "topY" : 701.9771,
+      "baseLineY" : 711.12,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 713.855,
+      "rightX" : 495.48,
+      "topY" : 701.855,
+      "baseLineY" : 711.12,
+      "fontId" : 4,
+      "text" : "Exchange of all or a part of the undeveloped security for other real estate; or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 762.3592,
+      "rightX" : 315.09,
+      "topY" : 752.3592,
+      "baseLineY" : 760.08,
+      "fontId" : 1,
+      "text" : "8-7 "
+    }, {
+      "leftX" : 79.2,
+      "bottomY" : 773.8791,
+      "rightX" : 160.2804,
+      "topY" : 763.8791,
+      "baseLineY" : 771.6,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.1551,
+      "rightX" : 113.52,
+      "topY" : 74.1551,
+      "baseLineY" : 84,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.8571,
+      "rightX" : 116.856,
+      "topY" : 74.8571,
+      "baseLineY" : 84,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.735,
+      "rightX" : 500.6399,
+      "topY" : 74.735,
+      "baseLineY" : 84,
+      "fontId" : 4,
+      "text" : "Granting or conveyance or rights-of-way subject to applicable conditions and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 100.535,
+      "rightX" : 194.64,
+      "topY" : 88.535,
+      "baseLineY" : 97.8,
+      "fontId" : 4,
+      "text" : "requirements. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 126.4439,
+      "rightX" : 96,
+      "topY" : 114.4439,
+      "baseLineY" : 123.6,
+      "fontId" : 3,
+      "text" : "8.9   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 126.4439,
+      "rightX" : 517.5591,
+      "topY" : 114.4439,
+      "baseLineY" : 123.6,
+      "fontId" : 3,
+      "text" : "ALLOWABLE USES FOR PROCEEDS FROM PARTIAL DISPOSITION OF "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 140.2439,
+      "rightX" : 242.0399,
+      "topY" : 128.2439,
+      "baseLineY" : 137.4,
+      "fontId" : 3,
+      "text" : "SECURITY PROPERTY "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 165.9349,
+      "rightX" : 535.7997,
+      "topY" : 153.9349,
+      "baseLineY" : 163.2,
+      "fontId" : 4,
+      "text" : "The Agency may consent to the partial disposition of security property if borrowers plan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 179.7349,
+      "rightX" : 400.56,
+      "topY" : 167.7349,
+      "baseLineY" : 176.9999,
+      "fontId" : 4,
+      "text" : "to use the proceeds for one or more of the uses listed in Exhibit 8-3. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 205.5349,
+      "rightX" : 523.9198,
+      "topY" : 193.5349,
+      "baseLineY" : 202.7999,
+      "fontId" : 4,
+      "text" : "It should be noted that while borrowers may use proceeds from disposition of security "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 219.3349,
+      "rightX" : 515.3998,
+      "topY" : 207.3349,
+      "baseLineY" : 216.5999,
+      "fontId" : 4,
+      "text" : "property for any of the purposes listed in Exhibit 8-3, there is a priority order for using such "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 233.1349,
+      "rightX" : 536.16,
+      "topY" : 221.1349,
+      "baseLineY" : 230.3999,
+      "fontId" : 4,
+      "text" : "proceeds. The order in which the allowable uses are listed in Exhibit 8-3 roughly corresponds to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 246.9349,
+      "rightX" : 485.52,
+      "topY" : 234.9349,
+      "baseLineY" : 244.1999,
+      "fontId" : 4,
+      "text" : "the Agency’s preferred priority order (although not all uses will apply to all projects). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 272.7348,
+      "rightX" : 516.4798,
+      "topY" : 260.7348,
+      "baseLineY" : 269.9999,
+      "fontId" : 4,
+      "text" : "If property to be sold or exchanged is to be used for the same or similar purposes for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 286.5348,
+      "rightX" : 413.1599,
+      "topY" : 274.5348,
+      "baseLineY" : 283.7999,
+      "fontId" : 4,
+      "text" : "which the loan or grant was made, the purchaser is required to execute "
+    }, {
+      "leftX" : 413.1599,
+      "bottomY" : 286.5698,
+      "rightX" : 489.84,
+      "topY" : 274.5698,
+      "baseLineY" : 283.7999,
+      "fontId" : 10,
+      "text" : "Form RD 400-4"
+    }, {
+      "leftX" : 489.84,
+      "bottomY" : 286.5348,
+      "rightX" : 520.4401,
+      "topY" : 274.5348,
+      "baseLineY" : 283.7999,
+      "fontId" : 4,
+      "text" : ".  The "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 300.3348,
+      "rightX" : 530.0399,
+      "topY" : 288.3348,
+      "baseLineY" : 297.5999,
+      "fontId" : 4,
+      "text" : "agreement will remain in effect for as long as the property continues to be used for the same or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 314.1348,
+      "rightX" : 334.2,
+      "topY" : 302.1348,
+      "baseLineY" : 311.3998,
+      "fontId" : 4,
+      "text" : "similar purpose for which the loan or grant was made. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 340.0438,
+      "rightX" : 102,
+      "topY" : 328.0438,
+      "baseLineY" : 337.1998,
+      "fontId" : 3,
+      "text" : "8.10   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 340.0438,
+      "rightX" : 400.32,
+      "topY" : 328.0438,
+      "baseLineY" : 337.1998,
+      "fontId" : 3,
+      "text" : "REQUIRED CONDITIONS FOR AGENCY CONSENT "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.7348,
+      "rightX" : 497.5198,
+      "topY" : 353.7348,
+      "baseLineY" : 362.9998,
+      "fontId" : 4,
+      "text" : "The Leadership Designee may grant consent to partial sales of security property, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 379.5348,
+      "rightX" : 537.2399,
+      "topY" : 367.5348,
+      "baseLineY" : 376.7998,
+      "fontId" : 4,
+      "text" : "including the sale of individual units or developed portions of a multi-family housing project, so "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 393.3348,
+      "rightX" : 320.28,
+      "topY" : 381.3348,
+      "baseLineY" : 390.5998,
+      "fontId" : 4,
+      "text" : "long as the conditions listed in Exhibit 8-4 are met. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 419.2437,
+      "rightX" : 102,
+      "topY" : 407.2437,
+      "baseLineY" : 416.3998,
+      "fontId" : 3,
+      "text" : "8.11   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 419.2437,
+      "rightX" : 331.68,
+      "topY" : 407.2437,
+      "baseLineY" : 416.3998,
+      "fontId" : 3,
+      "text" : "PROCESSING BORROWER REQUESTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 444.9347,
+      "rightX" : 541.1997,
+      "topY" : 432.9347,
+      "baseLineY" : 442.1998,
+      "fontId" : 4,
+      "text" : "The Agency grants consent to disposition of part of, or an interest in, security property by "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 458.7347,
+      "rightX" : 184.8,
+      "topY" : 446.7347,
+      "baseLineY" : 455.9998,
+      "fontId" : 4,
+      "text" : "approving a completed "
+    }, {
+      "leftX" : 184.92,
+      "bottomY" : 458.7697,
+      "rightX" : 270.6,
+      "topY" : 446.7697,
+      "baseLineY" : 455.9998,
+      "fontId" : 10,
+      "text" : "Form RD 3560-1,"
+    }, {
+      "leftX" : 270.6,
+      "bottomY" : 458.7347,
+      "rightX" : 541.6798,
+      "topY" : 446.7347,
+      "baseLineY" : 455.9998,
+      "fontId" : 4,
+      "text" : " or other forms approved by OGC or prescribed in State "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 472.5347,
+      "rightX" : 140.04,
+      "topY" : 460.5347,
+      "baseLineY" : 469.7997,
+      "fontId" : 4,
+      "text" : "Supplements. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 762.4792,
+      "rightX" : 315.09,
+      "topY" : 752.4792,
+      "baseLineY" : 760.2,
+      "fontId" : 1,
+      "text" : "8-8 "
+    }, {
+      "leftX" : 532.8,
+      "bottomY" : 785.8791,
+      "rightX" : 537.8099,
+      "topY" : 775.8791,
+      "baseLineY" : 783.6,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 276.6,
+      "bottomY" : 86.7239,
+      "rightX" : 336.6,
+      "topY" : 74.7239,
+      "baseLineY" : 83.88,
+      "fontId" : 3,
+      "text" : "Exhibit 8-4 "
+    }, {
+      "leftX" : 199.44,
+      "bottomY" : 106.5239,
+      "rightX" : 413.76,
+      "topY" : 94.5239,
+      "baseLineY" : 103.68,
+      "fontId" : 3,
+      "text" : "Required Conditions for Agency Consent "
+    }, {
+      "leftX" : 196.92,
+      "bottomY" : 120.3239,
+      "rightX" : 416.28,
+      "topY" : 108.3239,
+      "baseLineY" : 117.48,
+      "fontId" : 3,
+      "text" : "to Partial Disposition of Security Property "
+    }, {
+      "leftX" : 91.8,
+      "bottomY" : 145.1355,
+      "rightX" : 96.8784,
+      "topY" : 134.1355,
+      "baseLineY" : 143.16,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 96.84,
+      "bottomY" : 145.779,
+      "rightX" : 99.9091,
+      "topY" : 134.779,
+      "baseLineY" : 143.16,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 145.667,
+      "rightX" : 415.56,
+      "topY" : 134.667,
+      "baseLineY" : 143.16,
+      "fontId" : 8,
+      "text" : "The transaction will not impair orderly payment of the Agency debt; "
+    }, {
+      "leftX" : 91.8,
+      "bottomY" : 164.5755,
+      "rightX" : 96.8784,
+      "topY" : 153.5755,
+      "baseLineY" : 162.6,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 96.84,
+      "bottomY" : 165.219,
+      "rightX" : 99.9091,
+      "topY" : 154.219,
+      "baseLineY" : 162.6,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 165.107,
+      "rightX" : 515.326,
+      "topY" : 154.107,
+      "baseLineY" : 162.6,
+      "fontId" : 8,
+      "text" : "The transaction will not interfere with the successful operation of the project or prevent the "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 177.8271,
+      "rightX" : 421.4376,
+      "topY" : 166.8271,
+      "baseLineY" : 175.32,
+      "fontId" : 8,
+      "text" : "borrower from carrying out the purpose for which the loan was made; "
+    }, {
+      "leftX" : 91.8,
+      "bottomY" : 196.7355,
+      "rightX" : 96.8784,
+      "topY" : 185.7355,
+      "baseLineY" : 194.76,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 96.84,
+      "bottomY" : 197.3791,
+      "rightX" : 99.9091,
+      "topY" : 186.3791,
+      "baseLineY" : 194.76,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 197.2671,
+      "rightX" : 369.96,
+      "topY" : 186.2671,
+      "baseLineY" : 194.76,
+      "fontId" : 8,
+      "text" : "The borrower certifies compliance with fair housing laws; "
+    }, {
+      "leftX" : 91.8,
+      "bottomY" : 216.1755,
+      "rightX" : 96.8784,
+      "topY" : 205.1755,
+      "baseLineY" : 214.2,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 96.84,
+      "bottomY" : 216.8191,
+      "rightX" : 99.9091,
+      "topY" : 205.8191,
+      "baseLineY" : 214.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 216.7071,
+      "rightX" : 503.0399,
+      "topY" : 205.7071,
+      "baseLineY" : 214.2,
+      "fontId" : 8,
+      "text" : "The appropriate level of environmental review under the National Environmental Policy "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 229.307,
+      "rightX" : 507.2711,
+      "topY" : 218.307,
+      "baseLineY" : 226.8,
+      "fontId" : 8,
+      "text" : "Act (NEPA) is completed and mitigation measures to protect any important resources are "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 242.0251,
+      "rightX" : 166.3253,
+      "topY" : 231.0251,
+      "baseLineY" : 239.5181,
+      "fontId" : 8,
+      "text" : "established; "
+    }, {
+      "leftX" : 91.8,
+      "bottomY" : 260.8155,
+      "rightX" : 96.8784,
+      "topY" : 249.8155,
+      "baseLineY" : 258.84,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 96.84,
+      "bottomY" : 261.4591,
+      "rightX" : 99.9091,
+      "topY" : 250.4591,
+      "baseLineY" : 258.84,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 261.3471,
+      "rightX" : 510.0312,
+      "topY" : 250.3471,
+      "baseLineY" : 258.84,
+      "fontId" : 8,
+      "text" : "The consideration is at least equal to the market value of the security property disposed of "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 273.9471,
+      "rightX" : 517.6788,
+      "topY" : 262.9471,
+      "baseLineY" : 271.44,
+      "fontId" : 8,
+      "text" : "or the rights being granted, except that right-of-way easements may be granted or conveyed "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 286.6651,
+      "rightX" : 517.0837,
+      "topY" : 275.6651,
+      "baseLineY" : 284.1581,
+      "fontId" : 8,
+      "text" : "without consideration being offered or with only the minimal consideration being offered if "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 299.2671,
+      "rightX" : 520.2004,
+      "topY" : 288.2671,
+      "baseLineY" : 296.76,
+      "fontId" : 8,
+      "text" : "the value of the security property will not be reduced, its suitability for the intended purpose "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 311.9871,
+      "rightX" : 519.5999,
+      "topY" : 300.9871,
+      "baseLineY" : 309.48,
+      "fontId" : 8,
+      "text" : "will not be impaired, and the easement is granted for the borrower to develop additional lots "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 324.5837,
+      "rightX" : 501.2403,
+      "topY" : 313.5837,
+      "baseLineY" : 322.0767,
+      "fontId" : 8,
+      "text" : "or units that will be integrated into the project or with a public body for enhancement of "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 337.3018,
+      "rightX" : 290.0395,
+      "topY" : 326.3018,
+      "baseLineY" : 334.7947,
+      "fontId" : 8,
+      "text" : "streets or utilities benefiting the project; "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 355.907,
+      "rightX" : 119.88,
+      "topY" : 344.907,
+      "baseLineY" : 353.4,
+      "fontId" : 8,
+      "text" : "– "
+    }, {
+      "leftX" : 134.16,
+      "bottomY" : 355.907,
+      "rightX" : 489.7714,
+      "topY" : 344.907,
+      "baseLineY" : 353.4,
+      "fontId" : 8,
+      "text" : "To establish market value, an authorized Agency official will either make a new "
+    }, {
+      "leftX" : 134.16,
+      "bottomY" : 368.5071,
+      "rightX" : 511.8019,
+      "topY" : 357.5071,
+      "baseLineY" : 366,
+      "fontId" : 8,
+      "text" : "appraisal if the current appraisal is more than one year old, or supplement the present "
+    }, {
+      "leftX" : 134.16,
+      "bottomY" : 381.2251,
+      "rightX" : 480.4138,
+      "topY" : 370.2251,
+      "baseLineY" : 378.7181,
+      "fontId" : 8,
+      "text" : "appraisal report by inserting information as to the market value of the security "
+    }, {
+      "leftX" : 134.16,
+      "bottomY" : 393.9432,
+      "rightX" : 190.4419,
+      "topY" : 382.9432,
+      "baseLineY" : 391.4362,
+      "fontId" : 8,
+      "text" : "disposed; or "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 412.4271,
+      "rightX" : 119.88,
+      "topY" : 401.4271,
+      "baseLineY" : 409.92,
+      "fontId" : 8,
+      "text" : "– "
+    }, {
+      "leftX" : 134.16,
+      "bottomY" : 412.4271,
+      "rightX" : 477.6003,
+      "topY" : 401.4271,
+      "baseLineY" : 409.92,
+      "fontId" : 8,
+      "text" : "An authorized agency official may also accept a value determination for such "
+    }, {
+      "leftX" : 134.16,
+      "bottomY" : 425.1471,
+      "rightX" : 486.24,
+      "topY" : 414.1471,
+      "baseLineY" : 422.64,
+      "fontId" : 8,
+      "text" : "easements that have been provided by other competent sources at no cost to the "
+    }, {
+      "leftX" : 134.16,
+      "bottomY" : 437.8651,
+      "rightX" : 457.4443,
+      "topY" : 426.8651,
+      "baseLineY" : 435.3581,
+      "fontId" : 8,
+      "text" : "Government that is mutually acceptable to the borrower and the Agency. "
+    }, {
+      "leftX" : 91.8,
+      "bottomY" : 456.7755,
+      "rightX" : 96.8784,
+      "topY" : 445.7755,
+      "baseLineY" : 454.8,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 96.84,
+      "bottomY" : 457.419,
+      "rightX" : 99.9091,
+      "topY" : 446.419,
+      "baseLineY" : 454.8,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.6,
+      "bottomY" : 457.307,
+      "rightX" : 480.6,
+      "topY" : 446.307,
+      "baseLineY" : 454.8,
+      "fontId" : 8,
+      "text" : "The remaining property is adequate security for the unpaid balance of the loan; and "
+    }, {
+      "leftX" : 91.8,
+      "bottomY" : 476.2155,
+      "rightX" : 96.8784,
+      "topY" : 465.2155,
+      "baseLineY" : 474.24,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 96.84,
+      "bottomY" : 476.859,
+      "rightX" : 99.9091,
+      "topY" : 465.859,
+      "baseLineY" : 474.24,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.96,
+      "bottomY" : 476.747,
+      "rightX" : 509.5203,
+      "topY" : 465.747,
+      "baseLineY" : 474.24,
+      "fontId" : 8,
+      "text" : "The proceeds from the disposition of the security are to be used for one or more approved "
+    }, {
+      "leftX" : 111.96,
+      "bottomY" : 489.467,
+      "rightX" : 490.2014,
+      "topY" : 478.467,
+      "baseLineY" : 486.96,
+      "fontId" : 8,
+      "text" : "purposes (e.g., to pay closing costs, make extra payments, pay brokers’ commission). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 522.8039,
+      "rightX" : 240.36,
+      "topY" : 510.8039,
+      "baseLineY" : 519.96,
+      "fontId" : 3,
+      "text" : "A.  Borrower Submission "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 548.495,
+      "rightX" : 526.1998,
+      "topY" : 536.495,
+      "baseLineY" : 545.76,
+      "fontId" : 4,
+      "text" : "When a borrower requests consent to lease a portion of the security property or the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 562.295,
+      "rightX" : 503.9997,
+      "topY" : 550.295,
+      "baseLineY" : 559.56,
+      "fontId" : 4,
+      "text" : "MFH Servicing official discovers that the borrower is leasing the security without "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 576.095,
+      "rightX" : 466.4398,
+      "topY" : 564.095,
+      "baseLineY" : 573.36,
+      "fontId" : 4,
+      "text" : "consent, the MFH Servicing official will require the borrower to complete "
+    }, {
+      "leftX" : 466.56,
+      "bottomY" : 576.1299,
+      "rightX" : 515.16,
+      "topY" : 564.1299,
+      "baseLineY" : 573.36,
+      "fontId" : 10,
+      "text" : "Form RD "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 589.93,
+      "rightX" : 141.96,
+      "topY" : 577.93,
+      "baseLineY" : 587.16,
+      "fontId" : 10,
+      "text" : "3560-1"
+    }, {
+      "leftX" : 141.96,
+      "bottomY" : 589.895,
+      "rightX" : 530.1598,
+      "topY" : 577.895,
+      "baseLineY" : 587.16,
+      "fontId" : 4,
+      "text" : ".  The form will show the terms of the proposed lease and will specify the use of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 603.695,
+      "rightX" : 420,
+      "topY" : 591.695,
+      "baseLineY" : 600.96,
+      "fontId" : 4,
+      "text" : "proceeds, including any proceeds to be released to the borrower. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 629.6039,
+      "rightX" : 206.28,
+      "topY" : 617.6039,
+      "baseLineY" : 626.76,
+      "fontId" : 3,
+      "text" : "B.  Agency Review "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 655.175,
+      "rightX" : 463.32,
+      "topY" : 643.175,
+      "baseLineY" : 652.44,
+      "fontId" : 4,
+      "text" : "The MFH Servicing official will forward to the Leadership Designee: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 681.3551,
+      "rightX" : 113.52,
+      "topY" : 669.3551,
+      "baseLineY" : 679.2,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 682.0572,
+      "rightX" : 116.856,
+      "topY" : 670.0572,
+      "baseLineY" : 679.2,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 681.935,
+      "rightX" : 300.12,
+      "topY" : 669.935,
+      "baseLineY" : 679.2,
+      "fontId" : 4,
+      "text" : "A properly completed and executed "
+    }, {
+      "leftX" : 300.12,
+      "bottomY" : 681.9699,
+      "rightX" : 386.916,
+      "topY" : 669.9699,
+      "baseLineY" : 679.2,
+      "fontId" : 10,
+      "text" : "Form RD 3560-1;"
+    }, {
+      "leftX" : 387,
+      "bottomY" : 681.935,
+      "rightX" : 390,
+      "topY" : 669.935,
+      "baseLineY" : 679.2,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 708.1151,
+      "rightX" : 113.52,
+      "topY" : 696.1151,
+      "baseLineY" : 705.96,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 708.8172,
+      "rightX" : 116.856,
+      "topY" : 696.8172,
+      "baseLineY" : 705.96,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 708.695,
+      "rightX" : 441.5999,
+      "topY" : 696.695,
+      "baseLineY" : 705.96,
+      "fontId" : 4,
+      "text" : "The proposed deed, easement, or other form of title conveyance;  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 762.3592,
+      "rightX" : 315.09,
+      "topY" : 752.3592,
+      "baseLineY" : 760.08,
+      "fontId" : 1,
+      "text" : "8-9 "
+    }, {
+      "leftX" : 79.2,
+      "bottomY" : 773.8791,
+      "rightX" : 160.2804,
+      "topY" : 763.8791,
+      "baseLineY" : 771.6,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 10,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.1551,
+      "rightX" : 113.52,
+      "topY" : 74.1551,
+      "baseLineY" : 84,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.8571,
+      "rightX" : 116.856,
+      "topY" : 74.8571,
+      "baseLineY" : 84,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.735,
+      "rightX" : 491.5199,
+      "topY" : 74.735,
+      "baseLineY" : 84,
+      "fontId" : 4,
+      "text" : "A memorandum from the MFH Servicing official justifying the approval or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 100.535,
+      "rightX" : 341.8799,
+      "topY" : 88.535,
+      "baseLineY" : 97.8,
+      "fontId" : 4,
+      "text" : "disapproval of the proposed transaction; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 126.7151,
+      "rightX" : 113.52,
+      "topY" : 114.7151,
+      "baseLineY" : 124.56,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 127.4171,
+      "rightX" : 116.856,
+      "topY" : 115.4171,
+      "baseLineY" : 124.56,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 127.295,
+      "rightX" : 371.28,
+      "topY" : 115.295,
+      "baseLineY" : 124.56,
+      "fontId" : 4,
+      "text" : "Any other information pertinent to the transaction. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 152.975,
+      "rightX" : 529.0822,
+      "topY" : 140.975,
+      "baseLineY" : 150.24,
+      "fontId" : 4,
+      "text" : "The Leadership Designee will review the materials, obtain the guidance of OGC (if "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.7749,
+      "rightX" : 373.6799,
+      "topY" : 154.7749,
+      "baseLineY" : 164.04,
+      "fontId" : 4,
+      "text" : "needed), prior to indicating approval or disapproval on "
+    }, {
+      "leftX" : 373.6799,
+      "bottomY" : 166.8099,
+      "rightX" : 456.24,
+      "topY" : 154.8099,
+      "baseLineY" : 164.04,
+      "fontId" : 10,
+      "text" : "Form RD 3560-1"
+    }, {
+      "leftX" : 456.24,
+      "bottomY" : 166.7749,
+      "rightX" : 522.24,
+      "topY" : 154.7749,
+      "baseLineY" : 164.04,
+      "fontId" : 4,
+      "text" : ", and provide "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 180.5749,
+      "rightX" : 413.64,
+      "topY" : 168.5749,
+      "baseLineY" : 177.84,
+      "fontId" : 4,
+      "text" : "additional servicing instructions to the MFH Servicing official. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 206.4839,
+      "rightX" : 337.08,
+      "topY" : 194.4839,
+      "baseLineY" : 203.64,
+      "fontId" : 3,
+      "text" : "C.  Agency Decision and Notice to Borrower "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 232.1749,
+      "rightX" : 542.3997,
+      "topY" : 220.1749,
+      "baseLineY" : 229.4399,
+      "fontId" : 4,
+      "text" : "Before the Agency consents to any transaction that affects its security or lien position, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 245.9749,
+      "rightX" : 532.1998,
+      "topY" : 233.9749,
+      "baseLineY" : 243.2399,
+      "fontId" : 4,
+      "text" : "MFH Servicing officials must obtain the written consent of any other lienholders.  Such "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.7749,
+      "rightX" : 528.4799,
+      "topY" : 247.7749,
+      "baseLineY" : 257.0399,
+      "fontId" : 4,
+      "text" : "consent should include an agreement on the disposition of any funds resulting from the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.5749,
+      "rightX" : 435.8399,
+      "topY" : 261.5749,
+      "baseLineY" : 270.8399,
+      "fontId" : 4,
+      "text" : "transaction and must be consistent with loan program requirements. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 299.3749,
+      "rightX" : 531.9598,
+      "topY" : 287.3749,
+      "baseLineY" : 296.6399,
+      "fontId" : 4,
+      "text" : "MFH Servicing officials should advise the borrower if the mortgage or deed of trust "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 313.1748,
+      "rightX" : 542.1562,
+      "topY" : 301.1748,
+      "baseLineY" : 310.4399,
+      "fontId" : 4,
+      "text" : "requires Agency consent to the sale or other transfer of real estate security.  In such cases, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 326.9748,
+      "rightX" : 530.28,
+      "topY" : 314.9748,
+      "baseLineY" : 324.2399,
+      "fontId" : 4,
+      "text" : "the MFH Servicing official should explain the applicable requirements to the borrower. "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 352.8838,
+      "rightX" : 102.0001,
+      "topY" : 340.8838,
+      "baseLineY" : 350.0399,
+      "fontId" : 3,
+      "text" : "8.12   "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 352.8838,
+      "rightX" : 306.7201,
+      "topY" : 340.8838,
+      "baseLineY" : 350.0399,
+      "fontId" : 3,
+      "text" : "AGENCY RELEASE OF SECURITY "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 378.5748,
+      "rightX" : 500.3974,
+      "topY" : 366.5748,
+      "baseLineY" : 375.8398,
+      "fontId" : 4,
+      "text" : "The Agency will release security for Agency loans in accordance with applicable "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 392.3748,
+      "rightX" : 247.6801,
+      "topY" : 380.3748,
+      "baseLineY" : 389.6398,
+      "fontId" : 4,
+      "text" : "program regulations and as follows: "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 418.4349,
+      "rightX" : 113.5201,
+      "topY" : 406.4349,
+      "baseLineY" : 416.2798,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.5201,
+      "bottomY" : 419.137,
+      "rightX" : 116.8561,
+      "topY" : 407.137,
+      "baseLineY" : 416.2798,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 419.0148,
+      "rightX" : 542.7573,
+      "topY" : 407.0148,
+      "baseLineY" : 416.2798,
+      "fontId" : 4,
+      "text" : "The Agency will not release its lien until it receives from the borrower the appropriate "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 432.8148,
+      "rightX" : 531.48,
+      "topY" : 420.8148,
+      "baseLineY" : 430.0798,
+      "fontId" : 4,
+      "text" : "sales proceeds for application on the Government’s claim.  MFH Servicing officials "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 446.6148,
+      "rightX" : 533.5198,
+      "topY" : 434.6148,
+      "baseLineY" : 443.8798,
+      "fontId" : 4,
+      "text" : "will hold borrowers strictly accountable to the Agency for all proceeds derived from "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 460.4148,
+      "rightX" : 523.9198,
+      "topY" : 448.4148,
+      "baseLineY" : 457.6798,
+      "fontId" : 4,
+      "text" : "the sale of mortgaged property that the Agency is entitled to receive under its lien. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 486.4749,
+      "rightX" : 113.52,
+      "topY" : 474.4749,
+      "baseLineY" : 484.3198,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 487.177,
+      "rightX" : 116.856,
+      "topY" : 475.177,
+      "baseLineY" : 484.3198,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 487.0548,
+      "rightX" : 525.2386,
+      "topY" : 475.0548,
+      "baseLineY" : 484.3198,
+      "fontId" : 4,
+      "text" : "The Leadership Designee or his or her designee may release real estate security by "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 500.8548,
+      "rightX" : 155.04,
+      "topY" : 488.8548,
+      "baseLineY" : 498.1198,
+      "fontId" : 4,
+      "text" : "using "
+    }, {
+      "leftX" : 155.04,
+      "bottomY" : 500.8897,
+      "rightX" : 240.6,
+      "topY" : 488.8897,
+      "baseLineY" : 498.1198,
+      "fontId" : 10,
+      "text" : "Form RD 3560-1 "
+    }, {
+      "leftX" : 240.6,
+      "bottomY" : 500.8548,
+      "rightX" : 535.6799,
+      "topY" : 488.8548,
+      "baseLineY" : 498.1198,
+      "fontId" : 4,
+      "text" : "or other form approved by OGC.  Satisfaction or termination "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 514.6548,
+      "rightX" : 514.3199,
+      "topY" : 502.6548,
+      "baseLineY" : 511.9198,
+      "fontId" : 4,
+      "text" : "of real estate security instruments when the Agency debt has been paid in full or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 528.4548,
+      "rightX" : 421.6774,
+      "topY" : 516.4548,
+      "baseLineY" : 525.7198,
+      "fontId" : 4,
+      "text" : "satisfied by debt settlement action will be accomplished with "
+    }, {
+      "leftX" : 421.6774,
+      "bottomY" : 528.4897,
+      "rightX" : 516.24,
+      "topY" : 516.4897,
+      "baseLineY" : 525.7198,
+      "fontId" : 10,
+      "text" : "Form RD 3560-58, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 542.2897,
+      "rightX" : 185.76,
+      "topY" : 530.2897,
+      "baseLineY" : 539.5198,
+      "fontId" : 10,
+      "text" : "Satisfaction."
+    }, {
+      "leftX" : 185.64,
+      "bottomY" : 542.2547,
+      "rightX" : 188.64,
+      "topY" : 530.2547,
+      "baseLineY" : 539.5198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 568.3149,
+      "rightX" : 113.52,
+      "topY" : 556.3149,
+      "baseLineY" : 566.1598,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 569.0169,
+      "rightX" : 116.856,
+      "topY" : 557.0169,
+      "baseLineY" : 566.1598,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 568.8948,
+      "rightX" : 536.2798,
+      "topY" : 556.8948,
+      "baseLineY" : 566.1598,
+      "fontId" : 4,
+      "text" : "Any consent that results in an Agency loan account being paid in full is subject to all "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 582.8147,
+      "rightX" : 291,
+      "topY" : 570.8147,
+      "baseLineY" : 580.0798,
+      "fontId" : 4,
+      "text" : "applicable prepayment provisions."
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 296.76,
+      "bottomY" : 762.4792,
+      "rightX" : 317.61,
+      "topY" : 752.4792,
+      "baseLineY" : 760.2,
+      "fontId" : 1,
+      "text" : "8-10 "
+    }, {
+      "leftX" : 532.8,
+      "bottomY" : 785.8791,
+      "rightX" : 537.8099,
+      "topY" : 775.8791,
+      "baseLineY" : 783.6,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 11,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 89.52,
+      "bottomY" : 88.3979,
+      "rightX" : 418.5349,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 2,
+      "text" : "SECTION 3:  LEASING OF SECURITY PROPERTY "
+    }, {
+      "leftX" : 418.5068,
+      "bottomY" : 88.2899,
+      "rightX" : 522.5601,
+      "topY" : 74.2899,
+      "baseLineY" : 85.08,
+      "fontId" : 5,
+      "text" : "[7 CFR 3560.408]"
+    }, {
+      "leftX" : 522.3592,
+      "bottomY" : 88.3979,
+      "rightX" : 525.8692,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 114.0839,
+      "rightX" : 102,
+      "topY" : 102.0839,
+      "baseLineY" : 111.24,
+      "fontId" : 3,
+      "text" : "8.13   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 114.0839,
+      "rightX" : 179.04,
+      "topY" : 102.0839,
+      "baseLineY" : 111.24,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.7749,
+      "rightX" : 539.5197,
+      "topY" : 127.7749,
+      "baseLineY" : 137.04,
+      "fontId" : 4,
+      "text" : "Borrowers must obtain Agency approval to lease security property serving as security for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 153.5749,
+      "rightX" : 508.4398,
+      "topY" : 141.5749,
+      "baseLineY" : 150.84,
+      "fontId" : 4,
+      "text" : "Agency loans and grants.  The Agency may approve leases to tenants for specific program "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 167.3749,
+      "rightX" : 259.68,
+      "topY" : 155.3749,
+      "baseLineY" : 164.64,
+      "fontId" : 4,
+      "text" : "purposes or otherwise at its discretion. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 193.2839,
+      "rightX" : 102,
+      "topY" : 181.2839,
+      "baseLineY" : 190.4399,
+      "fontId" : 3,
+      "text" : "8.14   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 193.2839,
+      "rightX" : 373.08,
+      "topY" : 181.2839,
+      "baseLineY" : 190.4399,
+      "fontId" : 3,
+      "text" : "LEASES TO PUBLIC HOUSING AUTHORITIES "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 218.9749,
+      "rightX" : 524.7599,
+      "topY" : 206.9749,
+      "baseLineY" : 216.2399,
+      "fontId" : 4,
+      "text" : "MFH Servicing officials may only authorize multi-family housing borrowers to renew "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 232.7749,
+      "rightX" : 502.6798,
+      "topY" : 220.7749,
+      "baseLineY" : 230.0399,
+      "fontId" : 4,
+      "text" : "and continue leasing all or part of their housing facilities to a housing authority, although "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 246.5749,
+      "rightX" : 522.4799,
+      "topY" : 234.5749,
+      "baseLineY" : 243.8399,
+      "fontId" : 4,
+      "text" : "borrowers may not enter into any new leases.  Such leases must be on a form provided by the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 260.3749,
+      "rightX" : 531.4809,
+      "topY" : 248.3749,
+      "baseLineY" : 257.6399,
+      "fontId" : 4,
+      "text" : "housing authority, and MFH Servicing officials must determine that the lease terms will enable "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 274.1748,
+      "rightX" : 478.2,
+      "topY" : 262.1748,
+      "baseLineY" : 271.4399,
+      "fontId" : 4,
+      "text" : "the borrower to continue the objectives of the loan and make payments on schedule. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 300.0838,
+      "rightX" : 102,
+      "topY" : 288.0838,
+      "baseLineY" : 297.2399,
+      "fontId" : 3,
+      "text" : "8.15   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 300.0838,
+      "rightX" : 422.76,
+      "topY" : 288.0838,
+      "baseLineY" : 297.2399,
+      "fontId" : 3,
+      "text" : "LEASE OF A PORTION OF THE SECURITY PROPERTY "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 325.7748,
+      "rightX" : 525.2385,
+      "topY" : 313.7748,
+      "baseLineY" : 323.0399,
+      "fontId" : 4,
+      "text" : "MFH Servicing officials may approve the leasing of related facilities such as kitchens, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 339.5748,
+      "rightX" : 523.6799,
+      "topY" : 327.5748,
+      "baseLineY" : 336.8398,
+      "fontId" : 4,
+      "text" : "recreation facilities, and community buildings when the borrower will continue to operate the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 353.3748,
+      "rightX" : 539.88,
+      "topY" : 341.3748,
+      "baseLineY" : 350.6398,
+      "fontId" : 4,
+      "text" : "facilities for the purposes for which the loan or grant was made.  MFH Servicing officials should "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 367.1748,
+      "rightX" : 533.7598,
+      "topY" : 355.1748,
+      "baseLineY" : 364.4398,
+      "fontId" : 4,
+      "text" : "not approve such leases, however, unless they can verify that all of the following conditions are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 380.9748,
+      "rightX" : 96.36,
+      "topY" : 368.9748,
+      "baseLineY" : 378.2398,
+      "fontId" : 4,
+      "text" : "met: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 407.1549,
+      "rightX" : 113.52,
+      "topY" : 395.1549,
+      "baseLineY" : 404.9998,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 407.857,
+      "rightX" : 116.856,
+      "topY" : 395.857,
+      "baseLineY" : 404.9998,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 407.7348,
+      "rightX" : 518.88,
+      "topY" : 395.7348,
+      "baseLineY" : 404.9998,
+      "fontId" : 4,
+      "text" : "The lease is in the best interest of the borrower, the tenants, and the Government; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 433.6749,
+      "rightX" : 113.52,
+      "topY" : 421.6749,
+      "baseLineY" : 431.5198,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 434.3769,
+      "rightX" : 116.856,
+      "topY" : 422.3769,
+      "baseLineY" : 431.5198,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 434.2548,
+      "rightX" : 500.8798,
+      "topY" : 422.2548,
+      "baseLineY" : 431.5198,
+      "fontId" : 4,
+      "text" : "The amount of the consideration is adequate to pay all prorated operating and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 448.0548,
+      "rightX" : 500.5186,
+      "topY" : 436.0548,
+      "baseLineY" : 445.3198,
+      "fontId" : 4,
+      "text" : "maintenance expenses, a prorated share of the annual reserve deposit, and the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 461.8547,
+      "rightX" : 437.1597,
+      "topY" : 449.8547,
+      "baseLineY" : 459.1198,
+      "fontId" : 4,
+      "text" : "prorated part of the loan amortization at the note rate of interest; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 487.9149,
+      "rightX" : 113.52,
+      "topY" : 475.9149,
+      "baseLineY" : 485.7598,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 488.6169,
+      "rightX" : 116.856,
+      "topY" : 476.6169,
+      "baseLineY" : 485.7598,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 488.4947,
+      "rightX" : 512.2809,
+      "topY" : 476.4947,
+      "baseLineY" : 485.7598,
+      "fontId" : 4,
+      "text" : "The lease provides at its termination for the restoration of the leased space to its "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 502.2947,
+      "rightX" : 517.56,
+      "topY" : 490.2947,
+      "baseLineY" : 499.5598,
+      "fontId" : 4,
+      "text" : "original condition or to a condition acceptable to the owner and the Government; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 528.3549,
+      "rightX" : 113.52,
+      "topY" : 516.3549,
+      "baseLineY" : 526.1998,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 529.0569,
+      "rightX" : 116.856,
+      "topY" : 517.0569,
+      "baseLineY" : 526.1998,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 528.9347,
+      "rightX" : 520.4386,
+      "topY" : 516.9347,
+      "baseLineY" : 526.1998,
+      "fontId" : 4,
+      "text" : "Consent to the lease does not exceed three years at a time, unless a longer lease is "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 542.8547,
+      "rightX" : 499.68,
+      "topY" : 530.8547,
+      "baseLineY" : 540.1198,
+      "fontId" : 4,
+      "text" : "clearly more advantageous to the borrower, the tenants, and the Government; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 568.9149,
+      "rightX" : 113.52,
+      "topY" : 556.9149,
+      "baseLineY" : 566.7598,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 569.6169,
+      "rightX" : 116.856,
+      "topY" : 557.6169,
+      "baseLineY" : 566.7598,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 569.4947,
+      "rightX" : 498.8398,
+      "topY" : 557.4947,
+      "baseLineY" : 566.7598,
+      "fontId" : 4,
+      "text" : "The borrower has obtained written consent from any other lienholders whose "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 583.2947,
+      "rightX" : 338.88,
+      "topY" : 571.2947,
+      "baseLineY" : 580.5598,
+      "fontId" : 4,
+      "text" : "mortgages require consent to any lease; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 609.3549,
+      "rightX" : 113.52,
+      "topY" : 597.3549,
+      "baseLineY" : 607.1998,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 610.0569,
+      "rightX" : 116.856,
+      "topY" : 598.0569,
+      "baseLineY" : 607.1998,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 609.9347,
+      "rightX" : 531.8398,
+      "topY" : 597.9347,
+      "baseLineY" : 607.1998,
+      "fontId" : 4,
+      "text" : "The borrower will obtain leases on the most advantageous terms to the project.  The "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 623.7347,
+      "rightX" : 530.3998,
+      "topY" : 611.7347,
+      "baseLineY" : 620.9998,
+      "fontId" : 4,
+      "text" : "borrower will secure and credit to the project all discounts, rebates, or commissions "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 637.5348,
+      "rightX" : 329.5187,
+      "topY" : 625.5348,
+      "baseLineY" : 634.7998,
+      "fontId" : 4,
+      "text" : "obtainable with respect to project leases.   "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 663.4437,
+      "rightX" : 102,
+      "topY" : 651.4437,
+      "baseLineY" : 660.5998,
+      "fontId" : 3,
+      "text" : "8.16   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 663.4437,
+      "rightX" : 218.04,
+      "topY" : 651.4437,
+      "baseLineY" : 660.5998,
+      "fontId" : 3,
+      "text" : "MINERAL LEASES "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 689.1347,
+      "rightX" : 482.0398,
+      "topY" : 677.1347,
+      "baseLineY" : 686.3998,
+      "fontId" : 4,
+      "text" : "The Agency handles mineral leases according to the requirements set forth in "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 702.9347,
+      "rightX" : 171.72,
+      "topY" : 690.9347,
+      "baseLineY" : 700.1998,
+      "fontId" : 4,
+      "text" : "7 CFR 3560.408(d). "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 296.76,
+      "bottomY" : 762.3592,
+      "rightX" : 317.61,
+      "topY" : 752.3592,
+      "baseLineY" : 760.08,
+      "fontId" : 1,
+      "text" : "8-11 "
+    }, {
+      "leftX" : 79.2,
+      "bottomY" : 773.8791,
+      "rightX" : 160.2804,
+      "topY" : 763.8791,
+      "baseLineY" : 771.6,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 12,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 85.9299,
+      "rightX" : 309,
+      "topY" : 73.9299,
+      "baseLineY" : 83.16,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 111.7299,
+      "rightX" : 309,
+      "topY" : 99.7299,
+      "baseLineY" : 108.96,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 137.5299,
+      "rightX" : 309,
+      "topY" : 125.5299,
+      "baseLineY" : 134.7599,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 163.3299,
+      "rightX" : 309,
+      "topY" : 151.3299,
+      "baseLineY" : 160.5599,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 189.1298,
+      "rightX" : 309,
+      "topY" : 177.1298,
+      "baseLineY" : 186.3599,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 214.9298,
+      "rightX" : 309,
+      "topY" : 202.9298,
+      "baseLineY" : 212.1599,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 240.7298,
+      "rightX" : 309,
+      "topY" : 228.7298,
+      "baseLineY" : 237.9599,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 266.5298,
+      "rightX" : 309,
+      "topY" : 254.5298,
+      "baseLineY" : 263.7599,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 292.3298,
+      "rightX" : 309,
+      "topY" : 280.3298,
+      "baseLineY" : 289.5599,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 318.1298,
+      "rightX" : 309,
+      "topY" : 306.1298,
+      "baseLineY" : 315.3599,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 343.9298,
+      "rightX" : 309,
+      "topY" : 331.9298,
+      "baseLineY" : 341.1599,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 226.68,
+      "bottomY" : 369.7298,
+      "rightX" : 385.3679,
+      "topY" : 357.7298,
+      "baseLineY" : 366.9598,
+      "fontId" : 10,
+      "text" : "This page intentionally left blank"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 296.76,
+      "bottomY" : 762.4792,
+      "rightX" : 317.61,
+      "topY" : 752.4792,
+      "baseLineY" : 760.2,
+      "fontId" : 1,
+      "text" : "8-12 "
+    }, {
+      "leftX" : 532.8,
+      "bottomY" : 785.8791,
+      "rightX" : 537.8099,
+      "topY" : 775.8791,
+      "baseLineY" : 783.6,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 13,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 124.2,
+      "bottomY" : 88.3979,
+      "rightX" : 494.8576,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 2,
+      "text" : "SECTION 4:  OTHER LIENS AGAINST A PROPERTY OR  "
+    }, {
+      "leftX" : 189.7247,
+      "bottomY" : 104.4737,
+      "rightX" : 298.8829,
+      "topY" : 90.4737,
+      "baseLineY" : 101.1558,
+      "fontId" : 2,
+      "text" : "OTHER ASSETS "
+    }, {
+      "leftX" : 298.8014,
+      "bottomY" : 104.3657,
+      "rightX" : 422.3955,
+      "topY" : 90.3657,
+      "baseLineY" : 101.1558,
+      "fontId" : 5,
+      "text" : "[7 CFR 3560.409 (d)]"
+    }, {
+      "leftX" : 422.28,
+      "bottomY" : 103.9113,
+      "rightX" : 425.28,
+      "topY" : 91.9113,
+      "baseLineY" : 101.16,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 130.1639,
+      "rightX" : 102,
+      "topY" : 118.1639,
+      "baseLineY" : 127.3199,
+      "fontId" : 3,
+      "text" : "8.17   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 130.1639,
+      "rightX" : 179.04,
+      "topY" : 118.1639,
+      "baseLineY" : 127.3199,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 155.8549,
+      "rightX" : 527.5198,
+      "topY" : 143.8549,
+      "baseLineY" : 153.1199,
+      "fontId" : 4,
+      "text" : "If none of the options presented in Sections 1, 2, or 3 of this chapter are applicable to a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 169.6549,
+      "rightX" : 525.7198,
+      "topY" : 157.6549,
+      "baseLineY" : 166.9199,
+      "fontId" : 4,
+      "text" : "particular borrower or property, the Agency may consent to other liens against the property or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.4549,
+      "rightX" : 538.4387,
+      "topY" : 171.4549,
+      "baseLineY" : 180.7199,
+      "fontId" : 4,
+      "text" : "other assets. The Leadership Designee may approve other liens against a property or other assets "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.2549,
+      "rightX" : 522.84,
+      "topY" : 185.2549,
+      "baseLineY" : 194.5199,
+      "fontId" : 4,
+      "text" : "or instruments of similar effect under which a borrower may acquire—through other credit— "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 211.0549,
+      "rightX" : 332.4,
+      "topY" : 199.0549,
+      "baseLineY" : 208.3199,
+      "fontId" : 4,
+      "text" : "items that will not become part of real estate security. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 236.8548,
+      "rightX" : 534.24,
+      "topY" : 224.8548,
+      "baseLineY" : 234.1199,
+      "fontId" : 4,
+      "text" : "If additional liens are taken against other real property, the MFH Servicing official must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 250.6548,
+      "rightX" : 497.9998,
+      "topY" : 238.6548,
+      "baseLineY" : 247.9199,
+      "fontId" : 4,
+      "text" : "ensure that appropriate NEPA environmental review and due diligence requirements are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 264.4548,
+      "rightX" : 117.96,
+      "topY" : 252.4548,
+      "baseLineY" : 261.7198,
+      "fontId" : 4,
+      "text" : "satisfied. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 290.3638,
+      "rightX" : 102,
+      "topY" : 278.3638,
+      "baseLineY" : 287.5198,
+      "fontId" : 3,
+      "text" : "8.18   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 290.3638,
+      "rightX" : 256.08,
+      "topY" : 278.3638,
+      "baseLineY" : 287.5198,
+      "fontId" : 3,
+      "text" : "REQUIRED CONDITIONS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 316.0548,
+      "rightX" : 541.4398,
+      "topY" : 304.0548,
+      "baseLineY" : 313.3198,
+      "fontId" : 4,
+      "text" : "The Agency’s rule states that borrowers must not enter into any agreements placing a lien "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 329.8548,
+      "rightX" : 527.2798,
+      "topY" : 317.8548,
+      "baseLineY" : 327.1198,
+      "fontId" : 4,
+      "text" : "on the property or the equipment on it (e.g., items such as laundry equipment, air conditioning "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 343.6548,
+      "rightX" : 530.5198,
+      "topY" : 331.6548,
+      "baseLineY" : 340.9198,
+      "fontId" : 4,
+      "text" : "units, and basic household furnishings that will not become part of real estate security) without "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 357.4548,
+      "rightX" : 426.36,
+      "topY" : 345.4548,
+      "baseLineY" : 354.7198,
+      "fontId" : 4,
+      "text" : "prior Agency approval and unless the following three conditions are met: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 383.6349,
+      "rightX" : 113.52,
+      "topY" : 371.6349,
+      "baseLineY" : 381.4798,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 384.3369,
+      "rightX" : 116.856,
+      "topY" : 372.3369,
+      "baseLineY" : 381.4798,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 384.2148,
+      "rightX" : 426.24,
+      "topY" : 372.2148,
+      "baseLineY" : 381.4798,
+      "fontId" : 4,
+      "text" : "The transaction will not affect the Agency’s security position; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 410.1549,
+      "rightX" : 113.52,
+      "topY" : 398.1549,
+      "baseLineY" : 407.9998,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 410.8569,
+      "rightX" : 116.856,
+      "topY" : 398.8569,
+      "baseLineY" : 407.9998,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 410.7348,
+      "rightX" : 526.4399,
+      "topY" : 398.7348,
+      "baseLineY" : 407.9998,
+      "fontId" : 4,
+      "text" : "The items covered by the transaction are needed for the successful operation of the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 424.6548,
+      "rightX" : 193.32,
+      "topY" : 412.6548,
+      "baseLineY" : 421.9198,
+      "fontId" : 4,
+      "text" : "property; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 450.8349,
+      "rightX" : 113.52,
+      "topY" : 438.8349,
+      "baseLineY" : 448.6798,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 451.537,
+      "rightX" : 116.856,
+      "topY" : 439.537,
+      "baseLineY" : 448.6798,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 451.4148,
+      "rightX" : 365.64,
+      "topY" : 439.4148,
+      "baseLineY" : 448.6798,
+      "fontId" : 4,
+      "text" : "The financing arrangements are otherwise sound. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 477.0948,
+      "rightX" : 542.8799,
+      "topY" : 465.0948,
+      "baseLineY" : 474.3598,
+      "fontId" : 4,
+      "text" : "The rule also specifies that borrowers must complete and file with the Agency a financing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 490.8948,
+      "rightX" : 246.6,
+      "topY" : 478.8948,
+      "baseLineY" : 488.1598,
+      "fontId" : 4,
+      "text" : "statement and a security agreement. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 516.8037,
+      "rightX" : 102,
+      "topY" : 504.8037,
+      "baseLineY" : 513.9598,
+      "fontId" : 3,
+      "text" : "8.19   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 516.8037,
+      "rightX" : 245.712,
+      "topY" : 504.8037,
+      "baseLineY" : 513.9598,
+      "fontId" : 3,
+      "text" : "AGENCY PROCEDURES"
+    }, {
+      "leftX" : 245.76,
+      "bottomY" : 516.5669,
+      "rightX" : 248.52,
+      "topY" : 505.5669,
+      "baseLineY" : 513.96,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 542.495,
+      "rightX" : 467.2799,
+      "topY" : 530.495,
+      "baseLineY" : 539.76,
+      "fontId" : 4,
+      "text" : "Requests for approval of other such liens will be made by the borrower on "
+    }, {
+      "leftX" : 467.2799,
+      "bottomY" : 542.5299,
+      "rightX" : 496.9199,
+      "topY" : 530.5299,
+      "baseLineY" : 539.76,
+      "fontId" : 10,
+      "text" : "Form "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 556.3299,
+      "rightX" : 124.92,
+      "topY" : 544.3299,
+      "baseLineY" : 553.56,
+      "fontId" : 10,
+      "text" : "RD 3560-1"
+    }, {
+      "leftX" : 124.92,
+      "bottomY" : 556.295,
+      "rightX" : 516.84,
+      "topY" : 544.295,
+      "baseLineY" : 553.56,
+      "fontId" : 4,
+      "text" : ". The MFH Servicing official will forward to the Leadership Designee a properly "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 570.095,
+      "rightX" : 190.8,
+      "topY" : 558.095,
+      "baseLineY" : 567.36,
+      "fontId" : 4,
+      "text" : "completed and executed "
+    }, {
+      "leftX" : 190.92,
+      "bottomY" : 570.1299,
+      "rightX" : 273.48,
+      "topY" : 558.1299,
+      "baseLineY" : 567.36,
+      "fontId" : 10,
+      "text" : "Form RD 3560-1"
+    }, {
+      "leftX" : 273.48,
+      "bottomY" : 570.095,
+      "rightX" : 533.9988,
+      "topY" : 558.095,
+      "baseLineY" : 567.36,
+      "fontId" : 4,
+      "text" : ", the proposed arrangement, the case file, and specific "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 583.895,
+      "rightX" : 267.6,
+      "topY" : 571.895,
+      "baseLineY" : 581.16,
+      "fontId" : 4,
+      "text" : "recommendations regarding the request. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 609.695,
+      "rightX" : 428.1599,
+      "topY" : 597.695,
+      "baseLineY" : 606.96,
+      "fontId" : 4,
+      "text" : "The Leadership Designee will indicate approval or disapproval on "
+    }, {
+      "leftX" : 428.1599,
+      "bottomY" : 609.7299,
+      "rightX" : 510.84,
+      "topY" : 597.7299,
+      "baseLineY" : 606.96,
+      "fontId" : 10,
+      "text" : "Form RD 3560-1"
+    }, {
+      "leftX" : 510.84,
+      "bottomY" : 609.695,
+      "rightX" : 541.4399,
+      "topY" : 597.695,
+      "baseLineY" : 606.96,
+      "fontId" : 4,
+      "text" : ".  The "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 623.495,
+      "rightX" : 542.3987,
+      "topY" : 611.495,
+      "baseLineY" : 620.76,
+      "fontId" : 4,
+      "text" : "Leadership Designee will request that OGC prepare or approve the arrangement and issue special "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 637.295,
+      "rightX" : 212.64,
+      "topY" : 625.295,
+      "baseLineY" : 634.56,
+      "fontId" : 4,
+      "text" : "instructions when necessary. "
+    }, {
+      "leftX" : 323.9999,
+      "bottomY" : 663.1299,
+      "rightX" : 326.9999,
+      "topY" : 651.1299,
+      "baseLineY" : 660.36,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 688.895,
+      "rightX" : 110.9999,
+      "topY" : 676.895,
+      "baseLineY" : 686.16,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1192,
+      "rightX" : 74.49,
+      "topY" : 746.1192,
+      "baseLineY" : 753.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 296.76,
+      "bottomY" : 762.3592,
+      "rightX" : 317.61,
+      "topY" : 752.3592,
+      "baseLineY" : 760.08,
+      "fontId" : 1,
+      "text" : "8-13 "
+    }, {
+      "leftX" : 79.2,
+      "bottomY" : 773.8791,
+      "rightX" : 160.2804,
+      "topY" : 763.8791,
+      "baseLineY" : 771.6,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 14.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 11.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

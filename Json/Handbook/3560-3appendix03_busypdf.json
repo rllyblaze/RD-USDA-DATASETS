@@ -1,0 +1,760 @@
+{
+  "pdfDoc" : "3560-3appendix03.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 476.4,
+      "bottomY" : 47.6391,
+      "rightX" : 524.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 475.0753,
+      "bottomY" : 59.1629,
+      "rightX" : 524.4868,
+      "topY" : 49.1629,
+      "baseLineY" : 56.8837,
+      "fontId" : 1,
+      "text" : "Appendix 3 "
+    }, {
+      "leftX" : 476.7585,
+      "bottomY" : 70.567,
+      "rightX" : 524.4868,
+      "topY" : 60.567,
+      "baseLineY" : 68.2879,
+      "fontId" : 1,
+      "text" : "Page 1 of 2 "
+    }, {
+      "leftX" : 264.6,
+      "bottomY" : 88.3979,
+      "rightX" : 350.9039,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 2,
+      "text" : "APPENDIX 3 "
+    }, {
+      "leftX" : 159.4685,
+      "bottomY" : 116.478,
+      "rightX" : 456.0214,
+      "topY" : 102.478,
+      "baseLineY" : 113.16,
+      "fontId" : 2,
+      "text" : "FORMS REFERENCED IN THIS HANDBOOK "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 142.055,
+      "rightX" : 512.1599,
+      "topY" : 130.055,
+      "baseLineY" : 139.32,
+      "fontId" : 3,
+      "text" : "Below is a list of forms that are mentioned in the text of this handbook. Since the Rural "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 155.855,
+      "rightX" : 469.0799,
+      "topY" : 143.855,
+      "baseLineY" : 153.12,
+      "fontId" : 3,
+      "text" : "Development forms may change more frequently than the handbook, users are "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 169.6549,
+      "rightX" : 517.7999,
+      "topY" : 157.6549,
+      "baseLineY" : 166.92,
+      "fontId" : 3,
+      "text" : "encouraged to obtain the most updated copy of these forms from the Rural Development "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 183.4549,
+      "rightX" : 201.516,
+      "topY" : 171.4549,
+      "baseLineY" : 180.72,
+      "fontId" : 3,
+      "text" : "Resources home page ("
+    }, {
+      "leftX" : 201.48,
+      "bottomY" : 183.4549,
+      "rightX" : 368.5079,
+      "topY" : 171.4549,
+      "baseLineY" : 180.72,
+      "fontId" : 3,
+      "text" : "https://www.rd.usda.gov/resources"
+    }, {
+      "leftX" : 368.52,
+      "bottomY" : 183.4549,
+      "rightX" : 488.7611,
+      "topY" : 171.4549,
+      "baseLineY" : 180.72,
+      "fontId" : 3,
+      "text" : ") for their own reference."
+    }, {
+      "leftX" : 488.88,
+      "bottomY" : 182.9991,
+      "rightX" : 491.37,
+      "topY" : 172.9991,
+      "baseLineY" : 180.72,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 195.0899,
+      "rightX" : 308.49,
+      "topY" : 185.0899,
+      "baseLineY" : 192.72,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 208.8099,
+      "rightX" : 345.24,
+      "topY" : 196.8099,
+      "baseLineY" : 206.04,
+      "fontId" : 5,
+      "text" : "Form AD 343, Cancellation of Administrative Offset "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 222.6099,
+      "rightX" : 340.68,
+      "topY" : 210.6099,
+      "baseLineY" : 219.84,
+      "fontId" : 5,
+      "text" : "Form AD 1047 Certification Regarding Debarment "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 236.4099,
+      "rightX" : 441.6,
+      "topY" : 224.4099,
+      "baseLineY" : 233.64,
+      "fontId" : 5,
+      "text" : "Form ASTM Standard E-1528 (TSQ), Transaction Screen Questionnaire "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 250.2099,
+      "rightX" : 379.4399,
+      "topY" : 238.2099,
+      "baseLineY" : 247.4399,
+      "fontId" : 5,
+      "text" : "Form FEMA 81-93, Standard Flood Hazard Determination "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 264.0099,
+      "rightX" : 385.4399,
+      "topY" : 252.0099,
+      "baseLineY" : 261.2399,
+      "fontId" : 5,
+      "text" : "Form HUD 935.2, Affirmative Fair Housing Marketing Plan "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 277.8098,
+      "rightX" : 355.6799,
+      "topY" : 265.8098,
+      "baseLineY" : 275.0399,
+      "fontId" : 5,
+      "text" : "Form HUD 2530, Previous Participation Certification "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 291.6098,
+      "rightX" : 312.24,
+      "topY" : 279.6098,
+      "baseLineY" : 288.8399,
+      "fontId" : 5,
+      "text" : "Form HUD 9832, Management Entity Profile "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 305.4098,
+      "rightX" : 300.96,
+      "topY" : 293.4098,
+      "baseLineY" : 302.6399,
+      "fontId" : 5,
+      "text" : "Form RD 140-4, Transmittal of Documents "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 319.2098,
+      "rightX" : 321,
+      "topY" : 307.2098,
+      "baseLineY" : 316.4399,
+      "fontId" : 5,
+      "text" : "Form RD 400-1, Equal Opportunity Agreement "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 333.0098,
+      "rightX" : 280.68,
+      "topY" : 321.0098,
+      "baseLineY" : 330.2399,
+      "fontId" : 5,
+      "text" : "Form RD 400-4, Assurance Agreement "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 346.8098,
+      "rightX" : 365.64,
+      "topY" : 334.8098,
+      "baseLineY" : 344.0399,
+      "fontId" : 5,
+      "text" : "Form RD 402-2, Statement of Deposits and Withdrawals "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 360.6098,
+      "rightX" : 379.3199,
+      "topY" : 348.6098,
+      "baseLineY" : 357.8398,
+      "fontId" : 5,
+      "text" : "Form RD 440-34, Option to Purchase Real Estate Property "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 374.4098,
+      "rightX" : 517.3198,
+      "topY" : 362.4098,
+      "baseLineY" : 371.6398,
+      "fontId" : 5,
+      "text" : "Form RD 1910-11, Applicant Certification Federal Collection Policies for Consumer or "
+    }, {
+      "leftX" : 116.9999,
+      "bottomY" : 388.2097,
+      "rightX" : 210.3599,
+      "topY" : 376.2097,
+      "baseLineY" : 385.4398,
+      "fontId" : 5,
+      "text" : "Commercial Debts "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 402.0097,
+      "rightX" : 376.6799,
+      "topY" : 390.0097,
+      "baseLineY" : 399.2398,
+      "fontId" : 5,
+      "text" : "Form RD 1924-13, Estimate and Certificate of Actual Cost "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 415.8097,
+      "rightX" : 364.5598,
+      "topY" : 403.8097,
+      "baseLineY" : 413.0398,
+      "fontId" : 5,
+      "text" : "Form RD 1944-37, Previous Participation Certification  "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 429.6097,
+      "rightX" : 342.7199,
+      "topY" : 417.6097,
+      "baseLineY" : 426.8398,
+      "fontId" : 5,
+      "text" : "Form RD 1955-40, Notice of Real Property for Sale "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 443.4097,
+      "rightX" : 512.7599,
+      "topY" : 431.4097,
+      "baseLineY" : 440.6398,
+      "fontId" : 5,
+      "text" : "Form RD 1955-45, Standard Sales Contract, Sale of Real Property of the United States "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 457.2097,
+      "rightX" : 514.5598,
+      "topY" : 445.2097,
+      "baseLineY" : 454.4398,
+      "fontId" : 5,
+      "text" : "Form RD 1955-46, Invitation, Bid, and Acceptance, Sale of Real Property of the United "
+    }, {
+      "leftX" : 116.9999,
+      "bottomY" : 471.0097,
+      "rightX" : 148.6799,
+      "topY" : 459.0097,
+      "baseLineY" : 468.2397,
+      "fontId" : 5,
+      "text" : "States "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 484.8097,
+      "rightX" : 259.3199,
+      "topY" : 472.8097,
+      "baseLineY" : 482.0397,
+      "fontId" : 5,
+      "text" : "Form RD 1955-47, Bill of Sale ‘A’ "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 498.6096,
+      "rightX" : 263.9999,
+      "topY" : 486.6096,
+      "baseLineY" : 495.8397,
+      "fontId" : 5,
+      "text" : "Form RD 1955-49, Quitclaim Deed "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 512.4096,
+      "rightX" : 506.6397,
+      "topY" : 500.4096,
+      "baseLineY" : 509.6397,
+      "fontId" : 5,
+      "text" : "Form RD 1955-62, Request for Contract Services for Custodial/Inventory Property or "
+    }, {
+      "leftX" : 116.9999,
+      "bottomY" : 526.2096,
+      "rightX" : 206.2799,
+      "topY" : 514.2096,
+      "baseLineY" : 523.4397,
+      "fontId" : 5,
+      "text" : "Program Services "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 540.0096,
+      "rightX" : 281.0399,
+      "topY" : 528.0096,
+      "baseLineY" : 537.2397,
+      "fontId" : 5,
+      "text" : "Form RD 1962-20, Notice of Judgment "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 553.8096,
+      "rightX" : 465.7199,
+      "topY" : 541.8096,
+      "baseLineY" : 551.0397,
+      "fontId" : 5,
+      "text" : "Form RD 3560-1, Application for Partial Release, Subordination, or Consent "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 567.6096,
+      "rightX" : 427.6799,
+      "topY" : 555.6096,
+      "baseLineY" : 564.8397,
+      "fontId" : 5,
+      "text" : "Form RD 3560-7, Multiple Family Housing Budget/Utility Allowance "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 581.4096,
+      "rightX" : 279.3599,
+      "topY" : 569.4096,
+      "baseLineY" : 578.6397,
+      "fontId" : 5,
+      "text" : "Form RD 3560-8, Tenant Certification "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 595.2096,
+      "rightX" : 416.0399,
+      "topY" : 583.2096,
+      "baseLineY" : 592.4397,
+      "fontId" : 5,
+      "text" : "Form RD 3560-9, Interest Credit and Rental Assistance Agreement "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 609.0097,
+      "rightX" : 305.6399,
+      "topY" : 597.0097,
+      "baseLineY" : 606.2397,
+      "fontId" : 5,
+      "text" : "Form RD 3560-10, Borrower Balance Sheet "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 622.8097,
+      "rightX" : 302.7599,
+      "topY" : 610.8097,
+      "baseLineY" : 620.0397,
+      "fontId" : 5,
+      "text" : "Form RD 3560-15, Reamortization Request "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 636.6096,
+      "rightX" : 313.6559,
+      "topY" : 624.6096,
+      "baseLineY" : 633.8397,
+      "fontId" : 5,
+      "text" : "Form RD 3560-16, Reamortization Agreement"
+    }, {
+      "leftX" : 313.68,
+      "bottomY" : 636.1191,
+      "rightX" : 318.6898,
+      "topY" : 626.1191,
+      "baseLineY" : 633.84,
+      "fontId" : 1,
+      "text" : "  "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 650.4099,
+      "rightX" : 310.32,
+      "topY" : 638.4099,
+      "baseLineY" : 647.64,
+      "fontId" : 5,
+      "text" : "Form RD 3560-17, MFH Note Consolidation "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 664.2099,
+      "rightX" : 494.28,
+      "topY" : 652.2099,
+      "baseLineY" : 661.44,
+      "fontId" : 5,
+      "text" : "Form RD 3560-17A, MFH Consolidation of Projects/Loan Agreements/Resolutions "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 678.0099,
+      "rightX" : 400.3199,
+      "topY" : 666.0099,
+      "baseLineY" : 675.24,
+      "fontId" : 5,
+      "text" : "Form RD 3560-19, MFH Advice of Mortgaged Real Estate Sold "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 691.81,
+      "rightX" : 478.32,
+      "topY" : 679.81,
+      "baseLineY" : 689.04,
+      "fontId" : 5,
+      "text" : "Form RD 3560-20, Multi-Family Housing Transfer and Assumption Review and "
+    }, {
+      "leftX" : 117,
+      "bottomY" : 705.61,
+      "rightX" : 203.28,
+      "topY" : 693.61,
+      "baseLineY" : 702.84,
+      "fontId" : 5,
+      "text" : "Recommendation "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 719.4099,
+      "rightX" : 298.68,
+      "topY" : 707.4099,
+      "baseLineY" : 716.64,
+      "fontId" : 5,
+      "text" : "Form RD 3560-21, Assumption Agreement "
+    }, {
+      "leftX" : 76.92,
+      "bottomY" : 761.747,
+      "rightX" : 163.5601,
+      "topY" : 750.747,
+      "baseLineY" : 759.24,
+      "fontId" : 6,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 163.44,
+      "bottomY" : 761.2912,
+      "rightX" : 165.69,
+      "topY" : 752.2912,
+      "baseLineY" : 759.24,
+      "fontId" : 7,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 47.6391,
+      "rightX" : 138.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-3-3560 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 59.1629,
+      "rightX" : 139.4116,
+      "topY" : 49.1629,
+      "baseLineY" : 56.8837,
+      "fontId" : 1,
+      "text" : "Appendix 3 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 70.567,
+      "rightX" : 137.7283,
+      "topY" : 60.567,
+      "baseLineY" : 68.2879,
+      "fontId" : 1,
+      "text" : "Page 2 of 2 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 84.3349,
+      "rightX" : 93,
+      "topY" : 72.3349,
+      "baseLineY" : 81.6,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 98.1699,
+      "rightX" : 306.6,
+      "topY" : 86.1699,
+      "baseLineY" : 95.4,
+      "fontId" : 5,
+      "text" : "Form RD 3560-22, Offer to Convey Security "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 111.9699,
+      "rightX" : 327.6,
+      "topY" : 99.9699,
+      "baseLineY" : 109.2,
+      "fontId" : 5,
+      "text" : "Form RD 3560-27, Rental Assistance Agreement "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 125.7699,
+      "rightX" : 326.88,
+      "topY" : 113.7699,
+      "baseLineY" : 122.9999,
+      "fontId" : 5,
+      "text" : "Form RD 3560-28, MFH Exception to Late Fees "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 139.5699,
+      "rightX" : 335.04,
+      "topY" : 127.5699,
+      "baseLineY" : 136.7999,
+      "fontId" : 5,
+      "text" : "Form RD 3560-29, Notice of Payment Due Report "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 153.3698,
+      "rightX" : 447,
+      "topY" : 141.3698,
+      "baseLineY" : 150.5999,
+      "fontId" : 5,
+      "text" : "Form RD 3560-29A, Multiple Family Housing Statement of Payment Due "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 167.1698,
+      "rightX" : 397.68,
+      "topY" : 155.1698,
+      "baseLineY" : 164.3999,
+      "fontId" : 5,
+      "text" : "Form RD 3560-30, Certification of No Identity of Interest (IOI) "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 180.9698,
+      "rightX" : 453,
+      "topY" : 168.9698,
+      "baseLineY" : 178.1999,
+      "fontId" : 5,
+      "text" : "Form RD 3560-31, Identity of Interest Disclosure/Qualification Certificate "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 194.7698,
+      "rightX" : 267.36,
+      "topY" : 182.7698,
+      "baseLineY" : 191.9999,
+      "fontId" : 5,
+      "text" : "Form RD 3560-33, Loan Agreement "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 208.5698,
+      "rightX" : 341.76,
+      "topY" : 196.5698,
+      "baseLineY" : 205.7999,
+      "fontId" : 5,
+      "text" : "Form RD 3560-33A, Consolidated Loan Agreement "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 222.3698,
+      "rightX" : 267.36,
+      "topY" : 210.3698,
+      "baseLineY" : 219.5999,
+      "fontId" : 5,
+      "text" : "Form RD 3560-34, Loan Agreement "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 236.1698,
+      "rightX" : 368.04,
+      "topY" : 224.1698,
+      "baseLineY" : 233.3998,
+      "fontId" : 5,
+      "text" : "Form RD 3560-34A, Consolidated RRH Loan Agreement "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 249.9698,
+      "rightX" : 266.76,
+      "topY" : 237.9698,
+      "baseLineY" : 247.1998,
+      "fontId" : 5,
+      "text" : "Form RD 3560-35, Loan Resolution "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 263.7697,
+      "rightX" : 341.04,
+      "topY" : 251.7697,
+      "baseLineY" : 260.9998,
+      "fontId" : 5,
+      "text" : "Form RD 3560-35A, Consolidated Loan Resolution "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 277.5697,
+      "rightX" : 297.96,
+      "topY" : 265.5697,
+      "baseLineY" : 274.7998,
+      "fontId" : 5,
+      "text" : "Form RD 3560-50, Conversion Agreement "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 291.3697,
+      "rightX" : 320.76,
+      "topY" : 279.3697,
+      "baseLineY" : 288.5998,
+      "fontId" : 5,
+      "text" : "Form RD 3560-51, Obligation – Fund Analysis "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 305.1697,
+      "rightX" : 268.6801,
+      "topY" : 293.1697,
+      "baseLineY" : 302.3998,
+      "fontId" : 5,
+      "text" : "Form RD 3560-52, Promissory Note "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 318.9697,
+      "rightX" : 288.0001,
+      "topY" : 306.9697,
+      "baseLineY" : 316.1998,
+      "fontId" : 5,
+      "text" : "Form RD 3560-55, MFH Transfer of RA "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 332.7697,
+      "rightX" : 364.5601,
+      "topY" : 320.7697,
+      "baseLineY" : 329.9998,
+      "fontId" : 5,
+      "text" : "Form RD 3560-56, Report on Real Estate Problem Case "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 346.5697,
+      "rightX" : 391.6801,
+      "topY" : 334.5697,
+      "baseLineY" : 343.7997,
+      "fontId" : 5,
+      "text" : "Form RD 3560-57, Application for Settlement of Indebtedness "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 360.3697,
+      "rightX" : 244.3201,
+      "topY" : 348.3697,
+      "baseLineY" : 357.5997,
+      "fontId" : 5,
+      "text" : "Form RD 3560-58, Satisfaction "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 374.1696,
+      "rightX" : 408.9601,
+      "topY" : 362.1696,
+      "baseLineY" : 371.3997,
+      "fontId" : 5,
+      "text" : "Form RD 3560-64, Online Payment Certification Monitoring Log "
+    }, {
+      "leftX" : 92.1601,
+      "bottomY" : 387.9696,
+      "rightX" : 515.6401,
+      "topY" : 375.9696,
+      "baseLineY" : 385.1997,
+      "fontId" : 5,
+      "text" : "Form RD 3560-65, MFH Miscellaneous Receivable Notification/Repayment Agreement "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 401.7696,
+      "rightX" : 330.6,
+      "topY" : 389.7696,
+      "baseLineY" : 398.9997,
+      "fontId" : 5,
+      "text" : "Form SF 424, Application for Federal Assistance "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 415.5696,
+      "rightX" : 361.308,
+      "topY" : 403.5696,
+      "baseLineY" : 412.7997,
+      "fontId" : 5,
+      "text" : "SF 424 C, Budget Information – Construction Programs"
+    }, {
+      "leftX" : 361.3201,
+      "bottomY" : 415.5346,
+      "rightX" : 364.3201,
+      "topY" : 403.5346,
+      "baseLineY" : 412.7997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 429.3696,
+      "rightX" : 325.3201,
+      "topY" : 417.3696,
+      "baseLineY" : 426.5997,
+      "fontId" : 5,
+      "text" : "SF 424 D, Assurances – Construction Programs "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 443.1696,
+      "rightX" : 302.6401,
+      "topY" : 431.1696,
+      "baseLineY" : 440.3997,
+      "fontId" : 5,
+      "text" : "SF - LLL, Disclosure of Lobbying Activities "
+    }, {
+      "leftX" : 90.0001,
+      "bottomY" : 456.9696,
+      "rightX" : 403.0801,
+      "topY" : 444.9696,
+      "baseLineY" : 454.1996,
+      "fontId" : 5,
+      "text" : "IRS Form 990, Return of Organization Exempt from Income Tax "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

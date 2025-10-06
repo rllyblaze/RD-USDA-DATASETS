@@ -1,0 +1,3350 @@
+{
+  "pdfDoc" : "3565-1chapter11.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 467.34,
+      "bottomY" : 97.5614,
+      "rightX" : 525,
+      "topY" : 85.5614,
+      "baseLineY" : 95.22,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 134.1,
+      "bottomY" : 133.4717,
+      "rightX" : 481.2891,
+      "topY" : 119.4717,
+      "baseLineY" : 130.74,
+      "fontId" : 2,
+      "text" : "CHAPTER 11:  ENVIRONMENTAL REQUIREMENTS "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 172.6814,
+      "rightX" : 113.9664,
+      "topY" : 160.6814,
+      "baseLineY" : 170.34,
+      "fontId" : 3,
+      "text" : "11.1 "
+    }, {
+      "leftX" : 125.9664,
+      "bottomY" : 172.6814,
+      "rightX" : 284.9436,
+      "topY" : 160.6814,
+      "baseLineY" : 170.34,
+      "fontId" : 3,
+      "text" : "PURPOSE AND OVERVIEW "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 192.4814,
+      "rightX" : 283.6188,
+      "topY" : 180.4814,
+      "baseLineY" : 190.14,
+      "fontId" : 1,
+      "text" : "The purpose of this chapter is to "
+    }, {
+      "leftX" : 367.2,
+      "bottomY" : 193.9663,
+      "rightX" : 496.529,
+      "topY" : 182.9663,
+      "baseLineY" : 191.82,
+      "fontId" : 4,
+      "text" : "Key Topics in this Chapter "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 206.2814,
+      "rightX" : 309.6529,
+      "topY" : 194.2814,
+      "baseLineY" : 203.9399,
+      "fontId" : 1,
+      "text" : "describe the environmental requirements that "
+    }, {
+      "leftX" : 327.6,
+      "bottomY" : 207.2881,
+      "rightX" : 332.6508,
+      "topY" : 196.2881,
+      "baseLineY" : 205.32,
+      "fontId" : 5,
+      "text" : ""
+    }, {
+      "leftX" : 332.6398,
+      "bottomY" : 207.4663,
+      "rightX" : 335.3848,
+      "topY" : 196.4663,
+      "baseLineY" : 205.32,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 341.0999,
+      "bottomY" : 207.4663,
+      "rightX" : 531.346,
+      "topY" : 196.4663,
+      "baseLineY" : 205.32,
+      "fontId" : 6,
+      "text" : "Agency Reviews During Loan Origination "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 220.0814,
+      "rightX" : 310.6392,
+      "topY" : 208.0814,
+      "baseLineY" : 217.7399,
+      "fontId" : 1,
+      "text" : "must be met by the Agency and by the lender "
+    }, {
+      "leftX" : 327.6,
+      "bottomY" : 220.7881,
+      "rightX" : 332.6508,
+      "topY" : 209.7881,
+      "baseLineY" : 218.82,
+      "fontId" : 5,
+      "text" : ""
+    }, {
+      "leftX" : 332.6398,
+      "bottomY" : 220.9663,
+      "rightX" : 335.3848,
+      "topY" : 209.9663,
+      "baseLineY" : 218.82,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 341.0999,
+      "bottomY" : 220.9663,
+      "rightX" : 502.7343,
+      "topY" : 209.9663,
+      "baseLineY" : 218.82,
+      "fontId" : 6,
+      "text" : "Environmental Reviews During the  "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 233.8814,
+      "rightX" : 288.6924,
+      "topY" : 221.8814,
+      "baseLineY" : 231.5399,
+      "fontId" : 1,
+      "text" : "as a part of multifamily housing lending  "
+    }, {
+      "leftX" : 341.1,
+      "bottomY" : 233.6263,
+      "rightX" : 417.4835,
+      "topY" : 222.6263,
+      "baseLineY" : 231.48,
+      "fontId" : 6,
+      "text" : "Servicing Period "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 247.6814,
+      "rightX" : 230.2993,
+      "topY" : 235.6814,
+      "baseLineY" : 245.3399,
+      "fontId" : 1,
+      "text" : "and loan servicing activities. "
+    }, {
+      "leftX" : 327.6,
+      "bottomY" : 246.9481,
+      "rightX" : 332.6508,
+      "topY" : 235.9481,
+      "baseLineY" : 244.98,
+      "fontId" : 5,
+      "text" : ""
+    }, {
+      "leftX" : 332.6398,
+      "bottomY" : 247.1263,
+      "rightX" : 335.3848,
+      "topY" : 236.1263,
+      "baseLineY" : 244.98,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 341.0999,
+      "bottomY" : 247.1263,
+      "rightX" : 500.8293,
+      "topY" : 236.1263,
+      "baseLineY" : 244.98,
+      "fontId" : 6,
+      "text" : "Other Environmental Requirements "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 261.4814,
+      "rightX" : 93,
+      "topY" : 249.4814,
+      "baseLineY" : 259.1399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 287.2813,
+      "rightX" : 113.976,
+      "topY" : 275.2813,
+      "baseLineY" : 284.9399,
+      "fontId" : 3,
+      "text" : "11.2 "
+    }, {
+      "leftX" : 125.976,
+      "bottomY" : 287.2813,
+      "rightX" : 402.2675,
+      "topY" : 275.2813,
+      "baseLineY" : 284.9399,
+      "fontId" : 3,
+      "text" : "GENERAL ENVIRONMENTAL REQUIREMENTS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 313.0213,
+      "rightX" : 479.1731,
+      "topY" : 301.0213,
+      "baseLineY" : 310.6799,
+      "fontId" : 1,
+      "text" : "The lender will provide the Agency with the information required for the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 326.8213,
+      "rightX" : 449.2585,
+      "topY" : 314.8213,
+      "baseLineY" : 324.4799,
+      "fontId" : 1,
+      "text" : "environmental review process. The environmental review process must be "
+    }, {
+      "leftX" : 531.48,
+      "bottomY" : 329.0415,
+      "rightX" : 534.48,
+      "topY" : 317.0415,
+      "baseLineY" : 326.7,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 340.6213,
+      "rightX" : 481.7617,
+      "topY" : 328.6213,
+      "baseLineY" : 338.2798,
+      "fontId" : 1,
+      "text" : "concluded by the Agency in accordance with National Environmental Policy Act "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 354.4213,
+      "rightX" : 513.9418,
+      "topY" : 342.4213,
+      "baseLineY" : 352.0798,
+      "fontId" : 1,
+      "text" : "(NEPA) of 1969 and 7 CFR part 1970 and its associated RD Instructions prior to taking "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 368.2213,
+      "rightX" : 367.5467,
+      "topY" : 356.2213,
+      "baseLineY" : 365.8798,
+      "fontId" : 1,
+      "text" : "any official action on an application for a loan guarantee. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 394.0213,
+      "rightX" : 503.8177,
+      "topY" : 382.0213,
+      "baseLineY" : 391.6798,
+      "fontId" : 1,
+      "text" : "NEPA requires that Agency actions be classified into three basic categories of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 407.8213,
+      "rightX" : 125.6544,
+      "topY" : 395.8213,
+      "baseLineY" : 405.4798,
+      "fontId" : 1,
+      "text" : "action: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 434.2669,
+      "rightX" : 131.52,
+      "topY" : 422.2669,
+      "baseLineY" : 432.1198,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 434.3886,
+      "rightX" : 134.856,
+      "topY" : 422.3886,
+      "baseLineY" : 432.1198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 434.4613,
+      "rightX" : 356.364,
+      "topY" : 422.4613,
+      "baseLineY" : 432.1198,
+      "fontId" : 1,
+      "text" : "Those that qualify as categorical exclusions; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 460.9669,
+      "rightX" : 131.52,
+      "topY" : 448.9669,
+      "baseLineY" : 458.8198,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 461.0886,
+      "rightX" : 134.856,
+      "topY" : 449.0886,
+      "baseLineY" : 458.8198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 461.1613,
+      "rightX" : 432.6433,
+      "topY" : 449.1613,
+      "baseLineY" : 458.8198,
+      "fontId" : 1,
+      "text" : "Those that require an Environmental Assessment (EA); and  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 487.6069,
+      "rightX" : 131.52,
+      "topY" : 475.6069,
+      "baseLineY" : 485.4598,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 487.7287,
+      "rightX" : 134.856,
+      "topY" : 475.7287,
+      "baseLineY" : 485.4598,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 487.8013,
+      "rightX" : 438.6096,
+      "topY" : 475.8013,
+      "baseLineY" : 485.4598,
+      "fontId" : 1,
+      "text" : "Those that require an Environmental Impact Statement (EIS). "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 513.6013,
+      "rightX" : 93,
+      "topY" : 501.6013,
+      "baseLineY" : 511.2598,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 513.6013,
+      "rightX" : 522.6323,
+      "topY" : 501.6013,
+      "baseLineY" : 511.2598,
+      "fontId" : 1,
+      "text" : "Due to the range of activities that may qualify for a categorical exclusion, the Agency "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 527.4013,
+      "rightX" : 479.7648,
+      "topY" : 515.4013,
+      "baseLineY" : 525.0598,
+      "fontId" : 1,
+      "text" : "has established two types of categorical exclusions.  Projects with no or minimal "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 541.2013,
+      "rightX" : 472.9126,
+      "topY" : 529.2013,
+      "baseLineY" : 538.8598,
+      "fontId" : 1,
+      "text" : "disturbance do not require an Environmental Report but may require additional "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 555.0013,
+      "rightX" : 521.9545,
+      "topY" : 543.0013,
+      "baseLineY" : 552.6598,
+      "fontId" : 1,
+      "text" : "documentation at the Agency’s discretion (see 7 CFR 1970.53). Projects with small-scale "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 568.8013,
+      "rightX" : 492.3308,
+      "topY" : 556.8013,
+      "baseLineY" : 566.4598,
+      "fontId" : 1,
+      "text" : "development require submission of an Environmental Report (see 7 CFR 1970.54). "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 594.6013,
+      "rightX" : 93,
+      "topY" : 582.6013,
+      "baseLineY" : 592.2598,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 608.4013,
+      "rightX" : 93,
+      "topY" : 596.4013,
+      "baseLineY" : 606.0598,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 622.2013,
+      "rightX" : 93,
+      "topY" : 610.2013,
+      "baseLineY" : 619.8599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 636.0013,
+      "rightX" : 93,
+      "topY" : 624.0013,
+      "baseLineY" : 633.6599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 649.8013,
+      "rightX" : 93,
+      "topY" : 637.8013,
+      "baseLineY" : 647.4598,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 663.6013,
+      "rightX" : 525,
+      "topY" : 651.6013,
+      "baseLineY" : 661.2598,
+      "fontId" : 1,
+      "text" : "________________________________________________________________________ "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 677.4013,
+      "rightX" : 319.9752,
+      "topY" : 665.4013,
+      "baseLineY" : 675.0598,
+      "fontId" : 1,
+      "text" : "11-1 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 691.2013,
+      "rightX" : 217.8888,
+      "topY" : 679.2013,
+      "baseLineY" : 688.8599,
+      "fontId" : 1,
+      "text" : "(02-22-17)  SPECIAL PN "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 705.0013,
+      "rightX" : 228.8999,
+      "topY" : 693.0013,
+      "baseLineY" : 702.6599,
+      "fontId" : 1,
+      "text" : "Revised (01-29-18)  PN 507 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 85.5614,
+      "rightX" : 147.66,
+      "topY" : 73.5614,
+      "baseLineY" : 83.22,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 99.3614,
+      "rightX" : 129,
+      "topY" : 87.3614,
+      "baseLineY" : 97.02,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 113.1614,
+      "rightX" : 499.5865,
+      "topY" : 101.1614,
+      "baseLineY" : 110.8199,
+      "fontId" : 1,
+      "text" : "The Agency environmental review must examine the potential impacts of the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 126.9614,
+      "rightX" : 522.6323,
+      "topY" : 114.9614,
+      "baseLineY" : 124.6199,
+      "fontId" : 1,
+      "text" : "proposed project on the environment and on a wide range of protected resources.  Exhibit "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 140.7614,
+      "rightX" : 505.8753,
+      "topY" : 128.7614,
+      "baseLineY" : 138.4199,
+      "fontId" : 1,
+      "text" : "11-1 provides a list of major resources that must be considered.  For a complete list of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 154.5614,
+      "rightX" : 484.8945,
+      "topY" : 142.5614,
+      "baseLineY" : 152.2199,
+      "fontId" : 1,
+      "text" : "resources that might present an “extraordinary circumstance” see 7 CFR 1970.52. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 180.3614,
+      "rightX" : 93,
+      "topY" : 168.3614,
+      "baseLineY" : 178.0199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 252.72,
+      "bottomY" : 179.0263,
+      "rightX" : 313.2088,
+      "topY" : 168.0263,
+      "baseLineY" : 176.88,
+      "fontId" : 4,
+      "text" : "Exhibit 11-1 "
+    }, {
+      "leftX" : 217.44,
+      "bottomY" : 197.6263,
+      "rightX" : 348.4533,
+      "topY" : 186.6263,
+      "baseLineY" : 195.48,
+      "fontId" : 4,
+      "text" : "Major Protected Resources "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 206.1613,
+      "rightX" : 129,
+      "topY" : 194.1613,
+      "baseLineY" : 203.8199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126.42,
+      "bottomY" : 216.2864,
+      "rightX" : 170.6979,
+      "topY" : 205.2864,
+      "baseLineY" : 214.14,
+      "fontId" : 6,
+      "text" : "Wetlands "
+    }, {
+      "leftX" : 301.9331,
+      "bottomY" : 216.2864,
+      "rightX" : 389.8895,
+      "topY" : 205.2864,
+      "baseLineY" : 214.14,
+      "fontId" : 6,
+      "text" : "Natural Landmarks "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 231.9613,
+      "rightX" : 129,
+      "topY" : 219.9613,
+      "baseLineY" : 229.6199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126.42,
+      "bottomY" : 228.9463,
+      "rightX" : 181.1476,
+      "topY" : 217.9463,
+      "baseLineY" : 226.8,
+      "fontId" : 6,
+      "text" : "Floodplains "
+    }, {
+      "leftX" : 301.943,
+      "bottomY" : 228.9463,
+      "rightX" : 393.0056,
+      "topY" : 217.9463,
+      "baseLineY" : 226.8,
+      "fontId" : 6,
+      "text" : "Important Farmland "
+    }, {
+      "leftX" : 126.42,
+      "bottomY" : 241.6064,
+      "rightX" : 207.0703,
+      "topY" : 230.6064,
+      "baseLineY" : 239.46,
+      "fontId" : 6,
+      "text" : "Wilderness Areas "
+    }, {
+      "leftX" : 301.9452,
+      "bottomY" : 241.6064,
+      "rightX" : 380.1206,
+      "topY" : 230.6064,
+      "baseLineY" : 239.46,
+      "fontId" : 6,
+      "text" : "Prime Forestland "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 257.7613,
+      "rightX" : 129,
+      "topY" : 245.7613,
+      "baseLineY" : 255.4199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126.42,
+      "bottomY" : 254.2663,
+      "rightX" : 233.453,
+      "topY" : 243.2663,
+      "baseLineY" : 252.12,
+      "fontId" : 6,
+      "text" : "Wild and Scenic Rivers "
+    }, {
+      "leftX" : 302.0472,
+      "bottomY" : 266.8663,
+      "rightX" : 426.0345,
+      "topY" : 255.8663,
+      "baseLineY" : 264.72,
+      "fontId" : 6,
+      "text" : "Coastal Zone Management  "
+    }, {
+      "leftX" : 302.0483,
+      "bottomY" : 254.2663,
+      "rightX" : 380.8375,
+      "topY" : 243.2663,
+      "baseLineY" : 252.12,
+      "fontId" : 6,
+      "text" : "Prime Rangeland "
+    }, {
+      "leftX" : 126.42,
+      "bottomY" : 266.8663,
+      "rightX" : 280.4924,
+      "topY" : 255.8663,
+      "baseLineY" : 264.72,
+      "fontId" : 6,
+      "text" : "Historical and Archeological Sites "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 283.5613,
+      "rightX" : 129,
+      "topY" : 271.5613,
+      "baseLineY" : 281.2198,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126.42,
+      "bottomY" : 279.5263,
+      "rightX" : 276.4385,
+      "topY" : 268.5263,
+      "baseLineY" : 277.38,
+      "fontId" : 6,
+      "text" : "Critical Habitat or Endangered or "
+    }, {
+      "leftX" : 301.9539,
+      "bottomY" : 279.5263,
+      "rightX" : 338.6403,
+      "topY" : 268.5263,
+      "baseLineY" : 277.38,
+      "fontId" : 6,
+      "text" : "   Areas "
+    }, {
+      "leftX" : 126.42,
+      "bottomY" : 292.1864,
+      "rightX" : 395.7157,
+      "topY" : 281.1864,
+      "baseLineY" : 290.04,
+      "fontId" : 6,
+      "text" : "   Threatened Species                             Sole Source Aquifer  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 309.3613,
+      "rightX" : 129,
+      "topY" : 297.3613,
+      "baseLineY" : 307.0198,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126.42,
+      "bottomY" : 317.5063,
+      "rightX" : 262.6248,
+      "topY" : 306.5063,
+      "baseLineY" : 315.36,
+      "fontId" : 6,
+      "text" : "State Water Quality Standards "
+    }, {
+      "leftX" : 126.42,
+      "bottomY" : 304.8464,
+      "rightX" : 376.136,
+      "topY" : 293.8464,
+      "baseLineY" : 302.7,
+      "fontId" : 6,
+      "text" : "Coastal Barriers                                        Recharge Area "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 335.1613,
+      "rightX" : 129,
+      "topY" : 323.1613,
+      "baseLineY" : 332.8198,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 360.9613,
+      "rightX" : 519.4381,
+      "topY" : 348.9613,
+      "baseLineY" : 358.6198,
+      "fontId" : 1,
+      "text" : "The applicant/lender will provide to the Agency sufficient environmental information to: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 387.4069,
+      "rightX" : 131.52,
+      "topY" : 375.4069,
+      "baseLineY" : 385.2598,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 387.5286,
+      "rightX" : 134.856,
+      "topY" : 375.5286,
+      "baseLineY" : 385.2598,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 387.6013,
+      "rightX" : 490.7392,
+      "topY" : 375.6013,
+      "baseLineY" : 385.2598,
+      "fontId" : 1,
+      "text" : " Demonstrate compliance with the requirements for the protection of the "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 401.4013,
+      "rightX" : 500.7455,
+      "topY" : 389.4013,
+      "baseLineY" : 399.0598,
+      "fontId" : 1,
+      "text" : "human environment, including the development of practicable alternatives "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 415.2013,
+      "rightX" : 496.356,
+      "topY" : 403.2013,
+      "baseLineY" : 412.8598,
+      "fontId" : 1,
+      "text" : "(which must always include the “no action” alternative) to either avoid or "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 429.0013,
+      "rightX" : 328.0658,
+      "topY" : 417.0013,
+      "baseLineY" : 426.6598,
+      "fontId" : 1,
+      "text" : "lessen adverse environmental impacts. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 455.4469,
+      "rightX" : 131.52,
+      "topY" : 443.4469,
+      "baseLineY" : 453.2998,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 455.5686,
+      "rightX" : 134.856,
+      "topY" : 443.5686,
+      "baseLineY" : 453.2998,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 455.6413,
+      "rightX" : 487.9941,
+      "topY" : 443.6413,
+      "baseLineY" : 453.2998,
+      "fontId" : 1,
+      "text" : "Demonstrate why the potential impact on the human environment is not "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 469.4413,
+      "rightX" : 462.0562,
+      "topY" : 457.4413,
+      "baseLineY" : 467.0998,
+      "fontId" : 1,
+      "text" : "considered to be significant, and therefore, an EIS is not required.  "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 483.2412,
+      "rightX" : 471.0844,
+      "topY" : 471.2412,
+      "baseLineY" : 480.8998,
+      "fontId" : 1,
+      "text" : "Environmental files must include appropriate, detailed, and accurate "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 497.0412,
+      "rightX" : 502.4281,
+      "topY" : 485.0412,
+      "baseLineY" : 494.6998,
+      "fontId" : 1,
+      "text" : "supporting documentation, maps, results of consultation, and evidence that "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 510.8412,
+      "rightX" : 515.8701,
+      "topY" : 498.8412,
+      "baseLineY" : 508.4998,
+      "fontId" : 1,
+      "text" : "required public notices were published and sent to the parties listed in  7 CFR "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 524.6412,
+      "rightX" : 336.0001,
+      "topY" : 512.6412,
+      "baseLineY" : 522.2997,
+      "fontId" : 1,
+      "text" : "1970 and its associated RD instructions. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 551.0868,
+      "rightX" : 131.52,
+      "topY" : 539.0868,
+      "baseLineY" : 548.9398,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 551.2086,
+      "rightX" : 134.856,
+      "topY" : 539.2086,
+      "baseLineY" : 548.9398,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 551.2812,
+      "rightX" : 507.6435,
+      "topY" : 539.2812,
+      "baseLineY" : 548.9398,
+      "fontId" : 1,
+      "text" : "Demonstrate that all mitigation measures listed in the environmental review "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 565.1412,
+      "rightX" : 522.3867,
+      "topY" : 553.1412,
+      "baseLineY" : 562.7997,
+      "fontId" : 1,
+      "text" : "will be included in legally binding documents, such as the Letter of Conditions "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 578.9412,
+      "rightX" : 359.0303,
+      "topY" : 566.9412,
+      "baseLineY" : 576.5997,
+      "fontId" : 1,
+      "text" : "and Conditional Commitment for Guarantee. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 605.3868,
+      "rightX" : 131.52,
+      "topY" : 593.3868,
+      "baseLineY" : 603.2397,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 605.5086,
+      "rightX" : 134.856,
+      "topY" : 593.5086,
+      "baseLineY" : 603.2397,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 605.5812,
+      "rightX" : 517.3582,
+      "topY" : 593.5812,
+      "baseLineY" : 603.2397,
+      "fontId" : 1,
+      "text" : "Show that mitigation measures were implemented during project completion.  "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 619.3812,
+      "rightX" : 479.6065,
+      "topY" : 607.3812,
+      "baseLineY" : 617.0397,
+      "fontId" : 1,
+      "text" : "This evidence will be obtained and included in the environmental file. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 645.1812,
+      "rightX" : 93,
+      "topY" : 633.1812,
+      "baseLineY" : 642.8397,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 670.9812,
+      "rightX" : 525,
+      "topY" : 658.9812,
+      "baseLineY" : 668.6398,
+      "fontId" : 3,
+      "text" : "________________________________________________________________________ "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 696.7812,
+      "rightX" : 319.9751,
+      "topY" : 684.7812,
+      "baseLineY" : 694.4398,
+      "fontId" : 1,
+      "text" : "11-2 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 467.34,
+      "bottomY" : 85.5614,
+      "rightX" : 525,
+      "topY" : 73.5614,
+      "baseLineY" : 83.22,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 111.3614,
+      "rightX" : 113.976,
+      "topY" : 99.3614,
+      "baseLineY" : 109.02,
+      "fontId" : 3,
+      "text" : "11.3 "
+    }, {
+      "leftX" : 125.976,
+      "bottomY" : 111.3614,
+      "rightX" : 364.2815,
+      "topY" : 99.3614,
+      "baseLineY" : 109.02,
+      "fontId" : 3,
+      "text" : "ENVIRONMENTAL RISK MANAGEMENT "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 137.1614,
+      "rightX" : 93,
+      "topY" : 125.1614,
+      "baseLineY" : 134.8199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 137.1614,
+      "rightX" : 521.5873,
+      "topY" : 125.1614,
+      "baseLineY" : 134.8199,
+      "fontId" : 1,
+      "text" : "The Agency and the guaranteed lender will incorporate into their lending practices an "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 150.9614,
+      "rightX" : 522.2422,
+      "topY" : 138.9614,
+      "baseLineY" : 148.6199,
+      "fontId" : 1,
+      "text" : "environmental risk management program.  The purpose of this risk management program "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 164.7614,
+      "rightX" : 148.6428,
+      "topY" : 152.7614,
+      "baseLineY" : 162.4199,
+      "fontId" : 1,
+      "text" : "is two-fold: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 191.207,
+      "rightX" : 131.52,
+      "topY" : 179.207,
+      "baseLineY" : 189.0599,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 191.3288,
+      "rightX" : 134.856,
+      "topY" : 179.3288,
+      "baseLineY" : 189.0599,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 191.4014,
+      "rightX" : 508.116,
+      "topY" : 179.4014,
+      "baseLineY" : 189.0599,
+      "fontId" : 1,
+      "text" : "To minimize adverse impacts to the security interests of the Agency and the "
+    }, {
+      "leftX" : 139.5,
+      "bottomY" : 205.2014,
+      "rightX" : 494.8389,
+      "topY" : 193.2014,
+      "baseLineY" : 202.8599,
+      "fontId" : 1,
+      "text" : "lender in real property caused by potential contamination from hazardous "
+    }, {
+      "leftX" : 139.5,
+      "bottomY" : 219.0014,
+      "rightX" : 426.3754,
+      "topY" : 207.0014,
+      "baseLineY" : 216.6599,
+      "fontId" : 1,
+      "text" : "substances, hazardous wastes, and petroleum products; and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 245.447,
+      "rightX" : 131.52,
+      "topY" : 233.447,
+      "baseLineY" : 243.2999,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 245.5687,
+      "rightX" : 134.856,
+      "topY" : 233.5687,
+      "baseLineY" : 243.2999,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 245.6414,
+      "rightX" : 518.4265,
+      "topY" : 233.6414,
+      "baseLineY" : 243.2999,
+      "fontId" : 1,
+      "text" : "To establish a process by which the Agency and the lender can minimize their "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 259.5014,
+      "rightX" : 491.6593,
+      "topY" : 247.5014,
+      "baseLineY" : 257.1599,
+      "fontId" : 1,
+      "text" : "liability under the laws regulating management of hazardous substances, "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 273.3014,
+      "rightX" : 349.3224,
+      "topY" : 261.3014,
+      "baseLineY" : 270.9599,
+      "fontId" : 1,
+      "text" : "hazardous wastes, and petroleum products. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 299.0414,
+      "rightX" : 517.6102,
+      "topY" : 287.0414,
+      "baseLineY" : 296.6999,
+      "fontId" : 1,
+      "text" : "A major component of this risk management program will be the performance of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 312.8413,
+      "rightX" : 520.9047,
+      "topY" : 300.8413,
+      "baseLineY" : 310.4999,
+      "fontId" : 1,
+      "text" : "due diligence.  Due diligence is the process of inquiring into the environmental condition "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 326.6413,
+      "rightX" : 513.4222,
+      "topY" : 314.6413,
+      "baseLineY" : 324.2999,
+      "fontId" : 1,
+      "text" : "of the real estate, in the context of a real estate transaction, to determine the presence of "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 340.4413,
+      "rightX" : 500.8644,
+      "topY" : 328.4413,
+      "baseLineY" : 338.0999,
+      "fontId" : 1,
+      "text" : "contamination from hazardous wastes and petroleum products and to determine what "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 354.2413,
+      "rightX" : 446.9376,
+      "topY" : 342.2413,
+      "baseLineY" : 351.8998,
+      "fontId" : 1,
+      "text" : "impact such contamination may have on the market value of the property. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 380.0413,
+      "rightX" : 503.6041,
+      "topY" : 368.0413,
+      "baseLineY" : 377.6998,
+      "fontId" : 1,
+      "text" : "Lenders are required to perform due diligence in conjunction with appropriate "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 393.8413,
+      "rightX" : 519.5833,
+      "topY" : 381.8413,
+      "baseLineY" : 391.4998,
+      "fontId" : 1,
+      "text" : "loan processing and servicing actions.  The minimum standard the Agency will accept as "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 407.6413,
+      "rightX" : 376.8794,
+      "topY" : 395.6413,
+      "baseLineY" : 405.2998,
+      "fontId" : 1,
+      "text" : "evidence of due diligence is the most current version of the "
+    }, {
+      "leftX" : 376.86,
+      "bottomY" : 407.6413,
+      "rightX" : 513.167,
+      "topY" : 395.6413,
+      "baseLineY" : 405.2998,
+      "fontId" : 9,
+      "text" : "ASTM Standard E 1528-14, "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 421.4413,
+      "rightX" : 320.4072,
+      "topY" : 409.4413,
+      "baseLineY" : 419.0998,
+      "fontId" : 9,
+      "text" : "Phase I Environmental Site Assessment Process"
+    }, {
+      "leftX" : 320.3399,
+      "bottomY" : 421.4413,
+      "rightX" : 514.8864,
+      "topY" : 409.4413,
+      "baseLineY" : 419.0998,
+      "fontId" : 1,
+      "text" : ", published by the American Society for "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 435.2412,
+      "rightX" : 506.898,
+      "topY" : 423.2412,
+      "baseLineY" : 432.8998,
+      "fontId" : 1,
+      "text" : "Testing and Materials (ASTM), completed by a qualified environmental professional.  "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 449.0412,
+      "rightX" : 490.9635,
+      "topY" : 437.0412,
+      "baseLineY" : 446.6998,
+      "fontId" : 1,
+      "text" : "Guaranteed lenders may incorporate the ASTM standards into their processing and "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 462.8412,
+      "rightX" : 518.7132,
+      "topY" : 450.8412,
+      "baseLineY" : 460.4998,
+      "fontId" : 1,
+      "text" : "servicing procedures or use an equivalent process of due diligence approved by the State "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 476.6412,
+      "rightX" : 489.9407,
+      "topY" : 464.6412,
+      "baseLineY" : 474.2997,
+      "fontId" : 1,
+      "text" : "Environmental Coordinator in consultation with the Regional OGC.  Lenders must "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 490.4412,
+      "rightX" : 506.2932,
+      "topY" : 478.4412,
+      "baseLineY" : 488.0997,
+      "fontId" : 1,
+      "text" : "provide the Agency with a copy of the due diligence report and maintain a copy in the "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 504.2412,
+      "rightX" : 503.838,
+      "topY" : 492.2412,
+      "baseLineY" : 501.8997,
+      "fontId" : 1,
+      "text" : "loan file.  Non-compliance with this section may jeopardize the Agency’s payment of "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 518.0412,
+      "rightX" : 325.6068,
+      "topY" : 506.0412,
+      "baseLineY" : 515.6997,
+      "fontId" : 1,
+      "text" : "loss claims due to environmental contamination. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 543.8412,
+      "rightX" : 305.3134,
+      "topY" : 531.8412,
+      "baseLineY" : 541.4997,
+      "fontId" : 1,
+      "text" : "Due diligence will be performed for: "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 570.2868,
+      "rightX" : 131.5199,
+      "topY" : 558.2868,
+      "baseLineY" : 568.1397,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 570.4085,
+      "rightX" : 134.8559,
+      "topY" : 558.4085,
+      "baseLineY" : 568.1397,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.3999,
+      "bottomY" : 570.4812,
+      "rightX" : 437.129,
+      "topY" : 558.4812,
+      "baseLineY" : 568.1397,
+      "fontId" : 1,
+      "text" : "All applications for existing multifamily housing units when: "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 596.9868,
+      "rightX" : 149.9279,
+      "topY" : 584.9868,
+      "baseLineY" : 594.8397,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 149.9399,
+      "bottomY" : 597.1085,
+      "rightX" : 153.2759,
+      "topY" : 585.1085,
+      "baseLineY" : 594.8397,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 158.3999,
+      "bottomY" : 597.1812,
+      "rightX" : 482.3354,
+      "topY" : 585.1812,
+      "baseLineY" : 594.8397,
+      "fontId" : 1,
+      "text" : "An appraiser reports to the Agency or to the guaranteed lender that "
+    }, {
+      "leftX" : 158.3999,
+      "bottomY" : 610.9812,
+      "rightX" : 513.0408,
+      "topY" : 598.9812,
+      "baseLineY" : 608.6397,
+      "fontId" : 1,
+      "text" : "potential contamination from hazardous substances, hazardous wastes, or "
+    }, {
+      "leftX" : 158.3999,
+      "bottomY" : 624.7812,
+      "rightX" : 496.2921,
+      "topY" : 612.7812,
+      "baseLineY" : 622.4397,
+      "fontId" : 1,
+      "text" : "petroleum products has been observed on the property or encountered "
+    }, {
+      "leftX" : 158.3999,
+      "bottomY" : 638.5812,
+      "rightX" : 511.3559,
+      "topY" : 626.5812,
+      "baseLineY" : 636.2397,
+      "fontId" : 1,
+      "text" : "through research or interviews with individuals knowledgeable about the "
+    }, {
+      "leftX" : 158.3999,
+      "bottomY" : 652.3812,
+      "rightX" : 218.4011,
+      "topY" : 640.3812,
+      "baseLineY" : 650.0397,
+      "fontId" : 1,
+      "text" : "property; or "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 678.1812,
+      "rightX" : 524.9999,
+      "topY" : 666.1812,
+      "baseLineY" : 675.8397,
+      "fontId" : 1,
+      "text" : "________________________________________________________________________ "
+    }, {
+      "leftX" : 294.9599,
+      "bottomY" : 691.9812,
+      "rightX" : 319.9751,
+      "topY" : 679.9812,
+      "baseLineY" : 689.6397,
+      "fontId" : 1,
+      "text" : "11-3 "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 705.7812,
+      "rightX" : 217.8887,
+      "topY" : 693.7812,
+      "baseLineY" : 703.4397,
+      "fontId" : 1,
+      "text" : "(02-22-17)  SPECIAL PN "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 719.5812,
+      "rightX" : 228.8998,
+      "topY" : 707.5812,
+      "baseLineY" : 717.2397,
+      "fontId" : 1,
+      "text" : "Revised (01-29-18)  PN 507 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 85.5614,
+      "rightX" : 147.66,
+      "topY" : 73.5614,
+      "baseLineY" : 83.22,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 112.007,
+      "rightX" : 149.928,
+      "topY" : 100.007,
+      "baseLineY" : 109.86,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 149.94,
+      "bottomY" : 112.1288,
+      "rightX" : 153.276,
+      "topY" : 100.1288,
+      "baseLineY" : 109.86,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 112.2014,
+      "rightX" : 471.7369,
+      "topY" : 100.2014,
+      "baseLineY" : 109.86,
+      "fontId" : 1,
+      "text" : "The Agency or the guaranteed lender becomes aware of possible "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 126.0014,
+      "rightX" : 491.6277,
+      "topY" : 114.0014,
+      "baseLineY" : 123.66,
+      "fontId" : 1,
+      "text" : "contamination through some means other than the appraiser’s report. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 152.447,
+      "rightX" : 131.52,
+      "topY" : 140.447,
+      "baseLineY" : 150.3,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 152.5688,
+      "rightX" : 134.856,
+      "topY" : 140.5688,
+      "baseLineY" : 150.3,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 152.6415,
+      "rightX" : 465.073,
+      "topY" : 140.6415,
+      "baseLineY" : 150.3,
+      "fontId" : 1,
+      "text" : "All applications for new construction of multifamily housing units. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 179.1471,
+      "rightX" : 131.52,
+      "topY" : 167.1471,
+      "baseLineY" : 177,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 179.2688,
+      "rightX" : 134.856,
+      "topY" : 167.2688,
+      "baseLineY" : 177,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 179.3415,
+      "rightX" : 502.9658,
+      "topY" : 167.3415,
+      "baseLineY" : 177,
+      "fontId" : 1,
+      "text" : "The Agency takes a security interest in a commercial real estate loan in the "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 193.1415,
+      "rightX" : 297.3769,
+      "topY" : 181.1415,
+      "baseLineY" : 190.8,
+      "fontId" : 1,
+      "text" : "amount of $100,000 or more; or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 219.5871,
+      "rightX" : 131.52,
+      "topY" : 207.5871,
+      "baseLineY" : 217.44,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 219.7088,
+      "rightX" : 134.856,
+      "topY" : 207.7088,
+      "baseLineY" : 217.44,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 219.7815,
+      "rightX" : 509.3843,
+      "topY" : 207.7815,
+      "baseLineY" : 217.44,
+      "fontId" : 1,
+      "text" : "An appraiser reports to the Agency or to the guaranteed lender that potential "
+    }, {
+      "leftX" : 140.4001,
+      "bottomY" : 233.5815,
+      "rightX" : 501.5974,
+      "topY" : 221.5815,
+      "baseLineY" : 231.24,
+      "fontId" : 1,
+      "text" : "contamination from hazardous substances, hazardous wastes, or petroleum "
+    }, {
+      "leftX" : 140.4001,
+      "bottomY" : 247.3814,
+      "rightX" : 522.9602,
+      "topY" : 235.3814,
+      "baseLineY" : 245.04,
+      "fontId" : 1,
+      "text" : "products has been observed on the property or encountered through research or "
+    }, {
+      "leftX" : 140.4001,
+      "bottomY" : 261.1814,
+      "rightX" : 457.0897,
+      "topY" : 249.1814,
+      "baseLineY" : 258.84,
+      "fontId" : 1,
+      "text" : "interviews with individuals knowledgeable about the property; or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 287.627,
+      "rightX" : 131.5201,
+      "topY" : 275.627,
+      "baseLineY" : 285.48,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 287.7488,
+      "rightX" : 134.856,
+      "topY" : 275.7488,
+      "baseLineY" : 285.48,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4001,
+      "bottomY" : 287.8214,
+      "rightX" : 453.737,
+      "topY" : 275.8214,
+      "baseLineY" : 285.48,
+      "fontId" : 1,
+      "text" : "The Agency or the guaranteed lender becomes aware of possible "
+    }, {
+      "leftX" : 140.4001,
+      "bottomY" : 301.6814,
+      "rightX" : 473.662,
+      "topY" : 289.6814,
+      "baseLineY" : 299.34,
+      "fontId" : 1,
+      "text" : "contamination through some means other than the appraiser’s report. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 328.127,
+      "rightX" : 131.52,
+      "topY" : 316.127,
+      "baseLineY" : 325.98,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 328.2488,
+      "rightX" : 134.856,
+      "topY" : 316.2488,
+      "baseLineY" : 325.98,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 328.3214,
+      "rightX" : 465.0731,
+      "topY" : 316.3214,
+      "baseLineY" : 325.98,
+      "fontId" : 1,
+      "text" : "All applications for new construction of multifamily housing units. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 354.1214,
+      "rightX" : 511.7721,
+      "topY" : 342.1214,
+      "baseLineY" : 351.78,
+      "fontId" : 1,
+      "text" : "Additionally, if underground storage tanks are present at existing structures, the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 367.9214,
+      "rightX" : 521.5991,
+      "topY" : 355.9214,
+      "baseLineY" : 365.58,
+      "fontId" : 1,
+      "text" : "lender will ensure that the tanks comply with appropriate regulatory requirements or they "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 381.7214,
+      "rightX" : 174.024,
+      "topY" : 369.7214,
+      "baseLineY" : 379.3799,
+      "fontId" : 1,
+      "text" : "will be removed. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 407.5214,
+      "rightX" : 113.976,
+      "topY" : 395.5214,
+      "baseLineY" : 405.1799,
+      "fontId" : 3,
+      "text" : "11.4 "
+    }, {
+      "leftX" : 125.976,
+      "bottomY" : 407.5214,
+      "rightX" : 431.1935,
+      "topY" : 395.5214,
+      "baseLineY" : 405.1799,
+      "fontId" : 3,
+      "text" : "RESPONSIBILITY FOR ENVIRONMENTAL REVIEWS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 433.3214,
+      "rightX" : 449.1939,
+      "topY" : 421.3214,
+      "baseLineY" : 430.9799,
+      "fontId" : 1,
+      "text" : "The Agency is responsible for determining the appropriate level of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 460.9214,
+      "rightX" : 443.2897,
+      "topY" : 448.9214,
+      "baseLineY" : 458.5799,
+      "fontId" : 1,
+      "text" : "the environmental determination.  The applicant/lender is responsible for "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 447.1214,
+      "rightX" : 484.2025,
+      "topY" : 435.1214,
+      "baseLineY" : 444.7799,
+      "fontId" : 1,
+      "text" : "environmental review in accordance with 7 CFR RD Instruction1970 and making "
+    }, {
+      "leftX" : 531.48,
+      "bottomY" : 449.3415,
+      "rightX" : 534.48,
+      "topY" : 437.3415,
+      "baseLineY" : 447,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 474.7213,
+      "rightX" : 465.3455,
+      "topY" : 462.7213,
+      "baseLineY" : 472.3799,
+      "fontId" : 1,
+      "text" : "submitting sufficient environmental information to the Agency for making its "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 488.5213,
+      "rightX" : 512.5709,
+      "topY" : 476.5213,
+      "baseLineY" : 486.1799,
+      "fontId" : 1,
+      "text" : "determination.  In consultation with the Agency, the applicant/lender will assemble and "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 502.3213,
+      "rightX" : 512.8189,
+      "topY" : 490.3213,
+      "baseLineY" : 499.9799,
+      "fontId" : 1,
+      "text" : "submit to the Agency the analysis of relevant material, the development and analysis of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 516.1213,
+      "rightX" : 443.1731,
+      "topY" : 504.1213,
+      "baseLineY" : 513.7798,
+      "fontId" : 1,
+      "text" : "practicable alternatives and mitigation measures, and the development of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 529.9213,
+      "rightX" : 467.9293,
+      "topY" : 517.9213,
+      "baseLineY" : 527.5798,
+      "fontId" : 1,
+      "text" : "recommendations.  The Agency is responsible for the environmental decision. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 555.7213,
+      "rightX" : 522.3169,
+      "topY" : 543.7213,
+      "baseLineY" : 553.3798,
+      "fontId" : 1,
+      "text" : "The Agency will require information from the lender and the lender’s applicant to "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 569.5213,
+      "rightX" : 508.9489,
+      "topY" : 557.5213,
+      "baseLineY" : 567.1798,
+      "fontId" : 1,
+      "text" : "complete this environmental review.  Lenders have a responsibility to become familiar "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 583.3213,
+      "rightX" : 509.7524,
+      "topY" : 571.3213,
+      "baseLineY" : 580.9799,
+      "fontId" : 1,
+      "text" : "with Federal environmental requirements so that they can advise applicants and reduce "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 597.1213,
+      "rightX" : 518.5871,
+      "topY" : 585.1213,
+      "baseLineY" : 594.7798,
+      "fontId" : 1,
+      "text" : "the probability of unacceptable applications being submitted to the Agency.  Lenders are "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 610.9213,
+      "rightX" : 519.156,
+      "topY" : 598.9213,
+      "baseLineY" : 608.5798,
+      "fontId" : 1,
+      "text" : "also expected to cooperate in the collection of any environmental data which the Agency "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 624.7213,
+      "rightX" : 488.5965,
+      "topY" : 612.7213,
+      "baseLineY" : 622.3799,
+      "fontId" : 1,
+      "text" : "determines is necessary and in the resolution of potential environmental problems. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 650.5213,
+      "rightX" : 129,
+      "topY" : 638.5213,
+      "baseLineY" : 648.1799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 676.3213,
+      "rightX" : 129,
+      "topY" : 664.3213,
+      "baseLineY" : 673.9799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 704.5815,
+      "rightX" : 319.9752,
+      "topY" : 692.5815,
+      "baseLineY" : 702.24,
+      "fontId" : 1,
+      "text" : "11-4 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 467.34,
+      "bottomY" : 85.5614,
+      "rightX" : 525,
+      "topY" : 73.5614,
+      "baseLineY" : 83.22,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 111.3614,
+      "rightX" : 512.3511,
+      "topY" : 99.3614,
+      "baseLineY" : 109.02,
+      "fontId" : 1,
+      "text" : "The Agency approval official will use the environmental review documents and "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 125.1614,
+      "rightX" : 521.9401,
+      "topY" : 113.1614,
+      "baseLineY" : 122.8199,
+      "fontId" : 1,
+      "text" : "the recommendations of the State Environmental Coordinator to make the Agency’s final "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 138.9614,
+      "rightX" : 476.8861,
+      "topY" : 126.9614,
+      "baseLineY" : 136.6199,
+      "fontId" : 1,
+      "text" : "decision regarding an environmental impact determination and compliance with "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 152.7614,
+      "rightX" : 518.6458,
+      "topY" : 140.7614,
+      "baseLineY" : 150.4199,
+      "fontId" : 1,
+      "text" : "environmental requirements, as well as flood insurance requirements.  This decision will "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 166.5614,
+      "rightX" : 180.9996,
+      "topY" : 154.5614,
+      "baseLineY" : 164.2199,
+      "fontId" : 1,
+      "text" : "be documented on "
+    }, {
+      "leftX" : 181.02,
+      "bottomY" : 166.5614,
+      "rightX" : 519.996,
+      "topY" : 154.5614,
+      "baseLineY" : 164.2199,
+      "fontId" : 9,
+      "text" : "RD Instruction 1970-B, Exhibit D, “Categorical Exclusion Form with "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 180.3614,
+      "rightX" : 154.0367,
+      "topY" : 168.3614,
+      "baseLineY" : 178.0199,
+      "fontId" : 9,
+      "text" : "Instructions”"
+    }, {
+      "leftX" : 154.0199,
+      "bottomY" : 180.3614,
+      "rightX" : 510.0396,
+      "topY" : 168.3614,
+      "baseLineY" : 178.0199,
+      "fontId" : 1,
+      "text" : ", for a categorical exclusion, a Finding of No Significant Impact (FONSI) "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 194.1613,
+      "rightX" : 352.6404,
+      "topY" : 182.1613,
+      "baseLineY" : 191.8199,
+      "fontId" : 1,
+      "text" : "for an EA, or a Record of Decision (ROD) for an EIS. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 219.9613,
+      "rightX" : 516.6359,
+      "topY" : 207.9613,
+      "baseLineY" : 217.6199,
+      "fontId" : 1,
+      "text" : "The State Environmental Coordinator is available to provide technical assistance "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 233.7613,
+      "rightX" : 522.9327,
+      "topY" : 221.7613,
+      "baseLineY" : 231.4199,
+      "fontId" : 1,
+      "text" : "and guidance to Agency staff, lenders, and borrowers.  They are also available to assist in "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 247.5613,
+      "rightX" : 524.9368,
+      "topY" : 235.5613,
+      "baseLineY" : 245.2198,
+      "fontId" : 1,
+      "text" : "problem resolution on environmental issues.  Environmental issues or problems should be "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 261.3613,
+      "rightX" : 373.267,
+      "topY" : 249.3613,
+      "baseLineY" : 259.0198,
+      "fontId" : 1,
+      "text" : "referred promptly to the State Environmental Coordinator. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 287.1613,
+      "rightX" : 113.9472,
+      "topY" : 275.1613,
+      "baseLineY" : 284.8198,
+      "fontId" : 3,
+      "text" : "11.5 "
+    }, {
+      "leftX" : 125.9472,
+      "bottomY" : 287.1613,
+      "rightX" : 474.8973,
+      "topY" : 275.1613,
+      "baseLineY" : 284.8198,
+      "fontId" : 3,
+      "text" : "ENVIRONMENTAL REVIEWS DURING LOAN ORIGINATION "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 312.9613,
+      "rightX" : 505.4783,
+      "topY" : 300.9613,
+      "baseLineY" : 310.6198,
+      "fontId" : 1,
+      "text" : "The Agency’s environmental review of the property, as required under NEPA, "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 326.7613,
+      "rightX" : 503.3124,
+      "topY" : 314.7613,
+      "baseLineY" : 324.4198,
+      "fontId" : 1,
+      "text" : "will be initiated as early as possible, but no later than the selection of the proposal for "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 340.5613,
+      "rightX" : 496.9552,
+      "topY" : 328.5613,
+      "baseLineY" : 338.2198,
+      "fontId" : 1,
+      "text" : "further processing.  This means the environmental review will normally be prepared "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 354.3612,
+      "rightX" : 508.5144,
+      "topY" : 342.3612,
+      "baseLineY" : 352.0198,
+      "fontId" : 1,
+      "text" : "simultaneously with the development of the application package.  This review must be "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 368.1612,
+      "rightX" : 358.6932,
+      "topY" : 356.1612,
+      "baseLineY" : 365.8198,
+      "fontId" : 1,
+      "text" : "complete and a Categorical Exclusion or FONSI issued "
+    }, {
+      "leftX" : 358.62,
+      "bottomY" : 368.1612,
+      "rightX" : 383.2679,
+      "topY" : 356.1612,
+      "baseLineY" : 365.8198,
+      "fontId" : 9,
+      "text" : "prior"
+    }, {
+      "leftX" : 383.28,
+      "bottomY" : 368.1612,
+      "rightX" : 521.8415,
+      "topY" : 356.1612,
+      "baseLineY" : 365.8198,
+      "fontId" : 1,
+      "text" : " to the Agency’s issuance of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 381.9615,
+      "rightX" : 488.6428,
+      "topY" : 369.9615,
+      "baseLineY" : 379.62,
+      "fontId" : 1,
+      "text" : "a conditional commitment.  Applicants and lenders must ensure no actions such as "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 395.7614,
+      "rightX" : 515.6294,
+      "topY" : 383.7614,
+      "baseLineY" : 393.42,
+      "fontId" : 1,
+      "text" : "demolition, land clearing, initiation of construction prior to the Agency’s environmental "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 409.5614,
+      "rightX" : 256.98,
+      "topY" : 397.5614,
+      "baseLineY" : 407.22,
+      "fontId" : 1,
+      "text" : "decision (see 7 CFR 1970.5(b)(5). "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 435.3614,
+      "rightX" : 140.6664,
+      "topY" : 423.3614,
+      "baseLineY" : 433.02,
+      "fontId" : 3,
+      "text" : "A. "
+    }, {
+      "leftX" : 162.0264,
+      "bottomY" : 435.3614,
+      "rightX" : 334.5804,
+      "topY" : 423.3614,
+      "baseLineY" : 433.02,
+      "fontId" : 3,
+      "text" : "The Response to the Notice Stage "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 461.1614,
+      "rightX" : 509.9687,
+      "topY" : 449.1614,
+      "baseLineY" : 458.8199,
+      "fontId" : 1,
+      "text" : "One of the requirements in the response to the Notice is a description of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 474.9614,
+      "rightX" : 519.5869,
+      "topY" : 462.9614,
+      "baseLineY" : 472.6199,
+      "fontId" : 1,
+      "text" : "any “known environmental issues that may affect the project.”  During this stage, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 488.7614,
+      "rightX" : 521.1866,
+      "topY" : 476.7614,
+      "baseLineY" : 486.4199,
+      "fontId" : 1,
+      "text" : "the Agency will take note of environmental issues that are disclosed by the lender "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 502.5014,
+      "rightX" : 500.9811,
+      "topY" : 490.5014,
+      "baseLineY" : 500.1599,
+      "fontId" : 1,
+      "text" : "in assessing the preliminary feasibility of the property.  It is important that all "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 516.3014,
+      "rightX" : 517.5959,
+      "topY" : 504.3014,
+      "baseLineY" : 513.9599,
+      "fontId" : 1,
+      "text" : "known information is disclosed at this stage.  Information not disclosed, that was "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 530.1014,
+      "rightX" : 521.3696,
+      "topY" : 518.1014,
+      "baseLineY" : 527.7599,
+      "fontId" : 1,
+      "text" : "known to the lender or borrower, could be grounds for disqualification of funding "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 543.9013,
+      "rightX" : 201.0431,
+      "topY" : 531.9013,
+      "baseLineY" : 541.5599,
+      "fontId" : 1,
+      "text" : "at a later stage. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 569.7013,
+      "rightX" : 140.0039,
+      "topY" : 557.7013,
+      "baseLineY" : 567.3599,
+      "fontId" : 3,
+      "text" : "B. "
+    }, {
+      "leftX" : 162.0239,
+      "bottomY" : 569.7013,
+      "rightX" : 340.7279,
+      "topY" : 557.7013,
+      "baseLineY" : 567.3599,
+      "fontId" : 3,
+      "text" : "The Application Submission Stage "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 595.5014,
+      "rightX" : 137.9999,
+      "topY" : 583.5014,
+      "baseLineY" : 593.1599,
+      "fontId" : 3,
+      "text" : "1. "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 595.5014,
+      "rightX" : 294.0119,
+      "topY" : 583.5014,
+      "baseLineY" : 593.1599,
+      "fontId" : 3,
+      "text" : "Submission Requirement "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 621.3014,
+      "rightX" : 467.6559,
+      "topY" : 609.3014,
+      "baseLineY" : 618.9599,
+      "fontId" : 1,
+      "text" : "The lender must submit the following information (unless such "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 635.1014,
+      "rightX" : 502.8829,
+      "topY" : 623.1014,
+      "baseLineY" : 632.7599,
+      "fontId" : 1,
+      "text" : "information was previously submitted) as part of the loan application package "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 648.9014,
+      "rightX" : 239.3519,
+      "topY" : 636.9014,
+      "baseLineY" : 646.5599,
+      "fontId" : 1,
+      "text" : "(see Paragraph 4.8 B.): "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 668.7014,
+      "rightX" : 488.9999,
+      "topY" : 656.7014,
+      "baseLineY" : 666.3599,
+      "fontId" : 1,
+      "text" : "__________________________________________________________________ "
+    }, {
+      "leftX" : 277.8599,
+      "bottomY" : 682.5014,
+      "rightX" : 302.8751,
+      "topY" : 670.5014,
+      "baseLineY" : 680.1599,
+      "fontId" : 1,
+      "text" : "11-5 "
+    }, {
+      "leftX" : 531.48,
+      "bottomY" : 684.7215,
+      "rightX" : 534.48,
+      "topY" : 672.7215,
+      "baseLineY" : 682.38,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 696.3014,
+      "rightX" : 217.8888,
+      "topY" : 684.3014,
+      "baseLineY" : 693.9599,
+      "fontId" : 1,
+      "text" : "(02-22-17)  SPECIAL PN "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 708.9463,
+      "rightX" : 217.3712,
+      "topY" : 697.9463,
+      "baseLineY" : 706.8,
+      "fontId" : 6,
+      "text" : "Revised (11-15-19)  PN 531 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 85.5614,
+      "rightX" : 147.66,
+      "topY" : 73.5614,
+      "baseLineY" : 83.22,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 106.007,
+      "rightX" : 131.52,
+      "topY" : 94.007,
+      "baseLineY" : 103.86,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 106.1288,
+      "rightX" : 134.856,
+      "topY" : 94.1288,
+      "baseLineY" : 103.86,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 106.2014,
+      "rightX" : 524.3181,
+      "topY" : 94.2014,
+      "baseLineY" : 103.86,
+      "fontId" : 1,
+      "text" : "Lenders and applicants should refer to 7 CFR 1970 Subparts B and C, and their "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 120.0014,
+      "rightX" : 523.9527,
+      "topY" : 108.0014,
+      "baseLineY" : 117.66,
+      "fontId" : 1,
+      "text" : "associated RD Instruction which contain applicant guides detailing information "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 133.8014,
+      "rightX" : 342.6409,
+      "topY" : 121.8014,
+      "baseLineY" : 131.46,
+      "fontId" : 1,
+      "text" : "needed from the lender and/or applicants. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 160.247,
+      "rightX" : 131.52,
+      "topY" : 148.247,
+      "baseLineY" : 158.1,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 160.3688,
+      "rightX" : 134.856,
+      "topY" : 148.3688,
+      "baseLineY" : 158.1,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 160.4414,
+      "rightX" : 523.2156,
+      "topY" : 148.4414,
+      "baseLineY" : 158.1,
+      "fontId" : 1,
+      "text" : "Phase I Environmental Site Assessment report as prescribed by ASTM (ASTM "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 174.3014,
+      "rightX" : 507.3752,
+      "topY" : 162.3014,
+      "baseLineY" : 171.96,
+      "fontId" : 1,
+      "text" : "Standard E 1527) or an equivalent process of due diligence approved by the "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 188.1014,
+      "rightX" : 496.392,
+      "topY" : 176.1014,
+      "baseLineY" : 185.7599,
+      "fontId" : 1,
+      "text" : "State Environmental Coordinator in consultation with the Regional OGC. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 214.547,
+      "rightX" : 131.52,
+      "topY" : 202.547,
+      "baseLineY" : 212.4,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 214.6688,
+      "rightX" : 134.856,
+      "topY" : 202.6688,
+      "baseLineY" : 212.4,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 214.7414,
+      "rightX" : 413.9769,
+      "topY" : 202.7414,
+      "baseLineY" : 212.4,
+      "fontId" : 1,
+      "text" : "Lender comments regarding relevant off-site conditions. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 241.187,
+      "rightX" : 131.52,
+      "topY" : 229.187,
+      "baseLineY" : 239.04,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 241.3088,
+      "rightX" : 134.856,
+      "topY" : 229.3088,
+      "baseLineY" : 239.04,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 241.3814,
+      "rightX" : 206.052,
+      "topY" : 229.3814,
+      "baseLineY" : 239.04,
+      "fontId" : 1,
+      "text" : "Land survey. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 267.8271,
+      "rightX" : 131.52,
+      "topY" : 255.8271,
+      "baseLineY" : 265.68,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 267.9488,
+      "rightX" : 134.856,
+      "topY" : 255.9488,
+      "baseLineY" : 265.68,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 268.0215,
+      "rightX" : 364.0008,
+      "topY" : 256.0215,
+      "baseLineY" : 265.68,
+      "fontId" : 9,
+      "text" : "FEMA Form 086-0-32, Special Flood Hazard "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 281.8814,
+      "rightX" : 240.0407,
+      "topY" : 269.8814,
+      "baseLineY" : 279.54,
+      "fontId" : 9,
+      "text" : "Determination Form"
+    }, {
+      "leftX" : 240,
+      "bottomY" : 281.8814,
+      "rightX" : 243,
+      "topY" : 269.8814,
+      "baseLineY" : 279.54,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 471.96,
+      "bottomY" : 294.1815,
+      "rightX" : 474.96,
+      "topY" : 282.1815,
+      "baseLineY" : 291.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 308.3271,
+      "rightX" : 131.52,
+      "topY" : 296.3271,
+      "baseLineY" : 306.18,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 308.4488,
+      "rightX" : 134.856,
+      "topY" : 296.4488,
+      "baseLineY" : 306.18,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 308.5215,
+      "rightX" : 355.4666,
+      "topY" : 296.5215,
+      "baseLineY" : 306.18,
+      "fontId" : 9,
+      "text" : "FEMA Form 086-0-33, Elevation Certificate"
+    }, {
+      "leftX" : 355.44,
+      "bottomY" : 308.5215,
+      "rightX" : 361.38,
+      "topY" : 296.5215,
+      "baseLineY" : 306.18,
+      "fontId" : 1,
+      "text" : ". "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 334.3214,
+      "rightX" : 137.9976,
+      "topY" : 322.3214,
+      "baseLineY" : 331.98,
+      "fontId" : 3,
+      "text" : "2. "
+    }, {
+      "leftX" : 161.9976,
+      "bottomY" : 334.3214,
+      "rightX" : 253.9728,
+      "topY" : 322.3214,
+      "baseLineY" : 331.98,
+      "fontId" : 3,
+      "text" : "Agency Response "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 354.1214,
+      "rightX" : 497.7577,
+      "topY" : 342.1214,
+      "baseLineY" : 351.78,
+      "fontId" : 1,
+      "text" : "As early as possible in the planning and decision making process, the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 367.9214,
+      "rightX" : 523.6229,
+      "topY" : 355.9214,
+      "baseLineY" : 365.58,
+      "fontId" : 1,
+      "text" : "Agency will inform the lender of the appropriate level of environmental review so "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 381.7214,
+      "rightX" : 467.1026,
+      "topY" : 369.7214,
+      "baseLineY" : 379.3799,
+      "fontId" : 1,
+      "text" : "that the lender or applicant can initiate the collection of environmental "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 395.5214,
+      "rightX" : 510.2497,
+      "topY" : 383.5214,
+      "baseLineY" : 393.1799,
+      "fontId" : 1,
+      "text" : "information in accordance with 7 CFR 1970 and its associated RD Instructions. "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 415.3214,
+      "rightX" : 165,
+      "topY" : 403.3214,
+      "baseLineY" : 412.9799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 435.1214,
+      "rightX" : 490.9742,
+      "topY" : 423.1214,
+      "baseLineY" : 432.7799,
+      "fontId" : 1,
+      "text" : "The environmental review will be completed prior to loan approval, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 448.9214,
+      "rightX" : 524.3544,
+      "topY" : 436.9214,
+      "baseLineY" : 446.5799,
+      "fontId" : 1,
+      "text" : "obligation of funds, or other commitment of Agency resources, including issuance "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 462.7213,
+      "rightX" : 524.3279,
+      "topY" : 450.7213,
+      "baseLineY" : 460.3799,
+      "fontId" : 1,
+      "text" : "of a conditional commitment for guarantee whichever occurs first; and prior to the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 476.5213,
+      "rightX" : 456.9361,
+      "topY" : 464.5213,
+      "baseLineY" : 474.1799,
+      "fontId" : 1,
+      "text" : "Agency decision on any servicing action which is subject to Agency "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 490.3213,
+      "rightX" : 493.2169,
+      "topY" : 478.3213,
+      "baseLineY" : 487.9799,
+      "fontId" : 1,
+      "text" : "environmental approval.  Servicing actions that do not involve obligation of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 504.1213,
+      "rightX" : 511.7301,
+      "topY" : 492.1213,
+      "baseLineY" : 501.7798,
+      "fontId" : 1,
+      "text" : "additional Agency funds are not subject to a new environmental decision by the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 517.9213,
+      "rightX" : 489.2051,
+      "topY" : 505.9213,
+      "baseLineY" : 515.5798,
+      "fontId" : 1,
+      "text" : "Agency (although foreclosure actions may be subject to environmental due "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 531.7213,
+      "rightX" : 510.8175,
+      "topY" : 519.7213,
+      "baseLineY" : 529.3798,
+      "fontId" : 1,
+      "text" : "diligence requirements).  A commitment of Agency resources may not be made "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 545.5213,
+      "rightX" : 373.9778,
+      "topY" : 533.5213,
+      "baseLineY" : 543.1798,
+      "fontId" : 1,
+      "text" : "subject to completion of the environmental review. "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 565.3213,
+      "rightX" : 165,
+      "topY" : 553.3213,
+      "baseLineY" : 562.9799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 585.1213,
+      "rightX" : 523.6637,
+      "topY" : 573.1213,
+      "baseLineY" : 582.7798,
+      "fontId" : 1,
+      "text" : "The environmental review is considered complete when the environmental "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 598.9213,
+      "rightX" : 513.239,
+      "topY" : 586.9213,
+      "baseLineY" : 596.5798,
+      "fontId" : 1,
+      "text" : "documents have been properly executed, all applicable public notices have been "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 612.7213,
+      "rightX" : 513.5789,
+      "topY" : 600.7213,
+      "baseLineY" : 610.3798,
+      "fontId" : 1,
+      "text" : "published, the associated public comment periods have expired, and the Agency "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 626.5213,
+      "rightX" : 518.2773,
+      "topY" : 614.5213,
+      "baseLineY" : 624.1798,
+      "fontId" : 1,
+      "text" : "has taken any necessary actions to address the comments received and has issued "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 640.3213,
+      "rightX" : 258.6048,
+      "topY" : 628.3213,
+      "baseLineY" : 637.9799,
+      "fontId" : 1,
+      "text" : "its environmental decision. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 660.0613,
+      "rightX" : 129,
+      "topY" : 648.0613,
+      "baseLineY" : 657.7198,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 673.8613,
+      "rightX" : 129,
+      "topY" : 661.8613,
+      "baseLineY" : 671.5198,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 687.6613,
+      "rightX" : 129,
+      "topY" : 675.6613,
+      "baseLineY" : 685.3198,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 701.4613,
+      "rightX" : 129,
+      "topY" : 689.4613,
+      "baseLineY" : 699.1199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 716.7614,
+      "rightX" : 319.9752,
+      "topY" : 704.7614,
+      "baseLineY" : 714.42,
+      "fontId" : 1,
+      "text" : "11-6 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 467.34,
+      "bottomY" : 91.5614,
+      "rightX" : 525,
+      "topY" : 79.5614,
+      "baseLineY" : 89.22,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 111.3614,
+      "rightX" : 165,
+      "topY" : 99.3614,
+      "baseLineY" : 109.02,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 131.1614,
+      "rightX" : 113.9424,
+      "topY" : 119.1614,
+      "baseLineY" : 128.8199,
+      "fontId" : 3,
+      "text" : "11.6 "
+    }, {
+      "leftX" : 125.9424,
+      "bottomY" : 131.1614,
+      "rightX" : 498.6288,
+      "topY" : 119.1614,
+      "baseLineY" : 128.8199,
+      "fontId" : 3,
+      "text" : "ENVIRONMENTAL REVIEWS DURING THE SERVICING PERIOD "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 156.9614,
+      "rightX" : 503.8697,
+      "topY" : 144.9614,
+      "baseLineY" : 154.6199,
+      "fontId" : 1,
+      "text" : "Routine servicing actions that do not obligate additional Agency funds are not "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 170.7614,
+      "rightX" : 510.8867,
+      "topY" : 158.7614,
+      "baseLineY" : 168.4199,
+      "fontId" : 1,
+      "text" : "subject to NEPA review and a new Agency environmental decision.  However, it is the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 184.5614,
+      "rightX" : 512.2251,
+      "topY" : 172.5614,
+      "baseLineY" : 182.2199,
+      "fontId" : 1,
+      "text" : "lender’s responsibility to ensure that due diligence is conducted in conjunction with the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 198.3614,
+      "rightX" : 519.2925,
+      "topY" : 186.3614,
+      "baseLineY" : 196.0199,
+      "fontId" : 1,
+      "text" : "appraisal for all loan servicing actions which require a determination of security value or "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 212.1613,
+      "rightX" : 515.9179,
+      "topY" : 200.1613,
+      "baseLineY" : 209.8199,
+      "fontId" : 1,
+      "text" : "which could lead to acquisition of real property by the Agency or the guaranteed lender. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 237.9613,
+      "rightX" : 521.0064,
+      "topY" : 225.9613,
+      "baseLineY" : 235.6199,
+      "fontId" : 1,
+      "text" : "If, through environmental audits, due diligence, or some other means, a release or "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 251.7613,
+      "rightX" : 510.8908,
+      "topY" : 239.7613,
+      "baseLineY" : 249.4199,
+      "fontId" : 1,
+      "text" : "threatened release of hazardous substances, hazardous wastes, or petroleum products is "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 265.5613,
+      "rightX" : 512.2584,
+      "topY" : 253.5613,
+      "baseLineY" : 263.2198,
+      "fontId" : 1,
+      "text" : "discovered on a borrower’s property, the Agency official, in consultation with the State "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 279.3613,
+      "rightX" : 519.9819,
+      "topY" : 267.3613,
+      "baseLineY" : 277.0198,
+      "fontId" : 1,
+      "text" : "Environmental Coordinator and the guaranteed lender, will promptly notify the borrower "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 293.1613,
+      "rightX" : 503.7243,
+      "topY" : 281.1613,
+      "baseLineY" : 290.8198,
+      "fontId" : 1,
+      "text" : "in writing that immediate corrective action must be taken, consistent with appropriate "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 306.9613,
+      "rightX" : 521.1288,
+      "topY" : 294.9613,
+      "baseLineY" : 304.6198,
+      "fontId" : 1,
+      "text" : "regulatory authority requirements.  Simultaneously, the State Environmental Coordinator "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 320.7613,
+      "rightX" : 502.5253,
+      "topY" : 308.7613,
+      "baseLineY" : 318.4198,
+      "fontId" : 1,
+      "text" : "will notify the appropriate regulatory authority for any necessary enforcement action. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 346.5613,
+      "rightX" : 511.4541,
+      "topY" : 334.5613,
+      "baseLineY" : 344.2198,
+      "fontId" : 1,
+      "text" : "In the case of a defaulted loan where the Agency may consider taking title from "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 360.3612,
+      "rightX" : 501.6656,
+      "topY" : 348.3612,
+      "baseLineY" : 358.0198,
+      "fontId" : 1,
+      "text" : "the lender, the Agency will review the due diligence report and the appraisal, prior to "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 374.1612,
+      "rightX" : 518.6349,
+      "topY" : 362.1612,
+      "baseLineY" : 371.8198,
+      "fontId" : 1,
+      "text" : "accepting title.  If contamination is present and the cost of mitigation exceeds the market "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 387.9612,
+      "rightX" : 491.8197,
+      "topY" : 375.9612,
+      "baseLineY" : 385.6198,
+      "fontId" : 1,
+      "text" : "value or the amount of the debt, the Agency may decide not to accept title from the "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 401.7612,
+      "rightX" : 521.3132,
+      "topY" : 389.7612,
+      "baseLineY" : 399.4197,
+      "fontId" : 1,
+      "text" : "lender.  If there is a loss claim due to contamination, the Agency will not finalize the loss "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 415.5612,
+      "rightX" : 484.2262,
+      "topY" : 403.5612,
+      "baseLineY" : 413.2197,
+      "fontId" : 1,
+      "text" : "claim until the lender has sold the property.  The Agency will also review the due "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 429.3612,
+      "rightX" : 524.5065,
+      "topY" : 417.3612,
+      "baseLineY" : 427.0197,
+      "fontId" : 1,
+      "text" : "diligence report and appraisal prior to its consent to the release of security property by the "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 443.1612,
+      "rightX" : 393.5926,
+      "topY" : 431.1612,
+      "baseLineY" : 440.8197,
+      "fontId" : 1,
+      "text" : "guaranteed lender and when there are bankruptcy proceedings. "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 456.9612,
+      "rightX" : 92.9999,
+      "topY" : 444.9612,
+      "baseLineY" : 454.6197,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 470.7611,
+      "rightX" : 113.9855,
+      "topY" : 458.7611,
+      "baseLineY" : 468.4197,
+      "fontId" : 3,
+      "text" : "11.7 "
+    }, {
+      "leftX" : 125.9855,
+      "bottomY" : 470.7611,
+      "rightX" : 386.3075,
+      "topY" : 458.7611,
+      "baseLineY" : 468.4197,
+      "fontId" : 3,
+      "text" : "OTHER ENVIRONMENTAL REQUIREMENTS "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 490.5611,
+      "rightX" : 140.6615,
+      "topY" : 478.5611,
+      "baseLineY" : 488.2197,
+      "fontId" : 3,
+      "text" : "A. "
+    }, {
+      "leftX" : 162.0215,
+      "bottomY" : 490.5611,
+      "rightX" : 313.6056,
+      "topY" : 478.5611,
+      "baseLineY" : 488.2197,
+      "fontId" : 3,
+      "text" : "Flood Hazard Determination "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 510.3011,
+      "rightX" : 517.2386,
+      "topY" : 498.3011,
+      "baseLineY" : 507.9597,
+      "fontId" : 1,
+      "text" : "Properties located in Special Flood Hazard Areas (SFHAs) designated by "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 524.1011,
+      "rightX" : 521.6715,
+      "topY" : 512.1011,
+      "baseLineY" : 521.7596,
+      "fontId" : 1,
+      "text" : "FEMA are not eligible for Federal financial assistance, including loan guarantees, "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 537.9011,
+      "rightX" : 449.9235,
+      "topY" : 525.9011,
+      "baseLineY" : 535.5596,
+      "fontId" : 1,
+      "text" : "unless flood insurance through NFIP is available.  The lender must "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 551.7011,
+      "rightX" : 470.5923,
+      "topY" : 539.7011,
+      "baseLineY" : 549.3596,
+      "fontId" : 1,
+      "text" : "ensure that NFIP flood insurance is purchased prior to loan closing and "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 565.5011,
+      "rightX" : 439.5693,
+      "topY" : 553.5011,
+      "baseLineY" : 563.1597,
+      "fontId" : 1,
+      "text" : "issuance of the guarantee, in accordance with the National Flood "
+    }, {
+      "leftX" : 524.28,
+      "bottomY" : 573.4215,
+      "rightX" : 527.28,
+      "topY" : 561.4215,
+      "baseLineY" : 571.08,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 579.3011,
+      "rightX" : 389.2921,
+      "topY" : 567.3011,
+      "baseLineY" : 576.9597,
+      "fontId" : 1,
+      "text" : "Insurance Act, as amended, and RD Instruction 426.2. "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 599.1011,
+      "rightX" : 164.9999,
+      "topY" : 587.1011,
+      "baseLineY" : 596.7596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 612.9011,
+      "rightX" : 92.9999,
+      "topY" : 600.9011,
+      "baseLineY" : 610.5596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 626.7011,
+      "rightX" : 92.9999,
+      "topY" : 614.7011,
+      "baseLineY" : 624.3596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 640.5011,
+      "rightX" : 524.9999,
+      "topY" : 628.5011,
+      "baseLineY" : 638.1597,
+      "fontId" : 1,
+      "text" : "________________________________________________________________________ "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 654.3011,
+      "rightX" : 92.9999,
+      "topY" : 642.3011,
+      "baseLineY" : 651.9597,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 313.02,
+      "bottomY" : 654.3011,
+      "rightX" : 338.0351,
+      "topY" : 642.3011,
+      "baseLineY" : 651.9597,
+      "fontId" : 1,
+      "text" : "11-7 "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 668.1011,
+      "rightX" : 217.8888,
+      "topY" : 656.1011,
+      "baseLineY" : 665.7596,
+      "fontId" : 1,
+      "text" : "(02-22-17)  SPECIAL PN "
+    }, {
+      "leftX" : 89.9999,
+      "bottomY" : 681.9012,
+      "rightX" : 228.8999,
+      "topY" : 669.9012,
+      "baseLineY" : 679.5597,
+      "fontId" : 1,
+      "text" : "Revised (01-29-18)  PN 507 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 91.5614,
+      "rightX" : 147.66,
+      "topY" : 79.5614,
+      "baseLineY" : 89.22,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 111.3614,
+      "rightX" : 165,
+      "topY" : 99.3614,
+      "baseLineY" : 109.02,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 131.1614,
+      "rightX" : 434.3614,
+      "topY" : 119.1614,
+      "baseLineY" : 128.8199,
+      "fontId" : 1,
+      "text" : "The lender is responsible for ensuring the completion of "
+    }, {
+      "leftX" : 434.28,
+      "bottomY" : 131.1614,
+      "rightX" : 520.9055,
+      "topY" : 119.1614,
+      "baseLineY" : 128.8199,
+      "fontId" : 9,
+      "text" : "FEMA Form 086-"
+    }, {
+      "leftX" : 126,
+      "bottomY" : 144.9614,
+      "rightX" : 470.82,
+      "topY" : 132.9614,
+      "baseLineY" : 142.6199,
+      "fontId" : 9,
+      "text" : "0-32and completion of an elevation certificate (FEMA Form 086-0-33) "
+    }, {
+      "leftX" : 470.82,
+      "bottomY" : 144.9614,
+      "rightX" : 508.1616,
+      "topY" : 132.9614,
+      "baseLineY" : 142.6199,
+      "fontId" : 1,
+      "text" : "and for "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 158.7614,
+      "rightX" : 485.6125,
+      "topY" : 146.7614,
+      "baseLineY" : 156.4199,
+      "fontId" : 1,
+      "text" : "submitting a copy to the Agency with the request for guarantee.  The form "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 172.5614,
+      "rightX" : 473.5969,
+      "topY" : 160.5614,
+      "baseLineY" : 170.2199,
+      "fontId" : 1,
+      "text" : "provides specific information with regard to the proposal’s location in a "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 186.3614,
+      "rightX" : 521.9763,
+      "topY" : 174.3614,
+      "baseLineY" : 184.0199,
+      "fontId" : 1,
+      "text" : "floodplain, the community’s NFIP eligibility, its proximity to floodplains, and the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 200.1613,
+      "rightX" : 518.9626,
+      "topY" : 188.1613,
+      "baseLineY" : 197.8199,
+      "fontId" : 1,
+      "text" : "availability of flood insurance.  This information is necessary for a determination "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 213.9613,
+      "rightX" : 501.9329,
+      "topY" : 201.9613,
+      "baseLineY" : 211.6199,
+      "fontId" : 1,
+      "text" : "of site eligibility by the Agency.  The environmental review conducted by the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 227.7613,
+      "rightX" : 479.6281,
+      "topY" : 215.7613,
+      "baseLineY" : 225.4199,
+      "fontId" : 1,
+      "text" : "Agency will examine whether or not there is a reasonable alternative to a "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 241.5613,
+      "rightX" : 366.624,
+      "topY" : 229.5613,
+      "baseLineY" : 239.2198,
+      "fontId" : 1,
+      "text" : "proposed purchase/construction in the floodplain. "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 261.3613,
+      "rightX" : 520.9702,
+      "topY" : 249.3613,
+      "baseLineY" : 259.0198,
+      "fontId" : 1,
+      "text" : "Flood insurance must cover the lesser of the outstanding principle balance "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 275.1613,
+      "rightX" : 511.9912,
+      "topY" : 263.1613,
+      "baseLineY" : 272.8198,
+      "fontId" : 1,
+      "text" : "of the loan or the maximum amount of coverage allowed under FEMA’s NFIP.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 288.9613,
+      "rightX" : 518.5826,
+      "topY" : 276.9613,
+      "baseLineY" : 286.6198,
+      "fontId" : 1,
+      "text" : "Prior to loan closing, the lender is responsible for sending the applicant a copy of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 302.7613,
+      "rightX" : 508.9977,
+      "topY" : 290.7613,
+      "baseLineY" : 300.4198,
+      "fontId" : 9,
+      "text" : "Form RD 3550-6, Notice of Special Flood Hazards, Flood Insurance Purchase "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 316.5613,
+      "rightX" : 456.6933,
+      "topY" : 304.5613,
+      "baseLineY" : 314.2198,
+      "fontId" : 9,
+      "text" : "Requirements, and Availability of Federal Disaster Relief Assistance"
+    }, {
+      "leftX" : 456.66,
+      "bottomY" : 316.5613,
+      "rightX" : 487.3297,
+      "topY" : 304.5613,
+      "baseLineY" : 314.2198,
+      "fontId" : 1,
+      "text" : ".  The "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 330.3612,
+      "rightX" : 440.9242,
+      "topY" : 318.3612,
+      "baseLineY" : 328.0198,
+      "fontId" : 1,
+      "text" : "applicant must sign and return the form at or before loan closing. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 350.1612,
+      "rightX" : 140.0016,
+      "topY" : 338.1612,
+      "baseLineY" : 347.8198,
+      "fontId" : 3,
+      "text" : "B. "
+    }, {
+      "leftX" : 162.0216,
+      "bottomY" : 350.1612,
+      "rightX" : 407.9522,
+      "topY" : 338.1612,
+      "baseLineY" : 347.8198,
+      "fontId" : 3,
+      "text" : "Clean Air Act and Water Pollution Control Act "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 369.9612,
+      "rightX" : 523.9559,
+      "topY" : 357.9612,
+      "baseLineY" : 367.6198,
+      "fontId" : 1,
+      "text" : "Federal contracts that exceed $100,000 must meet all applicable standards, orders, "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 383.7612,
+      "rightX" : 513.475,
+      "topY" : 371.7612,
+      "baseLineY" : 381.4197,
+      "fontId" : 1,
+      "text" : "or requirements issued under section 306 of the Clean Air Act, section 508 of the Clean "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 397.5612,
+      "rightX" : 502.324,
+      "topY" : 385.5612,
+      "baseLineY" : 395.2197,
+      "fontId" : 1,
+      "text" : "Air Act, Executive Order 11738, and EPA regulations at 40 CFR part 15.  The lender "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 411.3612,
+      "rightX" : 505.9261,
+      "topY" : 399.3612,
+      "baseLineY" : 409.0197,
+      "fontId" : 1,
+      "text" : "must ensure compliance with this requirement during construction of the property and "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 425.1612,
+      "rightX" : 246.9347,
+      "topY" : 413.1612,
+      "baseLineY" : 422.8197,
+      "fontId" : 1,
+      "text" : "throughout the servicing period. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 438.9612,
+      "rightX" : 129,
+      "topY" : 426.9612,
+      "baseLineY" : 436.6197,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 452.7611,
+      "rightX" : 129,
+      "topY" : 440.7611,
+      "baseLineY" : 450.4197,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 466.5011,
+      "rightX" : 129,
+      "topY" : 454.5011,
+      "baseLineY" : 464.1597,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 480.3011,
+      "rightX" : 129,
+      "topY" : 468.3011,
+      "baseLineY" : 477.9597,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 494.1011,
+      "rightX" : 129,
+      "topY" : 482.1011,
+      "baseLineY" : 491.7596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 507.9011,
+      "rightX" : 129,
+      "topY" : 495.9011,
+      "baseLineY" : 505.5596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 521.7011,
+      "rightX" : 129,
+      "topY" : 509.7011,
+      "baseLineY" : 519.3596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 535.5011,
+      "rightX" : 129,
+      "topY" : 523.5011,
+      "baseLineY" : 533.1596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 549.3011,
+      "rightX" : 129,
+      "topY" : 537.3011,
+      "baseLineY" : 546.9596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 563.1011,
+      "rightX" : 129,
+      "topY" : 551.1011,
+      "baseLineY" : 560.7596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 576.9011,
+      "rightX" : 129,
+      "topY" : 564.9011,
+      "baseLineY" : 574.5596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 590.7011,
+      "rightX" : 129,
+      "topY" : 578.7011,
+      "baseLineY" : 588.3596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 604.5011,
+      "rightX" : 129,
+      "topY" : 592.5011,
+      "baseLineY" : 602.1596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 618.3011,
+      "rightX" : 129,
+      "topY" : 606.3011,
+      "baseLineY" : 615.9596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 632.1011,
+      "rightX" : 129,
+      "topY" : 620.1011,
+      "baseLineY" : 629.7596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 645.9011,
+      "rightX" : 129,
+      "topY" : 633.9011,
+      "baseLineY" : 643.5596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 659.7011,
+      "rightX" : 129,
+      "topY" : 647.7011,
+      "baseLineY" : 657.3596,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 673.5011,
+      "rightX" : 129,
+      "topY" : 661.5011,
+      "baseLineY" : 671.1597,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 687.3011,
+      "rightX" : 129,
+      "topY" : 675.3011,
+      "baseLineY" : 684.9597,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 702.6015,
+      "rightX" : 319.9752,
+      "topY" : 690.6015,
+      "baseLineY" : 700.26,
+      "fontId" : 1,
+      "text" : "11-8 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

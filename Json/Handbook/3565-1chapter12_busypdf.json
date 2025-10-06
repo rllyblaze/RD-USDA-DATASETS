@@ -1,0 +1,4421 @@
+{
+  "pdfDoc" : "3565-1chapter12.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 152.94,
+      "bottomY" : 124.022,
+      "rightX" : 446.4441,
+      "topY" : 108.022,
+      "baseLineY" : 120.9,
+      "fontId" : 2,
+      "text" : "CHAPTER 12:  SECONDARY MARKET "
+    }, {
+      "leftX" : 302.58,
+      "bottomY" : 157.8019,
+      "rightX" : 306.585,
+      "topY" : 141.8019,
+      "baseLineY" : 154.68,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 174.2717,
+      "rightX" : 75.495,
+      "topY" : 160.2717,
+      "baseLineY" : 171.54,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 339.6,
+      "bottomY" : 172.8464,
+      "rightX" : 510.0842,
+      "topY" : 161.8464,
+      "baseLineY" : 170.7,
+      "fontId" : 4,
+      "text" : "KEY TOPICS IN THIS CHAPTER "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.8507,
+      "rightX" : 74.505,
+      "topY" : 187.8507,
+      "baseLineY" : 195.8995,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 186.0912,
+      "rightX" : 74.505,
+      "topY" : 176.0912,
+      "baseLineY" : 184.14,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 301.08,
+      "bottomY" : 192.1082,
+      "rightX" : 306.1308,
+      "topY" : 181.1082,
+      "baseLineY" : 190.14,
+      "fontId" : 6,
+      "text" : ""
+    }, {
+      "leftX" : 306.1198,
+      "bottomY" : 192.2198,
+      "rightX" : 309.1722,
+      "topY" : 181.2198,
+      "baseLineY" : 190.14,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 315.4803,
+      "bottomY" : 192.2864,
+      "rightX" : 466.7408,
+      "topY" : 181.2864,
+      "baseLineY" : 190.14,
+      "fontId" : 8,
+      "text" : "Transfer to the Secondary Market "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 209.6102,
+      "rightX" : 74.505,
+      "topY" : 199.6102,
+      "baseLineY" : 207.6589,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 301.08,
+      "bottomY" : 219.1082,
+      "rightX" : 306.1308,
+      "topY" : 208.1082,
+      "baseLineY" : 217.14,
+      "fontId" : 6,
+      "text" : ""
+    }, {
+      "leftX" : 306.1198,
+      "bottomY" : 219.2198,
+      "rightX" : 309.1722,
+      "topY" : 208.2198,
+      "baseLineY" : 217.14,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 301.08,
+      "bottomY" : 205.6082,
+      "rightX" : 306.1308,
+      "topY" : 194.6082,
+      "baseLineY" : 203.64,
+      "fontId" : 6,
+      "text" : ""
+    }, {
+      "leftX" : 306.1198,
+      "bottomY" : 205.7198,
+      "rightX" : 309.1722,
+      "topY" : 194.7198,
+      "baseLineY" : 203.64,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 315.4803,
+      "bottomY" : 219.2864,
+      "rightX" : 442.7966,
+      "topY" : 208.2864,
+      "baseLineY" : 217.14,
+      "fontId" : 8,
+      "text" : "Lender Initiated Repurchase "
+    }, {
+      "leftX" : 315.4803,
+      "bottomY" : 205.7864,
+      "rightX" : 458.2807,
+      "topY" : 194.7864,
+      "baseLineY" : 203.64,
+      "fontId" : 8,
+      "text" : "Holder Demand for Repurchase "
+    }, {
+      "leftX" : 306.0001,
+      "bottomY" : 221.1903,
+      "rightX" : 308.5051,
+      "topY" : 211.1903,
+      "baseLineY" : 219.2391,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 301.08,
+      "bottomY" : 232.6082,
+      "rightX" : 306.1308,
+      "topY" : 221.6082,
+      "baseLineY" : 230.64,
+      "fontId" : 6,
+      "text" : ""
+    }, {
+      "leftX" : 306.1198,
+      "bottomY" : 232.7198,
+      "rightX" : 309.1722,
+      "topY" : 221.7198,
+      "baseLineY" : 230.64,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 315.4803,
+      "bottomY" : 232.7864,
+      "rightX" : 509.9349,
+      "topY" : 221.7864,
+      "baseLineY" : 230.64,
+      "fontId" : 8,
+      "text" : "Repurchase of the Loan or Note by Agency "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 247.3214,
+      "rightX" : 93,
+      "topY" : 235.3214,
+      "baseLineY" : 244.98,
+      "fontId" : 10,
+      "text" : "12.1"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 247.2488,
+      "rightX" : 96.336,
+      "topY" : 235.2488,
+      "baseLineY" : 244.98,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 247.3214,
+      "rightX" : 266.7193,
+      "topY" : 235.3214,
+      "baseLineY" : 244.98,
+      "fontId" : 10,
+      "text" : "PURPOSE AND OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.1814,
+      "rightX" : 533.2811,
+      "topY" : 261.1814,
+      "baseLineY" : 270.84,
+      "fontId" : 1,
+      "text" : "This chapter will describe how GRRHP loans are sold in the secondary market and how "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 287.1614,
+      "rightX" : 517.4113,
+      "topY" : 275.1614,
+      "baseLineY" : 284.82,
+      "fontId" : 1,
+      "text" : "the guarantee comes into play in the event of a borrower default.  The secondary market is a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 301.1415,
+      "rightX" : 520.3102,
+      "topY" : 289.1415,
+      "baseLineY" : 298.8,
+      "fontId" : 1,
+      "text" : "mechanism that allows lenders to sell GRRHP guaranteed loans and obtain liquidity to make "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 315.1215,
+      "rightX" : 512.2441,
+      "topY" : 303.1215,
+      "baseLineY" : 312.78,
+      "fontId" : 1,
+      "text" : "additional loans.  Through the secondary market, the lender receives the following benefits "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 329.1015,
+      "rightX" : 538.693,
+      "topY" : 317.1015,
+      "baseLineY" : 326.76,
+      "fontId" : 1,
+      "text" : "which may then be passed on to the borrower in the form of lower interest rates and longer fixed "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 343.0815,
+      "rightX" : 132.0348,
+      "topY" : 331.0815,
+      "baseLineY" : 340.74,
+      "fontId" : 1,
+      "text" : "rate terms:   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 357.0615,
+      "rightX" : 111,
+      "topY" : 345.0615,
+      "baseLineY" : 354.72,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 373.9649,
+      "rightX" : 114.4308,
+      "topY" : 359.9649,
+      "baseLineY" : 371.46,
+      "fontId" : 12,
+      "text" : ""
+    }, {
+      "leftX" : 114.4196,
+      "bottomY" : 374.1069,
+      "rightX" : 118.3061,
+      "topY" : 360.1069,
+      "baseLineY" : 371.46,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 373.8015,
+      "rightX" : 514.0077,
+      "topY" : 361.8015,
+      "baseLineY" : 371.46,
+      "fontId" : 1,
+      "text" : "Reduced interest rate risk by transferring the risk of interest rate increases to the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 387.7815,
+      "rightX" : 199.0104,
+      "topY" : 375.7815,
+      "baseLineY" : 385.44,
+      "fontId" : 1,
+      "text" : "secondary market. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 404.6849,
+      "rightX" : 114.4308,
+      "topY" : 390.6849,
+      "baseLineY" : 402.18,
+      "fontId" : 12,
+      "text" : ""
+    }, {
+      "leftX" : 114.4196,
+      "bottomY" : 404.8269,
+      "rightX" : 118.3061,
+      "topY" : 390.8269,
+      "baseLineY" : 402.18,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 404.5215,
+      "rightX" : 536.4429,
+      "topY" : 392.5215,
+      "baseLineY" : 402.18,
+      "fontId" : 1,
+      "text" : "Increased liquidity by using funds received from a loan sale for additional lending or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 418.5015,
+      "rightX" : 197.22,
+      "topY" : 406.5015,
+      "baseLineY" : 416.16,
+      "fontId" : 1,
+      "text" : "investing activity. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 435.4049,
+      "rightX" : 114.4308,
+      "topY" : 421.4049,
+      "baseLineY" : 432.9,
+      "fontId" : 12,
+      "text" : ""
+    }, {
+      "leftX" : 114.4196,
+      "bottomY" : 435.5469,
+      "rightX" : 118.3061,
+      "topY" : 421.5469,
+      "baseLineY" : 432.9,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 435.2415,
+      "rightX" : 507.3638,
+      "topY" : 423.2415,
+      "baseLineY" : 432.9,
+      "fontId" : 1,
+      "text" : "Increased return on investment by selling the loan to the secondary market and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 449.2215,
+      "rightX" : 528.9266,
+      "topY" : 437.2215,
+      "baseLineY" : 446.88,
+      "fontId" : 1,
+      "text" : "keeping a servicing fee.  A lender may increase their return on their invested capital by "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 463.2015,
+      "rightX" : 249.6684,
+      "topY" : 451.2015,
+      "baseLineY" : 460.86,
+      "fontId" : 1,
+      "text" : "lowering their at risk capital. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 477.1815,
+      "rightX" : 75,
+      "topY" : 465.1815,
+      "baseLineY" : 474.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 121.2,
+      "bottomY" : 493.6517,
+      "rightX" : 494.2353,
+      "topY" : 479.6517,
+      "baseLineY" : 490.92,
+      "fontId" : 3,
+      "text" : "SECTION 1: TRANSFER TO THE SECONDARY MARKET "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 517.7415,
+      "rightX" : 95.9472,
+      "topY" : 505.7415,
+      "baseLineY" : 515.4,
+      "fontId" : 10,
+      "text" : "12.2 "
+    }, {
+      "leftX" : 107.9472,
+      "bottomY" : 517.7415,
+      "rightX" : 299.3196,
+      "topY" : 505.7415,
+      "baseLineY" : 515.4,
+      "fontId" : 10,
+      "text" : "HOLDER VERSUS PARTICIPANT "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 543.6015,
+      "rightX" : 527.1553,
+      "topY" : 531.6015,
+      "baseLineY" : 541.26,
+      "fontId" : 1,
+      "text" : "The Agency makes a clear distinction between a holder of the loan and a participant in "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 557.5815,
+      "rightX" : 537.5953,
+      "topY" : 545.5815,
+      "baseLineY" : 555.24,
+      "fontId" : 1,
+      "text" : "the loan.  In a non-Government Sponsored Enterprises (GSE) securitization, a holder is a person "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 571.5614,
+      "rightX" : 493.6371,
+      "topY" : 559.5614,
+      "baseLineY" : 569.22,
+      "fontId" : 1,
+      "text" : "or organization other than the lender who holds all or part of the loan with no servicing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 585.5414,
+      "rightX" : 541.5288,
+      "topY" : 573.5414,
+      "baseLineY" : 583.2,
+      "fontId" : 1,
+      "text" : "responsibilities.  The holder \"holds\" the note, and the guaranteed portion of the note is backed by "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 599.5215,
+      "rightX" : 531.0953,
+      "topY" : 587.5215,
+      "baseLineY" : 597.18,
+      "fontId" : 1,
+      "text" : "the \"Full Faith and Credit\" of the U.S. Government in case of default.  The Agency considers a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 613.5014,
+      "rightX" : 533.8905,
+      "topY" : 601.5014,
+      "baseLineY" : 611.16,
+      "fontId" : 1,
+      "text" : "GSE or the Ginnie Mae issuer as the “holder” of the note in a securitized transaction. A GSE or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 627.4814,
+      "rightX" : 539.3007,
+      "topY" : 615.4814,
+      "baseLineY" : 625.14,
+      "fontId" : 1,
+      "text" : "Ginnie Mae issuer may have servicing responsibilities.  Unless otherwise noted, all holders must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 641.4615,
+      "rightX" : 106.026,
+      "topY" : 629.4615,
+      "baseLineY" : 639.12,
+      "fontId" : 1,
+      "text" : "have a "
+    }, {
+      "leftX" : 106.02,
+      "bottomY" : 641.4615,
+      "rightX" : 188.6496,
+      "topY" : 629.4615,
+      "baseLineY" : 639.12,
+      "fontId" : 14,
+      "text" : "Form RD 3565-5"
+    }, {
+      "leftX" : 188.64,
+      "bottomY" : 641.4615,
+      "rightX" : 199.968,
+      "topY" : 629.4615,
+      "baseLineY" : 639.12,
+      "fontId" : 1,
+      "text" : ", “"
+    }, {
+      "leftX" : 199.98,
+      "bottomY" : 641.4615,
+      "rightX" : 374.4311,
+      "topY" : 629.4615,
+      "baseLineY" : 639.12,
+      "fontId" : 14,
+      "text" : "Assignment Guarantee Agreement”,"
+    }, {
+      "leftX" : 374.4,
+      "bottomY" : 641.4615,
+      "rightX" : 521.5655,
+      "topY" : 629.4615,
+      "baseLineY" : 639.12,
+      "fontId" : 1,
+      "text" : " that has been executed by the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 655.4414,
+      "rightX" : 454.5573,
+      "topY" : 643.4414,
+      "baseLineY" : 653.1,
+      "fontId" : 1,
+      "text" : "Agency or a duly executed Agency approved assignment guarantee agreement. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 669.4214,
+      "rightX" : 75,
+      "topY" : 657.4214,
+      "baseLineY" : 667.08,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 683.4014,
+      "rightX" : 319.9752,
+      "topY" : 671.4014,
+      "baseLineY" : 681.0599,
+      "fontId" : 1,
+      "text" : "12-1 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 697.3814,
+      "rightX" : 169.3559,
+      "topY" : 685.3814,
+      "baseLineY" : 695.0399,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 85.6215,
+      "rightX" : 129.66,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.6015,
+      "rightX" : 75,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 113.5815,
+      "rightX" : 529.9921,
+      "topY" : 101.5815,
+      "baseLineY" : 111.24,
+      "fontId" : 1,
+      "text" : "A participant is a person or organization that buys an interest in the loan.  A participant "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 127.5614,
+      "rightX" : 539.4111,
+      "topY" : 115.5614,
+      "baseLineY" : 125.22,
+      "fontId" : 1,
+      "text" : "owns a share of the note while another entity keeps the note, the collateral securing the note, and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 141.5414,
+      "rightX" : 525.3842,
+      "topY" : 129.5414,
+      "baseLineY" : 139.2,
+      "fontId" : 1,
+      "text" : "all responsibility for loan servicing.  A participant does not hold any part of the note but has a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 155.5214,
+      "rightX" : 538.5806,
+      "topY" : 143.5214,
+      "baseLineY" : 153.1799,
+      "fontId" : 1,
+      "text" : "participation arrangement with the lender.  A participant has no claim to the guarantee in case of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 169.5014,
+      "rightX" : 120.3528,
+      "topY" : 157.5014,
+      "baseLineY" : 167.1599,
+      "fontId" : 1,
+      "text" : "default.    "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.6613,
+      "rightX" : 75,
+      "topY" : 171.6613,
+      "baseLineY" : 181.3199,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.7013,
+      "rightX" : 93,
+      "topY" : 185.7013,
+      "baseLineY" : 195.3599,
+      "fontId" : 10,
+      "text" : "12.3"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 197.3112,
+      "rightX" : 95.505,
+      "topY" : 187.3112,
+      "baseLineY" : 195.36,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 197.7014,
+      "rightX" : 359.9113,
+      "topY" : 185.7014,
+      "baseLineY" : 195.36,
+      "fontId" : 10,
+      "text" : "TRANSFER TO THE SECONDARY MARKET "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 211.7414,
+      "rightX" : 75,
+      "topY" : 199.7414,
+      "baseLineY" : 209.4,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 225.7814,
+      "rightX" : 119.6376,
+      "topY" : 213.7814,
+      "baseLineY" : 223.4399,
+      "fontId" : 10,
+      "text" : "A."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 225.7088,
+      "rightX" : 122.976,
+      "topY" : 213.7088,
+      "baseLineY" : 223.4399,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 225.7814,
+      "rightX" : 417.4789,
+      "topY" : 213.7814,
+      "baseLineY" : 223.4399,
+      "fontId" : 10,
+      "text" : "Loan Requirements For Sale On The Secondary Market "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 239.6414,
+      "rightX" : 75,
+      "topY" : 227.6414,
+      "baseLineY" : 237.2999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 253.6214,
+      "rightX" : 536.9929,
+      "topY" : 241.6214,
+      "baseLineY" : 251.2799,
+      "fontId" : 1,
+      "text" : "The lender may sell, assign, or participate all or part of a performing loan to one or more "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 267.6014,
+      "rightX" : 525.972,
+      "topY" : 255.6014,
+      "baseLineY" : 265.2599,
+      "fontId" : 1,
+      "text" : "lenders or investors  at or after loan closing.  Lenders are regularly contacted by and normally "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 281.5813,
+      "rightX" : 518.3284,
+      "topY" : 269.5813,
+      "baseLineY" : 279.2399,
+      "fontId" : 1,
+      "text" : "maintain a list of brokers or dealers interested in the purchase of GRRHP loans, or they may "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 295.5613,
+      "rightX" : 436.8169,
+      "topY" : 283.5613,
+      "baseLineY" : 293.2199,
+      "fontId" : 1,
+      "text" : "work directly with Fannie Mae or Freddie Mac or be a Ginnie Mae issuer.   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 309.5414,
+      "rightX" : 111,
+      "topY" : 297.5414,
+      "baseLineY" : 307.1999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 323.5214,
+      "rightX" : 533.1601,
+      "topY" : 311.5214,
+      "baseLineY" : 321.1799,
+      "fontId" : 1,
+      "text" : "Below is an example of an average transaction involving the steps a lender and a broker "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 337.5014,
+      "rightX" : 404.6302,
+      "topY" : 325.5014,
+      "baseLineY" : 335.1599,
+      "fontId" : 1,
+      "text" : "would take in the sale of a guaranteed loan on the secondary market: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 354.4049,
+      "rightX" : 114.4308,
+      "topY" : 340.4049,
+      "baseLineY" : 351.9,
+      "fontId" : 12,
+      "text" : ""
+    }, {
+      "leftX" : 114.4196,
+      "bottomY" : 354.5469,
+      "rightX" : 118.3061,
+      "topY" : 340.5469,
+      "baseLineY" : 351.9,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 354.2415,
+      "rightX" : 414.0106,
+      "topY" : 342.2415,
+      "baseLineY" : 351.9,
+      "fontId" : 1,
+      "text" : "Contact several brokers.  The brokers will need to know:  "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 368.8071,
+      "rightX" : 140.928,
+      "topY" : 356.8071,
+      "baseLineY" : 366.66,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 368.9288,
+      "rightX" : 144.276,
+      "topY" : 356.9288,
+      "baseLineY" : 366.66,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 369.0015,
+      "rightX" : 527.9761,
+      "topY" : 357.0015,
+      "baseLineY" : 366.66,
+      "fontId" : 1,
+      "text" : "Under which of the three loan guarantee programs the loan is made: Option "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 382.9815,
+      "rightX" : 542.5858,
+      "topY" : 370.9815,
+      "baseLineY" : 380.64,
+      "fontId" : 1,
+      "text" : "One, permanent guarantee; Option Two, construction advances and permanent "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 396.9615,
+      "rightX" : 461.3769,
+      "topY" : 384.9615,
+      "baseLineY" : 394.62,
+      "fontId" : 1,
+      "text" : "financing guarantee; or Option Three, continuous guarantee.   "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 411.5271,
+      "rightX" : 140.928,
+      "topY" : 399.5271,
+      "baseLineY" : 409.38,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 411.6489,
+      "rightX" : 144.276,
+      "topY" : 399.6489,
+      "baseLineY" : 409.38,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 411.7215,
+      "rightX" : 433.2321,
+      "topY" : 399.7215,
+      "baseLineY" : 409.38,
+      "fontId" : 1,
+      "text" : "The loan amount and the size of the guaranteed portion. "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 426.2871,
+      "rightX" : 140.928,
+      "topY" : 414.2871,
+      "baseLineY" : 424.14,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 426.4089,
+      "rightX" : 144.276,
+      "topY" : 414.4089,
+      "baseLineY" : 424.14,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 426.4815,
+      "rightX" : 249.1872,
+      "topY" : 414.4815,
+      "baseLineY" : 424.14,
+      "fontId" : 1,
+      "text" : "The interest rate.  "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 441.0471,
+      "rightX" : 140.928,
+      "topY" : 429.0471,
+      "baseLineY" : 438.9001,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 441.1689,
+      "rightX" : 144.276,
+      "topY" : 429.1689,
+      "baseLineY" : 438.9001,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 441.2415,
+      "rightX" : 253.3921,
+      "topY" : 429.2415,
+      "baseLineY" : 438.9001,
+      "fontId" : 1,
+      "text" : "The maturity date. "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 455.8071,
+      "rightX" : 140.928,
+      "topY" : 443.8071,
+      "baseLineY" : 453.6601,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 455.9289,
+      "rightX" : 144.276,
+      "topY" : 443.9289,
+      "baseLineY" : 453.6601,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 456.0015,
+      "rightX" : 276.0335,
+      "topY" : 444.0015,
+      "baseLineY" : 453.6601,
+      "fontId" : 1,
+      "text" : "The payment schedule. "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 470.5671,
+      "rightX" : 140.928,
+      "topY" : 458.5671,
+      "baseLineY" : 468.4201,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 470.6889,
+      "rightX" : 144.276,
+      "topY" : 458.6889,
+      "baseLineY" : 468.4201,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 470.7615,
+      "rightX" : 365.8442,
+      "topY" : 458.7615,
+      "baseLineY" : 468.4201,
+      "fontId" : 1,
+      "text" : "If it is a new loan, when it will be funded. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 485.3271,
+      "rightX" : 113.52,
+      "topY" : 473.3271,
+      "baseLineY" : 483.1801,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 485.4489,
+      "rightX" : 116.856,
+      "topY" : 473.4489,
+      "baseLineY" : 483.1801,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 485.5215,
+      "rightX" : 287.112,
+      "topY" : 473.5215,
+      "baseLineY" : 483.1801,
+      "fontId" : 1,
+      "text" : "Determine loan-servicing fee.   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 500.0872,
+      "rightX" : 113.52,
+      "topY" : 488.0872,
+      "baseLineY" : 497.9401,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 500.2089,
+      "rightX" : 116.856,
+      "topY" : 488.2089,
+      "baseLineY" : 497.9401,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 500.2816,
+      "rightX" : 197.0976,
+      "topY" : 488.2816,
+      "baseLineY" : 497.9401,
+      "fontId" : 1,
+      "text" : "Select a bid. "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 514.8471,
+      "rightX" : 140.928,
+      "topY" : 502.8471,
+      "baseLineY" : 512.7001,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 514.9689,
+      "rightX" : 144.276,
+      "topY" : 502.9689,
+      "baseLineY" : 512.7001,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 515.0415,
+      "rightX" : 492.3136,
+      "topY" : 503.0415,
+      "baseLineY" : 512.7001,
+      "fontId" : 1,
+      "text" : "Hold negotiations concerning premiums and fees.  The Agency may "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 529.0216,
+      "rightX" : 480.0818,
+      "topY" : 517.0216,
+      "baseLineY" : 526.6801,
+      "fontId" : 1,
+      "text" : "participate in such negotiations only as a provider of information. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 543.5872,
+      "rightX" : 113.52,
+      "topY" : 531.5872,
+      "baseLineY" : 541.4401,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 543.7089,
+      "rightX" : 116.856,
+      "topY" : 531.7089,
+      "baseLineY" : 541.4401,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 543.7816,
+      "rightX" : 536.6086,
+      "topY" : 531.7816,
+      "baseLineY" : 541.4401,
+      "fontId" : 1,
+      "text" : "Review Documents.  The broker or intermediary should send the lender a purchase "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 557.7616,
+      "rightX" : 526.2206,
+      "topY" : 545.7616,
+      "baseLineY" : 555.4201,
+      "fontId" : 1,
+      "text" : "commitment letter. The lender must notify the Agency that the loan is being sold "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 571.7415,
+      "rightX" : 499.4185,
+      "topY" : 559.7415,
+      "baseLineY" : 569.4001,
+      "fontId" : 1,
+      "text" : "and obtain the documents that the Agency will need to execute.  In order to "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 585.7216,
+      "rightX" : 526.1594,
+      "topY" : 573.7216,
+      "baseLineY" : 583.3801,
+      "fontId" : 1,
+      "text" : "complete the sale, the lender should sign and return one copy of the commitment "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 599.7016,
+      "rightX" : 352.0693,
+      "topY" : 587.7016,
+      "baseLineY" : 597.3601,
+      "fontId" : 1,
+      "text" : "letter to the broker along with the following: "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 614.2672,
+      "rightX" : 140.928,
+      "topY" : 602.2672,
+      "baseLineY" : 612.1201,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 614.3889,
+      "rightX" : 144.276,
+      "topY" : 602.3889,
+      "baseLineY" : 612.1201,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 157.5,
+      "bottomY" : 614.4616,
+      "rightX" : 252.834,
+      "topY" : 602.4616,
+      "baseLineY" : 612.1201,
+      "fontId" : 1,
+      "text" : "A copy of the note. "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 629.0271,
+      "rightX" : 140.928,
+      "topY" : 617.0271,
+      "baseLineY" : 626.8801,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 629.1489,
+      "rightX" : 144.276,
+      "topY" : 617.1489,
+      "baseLineY" : 626.8801,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 629.2215,
+      "rightX" : 206.6904,
+      "topY" : 617.2215,
+      "baseLineY" : 626.8801,
+      "fontId" : 1,
+      "text" : "     Executed "
+    }, {
+      "leftX" : 206.7,
+      "bottomY" : 629.2215,
+      "rightX" : 292.3272,
+      "topY" : 617.2215,
+      "baseLineY" : 626.8801,
+      "fontId" : 14,
+      "text" : "Form RD 3565-4."
+    }, {
+      "leftX" : 292.32,
+      "bottomY" : 629.2215,
+      "rightX" : 295.32,
+      "topY" : 617.2215,
+      "baseLineY" : 626.8801,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 643.1415,
+      "rightX" : 75,
+      "topY" : 631.1415,
+      "baseLineY" : 640.8,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 657.0016,
+      "rightX" : 75,
+      "topY" : 645.0016,
+      "baseLineY" : 654.6601,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 670.9215,
+      "rightX" : 75,
+      "topY" : 658.9215,
+      "baseLineY" : 668.5801,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 684.9015,
+      "rightX" : 319.9752,
+      "topY" : 672.9015,
+      "baseLineY" : 682.5601,
+      "fontId" : 1,
+      "text" : "12-2 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 698.8815,
+      "rightX" : 309,
+      "topY" : 686.8815,
+      "baseLineY" : 696.54,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.642,
+      "rightX" : 310.005,
+      "topY" : 703.642,
+      "baseLineY" : 716.52,
+      "fontId" : 17,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 540,
+      "bottomY" : 99.6015,
+      "rightX" : 543,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 114.1671,
+      "rightX" : 140.928,
+      "topY" : 102.1671,
+      "baseLineY" : 112.02,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 114.2888,
+      "rightX" : 144.276,
+      "topY" : 102.2888,
+      "baseLineY" : 112.02,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 114.3615,
+      "rightX" : 206.7,
+      "topY" : 102.3615,
+      "baseLineY" : 112.02,
+      "fontId" : 1,
+      "text" : "  Executed "
+    }, {
+      "leftX" : 206.7,
+      "bottomY" : 114.3615,
+      "rightX" : 292.3272,
+      "topY" : 102.3615,
+      "baseLineY" : 112.02,
+      "fontId" : 14,
+      "text" : "Form RD 3565-5 "
+    }, {
+      "leftX" : 292.32,
+      "bottomY" : 114.3615,
+      "rightX" : 523.8124,
+      "topY" : 102.3615,
+      "baseLineY" : 112.02,
+      "fontId" : 1,
+      "text" : "(see Paragraph 12.3 B.) or an Agency approved "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 128.3415,
+      "rightX" : 327.7607,
+      "topY" : 116.3415,
+      "baseLineY" : 126,
+      "fontId" : 1,
+      "text" : "assignment guarantee agreement.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 142.9071,
+      "rightX" : 113.52,
+      "topY" : 130.9071,
+      "baseLineY" : 140.76,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 143.0288,
+      "rightX" : 116.856,
+      "topY" : 131.0288,
+      "baseLineY" : 140.76,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 143.1015,
+      "rightX" : 255.0121,
+      "topY" : 131.1015,
+      "baseLineY" : 140.76,
+      "fontId" : 1,
+      "text" : "Close the transaction.   "
+    }, {
+      "leftX" : 288.0121,
+      "bottomY" : 143.1015,
+      "rightX" : 291.0121,
+      "topY" : 131.1015,
+      "baseLineY" : 140.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 324.0121,
+      "bottomY" : 143.1015,
+      "rightX" : 327.0121,
+      "topY" : 131.1015,
+      "baseLineY" : 140.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 360.0121,
+      "bottomY" : 143.1015,
+      "rightX" : 363.0121,
+      "topY" : 131.1015,
+      "baseLineY" : 140.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 396.0121,
+      "bottomY" : 143.1015,
+      "rightX" : 399.0121,
+      "topY" : 131.1015,
+      "baseLineY" : 140.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 432.0121,
+      "bottomY" : 143.1015,
+      "rightX" : 435.0121,
+      "topY" : 131.1015,
+      "baseLineY" : 140.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 468.0121,
+      "bottomY" : 143.1015,
+      "rightX" : 471.0121,
+      "topY" : 131.1015,
+      "baseLineY" : 140.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 504.0121,
+      "bottomY" : 143.1015,
+      "rightX" : 507.0121,
+      "topY" : 131.1015,
+      "baseLineY" : 140.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 157.6671,
+      "rightX" : 140.928,
+      "topY" : 145.6671,
+      "baseLineY" : 155.52,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 157.7888,
+      "rightX" : 144.276,
+      "topY" : 145.7888,
+      "baseLineY" : 155.52,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 157.5,
+      "bottomY" : 157.8615,
+      "rightX" : 430.0486,
+      "topY" : 145.8615,
+      "baseLineY" : 155.52,
+      "fontId" : 1,
+      "text" : "Upon receipt of the forms, the holder or broker prepares "
+    }, {
+      "leftX" : 430.02,
+      "bottomY" : 157.8615,
+      "rightX" : 512.6495,
+      "topY" : 145.8615,
+      "baseLineY" : 155.52,
+      "fontId" : 14,
+      "text" : "Form RD 3565-5"
+    }, {
+      "leftX" : 512.64,
+      "bottomY" : 157.8615,
+      "rightX" : 542.988,
+      "topY" : 145.8615,
+      "baseLineY" : 155.52,
+      "fontId" : 1,
+      "text" : " or an "
+    }, {
+      "leftX" : 157.5,
+      "bottomY" : 171.8415,
+      "rightX" : 540.5775,
+      "topY" : 159.8415,
+      "baseLineY" : 169.5,
+      "fontId" : 1,
+      "text" : "Agency approved assignment guarantee agreement and sends it to the lender in "
+    }, {
+      "leftX" : 157.5,
+      "bottomY" : 185.8214,
+      "rightX" : 528.1681,
+      "topY" : 173.8214,
+      "baseLineY" : 183.48,
+      "fontId" : 1,
+      "text" : "triplicate.  The lender signs all three forms and forwards them to the Agency "
+    }, {
+      "leftX" : 157.5,
+      "bottomY" : 199.8014,
+      "rightX" : 537.6721,
+      "topY" : 187.8014,
+      "baseLineY" : 197.46,
+      "fontId" : 1,
+      "text" : "for execution.  The Agency signs the forms and forwards them to the lender or "
+    }, {
+      "leftX" : 157.5,
+      "bottomY" : 213.7814,
+      "rightX" : 434.4854,
+      "topY" : 201.7814,
+      "baseLineY" : 211.4399,
+      "fontId" : 1,
+      "text" : "investment broker, and the settlement date is established. "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 228.347,
+      "rightX" : 140.928,
+      "topY" : 216.347,
+      "baseLineY" : 226.2,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 228.4688,
+      "rightX" : 144.276,
+      "topY" : 216.4688,
+      "baseLineY" : 226.2,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 228.5414,
+      "rightX" : 513.4191,
+      "topY" : 216.5414,
+      "baseLineY" : 226.2,
+      "fontId" : 1,
+      "text" : "   The broker returns the original copy to the lender and another copy to the "
+    }, {
+      "leftX" : 157.5,
+      "bottomY" : 242.5214,
+      "rightX" : 200.82,
+      "topY" : 230.5214,
+      "baseLineY" : 240.1799,
+      "fontId" : 1,
+      "text" : "Agency. "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 257.087,
+      "rightX" : 140.928,
+      "topY" : 245.087,
+      "baseLineY" : 254.9399,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 140.94,
+      "bottomY" : 257.2088,
+      "rightX" : 144.276,
+      "topY" : 245.2088,
+      "baseLineY" : 254.9399,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 157.5,
+      "bottomY" : 257.2814,
+      "rightX" : 465.8642,
+      "topY" : 245.2814,
+      "baseLineY" : 254.9399,
+      "fontId" : 1,
+      "text" : "On the settlement date, the broker wires the funds to the lender. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 271.2614,
+      "rightX" : 111,
+      "topY" : 259.2614,
+      "baseLineY" : 268.9199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 285.2414,
+      "rightX" : 540.3865,
+      "topY" : 273.2414,
+      "baseLineY" : 282.8999,
+      "fontId" : 1,
+      "text" : "Once documents are received by the Agency, it will endeavor to return executed forms to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 299.2215,
+      "rightX" : 237.24,
+      "topY" : 287.2214,
+      "baseLineY" : 296.8799,
+      "fontId" : 1,
+      "text" : "the lender within 7 calendar days. "
+    }, {
+      "leftX" : 252,
+      "bottomY" : 299.2215,
+      "rightX" : 255,
+      "topY" : 287.2215,
+      "baseLineY" : 296.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 288,
+      "bottomY" : 299.2215,
+      "rightX" : 291,
+      "topY" : 287.2215,
+      "baseLineY" : 296.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 324,
+      "bottomY" : 299.2215,
+      "rightX" : 327,
+      "topY" : 287.2215,
+      "baseLineY" : 296.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 360,
+      "bottomY" : 299.2215,
+      "rightX" : 363,
+      "topY" : 287.2215,
+      "baseLineY" : 296.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 396,
+      "bottomY" : 299.2215,
+      "rightX" : 399,
+      "topY" : 287.2215,
+      "baseLineY" : 296.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 432,
+      "bottomY" : 299.2215,
+      "rightX" : 435,
+      "topY" : 287.2215,
+      "baseLineY" : 296.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 468,
+      "bottomY" : 299.2215,
+      "rightX" : 471,
+      "topY" : 287.2215,
+      "baseLineY" : 296.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 507,
+      "bottomY" : 299.2215,
+      "rightX" : 615,
+      "topY" : 287.2215,
+      "baseLineY" : 296.88,
+      "fontId" : 1,
+      "text" : "                                    "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 328.8615,
+      "rightX" : 75,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 328.8615,
+      "rightX" : 111,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 328.8615,
+      "rightX" : 147,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 328.8615,
+      "rightX" : 183,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 328.8615,
+      "rightX" : 219,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 252,
+      "bottomY" : 328.8615,
+      "rightX" : 255,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 288,
+      "bottomY" : 328.8615,
+      "rightX" : 291,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 360,
+      "bottomY" : 328.8615,
+      "rightX" : 363,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 396,
+      "bottomY" : 328.8615,
+      "rightX" : 399,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 432,
+      "bottomY" : 328.8615,
+      "rightX" : 435,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 468,
+      "bottomY" : 328.8615,
+      "rightX" : 471,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 539.9399,
+      "bottomY" : 328.8615,
+      "rightX" : 542.9399,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 340.3214,
+      "rightX" : 233.3507,
+      "topY" : 328.3214,
+      "baseLineY" : 337.98,
+      "fontId" : 10,
+      "text" : "B.  Agency Execution of "
+    }, {
+      "leftX" : 233.3399,
+      "bottomY" : 340.3214,
+      "rightX" : 317.9987,
+      "topY" : 328.3214,
+      "baseLineY" : 337.98,
+      "fontId" : 18,
+      "text" : "Form RD 3565-5"
+    }, {
+      "leftX" : 317.9999,
+      "bottomY" : 340.3214,
+      "rightX" : 323.9999,
+      "topY" : 328.3214,
+      "baseLineY" : 337.98,
+      "fontId" : 10,
+      "text" : "  "
+    }, {
+      "leftX" : 324,
+      "bottomY" : 328.8615,
+      "rightX" : 327,
+      "topY" : 316.8615,
+      "baseLineY" : 326.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 354.3615,
+      "rightX" : 74.9999,
+      "topY" : 342.3615,
+      "baseLineY" : 352.02,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 368.2214,
+      "rightX" : 538.3245,
+      "topY" : 356.2214,
+      "baseLineY" : 365.88,
+      "fontId" : 1,
+      "text" : "The lender must provide the Agency with copies of all appropriate forms used in the sale "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 382.2014,
+      "rightX" : 508.9939,
+      "topY" : 370.2014,
+      "baseLineY" : 379.86,
+      "fontId" : 1,
+      "text" : "or assignment.  Once the lender accepts a specific buyer’s offer, the lender must notify the "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 396.1815,
+      "rightX" : 294.5327,
+      "topY" : 384.1815,
+      "baseLineY" : 393.84,
+      "fontId" : 1,
+      "text" : "Agency that the loan is being sold and submit "
+    }, {
+      "leftX" : 294.5399,
+      "bottomY" : 396.1815,
+      "rightX" : 377.1694,
+      "topY" : 384.1815,
+      "baseLineY" : 393.84,
+      "fontId" : 14,
+      "text" : "Form RD 3565-5"
+    }, {
+      "leftX" : 377.1599,
+      "bottomY" : 396.1815,
+      "rightX" : 523.2722,
+      "topY" : 384.1815,
+      "baseLineY" : 393.84,
+      "fontId" : 1,
+      "text" : " to the Agency for execution.  "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 410.1615,
+      "rightX" : 290.9314,
+      "topY" : 398.1615,
+      "baseLineY" : 407.82,
+      "fontId" : 1,
+      "text" : "The authorized Agency official shall execute "
+    }, {
+      "leftX" : 290.8799,
+      "bottomY" : 410.1615,
+      "rightX" : 376.507,
+      "topY" : 398.1615,
+      "baseLineY" : 407.82,
+      "fontId" : 14,
+      "text" : "Form RD 3565-5 "
+    }, {
+      "leftX" : 376.4999,
+      "bottomY" : 410.1615,
+      "rightX" : 525.0876,
+      "topY" : 398.1615,
+      "baseLineY" : 407.82,
+      "fontId" : 1,
+      "text" : "after reviewing it according to "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 424.1415,
+      "rightX" : 525.9147,
+      "topY" : 412.1415,
+      "baseLineY" : 421.8,
+      "fontId" : 1,
+      "text" : "this paragraph.  The form does not have to be signed by the holder before Agency approval of "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 438.1215,
+      "rightX" : 520.8384,
+      "topY" : 426.1215,
+      "baseLineY" : 435.78,
+      "fontId" : 1,
+      "text" : "the assignment.  After execution by the lender and the Agency, the holder will execute it and "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 452.1015,
+      "rightX" : 531.324,
+      "topY" : 440.1015,
+      "baseLineY" : 449.76,
+      "fontId" : 1,
+      "text" : "return a copy to the Agency for retention in the borrower’s case file and to update the pertinent "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 466.0815,
+      "rightX" : 434.3736,
+      "topY" : 454.0815,
+      "baseLineY" : 463.7401,
+      "fontId" : 1,
+      "text" : "areas in its loan tracking system with the new holder/assignee information. "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 480.0615,
+      "rightX" : 74.9999,
+      "topY" : 468.0615,
+      "baseLineY" : 477.7201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 494.0415,
+      "rightX" : 193.3799,
+      "topY" : 482.0415,
+      "baseLineY" : 491.7001,
+      "fontId" : 1,
+      "text" : "Before executing "
+    }, {
+      "leftX" : 193.3799,
+      "bottomY" : 494.0415,
+      "rightX" : 279.0071,
+      "topY" : 482.0415,
+      "baseLineY" : 491.7001,
+      "fontId" : 14,
+      "text" : "Form RD 3565-5,"
+    }, {
+      "leftX" : 278.9999,
+      "bottomY" : 494.0415,
+      "rightX" : 506.5897,
+      "topY" : 482.0415,
+      "baseLineY" : 491.7001,
+      "fontId" : 1,
+      "text" : " the authorized Agency official will review the "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 508.0215,
+      "rightX" : 289.6944,
+      "topY" : 496.0215,
+      "baseLineY" : 505.6801,
+      "fontId" : 1,
+      "text" : "documents to determine the following items. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 522.0016,
+      "rightX" : 110.9999,
+      "topY" : 510.0016,
+      "baseLineY" : 519.6601,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 536.5672,
+      "rightX" : 113.5199,
+      "topY" : 524.5672,
+      "baseLineY" : 534.4201,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.5199,
+      "bottomY" : 536.6889,
+      "rightX" : 116.8559,
+      "topY" : 524.6889,
+      "baseLineY" : 534.4201,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 536.7616,
+      "rightX" : 539.1266,
+      "topY" : 524.7616,
+      "baseLineY" : 534.4201,
+      "fontId" : 1,
+      "text" : "To whom is the loan being sold?  A loan may not be sold to the borrower or someone "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 550.7415,
+      "rightX" : 514.478,
+      "topY" : 538.7415,
+      "baseLineY" : 548.4001,
+      "fontId" : 1,
+      "text" : "who has a relationship to the borrower or is an owner or subsidiary of the lender "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 564.7216,
+      "rightX" : 156.0659,
+      "topY" : 552.7216,
+      "baseLineY" : 562.3801,
+      "fontId" : 1,
+      "text" : "itself. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 579.2871,
+      "rightX" : 113.5199,
+      "topY" : 567.2871,
+      "baseLineY" : 577.1401,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.5199,
+      "bottomY" : 579.4089,
+      "rightX" : 116.8559,
+      "topY" : 567.4089,
+      "baseLineY" : 577.1401,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 579.4815,
+      "rightX" : 535.7457,
+      "topY" : 567.4815,
+      "baseLineY" : 577.1401,
+      "fontId" : 1,
+      "text" : "Is the loan delinquent?  Delinquent loans may not be sold into the secondary market. "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 593.4616,
+      "rightX" : 74.9999,
+      "topY" : 581.4616,
+      "baseLineY" : 591.1201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 607.4416,
+      "rightX" : 515.4144,
+      "topY" : 595.4416,
+      "baseLineY" : 605.1001,
+      "fontId" : 1,
+      "text" : "Upon the lender’s sale or assignment of the loan, the lender will remain bound to all "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 621.4215,
+      "rightX" : 537.4568,
+      "topY" : 609.4215,
+      "baseLineY" : 619.0801,
+      "fontId" : 1,
+      "text" : "obligations indicated in the Loan Note Guarantee, the Lender's Agreement, the Agency program "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 635.4015,
+      "rightX" : 286.5298,
+      "topY" : 623.4015,
+      "baseLineY" : 633.0601,
+      "fontId" : 1,
+      "text" : "regulations, and future program regulations. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 649.3815,
+      "rightX" : 110.9999,
+      "topY" : 637.3815,
+      "baseLineY" : 647.04,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 663.3615,
+      "rightX" : 110.9999,
+      "topY" : 651.3615,
+      "baseLineY" : 661.0201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 677.3415,
+      "rightX" : 74.9999,
+      "topY" : 665.3415,
+      "baseLineY" : 675.0001,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.9599,
+      "bottomY" : 691.3215,
+      "rightX" : 319.975,
+      "topY" : 679.3215,
+      "baseLineY" : 688.98,
+      "fontId" : 1,
+      "text" : "12-3 "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 705.3015,
+      "rightX" : 169.3558,
+      "topY" : 693.3015,
+      "baseLineY" : 702.9601,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.6711,
+      "rightX" : 308.505,
+      "topY" : 709.6711,
+      "baseLineY" : 717.7199,
+      "fontId" : 9,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 85.6215,
+      "rightX" : 129.66,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.6015,
+      "rightX" : 75,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 113.5815,
+      "rightX" : 532.3514,
+      "topY" : 101.5815,
+      "baseLineY" : 111.24,
+      "fontId" : 1,
+      "text" : "The lender will send the holder the borrower’s executed note attached to the Guarantee, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 127.5614,
+      "rightX" : 533.9554,
+      "topY" : 115.5614,
+      "baseLineY" : 125.22,
+      "fontId" : 1,
+      "text" : "and the holder will succeed to all rights of the Loan Note Guarantee pertaining to the portion of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 141.5414,
+      "rightX" : 168.1188,
+      "topY" : 129.5414,
+      "baseLineY" : 139.2,
+      "fontId" : 1,
+      "text" : "the loan purchased. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 155.5214,
+      "rightX" : 75,
+      "topY" : 143.5214,
+      "baseLineY" : 153.1799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 169.6814,
+      "rightX" : 436.1964,
+      "topY" : 157.6814,
+      "baseLineY" : 167.3399,
+      "fontId" : 10,
+      "text" : "C.  Loans Involving Ginnie Mae, Freddie Mac, and Fannie Mae "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.7213,
+      "rightX" : 75,
+      "topY" : 171.7213,
+      "baseLineY" : 181.3799,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 197.5813,
+      "rightX" : 534.541,
+      "topY" : 185.5813,
+      "baseLineY" : 195.2399,
+      "fontId" : 1,
+      "text" : "For GRRHP loans that are securing Ginnie Mae guaranteed securities, the lender should "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 211.5613,
+      "rightX" : 538.1602,
+      "topY" : 199.5613,
+      "baseLineY" : 209.2198,
+      "fontId" : 1,
+      "text" : "follow Ginnie Mae procedures to close secondary market transactions.  Lenders that do business "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 225.5413,
+      "rightX" : 521.3113,
+      "topY" : 213.5413,
+      "baseLineY" : 223.1998,
+      "fontId" : 1,
+      "text" : "with Freddie Mac and Fannie Mae will follow their respective procedures to close secondary "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 239.5213,
+      "rightX" : 537.3121,
+      "topY" : 227.5213,
+      "baseLineY" : 237.1798,
+      "fontId" : 1,
+      "text" : "market transactions involving GRRHP loans.  The lenders must provide the Agency with proper "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 253.5013,
+      "rightX" : 522.1129,
+      "topY" : 241.5013,
+      "baseLineY" : 251.1598,
+      "fontId" : 1,
+      "text" : "documentation to evidence the secondary market transaction in the borrower’s case file.  The "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 267.4812,
+      "rightX" : 375.3697,
+      "topY" : 255.4812,
+      "baseLineY" : 265.1398,
+      "fontId" : 1,
+      "text" : "Agency will then update its loan tracking system accordingly.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 281.4612,
+      "rightX" : 111,
+      "topY" : 269.4612,
+      "baseLineY" : 279.1198,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 295.4412,
+      "rightX" : 527.6769,
+      "topY" : 283.4412,
+      "baseLineY" : 293.0998,
+      "fontId" : 1,
+      "text" : "Once GRRHP loans are formed into Ginnie Mae guaranteed securities, the lender does "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 309.4212,
+      "rightX" : 176.4468,
+      "topY" : 297.4212,
+      "baseLineY" : 307.0798,
+      "fontId" : 1,
+      "text" : "not need to execute a "
+    }, {
+      "leftX" : 176.46,
+      "bottomY" : 309.4212,
+      "rightX" : 262.0872,
+      "topY" : 297.4212,
+      "baseLineY" : 307.0798,
+      "fontId" : 14,
+      "text" : "Form RD 3565-5 "
+    }, {
+      "leftX" : 262.08,
+      "bottomY" : 309.4212,
+      "rightX" : 514.4881,
+      "topY" : 297.4212,
+      "baseLineY" : 307.0798,
+      "fontId" : 1,
+      "text" : "for subsequent assignments. Loans and/or mortgage "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 323.4012,
+      "rightX" : 511.8601,
+      "topY" : 311.4012,
+      "baseLineY" : 321.0598,
+      "fontId" : 1,
+      "text" : "servicing backing Ginnie Mae guaranteed securities may only be assigned to a Ginnie Mae "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 337.3813,
+      "rightX" : 264.9623,
+      "topY" : 325.3813,
+      "baseLineY" : 335.0398,
+      "fontId" : 1,
+      "text" : "issuer, with prior Ginnie Mae approval. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 351.5413,
+      "rightX" : 75,
+      "topY" : 339.5413,
+      "baseLineY" : 349.1998,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 365.4012,
+      "rightX" : 75,
+      "topY" : 353.4012,
+      "baseLineY" : 363.0598,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.4012,
+      "rightX" : 521.8233,
+      "topY" : 353.4012,
+      "baseLineY" : 363.0598,
+      "fontId" : 1,
+      "text" : "For GRRHP loans that are backing Ginnie Mae guaranteed securities where there is a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 379.3813,
+      "rightX" : 531.9026,
+      "topY" : 367.3813,
+      "baseLineY" : 377.0398,
+      "fontId" : 1,
+      "text" : "conflict between this chapter and Ginnie Mae requirements, the Ginnie Mae requirements shall "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 393.3613,
+      "rightX" : 111.4296,
+      "topY" : 381.3613,
+      "baseLineY" : 391.0198,
+      "fontId" : 1,
+      "text" : "prevail. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 407.3413,
+      "rightX" : 75,
+      "topY" : 395.3413,
+      "baseLineY" : 404.9998,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 76.2,
+      "bottomY" : 423.8117,
+      "rightX" : 539.2008,
+      "topY" : 409.8117,
+      "baseLineY" : 421.08,
+      "fontId" : 3,
+      "text" : "SECTION 2: REPURCHASE FROM A SECONDARY MARKET HOLDER "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 437.7014,
+      "rightX" : 111,
+      "topY" : 425.7014,
+      "baseLineY" : 435.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 451.8615,
+      "rightX" : 96.0144,
+      "topY" : 439.8615,
+      "baseLineY" : 449.52,
+      "fontId" : 10,
+      "text" : "12.4 "
+    }, {
+      "leftX" : 108.0144,
+      "bottomY" : 451.8615,
+      "rightX" : 275.4204,
+      "topY" : 439.8615,
+      "baseLineY" : 449.52,
+      "fontId" : 10,
+      "text" : "Holder Demand for Repurchase "
+    }, {
+      "leftX" : 288.0204,
+      "bottomY" : 451.8615,
+      "rightX" : 291.0204,
+      "topY" : 439.8615,
+      "baseLineY" : 449.52,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 324.0204,
+      "bottomY" : 451.8615,
+      "rightX" : 327.0204,
+      "topY" : 439.8615,
+      "baseLineY" : 449.52,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 360.0204,
+      "bottomY" : 451.8615,
+      "rightX" : 363.0204,
+      "topY" : 439.8615,
+      "baseLineY" : 449.52,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 396.0204,
+      "bottomY" : 451.8615,
+      "rightX" : 399.0204,
+      "topY" : 439.8615,
+      "baseLineY" : 449.52,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 432.0204,
+      "bottomY" : 451.8615,
+      "rightX" : 435.0204,
+      "topY" : 439.8615,
+      "baseLineY" : 449.52,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 468.0204,
+      "bottomY" : 451.8615,
+      "rightX" : 471.0204,
+      "topY" : 439.8615,
+      "baseLineY" : 449.52,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 504.0204,
+      "bottomY" : 451.8615,
+      "rightX" : 507.0204,
+      "topY" : 439.8615,
+      "baseLineY" : 449.52,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 465.7214,
+      "rightX" : 75,
+      "topY" : 453.7214,
+      "baseLineY" : 463.38,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 479.7014,
+      "rightX" : 531.2158,
+      "topY" : 467.7014,
+      "baseLineY" : 477.36,
+      "fontId" : 1,
+      "text" : "The holder may make written demand on the lender to repurchase the unpaid portion of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 493.6815,
+      "rightX" : 176.1744,
+      "topY" : 481.6815,
+      "baseLineY" : 491.34,
+      "fontId" : 1,
+      "text" : "the loan when either: "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 508.2471,
+      "rightX" : 95.52,
+      "topY" : 496.2471,
+      "baseLineY" : 506.1,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 95.52,
+      "bottomY" : 508.3688,
+      "rightX" : 98.856,
+      "topY" : 496.3688,
+      "baseLineY" : 506.1,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 508.4415,
+      "rightX" : 532.0562,
+      "topY" : 496.4415,
+      "baseLineY" : 506.1,
+      "fontId" : 1,
+      "text" : "The borrower has not made a payment of principal and/or interest due on the loan for at "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 522.4215,
+      "rightX" : 189.1224,
+      "topY" : 510.4215,
+      "baseLineY" : 520.08,
+      "fontId" : 1,
+      "text" : "least 60 days, or "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 536.9871,
+      "rightX" : 95.52,
+      "topY" : 524.9871,
+      "baseLineY" : 534.84,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 95.52,
+      "bottomY" : 537.1088,
+      "rightX" : 98.856,
+      "topY" : 525.1088,
+      "baseLineY" : 534.84,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 537.1815,
+      "rightX" : 522.7104,
+      "topY" : 525.1815,
+      "baseLineY" : 534.84,
+      "fontId" : 1,
+      "text" : "The lender has failed to give the holder its pro-rata share of any payment made by the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 551.1615,
+      "rightX" : 389.8174,
+      "topY" : 539.1613,
+      "baseLineY" : 548.82,
+      "fontId" : 1,
+      "text" : "borrower within 30 calendar days of receipt of a payment. "
+    }, {
+      "leftX" : 395.9974,
+      "bottomY" : 551.1613,
+      "rightX" : 398.9974,
+      "topY" : 539.1613,
+      "baseLineY" : 548.8199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 431.9974,
+      "bottomY" : 551.1613,
+      "rightX" : 434.9974,
+      "topY" : 539.1613,
+      "baseLineY" : 548.8199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 467.9974,
+      "bottomY" : 551.1613,
+      "rightX" : 470.9974,
+      "topY" : 539.1613,
+      "baseLineY" : 548.8199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 592.0813,
+      "rightX" : 74.9999,
+      "topY" : 580.0813,
+      "baseLineY" : 589.7399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 592.0813,
+      "rightX" : 485.9144,
+      "topY" : 580.0813,
+      "baseLineY" : 589.7399,
+      "fontId" : 1,
+      "text" : "The holder must concurrently send a copy of the demand letter to the Agency. "
+    }, {
+      "leftX" : 539.9399,
+      "bottomY" : 580.8014,
+      "rightX" : 542.9399,
+      "topY" : 568.8014,
+      "baseLineY" : 578.4599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 606.0614,
+      "rightX" : 74.9999,
+      "topY" : 594.0614,
+      "baseLineY" : 603.7199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 620.0414,
+      "rightX" : 542.0125,
+      "topY" : 608.0414,
+      "baseLineY" : 617.6999,
+      "fontId" : 1,
+      "text" : "When a lender is requested to repurchase a loan from the holder, the lender must consider "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 634.0213,
+      "rightX" : 541.8062,
+      "topY" : 622.0213,
+      "baseLineY" : 631.6799,
+      "fontId" : 1,
+      "text" : "the request according to the servicing actions that are necessary on the loan.  In order to facilitate "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 648.0014,
+      "rightX" : 528.24,
+      "topY" : 636.0014,
+      "baseLineY" : 645.6599,
+      "fontId" : 1,
+      "text" : "servicing and simplified accounting of loan transactions, lenders are encouraged to repurchase "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 661.9814,
+      "rightX" : 241.2598,
+      "topY" : 649.9814,
+      "baseLineY" : 659.6399,
+      "fontId" : 1,
+      "text" : "the loan upon the holder’s request. "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 675.9613,
+      "rightX" : 74.9999,
+      "topY" : 663.9613,
+      "baseLineY" : 673.6199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.9599,
+      "bottomY" : 689.9413,
+      "rightX" : 319.975,
+      "topY" : 677.9413,
+      "baseLineY" : 687.5999,
+      "fontId" : 1,
+      "text" : "12-4 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.642,
+      "rightX" : 310.005,
+      "topY" : 703.642,
+      "baseLineY" : 716.52,
+      "fontId" : 17,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 540,
+      "bottomY" : 99.6015,
+      "rightX" : 543,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 113.5815,
+      "rightX" : 532.5457,
+      "topY" : 101.5815,
+      "baseLineY" : 111.24,
+      "fontId" : 1,
+      "text" : "The lender will notify the holder and the Agency of its decision to repurchase within 10 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 127.5614,
+      "rightX" : 536.2609,
+      "topY" : 115.5614,
+      "baseLineY" : 125.22,
+      "fontId" : 1,
+      "text" : "business days from the date of the written demand letter by the holder.  The lender may agree to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 141.5414,
+      "rightX" : 534.9145,
+      "topY" : 129.5414,
+      "baseLineY" : 139.2,
+      "fontId" : 1,
+      "text" : "repurchase the unpaid portion of the entire loan from the holder, even though the guarantee will "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 155.5214,
+      "rightX" : 525.6481,
+      "topY" : 143.5214,
+      "baseLineY" : 153.1799,
+      "fontId" : 1,
+      "text" : "not cover the unguaranteed portion of the loan.  If the lender decides to repurchase, the lender "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 169.5014,
+      "rightX" : 539.0209,
+      "topY" : 157.5014,
+      "baseLineY" : 167.1599,
+      "fontId" : 1,
+      "text" : "has 30 calendar days from the date of the holder’s written demand letter to do so.  The guarantee "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.4814,
+      "rightX" : 508.757,
+      "topY" : 171.4814,
+      "baseLineY" : 181.14,
+      "fontId" : 1,
+      "text" : "will not cover the unguaranteed portion of the loan or the note interest to the holder on the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.4615,
+      "rightX" : 538.77,
+      "topY" : 185.4614,
+      "baseLineY" : 195.1199,
+      "fontId" : 1,
+      "text" : "guaranteed loan portion accruing after 90 calendar days from the date of the demand letter to the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 211.4414,
+      "rightX" : 518.4193,
+      "topY" : 199.4414,
+      "baseLineY" : 209.1,
+      "fontId" : 1,
+      "text" : "lender requesting the repurchase.  The lender may deduct the lender’s servicing fee from the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 225.4214,
+      "rightX" : 169.032,
+      "topY" : 213.4214,
+      "baseLineY" : 223.08,
+      "fontId" : 1,
+      "text" : "repurchase amount. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 239.4014,
+      "rightX" : 111,
+      "topY" : 227.4014,
+      "baseLineY" : 237.0599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 253.3814,
+      "rightX" : 538.7402,
+      "topY" : 241.3814,
+      "baseLineY" : 251.0399,
+      "fontId" : 1,
+      "text" : "The lender will accept an assignment without recourse from the holder upon repurchase.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 267.3614,
+      "rightX" : 536.965,
+      "topY" : 255.3614,
+      "baseLineY" : 265.0199,
+      "fontId" : 1,
+      "text" : "The lender is encouraged to repurchase the loan to facilitate the accounting of funds, resolve the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 281.3413,
+      "rightX" : 520.0928,
+      "topY" : 269.3413,
+      "baseLineY" : 278.9999,
+      "fontId" : 1,
+      "text" : "problem, and prevent default, where and when reasonable. Upon repurchase, the lender shall "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 295.3214,
+      "rightX" : 511.9809,
+      "topY" : 283.3214,
+      "baseLineY" : 292.9799,
+      "fontId" : 1,
+      "text" : "notify the Agency by returning the original Assignment Agreement.  The Agency will then "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 309.3014,
+      "rightX" : 286.5792,
+      "topY" : 297.3014,
+      "baseLineY" : 306.9599,
+      "fontId" : 1,
+      "text" : "update its loan tracking system accordingly. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 323.2814,
+      "rightX" : 111,
+      "topY" : 311.2814,
+      "baseLineY" : 320.9399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 337.4414,
+      "rightX" : 96.0096,
+      "topY" : 325.4414,
+      "baseLineY" : 335.0999,
+      "fontId" : 10,
+      "text" : "12.5 "
+    }, {
+      "leftX" : 108.0096,
+      "bottomY" : 337.4414,
+      "rightX" : 259.0655,
+      "topY" : 325.4414,
+      "baseLineY" : 335.0999,
+      "fontId" : 10,
+      "text" : "Lender Initiated Repurchase "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 351.3014,
+      "rightX" : 75,
+      "topY" : 339.3014,
+      "baseLineY" : 348.9599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.2814,
+      "rightX" : 506.7602,
+      "topY" : 353.2814,
+      "baseLineY" : 362.9399,
+      "fontId" : 1,
+      "text" : "If due to loan default or imminent loan restructuring, the lender determines that its "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 379.2614,
+      "rightX" : 533.8658,
+      "topY" : 367.2614,
+      "baseLineY" : 376.9199,
+      "fontId" : 1,
+      "text" : "repurchase is necessary to adequately service the loan, the lender may repurchase the loan from "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 393.2414,
+      "rightX" : 539.678,
+      "topY" : 381.2414,
+      "baseLineY" : 390.8999,
+      "fontId" : 1,
+      "text" : "the holder.  Lender repurchase is not required if the holder will agree to the restructured terms of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 407.2214,
+      "rightX" : 508.9057,
+      "topY" : 395.2214,
+      "baseLineY" : 404.8799,
+      "fontId" : 1,
+      "text" : "the note.  If interest is capitalized, a new note is taken, the original note is amended, or the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 421.2014,
+      "rightX" : 527.6114,
+      "topY" : 409.2014,
+      "baseLineY" : 418.86,
+      "fontId" : 1,
+      "text" : "principal amount is modified, the lender must ensure that the assignment is amended to reflect "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 435.1814,
+      "rightX" : 308.0737,
+      "topY" : 423.1814,
+      "baseLineY" : 432.84,
+      "fontId" : 1,
+      "text" : "the actual guaranteed portion held by the holder. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 449.1614,
+      "rightX" : 75,
+      "topY" : 437.1614,
+      "baseLineY" : 446.82,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 463.1415,
+      "rightX" : 531.1245,
+      "topY" : 451.1415,
+      "baseLineY" : 460.8,
+      "fontId" : 1,
+      "text" : "The lender will not repurchase from the holder for arbitrage purposes.  The lender must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 477.1215,
+      "rightX" : 443.3109,
+      "topY" : 465.1215,
+      "baseLineY" : 474.78,
+      "fontId" : 1,
+      "text" : "document all attempts to repurchase the loan from the holder in the loan file. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 491.2815,
+      "rightX" : 75,
+      "topY" : 479.2815,
+      "baseLineY" : 488.94,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 505.3215,
+      "rightX" : 96.0096,
+      "topY" : 493.3215,
+      "baseLineY" : 502.98,
+      "fontId" : 10,
+      "text" : "12.6 "
+    }, {
+      "leftX" : 108.0096,
+      "bottomY" : 505.3215,
+      "rightX" : 451.1402,
+      "topY" : 493.3215,
+      "baseLineY" : 502.98,
+      "fontId" : 10,
+      "text" : "Demand for Repurchase of Loans Contained in a Ginnie Mae Pool "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 519.3615,
+      "rightX" : 75,
+      "topY" : 507.3615,
+      "baseLineY" : 517.02,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 533.2215,
+      "rightX" : 75,
+      "topY" : 521.2215,
+      "baseLineY" : 530.88,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 533.2215,
+      "rightX" : 529.2911,
+      "topY" : 521.2215,
+      "baseLineY" : 530.88,
+      "fontId" : 1,
+      "text" : "Ginnie Mae or its approved issuer/lender may make a written demand to the Agency to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 547.2014,
+      "rightX" : 498.2137,
+      "topY" : 535.2014,
+      "baseLineY" : 544.86,
+      "fontId" : 1,
+      "text" : "repurchase the unpaid portion of the loan when the borrower has not made a payment of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 561.1814,
+      "rightX" : 363.5137,
+      "topY" : 549.1814,
+      "baseLineY" : 558.84,
+      "fontId" : 1,
+      "text" : "principal and/or interest due on the loan for at least 90 days. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 575.3415,
+      "rightX" : 75,
+      "topY" : 563.3415,
+      "baseLineY" : 573,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 589.3814,
+      "rightX" : 96.0096,
+      "topY" : 577.3814,
+      "baseLineY" : 587.04,
+      "fontId" : 10,
+      "text" : "12.7 "
+    }, {
+      "leftX" : 108.0096,
+      "bottomY" : 589.3814,
+      "rightX" : 337.0632,
+      "topY" : 577.3814,
+      "baseLineY" : 587.04,
+      "fontId" : 10,
+      "text" : "Purchase of the Loan or Note by the Agency "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 603.2415,
+      "rightX" : 111,
+      "topY" : 591.2415,
+      "baseLineY" : 600.9,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 617.4015,
+      "rightX" : 122.6736,
+      "topY" : 605.4015,
+      "baseLineY" : 615.06,
+      "fontId" : 10,
+      "text" : "A. "
+    }, {
+      "leftX" : 144.0336,
+      "bottomY" : 617.4015,
+      "rightX" : 321.7991,
+      "topY" : 605.4015,
+      "baseLineY" : 615.06,
+      "fontId" : 10,
+      "text" : "Agency Purchase from the Holder "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 631.4414,
+      "rightX" : 75,
+      "topY" : 619.4414,
+      "baseLineY" : 629.1,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 645.3014,
+      "rightX" : 513.1172,
+      "topY" : 633.3014,
+      "baseLineY" : 642.96,
+      "fontId" : 1,
+      "text" : "If the lender does not repurchase the loan as provided in Paragraph 12.4, the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 659.4615,
+      "rightX" : 463.0705,
+      "topY" : 647.4615,
+      "baseLineY" : 657.12,
+      "fontId" : 1,
+      "text" : "Agency will purchase from the holder the unpaid principal balance of the "
+    }, {
+      "leftX" : 462.96,
+      "bottomY" : 659.4615,
+      "rightX" : 526.98,
+      "topY" : 647.4615,
+      "baseLineY" : 657.12,
+      "fontId" : 10,
+      "text" : "guaranteed  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 673.4414,
+      "rightX" : 147,
+      "topY" : 661.4414,
+      "baseLineY" : 671.1,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 687.4214,
+      "rightX" : 169.374,
+      "topY" : 675.4214,
+      "baseLineY" : 685.08,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 179.994,
+      "bottomY" : 687.4214,
+      "rightX" : 182.994,
+      "topY" : 675.4214,
+      "baseLineY" : 685.08,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 215.994,
+      "bottomY" : 687.4214,
+      "rightX" : 218.994,
+      "topY" : 675.4214,
+      "baseLineY" : 685.08,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 251.994,
+      "bottomY" : 687.4214,
+      "rightX" : 277.0044,
+      "topY" : 675.4214,
+      "baseLineY" : 685.08,
+      "fontId" : 1,
+      "text" : "12-5 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.6711,
+      "rightX" : 308.505,
+      "topY" : 709.6711,
+      "baseLineY" : 717.7199,
+      "fontId" : 9,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 85.6215,
+      "rightX" : 129.66,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.6015,
+      "rightX" : 75,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 129.2415,
+      "rightX" : 149.0208,
+      "topY" : 117.2415,
+      "baseLineY" : 126.9,
+      "fontId" : 10,
+      "text" : "portion "
+    }, {
+      "leftX" : 149.04,
+      "bottomY" : 129.2415,
+      "rightX" : 479.6978,
+      "topY" : 117.2415,
+      "baseLineY" : 126.9,
+      "fontId" : 1,
+      "text" : "together with accrued interest to date of repurchase, less the lender's "
+    }, {
+      "leftX" : 515.64,
+      "bottomY" : 128.8512,
+      "rightX" : 518.145,
+      "topY" : 118.8512,
+      "baseLineY" : 126.9,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 143.2213,
+      "rightX" : 510.535,
+      "topY" : 131.2213,
+      "baseLineY" : 140.8799,
+      "fontId" : 1,
+      "text" : "servicing fee, within 30 calendar days after written demand to the Agency from the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 157.2013,
+      "rightX" : 509.0025,
+      "topY" : 145.2013,
+      "baseLineY" : 154.8599,
+      "fontId" : 1,
+      "text" : "holder.  This demand notice is in addition to the copy of the written demand on the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 171.1813,
+      "rightX" : 520.3538,
+      "topY" : 159.1813,
+      "baseLineY" : 168.8398,
+      "fontId" : 1,
+      "text" : "lender.  The guarantee will not cover the note interest to the holder on the guaranteed "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 185.1613,
+      "rightX" : 522.3142,
+      "topY" : 173.1613,
+      "baseLineY" : 182.8198,
+      "fontId" : 1,
+      "text" : "loan accruing after 90 calendar days from the date of the original demand letter of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 199.1413,
+      "rightX" : 333.7679,
+      "topY" : 187.1413,
+      "baseLineY" : 196.7999,
+      "fontId" : 1,
+      "text" : "holder to the lender requesting the repurchase. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 213.1213,
+      "rightX" : 111,
+      "topY" : 201.1213,
+      "baseLineY" : 210.7798,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 227.1013,
+      "rightX" : 417.2558,
+      "topY" : 215.1013,
+      "baseLineY" : 224.7598,
+      "fontId" : 1,
+      "text" : "With its demand on the Agency, the holder will include: "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 241.0813,
+      "rightX" : 93,
+      "topY" : 229.0813,
+      "baseLineY" : 238.7398,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 255.6469,
+      "rightX" : 113.52,
+      "topY" : 243.6469,
+      "baseLineY" : 253.4998,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 255.7686,
+      "rightX" : 116.856,
+      "topY" : 243.7686,
+      "baseLineY" : 253.4998,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 255.8413,
+      "rightX" : 382.6838,
+      "topY" : 243.8413,
+      "baseLineY" : 253.4998,
+      "fontId" : 1,
+      "text" : "A copy of the written demand made upon the lender; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 270.4069,
+      "rightX" : 113.52,
+      "topY" : 258.4069,
+      "baseLineY" : 268.2598,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 270.5286,
+      "rightX" : 116.856,
+      "topY" : 258.5286,
+      "baseLineY" : 268.2598,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 270.6013,
+      "rightX" : 528.3865,
+      "topY" : 258.6013,
+      "baseLineY" : 268.2598,
+      "fontId" : 1,
+      "text" : "Originals of the Loan Note Guarantee and note properly endorsed to the Agency or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 284.5813,
+      "rightX" : 462.6024,
+      "topY" : 272.5813,
+      "baseLineY" : 282.2398,
+      "fontId" : 1,
+      "text" : "the original of an Agency approved assignment guarantee agreement; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 299.1469,
+      "rightX" : 113.52,
+      "topY" : 287.1469,
+      "baseLineY" : 296.9998,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 299.2687,
+      "rightX" : 116.856,
+      "topY" : 287.2687,
+      "baseLineY" : 296.9998,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 299.3413,
+      "rightX" : 528.989,
+      "topY" : 287.3413,
+      "baseLineY" : 296.9998,
+      "fontId" : 1,
+      "text" : "A copy of any written response to the demand provided by the lender to the holder; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 313.3213,
+      "rightX" : 146.3388,
+      "topY" : 301.3213,
+      "baseLineY" : 310.9799,
+      "fontId" : 1,
+      "text" : "and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 327.8869,
+      "rightX" : 113.52,
+      "topY" : 315.8869,
+      "baseLineY" : 325.7399,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 328.0087,
+      "rightX" : 116.856,
+      "topY" : 316.0087,
+      "baseLineY" : 325.7399,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 328.0813,
+      "rightX" : 507.1418,
+      "topY" : 316.0813,
+      "baseLineY" : 325.7399,
+      "fontId" : 1,
+      "text" : "An account number to which the Agency can forward the purchase amount via "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 342.0613,
+      "rightX" : 248.8009,
+      "topY" : 330.0613,
+      "baseLineY" : 339.7199,
+      "fontId" : 1,
+      "text" : "electronic funds transfer. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 356.0414,
+      "rightX" : 75,
+      "topY" : 344.0414,
+      "baseLineY" : 353.6999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 370.0214,
+      "rightX" : 502.3754,
+      "topY" : 358.0214,
+      "baseLineY" : 367.6799,
+      "fontId" : 1,
+      "text" : "The Agency will notify the lender of its receipt of the holder's demand for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 384.0014,
+      "rightX" : 523.1138,
+      "topY" : 372.0014,
+      "baseLineY" : 381.6599,
+      "fontId" : 1,
+      "text" : "payment.  The lender must provide the Agency with the information necessary for the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 397.9815,
+      "rightX" : 541.5673,
+      "topY" : 385.9814,
+      "baseLineY" : 395.6399,
+      "fontId" : 1,
+      "text" : "Agency to determine the appropriate amount due the holder within 10 business days from "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 411.9615,
+      "rightX" : 534.1749,
+      "topY" : 399.9615,
+      "baseLineY" : 409.62,
+      "fontId" : 1,
+      "text" : "the date of the written demand letter to the lender from the holder requesting repurchase "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 425.9415,
+      "rightX" : 518.5057,
+      "topY" : 413.9415,
+      "baseLineY" : 423.6,
+      "fontId" : 1,
+      "text" : "of the guaranteed portion.  The lender will furnish a current statement certified by an "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 439.9215,
+      "rightX" : 535.0935,
+      "topY" : 427.9215,
+      "baseLineY" : 437.58,
+      "fontId" : 1,
+      "text" : "appropriate authorized officer of the lender stating the unpaid principal and interest then "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 453.9015,
+      "rightX" : 498.8668,
+      "topY" : 441.9015,
+      "baseLineY" : 451.5601,
+      "fontId" : 1,
+      "text" : "owed by the borrower on the loan and the amount then owed to any holder.  Any "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 467.8815,
+      "rightX" : 538.565,
+      "topY" : 455.8815,
+      "baseLineY" : 465.5401,
+      "fontId" : 1,
+      "text" : "discrepancy between the amount claimed by the holder and the information submitted by "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 481.8615,
+      "rightX" : 522.7191,
+      "topY" : 469.8615,
+      "baseLineY" : 479.5201,
+      "fontId" : 1,
+      "text" : "the lender must be resolved between the lender and the holder before payment will be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 495.8416,
+      "rightX" : 459.0681,
+      "topY" : 483.8416,
+      "baseLineY" : 493.5001,
+      "fontId" : 1,
+      "text" : "approved. The Agency will coordinate the resolution of the discrepancy. "
+    }, {
+      "leftX" : 459.06,
+      "bottomY" : 495.8416,
+      "rightX" : 462.06,
+      "topY" : 483.8416,
+      "baseLineY" : 493.5001,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 462.06,
+      "bottomY" : 495.8416,
+      "rightX" : 528.7896,
+      "topY" : 483.8416,
+      "baseLineY" : 493.5001,
+      "fontId" : 1,
+      "text" : "Such conflict "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 509.8216,
+      "rightX" : 447.5521,
+      "topY" : 497.8214,
+      "baseLineY" : 507.4801,
+      "fontId" : 1,
+      "text" : "will suspend the running of the 30 calendar day payment requirement. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 523.8014,
+      "rightX" : 75,
+      "topY" : 511.8014,
+      "baseLineY" : 521.4599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 537.7814,
+      "rightX" : 498.7688,
+      "topY" : 525.7814,
+      "baseLineY" : 535.4399,
+      "fontId" : 1,
+      "text" : "The authorized Agency official shall review the borrower’s loan file and: "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 551.7614,
+      "rightX" : 75,
+      "topY" : 539.7614,
+      "baseLineY" : 549.4199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 566.327,
+      "rightX" : 113.52,
+      "topY" : 554.327,
+      "baseLineY" : 564.1799,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 566.4487,
+      "rightX" : 116.856,
+      "topY" : 554.4487,
+      "baseLineY" : 564.1799,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 566.5214,
+      "rightX" : 408.9046,
+      "topY" : 554.5214,
+      "baseLineY" : 564.1799,
+      "fontId" : 1,
+      "text" : "Verify the amounts owed to the lender and the holder, and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 581.0869,
+      "rightX" : 113.52,
+      "topY" : 569.0869,
+      "baseLineY" : 578.9399,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 581.2087,
+      "rightX" : 116.856,
+      "topY" : 569.2087,
+      "baseLineY" : 578.9399,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 581.2813,
+      "rightX" : 175.632,
+      "topY" : 569.2813,
+      "baseLineY" : 578.9399,
+      "fontId" : 1,
+      "text" : "Complete "
+    }, {
+      "leftX" : 175.62,
+      "bottomY" : 581.2813,
+      "rightX" : 264.2473,
+      "topY" : 569.2813,
+      "baseLineY" : 578.9399,
+      "fontId" : 14,
+      "text" : "Form RD 1980-37"
+    }, {
+      "leftX" : 264.24,
+      "bottomY" : 581.2813,
+      "rightX" : 275.568,
+      "topY" : 569.2813,
+      "baseLineY" : 578.9399,
+      "fontId" : 1,
+      "text" : ", “"
+    }, {
+      "leftX" : 275.58,
+      "bottomY" : 581.2813,
+      "rightX" : 476.6952,
+      "topY" : 569.2813,
+      "baseLineY" : 578.9399,
+      "fontId" : 14,
+      "text" : "Purchase of a Guaranteed Loan Portion”"
+    }, {
+      "leftX" : 476.7,
+      "bottomY" : 581.2813,
+      "rightX" : 534.768,
+      "topY" : 569.2813,
+      "baseLineY" : 578.9399,
+      "fontId" : 1,
+      "text" : ", and return "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 595.2614,
+      "rightX" : 314.9135,
+      "topY" : 583.2614,
+      "baseLineY" : 592.9199,
+      "fontId" : 1,
+      "text" : "it to the Finance Office for processing. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 609.2414,
+      "rightX" : 75,
+      "topY" : 597.2414,
+      "baseLineY" : 606.8999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 623.2213,
+      "rightX" : 540.4346,
+      "topY" : 611.2213,
+      "baseLineY" : 620.8799,
+      "fontId" : 1,
+      "text" : "At the time of purchase by the Agency, the holder will assign the original Agency "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 637.2013,
+      "rightX" : 535.7617,
+      "topY" : 625.2013,
+      "baseLineY" : 634.8599,
+      "fontId" : 1,
+      "text" : "approved assignment guarantee agreement to the Agency without recourse, including all "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 651.1813,
+      "rightX" : 284.7359,
+      "topY" : 639.1813,
+      "baseLineY" : 648.8398,
+      "fontId" : 1,
+      "text" : "rights, title, and interest in the loan.  "
+    }, {
+      "leftX" : 284.7599,
+      "bottomY" : 651.1813,
+      "rightX" : 530.0112,
+      "topY" : 639.1813,
+      "baseLineY" : 648.8398,
+      "fontId" : 14,
+      "text" : "Purchase by the Agency does not change, alter, or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 665.1014,
+      "rightX" : 486.6,
+      "topY" : 653.1014,
+      "baseLineY" : 662.7599,
+      "fontId" : 14,
+      "text" : "modify any of the lender’s obligations to the Agency specified in the Lender’s  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 678.9613,
+      "rightX" : 75,
+      "topY" : 666.9613,
+      "baseLineY" : 676.6199,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 692.8814,
+      "rightX" : 319.9752,
+      "topY" : 680.8814,
+      "baseLineY" : 690.5399,
+      "fontId" : 1,
+      "text" : "12-6 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.642,
+      "rightX" : 310.005,
+      "topY" : 703.642,
+      "baseLineY" : 716.52,
+      "fontId" : 17,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 485.34,
+      "bottomY" : 85.6215,
+      "rightX" : 543,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 540,
+      "bottomY" : 99.6015,
+      "rightX" : 543,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 113.5215,
+      "rightX" : 540.1081,
+      "topY" : 101.5215,
+      "baseLineY" : 111.18,
+      "fontId" : 14,
+      "text" : "Agreement or the Loan Note Guarantee nor does the purchase waive any of the Agency’s "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 127.4414,
+      "rightX" : 225.924,
+      "topY" : 115.4414,
+      "baseLineY" : 125.1,
+      "fontId" : 14,
+      "text" : "rights against the lender"
+    }, {
+      "leftX" : 225.9,
+      "bottomY" : 127.4414,
+      "rightX" : 540.6046,
+      "topY" : 115.4414,
+      "baseLineY" : 125.1,
+      "fontId" : 1,
+      "text" : ".  The Agency succeeds to all rights of the holder under the Loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 141.4214,
+      "rightX" : 524.1412,
+      "topY" : 129.4214,
+      "baseLineY" : 139.08,
+      "fontId" : 1,
+      "text" : "Note Guarantee including the right to set-off from any payments the Agency owes the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 155.4014,
+      "rightX" : 370.5889,
+      "topY" : 143.4014,
+      "baseLineY" : 153.0599,
+      "fontId" : 1,
+      "text" : "lender any funds payable by the lender to the Agency. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 169.3814,
+      "rightX" : 111,
+      "topY" : 157.3814,
+      "baseLineY" : 167.0399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 183.5414,
+      "rightX" : 122.0088,
+      "topY" : 171.5414,
+      "baseLineY" : 181.1999,
+      "fontId" : 10,
+      "text" : "B. "
+    }, {
+      "leftX" : 144.0288,
+      "bottomY" : 183.5414,
+      "rightX" : 445.8195,
+      "topY" : 171.5414,
+      "baseLineY" : 181.1999,
+      "fontId" : 10,
+      "text" : "Agency Purchase of Loans Contained in Ginnie Mae Pools "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 197.5813,
+      "rightX" : 111,
+      "topY" : 185.5813,
+      "baseLineY" : 195.2399,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 211.4413,
+      "rightX" : 517.0586,
+      "topY" : 199.4413,
+      "baseLineY" : 209.0999,
+      "fontId" : 1,
+      "text" : "The Agency will purchase from Ginnie Mae or its approved issuer/lender the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 225.4213,
+      "rightX" : 534.3999,
+      "topY" : 213.4213,
+      "baseLineY" : 223.0798,
+      "fontId" : 1,
+      "text" : "unpaid principal balance of the guaranteed portion together with accrued interest to date "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 239.4015,
+      "rightX" : 538.3224,
+      "topY" : 227.4013,
+      "baseLineY" : 237.0598,
+      "fontId" : 1,
+      "text" : "of repurchase, less the issuer/lender’s servicing fee, within 30 calendar days after written "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 253.3814,
+      "rightX" : 536.6745,
+      "topY" : 241.3814,
+      "baseLineY" : 251.04,
+      "fontId" : 1,
+      "text" : "demand to the Agency from Ginnie Mae or its approved issuer/lender.  In addition to the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 267.3614,
+      "rightX" : 531.624,
+      "topY" : 255.3614,
+      "baseLineY" : 265.02,
+      "fontId" : 1,
+      "text" : "unpaid guaranteed portion of the loan, the guarantee will only cover interest accrued up "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 281.3414,
+      "rightX" : 511.1625,
+      "topY" : 269.3414,
+      "baseLineY" : 278.9999,
+      "fontId" : 1,
+      "text" : "to 90 calendar days from the date that the Agency received the demand notice from "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 295.3214,
+      "rightX" : 310.6849,
+      "topY" : 283.3214,
+      "baseLineY" : 292.9799,
+      "fontId" : 1,
+      "text" : "Ginnie Mae or its approved issuer/lender. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 309.3014,
+      "rightX" : 111,
+      "topY" : 297.3014,
+      "baseLineY" : 306.96,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 323.2814,
+      "rightX" : 523.685,
+      "topY" : 311.2814,
+      "baseLineY" : 320.94,
+      "fontId" : 1,
+      "text" : "With its demand on the Agency, Ginnie Mae or its approved issuer/lender will "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 337.2614,
+      "rightX" : 149.7792,
+      "topY" : 325.2614,
+      "baseLineY" : 334.92,
+      "fontId" : 1,
+      "text" : "include: "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 351.2415,
+      "rightX" : 75,
+      "topY" : 339.2415,
+      "baseLineY" : 348.9,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.8071,
+      "rightX" : 113.52,
+      "topY" : 353.8071,
+      "baseLineY" : 363.66,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 365.9288,
+      "rightX" : 116.856,
+      "topY" : 353.9288,
+      "baseLineY" : 363.66,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 366.0015,
+      "rightX" : 518.7194,
+      "topY" : 354.0015,
+      "baseLineY" : 363.66,
+      "fontId" : 1,
+      "text" : "Originals of the Loan Note Guarantee and note properly endorsed to the Agency; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 380.5671,
+      "rightX" : 113.52,
+      "topY" : 368.5671,
+      "baseLineY" : 378.42,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 380.6888,
+      "rightX" : 116.856,
+      "topY" : 368.6888,
+      "baseLineY" : 378.42,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 380.7615,
+      "rightX" : 507.1418,
+      "topY" : 368.7615,
+      "baseLineY" : 378.42,
+      "fontId" : 1,
+      "text" : "An account number to which the Agency can forward the purchase amount via "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 394.7415,
+      "rightX" : 269.5512,
+      "topY" : 382.7415,
+      "baseLineY" : 392.4,
+      "fontId" : 1,
+      "text" : "electronic funds transfer; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 409.3071,
+      "rightX" : 113.52,
+      "topY" : 397.3071,
+      "baseLineY" : 407.16,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 409.4289,
+      "rightX" : 116.856,
+      "topY" : 397.4289,
+      "baseLineY" : 407.16,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 409.5015,
+      "rightX" : 541.5179,
+      "topY" : 397.5015,
+      "baseLineY" : 407.16,
+      "fontId" : 1,
+      "text" : "A current statement certified by an appropriate authorized officer of the lender stating "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 423.4815,
+      "rightX" : 396.0793,
+      "topY" : 411.4815,
+      "baseLineY" : 421.14,
+      "fontId" : 1,
+      "text" : "the unpaid principal and interest then owed on the loan. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 437.4615,
+      "rightX" : 111,
+      "topY" : 425.4615,
+      "baseLineY" : 435.1201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 451.4415,
+      "rightX" : 535.1942,
+      "topY" : 439.4415,
+      "baseLineY" : 449.1001,
+      "fontId" : 1,
+      "text" : "The Agency will notify Ginnie Mae or its approved issuer/lender of its receipt of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 465.4215,
+      "rightX" : 202.0392,
+      "topY" : 453.4215,
+      "baseLineY" : 463.0801,
+      "fontId" : 1,
+      "text" : "the demand notice. "
+    }, {
+      "leftX" : 76.5,
+      "bottomY" : 479.4016,
+      "rightX" : 79.5,
+      "topY" : 467.4016,
+      "baseLineY" : 477.0601,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 493.3816,
+      "rightX" : 498.3506,
+      "topY" : 481.3816,
+      "baseLineY" : 491.0401,
+      "fontId" : 1,
+      "text" : "The authorized Agency official shall review the borrower’s loan file and  "
+    }, {
+      "leftX" : 76.5,
+      "bottomY" : 507.3616,
+      "rightX" : 79.5,
+      "topY" : 495.3616,
+      "baseLineY" : 505.0201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 101.7,
+      "bottomY" : 521.9272,
+      "rightX" : 107.22,
+      "topY" : 509.9272,
+      "baseLineY" : 519.7802,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 107.22,
+      "bottomY" : 522.049,
+      "rightX" : 110.556,
+      "topY" : 510.049,
+      "baseLineY" : 519.7802,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 522.1216,
+      "rightX" : 322.1113,
+      "topY" : 510.1216,
+      "baseLineY" : 519.7802,
+      "fontId" : 1,
+      "text" : " Verify the amounts owed to the lender, and "
+    }, {
+      "leftX" : 101.7,
+      "bottomY" : 536.6872,
+      "rightX" : 107.22,
+      "topY" : 524.6872,
+      "baseLineY" : 534.5402,
+      "fontId" : 15,
+      "text" : ""
+    }, {
+      "leftX" : 107.22,
+      "bottomY" : 536.809,
+      "rightX" : 110.556,
+      "topY" : 524.809,
+      "baseLineY" : 534.5402,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 536.8816,
+      "rightX" : 160.6248,
+      "topY" : 524.8816,
+      "baseLineY" : 534.5402,
+      "fontId" : 1,
+      "text" : " Complete "
+    }, {
+      "leftX" : 160.62,
+      "bottomY" : 536.8816,
+      "rightX" : 249.2473,
+      "topY" : 524.8816,
+      "baseLineY" : 534.5402,
+      "fontId" : 14,
+      "text" : "Form RD 1980-37"
+    }, {
+      "leftX" : 249.24,
+      "bottomY" : 536.8816,
+      "rightX" : 493.2129,
+      "topY" : 524.8816,
+      "baseLineY" : 534.5402,
+      "fontId" : 1,
+      "text" : " and return it to the Finance Office for processing. "
+    }, {
+      "leftX" : 101.7,
+      "bottomY" : 550.8616,
+      "rightX" : 104.7,
+      "topY" : 538.8616,
+      "baseLineY" : 548.5201,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 564.8416,
+      "rightX" : 535.4545,
+      "topY" : 552.8416,
+      "baseLineY" : 562.5001,
+      "fontId" : 1,
+      "text" : "At the time of purchase by the Agency, Ginnie Mae or its approved issuer/lender "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 578.8216,
+      "rightX" : 387.1009,
+      "topY" : 566.8216,
+      "baseLineY" : 576.4801,
+      "fontId" : 1,
+      "text" : "will assign any and all interest in the loan to the Agency.  "
+    }, {
+      "leftX" : 387.12,
+      "bottomY" : 578.8216,
+      "rightX" : 530.9136,
+      "topY" : 566.8216,
+      "baseLineY" : 576.4801,
+      "fontId" : 14,
+      "text" : "Purchase by the Agency does "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 592.7414,
+      "rightX" : 541.3849,
+      "topY" : 580.7414,
+      "baseLineY" : 590.3999,
+      "fontId" : 14,
+      "text" : "not change, alter, or modify any of the issuer/lender’s obligations to the Agency specified "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 606.6014,
+      "rightX" : 538.7881,
+      "topY" : 594.6014,
+      "baseLineY" : 604.2599,
+      "fontId" : 14,
+      "text" : "in the Lender’s Agreement or the Loan Note Guarantee nor does the purchase waive any "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 620.5214,
+      "rightX" : 333.4309,
+      "topY" : 608.5214,
+      "baseLineY" : 618.1799,
+      "fontId" : 14,
+      "text" : "of the Agency’s right against the issuer/lender."
+    }, {
+      "leftX" : 333.42,
+      "bottomY" : 620.5214,
+      "rightX" : 535.6571,
+      "topY" : 608.5214,
+      "baseLineY" : 618.1799,
+      "fontId" : 1,
+      "text" : "  The Agency succeeds to all rights of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 634.5014,
+      "rightX" : 534.7797,
+      "topY" : 622.5014,
+      "baseLineY" : 632.1599,
+      "fontId" : 1,
+      "text" : "issuer/lender under the Loan Note Guarantee including the right to set-off any payments "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 648.4814,
+      "rightX" : 278.88,
+      "topY" : 636.4814,
+      "baseLineY" : 646.1399,
+      "fontId" : 1,
+      "text" : "the Agency owes the issuer/lender. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 662.4613,
+      "rightX" : 75,
+      "topY" : 650.4613,
+      "baseLineY" : 660.1199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 676.4413,
+      "rightX" : 319.9752,
+      "topY" : 664.4413,
+      "baseLineY" : 674.0999,
+      "fontId" : 1,
+      "text" : "12-7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 690.4214,
+      "rightX" : 169.356,
+      "topY" : 678.4214,
+      "baseLineY" : 688.0799,
+      "fontId" : 1,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 704.4013,
+      "rightX" : 147,
+      "topY" : 692.4013,
+      "baseLineY" : 702.0599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.6711,
+      "rightX" : 308.505,
+      "topY" : 709.6711,
+      "baseLineY" : 717.7199,
+      "fontId" : 9,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 85.6215,
+      "rightX" : 129.66,
+      "topY" : 73.6215,
+      "baseLineY" : 83.28,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.6015,
+      "rightX" : 75,
+      "topY" : 87.6015,
+      "baseLineY" : 97.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 113.7614,
+      "rightX" : 96.0192,
+      "topY" : 101.7614,
+      "baseLineY" : 111.42,
+      "fontId" : 10,
+      "text" : "12.8 "
+    }, {
+      "leftX" : 108.0192,
+      "bottomY" : 113.7614,
+      "rightX" : 184.7376,
+      "topY" : 101.7614,
+      "baseLineY" : 111.42,
+      "fontId" : 10,
+      "text" : "Servicing Fees "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 127.8014,
+      "rightX" : 75,
+      "topY" : 115.8014,
+      "baseLineY" : 125.46,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 141.6614,
+      "rightX" : 516.0458,
+      "topY" : 129.6614,
+      "baseLineY" : 139.3199,
+      "fontId" : 1,
+      "text" : "The Agency Loan Note Guarantee will not cover servicing fees on the unguaranteed "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 155.6414,
+      "rightX" : 167.094,
+      "topY" : 143.6414,
+      "baseLineY" : 153.2999,
+      "fontId" : 1,
+      "text" : "portion of the loan. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 169.6214,
+      "rightX" : 111,
+      "topY" : 157.6214,
+      "baseLineY" : 167.2799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 183.6014,
+      "rightX" : 111,
+      "topY" : 171.6014,
+      "baseLineY" : 181.2599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.5813,
+      "rightX" : 75,
+      "topY" : 185.5813,
+      "baseLineY" : 195.2399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 211.5613,
+      "rightX" : 75,
+      "topY" : 199.5613,
+      "baseLineY" : 209.2198,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 225.5413,
+      "rightX" : 75,
+      "topY" : 213.5413,
+      "baseLineY" : 223.1998,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 239.5213,
+      "rightX" : 75,
+      "topY" : 227.5213,
+      "baseLineY" : 237.1798,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 253.5013,
+      "rightX" : 75,
+      "topY" : 241.5013,
+      "baseLineY" : 251.1598,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 267.4812,
+      "rightX" : 75,
+      "topY" : 255.4812,
+      "baseLineY" : 265.1398,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 281.4612,
+      "rightX" : 75,
+      "topY" : 269.4612,
+      "baseLineY" : 279.1198,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 295.4412,
+      "rightX" : 75,
+      "topY" : 283.4412,
+      "baseLineY" : 293.0998,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 309.4212,
+      "rightX" : 75,
+      "topY" : 297.4212,
+      "baseLineY" : 307.0798,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 323.4012,
+      "rightX" : 75,
+      "topY" : 311.4012,
+      "baseLineY" : 321.0598,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 337.3813,
+      "rightX" : 75,
+      "topY" : 325.3813,
+      "baseLineY" : 335.0398,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 351.3613,
+      "rightX" : 75,
+      "topY" : 339.3613,
+      "baseLineY" : 349.0198,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 365.3413,
+      "rightX" : 75,
+      "topY" : 353.3413,
+      "baseLineY" : 362.9998,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 379.3213,
+      "rightX" : 75,
+      "topY" : 367.3213,
+      "baseLineY" : 376.9798,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 393.3013,
+      "rightX" : 75,
+      "topY" : 381.3013,
+      "baseLineY" : 390.9598,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 407.2813,
+      "rightX" : 75,
+      "topY" : 395.2813,
+      "baseLineY" : 404.9398,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 421.2613,
+      "rightX" : 75,
+      "topY" : 409.2613,
+      "baseLineY" : 418.9199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 435.2413,
+      "rightX" : 75,
+      "topY" : 423.2413,
+      "baseLineY" : 432.8999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 449.2213,
+      "rightX" : 75,
+      "topY" : 437.2213,
+      "baseLineY" : 446.8799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 463.2014,
+      "rightX" : 75,
+      "topY" : 451.2014,
+      "baseLineY" : 460.8599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 477.1814,
+      "rightX" : 75,
+      "topY" : 465.1814,
+      "baseLineY" : 474.8399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 491.1614,
+      "rightX" : 75,
+      "topY" : 479.1614,
+      "baseLineY" : 488.8199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 505.1414,
+      "rightX" : 75,
+      "topY" : 493.1414,
+      "baseLineY" : 502.7999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 519.1214,
+      "rightX" : 75,
+      "topY" : 507.1214,
+      "baseLineY" : 516.7799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 533.1014,
+      "rightX" : 75,
+      "topY" : 521.1014,
+      "baseLineY" : 530.7599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 547.0814,
+      "rightX" : 75,
+      "topY" : 535.0814,
+      "baseLineY" : 544.7399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 561.0614,
+      "rightX" : 75,
+      "topY" : 549.0614,
+      "baseLineY" : 558.72,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 575.0414,
+      "rightX" : 75,
+      "topY" : 563.0414,
+      "baseLineY" : 572.7,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 589.0214,
+      "rightX" : 75,
+      "topY" : 577.0214,
+      "baseLineY" : 586.6799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 603.0014,
+      "rightX" : 75,
+      "topY" : 591.0014,
+      "baseLineY" : 600.6599,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 616.9814,
+      "rightX" : 75,
+      "topY" : 604.9814,
+      "baseLineY" : 614.6399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 630.9614,
+      "rightX" : 75,
+      "topY" : 618.9614,
+      "baseLineY" : 628.6199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 644.9414,
+      "rightX" : 75,
+      "topY" : 632.9414,
+      "baseLineY" : 642.5999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 658.9214,
+      "rightX" : 75,
+      "topY" : 646.9214,
+      "baseLineY" : 656.5799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.96,
+      "bottomY" : 672.9014,
+      "rightX" : 319.9752,
+      "topY" : 660.9014,
+      "baseLineY" : 670.5599,
+      "fontId" : 1,
+      "text" : "12-8 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.642,
+      "rightX" : 310.005,
+      "topY" : 703.642,
+      "baseLineY" : 716.52,
+      "fontId" : 17,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 16.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 15,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 16,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 17,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 16.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 18,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

@@ -1,0 +1,6368 @@
+{
+  "pdfDoc" : "3565-1toc.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 468.3479,
+      "bottomY" : 95.102,
+      "rightX" : 542.4958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 513.0471,
+      "bottomY" : 106.625,
+      "rightX" : 540.0209,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 1"
+    }, {
+      "leftX" : 539.9908,
+      "bottomY" : 106.7158,
+      "rightX" : 542.4958,
+      "topY" : 96.7158,
+      "baseLineY" : 104.3459,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 230.52,
+      "bottomY" : 134.8979,
+      "rightX" : 381.3054,
+      "topY" : 120.8979,
+      "baseLineY" : 131.58,
+      "fontId" : 3,
+      "text" : "TABLE OF CONTENTS"
+    }, {
+      "leftX" : 381.42,
+      "bottomY" : 134.315,
+      "rightX" : 384.42,
+      "topY" : 122.315,
+      "baseLineY" : 131.58,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 515.34,
+      "bottomY" : 163.8839,
+      "rightX" : 539.988,
+      "topY" : 151.8839,
+      "baseLineY" : 161.04,
+      "fontId" : 5,
+      "text" : "Page"
+    }, {
+      "leftX" : 540,
+      "bottomY" : 163.3191,
+      "rightX" : 542.505,
+      "topY" : 153.3191,
+      "baseLineY" : 161.04,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 189.684,
+      "rightX" : 486.9003,
+      "topY" : 177.684,
+      "baseLineY" : 186.84,
+      "fontId" : 5,
+      "text" : "CHAPTER 1:  OVERVIEW OF GUARANTEED RURAL RENTAL HOUSING "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 203.4839,
+      "rightX" : 543,
+      "topY" : 191.4839,
+      "baseLineY" : 200.64,
+      "fontId" : 5,
+      "text" : "PROGRAM ORIGINATION AND SERVICING HANDBOOK ................ 1-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 223.175,
+      "rightX" : 126,
+      "topY" : 211.175,
+      "baseLineY" : 220.44,
+      "fontId" : 4,
+      "text" : "1.1 "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 223.175,
+      "rightX" : 543,
+      "topY" : 211.175,
+      "baseLineY" : 220.44,
+      "fontId" : 4,
+      "text" : "Introduction ....................................................................................................... 1-1 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 243.0839,
+      "rightX" : 543,
+      "topY" : 231.0839,
+      "baseLineY" : 240.24,
+      "fontId" : 5,
+      "text" : "SECTION 1: THE HANDBOOK ......................................................................................... 1-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 262.7749,
+      "rightX" : 126,
+      "topY" : 250.7749,
+      "baseLineY" : 260.04,
+      "fontId" : 4,
+      "text" : "1.2 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 262.7749,
+      "rightX" : 543,
+      "topY" : 250.7749,
+      "baseLineY" : 260.04,
+      "fontId" : 4,
+      "text" : "Purpose ..................................................................................................................... 1-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 276.5749,
+      "rightX" : 126,
+      "topY" : 264.5749,
+      "baseLineY" : 273.84,
+      "fontId" : 4,
+      "text" : "1.3 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 276.5749,
+      "rightX" : 543,
+      "topY" : 264.5749,
+      "baseLineY" : 273.84,
+      "fontId" : 4,
+      "text" : "Using the Handbook ................................................................................................ 1-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 290.3749,
+      "rightX" : 149.64,
+      "topY" : 278.3749,
+      "baseLineY" : 287.64,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 290.3749,
+      "rightX" : 543,
+      "topY" : 278.3749,
+      "baseLineY" : 287.64,
+      "fontId" : 4,
+      "text" : "Handbook Symbols ........................................................................................... 1-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 304.1749,
+      "rightX" : 148.98,
+      "topY" : 292.1749,
+      "baseLineY" : 301.4399,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 304.1749,
+      "rightX" : 543,
+      "topY" : 292.1749,
+      "baseLineY" : 301.4399,
+      "fontId" : 4,
+      "text" : "Citations and Text Boxes .................................................................................. 1-2 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 317.9749,
+      "rightX" : 149.34,
+      "topY" : 305.9749,
+      "baseLineY" : 315.2399,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 317.9749,
+      "rightX" : 543,
+      "topY" : 305.9749,
+      "baseLineY" : 315.2399,
+      "fontId" : 4,
+      "text" : "Attachments and Appendices ............................................................................ 1-3 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 337.8838,
+      "rightX" : 543,
+      "topY" : 325.8838,
+      "baseLineY" : 335.0399,
+      "fontId" : 5,
+      "text" : "SECTION 2: THE RURAL HOUSING SERVICE (RHS) ................................................ 1-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 357.5749,
+      "rightX" : 126,
+      "topY" : 345.5749,
+      "baseLineY" : 354.8399,
+      "fontId" : 4,
+      "text" : "1.4 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 357.5749,
+      "rightX" : 543,
+      "topY" : 345.5749,
+      "baseLineY" : 354.8399,
+      "fontId" : 4,
+      "text" : "RHS Organization .................................................................................................... 1-3 "
+    }, {
+      "leftX" : 81,
+      "bottomY" : 377.4838,
+      "rightX" : 361.32,
+      "topY" : 365.4838,
+      "baseLineY" : 374.6399,
+      "fontId" : 5,
+      "text" : "SECTION 3:  OVERVIEW OF THE GUARANTEED "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 391.2838,
+      "rightX" : 543,
+      "topY" : 379.2838,
+      "baseLineY" : 388.4399,
+      "fontId" : 5,
+      "text" : "RURAL RENTAL HOUSING PROGRAM ................................................. 1-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 410.9748,
+      "rightX" : 126,
+      "topY" : 398.9748,
+      "baseLineY" : 408.2399,
+      "fontId" : 4,
+      "text" : "1.5 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 410.9748,
+      "rightX" : 543,
+      "topY" : 398.9748,
+      "baseLineY" : 408.2399,
+      "fontId" : 4,
+      "text" : "Program Goals ......................................................................................................... 1-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 424.7748,
+      "rightX" : 126,
+      "topY" : 412.7748,
+      "baseLineY" : 422.0399,
+      "fontId" : 4,
+      "text" : "1.6 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 424.7748,
+      "rightX" : 543,
+      "topY" : 412.7748,
+      "baseLineY" : 422.0399,
+      "fontId" : 4,
+      "text" : "Eligible Rural Area .................................................................................................. 1-4 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 438.5748,
+      "rightX" : 126,
+      "topY" : 426.5748,
+      "baseLineY" : 435.8398,
+      "fontId" : 4,
+      "text" : "1.7 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 438.5748,
+      "rightX" : 543,
+      "topY" : 426.5748,
+      "baseLineY" : 435.8398,
+      "fontId" : 4,
+      "text" : "Program Features ..................................................................................................... 1-4 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 452.3748,
+      "rightX" : 149.64,
+      "topY" : 440.3748,
+      "baseLineY" : 449.6398,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 452.3748,
+      "rightX" : 543,
+      "topY" : 440.3748,
+      "baseLineY" : 449.6398,
+      "fontId" : 4,
+      "text" : "Risk Sharing with Lenders ................................................................................ 1-5 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 466.1748,
+      "rightX" : 148.98,
+      "topY" : 454.1748,
+      "baseLineY" : 463.4398,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 466.1748,
+      "rightX" : 543,
+      "topY" : 454.1748,
+      "baseLineY" : 463.4398,
+      "fontId" : 4,
+      "text" : "Affordability Features ....................................................................................... 1-5 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 479.9748,
+      "rightX" : 148.98,
+      "topY" : 467.9748,
+      "baseLineY" : 477.2398,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 479.9748,
+      "rightX" : 543,
+      "topY" : 467.9748,
+      "baseLineY" : 477.2398,
+      "fontId" : 4,
+      "text" : "Construction and Permanent Financing ............................................................ 1-5 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 493.7748,
+      "rightX" : 149.64,
+      "topY" : 481.7748,
+      "baseLineY" : 491.0398,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 493.7748,
+      "rightX" : 543,
+      "topY" : 481.7748,
+      "baseLineY" : 491.0398,
+      "fontId" : 4,
+      "text" : "Lender Origination, Servicing, and Disposition ............................................... 1-5 "
+    }, {
+      "leftX" : 135.24,
+      "bottomY" : 507.5747,
+      "rightX" : 148.56,
+      "topY" : 495.5747,
+      "baseLineY" : 504.8398,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 507.5747,
+      "rightX" : 543.0001,
+      "topY" : 495.5747,
+      "baseLineY" : 504.8398,
+      "fontId" : 4,
+      "text" : "The Notice of Program Funding Process .......................................................... 1-6 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 527.3747,
+      "rightX" : 126.0001,
+      "topY" : 515.3747,
+      "baseLineY" : 524.6398,
+      "fontId" : 4,
+      "text" : "1.8 "
+    }, {
+      "leftX" : 130.5001,
+      "bottomY" : 527.3747,
+      "rightX" : 543.0001,
+      "topY" : 515.3747,
+      "baseLineY" : 524.6398,
+      "fontId" : 4,
+      "text" : "Roles and Responsibilities of Agency, Lender and Borrower ................................. 1-6 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 541.1747,
+      "rightX" : 126.0001,
+      "topY" : 529.1747,
+      "baseLineY" : 538.4398,
+      "fontId" : 4,
+      "text" : "1.9 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 541.1747,
+      "rightX" : 543.0001,
+      "topY" : 529.1747,
+      "baseLineY" : 538.4398,
+      "fontId" : 4,
+      "text" : "Identity of Interests .................................................................................................. 1-7 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 554.9747,
+      "rightX" : 543.0001,
+      "topY" : 542.9747,
+      "baseLineY" : 552.2397,
+      "fontId" : 4,
+      "text" : "1.10 Agency Exception Authority ................................................................................... 1-8 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 568.7748,
+      "rightX" : 543.0001,
+      "topY" : 556.7748,
+      "baseLineY" : 566.0398,
+      "fontId" : 4,
+      "text" : "1.11 Reviews and Appeals ............................................................................................... 1-9 "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 588.6837,
+      "rightX" : 543.0001,
+      "topY" : 576.6837,
+      "baseLineY" : 585.8398,
+      "fontId" : 5,
+      "text" : "SECTION 4: FEDERAL REQUIREMENTS ................................................................... 1-10 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 608.3747,
+      "rightX" : 543.0001,
+      "topY" : 596.3747,
+      "baseLineY" : 605.6398,
+      "fontId" : 4,
+      "text" : "1.12 Intergovernmental Review ..................................................................................... 1-10 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 622.1748,
+      "rightX" : 543.0001,
+      "topY" : 610.1748,
+      "baseLineY" : 619.4398,
+      "fontId" : 4,
+      "text" : "1.13 National Flood Insurance Program ........................................................................ 1-10 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 635.9748,
+      "rightX" : 543.0001,
+      "topY" : 623.9748,
+      "baseLineY" : 633.2398,
+      "fontId" : 4,
+      "text" : "1.14 Historic Preservation .............................................................................................. 1-10 "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 649.7748,
+      "rightX" : 75.0001,
+      "topY" : 637.7748,
+      "baseLineY" : 647.0398,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 663.5747,
+      "rightX" : 75.0001,
+      "topY" : 651.5747,
+      "baseLineY" : 660.8398,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 677.3747,
+      "rightX" : 75.0001,
+      "topY" : 665.3747,
+      "baseLineY" : 674.6398,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 691.1748,
+      "rightX" : 169.3201,
+      "topY" : 679.1748,
+      "baseLineY" : 688.4398,
+      "fontId" : 4,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 702.5991,
+      "rightX" : 187.8312,
+      "topY" : 692.5991,
+      "baseLineY" : 700.32,
+      "fontId" : 1,
+      "text" : "Revised (11-15-19)  PN 531 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 716.435,
+      "rightX" : 111,
+      "topY" : 704.435,
+      "baseLineY" : 713.7,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 719.9879,
+      "rightX" : 72.255,
+      "topY" : 718.9879,
+      "baseLineY" : 719.76,
+      "fontId" : 6,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0459,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.102,
+      "rightX" : 146.148,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.625,
+      "rightX" : 101.4488,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 138.4549,
+      "rightX" : 543,
+      "topY" : 126.4549,
+      "baseLineY" : 135.72,
+      "fontId" : 4,
+      "text" : "1.15 Civil Rights ............................................................................................................ 1-10 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 152.2549,
+      "rightX" : 149.64,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 152.2549,
+      "rightX" : 543,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "Nondiscrimination........................................................................................... 1-10 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 166.0549,
+      "rightX" : 149.34,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 166.0549,
+      "rightX" : 543,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "Reasonable Accommodations for Persons with Disabilities .......................... 1-11 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 185.8549,
+      "rightX" : 543,
+      "topY" : 173.8549,
+      "baseLineY" : 183.1199,
+      "fontId" : 4,
+      "text" : "1.16 Fair Housing........................................................................................................... 1-12 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 199.6549,
+      "rightX" : 543,
+      "topY" : 187.6549,
+      "baseLineY" : 196.9199,
+      "fontId" : 4,
+      "text" : "1.17 Environmental Requirements................................................................................. 1-12 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 219.4549,
+      "rightX" : 407.94,
+      "topY" : 207.4549,
+      "baseLineY" : 216.7199,
+      "fontId" : 4,
+      "text" : "Attachment 1-A:  Review and Appeals of Adverse Agency Decisions "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 251.3638,
+      "rightX" : 543,
+      "topY" : 239.3638,
+      "baseLineY" : 248.5199,
+      "fontId" : 5,
+      "text" : "CHAPTER 2:  LENDER ELIGIBILITY AND APPROVAL ............................................... 2-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 271.0549,
+      "rightX" : 126,
+      "topY" : 259.0549,
+      "baseLineY" : 268.3199,
+      "fontId" : 4,
+      "text" : "2.1 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 271.0549,
+      "rightX" : 543,
+      "topY" : 259.0549,
+      "baseLineY" : 268.3199,
+      "fontId" : 4,
+      "text" : "Purpose and Overview ............................................................................................. 2-1 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 290.9638,
+      "rightX" : 543,
+      "topY" : 278.9638,
+      "baseLineY" : 288.1199,
+      "fontId" : 5,
+      "text" : "SECTION 1: LENDER ELIGIBILITY ............................................................................... 2-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 310.6548,
+      "rightX" : 126,
+      "topY" : 298.6548,
+      "baseLineY" : 307.9199,
+      "fontId" : 4,
+      "text" : "2.2 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 310.6548,
+      "rightX" : 543,
+      "topY" : 298.6548,
+      "baseLineY" : 307.9199,
+      "fontId" : 4,
+      "text" : "Purpose ..................................................................................................................... 2-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 324.4548,
+      "rightX" : 126,
+      "topY" : 312.4548,
+      "baseLineY" : 321.7198,
+      "fontId" : 4,
+      "text" : "2.3 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 324.4548,
+      "rightX" : 543,
+      "topY" : 312.4548,
+      "baseLineY" : 321.7198,
+      "fontId" : 4,
+      "text" : "Requesting Lender Eligibility .................................................................................. 2-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 338.2548,
+      "rightX" : 126,
+      "topY" : 326.2548,
+      "baseLineY" : 335.5198,
+      "fontId" : 4,
+      "text" : "2.4 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 338.2548,
+      "rightX" : 543,
+      "topY" : 326.2548,
+      "baseLineY" : 335.5198,
+      "fontId" : 4,
+      "text" : "Basic Eligibility Test Requirements ........................................................................ 2-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 352.0548,
+      "rightX" : 126,
+      "topY" : 340.0548,
+      "baseLineY" : 349.3198,
+      "fontId" : 4,
+      "text" : "2.5 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 352.0548,
+      "rightX" : 543,
+      "topY" : 340.0548,
+      "baseLineY" : 349.3198,
+      "fontId" : 4,
+      "text" : "Demonstrated Eligibility Test Requirements ........................................................... 2-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.8548,
+      "rightX" : 126,
+      "topY" : 353.8548,
+      "baseLineY" : 363.1198,
+      "fontId" : 4,
+      "text" : "2.6 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 365.8548,
+      "rightX" : 543.0001,
+      "topY" : 353.8548,
+      "baseLineY" : 363.1198,
+      "fontId" : 4,
+      "text" : "Eligibility Requirements .......................................................................................... 2-3 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 379.6548,
+      "rightX" : 149.6401,
+      "topY" : 367.6548,
+      "baseLineY" : 376.9198,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 379.6548,
+      "rightX" : 543.0001,
+      "topY" : 367.6548,
+      "baseLineY" : 376.9198,
+      "fontId" : 4,
+      "text" : "Origination and Servicing Plan ......................................................................... 2-3 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 393.4548,
+      "rightX" : 148.9801,
+      "topY" : 381.4548,
+      "baseLineY" : 390.7198,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 393.4548,
+      "rightX" : 543.0001,
+      "topY" : 381.4548,
+      "baseLineY" : 390.7198,
+      "fontId" : 4,
+      "text" : "Demonstrate the Lender’s Financial Stability ................................................... 2-5 "
+    }, {
+      "leftX" : 120.0001,
+      "bottomY" : 407.2547,
+      "rightX" : 123.0001,
+      "topY" : 395.2547,
+      "baseLineY" : 404.5198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 407.2547,
+      "rightX" : 148.9801,
+      "topY" : 395.2547,
+      "baseLineY" : 404.5198,
+      "fontId" : 4,
+      "text" : " C. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 407.2547,
+      "rightX" : 543.0001,
+      "topY" : 395.2547,
+      "baseLineY" : 404.5198,
+      "fontId" : 4,
+      "text" : "The Lender’s Certification to Comply with Program Requirements ................ 2-5 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 427.0547,
+      "rightX" : 126.0001,
+      "topY" : 415.0547,
+      "baseLineY" : 424.3198,
+      "fontId" : 4,
+      "text" : "2.7 "
+    }, {
+      "leftX" : 130.5001,
+      "bottomY" : 427.0547,
+      "rightX" : 442.6801,
+      "topY" : 415.0547,
+      "baseLineY" : 424.3198,
+      "fontId" : 4,
+      "text" : "Additional Requirements for Approval to Originate and Service  "
+    }, {
+      "leftX" : 130.5001,
+      "bottomY" : 440.8547,
+      "rightX" : 543.0001,
+      "topY" : 428.8547,
+      "baseLineY" : 438.1198,
+      "fontId" : 4,
+      "text" : "Option Two and Option Three Loan Guarantees ..................................................... 2-5 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 454.6547,
+      "rightX" : 126.0001,
+      "topY" : 442.6547,
+      "baseLineY" : 451.9197,
+      "fontId" : 4,
+      "text" : "2.8 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 454.6547,
+      "rightX" : 543.0001,
+      "topY" : 442.6547,
+      "baseLineY" : 451.9197,
+      "fontId" : 4,
+      "text" : "Participation by Lenders without Demonstrated Ability ......................................... 2-6 "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 474.5637,
+      "rightX" : 543.0001,
+      "topY" : 462.5637,
+      "baseLineY" : 471.7197,
+      "fontId" : 5,
+      "text" : "SECTION 2:  ELIGIBILITY APPLICATION PROCESSING ........................................ 2-6 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 494.2547,
+      "rightX" : 126.0001,
+      "topY" : 482.2547,
+      "baseLineY" : 491.5197,
+      "fontId" : 4,
+      "text" : "2.9 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 494.2547,
+      "rightX" : 543.0001,
+      "topY" : 482.2547,
+      "baseLineY" : 491.5197,
+      "fontId" : 4,
+      "text" : "Overview .................................................................................................................. 2-6 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 508.0547,
+      "rightX" : 543.0001,
+      "topY" : 496.0547,
+      "baseLineY" : 505.3197,
+      "fontId" : 4,
+      "text" : "2.10 Agency Assessment of the Request ......................................................................... 2-6 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 521.7947,
+      "rightX" : 543.0002,
+      "topY" : 509.7947,
+      "baseLineY" : 519.0597,
+      "fontId" : 4,
+      "text" : "2.11 Submission Requirements — Lender Application .................................................. 2-7 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 535.5946,
+      "rightX" : 543.0002,
+      "topY" : 523.5946,
+      "baseLineY" : 532.8597,
+      "fontId" : 4,
+      "text" : "2.12 Issuance of Approved Lender Status ....................................................................... 2-8 "
+    }, {
+      "leftX" : 84.2402,
+      "bottomY" : 555.5036,
+      "rightX" : 543.0002,
+      "topY" : 543.5036,
+      "baseLineY" : 552.6597,
+      "fontId" : 5,
+      "text" : "SECTION 3: MAINTENANCE OF LENDER APPROVAL ............................................ 2-8 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 575.1947,
+      "rightX" : 543.0002,
+      "topY" : 563.1947,
+      "baseLineY" : 572.4597,
+      "fontId" : 4,
+      "text" : "2.13 Requirements for Retaining Approved Status ......................................................... 2-8 "
+    }, {
+      "leftX" : 84.2402,
+      "bottomY" : 595.1036,
+      "rightX" : 543.0002,
+      "topY" : 583.1036,
+      "baseLineY" : 592.2597,
+      "fontId" : 5,
+      "text" : "SECTION 4: OTHER ISSUES ............................................................................................. 2-9 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 614.7947,
+      "rightX" : 543.0002,
+      "topY" : 602.7947,
+      "baseLineY" : 612.0597,
+      "fontId" : 4,
+      "text" : "2.14 Substitution of Lender.............................................................................................. 2-9 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 628.595,
+      "rightX" : 543,
+      "topY" : 616.595,
+      "baseLineY" : 625.86,
+      "fontId" : 4,
+      "text" : "2.15 Use of Agents by the Approved Lender ................................................................ 2-10 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 642.395,
+      "rightX" : 543,
+      "topY" : 630.395,
+      "baseLineY" : 639.66,
+      "fontId" : 4,
+      "text" : "2.16 Loan Participations ................................................................................................ 2-10 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 656.195,
+      "rightX" : 543,
+      "topY" : 644.195,
+      "baseLineY" : 653.46,
+      "fontId" : 4,
+      "text" : "2.17 Transfer of Servicing ............................................................................................. 2-10 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 676.1039,
+      "rightX" : 75,
+      "topY" : 664.1039,
+      "baseLineY" : 673.26,
+      "fontId" : 5,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 468.3479,
+      "bottomY" : 95.102,
+      "rightX" : 542.4958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 513.0471,
+      "bottomY" : 106.625,
+      "rightX" : 542.4958,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 3 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 132.5639,
+      "rightX" : 543,
+      "topY" : 120.5639,
+      "baseLineY" : 129.72,
+      "fontId" : 5,
+      "text" : "CHAPTER 3:  LENDER UNDERWRITING ......................................................................... 3-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 152.2549,
+      "rightX" : 126,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "3.1 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 152.2549,
+      "rightX" : 543,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "Introduction .............................................................................................................. 3-1 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 172.1639,
+      "rightX" : 543,
+      "topY" : 160.1639,
+      "baseLineY" : 169.3199,
+      "fontId" : 5,
+      "text" : "SECTION 1:  LENDER UNDERWRITING RESPONSIBILITIES ................................ 3-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 191.8549,
+      "rightX" : 126,
+      "topY" : 179.8549,
+      "baseLineY" : 189.1199,
+      "fontId" : 4,
+      "text" : "3.2 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 191.8549,
+      "rightX" : 543,
+      "topY" : 179.8549,
+      "baseLineY" : 189.1199,
+      "fontId" : 4,
+      "text" : "Overview .................................................................................................................. 3-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 205.6549,
+      "rightX" : 126,
+      "topY" : 193.6549,
+      "baseLineY" : 202.9199,
+      "fontId" : 4,
+      "text" : "3.3 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 205.6549,
+      "rightX" : 543,
+      "topY" : 193.6549,
+      "baseLineY" : 202.9199,
+      "fontId" : 4,
+      "text" : "Summary of Lender Responsibilities ....................................................................... 3-2 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 225.5638,
+      "rightX" : 543,
+      "topY" : 213.5638,
+      "baseLineY" : 222.7199,
+      "fontId" : 5,
+      "text" : "SECTION 2:  LENDER NARRATIVE ............................................................................... 3-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 245.2549,
+      "rightX" : 126,
+      "topY" : 233.2549,
+      "baseLineY" : 242.5199,
+      "fontId" : 4,
+      "text" : "3.4 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 245.2549,
+      "rightX" : 543,
+      "topY" : 233.2549,
+      "baseLineY" : 242.5199,
+      "fontId" : 4,
+      "text" : "Narrative Requirements ........................................................................................... 3-2 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 265.1638,
+      "rightX" : 543,
+      "topY" : 253.1638,
+      "baseLineY" : 262.3199,
+      "fontId" : 5,
+      "text" : "SECTION 3:  BORROWER ELIGIBILITY ...................................................................... 3-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 284.8548,
+      "rightX" : 126,
+      "topY" : 272.8548,
+      "baseLineY" : 282.1199,
+      "fontId" : 4,
+      "text" : "3.5 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 284.8548,
+      "rightX" : 543,
+      "topY" : 272.8548,
+      "baseLineY" : 282.1199,
+      "fontId" : 4,
+      "text" : "Overview .................................................................................................................. 3-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 298.6548,
+      "rightX" : 126,
+      "topY" : 286.6548,
+      "baseLineY" : 295.9199,
+      "fontId" : 4,
+      "text" : "3.6 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 298.6548,
+      "rightX" : 543,
+      "topY" : 286.6548,
+      "baseLineY" : 295.9199,
+      "fontId" : 4,
+      "text" : "Eligible Borrowers ................................................................................................... 3-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 312.4548,
+      "rightX" : 126,
+      "topY" : 300.4548,
+      "baseLineY" : 309.7198,
+      "fontId" : 4,
+      "text" : "3.7 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 312.4548,
+      "rightX" : 543,
+      "topY" : 300.4548,
+      "baseLineY" : 309.7198,
+      "fontId" : 4,
+      "text" : "Ineligible Borrowers ................................................................................................ 3-4 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 326.2548,
+      "rightX" : 126,
+      "topY" : 314.2548,
+      "baseLineY" : 323.5198,
+      "fontId" : 4,
+      "text" : "3.8 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 326.2548,
+      "rightX" : 543,
+      "topY" : 314.2548,
+      "baseLineY" : 323.5198,
+      "fontId" : 4,
+      "text" : "Borrower Types ....................................................................................................... 3-4 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 340.0548,
+      "rightX" : 149.64,
+      "topY" : 328.0548,
+      "baseLineY" : 337.3198,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 340.0548,
+      "rightX" : 543,
+      "topY" : 328.0548,
+      "baseLineY" : 337.3198,
+      "fontId" : 4,
+      "text" : "General or Limited Partnerships ....................................................................... 3-6 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 353.8548,
+      "rightX" : 148.98,
+      "topY" : 341.8548,
+      "baseLineY" : 351.1198,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 353.8548,
+      "rightX" : 543,
+      "topY" : 341.8548,
+      "baseLineY" : 351.1198,
+      "fontId" : 4,
+      "text" : "Corporations ...................................................................................................... 3-6 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 367.6548,
+      "rightX" : 148.98,
+      "topY" : 355.6548,
+      "baseLineY" : 364.9198,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 367.6548,
+      "rightX" : 543,
+      "topY" : 355.6548,
+      "baseLineY" : 364.9198,
+      "fontId" : 4,
+      "text" : "Limited Liability Companies ............................................................................ 3-7 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 381.4548,
+      "rightX" : 149.64,
+      "topY" : 369.4548,
+      "baseLineY" : 378.7198,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 381.4548,
+      "rightX" : 543,
+      "topY" : 369.4548,
+      "baseLineY" : 378.7198,
+      "fontId" : 4,
+      "text" : "Trusts................................................................................................................. 3-7 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 395.2547,
+      "rightX" : 148.32,
+      "topY" : 383.2547,
+      "baseLineY" : 392.5198,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 395.2547,
+      "rightX" : 543,
+      "topY" : 383.2547,
+      "baseLineY" : 392.5198,
+      "fontId" : 4,
+      "text" : "Public Agencies ................................................................................................ 3-7 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 409.0547,
+      "rightX" : 147.66,
+      "topY" : 397.0547,
+      "baseLineY" : 406.3198,
+      "fontId" : 4,
+      "text" : "F. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 409.0547,
+      "rightX" : 543,
+      "topY" : 397.0547,
+      "baseLineY" : 406.3198,
+      "fontId" : 4,
+      "text" : "Indian Tribes ..................................................................................................... 3-7 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 422.8547,
+      "rightX" : 543,
+      "topY" : 410.8547,
+      "baseLineY" : 420.1198,
+      "fontId" : 4,
+      "text" : "G. Individuals......................................................................................................... 3-8 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 442.6547,
+      "rightX" : 126,
+      "topY" : 430.6547,
+      "baseLineY" : 439.9197,
+      "fontId" : 4,
+      "text" : "3.9 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 442.6547,
+      "rightX" : 543,
+      "topY" : 430.6547,
+      "baseLineY" : 439.9197,
+      "fontId" : 4,
+      "text" : "Certification of Legal Eligibility .............................................................................. 3-8 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 456.4547,
+      "rightX" : 543,
+      "topY" : 444.4547,
+      "baseLineY" : 453.7197,
+      "fontId" : 4,
+      "text" : "3.10 Borrower Experience and Capacity ......................................................................... 3-8 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 470.2547,
+      "rightX" : 149.64,
+      "topY" : 458.2547,
+      "baseLineY" : 467.5197,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 470.2547,
+      "rightX" : 543.0001,
+      "topY" : 458.2547,
+      "baseLineY" : 467.5197,
+      "fontId" : 4,
+      "text" : "Construction and Rehabilitation Experience .................................................... 3-8 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 484.0547,
+      "rightX" : 148.9801,
+      "topY" : 472.0547,
+      "baseLineY" : 481.3197,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 484.0547,
+      "rightX" : 543.0001,
+      "topY" : 472.0547,
+      "baseLineY" : 481.3197,
+      "fontId" : 4,
+      "text" : "Property Management Experience .................................................................... 3-9 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 497.8547,
+      "rightX" : 149.34,
+      "topY" : 485.8547,
+      "baseLineY" : 495.1197,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 497.8547,
+      "rightX" : 543.0001,
+      "topY" : 485.8547,
+      "baseLineY" : 495.1197,
+      "fontId" : 4,
+      "text" : "Financial Capacity .......................................................................................... 3-10 "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 517.7036,
+      "rightX" : 543.0001,
+      "topY" : 505.7036,
+      "baseLineY" : 514.8597,
+      "fontId" : 5,
+      "text" : "SECTION 4:  PROPERTY REQUIREMENTS ............................................................... 3-14 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 537.3946,
+      "rightX" : 543.0001,
+      "topY" : 525.3946,
+      "baseLineY" : 534.6597,
+      "fontId" : 4,
+      "text" : "3.11 Overview ................................................................................................................ 3-14 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 551.1946,
+      "rightX" : 543.0001,
+      "topY" : 539.1946,
+      "baseLineY" : 548.4597,
+      "fontId" : 4,
+      "text" : "3.12 Rural Area Designation .......................................................................................... 3-14 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 564.995,
+      "rightX" : 543,
+      "topY" : 552.995,
+      "baseLineY" : 562.26,
+      "fontId" : 4,
+      "text" : "3.13 General Site Requirements .................................................................................... 3-14 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 578.795,
+      "rightX" : 145.14,
+      "topY" : 566.795,
+      "baseLineY" : 576.06,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 578.795,
+      "rightX" : 543,
+      "topY" : 566.795,
+      "baseLineY" : 576.06,
+      "fontId" : 4,
+      "text" : "Public Facilities and Services ......................................................................... 3-15 "
+    }, {
+      "leftX" : 131.04,
+      "bottomY" : 592.595,
+      "rightX" : 145.02,
+      "topY" : 580.595,
+      "baseLineY" : 589.86,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 592.595,
+      "rightX" : 543,
+      "topY" : 580.595,
+      "baseLineY" : 589.86,
+      "fontId" : 4,
+      "text" : "Less Desirable Areas....................................................................................... 3-15 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 612.395,
+      "rightX" : 543,
+      "topY" : 600.395,
+      "baseLineY" : 609.66,
+      "fontId" : 4,
+      "text" : "3.14 Site Standards......................................................................................................... 3-15 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 626.195,
+      "rightX" : 149.64,
+      "topY" : 614.195,
+      "baseLineY" : 623.46,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 626.195,
+      "rightX" : 543,
+      "topY" : 614.195,
+      "baseLineY" : 623.46,
+      "fontId" : 4,
+      "text" : "Applicable Codes ............................................................................................ 3-15 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 639.995,
+      "rightX" : 148.98,
+      "topY" : 627.995,
+      "baseLineY" : 637.26,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 639.995,
+      "rightX" : 543,
+      "topY" : 627.995,
+      "baseLineY" : 637.26,
+      "fontId" : 4,
+      "text" : "Adequate Utilities and Infrastructure .............................................................. 3-16 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 651.57,
+      "rightX" : 74.505,
+      "topY" : 641.57,
+      "baseLineY" : 649.2,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 669.0849,
+      "rightX" : 74.505,
+      "topY" : 659.0849,
+      "baseLineY" : 666.715,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 686.5999,
+      "rightX" : 74.505,
+      "topY" : 676.5999,
+      "baseLineY" : 684.2299,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 706.295,
+      "rightX" : 172.32,
+      "topY" : 694.295,
+      "baseLineY" : 703.56,
+      "fontId" : 4,
+      "text" : "(02-23-12)  PN 455  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.095,
+      "rightX" : 210.96,
+      "topY" : 708.095,
+      "baseLineY" : 717.36,
+      "fontId" : 4,
+      "text" : "Revised (07-21-23)  PN 588 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0459,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.102,
+      "rightX" : 146.148,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.625,
+      "rightX" : 101.4488,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 4 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 138.4549,
+      "rightX" : 75,
+      "topY" : 126.4549,
+      "baseLineY" : 135.72,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 152.2549,
+      "rightX" : 148.98,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 152.2549,
+      "rightX" : 543,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "Grading and Drainage ..................................................................................... 3-16 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 166.0549,
+      "rightX" : 149.64,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 166.0549,
+      "rightX" : 543,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "Size and Shape ................................................................................................ 3-16 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 179.8549,
+      "rightX" : 148.68,
+      "topY" : 167.8549,
+      "baseLineY" : 177.1199,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 179.8549,
+      "rightX" : 543,
+      "topY" : 167.8549,
+      "baseLineY" : 177.1199,
+      "fontId" : 4,
+      "text" : "Undesirable Physical Conditions .................................................................... 3-16 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 193.6549,
+      "rightX" : 75,
+      "topY" : 181.6549,
+      "baseLineY" : 190.9199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 219.4549,
+      "rightX" : 543,
+      "topY" : 207.4549,
+      "baseLineY" : 216.7199,
+      "fontId" : 4,
+      "text" : "3.15 Site Density ............................................................................................................ 3-16 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 233.2549,
+      "rightX" : 543,
+      "topY" : 221.2549,
+      "baseLineY" : 230.5199,
+      "fontId" : 4,
+      "text" : "3.16 Non-Contiguous Sites ............................................................................................ 3-16 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 247.0549,
+      "rightX" : 543,
+      "topY" : 235.0549,
+      "baseLineY" : 244.3199,
+      "fontId" : 4,
+      "text" : "3.17 Site Control ............................................................................................................ 3-17 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 260.8548,
+      "rightX" : 149.64,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 260.8548,
+      "rightX" : 543,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "Land Ownership .............................................................................................. 3-17 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 274.6548,
+      "rightX" : 149.34,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 274.6548,
+      "rightX" : 543,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "Land Lease ...................................................................................................... 3-17 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 294.4548,
+      "rightX" : 543,
+      "topY" : 282.4548,
+      "baseLineY" : 291.7198,
+      "fontId" : 4,
+      "text" : "3.18 Environmental Requirements................................................................................. 3-18 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 308.2548,
+      "rightX" : 149.64,
+      "topY" : 296.2548,
+      "baseLineY" : 305.5198,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 308.2548,
+      "rightX" : 543,
+      "topY" : 296.2548,
+      "baseLineY" : 305.5198,
+      "fontId" : 4,
+      "text" : "Lender Responsibilities Prior to Requesting Guarantee ................................. 3-18 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 322.0548,
+      "rightX" : 149.34,
+      "topY" : 310.0548,
+      "baseLineY" : 319.3198,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 322.0548,
+      "rightX" : 543,
+      "topY" : 310.0548,
+      "baseLineY" : 319.3198,
+      "fontId" : 4,
+      "text" : "Agency Environmental Review ...................................................................... 3-19 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 341.8548,
+      "rightX" : 543,
+      "topY" : 329.8548,
+      "baseLineY" : 339.1198,
+      "fontId" : 4,
+      "text" : "3.19 Civil Rights ............................................................................................................ 3-19 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 355.6548,
+      "rightX" : 543,
+      "topY" : 343.6548,
+      "baseLineY" : 352.9198,
+      "fontId" : 4,
+      "text" : "3.20 Project Development .............................................................................................. 3-19 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 369.4548,
+      "rightX" : 149.64,
+      "topY" : 357.4548,
+      "baseLineY" : 366.7198,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 369.4548,
+      "rightX" : 543,
+      "topY" : 357.4548,
+      "baseLineY" : 366.7198,
+      "fontId" : 4,
+      "text" : "Project Size ..................................................................................................... 3-20 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 383.2547,
+      "rightX" : 148.98,
+      "topY" : 371.2547,
+      "baseLineY" : 380.5198,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 383.2547,
+      "rightX" : 543,
+      "topY" : 371.2547,
+      "baseLineY" : 380.5198,
+      "fontId" : 4,
+      "text" : "Agency Construction Requirements ............................................................... 3-20 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 397.0547,
+      "rightX" : 148.98,
+      "topY" : 385.0547,
+      "baseLineY" : 394.3198,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 397.0547,
+      "rightX" : 543,
+      "topY" : 385.0547,
+      "baseLineY" : 394.3198,
+      "fontId" : 4,
+      "text" : "Federal Accessibility Requirements ............................................................... 3-21 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 416.9637,
+      "rightX" : 543,
+      "topY" : 404.9637,
+      "baseLineY" : 414.1198,
+      "fontId" : 5,
+      "text" : "SECTION 5:  FINANCING TERMS ................................................................................. 3-23 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 436.6547,
+      "rightX" : 543,
+      "topY" : 424.6547,
+      "baseLineY" : 433.9197,
+      "fontId" : 4,
+      "text" : "3.21 Overview ................................................................................................................ 3-23 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 450.4547,
+      "rightX" : 543,
+      "topY" : 438.4547,
+      "baseLineY" : 447.7197,
+      "fontId" : 4,
+      "text" : "3.22 Occupancy and Rent Restrictions .......................................................................... 3-23 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 464.2547,
+      "rightX" : 543,
+      "topY" : 452.2547,
+      "baseLineY" : 461.5197,
+      "fontId" : 4,
+      "text" : "3.23 Use of Loan Proceeds ............................................................................................ 3-25 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 478.0547,
+      "rightX" : 149.64,
+      "topY" : 466.0547,
+      "baseLineY" : 475.3197,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 478.0547,
+      "rightX" : 543,
+      "topY" : 466.0547,
+      "baseLineY" : 475.3197,
+      "fontId" : 4,
+      "text" : "Eligible Uses of Loan Proceeds ...................................................................... 3-25 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 491.8547,
+      "rightX" : 148.98,
+      "topY" : 479.8547,
+      "baseLineY" : 489.1197,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 491.8547,
+      "rightX" : 543,
+      "topY" : 479.8547,
+      "baseLineY" : 489.1197,
+      "fontId" : 4,
+      "text" : "Ineligible Uses of Loan Funds ........................................................................ 3-26 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 511.5946,
+      "rightX" : 543,
+      "topY" : 499.5946,
+      "baseLineY" : 508.8597,
+      "fontId" : 4,
+      "text" : "3.24 Applying Section 207(c) Loan Limits ................................................................... 3-27 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 525.3946,
+      "rightX" : 543,
+      "topY" : 513.3946,
+      "baseLineY" : 522.6597,
+      "fontId" : 4,
+      "text" : "3.25 Mortgage Terms ..................................................................................................... 3-28 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 539.195,
+      "rightX" : 149.64,
+      "topY" : 527.195,
+      "baseLineY" : 536.46,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 539.195,
+      "rightX" : 543,
+      "topY" : 527.195,
+      "baseLineY" : 536.46,
+      "fontId" : 4,
+      "text" : "Maximum Loan Term ..................................................................................... 3-28 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 552.995,
+      "rightX" : 148.98,
+      "topY" : 540.995,
+      "baseLineY" : 550.26,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 552.995,
+      "rightX" : 543,
+      "topY" : 540.995,
+      "baseLineY" : 550.26,
+      "fontId" : 4,
+      "text" : "Maximum Interest Rate................................................................................... 3-28 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 566.795,
+      "rightX" : 148.98,
+      "topY" : 554.795,
+      "baseLineY" : 564.06,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 566.795,
+      "rightX" : 543,
+      "topY" : 554.795,
+      "baseLineY" : 564.06,
+      "fontId" : 4,
+      "text" : "Interest Reduction Credit ................................................................................ 3-28 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 580.595,
+      "rightX" : 149.64,
+      "topY" : 568.595,
+      "baseLineY" : 577.86,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 580.595,
+      "rightX" : 543,
+      "topY" : 568.595,
+      "baseLineY" : 577.86,
+      "fontId" : 4,
+      "text" : "Maximum Loan Amount ................................................................................. 3-29 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 592.0791,
+      "rightX" : 137.865,
+      "topY" : 582.0791,
+      "baseLineY" : 589.8,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 606.0239,
+      "rightX" : 543,
+      "topY" : 594.0239,
+      "baseLineY" : 603.18,
+      "fontId" : 5,
+      "text" : "SECTION 6:  DETERMINING PROPERTY VALUE .................................................... 3-30 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 625.7149,
+      "rightX" : 543,
+      "topY" : 613.7149,
+      "baseLineY" : 622.98,
+      "fontId" : 4,
+      "text" : "3.26 Overview ................................................................................................................ 3-30 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 639.515,
+      "rightX" : 543,
+      "topY" : 627.515,
+      "baseLineY" : 636.78,
+      "fontId" : 4,
+      "text" : "3.27 Cash Flow Analysis ............................................................................................... 3-30 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 653.315,
+      "rightX" : 149.64,
+      "topY" : 641.315,
+      "baseLineY" : 650.58,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 653.315,
+      "rightX" : 543,
+      "topY" : 641.315,
+      "baseLineY" : 650.58,
+      "fontId" : 4,
+      "text" : "Operating and Maintenance Expense .............................................................. 3-30 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 667.115,
+      "rightX" : 149.34,
+      "topY" : 655.115,
+      "baseLineY" : 664.38,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 667.115,
+      "rightX" : 543,
+      "topY" : 655.115,
+      "baseLineY" : 664.38,
+      "fontId" : 4,
+      "text" : "Debt Service .................................................................................................... 3-31 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 686.915,
+      "rightX" : 138,
+      "topY" : 674.915,
+      "baseLineY" : 684.18,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 700.8239,
+      "rightX" : 75,
+      "topY" : 688.8239,
+      "baseLineY" : 697.98,
+      "fontId" : 5,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 468.3479,
+      "bottomY" : 95.102,
+      "rightX" : 542.4958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 513.0471,
+      "bottomY" : 106.625,
+      "rightX" : 542.4958,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 5 "
+    }, {
+      "leftX" : 118.5,
+      "bottomY" : 132.4549,
+      "rightX" : 543.0001,
+      "topY" : 120.4549,
+      "baseLineY" : 129.72,
+      "fontId" : 4,
+      "text" : "3.28  APPRAISAL ..................................................................................................... 3-33 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 146.2549,
+      "rightX" : 149.6401,
+      "topY" : 134.2549,
+      "baseLineY" : 143.52,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 146.2549,
+      "rightX" : 543.0001,
+      "topY" : 134.2549,
+      "baseLineY" : 143.52,
+      "fontId" : 4,
+      "text" : "Appraisal Requirements .................................................................................. 3-33 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 160.0549,
+      "rightX" : 148.9801,
+      "topY" : 148.0549,
+      "baseLineY" : 157.3199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 160.0549,
+      "rightX" : 543.0001,
+      "topY" : 148.0549,
+      "baseLineY" : 157.3199,
+      "fontId" : 4,
+      "text" : "Appraiser Qualifications ................................................................................. 3-33 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 173.8549,
+      "rightX" : 148.9801,
+      "topY" : 161.8549,
+      "baseLineY" : 171.1199,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 173.8549,
+      "rightX" : 543.0001,
+      "topY" : 161.8549,
+      "baseLineY" : 171.1199,
+      "fontId" : 4,
+      "text" : "Appraisal Methods .......................................................................................... 3-33 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 187.6549,
+      "rightX" : 149.6401,
+      "topY" : 175.6549,
+      "baseLineY" : 184.9199,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 187.6549,
+      "rightX" : 543.0001,
+      "topY" : 175.6549,
+      "baseLineY" : 184.9199,
+      "fontId" : 4,
+      "text" : "Appraisal Report Guidelines ........................................................................... 3-34 "
+    }, {
+      "leftX" : 135.3601,
+      "bottomY" : 201.4549,
+      "rightX" : 148.6801,
+      "topY" : 189.4549,
+      "baseLineY" : 198.7199,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 201.4549,
+      "rightX" : 543.0001,
+      "topY" : 189.4549,
+      "baseLineY" : 198.7199,
+      "fontId" : 4,
+      "text" : "Market Study ................................................................................................... 3-34 "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 227.3638,
+      "rightX" : 543.0001,
+      "topY" : 215.3638,
+      "baseLineY" : 224.5199,
+      "fontId" : 5,
+      "text" : "CHAPTER 4:  LOAN GUARANTEE APPLICATION PROCESSING ............................. 4-1 "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 247.1638,
+      "rightX" : 543.0001,
+      "topY" : 235.1638,
+      "baseLineY" : 244.3199,
+      "fontId" : 5,
+      "text" : "SECTION 1: AN OVERVIEW OF THE PROCESS ......................................................... 4-1 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 266.8548,
+      "rightX" : 126.0001,
+      "topY" : 254.8548,
+      "baseLineY" : 264.1199,
+      "fontId" : 4,
+      "text" : "4.1 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 266.8548,
+      "rightX" : 543.0001,
+      "topY" : 254.8548,
+      "baseLineY" : 264.1199,
+      "fontId" : 4,
+      "text" : "Purpose ..................................................................................................................... 4-1 "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 286.7638,
+      "rightX" : 543.0001,
+      "topY" : 274.7638,
+      "baseLineY" : 283.9199,
+      "fontId" : 5,
+      "text" : "SECTION 2:  NOTICE OF PROGRAM FUNDING ......................................................... 4-1 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 306.4548,
+      "rightX" : 126.0001,
+      "topY" : 294.4548,
+      "baseLineY" : 303.7198,
+      "fontId" : 4,
+      "text" : "4.2 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 306.4548,
+      "rightX" : 543.0001,
+      "topY" : 294.4548,
+      "baseLineY" : 303.7198,
+      "fontId" : 4,
+      "text" : "Publication of GRRHP Requirements ..................................................................... 4-1 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 320.2548,
+      "rightX" : 126.0001,
+      "topY" : 308.2548,
+      "baseLineY" : 317.5198,
+      "fontId" : 4,
+      "text" : "4.3 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 320.2548,
+      "rightX" : 543.0001,
+      "topY" : 308.2548,
+      "baseLineY" : 317.5198,
+      "fontId" : 4,
+      "text" : "Response to the Notice ............................................................................................. 4-1 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 334.0548,
+      "rightX" : 126.0001,
+      "topY" : 322.0548,
+      "baseLineY" : 331.3198,
+      "fontId" : 4,
+      "text" : "4.4 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 334.0548,
+      "rightX" : 543.0002,
+      "topY" : 322.0548,
+      "baseLineY" : 331.3198,
+      "fontId" : 4,
+      "text" : "Information to be Included in Response to the Notice ............................................ 4-2 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 347.8548,
+      "rightX" : 149.6402,
+      "topY" : 335.8548,
+      "baseLineY" : 345.1198,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 347.8548,
+      "rightX" : 543.0002,
+      "topY" : 335.8548,
+      "baseLineY" : 345.1198,
+      "fontId" : 4,
+      "text" : "Descriptive Information .................................................................................... 4-2 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 361.6548,
+      "rightX" : 148.9802,
+      "topY" : 349.6548,
+      "baseLineY" : 358.9198,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 361.6548,
+      "rightX" : 543.0002,
+      "topY" : 349.6548,
+      "baseLineY" : 358.9198,
+      "fontId" : 4,
+      "text" : "Lender Eligibility and Approval Status ............................................................ 4-3 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 375.4548,
+      "rightX" : 148.9802,
+      "topY" : 363.4548,
+      "baseLineY" : 372.7198,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 375.4548,
+      "rightX" : 543.0002,
+      "topY" : 363.4548,
+      "baseLineY" : 372.7198,
+      "fontId" : 4,
+      "text" : "Competitive Criteria.......................................................................................... 4-3 "
+    }, {
+      "leftX" : 135.2402,
+      "bottomY" : 389.2547,
+      "rightX" : 543.0002,
+      "topY" : 377.2547,
+      "baseLineY" : 386.5198,
+      "fontId" : 4,
+      "text" : "D. Lender Commitment Letter ............................................................................... 4-3 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 409.0547,
+      "rightX" : 126.0002,
+      "topY" : 397.0547,
+      "baseLineY" : 406.3198,
+      "fontId" : 4,
+      "text" : "4.5 "
+    }, {
+      "leftX" : 132.0002,
+      "bottomY" : 409.0547,
+      "rightX" : 543.0002,
+      "topY" : 397.0547,
+      "baseLineY" : 406.3198,
+      "fontId" : 4,
+      "text" : "Agency Review of Notice Response ........................................................................ 4-3 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 422.8547,
+      "rightX" : 149.6402,
+      "topY" : 410.8547,
+      "baseLineY" : 420.1198,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 422.8547,
+      "rightX" : 543.0003,
+      "topY" : 410.8547,
+      "baseLineY" : 420.1198,
+      "fontId" : 4,
+      "text" : "Was the Project Proposal on Time and Complete? ........................................... 4-3 "
+    }, {
+      "leftX" : 135.0003,
+      "bottomY" : 436.6547,
+      "rightX" : 148.9803,
+      "topY" : 424.6547,
+      "baseLineY" : 433.9197,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0003,
+      "bottomY" : 436.6547,
+      "rightX" : 543.0003,
+      "topY" : 424.6547,
+      "baseLineY" : 433.9197,
+      "fontId" : 4,
+      "text" : "Is the Borrower An Eligible Entity? ................................................................. 4-4 "
+    }, {
+      "leftX" : 135.0003,
+      "bottomY" : 450.4547,
+      "rightX" : 148.9803,
+      "topY" : 438.4547,
+      "baseLineY" : 447.7197,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153.0003,
+      "bottomY" : 450.4547,
+      "rightX" : 543.0004,
+      "topY" : 438.4547,
+      "baseLineY" : 447.7197,
+      "fontId" : 4,
+      "text" : "Is the Lender Eligible? ...................................................................................... 4-4 "
+    }, {
+      "leftX" : 135.3604,
+      "bottomY" : 464.2547,
+      "rightX" : 543.0004,
+      "topY" : 452.2547,
+      "baseLineY" : 461.5197,
+      "fontId" : 4,
+      "text" : "D. Is the Proposed Project Eligible? ...................................................................... 4-4 "
+    }, {
+      "leftX" : 108.0004,
+      "bottomY" : 484.0547,
+      "rightX" : 126.0004,
+      "topY" : 472.0547,
+      "baseLineY" : 481.3197,
+      "fontId" : 4,
+      "text" : "4.6 "
+    }, {
+      "leftX" : 132.0004,
+      "bottomY" : 484.0547,
+      "rightX" : 543.0004,
+      "topY" : 472.0547,
+      "baseLineY" : 481.3197,
+      "fontId" : 4,
+      "text" : "Notice to Proceed with Application Processing ....................................................... 4-5 "
+    }, {
+      "leftX" : 84.2404,
+      "bottomY" : 503.9636,
+      "rightX" : 543.0004,
+      "topY" : 491.9636,
+      "baseLineY" : 501.1197,
+      "fontId" : 5,
+      "text" : "SECTION 3: APPLICATION FOR THE GUARANTEE ................................................. 4-6 "
+    }, {
+      "leftX" : 108.0004,
+      "bottomY" : 523.5946,
+      "rightX" : 126.0004,
+      "topY" : 511.5946,
+      "baseLineY" : 520.8597,
+      "fontId" : 4,
+      "text" : "4.7 "
+    }, {
+      "leftX" : 132.0004,
+      "bottomY" : 523.5946,
+      "rightX" : 543.0004,
+      "topY" : 511.5946,
+      "baseLineY" : 520.8597,
+      "fontId" : 4,
+      "text" : "Purpose of the Application....................................................................................... 4-6 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 537.395,
+      "rightX" : 149.64,
+      "topY" : 525.395,
+      "baseLineY" : 534.66,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 537.395,
+      "rightX" : 543.0001,
+      "topY" : 525.395,
+      "baseLineY" : 534.66,
+      "fontId" : 4,
+      "text" : "The Proposed Project Meets the GRRHP Threshold Requirements ................. 4-6 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 551.195,
+      "rightX" : 149.34,
+      "topY" : 539.195,
+      "baseLineY" : 548.46,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 551.195,
+      "rightX" : 543.0001,
+      "topY" : 539.195,
+      "baseLineY" : 548.46,
+      "fontId" : 4,
+      "text" : "The Proposed Project is Eligible to Receive a Conditional Commitment ........ 4-6 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 570.995,
+      "rightX" : 126.0001,
+      "topY" : 558.995,
+      "baseLineY" : 568.26,
+      "fontId" : 4,
+      "text" : "4.8 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 570.995,
+      "rightX" : 543.0001,
+      "topY" : 558.995,
+      "baseLineY" : 568.26,
+      "fontId" : 4,
+      "text" : "Application Form and Documentation..................................................................... 4-7 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 584.795,
+      "rightX" : 149.6401,
+      "topY" : 572.795,
+      "baseLineY" : 582.06,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 584.795,
+      "rightX" : 543.0001,
+      "topY" : 572.795,
+      "baseLineY" : 582.06,
+      "fontId" : 4,
+      "text" : "The Lender’s Certification ................................................................................ 4-7 "
+    }, {
+      "leftX" : 135.3601,
+      "bottomY" : 598.595,
+      "rightX" : 149.3401,
+      "topY" : 586.595,
+      "baseLineY" : 595.86,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 598.595,
+      "rightX" : 543.0001,
+      "topY" : 586.595,
+      "baseLineY" : 595.86,
+      "fontId" : 4,
+      "text" : "Exhibits and Supporting Information to the Lender’s Certification ................. 4-7 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 618.395,
+      "rightX" : 126.0001,
+      "topY" : 606.395,
+      "baseLineY" : 615.66,
+      "fontId" : 4,
+      "text" : "4.9 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 618.395,
+      "rightX" : 543.0001,
+      "topY" : 606.395,
+      "baseLineY" : 615.66,
+      "fontId" : 4,
+      "text" : "Interest Credit Request and Documentation .......................................................... 4-11 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 632.195,
+      "rightX" : 149.6401,
+      "topY" : 620.195,
+      "baseLineY" : 629.46,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 632.195,
+      "rightX" : 543.0002,
+      "topY" : 620.195,
+      "baseLineY" : 629.46,
+      "fontId" : 4,
+      "text" : "Amount of Interest Credit Subsidy ................................................................. 4-11 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 645.995,
+      "rightX" : 148.9802,
+      "topY" : 633.995,
+      "baseLineY" : 643.26,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 645.995,
+      "rightX" : 543.0002,
+      "topY" : 633.995,
+      "baseLineY" : 643.26,
+      "fontId" : 4,
+      "text" : "Demonstrated Need ......................................................................................... 4-11 "
+    }, {
+      "leftX" : 72.0002,
+      "bottomY" : 659.795,
+      "rightX" : 75.0002,
+      "topY" : 647.795,
+      "baseLineY" : 657.0601,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72.0002,
+      "bottomY" : 673.595,
+      "rightX" : 172.3202,
+      "topY" : 661.595,
+      "baseLineY" : 670.86,
+      "fontId" : 4,
+      "text" : "(02-23-12)  PN 455  "
+    }, {
+      "leftX" : 72.0002,
+      "bottomY" : 687.395,
+      "rightX" : 238.5854,
+      "topY" : 675.395,
+      "baseLineY" : 684.66,
+      "fontId" : 4,
+      "text" : "Revised (09-07-22)  SPECIAL PN"
+    }, {
+      "leftX" : 238.62,
+      "bottomY" : 686.9392,
+      "rightX" : 241.125,
+      "topY" : 676.9392,
+      "baseLineY" : 684.66,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0459,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.102,
+      "rightX" : 146.148,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.625,
+      "rightX" : 101.4488,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 6 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 138.4549,
+      "rightX" : 148.98,
+      "topY" : 126.4549,
+      "baseLineY" : 135.72,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 138.4549,
+      "rightX" : 543,
+      "topY" : 126.4549,
+      "baseLineY" : 135.72,
+      "fontId" : 4,
+      "text" : "Limits on Allocation of Interest Credit ........................................................... 4-11 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 152.2549,
+      "rightX" : 149.64,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 152.2549,
+      "rightX" : 543,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "Payment of Interest Credit .............................................................................. 4-11 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 166.0549,
+      "rightX" : 148.32,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 166.0549,
+      "rightX" : 543,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "Cancellation of Interest Credit ........................................................................ 4-13 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 179.8549,
+      "rightX" : 148.02,
+      "topY" : 167.8549,
+      "baseLineY" : 177.1199,
+      "fontId" : 4,
+      "text" : "F. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 179.8549,
+      "rightX" : 543,
+      "topY" : 167.8549,
+      "baseLineY" : 177.1199,
+      "fontId" : 4,
+      "text" : "Closing a Loan with Interest Credit ................................................................ 4-13 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 199.6549,
+      "rightX" : 543,
+      "topY" : 187.6549,
+      "baseLineY" : 196.9199,
+      "fontId" : 4,
+      "text" : "4.10 Lender Review of the Borrower Submissions ....................................................... 4-13 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 213.4549,
+      "rightX" : 149.64,
+      "topY" : 201.4549,
+      "baseLineY" : 210.7199,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 213.4549,
+      "rightX" : 543,
+      "topY" : 201.4549,
+      "baseLineY" : 210.7199,
+      "fontId" : 4,
+      "text" : "Borrower Eligibility ........................................................................................ 4-13 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 227.2549,
+      "rightX" : 148.98,
+      "topY" : 215.2549,
+      "baseLineY" : 224.5199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 227.2549,
+      "rightX" : 543,
+      "topY" : 215.2549,
+      "baseLineY" : 224.5199,
+      "fontId" : 4,
+      "text" : "Project Eligibility ............................................................................................ 4-14 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 241.0549,
+      "rightX" : 149.34,
+      "topY" : 229.0549,
+      "baseLineY" : 238.3199,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 241.0549,
+      "rightX" : 543,
+      "topY" : 229.0549,
+      "baseLineY" : 238.3199,
+      "fontId" : 4,
+      "text" : "Project Feasibility Analysis ............................................................................ 4-15 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 260.8548,
+      "rightX" : 543,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "4.11 Agency Review of the Loan Guarantee Application ............................................. 4-16 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 274.6548,
+      "rightX" : 149.64,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 274.6548,
+      "rightX" : 543,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "Determination that the Loan Guarantee Application Package is Complete ... 4-16 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 288.4548,
+      "rightX" : 148.98,
+      "topY" : 276.4548,
+      "baseLineY" : 285.7198,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 288.4548,
+      "rightX" : 543,
+      "topY" : 276.4548,
+      "baseLineY" : 285.7198,
+      "fontId" : 4,
+      "text" : "Environmental Review by Agency ................................................................. 4-16 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 302.2548,
+      "rightX" : 148.98,
+      "topY" : 290.2548,
+      "baseLineY" : 299.5198,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 302.2548,
+      "rightX" : 543,
+      "topY" : 290.2548,
+      "baseLineY" : 299.5198,
+      "fontId" : 4,
+      "text" : "Civil Rights Impact Analysis .......................................................................... 4-16 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 316.0548,
+      "rightX" : 149.64,
+      "topY" : 304.0548,
+      "baseLineY" : 313.3198,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 316.0548,
+      "rightX" : 543.0001,
+      "topY" : 304.0548,
+      "baseLineY" : 313.3198,
+      "fontId" : 4,
+      "text" : "Review of Other Federal Requirements .......................................................... 4-16 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 329.8548,
+      "rightX" : 148.3201,
+      "topY" : 317.8548,
+      "baseLineY" : 327.1198,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 329.8548,
+      "rightX" : 543.0001,
+      "topY" : 317.8548,
+      "baseLineY" : 327.1198,
+      "fontId" : 4,
+      "text" : "Review of Affirmative Fair Housing Marketing Plan (AFHMP) ................... 4-17 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 343.6548,
+      "rightX" : 147.6601,
+      "topY" : 331.6548,
+      "baseLineY" : 340.9198,
+      "fontId" : 4,
+      "text" : "F. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 343.6548,
+      "rightX" : 543.0001,
+      "topY" : 331.6548,
+      "baseLineY" : 340.9198,
+      "fontId" : 4,
+      "text" : "Decision on Interest Credit Subsidy Request .................................................. 4-19 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 357.4548,
+      "rightX" : 149.6401,
+      "topY" : 345.4548,
+      "baseLineY" : 354.7198,
+      "fontId" : 4,
+      "text" : "G. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 357.4548,
+      "rightX" : 543.0001,
+      "topY" : 345.4548,
+      "baseLineY" : 354.7198,
+      "fontId" : 4,
+      "text" : "Decision on the Guarantee Amount ................................................................ 4-19 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 371.2547,
+      "rightX" : 543.0001,
+      "topY" : 359.2547,
+      "baseLineY" : 368.5198,
+      "fontId" : 4,
+      "text" : "H. Determination that the Loan is Acceptable for a Conditional Commitment .. 4-19 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 385.0547,
+      "rightX" : 543.0001,
+      "topY" : 373.0547,
+      "baseLineY" : 382.3198,
+      "fontId" : 4,
+      "text" : "4.12 Agency Decision .................................................................................................... 4-20 "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 404.9637,
+      "rightX" : 543.0001,
+      "topY" : 392.9637,
+      "baseLineY" : 402.1198,
+      "fontId" : 5,
+      "text" : "SECTION 4:  ISSUANCE OF CONDITIONAL COMMITMENT ............................... 4-20 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 424.6547,
+      "rightX" : 543.0001,
+      "topY" : 412.6547,
+      "baseLineY" : 421.9197,
+      "fontId" : 4,
+      "text" : "4.13 General Requirements ............................................................................................ 4-20 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 438.4547,
+      "rightX" : 543.0001,
+      "topY" : 426.4547,
+      "baseLineY" : 435.7197,
+      "fontId" : 4,
+      "text" : "4.14 Terms of Conditional Commitment ....................................................................... 4-21 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 452.2547,
+      "rightX" : 149.6401,
+      "topY" : 440.2547,
+      "baseLineY" : 449.5197,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 452.2547,
+      "rightX" : 543.0001,
+      "topY" : 440.2547,
+      "baseLineY" : 449.5197,
+      "fontId" : 4,
+      "text" : " Subsidy Layering Review .............................................................................. 4-22 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 466.0547,
+      "rightX" : 148.9801,
+      "topY" : 454.0547,
+      "baseLineY" : 463.3197,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 466.0547,
+      "rightX" : 543.0001,
+      "topY" : 454.0547,
+      "baseLineY" : 463.3197,
+      "fontId" : 4,
+      "text" : " Guarantee Fee ................................................................................................ 4-22 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 479.7947,
+      "rightX" : 148.9801,
+      "topY" : 467.7947,
+      "baseLineY" : 477.0597,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 479.7947,
+      "rightX" : 543.0001,
+      "topY" : 467.7947,
+      "baseLineY" : 477.0597,
+      "fontId" : 4,
+      "text" : " Transactions Backed by Ginnie Mae ............................................................. 4-22 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 493.5946,
+      "rightX" : 149.6401,
+      "topY" : 481.5946,
+      "baseLineY" : 490.8597,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 493.5946,
+      "rightX" : 543.0001,
+      "topY" : 481.5946,
+      "baseLineY" : 490.8597,
+      "fontId" : 4,
+      "text" : " Termination of the Conditional Commitment ................................................ 4-22 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 507.395,
+      "rightX" : 148.32,
+      "topY" : 495.395,
+      "baseLineY" : 504.66,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 507.395,
+      "rightX" : 543,
+      "topY" : 495.395,
+      "baseLineY" : 504.66,
+      "fontId" : 4,
+      "text" : " Substitution of Lender.................................................................................... 4-23 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 521.1949,
+      "rightX" : 147.66,
+      "topY" : 509.1949,
+      "baseLineY" : 518.46,
+      "fontId" : 4,
+      "text" : "F. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 521.1949,
+      "rightX" : 543,
+      "topY" : 509.1949,
+      "baseLineY" : 518.46,
+      "fontId" : 4,
+      "text" : " Lender’s Agreement ....................................................................................... 4-23 "
+    }, {
+      "leftX" : 135.24,
+      "bottomY" : 534.995,
+      "rightX" : 543,
+      "topY" : 522.995,
+      "baseLineY" : 532.26,
+      "fontId" : 4,
+      "text" : "G.  Loan Note Guarantee Agreement .................................................................. 4-23 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 554.9039,
+      "rightX" : 272.22,
+      "topY" : 542.9039,
+      "baseLineY" : 552.06,
+      "fontId" : 5,
+      "text" : "SECTION 5: RESPONSE TO THE  "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 568.7039,
+      "rightX" : 543,
+      "topY" : 556.7039,
+      "baseLineY" : 565.86,
+      "fontId" : 5,
+      "text" : "CONDITIONAL COMMITMENT AND LOAN CLOSING .......................................... 4-24 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 588.3949,
+      "rightX" : 543,
+      "topY" : 576.3949,
+      "baseLineY" : 585.66,
+      "fontId" : 4,
+      "text" : "4.15 General Conditions ................................................................................................ 4-24 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 602.1949,
+      "rightX" : 543,
+      "topY" : 590.1949,
+      "baseLineY" : 599.46,
+      "fontId" : 4,
+      "text" : "4.16 Development of the Regulatory Agreement .......................................................... 4-24 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 615.995,
+      "rightX" : 543,
+      "topY" : 603.995,
+      "baseLineY" : 613.26,
+      "fontId" : 4,
+      "text" : "4.17 Loan Closing .......................................................................................................... 4-24 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 635.9039,
+      "rightX" : 543,
+      "topY" : 623.9039,
+      "baseLineY" : 633.06,
+      "fontId" : 5,
+      "text" : "SECTION 6: GUARANTEE DURING CONSTRUCTION ............................................ 4-25 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 655.595,
+      "rightX" : 543,
+      "topY" : 643.595,
+      "baseLineY" : 652.86,
+      "fontId" : 4,
+      "text" : "4.18 Continuous Guarantee and Construction Guarantee and Related Reserves .......... 4-25 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 675.395,
+      "rightX" : 75,
+      "topY" : 663.395,
+      "baseLineY" : 672.66,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 695.195,
+      "rightX" : 75,
+      "topY" : 683.195,
+      "baseLineY" : 692.46,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 468.3479,
+      "bottomY" : 95.102,
+      "rightX" : 542.4958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 513.0471,
+      "bottomY" : 106.625,
+      "rightX" : 542.4958,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 7 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 132.5639,
+      "rightX" : 543,
+      "topY" : 120.5639,
+      "baseLineY" : 129.72,
+      "fontId" : 5,
+      "text" : "SECTION 7: PERMANENT GUARANTEE .................................................................... 4-26 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 152.2549,
+      "rightX" : 543,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "4.19 Occupancy .............................................................................................................. 4-26 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.0549,
+      "rightX" : 543,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "4.20 Documentation Requirements ................................................................................ 4-27 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 185.9639,
+      "rightX" : 543,
+      "topY" : 173.9639,
+      "baseLineY" : 183.1199,
+      "fontId" : 5,
+      "text" : "SECTION 8:  TERMINATION OF THE LOAN GUARANTEE .................................. 4-30 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 205.6549,
+      "rightX" : 543,
+      "topY" : 193.6549,
+      "baseLineY" : 202.9199,
+      "fontId" : 4,
+      "text" : "4.21 Reasons for Termination ........................................................................................ 4-30 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 219.4549,
+      "rightX" : 149.64,
+      "topY" : 207.4549,
+      "baseLineY" : 216.7199,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 219.4549,
+      "rightX" : 543,
+      "topY" : 207.4549,
+      "baseLineY" : 216.7199,
+      "fontId" : 4,
+      "text" : "Repayment of the Loan ................................................................................... 4-30 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 233.2549,
+      "rightX" : 148.98,
+      "topY" : 221.2549,
+      "baseLineY" : 230.5199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 233.2549,
+      "rightX" : 543,
+      "topY" : 221.2549,
+      "baseLineY" : 230.5199,
+      "fontId" : 4,
+      "text" : "Payment of a Claim ......................................................................................... 4-30 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 247.0549,
+      "rightX" : 148.98,
+      "topY" : 235.0549,
+      "baseLineY" : 244.3199,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 247.0549,
+      "rightX" : 543,
+      "topY" : 235.0549,
+      "baseLineY" : 244.3199,
+      "fontId" : 4,
+      "text" : "Voluntary Termination of the Guarantee Agreement by the Lender .............. 4-30 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 260.8548,
+      "rightX" : 149.64,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 260.8548,
+      "rightX" : 543,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "Non-Compliance with Program Requirements ............................................... 4-30 "
+    }, {
+      "leftX" : 135.24,
+      "bottomY" : 274.6548,
+      "rightX" : 148.56,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 274.6548,
+      "rightX" : 543,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "Fraud ............................................................................................................... 4-31 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 294.4548,
+      "rightX" : 369.9,
+      "topY" : 282.4548,
+      "baseLineY" : 291.7198,
+      "fontId" : 4,
+      "text" : "Attachment 4-A:  Section 538 GRRHP Application Checklist "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 308.2548,
+      "rightX" : 472.5,
+      "topY" : 296.2548,
+      "baseLineY" : 305.5198,
+      "fontId" : 4,
+      "text" : "Attachment 4-B:  Suggested Format for the Opinion of the Lender's Legal Counsel "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 322.0548,
+      "rightX" : 488.64,
+      "topY" : 310.0548,
+      "baseLineY" : 319.3198,
+      "fontId" : 4,
+      "text" : "Attachment 4-C:  Closing Documents to be Submitted as Part of the Final Application "
+    }, {
+      "leftX" : 503.9999,
+      "bottomY" : 322.0548,
+      "rightX" : 506.9999,
+      "topY" : 310.0548,
+      "baseLineY" : 319.3198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 335.8548,
+      "rightX" : 445.8599,
+      "topY" : 323.8548,
+      "baseLineY" : 333.1198,
+      "fontId" : 4,
+      "text" : "Attachment 4-D: Housing Allowances for Utilities and Other Public Services "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 349.6548,
+      "rightX" : 286.5599,
+      "topY" : 337.6548,
+      "baseLineY" : 346.9198,
+      "fontId" : 4,
+      "text" : "Attachment 4-E:  Planning Meeting Agenda "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 369.5637,
+      "rightX" : 74.9999,
+      "topY" : 357.5637,
+      "baseLineY" : 366.7198,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 395.3637,
+      "rightX" : 542.9999,
+      "topY" : 383.3637,
+      "baseLineY" : 392.5198,
+      "fontId" : 5,
+      "text" : "CHAPTER 5: CONSTRUCTION REQUIREMENTS .......................................................... 5-1 "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 415.0547,
+      "rightX" : 125.9999,
+      "topY" : 403.0547,
+      "baseLineY" : 412.3198,
+      "fontId" : 4,
+      "text" : "5.1 "
+    }, {
+      "leftX" : 131.9999,
+      "bottomY" : 415.0547,
+      "rightX" : 543,
+      "topY" : 403.0547,
+      "baseLineY" : 412.3198,
+      "fontId" : 4,
+      "text" : "Introduction .............................................................................................................. 5-1 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 434.9637,
+      "rightX" : 543,
+      "topY" : 422.9637,
+      "baseLineY" : 432.1198,
+      "fontId" : 5,
+      "text" : "SECTION 1:  PRE-CONSTRUCTION CONFERENCE .................................................. 5-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 454.6547,
+      "rightX" : 126,
+      "topY" : 442.6547,
+      "baseLineY" : 451.9197,
+      "fontId" : 4,
+      "text" : "5.2 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 454.6547,
+      "rightX" : 543,
+      "topY" : 442.6547,
+      "baseLineY" : 451.9197,
+      "fontId" : 4,
+      "text" : "Conference Requirements ........................................................................................ 5-2 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 474.5637,
+      "rightX" : 543,
+      "topY" : 462.5637,
+      "baseLineY" : 471.7197,
+      "fontId" : 5,
+      "text" : "SECTION 2: BASIC CONSTRUCTION REQUIREMENTS .......................................... 5-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 494.2547,
+      "rightX" : 126,
+      "topY" : 482.2547,
+      "baseLineY" : 491.5197,
+      "fontId" : 4,
+      "text" : "5.3 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 494.2547,
+      "rightX" : 543,
+      "topY" : 482.2547,
+      "baseLineY" : 491.5197,
+      "fontId" : 4,
+      "text" : "Overview .................................................................................................................. 5-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 508.0547,
+      "rightX" : 126,
+      "topY" : 496.0547,
+      "baseLineY" : 505.3197,
+      "fontId" : 4,
+      "text" : "5.4 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 508.0547,
+      "rightX" : 543,
+      "topY" : 496.0547,
+      "baseLineY" : 505.3197,
+      "fontId" : 4,
+      "text" : "Construction Contractor Experience and Capacity .................................................. 5-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 521.7947,
+      "rightX" : 126,
+      "topY" : 509.7947,
+      "baseLineY" : 519.0597,
+      "fontId" : 4,
+      "text" : "5.5 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 521.7947,
+      "rightX" : 543,
+      "topY" : 509.7947,
+      "baseLineY" : 519.0597,
+      "fontId" : 4,
+      "text" : "Debarment and Suspension ...................................................................................... 5-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 535.5946,
+      "rightX" : 126,
+      "topY" : 523.5946,
+      "baseLineY" : 532.8597,
+      "fontId" : 4,
+      "text" : "5.6 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 535.5946,
+      "rightX" : 543,
+      "topY" : 523.5946,
+      "baseLineY" : 532.8597,
+      "fontId" : 4,
+      "text" : "Architectural Services and Capital Needs Assessments .......................................... 5-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 549.3946,
+      "rightX" : 126,
+      "topY" : 537.3946,
+      "baseLineY" : 546.6597,
+      "fontId" : 4,
+      "text" : "5.7 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 549.3946,
+      "rightX" : 543,
+      "topY" : 537.3946,
+      "baseLineY" : 546.6597,
+      "fontId" : 4,
+      "text" : "Plans, Specifications and Cost Estimates ................................................................. 5-4 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 563.1947,
+      "rightX" : 126,
+      "topY" : 551.1947,
+      "baseLineY" : 560.4597,
+      "fontId" : 4,
+      "text" : "5.8 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 563.1947,
+      "rightX" : 543,
+      "topY" : 551.1947,
+      "baseLineY" : 560.4597,
+      "fontId" : 4,
+      "text" : "Environmental Requirements................................................................................... 5-5 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 576.9947,
+      "rightX" : 126,
+      "topY" : 564.9947,
+      "baseLineY" : 574.2597,
+      "fontId" : 4,
+      "text" : "5.9 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 576.9947,
+      "rightX" : 543,
+      "topY" : 564.9947,
+      "baseLineY" : 574.2597,
+      "fontId" : 4,
+      "text" : "Construction ............................................................................................................. 5-6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 590.7947,
+      "rightX" : 543,
+      "topY" : 578.7947,
+      "baseLineY" : 588.0597,
+      "fontId" : 4,
+      "text" : "5.10 Inspections ............................................................................................................... 5-6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 604.595,
+      "rightX" : 543,
+      "topY" : 592.595,
+      "baseLineY" : 601.86,
+      "fontId" : 4,
+      "text" : "5.11 Warranty .................................................................................................................. 5-8 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 618.395,
+      "rightX" : 543,
+      "topY" : 606.395,
+      "baseLineY" : 615.66,
+      "fontId" : 4,
+      "text" : "5.12 Construction Requirements Certification . .............................................................. 5-8 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 629.8791,
+      "rightX" : 74.505,
+      "topY" : 619.8791,
+      "baseLineY" : 627.6,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 641.4021,
+      "rightX" : 74.505,
+      "topY" : 631.4021,
+      "baseLineY" : 639.123,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 652.865,
+      "rightX" : 74.505,
+      "topY" : 642.865,
+      "baseLineY" : 650.5859,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 664.388,
+      "rightX" : 74.505,
+      "topY" : 654.388,
+      "baseLineY" : 662.1089,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 675.911,
+      "rightX" : 74.505,
+      "topY" : 665.911,
+      "baseLineY" : 673.6319,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 687.3739,
+      "rightX" : 74.505,
+      "topY" : 677.3739,
+      "baseLineY" : 685.0947,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 698.8969,
+      "rightX" : 74.505,
+      "topY" : 688.8969,
+      "baseLineY" : 696.6177,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 710.4199,
+      "rightX" : 74.505,
+      "topY" : 700.4199,
+      "baseLineY" : 708.1407,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 724.235,
+      "rightX" : 172.32,
+      "topY" : 712.235,
+      "baseLineY" : 721.5,
+      "fontId" : 4,
+      "text" : "(02-23-12)  PN 455  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 738.035,
+      "rightX" : 250.6453,
+      "topY" : 726.035,
+      "baseLineY" : 735.3,
+      "fontId" : 4,
+      "text" : "REVISED (09-07-22)  SPECIAL PN"
+    }, {
+      "leftX" : 250.68,
+      "bottomY" : 737.5791,
+      "rightX" : 253.185,
+      "topY" : 727.5791,
+      "baseLineY" : 735.3,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0459,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.102,
+      "rightX" : 146.148,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.625,
+      "rightX" : 101.4488,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 8 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 144.5639,
+      "rightX" : 543,
+      "topY" : 132.5639,
+      "baseLineY" : 141.72,
+      "fontId" : 5,
+      "text" : "SECTION 3:  GUARANTEES OF CONSTRUCTION ADVANCES .............................. 5-9 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 164.2549,
+      "rightX" : 543,
+      "topY" : 152.2549,
+      "baseLineY" : 161.52,
+      "fontId" : 4,
+      "text" : "5.13 Overview .................................................................................................................. 5-9 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 178.0549,
+      "rightX" : 111,
+      "topY" : 166.0549,
+      "baseLineY" : 175.3199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 191.8549,
+      "rightX" : 543,
+      "topY" : 179.8549,
+      "baseLineY" : 189.1199,
+      "fontId" : 4,
+      "text" : "5.14 Insurance ................................................................................................................ 5-10 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 205.6549,
+      "rightX" : 543,
+      "topY" : 193.6549,
+      "baseLineY" : 202.9199,
+      "fontId" : 4,
+      "text" : "5.15 Sureties ................................................................................................................... 5-10 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 219.4549,
+      "rightX" : 543,
+      "topY" : 207.4549,
+      "baseLineY" : 216.7199,
+      "fontId" : 4,
+      "text" : "5.16 Letters of Credit ..................................................................................................... 5-10 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 233.2549,
+      "rightX" : 543,
+      "topY" : 221.2549,
+      "baseLineY" : 230.5199,
+      "fontId" : 4,
+      "text" : "5.17 Payment Procedures ............................................................................................... 5-11 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 247.0549,
+      "rightX" : 543,
+      "topY" : 235.0549,
+      "baseLineY" : 244.3199,
+      "fontId" : 4,
+      "text" : "5.18 Contract Change Orders ......................................................................................... 5-12 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 260.8548,
+      "rightX" : 543,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "5.19 Modification of Maximum Amount Guaranteed During Construction ................. 5-12 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 274.6548,
+      "rightX" : 543,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "5.20 Reporting During Construction Period .................................................................. 5-13 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 288.4548,
+      "rightX" : 543,
+      "topY" : 276.4548,
+      "baseLineY" : 285.7198,
+      "fontId" : 4,
+      "text" : "5.21 Final Payment ........................................................................................................ 5-14 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 302.2548,
+      "rightX" : 543,
+      "topY" : 290.2548,
+      "baseLineY" : 299.5198,
+      "fontId" : 4,
+      "text" : "5.22 Certification that Additional Requirements Have Been Met ................................. 5-14 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 322.1638,
+      "rightX" : 460.92,
+      "topY" : 310.1638,
+      "baseLineY" : 319.3198,
+      "fontId" : 5,
+      "text" : "SECTION 4:  APPLICATION PROCESSING FOR GUARANTEES ON "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 335.9637,
+      "rightX" : 543,
+      "topY" : 323.9637,
+      "baseLineY" : 333.1198,
+      "fontId" : 5,
+      "text" : "CONSTRUCTION ADVANCES ........................................................................................ 5-15 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 355.6548,
+      "rightX" : 543,
+      "topY" : 343.6548,
+      "baseLineY" : 352.9198,
+      "fontId" : 4,
+      "text" : "5.23 Overview of Process .............................................................................................. 5-15 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 375.5637,
+      "rightX" : 320.5201,
+      "topY" : 363.5637,
+      "baseLineY" : 372.7198,
+      "fontId" : 5,
+      "text" : "SECTION 5:  CLAIMS PROCESSING FOR  "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 389.3637,
+      "rightX" : 543,
+      "topY" : 377.3637,
+      "baseLineY" : 386.5198,
+      "fontId" : 5,
+      "text" : "GUARANTEES ON CONSTRUCTION ADVANCES .................................................... 5-15 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 409.0547,
+      "rightX" : 543,
+      "topY" : 397.0547,
+      "baseLineY" : 406.3198,
+      "fontId" : 4,
+      "text" : "5.24 Overview of Process .............................................................................................. 5-15 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 440.9637,
+      "rightX" : 543,
+      "topY" : 428.9637,
+      "baseLineY" : 438.1198,
+      "fontId" : 5,
+      "text" : "CHAPTER 6:  PROGRAM FEES............................................................................................ 6-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 460.6547,
+      "rightX" : 126,
+      "topY" : 448.6547,
+      "baseLineY" : 457.9197,
+      "fontId" : 4,
+      "text" : "6.1 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 460.6547,
+      "rightX" : 543,
+      "topY" : 448.6547,
+      "baseLineY" : 457.9197,
+      "fontId" : 4,
+      "text" : "Overview .................................................................................................................. 6-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 474.4547,
+      "rightX" : 126,
+      "topY" : 462.4547,
+      "baseLineY" : 471.7197,
+      "fontId" : 4,
+      "text" : "6.2 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 474.4547,
+      "rightX" : 543,
+      "topY" : 462.4547,
+      "baseLineY" : 471.7197,
+      "fontId" : 4,
+      "text" : "Fees Associated with the Loan Guarantee ............................................................... 6-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 488.2547,
+      "rightX" : 149.64,
+      "topY" : 476.2547,
+      "baseLineY" : 485.5197,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 488.2547,
+      "rightX" : 543,
+      "topY" : 476.2547,
+      "baseLineY" : 485.5197,
+      "fontId" : 4,
+      "text" : "Initial Guarantee Fee ......................................................................................... 6-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 502.0547,
+      "rightX" : 148.98,
+      "topY" : 490.0547,
+      "baseLineY" : 499.3197,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 502.0547,
+      "rightX" : 543,
+      "topY" : 490.0547,
+      "baseLineY" : 499.3197,
+      "fontId" : 4,
+      "text" : "Annual Guarantee Fee ....................................................................................... 6-2 "
+    }, {
+      "leftX" : 135.24,
+      "bottomY" : 515.8547,
+      "rightX" : 149.22,
+      "topY" : 503.8547,
+      "baseLineY" : 513.1197,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 515.8547,
+      "rightX" : 543,
+      "topY" : 503.8547,
+      "baseLineY" : 513.1197,
+      "fontId" : 4,
+      "text" : "Surcharge for Guarantees on Construction Advances ...................................... 6-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 535.5946,
+      "rightX" : 126,
+      "topY" : 523.5946,
+      "baseLineY" : 532.8597,
+      "fontId" : 4,
+      "text" : "6.3 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 535.5946,
+      "rightX" : 543,
+      "topY" : 523.5946,
+      "baseLineY" : 532.8597,
+      "fontId" : 4,
+      "text" : "Additional Agency Fees ........................................................................................... 6-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 549.3946,
+      "rightX" : 149.64,
+      "topY" : 537.3946,
+      "baseLineY" : 546.6597,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 549.3946,
+      "rightX" : 543,
+      "topY" : 537.3946,
+      "baseLineY" : 546.6597,
+      "fontId" : 4,
+      "text" : "Application Fee ................................................................................................. 6-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 563.1947,
+      "rightX" : 148.98,
+      "topY" : 551.1947,
+      "baseLineY" : 560.4597,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 563.1947,
+      "rightX" : 543,
+      "topY" : 551.1947,
+      "baseLineY" : 560.4597,
+      "fontId" : 4,
+      "text" : "Extension and Reopening Fees ......................................................................... 6-3 "
+    }, {
+      "leftX" : 135.24,
+      "bottomY" : 576.995,
+      "rightX" : 149.22,
+      "topY" : 564.995,
+      "baseLineY" : 574.26,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 576.995,
+      "rightX" : 543,
+      "topY" : 564.995,
+      "baseLineY" : 574.26,
+      "fontId" : 4,
+      "text" : "Transfer of Ownership Fee ............................................................................... 6-3 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 602.9039,
+      "rightX" : 543.0001,
+      "topY" : 590.9039,
+      "baseLineY" : 600.06,
+      "fontId" : 5,
+      "text" : "CHAPTER 7:  SERVICING PERMANENT LOANS ........................................................... 7-1 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 622.595,
+      "rightX" : 126.0001,
+      "topY" : 610.595,
+      "baseLineY" : 619.86,
+      "fontId" : 4,
+      "text" : "7.1 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 622.595,
+      "rightX" : 543.0001,
+      "topY" : 610.595,
+      "baseLineY" : 619.86,
+      "fontId" : 4,
+      "text" : "Introduction .............................................................................................................. 7-1 "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 642.504,
+      "rightX" : 543.0001,
+      "topY" : 630.504,
+      "baseLineY" : 639.66,
+      "fontId" : 5,
+      "text" : "SECTION 1:  SERVICING GOALS AND OBJECTIVES ............................................... 7-1 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 662.195,
+      "rightX" : 126.0001,
+      "topY" : 650.195,
+      "baseLineY" : 659.46,
+      "fontId" : 4,
+      "text" : "7.2 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 662.195,
+      "rightX" : 543.0001,
+      "topY" : 650.195,
+      "baseLineY" : 659.46,
+      "fontId" : 4,
+      "text" : "Objectives ................................................................................................................ 7-1 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 675.995,
+      "rightX" : 126.0001,
+      "topY" : 663.995,
+      "baseLineY" : 673.26,
+      "fontId" : 4,
+      "text" : "7.3 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 675.995,
+      "rightX" : 543.0001,
+      "topY" : 663.995,
+      "baseLineY" : 673.26,
+      "fontId" : 4,
+      "text" : "Protecting the Value of the Financial Asset ............................................................. 7-1 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 689.795,
+      "rightX" : 126.0001,
+      "topY" : 677.795,
+      "baseLineY" : 687.06,
+      "fontId" : 4,
+      "text" : "7.4 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 689.795,
+      "rightX" : 543.0001,
+      "topY" : 677.795,
+      "baseLineY" : 687.06,
+      "fontId" : 4,
+      "text" : "Ensuring the Program Compliance .......................................................................... 7-2 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 703.595,
+      "rightX" : 126.0001,
+      "topY" : 691.595,
+      "baseLineY" : 700.86,
+      "fontId" : 4,
+      "text" : "7.5 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 703.595,
+      "rightX" : 543.0001,
+      "topY" : 691.595,
+      "baseLineY" : 700.86,
+      "fontId" : 4,
+      "text" : "Protecting the Tenants’ Rights ................................................................................. 7-2 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 717.395,
+      "rightX" : 126.0001,
+      "topY" : 705.395,
+      "baseLineY" : 714.66,
+      "fontId" : 4,
+      "text" : "7.6 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 717.395,
+      "rightX" : 543.0001,
+      "topY" : 705.395,
+      "baseLineY" : 714.66,
+      "fontId" : 4,
+      "text" : "Protecting the Government’s Interests ..................................................................... 7-2 "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 737.195,
+      "rightX" : 75.0001,
+      "topY" : 725.195,
+      "baseLineY" : 734.46,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 750.995,
+      "rightX" : 75.0001,
+      "topY" : 738.995,
+      "baseLineY" : 748.26,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 468.3479,
+      "bottomY" : 95.102,
+      "rightX" : 542.4958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 513.0471,
+      "bottomY" : 106.625,
+      "rightX" : 542.4958,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 9 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 132.5639,
+      "rightX" : 543,
+      "topY" : 120.5639,
+      "baseLineY" : 129.72,
+      "fontId" : 5,
+      "text" : "SECTION 2:  GENERAL SERVICING REQUIREMENTS ............................................ 7-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 152.2549,
+      "rightX" : 126,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "7.7 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 152.2549,
+      "rightX" : 543,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "Funds Management .................................................................................................. 7-3 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 166.0549,
+      "rightX" : 149.64,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 166.0549,
+      "rightX" : 543,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "Collecting and Processing Borrower Payments ................................................ 7-3 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 179.8549,
+      "rightX" : 148.98,
+      "topY" : 167.8549,
+      "baseLineY" : 177.1199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 179.8549,
+      "rightX" : 543,
+      "topY" : 167.8549,
+      "baseLineY" : 177.1199,
+      "fontId" : 4,
+      "text" : "Escrow and Reserve Account Management ..................................................... 7-3 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 193.6549,
+      "rightX" : 148.98,
+      "topY" : 181.6549,
+      "baseLineY" : 190.9199,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 193.6549,
+      "rightX" : 543,
+      "topY" : 181.6549,
+      "baseLineY" : 190.9199,
+      "fontId" : 4,
+      "text" : "Interest Credit, if Applicable ............................................................................. 7-3 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 207.4549,
+      "rightX" : 149.64,
+      "topY" : 195.4549,
+      "baseLineY" : 204.7199,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 207.4549,
+      "rightX" : 543,
+      "topY" : 195.4549,
+      "baseLineY" : 204.7199,
+      "fontId" : 4,
+      "text" : "Approval of Reserve Releases .......................................................................... 7-3 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 221.2549,
+      "rightX" : 148.32,
+      "topY" : 209.2549,
+      "baseLineY" : 218.5199,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 221.2549,
+      "rightX" : 543,
+      "topY" : 209.2549,
+      "baseLineY" : 218.5199,
+      "fontId" : 4,
+      "text" : "Approval of Surplus Cash Distribution to the Borrower .................................. 7-6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 241.0549,
+      "rightX" : 111,
+      "topY" : 229.0549,
+      "baseLineY" : 238.3199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 260.8548,
+      "rightX" : 126,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "7.8 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 260.8548,
+      "rightX" : 543,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "Addressing Defaults and Delinquencies .................................................................. 7-7 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 274.6548,
+      "rightX" : 145.14,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 274.6548,
+      "rightX" : 543,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "Delinquencies .................................................................................................... 7-8 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 288.4548,
+      "rightX" : 144.48,
+      "topY" : 276.4548,
+      "baseLineY" : 285.7198,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 288.4548,
+      "rightX" : 543,
+      "topY" : 276.4548,
+      "baseLineY" : 285.7198,
+      "fontId" : 4,
+      "text" : "Default............................................................................................................... 7-8 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 302.2548,
+      "rightX" : 144.48,
+      "topY" : 290.2548,
+      "baseLineY" : 299.5198,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 302.2548,
+      "rightX" : 543,
+      "topY" : 290.2548,
+      "baseLineY" : 299.5198,
+      "fontId" : 4,
+      "text" : "Declaring a Default ........................................................................................... 7-8 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 316.0548,
+      "rightX" : 145.14,
+      "topY" : 304.0548,
+      "baseLineY" : 313.3198,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 316.0548,
+      "rightX" : 543,
+      "topY" : 304.0548,
+      "baseLineY" : 313.3198,
+      "fontId" : 4,
+      "text" : "Initiating Special Servicing ............................................................................... 7-8 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 335.8548,
+      "rightX" : 126,
+      "topY" : 323.8548,
+      "baseLineY" : 333.1198,
+      "fontId" : 4,
+      "text" : "7.9 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 335.8548,
+      "rightX" : 543.0001,
+      "topY" : 323.8548,
+      "baseLineY" : 333.1198,
+      "fontId" : 4,
+      "text" : "Transfer of Ownership ............................................................................................. 7-9 "
+    }, {
+      "leftX" : 130.5001,
+      "bottomY" : 349.6548,
+      "rightX" : 145.1401,
+      "topY" : 337.6548,
+      "baseLineY" : 346.9198,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 349.6548,
+      "rightX" : 543.0001,
+      "topY" : 337.6548,
+      "baseLineY" : 346.9198,
+      "fontId" : 4,
+      "text" : "Changes in the Ownership Entity ..................................................................... 7-9 "
+    }, {
+      "leftX" : 130.5001,
+      "bottomY" : 363.4548,
+      "rightX" : 144.4801,
+      "topY" : 351.4548,
+      "baseLineY" : 360.7198,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 363.4548,
+      "rightX" : 543.0001,
+      "topY" : 351.4548,
+      "baseLineY" : 360.7198,
+      "fontId" : 4,
+      "text" : "Transfers of Title/Transfers of Physical Assets ................................................ 7-9 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 377.2547,
+      "rightX" : 543.0002,
+      "topY" : 365.2547,
+      "baseLineY" : 374.5198,
+      "fontId" : 4,
+      "text" : "7.10 Transfer of Loans or Mortgage Servicing .............................................................. 7-10 "
+    }, {
+      "leftX" : 130.5002,
+      "bottomY" : 391.0547,
+      "rightX" : 133.5002,
+      "topY" : 379.0547,
+      "baseLineY" : 388.3198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 84.2402,
+      "bottomY" : 404.9637,
+      "rightX" : 543.0002,
+      "topY" : 392.9637,
+      "baseLineY" : 402.1198,
+      "fontId" : 5,
+      "text" : "SECTION 3: ASSET MANAGEMENT ............................................................................ 7-10 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 430.6547,
+      "rightX" : 543.0002,
+      "topY" : 418.6547,
+      "baseLineY" : 427.9197,
+      "fontId" : 4,
+      "text" : "7.11 Overview ................................................................................................................ 7-10 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 444.4547,
+      "rightX" : 543.0002,
+      "topY" : 432.4547,
+      "baseLineY" : 441.7197,
+      "fontId" : 4,
+      "text" : "7.12 Financial Management ........................................................................................... 7-10 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 458.2547,
+      "rightX" : 149.6402,
+      "topY" : 446.2547,
+      "baseLineY" : 455.5197,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 458.2547,
+      "rightX" : 543.0002,
+      "topY" : 446.2547,
+      "baseLineY" : 455.5197,
+      "fontId" : 4,
+      "text" : "Borrower Reports to the Lender ..................................................................... 7-10 "
+    }, {
+      "leftX" : 135.2402,
+      "bottomY" : 472.0547,
+      "rightX" : 149.2202,
+      "topY" : 460.0547,
+      "baseLineY" : 469.3197,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 472.0547,
+      "rightX" : 543.0002,
+      "topY" : 460.0547,
+      "baseLineY" : 469.3197,
+      "fontId" : 4,
+      "text" : "Lender Reports to the Agency ........................................................................ 7-11 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 491.8547,
+      "rightX" : 543.0003,
+      "topY" : 479.8547,
+      "baseLineY" : 489.1197,
+      "fontId" : 4,
+      "text" : "7.13 Completing the Capital Needs Assessment and Reserve Analysis ........................ 7-14 "
+    }, {
+      "leftX" : 135.0003,
+      "bottomY" : 511.5946,
+      "rightX" : 149.6403,
+      "topY" : 499.5946,
+      "baseLineY" : 508.8597,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0003,
+      "bottomY" : 511.5946,
+      "rightX" : 543.0003,
+      "topY" : 499.5946,
+      "baseLineY" : 508.8597,
+      "fontId" : 4,
+      "text" : "The Capital Needs Assessment ....................................................................... 7-14 "
+    }, {
+      "leftX" : 135.0003,
+      "bottomY" : 525.3946,
+      "rightX" : 148.9803,
+      "topY" : 513.3946,
+      "baseLineY" : 522.6597,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0003,
+      "bottomY" : 525.3946,
+      "rightX" : 543.0004,
+      "topY" : 513.3946,
+      "baseLineY" : 522.6597,
+      "fontId" : 4,
+      "text" : "Adjusting the Reserve Deposit Requirement .................................................. 7-15 "
+    }, {
+      "leftX" : 108.0004,
+      "bottomY" : 545.1946,
+      "rightX" : 543.0004,
+      "topY" : 533.1946,
+      "baseLineY" : 542.4597,
+      "fontId" : 4,
+      "text" : "7.14 Physical Maintenance and Program Compliance and Oversight ........................... 7-15 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 558.995,
+      "rightX" : 543,
+      "topY" : 546.995,
+      "baseLineY" : 556.26,
+      "fontId" : 4,
+      "text" : "A. Physical Standards and Inspections ................................................................ 7-15 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 572.795,
+      "rightX" : 148.98,
+      "topY" : 560.795,
+      "baseLineY" : 570.06,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 572.795,
+      "rightX" : 543,
+      "topY" : 560.795,
+      "baseLineY" : 570.06,
+      "fontId" : 4,
+      "text" : "Capital Improvement Plans ............................................................................. 7-16 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 586.595,
+      "rightX" : 148.98,
+      "topY" : 574.595,
+      "baseLineY" : 583.86,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 586.595,
+      "rightX" : 543.0001,
+      "topY" : 574.595,
+      "baseLineY" : 583.86,
+      "fontId" : 4,
+      "text" : "Compliance with other Federal Requirements ................................................ 7-16 "
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 600.395,
+      "rightX" : 149.6401,
+      "topY" : 588.395,
+      "baseLineY" : 597.66,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153.0001,
+      "bottomY" : 600.395,
+      "rightX" : 543.0001,
+      "topY" : 588.395,
+      "baseLineY" : 597.66,
+      "fontId" : 4,
+      "text" : "Compliance with other Program Requirements .............................................. 7-19 "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 614.195,
+      "rightX" : 75.0001,
+      "topY" : 602.195,
+      "baseLineY" : 611.46,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 627.995,
+      "rightX" : 75.0001,
+      "topY" : 615.995,
+      "baseLineY" : 625.26,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 641.795,
+      "rightX" : 169.3201,
+      "topY" : 629.795,
+      "baseLineY" : 639.06,
+      "fontId" : 4,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 655.595,
+      "rightX" : 210.9601,
+      "topY" : 643.595,
+      "baseLineY" : 652.86,
+      "fontId" : 4,
+      "text" : "Revised (05-19-16)  PN 486 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 10,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0459,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.102,
+      "rightX" : 146.148,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.625,
+      "rightX" : 106.4287,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 10 "
+    }, {
+      "leftX" : 120,
+      "bottomY" : 138.4549,
+      "rightX" : 543,
+      "topY" : 126.4549,
+      "baseLineY" : 135.72,
+      "fontId" : 4,
+      "text" : "SECTION 4:  SPECIAL SERVICING ...................................................................... 7-21 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 164.2549,
+      "rightX" : 543,
+      "topY" : 152.2549,
+      "baseLineY" : 161.52,
+      "fontId" : 4,
+      "text" : "7.15 Overview ................................................................................................................ 7-21 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 178.0549,
+      "rightX" : 543,
+      "topY" : 166.0549,
+      "baseLineY" : 175.3199,
+      "fontId" : 4,
+      "text" : "7.16Roles and Responsibilities of the Servicing Lender ............................................... 7-21 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 191.8549,
+      "rightX" : 149.64,
+      "topY" : 179.8549,
+      "baseLineY" : 189.1199,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 191.8549,
+      "rightX" : 543,
+      "topY" : 179.8549,
+      "baseLineY" : 189.1199,
+      "fontId" : 4,
+      "text" : "Development of a Workout Plan ..................................................................... 7-21 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 205.6549,
+      "rightX" : 149.34,
+      "topY" : 193.6549,
+      "baseLineY" : 202.9199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 205.6549,
+      "rightX" : 543,
+      "topY" : 193.6549,
+      "baseLineY" : 202.9199,
+      "fontId" : 4,
+      "text" : "Bankruptcy of Borrower ................................................................................. 7-22 "
+    }, {
+      "leftX" : 135.36,
+      "bottomY" : 219.4549,
+      "rightX" : 543,
+      "topY" : 207.4549,
+      "baseLineY" : 216.7199,
+      "fontId" : 4,
+      "text" : "C.  Loss Claims During Bankruptcy. .. ..................................................................7-22 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 233.2549,
+      "rightX" : 111,
+      "topY" : 221.2549,
+      "baseLineY" : 230.5199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 247.0549,
+      "rightX" : 543,
+      "topY" : 235.0549,
+      "baseLineY" : 244.3199,
+      "fontId" : 4,
+      "text" : "7.17 Roles and Responsibilities of the Borrower ........................................................... 7-22 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 260.8548,
+      "rightX" : 145.14,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 260.8548,
+      "rightX" : 543,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "Submission of Information to the Lender ......................................................... 7-22 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 274.6548,
+      "rightX" : 144.48,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 274.6548,
+      "rightX" : 543,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "Development and Execution of the Workout Plan ........................................... 7-23 "
+    }, {
+      "leftX" : 130.74,
+      "bottomY" : 288.4548,
+      "rightX" : 144.72,
+      "topY" : 276.4548,
+      "baseLineY" : 285.7198,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 288.4548,
+      "rightX" : 543,
+      "topY" : 276.4548,
+      "baseLineY" : 285.7198,
+      "fontId" : 4,
+      "text" : "Compliance with the Workout Plan ................................................................. 7-23 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 308.2548,
+      "rightX" : 543,
+      "topY" : 296.2548,
+      "baseLineY" : 305.5198,
+      "fontId" : 4,
+      "text" : "7.18 Special Servicing Options ...................................................................................... 7-23 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 322.0548,
+      "rightX" : 145.14,
+      "topY" : 310.0548,
+      "baseLineY" : 319.3198,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 322.0548,
+      "rightX" : 543.0001,
+      "topY" : 310.0548,
+      "baseLineY" : 319.3198,
+      "fontId" : 4,
+      "text" : "Loan Modifications .......................................................................................... 7-23 "
+    }, {
+      "leftX" : 130.5001,
+      "bottomY" : 335.8548,
+      "rightX" : 144.4801,
+      "topY" : 323.8548,
+      "baseLineY" : 333.1198,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 148.5001,
+      "bottomY" : 335.8548,
+      "rightX" : 543.0001,
+      "topY" : 323.8548,
+      "baseLineY" : 333.1198,
+      "fontId" : 4,
+      "text" : "Partial Payment of Claim ................................................................................. 7-23 "
+    }, {
+      "leftX" : 130.5001,
+      "bottomY" : 349.6548,
+      "rightX" : 144.4801,
+      "topY" : 337.6548,
+      "baseLineY" : 346.9198,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 148.5001,
+      "bottomY" : 349.6548,
+      "rightX" : 543.0001,
+      "topY" : 337.6548,
+      "baseLineY" : 346.9198,
+      "fontId" : 4,
+      "text" : "Transfer of Physical Assets (TPA) ................................................................... 7-24 "
+    }, {
+      "leftX" : 131.0401,
+      "bottomY" : 363.4548,
+      "rightX" : 543.0001,
+      "topY" : 351.4548,
+      "baseLineY" : 360.7198,
+      "fontId" : 4,
+      "text" : "D. Agency Approval of Reserve Releases ............................................................ 7-24 "
+    }, {
+      "leftX" : 130.5001,
+      "bottomY" : 377.2547,
+      "rightX" : 143.8201,
+      "topY" : 365.2547,
+      "baseLineY" : 374.5198,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 148.5001,
+      "bottomY" : 377.2547,
+      "rightX" : 543.0001,
+      "topY" : 365.2547,
+      "baseLineY" : 374.5198,
+      "fontId" : 4,
+      "text" : "Lender Recommendation of Enforcement Action ............................................ 7-24 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 391.0547,
+      "rightX" : 543.0001,
+      "topY" : 379.0547,
+      "baseLineY" : 388.3198,
+      "fontId" : 4,
+      "text" : "7.19 Loan Modification (Interest Rate Reduction) ........................................................ 7-24 "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 404.8547,
+      "rightX" : 397.2601,
+      "topY" : 392.8547,
+      "baseLineY" : 402.1198,
+      "fontId" : 4,
+      "text" : "Attachment 7-A:  GRRHP Lender Servicing Compliance Checklist "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 418.6547,
+      "rightX" : 418.6201,
+      "topY" : 406.6547,
+      "baseLineY" : 415.9197,
+      "fontId" : 4,
+      "text" : "Attachment 7-B:  Supplemental Government Auditing Standards Guide "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 444.5637,
+      "rightX" : 543.0002,
+      "topY" : 432.5637,
+      "baseLineY" : 441.7197,
+      "fontId" : 5,
+      "text" : "CHAPTER 8:  PROPERTY MANAGEMENT ...................................................................... 8-1 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 464.2547,
+      "rightX" : 126.0002,
+      "topY" : 452.2547,
+      "baseLineY" : 461.5197,
+      "fontId" : 4,
+      "text" : "8.1 "
+    }, {
+      "leftX" : 132.0002,
+      "bottomY" : 464.2547,
+      "rightX" : 543.0002,
+      "topY" : 452.2547,
+      "baseLineY" : 461.5197,
+      "fontId" : 4,
+      "text" : "Introduction .............................................................................................................. 8-1 "
+    }, {
+      "leftX" : 84.2402,
+      "bottomY" : 484.1636,
+      "rightX" : 543.0002,
+      "topY" : 472.1636,
+      "baseLineY" : 481.3197,
+      "fontId" : 5,
+      "text" : "SECTION 1: ROLE OF LENDER IN PROPERTY MANAGEMENT ........................... 8-1 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 503.7947,
+      "rightX" : 126.0002,
+      "topY" : 491.7947,
+      "baseLineY" : 501.0597,
+      "fontId" : 4,
+      "text" : "8.2 "
+    }, {
+      "leftX" : 132.0002,
+      "bottomY" : 503.7947,
+      "rightX" : 543.0002,
+      "topY" : 491.7947,
+      "baseLineY" : 501.0597,
+      "fontId" : 4,
+      "text" : "Responsibilities of the Lender ................................................................................. 8-1 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 517.5946,
+      "rightX" : 149.6402,
+      "topY" : 505.5946,
+      "baseLineY" : 514.8597,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 517.5946,
+      "rightX" : 543.0002,
+      "topY" : 505.5946,
+      "baseLineY" : 514.8597,
+      "fontId" : 4,
+      "text" : "Management Plan .............................................................................................. 8-2 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 531.3946,
+      "rightX" : 148.9802,
+      "topY" : 519.3946,
+      "baseLineY" : 528.6597,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 531.3946,
+      "rightX" : 543.0002,
+      "topY" : 519.3946,
+      "baseLineY" : 528.6597,
+      "fontId" : 4,
+      "text" : "Property Manager Qualifications ...................................................................... 8-2 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 545.1946,
+      "rightX" : 148.9802,
+      "topY" : 533.1946,
+      "baseLineY" : 542.4597,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 545.1946,
+      "rightX" : 543.0002,
+      "topY" : 533.1946,
+      "baseLineY" : 542.4597,
+      "fontId" : 4,
+      "text" : "Management Agreement ................................................................................... 8-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 558.995,
+      "rightX" : 149.64,
+      "topY" : 546.995,
+      "baseLineY" : 556.26,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 558.995,
+      "rightX" : 543,
+      "topY" : 546.995,
+      "baseLineY" : 556.26,
+      "fontId" : 4,
+      "text" : "Site Visits .......................................................................................................... 8-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 572.795,
+      "rightX" : 148.32,
+      "topY" : 560.795,
+      "baseLineY" : 570.06,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 572.795,
+      "rightX" : 543,
+      "topY" : 560.795,
+      "baseLineY" : 570.06,
+      "fontId" : 4,
+      "text" : "Occupancy and Rent ......................................................................................... 8-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 586.595,
+      "rightX" : 147.66,
+      "topY" : 574.595,
+      "baseLineY" : 583.86,
+      "fontId" : 4,
+      "text" : "F. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 586.595,
+      "rightX" : 543,
+      "topY" : 574.595,
+      "baseLineY" : 583.86,
+      "fontId" : 4,
+      "text" : "Affirmative Fair Housing Marketing Plan ........................................................ 8-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 600.395,
+      "rightX" : 149.64,
+      "topY" : 588.395,
+      "baseLineY" : 597.66,
+      "fontId" : 4,
+      "text" : "G. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 600.395,
+      "rightX" : 543,
+      "topY" : 588.395,
+      "baseLineY" : 597.66,
+      "fontId" : 4,
+      "text" : "Reporting........................................................................................................... 8-2 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 614.195,
+      "rightX" : 149.64,
+      "topY" : 602.195,
+      "baseLineY" : 611.46,
+      "fontId" : 4,
+      "text" : "H. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 614.195,
+      "rightX" : 543,
+      "topY" : 602.195,
+      "baseLineY" : 611.46,
+      "fontId" : 4,
+      "text" : "Relationship Reporting ..................................................................................... 8-3 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 627.995,
+      "rightX" : 543.0001,
+      "topY" : 615.995,
+      "baseLineY" : 625.26,
+      "fontId" : 4,
+      "text" : "I.  Pre-Rent Up Instructions .................................................................................... 8-3 "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 641.795,
+      "rightX" : 75.0001,
+      "topY" : 629.795,
+      "baseLineY" : 639.06,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 667.7039,
+      "rightX" : 541.02,
+      "topY" : 655.7039,
+      "baseLineY" : 664.86,
+      "fontId" : 5,
+      "text" : "SECTION 2: MANAGEMENT PLAN ....................................................................................8-4 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 693.395,
+      "rightX" : 126,
+      "topY" : 681.395,
+      "baseLineY" : 690.66,
+      "fontId" : 4,
+      "text" : "8.3 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 693.395,
+      "rightX" : 543.0001,
+      "topY" : 681.395,
+      "baseLineY" : 690.66,
+      "fontId" : 4,
+      "text" : "Overview .................................................................................................................. 8-4 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 11,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 468.3479,
+      "bottomY" : 95.102,
+      "rightX" : 542.4958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 508.0671,
+      "bottomY" : 106.625,
+      "rightX" : 542.4958,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 11 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 132.4549,
+      "rightX" : 126,
+      "topY" : 120.4549,
+      "baseLineY" : 129.72,
+      "fontId" : 4,
+      "text" : "8.4 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 132.4549,
+      "rightX" : 543,
+      "topY" : 120.4549,
+      "baseLineY" : 129.72,
+      "fontId" : 4,
+      "text" : "Management Plan Requirements ............................................................................. 8-4 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 146.2549,
+      "rightX" : 149.64,
+      "topY" : 134.2549,
+      "baseLineY" : 143.52,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 146.2549,
+      "rightX" : 543,
+      "topY" : 134.2549,
+      "baseLineY" : 143.52,
+      "fontId" : 4,
+      "text" : "Management Plan Contents .............................................................................. 8-4 "
+    }, {
+      "leftX" : 135,
+      "bottomY" : 160.0549,
+      "rightX" : 148.98,
+      "topY" : 148.0549,
+      "baseLineY" : 157.3199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 160.0549,
+      "rightX" : 543,
+      "topY" : 148.0549,
+      "baseLineY" : 157.3199,
+      "fontId" : 4,
+      "text" : "Agency Review ................................................................................................. 8-5 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 179.9639,
+      "rightX" : 543,
+      "topY" : 167.9639,
+      "baseLineY" : 177.1199,
+      "fontId" : 5,
+      "text" : "SECTION 3: PROPERTY MANAGER .............................................................................. 8-6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 199.6549,
+      "rightX" : 126,
+      "topY" : 187.6549,
+      "baseLineY" : 196.9199,
+      "fontId" : 4,
+      "text" : "8.5 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 199.6549,
+      "rightX" : 543,
+      "topY" : 187.6549,
+      "baseLineY" : 196.9199,
+      "fontId" : 4,
+      "text" : "Overview .................................................................................................................. 8-6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 213.4549,
+      "rightX" : 126,
+      "topY" : 201.4549,
+      "baseLineY" : 210.7199,
+      "fontId" : 4,
+      "text" : "8.6 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 213.4549,
+      "rightX" : 543,
+      "topY" : 201.4549,
+      "baseLineY" : 210.7199,
+      "fontId" : 4,
+      "text" : "Key Property Manager Issues .................................................................................. 8-6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 227.2549,
+      "rightX" : 126,
+      "topY" : 215.2549,
+      "baseLineY" : 224.5199,
+      "fontId" : 4,
+      "text" : "8.7 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 227.2549,
+      "rightX" : 543,
+      "topY" : 215.2549,
+      "baseLineY" : 224.5199,
+      "fontId" : 4,
+      "text" : "Property Manager Experience .................................................................................. 8-7 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 241.0549,
+      "rightX" : 126,
+      "topY" : 229.0549,
+      "baseLineY" : 238.3199,
+      "fontId" : 4,
+      "text" : "8.8 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 241.0549,
+      "rightX" : 543,
+      "topY" : 229.0549,
+      "baseLineY" : 238.3199,
+      "fontId" : 4,
+      "text" : "Previous Participation and other Federal Requirements .......................................... 8-8 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 260.9638,
+      "rightX" : 543,
+      "topY" : 248.9638,
+      "baseLineY" : 258.1199,
+      "fontId" : 5,
+      "text" : "SECTION 4: MANAGEMENT AGREEMENT ................................................................. 8-8 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 280.6548,
+      "rightX" : 126,
+      "topY" : 268.6548,
+      "baseLineY" : 277.9199,
+      "fontId" : 4,
+      "text" : "8.9 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 280.6548,
+      "rightX" : 543,
+      "topY" : 268.6548,
+      "baseLineY" : 277.9199,
+      "fontId" : 4,
+      "text" : "Overview .................................................................................................................. 8-8 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 294.4548,
+      "rightX" : 543.0001,
+      "topY" : 282.4548,
+      "baseLineY" : 291.7198,
+      "fontId" : 4,
+      "text" : "8.10 Terms and Conditions .............................................................................................. 8-8 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 308.2548,
+      "rightX" : 543.0001,
+      "topY" : 296.2548,
+      "baseLineY" : 305.5198,
+      "fontId" : 4,
+      "text" : "8.11 Management Fee ...................................................................................................... 8-9 "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 328.1638,
+      "rightX" : 543.0002,
+      "topY" : 316.1638,
+      "baseLineY" : 325.3198,
+      "fontId" : 5,
+      "text" : "SECTION 5:  OCCUPANCY REQUIREMENTS ............................................................. 8-9 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 347.8548,
+      "rightX" : 543.0002,
+      "topY" : 335.8548,
+      "baseLineY" : 345.1198,
+      "fontId" : 4,
+      "text" : "8.12 Occupancy Requirements and Lender Review ........................................................ 8-9 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 361.6548,
+      "rightX" : 149.6402,
+      "topY" : 349.6548,
+      "baseLineY" : 358.9198,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 361.6548,
+      "rightX" : 543.0002,
+      "topY" : 349.6548,
+      "baseLineY" : 358.9198,
+      "fontId" : 4,
+      "text" : "Income of Residents .......................................................................................... 8-9 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 375.4548,
+      "rightX" : 148.9802,
+      "topY" : 363.4548,
+      "baseLineY" : 372.7198,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 375.4548,
+      "rightX" : 543.0002,
+      "topY" : 363.4548,
+      "baseLineY" : 372.7198,
+      "fontId" : 4,
+      "text" : "Tenant Income Certifications ............................................................................ 8-9 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 389.2547,
+      "rightX" : 148.9802,
+      "topY" : 377.2547,
+      "baseLineY" : 386.5198,
+      "fontId" : 4,
+      "text" : "C. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 389.2547,
+      "rightX" : 543.0002,
+      "topY" : 377.2547,
+      "baseLineY" : 386.5198,
+      "fontId" : 4,
+      "text" : "GRRHP Definition of Income ........................................................................ 8-10 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 403.0547,
+      "rightX" : 149.6402,
+      "topY" : 391.0547,
+      "baseLineY" : 400.3198,
+      "fontId" : 4,
+      "text" : "D. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 403.0547,
+      "rightX" : 543.0002,
+      "topY" : 391.0547,
+      "baseLineY" : 400.3198,
+      "fontId" : 4,
+      "text" : "Reporting of Income ....................................................................................... 8-10 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 416.8547,
+      "rightX" : 148.3203,
+      "topY" : 404.8547,
+      "baseLineY" : 414.1198,
+      "fontId" : 4,
+      "text" : "E. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 416.8547,
+      "rightX" : 543.0002,
+      "topY" : 404.8547,
+      "baseLineY" : 414.1198,
+      "fontId" : 4,
+      "text" : "Restrictions on Rent ........................................................................................ 8-11 "
+    }, {
+      "leftX" : 135.0002,
+      "bottomY" : 430.6547,
+      "rightX" : 147.6602,
+      "topY" : 418.6547,
+      "baseLineY" : 427.9197,
+      "fontId" : 4,
+      "text" : "F. "
+    }, {
+      "leftX" : 153.0002,
+      "bottomY" : 430.6547,
+      "rightX" : 543.0002,
+      "topY" : 418.6547,
+      "baseLineY" : 427.9197,
+      "fontId" : 4,
+      "text" : "Use Restrictions .............................................................................................. 8-11 "
+    }, {
+      "leftX" : 84.2402,
+      "bottomY" : 450.5637,
+      "rightX" : 543.0002,
+      "topY" : 438.5637,
+      "baseLineY" : 447.7197,
+      "fontId" : 5,
+      "text" : "SECTION 6:  TENANT PROTECTION AND GRIEVANCE PROCEDURES ........... 8-12 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 470.2547,
+      "rightX" : 543.0002,
+      "topY" : 458.2547,
+      "baseLineY" : 467.5197,
+      "fontId" : 4,
+      "text" : "8.13 Overview ................................................................................................................ 8-12 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 484.0547,
+      "rightX" : 543.0003,
+      "topY" : 472.0547,
+      "baseLineY" : 481.3197,
+      "fontId" : 4,
+      "text" : "8.14 Tenant Protection ................................................................................................... 8-12 "
+    }, {
+      "leftX" : 108.0003,
+      "bottomY" : 497.7947,
+      "rightX" : 543.0004,
+      "topY" : 485.7947,
+      "baseLineY" : 495.0597,
+      "fontId" : 4,
+      "text" : "8.15 Grievance Procedures ............................................................................................ 8-12 "
+    }, {
+      "leftX" : 108.0004,
+      "bottomY" : 511.5946,
+      "rightX" : 543.0004,
+      "topY" : 499.5946,
+      "baseLineY" : 508.8597,
+      "fontId" : 4,
+      "text" : "8.16 Civil Rights ............................................................................................................ 8-14 "
+    }, {
+      "leftX" : 130.5004,
+      "bottomY" : 525.3946,
+      "rightX" : 145.1404,
+      "topY" : 513.3946,
+      "baseLineY" : 522.6597,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 148.5004,
+      "bottomY" : 525.3946,
+      "rightX" : 543.0004,
+      "topY" : 513.3946,
+      "baseLineY" : 522.6597,
+      "fontId" : 4,
+      "text" : "Lender Obligations ........................................................................................... 8-14 "
+    }, {
+      "leftX" : 130.74,
+      "bottomY" : 539.195,
+      "rightX" : 144.72,
+      "topY" : 527.195,
+      "baseLineY" : 536.46,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 539.195,
+      "rightX" : 543,
+      "topY" : 527.195,
+      "baseLineY" : 536.46,
+      "fontId" : 4,
+      "text" : "Penalties ............................................................................................................ 8-15 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 558.995,
+      "rightX" : 543.0001,
+      "topY" : 546.995,
+      "baseLineY" : 556.26,
+      "fontId" : 4,
+      "text" : "8.17  Housing Discrimination ........................................................................................ 8-15 "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 578.795,
+      "rightX" : 475.5001,
+      "topY" : 566.795,
+      "baseLineY" : 576.06,
+      "fontId" : 4,
+      "text" : "Attachment 8-A:  Management Plan Requirements for the Guaranteed Rural Rental "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 592.595,
+      "rightX" : 75.0001,
+      "topY" : 580.595,
+      "baseLineY" : 589.86,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 592.595,
+      "rightX" : 247.0201,
+      "topY" : 580.595,
+      "baseLineY" : 589.86,
+      "fontId" : 4,
+      "text" : "         Housing Program "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 612.395,
+      "rightX" : 434.2201,
+      "topY" : 600.395,
+      "baseLineY" : 609.66,
+      "fontId" : 4,
+      "text" : "Attachment 8-B:  The Hearing Process for Tenant Grievances and Appeals "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 626.195,
+      "rightX" : 75.0001,
+      "topY" : 614.195,
+      "baseLineY" : 623.46,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 626.195,
+      "rightX" : 403.92,
+      "topY" : 614.195,
+      "baseLineY" : 623.46,
+      "fontId" : 4,
+      "text" : "                 for the Guaranteed Rural Rental Housing Program "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 649.6792,
+      "rightX" : 74.505,
+      "topY" : 639.6792,
+      "baseLineY" : 647.4,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 663.515,
+      "rightX" : 172.32,
+      "topY" : 651.515,
+      "baseLineY" : 660.78,
+      "fontId" : 4,
+      "text" : "(02-23-12)  PN 455  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 677.315,
+      "rightX" : 210.96,
+      "topY" : 665.315,
+      "baseLineY" : 674.58,
+      "fontId" : 4,
+      "text" : "Revised (07-21-23)  PN 588 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 12,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0459,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.102,
+      "rightX" : 146.148,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.625,
+      "rightX" : 106.4287,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 12 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 138.5639,
+      "rightX" : 543,
+      "topY" : 126.5639,
+      "baseLineY" : 135.72,
+      "fontId" : 5,
+      "text" : "CHAPTER 9:  INSURANCE REQUIREMENTS .................................................................. 9-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 152.2549,
+      "rightX" : 111,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.0549,
+      "rightX" : 126,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "9.1 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 166.0549,
+      "rightX" : 543,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "Introduction .............................................................................................................. 9-1 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 185.9639,
+      "rightX" : 543,
+      "topY" : 173.9639,
+      "baseLineY" : 183.1199,
+      "fontId" : 5,
+      "text" : "SECTION 1: OVERVIEW OF INSURANCE REQUIREMENTS .................................. 9-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 205.6549,
+      "rightX" : 126,
+      "topY" : 193.6549,
+      "baseLineY" : 202.9199,
+      "fontId" : 4,
+      "text" : "9.2 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 205.6549,
+      "rightX" : 543,
+      "topY" : 193.6549,
+      "baseLineY" : 202.9199,
+      "fontId" : 4,
+      "text" : "Overview .................................................................................................................. 9-1 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 225.5638,
+      "rightX" : 543,
+      "topY" : 213.5638,
+      "baseLineY" : 222.7199,
+      "fontId" : 5,
+      "text" : "SECTION 2:  TYPES OF INSURANCE ............................................................................. 9-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 245.2549,
+      "rightX" : 126,
+      "topY" : 233.2549,
+      "baseLineY" : 242.5199,
+      "fontId" : 4,
+      "text" : "9.3 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 245.2549,
+      "rightX" : 543,
+      "topY" : 233.2549,
+      "baseLineY" : 242.5199,
+      "fontId" : 4,
+      "text" : "Property Insurance ................................................................................................... 9-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.0549,
+      "rightX" : 126,
+      "topY" : 247.0549,
+      "baseLineY" : 256.3199,
+      "fontId" : 4,
+      "text" : "9.4 "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 259.0549,
+      "rightX" : 543.0001,
+      "topY" : 247.0549,
+      "baseLineY" : 256.3199,
+      "fontId" : 4,
+      "text" : "Fidelity Insurance..................................................................................................... 9-2 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 272.8548,
+      "rightX" : 126.0001,
+      "topY" : 260.8548,
+      "baseLineY" : 270.1199,
+      "fontId" : 4,
+      "text" : "9.5 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 272.8548,
+      "rightX" : 543.0001,
+      "topY" : 260.8548,
+      "baseLineY" : 270.1199,
+      "fontId" : 4,
+      "text" : "Mortgage’s Errors and Omissions (E&O) Insurance ............................................... 9-2 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 286.6548,
+      "rightX" : 126.0001,
+      "topY" : 274.6548,
+      "baseLineY" : 283.9199,
+      "fontId" : 4,
+      "text" : "9.6 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 286.6548,
+      "rightX" : 543.0001,
+      "topY" : 274.6548,
+      "baseLineY" : 283.9199,
+      "fontId" : 4,
+      "text" : "Liability Insurance ................................................................................................... 9-3 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 300.4548,
+      "rightX" : 126.0001,
+      "topY" : 288.4548,
+      "baseLineY" : 297.7198,
+      "fontId" : 4,
+      "text" : "9.7 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 300.4548,
+      "rightX" : 543.0001,
+      "topY" : 288.4548,
+      "baseLineY" : 297.7198,
+      "fontId" : 4,
+      "text" : "Worker’s Compensation .......................................................................................... 9-3 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 314.2548,
+      "rightX" : 126.0001,
+      "topY" : 302.2548,
+      "baseLineY" : 311.5198,
+      "fontId" : 4,
+      "text" : "9.8 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 314.2548,
+      "rightX" : 543.0001,
+      "topY" : 302.2548,
+      "baseLineY" : 311.5198,
+      "fontId" : 4,
+      "text" : "Evidence of Insurance, Terms, and Coverage ......................................................... 9-3 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 328.0548,
+      "rightX" : 111.0001,
+      "topY" : 316.0548,
+      "baseLineY" : 325.3198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 347.9637,
+      "rightX" : 543.0001,
+      "topY" : 335.9637,
+      "baseLineY" : 345.1198,
+      "fontId" : 5,
+      "text" : "SECTION 3: AUTHORIZED INSURANCE PROVIDERS ............................................. 9-3 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 367.6548,
+      "rightX" : 126.0001,
+      "topY" : 355.6548,
+      "baseLineY" : 364.9198,
+      "fontId" : 4,
+      "text" : "9.9 "
+    }, {
+      "leftX" : 132.0001,
+      "bottomY" : 367.6548,
+      "rightX" : 543.0001,
+      "topY" : 355.6548,
+      "baseLineY" : 364.9198,
+      "fontId" : 4,
+      "text" : "Overview .................................................................................................................. 9-3 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 381.4548,
+      "rightX" : 543.0001,
+      "topY" : 369.4548,
+      "baseLineY" : 378.7198,
+      "fontId" : 4,
+      "text" : "9.10 Acceptable Ratings for Insurance Providers ............................................................ 9-3 "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 407.3637,
+      "rightX" : 543.0002,
+      "topY" : 395.3637,
+      "baseLineY" : 404.5198,
+      "fontId" : 5,
+      "text" : "CHAPTER 10: CLAIMS ......................................................................................................... 10-1 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 427.0547,
+      "rightX" : 543.0002,
+      "topY" : 415.0547,
+      "baseLineY" : 424.3198,
+      "fontId" : 4,
+      "text" : "10.1 Purpose and Overview ........................................................................................... 10-1 "
+    }, {
+      "leftX" : 84.2402,
+      "bottomY" : 446.9637,
+      "rightX" : 543.0002,
+      "topY" : 434.9637,
+      "baseLineY" : 444.1198,
+      "fontId" : 5,
+      "text" : "SECTION 1: PRE-LIQUIDATION REQUIREMENTS ................................................. 10-2 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 466.6547,
+      "rightX" : 543.0002,
+      "topY" : 454.6547,
+      "baseLineY" : 463.9197,
+      "fontId" : 4,
+      "text" : "10.2 Overview ................................................................................................................ 10-2 "
+    }, {
+      "leftX" : 84.2402,
+      "bottomY" : 486.5637,
+      "rightX" : 543.0002,
+      "topY" : 474.5637,
+      "baseLineY" : 483.7197,
+      "fontId" : 5,
+      "text" : "SECTION 2: DECISION TO LIQUIDATE ...................................................................... 10-2 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 506.2547,
+      "rightX" : 543.0002,
+      "topY" : 494.2547,
+      "baseLineY" : 503.5197,
+      "fontId" : 4,
+      "text" : "10.3 Overview ................................................................................................................ 10-2 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 520.0547,
+      "rightX" : 543.0002,
+      "topY" : 508.0547,
+      "baseLineY" : 517.3197,
+      "fontId" : 4,
+      "text" : "10.4 Notice of Liquidation and Potential Claim ............................................................ 10-3 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 533.7947,
+      "rightX" : 543.0002,
+      "topY" : 521.7947,
+      "baseLineY" : 531.0597,
+      "fontId" : 4,
+      "text" : "10.5 Submission of a Liquidation Plan .......................................................................... 10-3 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 547.5946,
+      "rightX" : 543.0002,
+      "topY" : 535.5946,
+      "baseLineY" : 544.8597,
+      "fontId" : 4,
+      "text" : "10.6 Approval of Liquidation Plan ................................................................................ 10-5 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 561.3946,
+      "rightX" : 543.0002,
+      "topY" : 549.3946,
+      "baseLineY" : 558.6597,
+      "fontId" : 4,
+      "text" : "10.7 Filing an Estimated Loss Claim ............................................................................. 10-5 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 575.1947,
+      "rightX" : 543.0002,
+      "topY" : 563.1947,
+      "baseLineY" : 572.4597,
+      "fontId" : 4,
+      "text" : "10.8 Withdrawal of a Claim ........................................................................................... 10-6 "
+    }, {
+      "leftX" : 84.2402,
+      "bottomY" : 595.1036,
+      "rightX" : 543.0002,
+      "topY" : 583.1036,
+      "baseLineY" : 592.2597,
+      "fontId" : 5,
+      "text" : "SECTION 3:  PROPERTY LIQUIDATION .................................................................... 10-6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 614.795,
+      "rightX" : 543,
+      "topY" : 602.795,
+      "baseLineY" : 612.06,
+      "fontId" : 4,
+      "text" : "10.9 Property Acquisition .............................................................................................. 10-6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 628.595,
+      "rightX" : 543,
+      "topY" : 616.595,
+      "baseLineY" : 625.86,
+      "fontId" : 4,
+      "text" : "10.10 Lender Liquidation............................................................................................... 10-7 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 642.395,
+      "rightX" : 543.0001,
+      "topY" : 630.395,
+      "baseLineY" : 639.66,
+      "fontId" : 4,
+      "text" : "10.11 Failure to Comply with the Liquidation Plan ...................................................... 10-7 "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 662.304,
+      "rightX" : 543.0001,
+      "topY" : 650.304,
+      "baseLineY" : 659.46,
+      "fontId" : 5,
+      "text" : "SECTION 4: AGENCY ELECTION OF ASSIGNMENT OR CONVEYANCE .......... 10-7 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 681.995,
+      "rightX" : 543.0001,
+      "topY" : 669.995,
+      "baseLineY" : 679.26,
+      "fontId" : 4,
+      "text" : "10.12 Overview .............................................................................................................. 10-7 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 695.795,
+      "rightX" : 543.0001,
+      "topY" : 683.795,
+      "baseLineY" : 693.06,
+      "fontId" : 4,
+      "text" : "10.13 Assignment of the Loan ....................................................................................... 10-8 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 709.595,
+      "rightX" : 543.0001,
+      "topY" : 697.595,
+      "baseLineY" : 706.86,
+      "fontId" : 4,
+      "text" : "10.14 Conveyance of Title to the Agency ..................................................................... 10-8 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 723.395,
+      "rightX" : 111.0001,
+      "topY" : 711.395,
+      "baseLineY" : 720.66,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 13,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 468.3479,
+      "bottomY" : 95.102,
+      "rightX" : 542.4958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 508.0671,
+      "bottomY" : 106.625,
+      "rightX" : 542.4958,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 13 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 138.5639,
+      "rightX" : 543.0001,
+      "topY" : 126.5639,
+      "baseLineY" : 135.72,
+      "fontId" : 5,
+      "text" : "SECTION 5: DETERMINATION OF THE CLAIM AMOUNT ................................... 10-9 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 158.2549,
+      "rightX" : 543.0001,
+      "topY" : 146.2549,
+      "baseLineY" : 155.52,
+      "fontId" : 4,
+      "text" : "10.15 Introduction .......................................................................................................... 10-9 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 172.0549,
+      "rightX" : 543.0001,
+      "topY" : 160.0549,
+      "baseLineY" : 169.3199,
+      "fontId" : 4,
+      "text" : "10.16 Determination of the Date of Loss ..................................................................... 10-10 "
+    }, {
+      "leftX" : 139.5001,
+      "bottomY" : 185.8549,
+      "rightX" : 154.1401,
+      "topY" : 173.8549,
+      "baseLineY" : 183.1199,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 157.5001,
+      "bottomY" : 185.8549,
+      "rightX" : 543.0001,
+      "topY" : 173.8549,
+      "baseLineY" : 183.1199,
+      "fontId" : 4,
+      "text" : "Lender Liquidation ...................................................................................... 10-10 "
+    }, {
+      "leftX" : 139.5001,
+      "bottomY" : 199.6549,
+      "rightX" : 153.4801,
+      "topY" : 187.6549,
+      "baseLineY" : 196.9199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 157.5001,
+      "bottomY" : 199.6549,
+      "rightX" : 543.0001,
+      "topY" : 187.6549,
+      "baseLineY" : 196.9199,
+      "fontId" : 4,
+      "text" : "Assignment or Conveyance of Title to the Agency .................................... 10-10 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 219.4549,
+      "rightX" : 543.0001,
+      "topY" : 207.4549,
+      "baseLineY" : 216.7199,
+      "fontId" : 4,
+      "text" : "10.17 Calculation of Loss ............................................................................................ 10-10 "
+    }, {
+      "leftX" : 139.5001,
+      "bottomY" : 233.2549,
+      "rightX" : 154.1401,
+      "topY" : 221.2549,
+      "baseLineY" : 230.5199,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 157.5001,
+      "bottomY" : 233.2549,
+      "rightX" : 543.0001,
+      "topY" : 221.2549,
+      "baseLineY" : 230.5199,
+      "fontId" : 4,
+      "text" : "Request for Estimated Loss Claim .............................................................. 10-10 "
+    }, {
+      "leftX" : 139.5001,
+      "bottomY" : 247.0549,
+      "rightX" : 153.4801,
+      "topY" : 235.0549,
+      "baseLineY" : 244.3199,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 157.5001,
+      "bottomY" : 247.0549,
+      "rightX" : 543.0001,
+      "topY" : 235.0549,
+      "baseLineY" : 244.3199,
+      "fontId" : 4,
+      "text" : "Final Report of Loss .................................................................................... 10-11 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 266.8548,
+      "rightX" : 543.0001,
+      "topY" : 254.8548,
+      "baseLineY" : 264.1199,
+      "fontId" : 4,
+      "text" : "10.18 Protective Advances........................................................................................... 10-11 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 280.6548,
+      "rightX" : 543.0001,
+      "topY" : 268.6548,
+      "baseLineY" : 277.9199,
+      "fontId" : 4,
+      "text" : "10.19 Liquidation Expenses ......................................................................................... 10-11 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 294.4548,
+      "rightX" : 543.0001,
+      "topY" : 282.4548,
+      "baseLineY" : 291.7198,
+      "fontId" : 4,
+      "text" : "10.20 Legal Expenses During Bankruptcy Proceedings .............................................. 10-11 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 308.2548,
+      "rightX" : 543.0001,
+      "topY" : 296.2548,
+      "baseLineY" : 305.5198,
+      "fontId" : 4,
+      "text" : "10.21 Maximum Guarantee Payment .......................................................................... 10-12 "
+    }, {
+      "leftX" : 84.2401,
+      "bottomY" : 328.1638,
+      "rightX" : 543.0001,
+      "topY" : 316.1638,
+      "baseLineY" : 325.3198,
+      "fontId" : 5,
+      "text" : "SECTION 6: PAYMENT OF THE FINAL CLAIM ...................................................... 10-12 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 347.8548,
+      "rightX" : 543.0001,
+      "topY" : 335.8548,
+      "baseLineY" : 345.1198,
+      "fontId" : 4,
+      "text" : "10.22 Overview ............................................................................................................ 10-12 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 361.6548,
+      "rightX" : 543.0001,
+      "topY" : 349.6548,
+      "baseLineY" : 358.9198,
+      "fontId" : 4,
+      "text" : "10.23 Submission of a Report of Final Loss ................................................................ 10-12 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 375.4548,
+      "rightX" : 543.0001,
+      "topY" : 363.4548,
+      "baseLineY" : 372.7198,
+      "fontId" : 4,
+      "text" : "10.24 The Approved Claim Amount ........................................................................... 10-13 "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 401.3637,
+      "rightX" : 543.0001,
+      "topY" : 389.3637,
+      "baseLineY" : 398.5198,
+      "fontId" : 5,
+      "text" : "CHAPTER 11:  ENVIRONMENTAL REQUIREMENTS ................................................. 11-1 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 421.0547,
+      "rightX" : 543.0001,
+      "topY" : 409.0547,
+      "baseLineY" : 418.3198,
+      "fontId" : 4,
+      "text" : "11.1 Purpose and Overview ........................................................................................... 11-1 "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 434.8547,
+      "rightX" : 543.0002,
+      "topY" : 422.8547,
+      "baseLineY" : 432.1198,
+      "fontId" : 4,
+      "text" : "11.2 General Environmental Requirements ................................................................... 11-1 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 448.6547,
+      "rightX" : 543.0002,
+      "topY" : 436.6547,
+      "baseLineY" : 445.9197,
+      "fontId" : 4,
+      "text" : "11.3 Environmental Risk Management .......................................................................... 11-3 "
+    }, {
+      "leftX" : 108.0002,
+      "bottomY" : 462.4547,
+      "rightX" : 543.0003,
+      "topY" : 450.4547,
+      "baseLineY" : 459.7197,
+      "fontId" : 4,
+      "text" : "11.4 Responsibility for Environmental Reviews ........................................................... 11-4 "
+    }, {
+      "leftX" : 108.0003,
+      "bottomY" : 476.2547,
+      "rightX" : 543.0003,
+      "topY" : 464.2547,
+      "baseLineY" : 473.5197,
+      "fontId" : 4,
+      "text" : "11.5 Environmental Reviews During Loan Origination ................................................ 11-5 "
+    }, {
+      "leftX" : 130.5003,
+      "bottomY" : 490.0547,
+      "rightX" : 145.1403,
+      "topY" : 478.0547,
+      "baseLineY" : 487.3197,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 148.5003,
+      "bottomY" : 490.0547,
+      "rightX" : 543.0004,
+      "topY" : 478.0547,
+      "baseLineY" : 487.3197,
+      "fontId" : 4,
+      "text" : "The Response to the Notice Stage .................................................................... 11-5 "
+    }, {
+      "leftX" : 130.5004,
+      "bottomY" : 503.7947,
+      "rightX" : 144.4804,
+      "topY" : 491.7947,
+      "baseLineY" : 501.0597,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 148.5004,
+      "bottomY" : 503.7947,
+      "rightX" : 543.0004,
+      "topY" : 491.7947,
+      "baseLineY" : 501.0597,
+      "fontId" : 4,
+      "text" : "The Application Submission Stage .................................................................. 11-5 "
+    }, {
+      "leftX" : 108.0004,
+      "bottomY" : 523.5946,
+      "rightX" : 543.0004,
+      "topY" : 511.5946,
+      "baseLineY" : 520.8597,
+      "fontId" : 4,
+      "text" : "11.6 Environmental Reviews During the Servicing Period ........................................... 11-7 "
+    }, {
+      "leftX" : 108.0004,
+      "bottomY" : 537.3946,
+      "rightX" : 543.0004,
+      "topY" : 525.3946,
+      "baseLineY" : 534.6597,
+      "fontId" : 4,
+      "text" : "11.7 Other Environmental Requirements ...................................................................... 11-7 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 551.195,
+      "rightX" : 145.14,
+      "topY" : 539.195,
+      "baseLineY" : 548.46,
+      "fontId" : 4,
+      "text" : "A. "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 551.195,
+      "rightX" : 543,
+      "topY" : 539.195,
+      "baseLineY" : 548.46,
+      "fontId" : 4,
+      "text" : "Flood Hazard Determination ............................................................................ 11-7 "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 564.995,
+      "rightX" : 144.48,
+      "topY" : 552.995,
+      "baseLineY" : 562.26,
+      "fontId" : 4,
+      "text" : "B. "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 564.995,
+      "rightX" : 543,
+      "topY" : 552.995,
+      "baseLineY" : 562.26,
+      "fontId" : 4,
+      "text" : "Clean Air Act and Water Pollution Control Act .............................................. 11-8 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 577.607,
+      "rightX" : 74.745,
+      "topY" : 566.607,
+      "baseLineY" : 575.1,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 603.5639,
+      "rightX" : 543,
+      "topY" : 591.5639,
+      "baseLineY" : 600.72,
+      "fontId" : 5,
+      "text" : "CHAPTER 12: SECONDARY MARKET ............................................................................ 12-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 623.255,
+      "rightX" : 543,
+      "topY" : 611.255,
+      "baseLineY" : 620.52,
+      "fontId" : 4,
+      "text" : "12.1 Purpose and Overview ........................................................................................... 12-1 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 643.1639,
+      "rightX" : 543,
+      "topY" : 631.1639,
+      "baseLineY" : 640.32,
+      "fontId" : 5,
+      "text" : "SECTION 1: TRANSFER TO SECONDARY MARKETS ............................................ 12-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 662.855,
+      "rightX" : 543,
+      "topY" : 650.855,
+      "baseLineY" : 660.12,
+      "fontId" : 4,
+      "text" : "12.2 Holder Versus Participant ...................................................................................... 12-1 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 676.655,
+      "rightX" : 111,
+      "topY" : 664.655,
+      "baseLineY" : 673.92,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 688.1391,
+      "rightX" : 74.505,
+      "topY" : 678.1391,
+      "baseLineY" : 685.86,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 701.975,
+      "rightX" : 169.32,
+      "topY" : 689.975,
+      "baseLineY" : 699.24,
+      "fontId" : 4,
+      "text" : "(02-23-12)  PN 455 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 714.5271,
+      "rightX" : 199.3647,
+      "topY" : 703.5271,
+      "baseLineY" : 712.02,
+      "fontId" : 7,
+      "text" : "Revised (11-15-19)  PN 531 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 14,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0459,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.102,
+      "rightX" : 146.148,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Table of Contents "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.625,
+      "rightX" : 106.4287,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 14 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 138.4549,
+      "rightX" : 543,
+      "topY" : 126.4549,
+      "baseLineY" : 135.72,
+      "fontId" : 4,
+      "text" : "12.3 Transfer to the Secondary Market .......................................................................... 12-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 152.2549,
+      "rightX" : 111,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 152.2549,
+      "rightX" : 543,
+      "topY" : 140.2549,
+      "baseLineY" : 149.52,
+      "fontId" : 4,
+      "text" : "A.  Loan Requirements for Sale on the Secondary Market ................................... 12-2 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.0549,
+      "rightX" : 111,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 166.0549,
+      "rightX" : 543,
+      "topY" : 154.0549,
+      "baseLineY" : 163.3199,
+      "fontId" : 4,
+      "text" : "B.  Agency Execution of Form RD 3565-5, Assignment Guarantee Agreement .. 12-3 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 179.8549,
+      "rightX" : 111,
+      "topY" : 167.8549,
+      "baseLineY" : 177.1199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 179.8549,
+      "rightX" : 543,
+      "topY" : 167.8549,
+      "baseLineY" : 177.1199,
+      "fontId" : 4,
+      "text" : "C.  Loans Involving Ginnie Mae, Freddie Mac and Fannie Mae .......................... 12-4 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 199.7639,
+      "rightX" : 543,
+      "topY" : 187.7639,
+      "baseLineY" : 196.9199,
+      "fontId" : 5,
+      "text" : "SECTION 2: REPURCHASE FROM A SECONDARY MARKET HOLDER ............ 12-4 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 219.4549,
+      "rightX" : 543,
+      "topY" : 207.4549,
+      "baseLineY" : 216.7199,
+      "fontId" : 4,
+      "text" : "12.4 Holder Demand Repurchase .................................................................................. 12-4 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 233.2549,
+      "rightX" : 543,
+      "topY" : 221.2549,
+      "baseLineY" : 230.5199,
+      "fontId" : 4,
+      "text" : "12.5 Lender Initiated Repurchase .................................................................................. 12-5 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 247.0549,
+      "rightX" : 543,
+      "topY" : 235.0549,
+      "baseLineY" : 244.3199,
+      "fontId" : 4,
+      "text" : "12.6 Demand Repurchase of Loans Contained in a Ginnie Mae Pool ........................... 12-5 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 260.8548,
+      "rightX" : 543,
+      "topY" : 248.8548,
+      "baseLineY" : 258.1199,
+      "fontId" : 4,
+      "text" : "12.7 Purchase of the Loan or Note by the Agency ........................................................ 12-5 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 274.6548,
+      "rightX" : 111,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 274.6548,
+      "rightX" : 543,
+      "topY" : 262.6548,
+      "baseLineY" : 271.9199,
+      "fontId" : 4,
+      "text" : "A.  Agency Purchase from the Holder  .................................................................. 12-5 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 288.4548,
+      "rightX" : 111,
+      "topY" : 276.4548,
+      "baseLineY" : 285.7198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 132,
+      "bottomY" : 288.4548,
+      "rightX" : 543,
+      "topY" : 276.4548,
+      "baseLineY" : 285.7198,
+      "fontId" : 4,
+      "text" : "B.  Agency Purchase of Loans Contained in Ginnie Mae Pools ........................... 12-7 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 302.2548,
+      "rightX" : 543,
+      "topY" : 290.2548,
+      "baseLineY" : 299.5198,
+      "fontId" : 4,
+      "text" : "12.8 Servicing Fees ........................................................................................................ 12-8 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 316.0548,
+      "rightX" : 111,
+      "topY" : 304.0548,
+      "baseLineY" : 313.3198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 329.8548,
+      "rightX" : 111,
+      "topY" : 317.8548,
+      "baseLineY" : 327.1198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 343.7637,
+      "rightX" : 141,
+      "topY" : 331.7637,
+      "baseLineY" : 340.9198,
+      "fontId" : 5,
+      "text" : "GLOSSARY "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 369.5637,
+      "rightX" : 252.3,
+      "topY" : 357.5637,
+      "baseLineY" : 366.7198,
+      "fontId" : 5,
+      "text" : "APPENDIX 1:  7 CFR PART 3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 395.3637,
+      "rightX" : 249.36,
+      "topY" : 383.3637,
+      "baseLineY" : 392.5198,
+      "fontId" : 5,
+      "text" : "APPENDIX 2:  LIST OF FORMS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 419.807,
+      "rightX" : 74.745,
+      "topY" : 408.807,
+      "baseLineY" : 417.3,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 432.467,
+      "rightX" : 74.745,
+      "topY" : 421.467,
+      "baseLineY" : 429.9599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 446.4239,
+      "rightX" : 75,
+      "topY" : 434.4239,
+      "baseLineY" : 443.58,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 472.1149,
+      "rightX" : 75,
+      "topY" : 460.1149,
+      "baseLineY" : 469.38,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 1.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

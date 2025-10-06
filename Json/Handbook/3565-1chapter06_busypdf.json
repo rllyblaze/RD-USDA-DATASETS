@@ -1,0 +1,2000 @@
+{
+  "pdfDoc" : "3565-1chapter06.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 467.4,
+      "bottomY" : 97.7749,
+      "rightX" : 525.0599,
+      "topY" : 85.7749,
+      "baseLineY" : 95.04,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 108.6112,
+      "rightX" : 85.35,
+      "topY" : 99.6112,
+      "baseLineY" : 106.56,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 199.26,
+      "bottomY" : 134.1179,
+      "rightX" : 405.555,
+      "topY" : 120.1179,
+      "baseLineY" : 130.8,
+      "fontId" : 3,
+      "text" : "CHAPTER 6: PROGRAM FEES "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 150.9233,
+      "rightX" : 84.975,
+      "topY" : 142.9233,
+      "baseLineY" : 149.1,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 89.88,
+      "bottomY" : 164.9039,
+      "rightX" : 104.76,
+      "topY" : 152.9039,
+      "baseLineY" : 162.06,
+      "fontId" : 5,
+      "text" : "6.1"
+    }, {
+      "leftX" : 104.7,
+      "bottomY" : 165.2108,
+      "rightX" : 108.036,
+      "topY" : 153.2108,
+      "baseLineY" : 162.06,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 164.9039,
+      "rightX" : 196.92,
+      "topY" : 152.9039,
+      "baseLineY" : 162.06,
+      "fontId" : 5,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 184.415,
+      "rightX" : 504.4798,
+      "topY" : 172.415,
+      "baseLineY" : 181.68,
+      "fontId" : 1,
+      "text" : "This chapter provides information on the type and amount of fees the Agency  "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 198.2749,
+      "rightX" : 511.2598,
+      "topY" : 186.2749,
+      "baseLineY" : 195.54,
+      "fontId" : 1,
+      "text" : "may charge to lenders. The chapter will also explain when fees should be collected and "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 212.0749,
+      "rightX" : 520.2599,
+      "topY" : 200.0749,
+      "baseLineY" : 209.34,
+      "fontId" : 1,
+      "text" : "who is responsible for submitting payment. Exhibit 6-1 provides an overview of each fee "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 225.8749,
+      "rightX" : 516.1174,
+      "topY" : 213.8749,
+      "baseLineY" : 223.14,
+      "fontId" : 1,
+      "text" : "discussed in this chapter.  Exhibit 6-2 details the fee structure for the Initial and Annual "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 239.6749,
+      "rightX" : 511.4398,
+      "topY" : 227.6749,
+      "baseLineY" : 236.9399,
+      "fontId" : 1,
+      "text" : "Guarantee fees.  None of the fees are refundable. Any changes to the program fees will "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 253.4749,
+      "rightX" : 294.5999,
+      "topY" : 241.4749,
+      "baseLineY" : 250.7399,
+      "fontId" : 1,
+      "text" : "be announced in a Notice published in the "
+    }, {
+      "leftX" : 294.5999,
+      "bottomY" : 253.5839,
+      "rightX" : 385.5586,
+      "topY" : 241.5839,
+      "baseLineY" : 250.7399,
+      "fontId" : 5,
+      "text" : "Federal Register. "
+    }, {
+      "leftX" : 385.5586,
+      "bottomY" : 253.4749,
+      "rightX" : 497.3999,
+      "topY" : 241.4749,
+      "baseLineY" : 250.7399,
+      "fontId" : 1,
+      "text" : "The Agency should be "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 267.2749,
+      "rightX" : 338.8199,
+      "topY" : 255.2749,
+      "baseLineY" : 264.5399,
+      "fontId" : 1,
+      "text" : "contacted for information on the current fee policy. "
+    }, {
+      "leftX" : 82.9799,
+      "bottomY" : 281.0149,
+      "rightX" : 85.9799,
+      "topY" : 269.0149,
+      "baseLineY" : 278.2799,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 125.9399,
+      "bottomY" : 294.8149,
+      "rightX" : 495.1199,
+      "topY" : 282.8149,
+      "baseLineY" : 292.0799,
+      "fontId" : 1,
+      "text" : "When fees are applicable, lenders must submit payment electronically to the "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 308.6148,
+      "rightX" : 465.8759,
+      "topY" : 296.6148,
+      "baseLineY" : 305.8799,
+      "fontId" : 1,
+      "text" : "Agency. All fees due to the Agency can be submitted via Pay.gov using a Pre-"
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 322.4148,
+      "rightX" : 516.1786,
+      "topY" : 310.4148,
+      "baseLineY" : 319.6799,
+      "fontId" : 1,
+      "text" : "Authorized Debit (PAD) once the Guaranteed Loan System (GLS) or the USDA Lender "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 336.2148,
+      "rightX" : 501.4799,
+      "topY" : 324.2148,
+      "baseLineY" : 333.4799,
+      "fontId" : 1,
+      "text" : "Interactive Network Connection (LINC) has been updated with the Lender’s banking "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 350.0148,
+      "rightX" : 511.1998,
+      "topY" : 338.0148,
+      "baseLineY" : 347.2798,
+      "fontId" : 1,
+      "text" : "information. Lenders should contact the Production and Preservation Division, Closing "
+    }, {
+      "leftX" : 89.9399,
+      "bottomY" : 363.8148,
+      "rightX" : 384.2399,
+      "topY" : 351.8148,
+      "baseLineY" : 361.0798,
+      "fontId" : 1,
+      "text" : "Branch for instructions on submitting the fees electronically. "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 375.8391,
+      "rightX" : 85.605,
+      "topY" : 365.8391,
+      "baseLineY" : 373.56,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 285.54,
+      "bottomY" : 388.8899,
+      "rightX" : 335.325,
+      "topY" : 378.8899,
+      "baseLineY" : 386.52,
+      "fontId" : 8,
+      "text" : "Exhibit 6-1 "
+    }, {
+      "leftX" : 263.52,
+      "bottomY" : 406.29,
+      "rightX" : 357.4675,
+      "topY" : 396.29,
+      "baseLineY" : 403.92,
+      "fontId" : 8,
+      "text" : "Loan Guarantee Fees "
+    }, {
+      "leftX" : 131.34,
+      "bottomY" : 417.0283,
+      "rightX" : 415.485,
+      "topY" : 407.0283,
+      "baseLineY" : 414.72,
+      "fontId" : 9,
+      "text" : "(unless a different fee has been announced in a Notice published in the "
+    }, {
+      "leftX" : 415.32,
+      "bottomY" : 417.0128,
+      "rightX" : 489.465,
+      "topY" : 407.0128,
+      "baseLineY" : 414.72,
+      "fontId" : 10,
+      "text" : "Federal Register) "
+    }, {
+      "leftX" : 120.24,
+      "bottomY" : 430.0191,
+      "rightX" : 140.505,
+      "topY" : 420.0191,
+      "baseLineY" : 427.74,
+      "fontId" : 7,
+      "text" : "FEE "
+    }, {
+      "leftX" : 202.5,
+      "bottomY" : 430.0191,
+      "rightX" : 265.545,
+      "topY" : 420.0191,
+      "baseLineY" : 427.74,
+      "fontId" : 7,
+      "text" : "SUBMISSION "
+    }, {
+      "leftX" : 321.3,
+      "bottomY" : 430.0191,
+      "rightX" : 367.665,
+      "topY" : 420.0191,
+      "baseLineY" : 427.74,
+      "fontId" : 7,
+      "text" : "AMOUNT "
+    }, {
+      "leftX" : 411.18,
+      "bottomY" : 430.0191,
+      "rightX" : 460.905,
+      "topY" : 420.0191,
+      "baseLineY" : 427.74,
+      "fontId" : 7,
+      "text" : "EXAMPLE "
+    }, {
+      "leftX" : 481.02,
+      "bottomY" : 430.0191,
+      "rightX" : 516.285,
+      "topY" : 420.0191,
+      "baseLineY" : 427.74,
+      "fontId" : 7,
+      "text" : "TOTAL "
+    }, {
+      "leftX" : 95.82,
+      "bottomY" : 443.6992,
+      "rightX" : 165.765,
+      "topY" : 433.6992,
+      "baseLineY" : 441.42,
+      "fontId" : 7,
+      "text" : "Initial Guarantee "
+    }, {
+      "leftX" : 172.68,
+      "bottomY" : 443.9991,
+      "rightX" : 283.125,
+      "topY" : 433.9991,
+      "baseLineY" : 441.72,
+      "fontId" : 7,
+      "text" : "At the time the guarantee is "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 443.1591,
+      "rightX" : 379.4859,
+      "topY" : 433.1591,
+      "baseLineY" : 440.88,
+      "fontId" : 7,
+      "text" : "Total loan amount "
+    }, {
+      "leftX" : 407.1,
+      "bottomY" : 443.6992,
+      "rightX" : 462.045,
+      "topY" : 433.6992,
+      "baseLineY" : 441.42,
+      "fontId" : 7,
+      "text" : "$1,000,000 x "
+    }, {
+      "leftX" : 474.72,
+      "bottomY" : 443.6992,
+      "rightX" : 504.705,
+      "topY" : 433.6992,
+      "baseLineY" : 441.42,
+      "fontId" : 7,
+      "text" : "$5,850 "
+    }, {
+      "leftX" : 95.82,
+      "bottomY" : 455.0391,
+      "rightX" : 112.7829,
+      "topY" : 445.0391,
+      "baseLineY" : 452.76,
+      "fontId" : 7,
+      "text" : "Fee "
+    }, {
+      "leftX" : 172.74,
+      "bottomY" : 455.4591,
+      "rightX" : 200.265,
+      "topY" : 445.4591,
+      "baseLineY" : 453.18,
+      "fontId" : 7,
+      "text" : "issued "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 453.7791,
+      "rightX" : 368.3253,
+      "topY" : 443.7791,
+      "baseLineY" : 451.5,
+      "fontId" : 7,
+      "text" : "times the initial "
+    }, {
+      "leftX" : 407.1,
+      "bottomY" : 454.9792,
+      "rightX" : 467.5808,
+      "topY" : 444.9792,
+      "baseLineY" : 452.7,
+      "fontId" : 7,
+      "text" : ".0065 x 0.90 = "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 464.4605,
+      "rightX" : 398.6208,
+      "topY" : 454.4605,
+      "baseLineY" : 462.1813,
+      "fontId" : 7,
+      "text" : "guarantee fee times the "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 475.0817,
+      "rightX" : 380.8081,
+      "topY" : 465.0817,
+      "baseLineY" : 472.8025,
+      "fontId" : 7,
+      "text" : "% of the Agency’s "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 485.763,
+      "rightX" : 374.684,
+      "topY" : 475.763,
+      "baseLineY" : 483.4838,
+      "fontId" : 7,
+      "text" : "guarantee (Initial "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 496.3841,
+      "rightX" : 388.3001,
+      "topY" : 486.3841,
+      "baseLineY" : 494.105,
+      "fontId" : 7,
+      "text" : "guarantee fees range "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 507.0655,
+      "rightX" : 385.0075,
+      "topY" : 497.0655,
+      "baseLineY" : 504.7863,
+      "fontId" : 7,
+      "text" : "from .60% to .65%. "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 517.4512,
+      "rightX" : 359.64,
+      "topY" : 508.4512,
+      "baseLineY" : 515.4,
+      "fontId" : 2,
+      "text" : "See Exhibit 6-2"
+    }, {
+      "leftX" : 359.64,
+      "bottomY" : 517.6792,
+      "rightX" : 365.445,
+      "topY" : 507.6792,
+      "baseLineY" : 515.4,
+      "fontId" : 7,
+      "text" : ") "
+    }, {
+      "leftX" : 95.82,
+      "bottomY" : 529.9192,
+      "rightX" : 127.785,
+      "topY" : 519.9192,
+      "baseLineY" : 527.64,
+      "fontId" : 7,
+      "text" : "Annual "
+    }, {
+      "leftX" : 172.74,
+      "bottomY" : 529.9192,
+      "rightX" : 286.7246,
+      "topY" : 519.9192,
+      "baseLineY" : 527.64,
+      "fontId" : 7,
+      "text" : "This fee will be collected, in "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 529.9192,
+      "rightX" : 393.105,
+      "topY" : 519.9192,
+      "baseLineY" : 527.64,
+      "fontId" : 7,
+      "text" : "Outstanding principal "
+    }, {
+      "leftX" : 407.1,
+      "bottomY" : 529.6191,
+      "rightX" : 461.985,
+      "topY" : 519.6191,
+      "baseLineY" : 527.34,
+      "fontId" : 7,
+      "text" : "$1,000,000 x "
+    }, {
+      "leftX" : 474.72,
+      "bottomY" : 529.6191,
+      "rightX" : 504.705,
+      "topY" : 519.6191,
+      "baseLineY" : 527.34,
+      "fontId" : 7,
+      "text" : "$3,500 "
+    }, {
+      "leftX" : 95.82,
+      "bottomY" : 541.4392,
+      "rightX" : 156.4009,
+      "topY" : 531.4392,
+      "baseLineY" : 539.16,
+      "fontId" : 7,
+      "text" : "Guarantee Fee "
+    }, {
+      "leftX" : 172.74,
+      "bottomY" : 541.4392,
+      "rightX" : 263.0202,
+      "topY" : 531.4392,
+      "baseLineY" : 539.16,
+      "fontId" : 7,
+      "text" : "advance, no later than "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 541.4392,
+      "rightX" : 346.7862,
+      "topY" : 531.4392,
+      "baseLineY" : 539.16,
+      "fontId" : 7,
+      "text" : "amount of "
+    }, {
+      "leftX" : 407.1,
+      "bottomY" : 541.0191,
+      "rightX" : 440.2562,
+      "topY" : 531.0191,
+      "baseLineY" : 538.74,
+      "fontId" : 7,
+      "text" : ".0035 = "
+    }, {
+      "leftX" : 172.74,
+      "bottomY" : 552.902,
+      "rightX" : 263.0302,
+      "topY" : 542.902,
+      "baseLineY" : 550.6229,
+      "fontId" : 7,
+      "text" : "February 28th of each "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 552.1191,
+      "rightX" : 376.8062,
+      "topY" : 542.1191,
+      "baseLineY" : 549.84,
+      "fontId" : 7,
+      "text" : "the loan times the "
+    }, {
+      "leftX" : 303.6201,
+      "bottomY" : 562.7403,
+      "rightX" : 388.9194,
+      "topY" : 552.7403,
+      "baseLineY" : 560.4612,
+      "fontId" : 7,
+      "text" : "annual guarantee fee "
+    }, {
+      "leftX" : 172.74,
+      "bottomY" : 563.5791,
+      "rightX" : 228.5915,
+      "topY" : 553.5791,
+      "baseLineY" : 561.3,
+      "fontId" : 7,
+      "text" : "calendar year "
+    }, {
+      "leftX" : 303.6201,
+      "bottomY" : 573.4217,
+      "rightX" : 401.085,
+      "topY" : 563.4192,
+      "baseLineY" : 571.1425,
+      "fontId" : 7,
+      "text" : "(Annual Guarantee fees "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 584.0391,
+      "rightX" : 383.9203,
+      "topY" : 574.0391,
+      "baseLineY" : 581.76,
+      "fontId" : 7,
+      "text" : "range from .25% to "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 594.7191,
+      "rightX" : 329.4449,
+      "topY" : 584.7191,
+      "baseLineY" : 592.44,
+      "fontId" : 7,
+      "text" : ".35%. "
+    }, {
+      "leftX" : 329.46,
+      "bottomY" : 594.4912,
+      "rightX" : 385.5,
+      "topY" : 585.4912,
+      "baseLineY" : 592.44,
+      "fontId" : 2,
+      "text" : "See Exhibit 6-2"
+    }, {
+      "leftX" : 385.44,
+      "bottomY" : 594.7191,
+      "rightX" : 391.245,
+      "topY" : 584.7191,
+      "baseLineY" : 592.44,
+      "fontId" : 7,
+      "text" : ") "
+    }, {
+      "leftX" : 95.82,
+      "bottomY" : 606.6591,
+      "rightX" : 162.225,
+      "topY" : 596.6591,
+      "baseLineY" : 604.38,
+      "fontId" : 7,
+      "text" : "Application Fee "
+    }, {
+      "leftX" : 172.68,
+      "bottomY" : 606.6591,
+      "rightX" : 296.745,
+      "topY" : 596.6591,
+      "baseLineY" : 604.38,
+      "fontId" : 7,
+      "text" : "When application is submitted "
+    }, {
+      "leftX" : 303.6,
+      "bottomY" : 606.6591,
+      "rightX" : 338.445,
+      "topY" : 596.6591,
+      "baseLineY" : 604.38,
+      "fontId" : 7,
+      "text" : "Flat Fee "
+    }, {
+      "leftX" : 401.34,
+      "bottomY" : 608.0871,
+      "rightX" : 404.085,
+      "topY" : 597.0871,
+      "baseLineY" : 605.58,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 474.72,
+      "bottomY" : 606.6591,
+      "rightX" : 504.705,
+      "topY" : 596.6591,
+      "baseLineY" : 604.38,
+      "fontId" : 7,
+      "text" : "$2,500 "
+    }, {
+      "leftX" : 95.82,
+      "bottomY" : 620.5191,
+      "rightX" : 155.085,
+      "topY" : 610.5191,
+      "baseLineY" : 618.24,
+      "fontId" : 7,
+      "text" : "Extension Fee "
+    }, {
+      "leftX" : 172.02,
+      "bottomY" : 620.5191,
+      "rightX" : 277.425,
+      "topY" : 610.5191,
+      "baseLineY" : 618.24,
+      "fontId" : 7,
+      "text" : "When the request is made "
+    }, {
+      "leftX" : 303.72,
+      "bottomY" : 620.5191,
+      "rightX" : 338.565,
+      "topY" : 610.5191,
+      "baseLineY" : 618.24,
+      "fontId" : 7,
+      "text" : "Flat Fee "
+    }, {
+      "leftX" : 401.34,
+      "bottomY" : 619.1033,
+      "rightX" : 403.335,
+      "topY" : 611.1033,
+      "baseLineY" : 617.28,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 474.6,
+      "bottomY" : 620.5191,
+      "rightX" : 495.465,
+      "topY" : 610.5191,
+      "baseLineY" : 618.24,
+      "fontId" : 7,
+      "text" : "First "
+    }, {
+      "leftX" : 474.6,
+      "bottomY" : 631.0191,
+      "rightX" : 512.1479,
+      "topY" : 621.0191,
+      "baseLineY" : 628.74,
+      "fontId" : 7,
+      "text" : "Request: "
+    }, {
+      "leftX" : 474.6,
+      "bottomY" : 641.5201,
+      "rightX" : 504.5899,
+      "topY" : 631.5201,
+      "baseLineY" : 639.241,
+      "fontId" : 7,
+      "text" : "$1,500 "
+    }, {
+      "leftX" : 474.6,
+      "bottomY" : 652.0191,
+      "rightX" : 523.2441,
+      "topY" : 642.0191,
+      "baseLineY" : 649.74,
+      "fontId" : 7,
+      "text" : "Subsequent "
+    }, {
+      "leftX" : 474.6,
+      "bottomY" : 662.5201,
+      "rightX" : 516.0528,
+      "topY" : 652.5201,
+      "baseLineY" : 660.241,
+      "fontId" : 7,
+      "text" : "Requests: "
+    }, {
+      "leftX" : 474.6,
+      "bottomY" : 673.0191,
+      "rightX" : 504.585,
+      "topY" : 663.0191,
+      "baseLineY" : 670.74,
+      "fontId" : 7,
+      "text" : "$2.500 "
+    }, {
+      "leftX" : 95.82,
+      "bottomY" : 684.2992,
+      "rightX" : 158.385,
+      "topY" : 674.2992,
+      "baseLineY" : 682.02,
+      "fontId" : 7,
+      "text" : "Reopening Fee "
+    }, {
+      "leftX" : 171.96,
+      "bottomY" : 684.2992,
+      "rightX" : 277.365,
+      "topY" : 674.2992,
+      "baseLineY" : 682.02,
+      "fontId" : 7,
+      "text" : "When the request is made "
+    }, {
+      "leftX" : 303.72,
+      "bottomY" : 684.2992,
+      "rightX" : 338.565,
+      "topY" : 674.2992,
+      "baseLineY" : 682.02,
+      "fontId" : 7,
+      "text" : "Flat Fee "
+    }, {
+      "leftX" : 401.34,
+      "bottomY" : 682.8833,
+      "rightX" : 403.335,
+      "topY" : 674.8833,
+      "baseLineY" : 681.06,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 474.6,
+      "bottomY" : 684.2992,
+      "rightX" : 504.585,
+      "topY" : 674.2992,
+      "baseLineY" : 682.02,
+      "fontId" : 7,
+      "text" : "$3,500 "
+    }, {
+      "leftX" : 95.82,
+      "bottomY" : 697.1391,
+      "rightX" : 142.905,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 7,
+      "text" : "Transfer of "
+    }, {
+      "leftX" : 95.82,
+      "bottomY" : 707.6391,
+      "rightX" : 159.105,
+      "topY" : 697.6391,
+      "baseLineY" : 705.36,
+      "fontId" : 7,
+      "text" : "Ownership Fee "
+    }, {
+      "leftX" : 171.96,
+      "bottomY" : 697.1391,
+      "rightX" : 277.365,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 7,
+      "text" : "When the request is made "
+    }, {
+      "leftX" : 303.72,
+      "bottomY" : 697.1391,
+      "rightX" : 338.565,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 7,
+      "text" : "Flat Fee "
+    }, {
+      "leftX" : 401.34,
+      "bottomY" : 698.5671,
+      "rightX" : 404.085,
+      "topY" : 687.5671,
+      "baseLineY" : 696.06,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 474.6,
+      "bottomY" : 697.1391,
+      "rightX" : 504.585,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 7,
+      "text" : "$1,500 "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 724.0312,
+      "rightX" : 85.35,
+      "topY" : 715.0312,
+      "baseLineY" : 721.98,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 298.02,
+      "bottomY" : 740.735,
+      "rightX" : 317.04,
+      "topY" : 728.735,
+      "baseLineY" : 738,
+      "fontId" : 1,
+      "text" : "6-1 "
+    }, {
+      "leftX" : 90.06,
+      "bottomY" : 754.7149,
+      "rightX" : 187.26,
+      "topY" : 742.7149,
+      "baseLineY" : 751.98,
+      "fontId" : 1,
+      "text" : "(02-23-12) PN 455 "
+    }, {
+      "leftX" : 89.1,
+      "bottomY" : 768.515,
+      "rightX" : 258.72,
+      "topY" : 756.515,
+      "baseLineY" : 765.78,
+      "fontId" : 1,
+      "text" : "Revised (04-04-22)  SPECIAL PN "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 93.4549,
+      "rightX" : 147.66,
+      "topY" : 81.4549,
+      "baseLineY" : 90.72,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 105.4192,
+      "rightX" : 85.605,
+      "topY" : 95.4192,
+      "baseLineY" : 103.14,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 119.4839,
+      "rightX" : 104.82,
+      "topY" : 107.4839,
+      "baseLineY" : 116.64,
+      "fontId" : 5,
+      "text" : "6.2"
+    }, {
+      "leftX" : 104.76,
+      "bottomY" : 119.7909,
+      "rightX" : 108.096,
+      "topY" : 107.7909,
+      "baseLineY" : 116.64,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 119.4839,
+      "rightX" : 421.5601,
+      "topY" : 107.4839,
+      "baseLineY" : 116.64,
+      "fontId" : 5,
+      "text" : "FEES ASSOCIATED WITH THE LOAN GUARANTEE "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 131.3099,
+      "rightX" : 85.485,
+      "topY" : 121.3099,
+      "baseLineY" : 128.94,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 145.055,
+      "rightX" : 483.84,
+      "topY" : 133.055,
+      "baseLineY" : 142.32,
+      "fontId" : 1,
+      "text" : "When fees are applicable, the lender pays all fees associated with the loan "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 158.855,
+      "rightX" : 485.94,
+      "topY" : 146.855,
+      "baseLineY" : 156.12,
+      "fontId" : 1,
+      "text" : "guarantee to the Agency. The initial guarantee fee is paid immediately prior to the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 172.6549,
+      "rightX" : 504.2999,
+      "topY" : 160.6549,
+      "baseLineY" : 169.92,
+      "fontId" : 1,
+      "text" : "issuance of a  loan note guarantee. If the fee is paid using Pay.gov, Treasury will debit "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 186.4549,
+      "rightX" : 476.34,
+      "topY" : 174.4549,
+      "baseLineY" : 183.72,
+      "fontId" : 1,
+      "text" : "the fee two business days from the time the loan closing is processed in GLS. A "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 200.2549,
+      "rightX" : 444,
+      "topY" : 188.2549,
+      "baseLineY" : 197.52,
+      "fontId" : 1,
+      "text" : "description of the fees and submission requirements are described below. "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 212.2191,
+      "rightX" : 85.605,
+      "topY" : 202.2191,
+      "baseLineY" : 209.94,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 226.2839,
+      "rightX" : 137.4399,
+      "topY" : 214.2839,
+      "baseLineY" : 223.44,
+      "fontId" : 5,
+      "text" : "A."
+    }, {
+      "leftX" : 137.46,
+      "bottomY" : 226.5908,
+      "rightX" : 140.7613,
+      "topY" : 214.5908,
+      "baseLineY" : 223.44,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 162.06,
+      "bottomY" : 226.2839,
+      "rightX" : 274.92,
+      "topY" : 214.2839,
+      "baseLineY" : 223.44,
+      "fontId" : 5,
+      "text" : "Initial Guarantee Fee "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 242.855,
+      "rightX" : 523.2598,
+      "topY" : 230.855,
+      "baseLineY" : 240.12,
+      "fontId" : 1,
+      "text" : "The initial guarantee fee is the non-refundable financing fee a lender must "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 256.7149,
+      "rightX" : 523.2599,
+      "topY" : 244.7149,
+      "baseLineY" : 253.98,
+      "fontId" : 1,
+      "text" : "pay to the Agency for the loan guarantee. The initial guarantee fee is a one-time "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 270.5149,
+      "rightX" : 523.2599,
+      "topY" : 258.5149,
+      "baseLineY" : 267.78,
+      "fontId" : 1,
+      "text" : "fee based on a percent of the guarantee amount. The initial guarantee fee must be "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 284.3149,
+      "rightX" : 460.68,
+      "topY" : 272.3149,
+      "baseLineY" : 281.58,
+      "fontId" : 1,
+      "text" : "paid to the Agency at  the time of issuance of the loan note guarantee. "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 296.2791,
+      "rightX" : 85.605,
+      "topY" : 286.2791,
+      "baseLineY" : 294,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 310.3439,
+      "rightX" : 136.8435,
+      "topY" : 298.3439,
+      "baseLineY" : 307.5,
+      "fontId" : 5,
+      "text" : "B."
+    }, {
+      "leftX" : 136.86,
+      "bottomY" : 310.6508,
+      "rightX" : 140.1613,
+      "topY" : 298.6508,
+      "baseLineY" : 307.5,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 162.06,
+      "bottomY" : 310.3439,
+      "rightX" : 281.34,
+      "topY" : 298.3439,
+      "baseLineY" : 307.5,
+      "fontId" : 5,
+      "text" : "Annual Guarantee Fee "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 333.875,
+      "rightX" : 508.98,
+      "topY" : 321.875,
+      "baseLineY" : 331.14,
+      "fontId" : 1,
+      "text" : "The annual guarantee fee is a non-refundable fee the lender must pay in "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 347.675,
+      "rightX" : 449.52,
+      "topY" : 335.675,
+      "baseLineY" : 344.94,
+      "fontId" : 1,
+      "text" : "advance for each year that the loan guarantee will remain in effect. "
+    }, {
+      "leftX" : 449.58,
+      "bottomY" : 347.7839,
+      "rightX" : 518.1,
+      "topY" : 335.7839,
+      "baseLineY" : 344.94,
+      "fontId" : 5,
+      "text" : "(Example: A "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 361.5839,
+      "rightX" : 502.6762,
+      "topY" : 349.5839,
+      "baseLineY" : 358.74,
+      "fontId" : 5,
+      "text" : "loan that closes on December 31, 2021 will incur the annual fee for 2022)."
+    }, {
+      "leftX" : 502.7362,
+      "bottomY" : 361.475,
+      "rightX" : 505.7362,
+      "topY" : 349.475,
+      "baseLineY" : 358.74,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 375.2749,
+      "rightX" : 523.38,
+      "topY" : 363.2749,
+      "baseLineY" : 372.54,
+      "fontId" : 1,
+      "text" : "The fee is calculated as of December 31st and it is due to the Agency no later than "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 389.0749,
+      "rightX" : 518.52,
+      "topY" : 377.0749,
+      "baseLineY" : 386.34,
+      "fontId" : 1,
+      "text" : "February 28th. The lender pays an annual guarantee fee based on a percent of the "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 402.8749,
+      "rightX" : 399.42,
+      "topY" : 390.8749,
+      "baseLineY" : 400.14,
+      "fontId" : 1,
+      "text" : "outstanding total principal amount of the loan each year. "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 413.2529,
+      "rightX" : 85.23,
+      "topY" : 404.2529,
+      "baseLineY" : 411.12,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 314.88,
+      "bottomY" : 422.5499,
+      "rightX" : 364.665,
+      "topY" : 412.5499,
+      "baseLineY" : 420.18,
+      "fontId" : 8,
+      "text" : "Exhibit 6-2 "
+    }, {
+      "leftX" : 264.48,
+      "bottomY" : 439.9499,
+      "rightX" : 415.251,
+      "topY" : 429.9499,
+      "baseLineY" : 437.58,
+      "fontId" : 8,
+      "text" : "Initial and Annual Guarantee Fees "
+    }, {
+      "leftX" : 160.74,
+      "bottomY" : 450.6283,
+      "rightX" : 444.885,
+      "topY" : 440.6283,
+      "baseLineY" : 448.32,
+      "fontId" : 9,
+      "text" : "(unless a different fee has been announced in a Notice published in the "
+    }, {
+      "leftX" : 444.72,
+      "bottomY" : 450.6128,
+      "rightX" : 518.865,
+      "topY" : 440.6128,
+      "baseLineY" : 448.32,
+      "fontId" : 10,
+      "text" : "Federal Register) "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 466.247,
+      "rightX" : 121.065,
+      "topY" : 455.247,
+      "baseLineY" : 463.74,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 292.8,
+      "bottomY" : 466.247,
+      "rightX" : 388.365,
+      "topY" : 455.247,
+      "baseLineY" : 463.74,
+      "fontId" : 11,
+      "text" : "Initial Guarantee Fee "
+    }, {
+      "leftX" : 432.78,
+      "bottomY" : 466.247,
+      "rightX" : 534.465,
+      "topY" : 455.247,
+      "baseLineY" : 463.74,
+      "fontId" : 11,
+      "text" : "Annual Guarantee Fee "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 479.3871,
+      "rightX" : 121.065,
+      "topY" : 468.3871,
+      "baseLineY" : 476.88,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 339.18,
+      "bottomY" : 479.3871,
+      "rightX" : 341.925,
+      "topY" : 468.3871,
+      "baseLineY" : 476.88,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 482.22,
+      "bottomY" : 479.3871,
+      "rightX" : 484.965,
+      "topY" : 468.3871,
+      "baseLineY" : 476.88,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 492.527,
+      "rightX" : 221.865,
+      "topY" : 481.527,
+      "baseLineY" : 490.02,
+      "fontId" : 11,
+      "text" : "Standard Fee Structure "
+    }, {
+      "leftX" : 324.96,
+      "bottomY" : 492.527,
+      "rightX" : 356.145,
+      "topY" : 481.527,
+      "baseLineY" : 490.02,
+      "fontId" : 11,
+      "text" : "0.65% "
+    }, {
+      "leftX" : 468,
+      "bottomY" : 492.527,
+      "rightX" : 499.185,
+      "topY" : 481.527,
+      "baseLineY" : 490.02,
+      "fontId" : 11,
+      "text" : "0.35% "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 505.7271,
+      "rightX" : 121.065,
+      "topY" : 494.7271,
+      "baseLineY" : 503.22,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 339.18,
+      "bottomY" : 505.7271,
+      "rightX" : 341.925,
+      "topY" : 494.7271,
+      "baseLineY" : 503.22,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 482.22,
+      "bottomY" : 505.7271,
+      "rightX" : 484.965,
+      "topY" : 494.7271,
+      "baseLineY" : 503.22,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 518.867,
+      "rightX" : 244.7302,
+      "topY" : 507.867,
+      "baseLineY" : 516.36,
+      "fontId" : 11,
+      "text" : "Workforce Housing – Rents "
+    }, {
+      "leftX" : 324.96,
+      "bottomY" : 518.867,
+      "rightX" : 356.145,
+      "topY" : 507.867,
+      "baseLineY" : 516.36,
+      "fontId" : 11,
+      "text" : "0.60% "
+    }, {
+      "leftX" : 468,
+      "bottomY" : 518.867,
+      "rightX" : 499.185,
+      "topY" : 507.867,
+      "baseLineY" : 516.36,
+      "fontId" : 11,
+      "text" : "0.25% "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 531.5271,
+      "rightX" : 236.865,
+      "topY" : 520.5271,
+      "baseLineY" : 529.02,
+      "fontId" : 11,
+      "text" : "between 80% -115% AMI "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 544.6671,
+      "rightX" : 121.065,
+      "topY" : 533.6671,
+      "baseLineY" : 542.16,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 339.18,
+      "bottomY" : 544.6671,
+      "rightX" : 341.925,
+      "topY" : 533.6671,
+      "baseLineY" : 542.16,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 482.22,
+      "bottomY" : 544.6671,
+      "rightX" : 484.965,
+      "topY" : 533.6671,
+      "baseLineY" : 542.16,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 557.807,
+      "rightX" : 263.0901,
+      "topY" : 546.807,
+      "baseLineY" : 555.3,
+      "fontId" : 11,
+      "text" : "Preservation of Existing Section "
+    }, {
+      "leftX" : 324.96,
+      "bottomY" : 557.807,
+      "rightX" : 356.145,
+      "topY" : 546.807,
+      "baseLineY" : 555.3,
+      "fontId" : 11,
+      "text" : "0.60% "
+    }, {
+      "leftX" : 468,
+      "bottomY" : 557.807,
+      "rightX" : 499.185,
+      "topY" : 546.807,
+      "baseLineY" : 555.3,
+      "fontId" : 11,
+      "text" : "0.25% "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 570.4671,
+      "rightX" : 206.2928,
+      "topY" : 559.4671,
+      "baseLineY" : 567.96,
+      "fontId" : 11,
+      "text" : "515, 514/516 Rural "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 583.0671,
+      "rightX" : 230.445,
+      "topY" : 572.0671,
+      "baseLineY" : 580.56,
+      "fontId" : 11,
+      "text" : "Development Properties  "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 596.2671,
+      "rightX" : 121.065,
+      "topY" : 585.2671,
+      "baseLineY" : 593.76,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 339.18,
+      "bottomY" : 596.2671,
+      "rightX" : 341.925,
+      "topY" : 585.2671,
+      "baseLineY" : 593.76,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 482.22,
+      "bottomY" : 596.2671,
+      "rightX" : 484.965,
+      "topY" : 585.2671,
+      "baseLineY" : 593.76,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 609.4071,
+      "rightX" : 196.7929,
+      "topY" : 598.4071,
+      "baseLineY" : 606.9,
+      "fontId" : 11,
+      "text" : "Section 538 New "
+    }, {
+      "leftX" : 324.96,
+      "bottomY" : 609.4071,
+      "rightX" : 356.145,
+      "topY" : 598.4071,
+      "baseLineY" : 606.9,
+      "fontId" : 11,
+      "text" : "0.60% "
+    }, {
+      "leftX" : 468,
+      "bottomY" : 609.4071,
+      "rightX" : 499.185,
+      "topY" : 598.4071,
+      "baseLineY" : 606.9,
+      "fontId" : 11,
+      "text" : "0.25% "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 622.0671,
+      "rightX" : 260.7108,
+      "topY" : 611.0671,
+      "baseLineY" : 619.56,
+      "fontId" : 11,
+      "text" : "Construction/Substantial Rehab "
+    }, {
+      "leftX" : 118.32,
+      "bottomY" : 634.6721,
+      "rightX" : 158.924,
+      "topY" : 623.6721,
+      "baseLineY" : 632.165,
+      "fontId" : 11,
+      "text" : "w/Green "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 654.2992,
+      "rightX" : 85.605,
+      "topY" : 644.2992,
+      "baseLineY" : 652.02,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 668.4239,
+      "rightX" : 137.4399,
+      "topY" : 656.4239,
+      "baseLineY" : 665.58,
+      "fontId" : 5,
+      "text" : "C."
+    }, {
+      "leftX" : 137.46,
+      "bottomY" : 668.7309,
+      "rightX" : 140.7613,
+      "topY" : 656.7309,
+      "baseLineY" : 665.58,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 162.06,
+      "bottomY" : 668.4239,
+      "rightX" : 437.22,
+      "topY" : 656.4239,
+      "baseLineY" : 665.58,
+      "fontId" : 5,
+      "text" : "Surcharge for Guarantees on Construction Advances "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 692.015,
+      "rightX" : 513.3,
+      "topY" : 680.015,
+      "baseLineY" : 689.28,
+      "fontId" : 1,
+      "text" : "If a surcharge will be assessed, it will be announced in a Notice published in the "
+    }, {
+      "leftX" : 513.3,
+      "bottomY" : 692.124,
+      "rightX" : 555.6,
+      "topY" : 680.124,
+      "baseLineY" : 689.28,
+      "fontId" : 5,
+      "text" : "Federal "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 705.9239,
+      "rightX" : 171.72,
+      "topY" : 693.9239,
+      "baseLineY" : 703.08,
+      "fontId" : 5,
+      "text" : "Register."
+    }, {
+      "leftX" : 171.66,
+      "bottomY" : 705.45,
+      "rightX" : 174.165,
+      "topY" : 695.45,
+      "baseLineY" : 703.08,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 720.095,
+      "rightX" : 85.98,
+      "topY" : 708.095,
+      "baseLineY" : 717.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 728.1717,
+      "rightX" : 84.105,
+      "topY" : 724.1717,
+      "baseLineY" : 727.26,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 298.02,
+      "bottomY" : 746.675,
+      "rightX" : 317.04,
+      "topY" : 734.675,
+      "baseLineY" : 743.94,
+      "fontId" : 1,
+      "text" : "6-2 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 467.4,
+      "bottomY" : 85.7149,
+      "rightX" : 525.0599,
+      "topY" : 73.7149,
+      "baseLineY" : 82.98,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 97.7392,
+      "rightX" : 85.605,
+      "topY" : 87.7392,
+      "baseLineY" : 95.46,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 116.8919,
+      "rightX" : 86.985,
+      "topY" : 100.8919,
+      "baseLineY" : 113.1,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 89.94,
+      "bottomY" : 130.6439,
+      "rightX" : 104.82,
+      "topY" : 118.6439,
+      "baseLineY" : 127.8,
+      "fontId" : 5,
+      "text" : "6.3"
+    }, {
+      "leftX" : 104.76,
+      "bottomY" : 130.9508,
+      "rightX" : 108.096,
+      "topY" : 118.9508,
+      "baseLineY" : 127.8,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 130.6439,
+      "rightX" : 294.36,
+      "topY" : 118.6439,
+      "baseLineY" : 127.8,
+      "fontId" : 5,
+      "text" : "ADDITIONAL AGENCY FEES "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 154.235,
+      "rightX" : 522.54,
+      "topY" : 142.235,
+      "baseLineY" : 151.5,
+      "fontId" : 1,
+      "text" : "There are other fees that may be incurred by the lender or borrower during the life "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 168.035,
+      "rightX" : 485.52,
+      "topY" : 156.035,
+      "baseLineY" : 165.3,
+      "fontId" : 1,
+      "text" : "of the guarantee. The following is a list of fees and times when these fees are due. "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 180.0592,
+      "rightX" : 85.485,
+      "topY" : 170.0592,
+      "baseLineY" : 177.78,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 194.0039,
+      "rightX" : 137.4399,
+      "topY" : 182.0039,
+      "baseLineY" : 191.16,
+      "fontId" : 5,
+      "text" : "A."
+    }, {
+      "leftX" : 137.46,
+      "bottomY" : 194.3108,
+      "rightX" : 140.7613,
+      "topY" : 182.3108,
+      "baseLineY" : 191.16,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 162.06,
+      "bottomY" : 194.0039,
+      "rightX" : 245.88,
+      "topY" : 182.0039,
+      "baseLineY" : 191.16,
+      "fontId" : 5,
+      "text" : "Application Fee "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 217.595,
+      "rightX" : 481.5,
+      "topY" : 205.595,
+      "baseLineY" : 214.86,
+      "fontId" : 1,
+      "text" : "When fees are applicable, the Agency will charge the lender a flat "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 231.3949,
+      "rightX" : 489.24,
+      "topY" : 219.3949,
+      "baseLineY" : 228.66,
+      "fontId" : 1,
+      "text" : "application fee. The fee will be used to help defray the administrative costs "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 245.1949,
+      "rightX" : 513.6,
+      "topY" : 233.1949,
+      "baseLineY" : 242.46,
+      "fontId" : 1,
+      "text" : "associated with processing the application. This non-refundable fee is to be paid "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 258.9949,
+      "rightX" : 521.58,
+      "topY" : 246.9949,
+      "baseLineY" : 256.2599,
+      "fontId" : 1,
+      "text" : "when the application is submitted. If a fee is applicable, an application will not be "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 272.7349,
+      "rightX" : 367.14,
+      "topY" : 260.7349,
+      "baseLineY" : 269.9999,
+      "fontId" : 1,
+      "text" : "processed until the fee is received by the Agency. "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 284.6992,
+      "rightX" : 85.605,
+      "topY" : 274.6992,
+      "baseLineY" : 282.42,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 125.88,
+      "bottomY" : 298.8239,
+      "rightX" : 136.7835,
+      "topY" : 286.8239,
+      "baseLineY" : 295.98,
+      "fontId" : 5,
+      "text" : "B."
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 299.1308,
+      "rightX" : 140.1013,
+      "topY" : 287.1308,
+      "baseLineY" : 295.98,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 298.8239,
+      "rightX" : 320.58,
+      "topY" : 286.8239,
+      "baseLineY" : 295.98,
+      "fontId" : 5,
+      "text" : "Extension and Reopening Fees "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 303.948,
+      "rightX" : 84.105,
+      "topY" : 299.948,
+      "baseLineY" : 303,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 161.94,
+      "bottomY" : 322.415,
+      "rightX" : 508.14,
+      "topY" : 310.415,
+      "baseLineY" : 319.68,
+      "fontId" : 1,
+      "text" : "The Agency may charge the lender a flat fee for a term extension of the "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 336.2149,
+      "rightX" : 521.28,
+      "topY" : 324.2149,
+      "baseLineY" : 333.48,
+      "fontId" : 1,
+      "text" : "Agency commitment. The fee is due at the time the request for the term extension "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 350.0149,
+      "rightX" : 513.84,
+      "topY" : 338.0149,
+      "baseLineY" : 347.28,
+      "fontId" : 1,
+      "text" : "is made. This non-refundable fee will cover administrative costs associated with "
+    }, {
+      "leftX" : 125.9399,
+      "bottomY" : 363.8149,
+      "rightX" : 370.2,
+      "topY" : 351.8149,
+      "baseLineY" : 361.08,
+      "fontId" : 1,
+      "text" : "the process of extending the Agency commitment. "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 387.5749,
+      "rightX" : 514.68,
+      "topY" : 375.5749,
+      "baseLineY" : 384.84,
+      "fontId" : 1,
+      "text" : "If the Agency commitment expires and the Agency decides to reopen the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 401.3749,
+      "rightX" : 499.2,
+      "topY" : 389.3749,
+      "baseLineY" : 398.64,
+      "fontId" : 1,
+      "text" : "commitment, the lender must pay a flat fee for each reopening at the time the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 415.1749,
+      "rightX" : 501.6573,
+      "topY" : 403.1749,
+      "baseLineY" : 412.4399,
+      "fontId" : 1,
+      "text" : "request is made. This non-refundable fee is used to cover administrative costs "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 428.9749,
+      "rightX" : 378.18,
+      "topY" : 416.9749,
+      "baseLineY" : 426.2399,
+      "fontId" : 1,
+      "text" : "associated with reopening the Agency commitment. "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 440.9391,
+      "rightX" : 85.605,
+      "topY" : 430.9391,
+      "baseLineY" : 438.66,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 455.0039,
+      "rightX" : 137.4399,
+      "topY" : 443.0039,
+      "baseLineY" : 452.16,
+      "fontId" : 5,
+      "text" : "C."
+    }, {
+      "leftX" : 137.46,
+      "bottomY" : 455.3108,
+      "rightX" : 140.7613,
+      "topY" : 443.3108,
+      "baseLineY" : 452.16,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 455.0039,
+      "rightX" : 303.84,
+      "topY" : 443.0039,
+      "baseLineY" : 452.16,
+      "fontId" : 5,
+      "text" : "Transfer of Ownership Fee "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 478.595,
+      "rightX" : 514.5573,
+      "topY" : 466.595,
+      "baseLineY" : 475.86,
+      "fontId" : 1,
+      "text" : "The Agency may charge the lender a transfer fee for administrative costs "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 492.395,
+      "rightX" : 500.22,
+      "topY" : 480.395,
+      "baseLineY" : 489.66,
+      "fontId" : 1,
+      "text" : "associated with the transfer of the property from one owner to another one. A "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 506.195,
+      "rightX" : 505.92,
+      "topY" : 494.195,
+      "baseLineY" : 503.46,
+      "fontId" : 1,
+      "text" : "non-refundable fee will be collected at the time a transfer request is submitted. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 519.995,
+      "rightX" : 515.5801,
+      "topY" : 507.995,
+      "baseLineY" : 517.26,
+      "fontId" : 1,
+      "text" : "The Agency fee will be in addition to any fee the lender may charge to cover the "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 533.7949,
+      "rightX" : 440.1001,
+      "topY" : 521.7949,
+      "baseLineY" : 531.0599,
+      "fontId" : 1,
+      "text" : "lender's administrative costs associated with the transfer process. "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 545.2191,
+      "rightX" : 85.485,
+      "topY" : 535.2191,
+      "baseLineY" : 542.94,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 556.7422,
+      "rightX" : 85.485,
+      "topY" : 546.7422,
+      "baseLineY" : 554.463,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 568.2651,
+      "rightX" : 85.485,
+      "topY" : 558.2651,
+      "baseLineY" : 565.986,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 579.728,
+      "rightX" : 85.485,
+      "topY" : 569.728,
+      "baseLineY" : 577.4489,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 591.251,
+      "rightX" : 85.485,
+      "topY" : 581.251,
+      "baseLineY" : 588.9719,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 602.7139,
+      "rightX" : 85.485,
+      "topY" : 592.7139,
+      "baseLineY" : 600.4348,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 614.2369,
+      "rightX" : 85.485,
+      "topY" : 604.2369,
+      "baseLineY" : 611.9578,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 625.7599,
+      "rightX" : 85.485,
+      "topY" : 615.7599,
+      "baseLineY" : 623.4807,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 637.2227,
+      "rightX" : 85.485,
+      "topY" : 627.2227,
+      "baseLineY" : 634.9436,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 648.7458,
+      "rightX" : 85.485,
+      "topY" : 638.7458,
+      "baseLineY" : 646.4666,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 660.2688,
+      "rightX" : 85.485,
+      "topY" : 650.2688,
+      "baseLineY" : 657.9896,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 671.7316,
+      "rightX" : 85.485,
+      "topY" : 661.7316,
+      "baseLineY" : 669.4525,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 683.2546,
+      "rightX" : 85.485,
+      "topY" : 673.2546,
+      "baseLineY" : 680.9755,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 694.7776,
+      "rightX" : 85.485,
+      "topY" : 684.7776,
+      "baseLineY" : 692.4985,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 82.98,
+      "bottomY" : 705.7312,
+      "rightX" : 85.35,
+      "topY" : 696.7312,
+      "baseLineY" : 703.68,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 298.02,
+      "bottomY" : 722.135,
+      "rightX" : 317.04,
+      "topY" : 710.135,
+      "baseLineY" : 719.4,
+      "fontId" : 1,
+      "text" : "6-3 "
+    }, {
+      "leftX" : 87,
+      "bottomY" : 736.055,
+      "rightX" : 184.2,
+      "topY" : 724.055,
+      "baseLineY" : 733.32,
+      "fontId" : 1,
+      "text" : "(02-23-12) PN 455 "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 749.855,
+      "rightX" : 257.1,
+      "topY" : 737.855,
+      "baseLineY" : 747.12,
+      "fontId" : 1,
+      "text" : "Revised (04-04-22)  SPECIAL PN "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 10.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 10.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 4.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 16.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 15,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 4.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

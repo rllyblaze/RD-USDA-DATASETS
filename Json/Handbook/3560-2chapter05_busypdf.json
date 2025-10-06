@@ -1,0 +1,3379 @@
+{
+  "pdfDoc" : "3560-2chapter05.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4958,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 123.6,
+      "bottomY" : 96.2579,
+      "rightX" : 452.6612,
+      "topY" : 82.2579,
+      "baseLineY" : 92.94,
+      "fontId" : 2,
+      "text" : "CHAPTER 5:  PROJECT PHYSICAL CONDITIONS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 117.575,
+      "rightX" : 111,
+      "topY" : 105.575,
+      "baseLineY" : 114.84,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 143.4839,
+      "rightX" : 96,
+      "topY" : 131.4839,
+      "baseLineY" : 140.64,
+      "fontId" : 4,
+      "text" : "5.1   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 143.4839,
+      "rightX" : 207,
+      "topY" : 131.4839,
+      "baseLineY" : 140.64,
+      "fontId" : 4,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 175.175,
+      "rightX" : 524.9373,
+      "topY" : 163.175,
+      "baseLineY" : 172.44,
+      "fontId" : 3,
+      "text" : "The existing portfolio of multi-family housing projects constitutes a major asset of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 188.975,
+      "rightX" : 535.2598,
+      "topY" : 176.975,
+      "baseLineY" : 186.24,
+      "fontId" : 3,
+      "text" : "Government and the Agency, but the value of this asset depends upon the quality of its upkeep.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 202.7749,
+      "rightX" : 537.2397,
+      "topY" : 190.7749,
+      "baseLineY" : 200.04,
+      "fontId" : 3,
+      "text" : "This chapter describes the responsibilities of borrowers to maintain the physical condition of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 216.5749,
+      "rightX" : 541.8597,
+      "topY" : 204.5749,
+      "baseLineY" : 213.84,
+      "fontId" : 3,
+      "text" : "project and of the Agency to exercise appropriate oversight of these responsibilities.  The chapter "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 230.3749,
+      "rightX" : 527.6397,
+      "topY" : 218.3749,
+      "baseLineY" : 227.64,
+      "fontId" : 3,
+      "text" : "describes the components of adequate physical maintenance, the role of the management plan, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 244.1749,
+      "rightX" : 360.24,
+      "topY" : 232.1749,
+      "baseLineY" : 241.4399,
+      "fontId" : 3,
+      "text" : "and the performance of a physical inspection of the project. "
+    }, {
+      "leftX" : 120,
+      "bottomY" : 266.4179,
+      "rightX" : 384.531,
+      "topY" : 252.4179,
+      "baseLineY" : 263.1,
+      "fontId" : 2,
+      "text" : "SECTION 1:  PROJECT MAINTENANCE "
+    }, {
+      "leftX" : 384.517,
+      "bottomY" : 266.3098,
+      "rightX" : 491.9924,
+      "topY" : 252.3098,
+      "baseLineY" : 263.1,
+      "fontId" : 5,
+      "text" : "[7 CFR 3560. 103]"
+    }, {
+      "leftX" : 491.9938,
+      "bottomY" : 266.4179,
+      "rightX" : 495.4888,
+      "topY" : 252.4179,
+      "baseLineY" : 263.1,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 286.2239,
+      "rightX" : 96,
+      "topY" : 274.2239,
+      "baseLineY" : 283.38,
+      "fontId" : 4,
+      "text" : "5.2   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 286.2239,
+      "rightX" : 166.98,
+      "topY" : 274.2239,
+      "baseLineY" : 283.38,
+      "fontId" : 4,
+      "text" : "PURPOSE "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 311.915,
+      "rightX" : 528.1761,
+      "topY" : 299.915,
+      "baseLineY" : 309.18,
+      "fontId" : 3,
+      "text" : "The Agency has issued performance standards that describe the physical condition of a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 325.7149,
+      "rightX" : 540.1798,
+      "topY" : 313.7149,
+      "baseLineY" : 322.98,
+      "fontId" : 3,
+      "text" : "properly managed project.  The Agency’s interest in protecting the physical condition of projects "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 339.5149,
+      "rightX" : 212.28,
+      "topY" : 327.5149,
+      "baseLineY" : 336.78,
+      "fontId" : 3,
+      "text" : "that it has financed includes: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.5751,
+      "rightX" : 113.52,
+      "topY" : 353.5751,
+      "baseLineY" : 363.42,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 366.2771,
+      "rightX" : 116.856,
+      "topY" : 354.2771,
+      "baseLineY" : 363.42,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 366.1549,
+      "rightX" : 477.9,
+      "topY" : 354.1549,
+      "baseLineY" : 363.42,
+      "fontId" : 3,
+      "text" : "Providing decent, safe, and sanitary affordable housing to the occupants; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 392.2151,
+      "rightX" : 113.52,
+      "topY" : 380.2151,
+      "baseLineY" : 390.06,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 392.9171,
+      "rightX" : 116.856,
+      "topY" : 380.9171,
+      "baseLineY" : 390.06,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 392.795,
+      "rightX" : 416.28,
+      "topY" : 380.795,
+      "baseLineY" : 390.06,
+      "fontId" : 3,
+      "text" : "Protecting and enhancing the security of its investment; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 418.8551,
+      "rightX" : 113.52,
+      "topY" : 406.8551,
+      "baseLineY" : 416.7,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 419.5572,
+      "rightX" : 116.856,
+      "topY" : 407.5572,
+      "baseLineY" : 416.7,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 419.435,
+      "rightX" : 423.9,
+      "topY" : 407.435,
+      "baseLineY" : 416.7,
+      "fontId" : 3,
+      "text" : "Assuring compliance with all applicable State and local laws. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 445.4039,
+      "rightX" : 96,
+      "topY" : 433.4039,
+      "baseLineY" : 442.56,
+      "fontId" : 4,
+      "text" : "5.3   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 445.4039,
+      "rightX" : 494.6403,
+      "topY" : 433.4039,
+      "baseLineY" : 442.56,
+      "fontId" : 4,
+      "text" : "MAINTENANCE REQUIREMENTS AND STANDARDS OF PHYSICAL "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 459.2039,
+      "rightX" : 188.34,
+      "topY" : 447.2039,
+      "baseLineY" : 456.36,
+      "fontId" : 4,
+      "text" : "CONDITIONS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 485.0039,
+      "rightX" : 298.98,
+      "topY" : 473.0039,
+      "baseLineY" : 482.16,
+      "fontId" : 4,
+      "text" : "A.  Standards of Physical Conditions "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 510.6349,
+      "rightX" : 504.2374,
+      "topY" : 498.6349,
+      "baseLineY" : 507.9,
+      "fontId" : 3,
+      "text" : "Borrowers are responsible for the long-term, cost-effective preservation of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 524.4349,
+      "rightX" : 524.6998,
+      "topY" : 512.4349,
+      "baseLineY" : 521.7,
+      "fontId" : 3,
+      "text" : "housing project.  The Agency has specified two types of requirements borrowers must "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 538.2349,
+      "rightX" : 137.64,
+      "topY" : 526.2349,
+      "baseLineY" : 535.4999,
+      "fontId" : 3,
+      "text" : "meet: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 564.2951,
+      "rightX" : 113.52,
+      "topY" : 552.2951,
+      "baseLineY" : 562.14,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 564.9971,
+      "rightX" : 116.856,
+      "topY" : 552.9971,
+      "baseLineY" : 562.14,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 564.8749,
+      "rightX" : 333.3,
+      "topY" : 552.8749,
+      "baseLineY" : 562.14,
+      "fontId" : 3,
+      "text" : "Performance standards for the project; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 590.9951,
+      "rightX" : 113.52,
+      "topY" : 578.9951,
+      "baseLineY" : 588.84,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 591.6971,
+      "rightX" : 116.856,
+      "topY" : 579.6971,
+      "baseLineY" : 588.84,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 591.5749,
+      "rightX" : 475.5598,
+      "topY" : 579.5749,
+      "baseLineY" : 588.84,
+      "fontId" : 3,
+      "text" : "Procedures and systems that property managers must design and follow. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 617.4839,
+      "rightX" : 250.32,
+      "topY" : 605.4839,
+      "baseLineY" : 614.64,
+      "fontId" : 4,
+      "text" : "B.  Performance Standards "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 643.1749,
+      "rightX" : 510.5998,
+      "topY" : 631.1749,
+      "baseLineY" : 640.4399,
+      "fontId" : 3,
+      "text" : "The regulations in 7 CFR 3560.103(a)(3) specify the performance standards for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 656.9749,
+      "rightX" : 499.6198,
+      "topY" : 644.9749,
+      "baseLineY" : 654.2399,
+      "fontId" : 3,
+      "text" : "meeting acceptable physical conditions.  The performance standards describe the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 670.7749,
+      "rightX" : 502.5549,
+      "topY" : 658.7749,
+      "baseLineY" : 668.0399,
+      "fontId" : 3,
+      "text" : "characteristics the Agency expects to see in a particular component or system, for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 684.5749,
+      "rightX" : 154.98,
+      "topY" : 672.5749,
+      "baseLineY" : 681.84,
+      "fontId" : 3,
+      "text" : "example: "
+    }, {
+      "leftX" : 297.06,
+      "bottomY" : 754.7992,
+      "rightX" : 312.8816,
+      "topY" : 744.7992,
+      "baseLineY" : 752.52,
+      "fontId" : 1,
+      "text" : "5-1 "
+    }, {
+      "leftX" : 76.92,
+      "bottomY" : 766.3191,
+      "rightX" : 158.0159,
+      "topY" : 756.3191,
+      "baseLineY" : 764.04,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619 "
+    }, {
+      "leftX" : 530.5054,
+      "bottomY" : 777.8421,
+      "rightX" : 535.5354,
+      "topY" : 767.8421,
+      "baseLineY" : 775.563,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 85.9549,
+      "rightX" : 488.9398,
+      "topY" : 73.9549,
+      "baseLineY" : 83.22,
+      "fontId" : 3,
+      "text" : "“The housing project must have a foundation that is free of evidence of "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 99.7549,
+      "rightX" : 471.2998,
+      "topY" : 87.7549,
+      "baseLineY" : 97.02,
+      "fontId" : 3,
+      "text" : "structural failure, such as uneven settlement indicated by horizontal "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 113.5549,
+      "rightX" : 502.3245,
+      "topY" : 101.5549,
+      "baseLineY" : 110.8199,
+      "fontId" : 3,
+      "text" : "cracks or severe bowing of the foundation wall.  Structural members must "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 127.3549,
+      "rightX" : 410.22,
+      "topY" : 115.3549,
+      "baseLineY" : 124.6199,
+      "fontId" : 3,
+      "text" : "not have evidence of rot or insect or rodent infestation. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 153.1549,
+      "rightX" : 470.5762,
+      "topY" : 141.1549,
+      "baseLineY" : 150.4199,
+      "fontId" : 3,
+      "text" : "The housing project must have a roof that is free of leaks, defective "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 166.9549,
+      "rightX" : 455.9999,
+      "topY" : 154.9549,
+      "baseLineY" : 164.2199,
+      "fontId" : 3,
+      "text" : "covering, curled or missing shingles and which is not sagging or "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 180.7549,
+      "rightX" : 197.34,
+      "topY" : 168.7549,
+      "baseLineY" : 178.0199,
+      "fontId" : 3,
+      "text" : "buckling.” "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 206.5549,
+      "rightX" : 538.5598,
+      "topY" : 194.5549,
+      "baseLineY" : 203.8199,
+      "fontId" : 3,
+      "text" : "The performance standards have been incorporated into a physical inspection form to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 220.3548,
+      "rightX" : 533.5798,
+      "topY" : 208.3548,
+      "baseLineY" : 217.6199,
+      "fontId" : 3,
+      "text" : "be completed by Agency staff during a site visit.  They also have been incorporated into "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 234.1548,
+      "rightX" : 478.92,
+      "topY" : 222.1548,
+      "baseLineY" : 231.4199,
+      "fontId" : 3,
+      "text" : "the certifications that accompany the management agreement for the project. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 259.9548,
+      "rightX" : 387.48,
+      "topY" : 247.9548,
+      "baseLineY" : 257.2198,
+      "fontId" : 3,
+      "text" : "The standards include the following major categories: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 286.015,
+      "rightX" : 113.52,
+      "topY" : 274.015,
+      "baseLineY" : 283.8599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 286.717,
+      "rightX" : 116.856,
+      "topY" : 274.717,
+      "baseLineY" : 283.8599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 286.5948,
+      "rightX" : 429.96,
+      "topY" : 274.5948,
+      "baseLineY" : 283.8599,
+      "fontId" : 3,
+      "text" : "Standards that apply to the site on which the project is located; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 312.655,
+      "rightX" : 113.52,
+      "topY" : 300.655,
+      "baseLineY" : 310.4999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 313.357,
+      "rightX" : 116.856,
+      "topY" : 301.357,
+      "baseLineY" : 310.4999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 313.2348,
+      "rightX" : 530.6398,
+      "topY" : 301.2348,
+      "baseLineY" : 310.4999,
+      "fontId" : 3,
+      "text" : "Standards that apply to the exterior maintenance of the building and of the common "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 327.0348,
+      "rightX" : 159.96,
+      "topY" : 315.0348,
+      "baseLineY" : 324.2999,
+      "fontId" : 3,
+      "text" : "areas;  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 353.095,
+      "rightX" : 113.52,
+      "topY" : 341.095,
+      "baseLineY" : 350.9399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 353.797,
+      "rightX" : 116.856,
+      "topY" : 341.797,
+      "baseLineY" : 350.9399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 353.6748,
+      "rightX" : 456.24,
+      "topY" : 341.6748,
+      "baseLineY" : 350.9399,
+      "fontId" : 3,
+      "text" : "Standards that apply to the interior of the building or buildings; and  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 379.795,
+      "rightX" : 113.52,
+      "topY" : 367.795,
+      "baseLineY" : 377.6399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 380.497,
+      "rightX" : 116.856,
+      "topY" : 368.497,
+      "baseLineY" : 377.6399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 380.3749,
+      "rightX" : 460.92,
+      "topY" : 368.3749,
+      "baseLineY" : 377.6399,
+      "fontId" : 3,
+      "text" : "Standards that apply to common areas, such as hallways or elevators. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 406.2838,
+      "rightX" : 322.98,
+      "topY" : 394.2838,
+      "baseLineY" : 403.4399,
+      "fontId" : 4,
+      "text" : "C.  Maintenance Systems and Procedures "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 431.9748,
+      "rightX" : 529.2609,
+      "topY" : 419.9748,
+      "baseLineY" : 429.2399,
+      "fontId" : 3,
+      "text" : "Effective maintenance is partly the result of regular routines and partly the result of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 445.7748,
+      "rightX" : 540.5419,
+      "topY" : 433.7748,
+      "baseLineY" : 443.0399,
+      "fontId" : 3,
+      "text" : "promptly fixing small problems before they become major ones.  Proper maintenance has "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 459.5748,
+      "rightX" : 538.561,
+      "topY" : 447.5748,
+      "baseLineY" : 456.8398,
+      "fontId" : 3,
+      "text" : "a direct effect on the tenants’ perception of the quality of the housing project.  Therefore, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 473.3748,
+      "rightX" : 529.9773,
+      "topY" : 461.3748,
+      "baseLineY" : 470.6398,
+      "fontId" : 3,
+      "text" : "the Agency requires borrowers to institute a number of systems and procedures that the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 487.1748,
+      "rightX" : 505.981,
+      "topY" : 475.1748,
+      "baseLineY" : 484.4398,
+      "fontId" : 3,
+      "text" : "borrower must describe in the project’s management plan.  The requirements for a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 500.9748,
+      "rightX" : 327.96,
+      "topY" : 488.9748,
+      "baseLineY" : 498.2398,
+      "fontId" : 3,
+      "text" : "management plan are described in Chapter 3. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 526.7748,
+      "rightX" : 409.56,
+      "topY" : 514.7748,
+      "baseLineY" : 524.0398,
+      "fontId" : 3,
+      "text" : "Several systems are part of a sound management program: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 552.8349,
+      "rightX" : 113.52,
+      "topY" : 540.8349,
+      "baseLineY" : 550.6798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 553.537,
+      "rightX" : 116.856,
+      "topY" : 541.537,
+      "baseLineY" : 550.6798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 553.5237,
+      "rightX" : 251.9976,
+      "topY" : 541.5237,
+      "baseLineY" : 550.6798,
+      "fontId" : 4,
+      "text" : "Preventive maintenance."
+    }, {
+      "leftX" : 252,
+      "bottomY" : 553.4148,
+      "rightX" : 541.92,
+      "topY" : 541.4148,
+      "baseLineY" : 550.6798,
+      "fontId" : 3,
+      "text" : "  Most maintenance work can be predicted and scheduled— "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 567.2148,
+      "rightX" : 540.1774,
+      "topY" : 555.2148,
+      "baseLineY" : 564.4798,
+      "fontId" : 3,
+      "text" : "this is typically described as preventive maintenance.  The Agency requires managers "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 581.0148,
+      "rightX" : 502.6198,
+      "topY" : 569.0148,
+      "baseLineY" : 578.2798,
+      "fontId" : 3,
+      "text" : "to spell out procedures for scheduling routine tasks, such as garbage and trash "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 594.8148,
+      "rightX" : 540.4798,
+      "topY" : 582.8148,
+      "baseLineY" : 592.0798,
+      "fontId" : 3,
+      "text" : "removal, snow and ice removal, grounds upkeep, routine painting, and minor repairs.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 608.6148,
+      "rightX" : 542.5796,
+      "topY" : 596.6148,
+      "baseLineY" : 605.8798,
+      "fontId" : 3,
+      "text" : "Procedures are also required for the routine maintenance of equipment consistent with "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 622.4148,
+      "rightX" : 516.8997,
+      "topY" : 610.4148,
+      "baseLineY" : 619.6798,
+      "fontId" : 3,
+      "text" : "service information provided by the manufacturer—biweekly or monthly routine "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 636.2148,
+      "rightX" : 538.3796,
+      "topY" : 624.2148,
+      "baseLineY" : 633.4798,
+      "fontId" : 3,
+      "text" : "oiling, adjusting, replacement of filters, safety checks of alarms, and outside lighting, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 650.0148,
+      "rightX" : 145.98,
+      "topY" : 638.0148,
+      "baseLineY" : 647.2798,
+      "fontId" : 3,
+      "text" : "etc. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 676.0749,
+      "rightX" : 113.52,
+      "topY" : 664.0749,
+      "baseLineY" : 673.9198,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 676.7769,
+      "rightX" : 116.856,
+      "topY" : 664.7769,
+      "baseLineY" : 673.9198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 676.7637,
+      "rightX" : 215.7599,
+      "topY" : 664.7637,
+      "baseLineY" : 673.9198,
+      "fontId" : 4,
+      "text" : "Response to calls."
+    }, {
+      "leftX" : 215.76,
+      "bottomY" : 676.6548,
+      "rightX" : 501.2998,
+      "topY" : 664.6548,
+      "baseLineY" : 673.9198,
+      "fontId" : 3,
+      "text" : "  Good upkeep requires a speedy response to complaints or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 690.4548,
+      "rightX" : 506.8761,
+      "topY" : 678.4548,
+      "baseLineY" : 687.7198,
+      "fontId" : 3,
+      "text" : "unforeseen problems.  The Agency requires managers to establish a system for "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 704.2548,
+      "rightX" : 525.5998,
+      "topY" : 692.2548,
+      "baseLineY" : 701.5198,
+      "fontId" : 3,
+      "text" : "responding to tenant complaints or to unexpected malfunctions or damage, such as "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 718.0548,
+      "rightX" : 262.26,
+      "topY" : 706.0548,
+      "baseLineY" : 715.3198,
+      "fontId" : 3,
+      "text" : "leaks, broken windows, etc. "
+    }, {
+      "leftX" : 311.34,
+      "bottomY" : 775.9792,
+      "rightX" : 327.1616,
+      "topY" : 765.9792,
+      "baseLineY" : 773.7,
+      "fontId" : 1,
+      "text" : "5-2 "
+    }, {
+      "leftX" : 544.8,
+      "bottomY" : 799.4991,
+      "rightX" : 549.825,
+      "topY" : 789.4991,
+      "baseLineY" : 797.22,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4958,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.2151,
+      "rightX" : 113.52,
+      "topY" : 74.2151,
+      "baseLineY" : 84.06,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.9171,
+      "rightX" : 116.856,
+      "topY" : 74.9171,
+      "baseLineY" : 84.06,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.9039,
+      "rightX" : 195.36,
+      "topY" : 74.9039,
+      "baseLineY" : 84.06,
+      "fontId" : 4,
+      "text" : "Work orders."
+    }, {
+      "leftX" : 195.36,
+      "bottomY" : 86.795,
+      "rightX" : 529.6198,
+      "topY" : 74.795,
+      "baseLineY" : 84.06,
+      "fontId" : 3,
+      "text" : "  Managers must know what has happened from the time a complaint "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 100.595,
+      "rightX" : 508.8598,
+      "topY" : 88.595,
+      "baseLineY" : 97.86,
+      "fontId" : 3,
+      "text" : "has been received or a problem has been noted, to an inspection confirming the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 114.3949,
+      "rightX" : 533.52,
+      "topY" : 102.3949,
+      "baseLineY" : 111.66,
+      "fontId" : 3,
+      "text" : "condition has been corrected.  The Agency requires the project to have a work-order "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 128.1949,
+      "rightX" : 504.2349,
+      "topY" : 116.1949,
+      "baseLineY" : 125.46,
+      "fontId" : 3,
+      "text" : "system that tracks the date a complaint is received, the inspection to verify the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 141.9949,
+      "rightX" : 538.5585,
+      "topY" : 129.9949,
+      "baseLineY" : 139.2599,
+      "fontId" : 3,
+      "text" : "complaint, a report describing the required repair or corrective action, the assignment "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 155.7949,
+      "rightX" : 489.5998,
+      "topY" : 143.7949,
+      "baseLineY" : 153.0599,
+      "fontId" : 3,
+      "text" : "of the repair, the completion report, and final inspection noting satisfactory "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 169.5949,
+      "rightX" : 244.32,
+      "topY" : 157.5949,
+      "baseLineY" : 166.8599,
+      "fontId" : 3,
+      "text" : "completion of the work. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 195.655,
+      "rightX" : 113.52,
+      "topY" : 183.655,
+      "baseLineY" : 193.4999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 196.3571,
+      "rightX" : 116.856,
+      "topY" : 184.3571,
+      "baseLineY" : 193.4999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 196.3439,
+      "rightX" : 187.0788,
+      "topY" : 184.3439,
+      "baseLineY" : 193.4999,
+      "fontId" : 4,
+      "text" : "Inspections."
+    }, {
+      "leftX" : 187.02,
+      "bottomY" : 196.2349,
+      "rightX" : 521.3384,
+      "topY" : 184.2349,
+      "baseLineY" : 193.4999,
+      "fontId" : 3,
+      "text" : "  Frequent, regular inspections are a major component of an effective "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 210.0949,
+      "rightX" : 529.6197,
+      "topY" : 198.0949,
+      "baseLineY" : 207.3599,
+      "fontId" : 3,
+      "text" : "maintenance system.  The Agency requires management, at a minimum, to perform "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 223.8949,
+      "rightX" : 524.88,
+      "topY" : 211.8949,
+      "baseLineY" : 221.1599,
+      "fontId" : 3,
+      "text" : "an annual inspection of each occupied unit and to inspect each unit at move-in and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 237.6349,
+      "rightX" : 534.8988,
+      "topY" : 225.6349,
+      "baseLineY" : 234.8999,
+      "fontId" : 3,
+      "text" : "move-out.  Inspecting a unit with the tenant at move-in and move-out establishes the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 251.4349,
+      "rightX" : 517.2598,
+      "topY" : 239.4349,
+      "baseLineY" : 248.6999,
+      "fontId" : 3,
+      "text" : "condition of the unit at the time the tenant takes possession, and may help clarify "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 265.2348,
+      "rightX" : 526.2598,
+      "topY" : 253.2348,
+      "baseLineY" : 262.4999,
+      "fontId" : 3,
+      "text" : "responsibility for any damages that have occurred in the unit during the occupancy "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 279.0348,
+      "rightX" : 162.66,
+      "topY" : 267.0348,
+      "baseLineY" : 276.2999,
+      "fontId" : 3,
+      "text" : "period. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 305.095,
+      "rightX" : 113.52,
+      "topY" : 293.095,
+      "baseLineY" : 302.9399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 305.797,
+      "rightX" : 116.856,
+      "topY" : 293.797,
+      "baseLineY" : 302.9399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 305.7838,
+      "rightX" : 234.72,
+      "topY" : 293.7838,
+      "baseLineY" : 302.9399,
+      "fontId" : 4,
+      "text" : "Energy conservation."
+    }, {
+      "leftX" : 234.72,
+      "bottomY" : 305.6748,
+      "rightX" : 532.6197,
+      "topY" : 293.6748,
+      "baseLineY" : 302.9399,
+      "fontId" : 3,
+      "text" : "  Energy conservation efforts are an ongoing responsibility of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 319.5348,
+      "rightX" : 540.8961,
+      "topY" : 307.5348,
+      "baseLineY" : 316.7999,
+      "fontId" : 3,
+      "text" : "project management.  The Agency requires managers to establish effective systems to "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 333.3348,
+      "rightX" : 515.256,
+      "topY" : 321.3348,
+      "baseLineY" : 330.5999,
+      "fontId" : 3,
+      "text" : "reduce energy consumption.  These may include energy audits to determine cost-"
+    }, {
+      "leftX" : 126,
+      "bottomY" : 347.1348,
+      "rightX" : 529.2599,
+      "topY" : 335.1348,
+      "baseLineY" : 344.3998,
+      "fontId" : 3,
+      "text" : "effective techniques of energy conservation, energy-efficient lighting, water-saving "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 360.9348,
+      "rightX" : 505.1998,
+      "topY" : 348.9348,
+      "baseLineY" : 358.1998,
+      "fontId" : 3,
+      "text" : "fixtures, low-flow toilets, energy-efficient appliances, insulation, caulking and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 374.7348,
+      "rightX" : 542.1598,
+      "topY" : 362.7348,
+      "baseLineY" : 371.9998,
+      "fontId" : 3,
+      "text" : "weather-stripping, storm doors and windows, and regular cleaning and replacement of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 388.5348,
+      "rightX" : 264.66,
+      "topY" : 376.5348,
+      "baseLineY" : 385.7998,
+      "fontId" : 3,
+      "text" : "filters and other equipment.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 414.5949,
+      "rightX" : 113.52,
+      "topY" : 402.5949,
+      "baseLineY" : 412.4398,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 415.297,
+      "rightX" : 116.856,
+      "topY" : 403.297,
+      "baseLineY" : 412.4398,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 415.2837,
+      "rightX" : 213.36,
+      "topY" : 403.2837,
+      "baseLineY" : 412.4398,
+      "fontId" : 4,
+      "text" : "Tenant damages."
+    }, {
+      "leftX" : 213.36,
+      "bottomY" : 415.1748,
+      "rightX" : 506.2198,
+      "topY" : 403.1748,
+      "baseLineY" : 412.4398,
+      "fontId" : 3,
+      "text" : "  The Agency requires management to establish a policy and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 428.9748,
+      "rightX" : 533.162,
+      "topY" : 416.9748,
+      "baseLineY" : 426.2398,
+      "fontId" : 3,
+      "text" : "implement a system to obtain reimbursement for damage caused by the tenant to the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 442.7748,
+      "rightX" : 539.8199,
+      "topY" : 430.7748,
+      "baseLineY" : 440.0398,
+      "fontId" : 3,
+      "text" : "property beyond normal wear and tear.  The policy is to be stated in the tenant’s lease "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 456.5747,
+      "rightX" : 197.3387,
+      "topY" : 444.5747,
+      "baseLineY" : 453.8398,
+      "fontId" : 3,
+      "text" : "as described in"
+    }, {
+      "leftX" : 197.34,
+      "bottomY" : 456.6837,
+      "rightX" : 200.34,
+      "topY" : 444.6837,
+      "baseLineY" : 453.8398,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 200.34,
+      "bottomY" : 456.5747,
+      "rightX" : 339.66,
+      "topY" : 444.5747,
+      "baseLineY" : 453.8398,
+      "fontId" : 3,
+      "text" : "Chapter 6 of this Handbook. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 482.6349,
+      "rightX" : 113.52,
+      "topY" : 470.6349,
+      "baseLineY" : 480.4798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 483.3369,
+      "rightX" : 116.856,
+      "topY" : 471.3369,
+      "baseLineY" : 480.4798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 483.3237,
+      "rightX" : 222.3468,
+      "topY" : 471.3237,
+      "baseLineY" : 480.4798,
+      "fontId" : 4,
+      "text" : "Accessibility issues"
+    }, {
+      "leftX" : 222.3587,
+      "bottomY" : 483.2148,
+      "rightX" : 509.8786,
+      "topY" : 471.2148,
+      "baseLineY" : 480.4798,
+      "fontId" : 3,
+      "text" : ".  The Agency requires the borrower and/or management to "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 497.0148,
+      "rightX" : 533.9398,
+      "topY" : 485.0148,
+      "baseLineY" : 494.2798,
+      "fontId" : 3,
+      "text" : "establish a policy regarding project and unit accessibility for applicants, tenants, and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 510.8147,
+      "rightX" : 436.86,
+      "topY" : 498.8147,
+      "baseLineY" : 508.0798,
+      "fontId" : 3,
+      "text" : "employees in accordance with applicable civil rights legislation. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 536.8749,
+      "rightX" : 131.928,
+      "topY" : 524.8749,
+      "baseLineY" : 534.7198,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.94,
+      "bottomY" : 537.5769,
+      "rightX" : 135.276,
+      "topY" : 525.5769,
+      "baseLineY" : 534.7198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 537.4548,
+      "rightX" : 525.1799,
+      "topY" : 525.4548,
+      "baseLineY" : 534.7198,
+      "fontId" : 3,
+      "text" : "In projects that were ready for occupancy on or before January 26, 1993, when "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 551.315,
+      "rightX" : 530.5749,
+      "topY" : 539.315,
+      "baseLineY" : 548.58,
+      "fontId" : 3,
+      "text" : "public areas are altered, they must be altered to Americans with Disabilities Act "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 565.115,
+      "rightX" : 540.5349,
+      "topY" : 553.115,
+      "baseLineY" : 562.38,
+      "fontId" : 3,
+      "text" : "Accessibility Guidelines (ADA/AG) standards.  (Public areas are those areas used "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 578.915,
+      "rightX" : 528.2397,
+      "topY" : 566.915,
+      "baseLineY" : 576.18,
+      "fontId" : 3,
+      "text" : "by individuals other than tenants and their guests.  This includes offices used to "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 592.655,
+      "rightX" : 502.5598,
+      "topY" : 580.655,
+      "baseLineY" : 589.92,
+      "fontId" : 3,
+      "text" : "pay bills or to inquire about service or employment, public restrooms, and "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 606.455,
+      "rightX" : 369.6,
+      "topY" : 594.455,
+      "baseLineY" : 603.72,
+      "fontId" : 3,
+      "text" : "buildings used for voting or public meetings.)  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 632.5151,
+      "rightX" : 131.928,
+      "topY" : 620.5151,
+      "baseLineY" : 630.36,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.94,
+      "bottomY" : 633.2171,
+      "rightX" : 135.276,
+      "topY" : 621.2171,
+      "baseLineY" : 630.36,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 633.095,
+      "rightX" : 520.1399,
+      "topY" : 621.095,
+      "baseLineY" : 630.36,
+      "fontId" : 3,
+      "text" : "In projects that were ready for occupancy after January 26, 1993, public areas "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 646.9549,
+      "rightX" : 422.28,
+      "topY" : 634.9549,
+      "baseLineY" : 644.22,
+      "fontId" : 3,
+      "text" : "must be designed and constructed to ADA/AG standards. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 673.0151,
+      "rightX" : 131.928,
+      "topY" : 661.0151,
+      "baseLineY" : 670.86,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.94,
+      "bottomY" : 673.7171,
+      "rightX" : 135.276,
+      "topY" : 661.7171,
+      "baseLineY" : 670.86,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 673.595,
+      "rightX" : 530.8799,
+      "topY" : 661.595,
+      "baseLineY" : 670.86,
+      "fontId" : 3,
+      "text" : "In accordance with the Fair Housing Act, in Multi-Family Housing projects that "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 687.395,
+      "rightX" : 525.8397,
+      "topY" : 675.395,
+      "baseLineY" : 684.66,
+      "fontId" : 3,
+      "text" : "were ready for occupancy on or before March 31, 1991, FHA/AG architectural "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 701.195,
+      "rightX" : 441.9,
+      "topY" : 689.195,
+      "baseLineY" : 698.46,
+      "fontId" : 3,
+      "text" : "requirements do not apply, even during project rehabilitation. "
+    }, {
+      "leftX" : 312.36,
+      "bottomY" : 739.8592,
+      "rightX" : 328.185,
+      "topY" : 729.8592,
+      "baseLineY" : 737.58,
+      "fontId" : 1,
+      "text" : "5-3 "
+    }, {
+      "leftX" : 92.22,
+      "bottomY" : 751.3791,
+      "rightX" : 173.3159,
+      "topY" : 741.3791,
+      "baseLineY" : 749.1,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.2151,
+      "rightX" : 131.928,
+      "topY" : 74.2151,
+      "baseLineY" : 84.06,
+      "fontId" : 6,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.94,
+      "bottomY" : 86.9171,
+      "rightX" : 135.276,
+      "topY" : 74.9171,
+      "baseLineY" : 84.06,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 86.795,
+      "rightX" : 527.5798,
+      "topY" : 74.795,
+      "baseLineY" : 84.06,
+      "fontId" : 3,
+      "text" : "In Accordance with the Fair Housing Act, in multi-family housing projects that "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 100.595,
+      "rightX" : 378.9,
+      "topY" : 88.595,
+      "baseLineY" : 97.86,
+      "fontId" : 3,
+      "text" : "were ready for occupancy after March 11, 1991: "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 126.6551,
+      "rightX" : 153.036,
+      "topY" : 114.6551,
+      "baseLineY" : 124.5,
+      "fontId" : 6,
+      "text" : "♦"
+    }, {
+      "leftX" : 153.06,
+      "bottomY" : 127.3571,
+      "rightX" : 156.396,
+      "topY" : 115.3571,
+      "baseLineY" : 124.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 127.235,
+      "rightX" : 529.9798,
+      "topY" : 115.235,
+      "baseLineY" : 124.5,
+      "fontId" : 3,
+      "text" : "All ground floor units in buildings with four or more dwelling units must be "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 141.095,
+      "rightX" : 519.9597,
+      "topY" : 129.095,
+      "baseLineY" : 138.36,
+      "fontId" : 3,
+      "text" : "designed and constructed in a manner that is adaptable to individuals with "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 154.8949,
+      "rightX" : 220.02,
+      "topY" : 142.8949,
+      "baseLineY" : 152.16,
+      "fontId" : 3,
+      "text" : "disabilities. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 180.9551,
+      "rightX" : 153.036,
+      "topY" : 168.9551,
+      "baseLineY" : 178.8,
+      "fontId" : 6,
+      "text" : "♦"
+    }, {
+      "leftX" : 153.06,
+      "bottomY" : 181.6571,
+      "rightX" : 156.396,
+      "topY" : 169.6571,
+      "baseLineY" : 178.8,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 181.535,
+      "rightX" : 409.621,
+      "topY" : 169.535,
+      "baseLineY" : 178.8,
+      "fontId" : 3,
+      "text" : "All units must be adaptable if there is an elevator.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 207.5951,
+      "rightX" : 153.036,
+      "topY" : 195.5951,
+      "baseLineY" : 205.44,
+      "fontId" : 6,
+      "text" : "♦"
+    }, {
+      "leftX" : 153.06,
+      "bottomY" : 208.2971,
+      "rightX" : 156.396,
+      "topY" : 196.2971,
+      "baseLineY" : 205.44,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 208.175,
+      "rightX" : 413.22,
+      "topY" : 196.175,
+      "baseLineY" : 205.44,
+      "fontId" : 3,
+      "text" : "Covered Multi-Family Housing projects must have: "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 233.5211,
+      "rightX" : 171.432,
+      "topY" : 221.5211,
+      "baseLineY" : 231.24,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 171.42,
+      "bottomY" : 234.0971,
+      "rightX" : 174.756,
+      "topY" : 222.0971,
+      "baseLineY" : 231.24,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 233.975,
+      "rightX" : 404.88,
+      "topY" : 221.975,
+      "baseLineY" : 231.24,
+      "fontId" : 3,
+      "text" : "An accessible entrance on an accessible route; "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 259.3211,
+      "rightX" : 171.432,
+      "topY" : 247.3211,
+      "baseLineY" : 257.04,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 171.42,
+      "bottomY" : 259.8971,
+      "rightX" : 174.756,
+      "topY" : 247.8971,
+      "baseLineY" : 257.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 259.7749,
+      "rightX" : 384.24,
+      "topY" : 247.7749,
+      "baseLineY" : 257.04,
+      "fontId" : 3,
+      "text" : "Accessible public and common-use areas; "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 285.121,
+      "rightX" : 171.432,
+      "topY" : 273.121,
+      "baseLineY" : 282.84,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 171.42,
+      "bottomY" : 285.6971,
+      "rightX" : 174.756,
+      "topY" : 273.6971,
+      "baseLineY" : 282.84,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 285.5749,
+      "rightX" : 249.3,
+      "topY" : 273.5749,
+      "baseLineY" : 282.84,
+      "fontId" : 3,
+      "text" : "Usable doors; "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 310.921,
+      "rightX" : 171.432,
+      "topY" : 298.921,
+      "baseLineY" : 308.64,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 171.42,
+      "bottomY" : 311.4971,
+      "rightX" : 174.756,
+      "topY" : 299.4971,
+      "baseLineY" : 308.64,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 311.3749,
+      "rightX" : 437.34,
+      "topY" : 299.3749,
+      "baseLineY" : 308.64,
+      "fontId" : 3,
+      "text" : "Accessible routes into and through the dwelling unit; "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 336.721,
+      "rightX" : 171.432,
+      "topY" : 324.721,
+      "baseLineY" : 334.4399,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 171.42,
+      "bottomY" : 337.2971,
+      "rightX" : 174.756,
+      "topY" : 325.2971,
+      "baseLineY" : 334.4399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 337.1749,
+      "rightX" : 529.92,
+      "topY" : 325.1749,
+      "baseLineY" : 334.4399,
+      "fontId" : 3,
+      "text" : "Accessible light switches, electrical outlets, and environmental controls; "
+    }, {
+      "leftX" : 162.0001,
+      "bottomY" : 362.521,
+      "rightX" : 171.4321,
+      "topY" : 350.521,
+      "baseLineY" : 360.2399,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 171.4201,
+      "bottomY" : 363.0971,
+      "rightX" : 174.7561,
+      "topY" : 351.0971,
+      "baseLineY" : 360.2399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180.0001,
+      "bottomY" : 362.9749,
+      "rightX" : 337.2601,
+      "topY" : 350.9749,
+      "baseLineY" : 360.2399,
+      "fontId" : 3,
+      "text" : "Reinforced bathroom walls; and "
+    }, {
+      "leftX" : 162.0001,
+      "bottomY" : 388.321,
+      "rightX" : 171.4321,
+      "topY" : 376.321,
+      "baseLineY" : 386.0399,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 171.4201,
+      "bottomY" : 388.8971,
+      "rightX" : 174.7561,
+      "topY" : 376.8971,
+      "baseLineY" : 386.0399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180.0001,
+      "bottomY" : 388.7749,
+      "rightX" : 336.3,
+      "topY" : 376.7749,
+      "baseLineY" : 386.0399,
+      "fontId" : 3,
+      "text" : "Usable kitchens and bathrooms. "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 414.5749,
+      "rightX" : 519.2386,
+      "topY" : 402.5749,
+      "baseLineY" : 411.8399,
+      "fontId" : 3,
+      "text" : "     Projects that were constructed (or which had substantial alterations) after June 11, "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 428.3749,
+      "rightX" : 430.2001,
+      "topY" : 416.3749,
+      "baseLineY" : 425.6399,
+      "fontId" : 3,
+      "text" : "1982 must be constructed in accordance with the UFAS standards. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 454.435,
+      "rightX" : 131.5201,
+      "topY" : 442.435,
+      "baseLineY" : 452.2799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 455.1371,
+      "rightX" : 134.8561,
+      "topY" : 443.1371,
+      "baseLineY" : 452.2799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 455.0149,
+      "rightX" : 521.52,
+      "topY" : 443.0149,
+      "baseLineY" : 452.2799,
+      "fontId" : 3,
+      "text" : "5 percent of the units or one unit whichever is greater must be fully accessible "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 481.075,
+      "rightX" : 131.52,
+      "topY" : 469.075,
+      "baseLineY" : 478.9199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 481.7771,
+      "rightX" : 134.856,
+      "topY" : 469.7771,
+      "baseLineY" : 478.9199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 481.6549,
+      "rightX" : 524.8798,
+      "topY" : 469.6549,
+      "baseLineY" : 478.9199,
+      "fontId" : 3,
+      "text" : "The mix of units are to be comparable to the variety of other project (i.e., 1,2,3 "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 495.5149,
+      "rightX" : 194.34,
+      "topY" : 483.5149,
+      "baseLineY" : 492.7799,
+      "fontId" : 3,
+      "text" : "bedrooms "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 521.575,
+      "rightX" : 131.52,
+      "topY" : 509.575,
+      "baseLineY" : 519.4199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 522.2771,
+      "rightX" : 134.856,
+      "topY" : 510.2771,
+      "baseLineY" : 519.4199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 522.1549,
+      "rightX" : 374.58,
+      "topY" : 510.1549,
+      "baseLineY" : 519.4199,
+      "fontId" : 3,
+      "text" : "All common area must be accessible per UFAS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 547.9549,
+      "rightX" : 528.84,
+      "topY" : 535.9549,
+      "baseLineY" : 545.2199,
+      "fontId" : 3,
+      "text" : "The electronic Multi-Family Housing Project Management and Occupancy Review "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 561.7549,
+      "rightX" : 519.601,
+      "topY" : 549.7549,
+      "baseLineY" : 559.0199,
+      "fontId" : 3,
+      "text" : "Form available in Multi-Family Information System (MFIS) includes space for MFH "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 575.5549,
+      "rightX" : 534.1799,
+      "topY" : 563.5549,
+      "baseLineY" : 572.8199,
+      "fontId" : 3,
+      "text" : "Servicing Officials to comment on the adequacy of the maintenance systems adopted by "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 589.3549,
+      "rightX" : 211.62,
+      "topY" : 577.3549,
+      "baseLineY" : 586.6199,
+      "fontId" : 3,
+      "text" : "project management. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 615.2639,
+      "rightX" : 302.64,
+      "topY" : 603.2639,
+      "baseLineY" : 612.4199,
+      "fontId" : 4,
+      "text" : "D.  Requirements for Labor Housing  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 640.9549,
+      "rightX" : 535.8,
+      "topY" : 628.9549,
+      "baseLineY" : 638.22,
+      "fontId" : 3,
+      "text" : "There are no separate performance standards for year-round labor housing and rental "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 654.7549,
+      "rightX" : 522.4811,
+      "topY" : 642.7549,
+      "baseLineY" : 652.02,
+      "fontId" : 3,
+      "text" : "or cooperative housing.  Seasonal labor housing must meet conventional performance "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 668.5549,
+      "rightX" : 514.8961,
+      "topY" : 656.5549,
+      "baseLineY" : 665.8199,
+      "fontId" : 3,
+      "text" : "standards and must have insulation as necessary to protect the facility during the off-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 682.3549,
+      "rightX" : 179.64,
+      "topY" : 670.3549,
+      "baseLineY" : 679.6199,
+      "fontId" : 3,
+      "text" : "season period. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 708.1549,
+      "rightX" : 129,
+      "topY" : 696.1549,
+      "baseLineY" : 705.4199,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 299.34,
+      "bottomY" : 763.9792,
+      "rightX" : 315.1616,
+      "topY" : 753.9792,
+      "baseLineY" : 761.7,
+      "fontId" : 1,
+      "text" : "5-4 "
+    }, {
+      "leftX" : 532.8,
+      "bottomY" : 787.4991,
+      "rightX" : 537.825,
+      "topY" : 777.4991,
+      "baseLineY" : 785.22,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4958,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 86.0639,
+      "rightX" : 87,
+      "topY" : 74.0639,
+      "baseLineY" : 83.22,
+      "fontId" : 4,
+      "text" : "5.4"
+    }, {
+      "leftX" : 87,
+      "bottomY" : 86.3708,
+      "rightX" : 90.336,
+      "topY" : 74.3708,
+      "baseLineY" : 83.22,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.0639,
+      "rightX" : 283.38,
+      "topY" : 74.0639,
+      "baseLineY" : 83.22,
+      "fontId" : 4,
+      "text" : "CORRECTING DEFICIENCIES "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 111.7549,
+      "rightX" : 477.24,
+      "topY" : 99.7549,
+      "baseLineY" : 109.02,
+      "fontId" : 3,
+      "text" : "There are a number of ways in which the need for maintenance is identified: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 137.8151,
+      "rightX" : 113.52,
+      "topY" : 125.8151,
+      "baseLineY" : 135.66,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 138.5171,
+      "rightX" : 116.856,
+      "topY" : 126.5171,
+      "baseLineY" : 135.66,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 138.3949,
+      "rightX" : 476.16,
+      "topY" : 126.3949,
+      "baseLineY" : 135.66,
+      "fontId" : 3,
+      "text" : "Management staff may uncover, anticipate, or expect such maintenance; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 164.4551,
+      "rightX" : 113.52,
+      "topY" : 152.4551,
+      "baseLineY" : 162.3,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 165.1571,
+      "rightX" : 116.856,
+      "topY" : 153.1571,
+      "baseLineY" : 162.3,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 165.035,
+      "rightX" : 304.9175,
+      "topY" : 153.035,
+      "baseLineY" : 162.3,
+      "fontId" : 3,
+      "text" : "Tenants may make complaints; and   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 191.1551,
+      "rightX" : 113.52,
+      "topY" : 179.1551,
+      "baseLineY" : 189,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 191.8571,
+      "rightX" : 116.856,
+      "topY" : 179.8571,
+      "baseLineY" : 189,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 191.735,
+      "rightX" : 423.54,
+      "topY" : 179.735,
+      "baseLineY" : 189,
+      "fontId" : 3,
+      "text" : "Agency staff may identify defects in the course of a site visit. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 217.535,
+      "rightX" : 470.58,
+      "topY" : 205.535,
+      "baseLineY" : 214.8,
+      "fontId" : 3,
+      "text" : "No matter how the problem was identified, the borrower is responsible for  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 231.3349,
+      "rightX" : 136.32,
+      "topY" : 219.3349,
+      "baseLineY" : 228.6,
+      "fontId" : 3,
+      "text" : "correcting it. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 257.1349,
+      "rightX" : 517.5598,
+      "topY" : 245.1349,
+      "baseLineY" : 254.4,
+      "fontId" : 3,
+      "text" : "The borrower is responsible for adequate maintenance and upkeep of the project that "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 270.9349,
+      "rightX" : 538.1999,
+      "topY" : 258.9349,
+      "baseLineY" : 268.2,
+      "fontId" : 3,
+      "text" : "complies with Agency performance standards.  The Agency understands, however, that property "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 284.7349,
+      "rightX" : 533.6387,
+      "topY" : 272.7349,
+      "baseLineY" : 281.9999,
+      "fontId" : 3,
+      "text" : "maintenance is an ongoing process and that there may be instances when diligent borrowers are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 298.5349,
+      "rightX" : 542.5199,
+      "topY" : 286.5349,
+      "baseLineY" : 295.7999,
+      "fontId" : 3,
+      "text" : "temporarily unable to achieve 100 percent compliance with Agency standards.  In such instances, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 312.3349,
+      "rightX" : 520.5008,
+      "topY" : 300.3349,
+      "baseLineY" : 309.5999,
+      "fontId" : 3,
+      "text" : "the Agency will not penalize borrowers—as long as it is evident that the borrower is actively "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 326.1349,
+      "rightX" : 472.6186,
+      "topY" : 314.1349,
+      "baseLineY" : 323.3999,
+      "fontId" : 3,
+      "text" : "striving to return to full compliance, as soon as possible (see the standards listed in "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 339.9349,
+      "rightX" : 167.7,
+      "topY" : 327.9349,
+      "baseLineY" : 337.1999,
+      "fontId" : 3,
+      "text" : "7 CFR 3560.103).   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.7348,
+      "rightX" : 540.235,
+      "topY" : 353.7348,
+      "baseLineY" : 362.9999,
+      "fontId" : 3,
+      "text" : "This flexibility is not extended to projects where the deficiencies are so extensive that the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 379.535,
+      "rightX" : 508.9197,
+      "topY" : 367.535,
+      "baseLineY" : 376.8,
+      "fontId" : 3,
+      "text" : "property would be declared in substantial noncompliance.  In these instances, the projects’ "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 393.3349,
+      "rightX" : 526.3201,
+      "topY" : 381.3349,
+      "baseLineY" : 390.6,
+      "fontId" : 3,
+      "text" : "viability is called into question, as well as the effectiveness of the management’s maintenance "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 407.1349,
+      "rightX" : 499.8575,
+      "topY" : 395.1349,
+      "baseLineY" : 404.4,
+      "fontId" : 3,
+      "text" : "program.  The Agency should coordinate with and or report to State and local inspection "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 420.9349,
+      "rightX" : 453.48,
+      "topY" : 408.9349,
+      "baseLineY" : 418.2,
+      "fontId" : 3,
+      "text" : "authorities, where applicable, when health and safety issues exist at a property. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 446.7349,
+      "rightX" : 494.5797,
+      "topY" : 434.7349,
+      "baseLineY" : 443.9999,
+      "fontId" : 3,
+      "text" : "The borrower shall immediately inform the Agency of any deficiency for which "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 460.5349,
+      "rightX" : 523.9198,
+      "topY" : 448.5349,
+      "baseLineY" : 457.7999,
+      "fontId" : 3,
+      "text" : "correction requires repairs that cannot be paid out of project operating funds and immediately "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 474.3349,
+      "rightX" : 540.84,
+      "topY" : 462.3349,
+      "baseLineY" : 471.5999,
+      "fontId" : 3,
+      "text" : "initiate procedures to access project reserves (see Chapter 4 of this Handbook).  The Agency will "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 488.1349,
+      "rightX" : 539.8796,
+      "topY" : 476.1349,
+      "baseLineY" : 485.3999,
+      "fontId" : 3,
+      "text" : "in turn provide the borrower with a timeframe for completing the repairs.  If the borrower cannot "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 501.9349,
+      "rightX" : 522.8998,
+      "topY" : 489.9349,
+      "baseLineY" : 499.1999,
+      "fontId" : 3,
+      "text" : "meet the Agency required timeframe, then they must provide documentation and justification "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 515.7348,
+      "rightX" : 275.22,
+      "topY" : 503.7348,
+      "baseLineY" : 512.9999,
+      "fontId" : 3,
+      "text" : "why they cannot meet such a timeframe.   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 541.5348,
+      "rightX" : 111,
+      "topY" : 529.5348,
+      "baseLineY" : 538.7999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 567.3348,
+      "rightX" : 111,
+      "topY" : 555.3348,
+      "baseLineY" : 564.5999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 593.1349,
+      "rightX" : 111,
+      "topY" : 581.1349,
+      "baseLineY" : 590.3999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 618.9349,
+      "rightX" : 111,
+      "topY" : 606.9349,
+      "baseLineY" : 616.1999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 644.7348,
+      "rightX" : 111,
+      "topY" : 632.7348,
+      "baseLineY" : 641.9999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 670.4748,
+      "rightX" : 111,
+      "topY" : 658.4748,
+      "baseLineY" : 667.7399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 696.2749,
+      "rightX" : 111,
+      "topY" : 684.2749,
+      "baseLineY" : 693.5399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 312.36,
+      "bottomY" : 734.0391,
+      "rightX" : 328.1816,
+      "topY" : 724.0391,
+      "baseLineY" : 731.76,
+      "fontId" : 1,
+      "text" : "5-5 "
+    }, {
+      "leftX" : 92.22,
+      "bottomY" : 745.4991,
+      "rightX" : 173.3159,
+      "topY" : 735.4991,
+      "baseLineY" : 743.22,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619 "
+    }, {
+      "leftX" : 545.8054,
+      "bottomY" : 757.0221,
+      "rightX" : 550.8354,
+      "topY" : 747.0221,
+      "baseLineY" : 754.743,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 85.9549,
+      "rightX" : 111,
+      "topY" : 73.9549,
+      "baseLineY" : 83.22,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 111.8639,
+      "rightX" : 87,
+      "topY" : 99.8639,
+      "baseLineY" : 109.02,
+      "fontId" : 4,
+      "text" : "5.5"
+    }, {
+      "leftX" : 87,
+      "bottomY" : 112.1708,
+      "rightX" : 90.336,
+      "topY" : 100.1708,
+      "baseLineY" : 109.02,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 111.8639,
+      "rightX" : 346.62,
+      "topY" : 99.8639,
+      "baseLineY" : 109.02,
+      "fontId" : 4,
+      "text" : "PAYING FOR MAINTENANCE EXPENSES "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 137.6639,
+      "rightX" : 290.7,
+      "topY" : 125.6639,
+      "baseLineY" : 134.8199,
+      "fontId" : 4,
+      "text" : "MAINTENANCE IS PAID FOR IN TWO "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 151.4639,
+      "rightX" : 115.02,
+      "topY" : 139.4639,
+      "baseLineY" : 148.6199,
+      "fontId" : 4,
+      "text" : "WAYS: "
+    }, {
+      "leftX" : 390.3,
+      "bottomY" : 150.8069,
+      "rightX" : 463.6094,
+      "topY" : 139.8069,
+      "baseLineY" : 148.2,
+      "fontId" : 10,
+      "text" : "Rule-of-Thumb"
+    }, {
+      "leftX" : 463.68,
+      "bottomY" : 150.7071,
+      "rightX" : 466.425,
+      "topY" : 139.7071,
+      "baseLineY" : 148.2,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 177.4151,
+      "rightX" : 113.52,
+      "topY" : 165.4151,
+      "baseLineY" : 175.2599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 178.1171,
+      "rightX" : 116.856,
+      "topY" : 166.1171,
+      "baseLineY" : 175.2599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 177.9949,
+      "rightX" : 301.68,
+      "topY" : 165.9949,
+      "baseLineY" : 175.2599,
+      "fontId" : 3,
+      "text" : "Routine physical maintenance, such "
+    }, {
+      "leftX" : 344.58,
+      "bottomY" : 175.367,
+      "rightX" : 529.0861,
+      "topY" : 164.367,
+      "baseLineY" : 172.86,
+      "fontId" : 11,
+      "text" : "A capital expenditure is typically defined "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 191.7949,
+      "rightX" : 310.2599,
+      "topY" : 179.7949,
+      "baseLineY" : 189.0599,
+      "fontId" : 3,
+      "text" : "as repainting an empty unit, replacing "
+    }, {
+      "leftX" : 326.5838,
+      "bottomY" : 188.027,
+      "rightX" : 516.8958,
+      "topY" : 177.027,
+      "baseLineY" : 185.5199,
+      "fontId" : 11,
+      "text" : "as an expenditure on an item for which the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 205.5949,
+      "rightX" : 299.04,
+      "topY" : 193.5949,
+      "baseLineY" : 202.8599,
+      "fontId" : 3,
+      "text" : "a broken window, snow removal or "
+    }, {
+      "leftX" : 326.5838,
+      "bottomY" : 213.2919,
+      "rightX" : 369.6473,
+      "topY" : 202.2919,
+      "baseLineY" : 210.7849,
+      "fontId" : 11,
+      "text" : "example: "
+    }, {
+      "leftX" : 326.5838,
+      "bottomY" : 200.632,
+      "rightX" : 502.5572,
+      "topY" : 189.632,
+      "baseLineY" : 198.1249,
+      "fontId" : 11,
+      "text" : "useful life is greater than one year.  For "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 219.3949,
+      "rightX" : 271.68,
+      "topY" : 207.3949,
+      "baseLineY" : 216.6599,
+      "fontId" : 3,
+      "text" : "grounds upkeep, is part of the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 233.1949,
+      "rightX" : 302.28,
+      "topY" : 221.1949,
+      "baseLineY" : 230.4599,
+      "fontId" : 3,
+      "text" : "operating budget and paid for out of "
+    }, {
+      "leftX" : 326.58,
+      "bottomY" : 239.3951,
+      "rightX" : 332.1,
+      "topY" : 227.3951,
+      "baseLineY" : 237.24,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 344.58,
+      "bottomY" : 239.747,
+      "rightX" : 529.6765,
+      "topY" : 228.747,
+      "baseLineY" : 237.24,
+      "fontId" : 11,
+      "text" : "Repaving the parking lot is a capital cost; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 246.9949,
+      "rightX" : 250.62,
+      "topY" : 234.9949,
+      "baseLineY" : 244.2599,
+      "fontId" : 3,
+      "text" : "annual operating income. "
+    }, {
+      "leftX" : 344.58,
+      "bottomY" : 252.407,
+      "rightX" : 507.7647,
+      "topY" : 241.407,
+      "baseLineY" : 249.8999,
+      "fontId" : 11,
+      "text" : "fixing a pothole is an operating cost. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.055,
+      "rightX" : 113.52,
+      "topY" : 261.055,
+      "baseLineY" : 270.8999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 273.757,
+      "rightX" : 116.856,
+      "topY" : 261.757,
+      "baseLineY" : 270.8999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 273.6349,
+      "rightX" : 298.9775,
+      "topY" : 261.6349,
+      "baseLineY" : 270.8999,
+      "fontId" : 3,
+      "text" : "Major capital expenditures are paid "
+    }, {
+      "leftX" : 326.58,
+      "bottomY" : 272.5151,
+      "rightX" : 332.1,
+      "topY" : 260.5151,
+      "baseLineY" : 270.36,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 344.58,
+      "bottomY" : 272.867,
+      "rightX" : 504.6519,
+      "topY" : 261.867,
+      "baseLineY" : 270.36,
+      "fontId" : 11,
+      "text" : "Repainting the exterior of the entire "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 287.4349,
+      "rightX" : 301.38,
+      "topY" : 275.4349,
+      "baseLineY" : 284.6999,
+      "fontId" : 3,
+      "text" : "for by withdrawals from the reserve "
+    }, {
+      "leftX" : 344.58,
+      "bottomY" : 298.132,
+      "rightX" : 506.0882,
+      "topY" : 287.132,
+      "baseLineY" : 295.625,
+      "fontId" : 11,
+      "text" : "repainting units on a routine basis is "
+    }, {
+      "leftX" : 344.58,
+      "bottomY" : 285.4721,
+      "rightX" : 485.4042,
+      "topY" : 274.4721,
+      "baseLineY" : 282.965,
+      "fontId" : 11,
+      "text" : "project is a capital expenditure; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 301.2348,
+      "rightX" : 291.96,
+      "topY" : 289.2348,
+      "baseLineY" : 298.4999,
+      "fontId" : 3,
+      "text" : "account.  Capital expenditures are "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 315.0348,
+      "rightX" : 311.28,
+      "topY" : 303.0348,
+      "baseLineY" : 312.2999,
+      "fontId" : 3,
+      "text" : "addressed as long-term improvements "
+    }, {
+      "leftX" : 344.58,
+      "bottomY" : 310.792,
+      "rightX" : 490.0101,
+      "topY" : 299.792,
+      "baseLineY" : 308.2849,
+      "fontId" : 11,
+      "text" : "considered routine maintenance. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 328.8348,
+      "rightX" : 302.64,
+      "topY" : 316.8348,
+      "baseLineY" : 326.0999,
+      "fontId" : 3,
+      "text" : "on the front of the operating budget. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 354.6348,
+      "rightX" : 523.8598,
+      "topY" : 342.6348,
+      "baseLineY" : 351.8998,
+      "fontId" : 3,
+      "text" : "Chapter 4 of this Handbook describes the process for accessing the reserve account to pay for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 368.4348,
+      "rightX" : 209.64,
+      "topY" : 356.4348,
+      "baseLineY" : 365.6998,
+      "fontId" : 3,
+      "text" : "major capital improvements."
+    }, {
+      "leftX" : 324.42,
+      "bottomY" : 775.9192,
+      "rightX" : 340.2416,
+      "topY" : 765.9192,
+      "baseLineY" : 773.64,
+      "fontId" : 1,
+      "text" : "5-6 "
+    }, {
+      "leftX" : 557.88,
+      "bottomY" : 787.4391,
+      "rightX" : 562.9,
+      "topY" : 777.4391,
+      "baseLineY" : 785.16,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4958,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 88.3979,
+      "rightX" : 292.9987,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 2,
+      "text" : "SECTION 2: CAPITAL PLANNING"
+    }, {
+      "leftX" : 293.04,
+      "bottomY" : 87.9239,
+      "rightX" : 296.04,
+      "topY" : 75.9239,
+      "baseLineY" : 85.08,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 114.1439,
+      "rightX" : 96,
+      "topY" : 102.1439,
+      "baseLineY" : 111.3,
+      "fontId" : 4,
+      "text" : "5.6   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 114.1439,
+      "rightX" : 178.98,
+      "topY" : 102.1439,
+      "baseLineY" : 111.3,
+      "fontId" : 4,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.8349,
+      "rightX" : 524.8773,
+      "topY" : 127.8349,
+      "baseLineY" : 137.1,
+      "fontId" : 3,
+      "text" : "This section describes how borrowers, with assistance from Agency staff, can plan for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 153.6349,
+      "rightX" : 526.1999,
+      "topY" : 141.6349,
+      "baseLineY" : 150.9,
+      "fontId" : 3,
+      "text" : "major capital expenses and how to pay for them.  This type of planning can take many forms.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 167.4349,
+      "rightX" : 540.8999,
+      "topY" : 155.4349,
+      "baseLineY" : 164.7,
+      "fontId" : 3,
+      "text" : "The two most common forms used by the Agency are an annual capital expenditure budget and a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 181.2349,
+      "rightX" : 514.9798,
+      "topY" : 169.2349,
+      "baseLineY" : 178.4999,
+      "fontId" : 3,
+      "text" : "capital needs assessment.  Refer to Chapter 4 of this Handbook for preparation of an annual "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 195.0349,
+      "rightX" : 205.26,
+      "topY" : 183.0349,
+      "baseLineY" : 192.2999,
+      "fontId" : 3,
+      "text" : "capital expenditure budget. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 220.9438,
+      "rightX" : 96,
+      "topY" : 208.9438,
+      "baseLineY" : 218.0999,
+      "fontId" : 4,
+      "text" : "5.7   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 220.9438,
+      "rightX" : 290.4,
+      "topY" : 208.9438,
+      "baseLineY" : 218.0999,
+      "fontId" : 4,
+      "text" : "CAPITAL NEEDS ASSESSMENT "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 246.7438,
+      "rightX" : 177.96,
+      "topY" : 234.7438,
+      "baseLineY" : 243.8999,
+      "fontId" : 4,
+      "text" : "A.  Overview "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 272.4349,
+      "rightX" : 531.8937,
+      "topY" : 260.4349,
+      "baseLineY" : 269.6999,
+      "fontId" : 3,
+      "text" : "A capital needs assessment (CNA) identifies the immediate and future capital needs "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 286.2348,
+      "rightX" : 526.9187,
+      "topY" : 274.2348,
+      "baseLineY" : 283.4999,
+      "fontId" : 3,
+      "text" : "of a project.  It is based on a physical inspection and a life-cycle analysis of a project’s "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 300.0348,
+      "rightX" : 531.5998,
+      "topY" : 288.0348,
+      "baseLineY" : 297.2999,
+      "fontId" : 3,
+      "text" : "major building components systems, equipment, and exterior amenities, such as the site "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 313.8348,
+      "rightX" : 535.6199,
+      "topY" : 301.8348,
+      "baseLineY" : 311.0999,
+      "fontId" : 3,
+      "text" : "lighting and parking lots.  The CNA includes a replacement schedule that anticipates the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 327.6348,
+      "rightX" : 529.1949,
+      "topY" : 315.6348,
+      "baseLineY" : 324.8998,
+      "fontId" : 3,
+      "text" : "useful life of each item, and estimates when they will need to be replaced and the cost.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 341.4348,
+      "rightX" : 361.32,
+      "topY" : 329.4348,
+      "baseLineY" : 338.6998,
+      "fontId" : 3,
+      "text" : "Preparation of a CNA is an eligible project expense. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 367.3437,
+      "rightX" : 217.62,
+      "topY" : 355.3437,
+      "baseLineY" : 364.4998,
+      "fontId" : 4,
+      "text" : "B.  General Criteria: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 393.2949,
+      "rightX" : 113.52,
+      "topY" : 381.2949,
+      "baseLineY" : 391.1398,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 393.997,
+      "rightX" : 116.856,
+      "topY" : 381.997,
+      "baseLineY" : 391.1398,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 393.8748,
+      "rightX" : 531.2938,
+      "topY" : 381.8748,
+      "baseLineY" : 391.1398,
+      "fontId" : 3,
+      "text" : "A capital needs assessment should be prepared at a reasonable cost by an individual "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 407.6748,
+      "rightX" : 523.3198,
+      "topY" : 395.6748,
+      "baseLineY" : 404.9398,
+      "fontId" : 3,
+      "text" : "or firm with professional experience in multi-family housing design, construction, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 421.4748,
+      "rightX" : 317.28,
+      "topY" : 409.4748,
+      "baseLineY" : 418.7398,
+      "fontId" : 3,
+      "text" : "cost estimating or similar qualification. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 447.5349,
+      "rightX" : 113.52,
+      "topY" : 435.5349,
+      "baseLineY" : 445.3798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 448.237,
+      "rightX" : 116.856,
+      "topY" : 436.237,
+      "baseLineY" : 445.3798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 448.1148,
+      "rightX" : 498.8998,
+      "topY" : 436.1148,
+      "baseLineY" : 445.3798,
+      "fontId" : 3,
+      "text" : "The CNA should be prepared in accordance with generally accepted industry "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 461.9748,
+      "rightX" : 174.66,
+      "topY" : 449.9748,
+      "baseLineY" : 459.2398,
+      "fontId" : 3,
+      "text" : "practices. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 488.0349,
+      "rightX" : 113.52,
+      "topY" : 476.0349,
+      "baseLineY" : 485.8798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 488.737,
+      "rightX" : 116.856,
+      "topY" : 476.737,
+      "baseLineY" : 485.8798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 488.6148,
+      "rightX" : 426.5374,
+      "topY" : 476.6148,
+      "baseLineY" : 485.8798,
+      "fontId" : 3,
+      "text" : "The assessment should include the detailed items listed on the "
+    }, {
+      "leftX" : 426.5374,
+      "bottomY" : 488.6497,
+      "rightX" : 515.22,
+      "topY" : 476.6497,
+      "baseLineY" : 485.8798,
+      "fontId" : 12,
+      "text" : "Form RD 3560-11"
+    }, {
+      "leftX" : 515.22,
+      "bottomY" : 488.6148,
+      "rightX" : 518.22,
+      "topY" : 476.6148,
+      "baseLineY" : 485.8798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 502.4148,
+      "rightX" : 508.9798,
+      "topY" : 490.4148,
+      "baseLineY" : 499.6798,
+      "fontId" : 3,
+      "text" : "Multi-family Housing Physical Inspection Report.  The assessment time period "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 516.2148,
+      "rightX" : 305.94,
+      "topY" : 504.2148,
+      "baseLineY" : 513.4798,
+      "fontId" : 3,
+      "text" : "should be between 10 and 20 years.   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 542.2749,
+      "rightX" : 113.52,
+      "topY" : 530.2749,
+      "baseLineY" : 540.1198,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 542.977,
+      "rightX" : 116.856,
+      "topY" : 530.977,
+      "baseLineY" : 540.1198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 542.8548,
+      "rightX" : 521.5748,
+      "topY" : 530.8548,
+      "baseLineY" : 540.1198,
+      "fontId" : 3,
+      "text" : "The estimated repair and replacement costs and estimated useful life spans for the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 556.6548,
+      "rightX" : 538.8599,
+      "topY" : 544.6548,
+      "baseLineY" : 553.9198,
+      "fontId" : 3,
+      "text" : "components should be based on data from a nationally recognized source, such as RS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 570.4548,
+      "rightX" : 541.9186,
+      "topY" : 558.4548,
+      "baseLineY" : 567.7198,
+      "fontId" : 3,
+      "text" : "Means “Repair and Remodeling Cost Data” and Marshall and Swift “Residential Cost "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 584.2547,
+      "rightX" : 190.32,
+      "topY" : 572.2547,
+      "baseLineY" : 581.5198,
+      "fontId" : 3,
+      "text" : "Handbook”.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 610.1638,
+      "rightX" : 325.9787,
+      "topY" : 598.1638,
+      "baseLineY" : 607.3198,
+      "fontId" : 4,
+      "text" : "C.  Determining a Project’s Capital Needs "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 635.8548,
+      "rightX" : 530.576,
+      "topY" : 623.8548,
+      "baseLineY" : 633.1198,
+      "fontId" : 3,
+      "text" : "The amount required for deposit into the replacement reserve account is established "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 649.6548,
+      "rightX" : 511.9788,
+      "topY" : 637.6548,
+      "baseLineY" : 646.9198,
+      "fontId" : 3,
+      "text" : "for new projects during the loan origination phase, based in part on a life-cycle cost "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 663.4548,
+      "rightX" : 485.9398,
+      "topY" : 651.4548,
+      "baseLineY" : 660.7198,
+      "fontId" : 3,
+      "text" : "analysis of selected materials going into the project (see 7 CFR 3560.65).  For "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 677.2548,
+      "rightX" : 495.54,
+      "topY" : 665.2548,
+      "baseLineY" : 674.5198,
+      "fontId" : 3,
+      "text" : "information on conducting life-cycle analyses, refer to Chapter 3 of HB-1-3560. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 703.0548,
+      "rightX" : 518.5798,
+      "topY" : 691.0548,
+      "baseLineY" : 700.3198,
+      "fontId" : 3,
+      "text" : "For existing projects, the Agency may require the development of a capital needs "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 716.8548,
+      "rightX" : 318.3,
+      "topY" : 704.8548,
+      "baseLineY" : 714.1198,
+      "fontId" : 3,
+      "text" : "assessment in the following circumstances: "
+    }, {
+      "leftX" : 312.36,
+      "bottomY" : 746.0391,
+      "rightX" : 328.1816,
+      "topY" : 736.0391,
+      "baseLineY" : 743.76,
+      "fontId" : 1,
+      "text" : "5-7 "
+    }, {
+      "leftX" : 92.22,
+      "bottomY" : 757.5592,
+      "rightX" : 173.3159,
+      "topY" : 747.5592,
+      "baseLineY" : 755.28,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.2151,
+      "rightX" : 113.52,
+      "topY" : 74.2151,
+      "baseLineY" : 84.06,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.9171,
+      "rightX" : 116.856,
+      "topY" : 74.9171,
+      "baseLineY" : 84.06,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.795,
+      "rightX" : 346.98,
+      "topY" : 74.795,
+      "baseLineY" : 84.06,
+      "fontId" : 3,
+      "text" : "When ownership of the project is transferred; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 112.8551,
+      "rightX" : 113.52,
+      "topY" : 100.8551,
+      "baseLineY" : 110.7,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 113.5572,
+      "rightX" : 116.856,
+      "topY" : 101.5572,
+      "baseLineY" : 110.7,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 113.435,
+      "rightX" : 276.54,
+      "topY" : 101.435,
+      "baseLineY" : 110.7,
+      "fontId" : 3,
+      "text" : "When the loan is reamortized;  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.5551,
+      "rightX" : 113.52,
+      "topY" : 127.5551,
+      "baseLineY" : 137.4,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 140.2572,
+      "rightX" : 116.856,
+      "topY" : 128.2572,
+      "baseLineY" : 137.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 140.135,
+      "rightX" : 365.28,
+      "topY" : 128.135,
+      "baseLineY" : 137.4,
+      "fontId" : 3,
+      "text" : "When there is a writedown of the project loan; or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.1951,
+      "rightX" : 113.52,
+      "topY" : 154.1951,
+      "baseLineY" : 164.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 166.8972,
+      "rightX" : 116.856,
+      "topY" : 154.8972,
+      "baseLineY" : 164.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 166.775,
+      "rightX" : 255,
+      "topY" : 154.775,
+      "baseLineY" : 164.04,
+      "fontId" : 3,
+      "text" : "At the borrower’s request. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.684,
+      "rightX" : 207,
+      "topY" : 180.684,
+      "baseLineY" : 189.84,
+      "fontId" : 4,
+      "text" : "D.  Agency Review "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 218.375,
+      "rightX" : 496.6198,
+      "topY" : 206.375,
+      "baseLineY" : 215.64,
+      "fontId" : 3,
+      "text" : "Capital needs assessments and a proposed, updated annual operating budget, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.175,
+      "rightX" : 481.9798,
+      "topY" : 220.175,
+      "baseLineY" : 229.44,
+      "fontId" : 3,
+      "text" : "including a revised capital plan and any proposed increase in contributions to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 245.975,
+      "rightX" : 523.8,
+      "topY" : 233.975,
+      "baseLineY" : 243.24,
+      "fontId" : 3,
+      "text" : "replacement reserves and project rents, are submitted to the Agency for review.  MFH "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.7749,
+      "rightX" : 538.2599,
+      "topY" : 247.7749,
+      "baseLineY" : 257.04,
+      "fontId" : 3,
+      "text" : "Servicing Officials should review the requests based on Agency guidance and the budget "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.5749,
+      "rightX" : 264.6,
+      "topY" : 261.5749,
+      "baseLineY" : 270.84,
+      "fontId" : 3,
+      "text" : "review procedures in Chapter 4. "
+    }, {
+      "leftX" : 307.26,
+      "bottomY" : 763.9792,
+      "rightX" : 323.0816,
+      "topY" : 753.9792,
+      "baseLineY" : 761.7,
+      "fontId" : 1,
+      "text" : "5-8 "
+    }, {
+      "leftX" : 313.92,
+      "bottomY" : 775.4391,
+      "rightX" : 316.425,
+      "topY" : 765.4391,
+      "baseLineY" : 773.16,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 540.7227,
+      "bottomY" : 786.9621,
+      "rightX" : 545.7527,
+      "topY" : 776.9621,
+      "baseLineY" : 784.683,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4958,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-2-3560 "
+    }, {
+      "leftX" : 79.14,
+      "bottomY" : 88.3979,
+      "rightX" : 536.3559,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 2,
+      "text" : "SECTION 3: AGENCY OVERSIGHT OF BORROWER PERFORMANCE "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 114.1439,
+      "rightX" : 90,
+      "topY" : 102.1439,
+      "baseLineY" : 111.3,
+      "fontId" : 4,
+      "text" : "5.8 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 114.1439,
+      "rightX" : 414.3002,
+      "topY" : 102.1439,
+      "baseLineY" : 111.3,
+      "fontId" : 4,
+      "text" : "OVERSIGHT DURING DESIGN AND CONSTRUCTION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.8349,
+      "rightX" : 491.9998,
+      "topY" : 127.8349,
+      "baseLineY" : 137.1,
+      "fontId" : 3,
+      "text" : "Agency oversight of the borrower’s capacity to maintain the physical project in "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 153.6349,
+      "rightX" : 521.5798,
+      "topY" : 141.6349,
+      "baseLineY" : 150.9,
+      "fontId" : 3,
+      "text" : "compliance with its standards and requirements begins during the loan origination phase.  As "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 167.4349,
+      "rightX" : 528.8989,
+      "topY" : 155.4349,
+      "baseLineY" : 164.7,
+      "fontId" : 3,
+      "text" : "part of its design review, the Agency examines plans and working drawings to see whether the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 181.2349,
+      "rightX" : 426.84,
+      "topY" : 169.2349,
+      "baseLineY" : 178.4999,
+      "fontId" : 3,
+      "text" : "project has been designed for easy maintenance and long-term durability. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 207.0349,
+      "rightX" : 522.5349,
+      "topY" : 195.0349,
+      "baseLineY" : 204.2999,
+      "fontId" : 3,
+      "text" : "Borrowers must describe the systems and procedures that will be used to maintain the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 220.8349,
+      "rightX" : 541.8001,
+      "topY" : 208.8349,
+      "baseLineY" : 218.0999,
+      "fontId" : 3,
+      "text" : "project during the occupancy period in the management plan.  Agency staff reviews the proposed "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 234.6349,
+      "rightX" : 542.22,
+      "topY" : 222.6349,
+      "baseLineY" : 231.8999,
+      "fontId" : 3,
+      "text" : "management plan for compliance in accordance with procedures described in Chapter 3.  Agency "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 248.4349,
+      "rightX" : 534.895,
+      "topY" : 236.4349,
+      "baseLineY" : 245.6999,
+      "fontId" : 3,
+      "text" : "staff should analyze the description of the maintenance systems in the management plan, noting "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 262.2348,
+      "rightX" : 357.6,
+      "topY" : 250.2348,
+      "baseLineY" : 259.4999,
+      "fontId" : 3,
+      "text" : "any points that appear unrealistic, incomplete, or incorrect. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 288.0348,
+      "rightX" : 111,
+      "topY" : 276.0348,
+      "baseLineY" : 285.2999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 337.62,
+      "bottomY" : 750.6591,
+      "rightX" : 353.445,
+      "topY" : 740.6591,
+      "baseLineY" : 748.38,
+      "fontId" : 1,
+      "text" : "5-9 "
+    }, {
+      "leftX" : 117.48,
+      "bottomY" : 762.1792,
+      "rightX" : 198.5759,
+      "topY" : 752.1792,
+      "baseLineY" : 759.9,
+      "fontId" : 1,
+      "text" : "(07-19-24)  PN 619 "
+    }, {
+      "leftX" : 571.0654,
+      "bottomY" : 773.7021,
+      "rightX" : 576.0955,
+      "topY" : 763.7021,
+      "baseLineY" : 771.423,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 14.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "Wingdings-Regular",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

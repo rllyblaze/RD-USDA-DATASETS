@@ -1,0 +1,1794 @@
+{
+  "pdfDoc" : "3565-1glossary.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.1599,
+      "bottomY" : 83.3712,
+      "rightX" : 542.4994,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 273,
+      "bottomY" : 131.7918,
+      "rightX" : 353.3431,
+      "topY" : 117.7918,
+      "baseLineY" : 129.0601,
+      "fontId" : 2,
+      "text" : "GLOSSARY "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 177.3015,
+      "rightX" : 496.0653,
+      "topY" : 165.3015,
+      "baseLineY" : 174.96,
+      "fontId" : 3,
+      "text" : "Administrator.  The Administrator of the Rural Housing Service, or his or her designee. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 203.2815,
+      "rightX" : 255.444,
+      "topY" : 191.2815,
+      "baseLineY" : 200.94,
+      "fontId" : 3,
+      "text" : "Agency.  The Rural Housing Service. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 229.2614,
+      "rightX" : 517.4545,
+      "topY" : 217.2614,
+      "baseLineY" : 226.92,
+      "fontId" : 3,
+      "text" : "Allowable claim amount.  The total losses incurred by the holder of guarantee, as calculated "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 243.2415,
+      "rightX" : 242.1659,
+      "topY" : 231.2415,
+      "baseLineY" : 240.9,
+      "fontId" : 3,
+      "text" : "pursuant to Subpart J of Part 3565. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 269.2215,
+      "rightX" : 512.5248,
+      "topY" : 257.2215,
+      "baseLineY" : 266.88,
+      "fontId" : 3,
+      "text" : "Applicable Federal Rate (AFR).  The interest rate set by the federal government for federal "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 283.2014,
+      "rightX" : 426.9505,
+      "topY" : 271.2014,
+      "baseLineY" : 280.86,
+      "fontId" : 3,
+      "text" : "financing programs pursuant to Section 42 of the Internal Revenue Code. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 309.1815,
+      "rightX" : 505.1018,
+      "topY" : 297.1815,
+      "baseLineY" : 306.84,
+      "fontId" : 3,
+      "text" : "Approved lender.  An eligible lender who has been authorized by the Agency to originate "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 323.1615,
+      "rightX" : 310.4257,
+      "topY" : 311.1615,
+      "baseLineY" : 320.82,
+      "fontId" : 3,
+      "text" : "guaranteed multifamily loans under the program. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 349.1415,
+      "rightX" : 493.0737,
+      "topY" : 337.1415,
+      "baseLineY" : 346.8,
+      "fontId" : 3,
+      "text" : "Assignment.  The delivery by a lender to the Agency of the note and any other security "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 363.1215,
+      "rightX" : 538.6053,
+      "topY" : 351.1215,
+      "baseLineY" : 360.78,
+      "fontId" : 3,
+      "text" : "instrument securing the guaranteed loan; and any and all liens, interest, or claims the lender may "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 377.1015,
+      "rightX" : 316.0885,
+      "topY" : 365.1015,
+      "baseLineY" : 374.76,
+      "fontId" : 3,
+      "text" : "have against the borrower that is party to the note. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 403.0815,
+      "rightX" : 534.2439,
+      "topY" : 391.0815,
+      "baseLineY" : 400.74,
+      "fontId" : 3,
+      "text" : "Assistance.  Financial assistance in the form of a loan guarantee or interest credit received from "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 417.0615,
+      "rightX" : 133.032,
+      "topY" : 405.0615,
+      "baseLineY" : 414.72,
+      "fontId" : 3,
+      "text" : "the Agency. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 443.0415,
+      "rightX" : 448.0245,
+      "topY" : 431.0415,
+      "baseLineY" : 440.7,
+      "fontId" : 3,
+      "text" : "Borrower.  The entity created for purposes of owning and operating a project. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 469.0215,
+      "rightX" : 526.5754,
+      "topY" : 457.0215,
+      "baseLineY" : 466.68,
+      "fontId" : 3,
+      "text" : "Claim.  The presentation to the Agency of a demand for payment for losses incurred on a loan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 483.0015,
+      "rightX" : 222.4344,
+      "topY" : 471.0015,
+      "baseLineY" : 480.66,
+      "fontId" : 3,
+      "text" : "guaranteed under the program. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 508.9815,
+      "rightX" : 535.2753,
+      "topY" : 496.9815,
+      "baseLineY" : 506.64,
+      "fontId" : 3,
+      "text" : "Combination construction and permanent loan.  A guaranteed loan that becomes effective at the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 522.9615,
+      "rightX" : 365.8751,
+      "topY" : 510.9615,
+      "baseLineY" : 520.62,
+      "fontId" : 3,
+      "text" : "time construction of an eligible multifamily property begins. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 548.9414,
+      "rightX" : 540.1802,
+      "topY" : 536.9414,
+      "baseLineY" : 546.6,
+      "fontId" : 3,
+      "text" : "Conditional commitment.  The written commitment by the Agency to guarantee a loan subject to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 562.9215,
+      "rightX" : 226.8541,
+      "topY" : 550.9215,
+      "baseLineY" : 560.58,
+      "fontId" : 3,
+      "text" : "the stated terms and conditions. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 588.9015,
+      "rightX" : 528.2737,
+      "topY" : 576.9015,
+      "baseLineY" : 586.56,
+      "fontId" : 3,
+      "text" : "Correspondent relationship.  A contractual relationship between an approved lender and a non-"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 602.8814,
+      "rightX" : 522.7802,
+      "topY" : 590.8814,
+      "baseLineY" : 600.54,
+      "fontId" : 3,
+      "text" : "approved lender or mortgage broker in which the correspondent performs certain origination, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 616.8615,
+      "rightX" : 363.385,
+      "topY" : 604.8615,
+      "baseLineY" : 614.52,
+      "fontId" : 3,
+      "text" : "underwriting or servicing functions for the approved lender. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 630.8415,
+      "rightX" : 75,
+      "topY" : 618.8415,
+      "baseLineY" : 628.5,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 644.8214,
+      "rightX" : 75,
+      "topY" : 632.8214,
+      "baseLineY" : 642.48,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 254.46,
+      "bottomY" : 658.8014,
+      "rightX" : 360.4642,
+      "topY" : 646.8014,
+      "baseLineY" : 656.46,
+      "fontId" : 3,
+      "text" : "Glossary, Page 1 of 6 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 672.7814,
+      "rightX" : 199.9692,
+      "topY" : 660.7814,
+      "baseLineY" : 670.4399,
+      "fontId" : 3,
+      "text" : "(12-18-98)  SPECIAL PN "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 686.7614,
+      "rightX" : 238.686,
+      "topY" : 674.7614,
+      "baseLineY" : 684.42,
+      "fontId" : 3,
+      "text" : "Revised (02-18-05)  SPECIAL PN"
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.3712,
+      "rightX" : 120.3395,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 121.6215,
+      "rightX" : 517.3544,
+      "topY" : 109.6215,
+      "baseLineY" : 119.28,
+      "fontId" : 3,
+      "text" : "Default.  Failure by a borrower to meet any obligation or term of a loan, grant, or regulatory "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 135.6015,
+      "rightX" : 127.9944,
+      "topY" : 123.6015,
+      "baseLineY" : 133.26,
+      "fontId" : 3,
+      "text" : "agreement. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 149.5815,
+      "rightX" : 509.1338,
+      "topY" : 137.5815,
+      "baseLineY" : 147.24,
+      "fontId" : 3,
+      "text" : "Delinquency.  Failure to make a timely payment under the terms of the promissory note or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 163.5614,
+      "rightX" : 180.4344,
+      "topY" : 151.5614,
+      "baseLineY" : 161.22,
+      "fontId" : 3,
+      "text" : "regulatory agreement. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 189.5414,
+      "rightX" : 502.0869,
+      "topY" : 177.5414,
+      "baseLineY" : 187.2,
+      "fontId" : 3,
+      "text" : "Eligible borrower.  A borrower who has met the requirements of Subpart D of Part 3565. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 215.5215,
+      "rightX" : 473.5,
+      "topY" : 203.5215,
+      "baseLineY" : 213.18,
+      "fontId" : 3,
+      "text" : "Eligible lender.  A lender who has met the requirements of Subpart C of Part 3565. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 241.5014,
+      "rightX" : 442.4835,
+      "topY" : 229.5014,
+      "baseLineY" : 239.16,
+      "fontId" : 3,
+      "text" : "Eligible loan.  A loan that meets the requirements of Subpart E of Part 3565. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 267.4815,
+      "rightX" : 506.4332,
+      "topY" : 255.4815,
+      "baseLineY" : 265.14,
+      "fontId" : 3,
+      "text" : "Fannie Mae.  A government sponsored enterprise created by Congress to purchase, sell or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 281.4615,
+      "rightX" : 530.3281,
+      "topY" : 269.4615,
+      "baseLineY" : 279.12,
+      "fontId" : 3,
+      "text" : "otherwise facilitate the purchase or sale of mortgage in the secondary mortgage market.  These "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 295.4415,
+      "rightX" : 410.543,
+      "topY" : 283.4415,
+      "baseLineY" : 293.1,
+      "fontId" : 3,
+      "text" : "activities support the availability and affordability of mortgage credit. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 321.4215,
+      "rightX" : 511.9989,
+      "topY" : 309.4215,
+      "baseLineY" : 319.08,
+      "fontId" : 3,
+      "text" : "Federal Home Loan Bank System.  A system of savings and loans, banks and other lenders "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 335.4015,
+      "rightX" : 343.4569,
+      "topY" : 323.4015,
+      "baseLineY" : 333.06,
+      "fontId" : 3,
+      "text" : "whose primary business is the making of housing loans. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 361.3815,
+      "rightX" : 514.3466,
+      "topY" : 349.3815,
+      "baseLineY" : 359.04,
+      "fontId" : 3,
+      "text" : "Final claim payment.  The amount due to the lender (or the Agency) after disposition of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 375.3615,
+      "rightX" : 503.851,
+      "topY" : 363.3615,
+      "baseLineY" : 373.02,
+      "fontId" : 3,
+      "text" : "security collateral is complete and the proceeds from such sale as well as the initial claim "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 389.3415,
+      "rightX" : 385.1664,
+      "topY" : 377.3415,
+      "baseLineY" : 387,
+      "fontId" : 3,
+      "text" : "payment, if any, are applied against the allowable claim amount. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 415.3215,
+      "rightX" : 542.1214,
+      "topY" : 403.3215,
+      "baseLineY" : 412.98,
+      "fontId" : 3,
+      "text" : "Foreclosure.  The process by which the ownership interest of a borrower in a mortgaged property "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 429.3015,
+      "rightX" : 512.1704,
+      "topY" : 417.3015,
+      "baseLineY" : 426.96,
+      "fontId" : 3,
+      "text" : "is extinguished.  This process may involve a sale of the property at public auction, with the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 443.2815,
+      "rightX" : 343.2323,
+      "topY" : 431.2815,
+      "baseLineY" : 440.94,
+      "fontId" : 3,
+      "text" : "proceeds of the sale being applied to the mortgage debt. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 469.2615,
+      "rightX" : 510.4377,
+      "topY" : 457.2615,
+      "baseLineY" : 466.92,
+      "fontId" : 3,
+      "text" : "Freddie Mac.  A government sponsored enterprise created by Congress to purchase, sell or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 483.2415,
+      "rightX" : 530.3281,
+      "topY" : 471.2415,
+      "baseLineY" : 480.9,
+      "fontId" : 3,
+      "text" : "otherwise facilitate the purchase or sale of mortgage in the secondary mortgage market.  These "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 497.2215,
+      "rightX" : 410.543,
+      "topY" : 485.2215,
+      "baseLineY" : 494.88,
+      "fontId" : 3,
+      "text" : "activities support the availability and affordability of mortgage credit. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 523.2014,
+      "rightX" : 527.0973,
+      "topY" : 511.2014,
+      "baseLineY" : 520.86,
+      "fontId" : 3,
+      "text" : "Ginnie Mae.  Ginnie Mae is a reference to the Government National Mortgage Association.     "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 549.1814,
+      "rightX" : 536.3759,
+      "topY" : 537.1814,
+      "baseLineY" : 546.84,
+      "fontId" : 3,
+      "text" : "Government National  Mortgage Association.  The Government National Mortgage Association "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 563.1615,
+      "rightX" : 499.243,
+      "topY" : 551.1615,
+      "baseLineY" : 560.82,
+      "fontId" : 3,
+      "text" : "(Ginnie Mae) is a government corporation within the Department of Housing and Urban "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 577.1415,
+      "rightX" : 533.7961,
+      "topY" : 565.1415,
+      "baseLineY" : 574.8,
+      "fontId" : 3,
+      "text" : "Development.  Ginnie Mae guarantees privately issued securities backed by mortgages or loans "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 591.1215,
+      "rightX" : 535.7313,
+      "topY" : 579.1215,
+      "baseLineY" : 588.78,
+      "fontId" : 3,
+      "text" : "which are insured or guaranteed by the Federal Housing Administration (FHA), the Department "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 605.1015,
+      "rightX" : 497.1645,
+      "topY" : 593.1015,
+      "baseLineY" : 602.76,
+      "fontId" : 3,
+      "text" : "of Veteran Affairs (VA), or the Rural Housing Service (RHS) and certain other loans or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 619.0815,
+      "rightX" : 328.1592,
+      "topY" : 607.0815,
+      "baseLineY" : 616.74,
+      "fontId" : 3,
+      "text" : "mortgages guaranteed or insured by the government. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 645.0614,
+      "rightX" : 528.6913,
+      "topY" : 633.0614,
+      "baseLineY" : 642.72,
+      "fontId" : 3,
+      "text" : "Guarantee agreement.  The written agreement between the Agency and the lender setting forth "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 659.0415,
+      "rightX" : 439.8049,
+      "topY" : 647.0415,
+      "baseLineY" : 656.7,
+      "fontId" : 3,
+      "text" : "the terms and conditions of the guarantee with respect to an individual loan. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 685.0215,
+      "rightX" : 543,
+      "topY" : 673.0215,
+      "baseLineY" : 682.68,
+      "fontId" : 3,
+      "text" : "______________________________________________________________________________ "
+    }, {
+      "leftX" : 254.46,
+      "bottomY" : 711.0015,
+      "rightX" : 360.4643,
+      "topY" : 699.0015,
+      "baseLineY" : 708.66,
+      "fontId" : 3,
+      "text" : "Glossary, Page 2 of 6 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.1599,
+      "bottomY" : 83.3712,
+      "rightX" : 542.4994,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 121.6215,
+      "rightX" : 519.4634,
+      "topY" : 109.6215,
+      "baseLineY" : 119.28,
+      "fontId" : 3,
+      "text" : "Guarantee fees.  The fees paid by the lender to the Agency for the loan guarantee.  An initial "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 135.6015,
+      "rightX" : 522.8521,
+      "topY" : 123.6015,
+      "baseLineY" : 133.26,
+      "fontId" : 3,
+      "text" : "guarantee fee is due at the time the guarantee is issued.  An annual guarantee fee is due at the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 149.5815,
+      "rightX" : 359.9122,
+      "topY" : 137.5815,
+      "baseLineY" : 147.24,
+      "fontId" : 3,
+      "text" : "beginning of each year that the guarantee remains in effect. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 175.5614,
+      "rightX" : 443.9403,
+      "topY" : 163.5614,
+      "baseLineY" : 173.22,
+      "fontId" : 3,
+      "text" : "Guaranteed loan.  Any loan for which the Agency provides a loan guarantee. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 189.5415,
+      "rightX" : 75,
+      "topY" : 177.5415,
+      "baseLineY" : 187.2,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 203.5215,
+      "rightX" : 538.4882,
+      "topY" : 191.5215,
+      "baseLineY" : 201.18,
+      "fontId" : 3,
+      "text" : "Holder.  A person or entity, other than the lender, who owns all or part of the guaranteed portion "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 217.5014,
+      "rightX" : 540.2906,
+      "topY" : 205.5014,
+      "baseLineY" : 215.16,
+      "fontId" : 3,
+      "text" : "of the loan with no servicing responsibilities.  When the single note option is used and the lender "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 231.4814,
+      "rightX" : 524.2225,
+      "topY" : 219.4814,
+      "baseLineY" : 229.14,
+      "fontId" : 3,
+      "text" : "assigns a part or all of the guaranteed note to an assignee, the assignee becomes a holder only "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 245.4614,
+      "rightX" : 535.3629,
+      "topY" : 233.4614,
+      "baseLineY" : 243.1199,
+      "fontId" : 3,
+      "text" : "when the Agency receives notice and the transaction is completed through use of an assignment "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 259.4414,
+      "rightX" : 324.7367,
+      "topY" : 247.4414,
+      "baseLineY" : 257.0999,
+      "fontId" : 3,
+      "text" : "guarantee agreement form approved by the Agency. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 273.4214,
+      "rightX" : 78,
+      "topY" : 261.4214,
+      "baseLineY" : 271.0799,
+      "fontId" : 3,
+      "text" : "  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 287.4014,
+      "rightX" : 526.8094,
+      "topY" : 275.4014,
+      "baseLineY" : 285.0599,
+      "fontId" : 3,
+      "text" : "Housing finance agency.  A state or local government instrumentality duly authorized to issue "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 301.3815,
+      "rightX" : 359.6041,
+      "topY" : 289.3815,
+      "baseLineY" : 299.04,
+      "fontId" : 3,
+      "text" : "housing bonds or otherwise provide financing for housing.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 327.3615,
+      "rightX" : 528.8246,
+      "topY" : 315.3615,
+      "baseLineY" : 325.02,
+      "fontId" : 3,
+      "text" : "Identity of interest.  With respect to a project, a financial interest of any type, or appearance of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 341.3415,
+      "rightX" : 540.9913,
+      "topY" : 329.3415,
+      "baseLineY" : 339,
+      "fontId" : 3,
+      "text" : "same, that exists or will exist between the borrower, management agent, suppliers of materials or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 355.3215,
+      "rightX" : 349.9498,
+      "topY" : 343.3215,
+      "baseLineY" : 352.98,
+      "fontId" : 3,
+      "text" : "services, or vendors, in any combination of relationships. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 381.3015,
+      "rightX" : 519.4526,
+      "topY" : 369.3015,
+      "baseLineY" : 378.96,
+      "fontId" : 3,
+      "text" : "Income eligibility.  A determination that the income of a tenant at initial occupancy does not "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 395.2815,
+      "rightX" : 518.437,
+      "topY" : 383.2815,
+      "baseLineY" : 392.94,
+      "fontId" : 3,
+      "text" : "exceed 115 percent of the area median income as such area median income is defined by the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 409.2615,
+      "rightX" : 425.683,
+      "topY" : 397.2615,
+      "baseLineY" : 406.92,
+      "fontId" : 3,
+      "text" : "Department of Housing and Urban Development (HUD) or its successor. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 435.2415,
+      "rightX" : 534.7104,
+      "topY" : 423.2415,
+      "baseLineY" : 432.9,
+      "fontId" : 3,
+      "text" : "Indian tribe.  Any Indian tribe, band, nation, or other organized group or community of Indians, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 449.2215,
+      "rightX" : 493.6442,
+      "topY" : 437.2215,
+      "baseLineY" : 446.88,
+      "fontId" : 3,
+      "text" : "including any Alaska Native village or regional or village corporation, as defined by or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 463.2015,
+      "rightX" : 540.1317,
+      "topY" : 451.2015,
+      "baseLineY" : 460.86,
+      "fontId" : 3,
+      "text" : "established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), that is "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 477.1815,
+      "rightX" : 519.5714,
+      "topY" : 465.1815,
+      "baseLineY" : 474.84,
+      "fontId" : 3,
+      "text" : "recognized as eligible for the special programs and services provided by the United States to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 491.1615,
+      "rightX" : 495.5714,
+      "topY" : 479.1615,
+      "baseLineY" : 488.82,
+      "fontId" : 3,
+      "text" : "Indians because of their status as Indians pursuant to the Indian Self-Determination and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 505.1415,
+      "rightX" : 507.8282,
+      "topY" : 493.1415,
+      "baseLineY" : 502.8,
+      "fontId" : 3,
+      "text" : "Education Assistance Act of 1975 (25 U.S.C. 450 et seq.); or any entity established by the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 519.1215,
+      "rightX" : 524.4785,
+      "topY" : 507.1215,
+      "baseLineY" : 516.78,
+      "fontId" : 3,
+      "text" : "governing body of an Indian tribe, as described in this definition, for the purpose of financing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 533.1015,
+      "rightX" : 189.612,
+      "topY" : 521.1015,
+      "baseLineY" : 530.7601,
+      "fontId" : 3,
+      "text" : "economic development. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 559.0815,
+      "rightX" : 531.4918,
+      "topY" : 547.0815,
+      "baseLineY" : 556.7401,
+      "fontId" : 3,
+      "text" : "Interest credit.  A subsidy available to eligible borrowers that reduces the effective interest rate "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 573.0614,
+      "rightX" : 153.3888,
+      "topY" : 561.0614,
+      "baseLineY" : 570.72,
+      "fontId" : 3,
+      "text" : "of the loan to the"
+    }, {
+      "leftX" : 153.42,
+      "bottomY" : 573.0614,
+      "rightX" : 156.42,
+      "topY" : 561.0614,
+      "baseLineY" : 570.72,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 156.42,
+      "bottomY" : 573.0614,
+      "rightX" : 255.084,
+      "topY" : 561.0614,
+      "baseLineY" : 570.72,
+      "fontId" : 3,
+      "text" : "Long Term Monthly"
+    }, {
+      "leftX" : 255.06,
+      "bottomY" : 573.0614,
+      "rightX" : 258.06,
+      "topY" : 561.0614,
+      "baseLineY" : 570.72,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 258.06,
+      "bottomY" : 573.0614,
+      "rightX" : 284.3316,
+      "topY" : 561.0614,
+      "baseLineY" : 570.72,
+      "fontId" : 3,
+      "text" : "AFR."
+    }, {
+      "leftX" : 284.34,
+      "bottomY" : 573.0614,
+      "rightX" : 287.34,
+      "topY" : 561.0614,
+      "baseLineY" : 570.72,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 599.0415,
+      "rightX" : 533.4266,
+      "topY" : 587.0415,
+      "baseLineY" : 596.7,
+      "fontId" : 3,
+      "text" : "Land lease.  A written agreement between a landowner and a borrower stipulating the terms for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 613.0215,
+      "rightX" : 348.1405,
+      "topY" : 601.0215,
+      "baseLineY" : 610.68,
+      "fontId" : 3,
+      "text" : "possession and use of land for a specified period of time. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 639.0014,
+      "rightX" : 75,
+      "topY" : 627.0014,
+      "baseLineY" : 636.66,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 254.46,
+      "bottomY" : 666.4815,
+      "rightX" : 360.4643,
+      "topY" : 654.4815,
+      "baseLineY" : 664.14,
+      "fontId" : 3,
+      "text" : "Glossary, Page 3 of 6 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 692.4615,
+      "rightX" : 199.9692,
+      "topY" : 680.4615,
+      "baseLineY" : 690.12,
+      "fontId" : 3,
+      "text" : "(12-18-98)  SPECIAL PN "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 705.2264,
+      "rightX" : 199.57,
+      "topY" : 694.2264,
+      "baseLineY" : 703.08,
+      "fontId" : 5,
+      "text" : "Revised (11-15-19)  PN 531 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.3712,
+      "rightX" : 120.3395,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 121.6215,
+      "rightX" : 537.1116,
+      "topY" : 109.6215,
+      "baseLineY" : 119.28,
+      "fontId" : 3,
+      "text" : "Lease.  A contract setting forth the rights and obligations of a tenant or cooperative member and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 135.6015,
+      "rightX" : 538.9211,
+      "topY" : 123.6015,
+      "baseLineY" : 133.26,
+      "fontId" : 3,
+      "text" : "a borrower, including the amount of the monthly occupancy charge and other terms under which "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 149.5815,
+      "rightX" : 243.2759,
+      "topY" : 137.5815,
+      "baseLineY" : 147.24,
+      "fontId" : 3,
+      "text" : "the tenant will occupy the housing. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 175.5614,
+      "rightX" : 537.7034,
+      "topY" : 163.5614,
+      "baseLineY" : 173.22,
+      "fontId" : 3,
+      "text" : "Lender.  A bank or other financial institution that originates and/or services the guaranteed loan. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 201.5415,
+      "rightX" : 534.3673,
+      "topY" : 189.5415,
+      "baseLineY" : 199.2,
+      "fontId" : 3,
+      "text" : "Lender Agreement.  The written agreement between the Agency and the lender setting forth the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 215.5215,
+      "rightX" : 491.7237,
+      "topY" : 203.5215,
+      "baseLineY" : 213.18,
+      "fontId" : 3,
+      "text" : "requirements the lender must meet on a continuing basis to participate in the program.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 229.5014,
+      "rightX" : 75,
+      "topY" : 217.5014,
+      "baseLineY" : 227.16,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 243.4814,
+      "rightX" : 532.9801,
+      "topY" : 231.4814,
+      "baseLineY" : 241.14,
+      "fontId" : 3,
+      "text" : "Loan.  A mechanism by which a lender funds the acquisition and development of a multifamily "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 257.4615,
+      "rightX" : 525.1945,
+      "topY" : 245.4615,
+      "baseLineY" : 255.12,
+      "fontId" : 3,
+      "text" : "project.  A loan in this context is secured by a mortgage executed by the lender and borrower. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 271.4414,
+      "rightX" : 75,
+      "topY" : 259.4414,
+      "baseLineY" : 269.1,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 285.4214,
+      "rightX" : 531.5301,
+      "topY" : 273.4214,
+      "baseLineY" : 283.08,
+      "fontId" : 3,
+      "text" : "Loan guarantee.  An Agency pledge to pay part of the loss incurred by a lender or holder in the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 299.4015,
+      "rightX" : 233.1912,
+      "topY" : 287.4015,
+      "baseLineY" : 297.06,
+      "fontId" : 3,
+      "text" : "event of default by the borrower. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 313.3815,
+      "rightX" : 75,
+      "topY" : 301.3815,
+      "baseLineY" : 311.04,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 327.3615,
+      "rightX" : 541.9202,
+      "topY" : 315.3615,
+      "baseLineY" : 325.02,
+      "fontId" : 3,
+      "text" : "Loan participation.  A loan made by more than one lender wherein each lender funds a portion of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 341.3415,
+      "rightX" : 116.4048,
+      "topY" : 329.3415,
+      "baseLineY" : 339,
+      "fontId" : 3,
+      "text" : "the loan. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 367.3215,
+      "rightX" : 537.7198,
+      "topY" : 355.3215,
+      "baseLineY" : 364.98,
+      "fontId" : 3,
+      "text" : "Loan-to-value ratio.  The amount of the loan divided by the appraised value of the development. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 393.3015,
+      "rightX" : 513.1777,
+      "topY" : 381.3015,
+      "baseLineY" : 390.96,
+      "fontId" : 3,
+      "text" : "Maximum guarantee payment.  The maximum payment by the Agency under the guarantee "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 407.2815,
+      "rightX" : 528.8966,
+      "topY" : 395.2815,
+      "baseLineY" : 404.94,
+      "fontId" : 3,
+      "text" : "agreement computed by applying the guarantee percentage times the allowable claim amount.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 421.2615,
+      "rightX" : 241.9176,
+      "topY" : 409.2615,
+      "baseLineY" : 418.92,
+      "fontId" : 3,
+      "text" : "(See Chapter 10 for further detail.) "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 447.2415,
+      "rightX" : 507.2534,
+      "topY" : 435.2415,
+      "baseLineY" : 444.9,
+      "fontId" : 3,
+      "text" : "Mortgage.  A written instrument evidencing or creating a lien against real property for the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 461.2215,
+      "rightX" : 524.4721,
+      "topY" : 449.2215,
+      "baseLineY" : 458.88,
+      "fontId" : 3,
+      "text" : "purpose of providing collateral to secure the repayment of a loan.  For program purposes, this "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 475.2015,
+      "rightX" : 328.404,
+      "topY" : 463.2015,
+      "baseLineY" : 472.86,
+      "fontId" : 3,
+      "text" : "may include a deed of trust or any similar document. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 501.1815,
+      "rightX" : 416.2754,
+      "topY" : 489.1815,
+      "baseLineY" : 498.84,
+      "fontId" : 3,
+      "text" : "Multifamily project.  A project designed with five or more living units. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 527.1615,
+      "rightX" : 522.9601,
+      "topY" : 515.1615,
+      "baseLineY" : 524.82,
+      "fontId" : 3,
+      "text" : "Negligent Servicing or Origination.  Negligent servicing or origination is a failure to perform "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 541.1415,
+      "rightX" : 530.9402,
+      "topY" : 529.1415,
+      "baseLineY" : 538.8,
+      "fontId" : 3,
+      "text" : "those services, which a reasonably prudent lender would perform in servicing or originating its "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 555.1215,
+      "rightX" : 510.9337,
+      "topY" : 543.1215,
+      "baseLineY" : 552.78,
+      "fontId" : 3,
+      "text" : "own portfolio, and includes not only the failure to act, but also the failure to act in a timely "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 569.1015,
+      "rightX" : 113.9448,
+      "topY" : 557.1015,
+      "baseLineY" : 566.76,
+      "fontId" : 3,
+      "text" : "manner. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 595.0815,
+      "rightX" : 482.2917,
+      "topY" : 583.0815,
+      "baseLineY" : 592.74,
+      "fontId" : 3,
+      "text" : "Non-monetary default.  A default that does not involve the payment of money.           "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 621.0614,
+      "rightX" : 144,
+      "topY" : 609.0614,
+      "baseLineY" : 618.72,
+      "fontId" : 3,
+      "text" : "                        "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 635.0415,
+      "rightX" : 543,
+      "topY" : 623.0415,
+      "baseLineY" : 632.7,
+      "fontId" : 3,
+      "text" : "______________________________________________________________________________ "
+    }, {
+      "leftX" : 254.46,
+      "bottomY" : 661.0215,
+      "rightX" : 360.4642,
+      "topY" : 649.0215,
+      "baseLineY" : 658.68,
+      "fontId" : 3,
+      "text" : "Glossary, Page 4 of 6 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.1599,
+      "bottomY" : 83.3712,
+      "rightX" : 542.4994,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 121.6215,
+      "rightX" : 535.2914,
+      "topY" : 109.6215,
+      "baseLineY" : 119.28,
+      "fontId" : 3,
+      "text" : "Note.  Any note, bond, assumption agreement, or other evidence of indebtedness pertaining to a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 135.6015,
+      "rightX" : 157.416,
+      "topY" : 123.6015,
+      "baseLineY" : 133.26,
+      "fontId" : 3,
+      "text" : "guaranteed loan.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 161.5815,
+      "rightX" : 500.6097,
+      "topY" : 149.5815,
+      "baseLineY" : 159.24,
+      "fontId" : 3,
+      "text" : "Office of the General Counsel (OGC).  The Office of the General Counsel of the USDA. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 187.5614,
+      "rightX" : 489.7324,
+      "topY" : 175.5614,
+      "baseLineY" : 185.22,
+      "fontId" : 3,
+      "text" : "Office of the Inspector General (OIG).  The Office of Inspector General of the USDA. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 213.5415,
+      "rightX" : 534.6481,
+      "topY" : 201.5415,
+      "baseLineY" : 211.2,
+      "fontId" : 3,
+      "text" : "Payment effective date.  For the month payment is due, the day of the month on which payment "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 227.5215,
+      "rightX" : 500.8705,
+      "topY" : 215.5215,
+      "baseLineY" : 225.18,
+      "fontId" : 3,
+      "text" : "will be effectively applied to the account by the lender, regardless of the date payment is "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 241.5014,
+      "rightX" : 118.7412,
+      "topY" : 229.5014,
+      "baseLineY" : 239.16,
+      "fontId" : 3,
+      "text" : "received. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 255.4814,
+      "rightX" : 75,
+      "topY" : 243.4814,
+      "baseLineY" : 253.14,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 269.4614,
+      "rightX" : 536.1586,
+      "topY" : 257.4614,
+      "baseLineY" : 267.1199,
+      "fontId" : 3,
+      "text" : "Permanent loan.  A permanent loan is defined as a mortgage loan usually covering development "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 283.4415,
+      "rightX" : 541.8505,
+      "topY" : 271.4415,
+      "baseLineY" : 281.1,
+      "fontId" : 3,
+      "text" : "costs, interim loans, construction loans, financing expenses, marketing, administrative, legal, and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 297.4215,
+      "rightX" : 540.0706,
+      "topY" : 285.4215,
+      "baseLineY" : 295.08,
+      "fontId" : 3,
+      "text" : "other Agency approved costs.  This loan differs from the construction loan in that financing goes "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 311.4015,
+      "rightX" : 531.2234,
+      "topY" : 299.4015,
+      "baseLineY" : 309.06,
+      "fontId" : 3,
+      "text" : "into place after the project is completely constructed and open for occupancy.  It is a long-term "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 325.3815,
+      "rightX" : 482.6522,
+      "topY" : 313.3815,
+      "baseLineY" : 323.04,
+      "fontId" : 3,
+      "text" : "obligation, generally for a period of no less than 25 years and no more than 40 years. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 339.3615,
+      "rightX" : 75,
+      "topY" : 327.3615,
+      "baseLineY" : 337.0201,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 353.3415,
+      "rightX" : 510.1226,
+      "topY" : 341.3415,
+      "baseLineY" : 351.0001,
+      "fontId" : 3,
+      "text" : "Prepayment.  The payment of the outstanding balance on a loan prior to the note’s original "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 367.3215,
+      "rightX" : 141.7128,
+      "topY" : 355.3215,
+      "baseLineY" : 364.98,
+      "fontId" : 3,
+      "text" : "maturity date. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 393.3015,
+      "rightX" : 525.2714,
+      "topY" : 381.3015,
+      "baseLineY" : 390.96,
+      "fontId" : 3,
+      "text" : "Program requirements.  Any requirements set forth in any pertinent loan document, guarantee "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 407.2815,
+      "rightX" : 393.7538,
+      "topY" : 395.2815,
+      "baseLineY" : 404.94,
+      "fontId" : 3,
+      "text" : "agreement, statute, regulation, handbook, or administrative notice. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 433.2615,
+      "rightX" : 525.7094,
+      "topY" : 421.2615,
+      "baseLineY" : 430.92,
+      "fontId" : 3,
+      "text" : "Project.  The total number of rental housing units and related facilities subject to a guaranteed "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 447.2415,
+      "rightX" : 454.2361,
+      "topY" : 435.2415,
+      "baseLineY" : 444.9,
+      "fontId" : 3,
+      "text" : "loan that are operated under one management plan with Regulatory agreement. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 473.2215,
+      "rightX" : 497.8682,
+      "topY" : 461.2215,
+      "baseLineY" : 470.88,
+      "fontId" : 3,
+      "text" : "Recourse.  The lender’s right to seek satisfaction from the borrower’s personal financial "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 487.2014,
+      "rightX" : 245.4025,
+      "topY" : 475.2014,
+      "baseLineY" : 484.86,
+      "fontId" : 3,
+      "text" : "resources for any monetary default. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 513.1815,
+      "rightX" : 537.5811,
+      "topY" : 501.1815,
+      "baseLineY" : 510.84,
+      "fontId" : 3,
+      "text" : "Regulatory agreement.  The agreement that establishes the relationship between the Agency, the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 527.1615,
+      "rightX" : 540.173,
+      "topY" : 515.1615,
+      "baseLineY" : 524.82,
+      "fontId" : 3,
+      "text" : "lender, and the borrower; and sets forth the borrower’s responsibilities with respect to all aspects "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 541.1415,
+      "rightX" : 305.7169,
+      "topY" : 529.1415,
+      "baseLineY" : 538.8,
+      "fontId" : 3,
+      "text" : "of the management and operation of the project. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 567.1215,
+      "rightX" : 522.6904,
+      "topY" : 555.1215,
+      "baseLineY" : 564.78,
+      "fontId" : 3,
+      "text" : "Rural area.  A geographic area as defined in title 5 of section 538 of the Housing Act of 1949."
+    }, {
+      "leftX" : 522.6599,
+      "bottomY" : 566.9264,
+      "rightX" : 525.4049,
+      "topY" : 555.9264,
+      "baseLineY" : 564.78,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 593.1015,
+      "rightX" : 534.9196,
+      "topY" : 581.1015,
+      "baseLineY" : 590.76,
+      "fontId" : 3,
+      "text" : "Rural Development.  A mission area within USDA which includes RHS, Rural Utilities Service "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 607.0815,
+      "rightX" : 343.5901,
+      "topY" : 595.0815,
+      "baseLineY" : 604.74,
+      "fontId" : 3,
+      "text" : "(RUS), and Rural Business-Cooperative Service (RBS). "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 633.0614,
+      "rightX" : 536.749,
+      "topY" : 621.0614,
+      "baseLineY" : 630.72,
+      "fontId" : 3,
+      "text" : "Rural Housing Service.  The Rural Housing Service within the Rural Development mission area "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 647.0415,
+      "rightX" : 525.4161,
+      "topY" : 635.0415,
+      "baseLineY" : 644.7,
+      "fontId" : 3,
+      "text" : "of the U.S. Department of Agriculture or its successor agency, which administers Section 538 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 661.0215,
+      "rightX" : 103.3824,
+      "topY" : 649.0215,
+      "baseLineY" : 658.68,
+      "fontId" : 3,
+      "text" : "loans. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 675.0014,
+      "rightX" : 543,
+      "topY" : 663.0014,
+      "baseLineY" : 672.66,
+      "fontId" : 3,
+      "text" : "______________________________________________________________________________ "
+    }, {
+      "leftX" : 254.46,
+      "bottomY" : 688.9815,
+      "rightX" : 360.4642,
+      "topY" : 676.9815,
+      "baseLineY" : 686.64,
+      "fontId" : 3,
+      "text" : "Glossary, Page 5 of 6 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 702.9615,
+      "rightX" : 199.9692,
+      "topY" : 690.9615,
+      "baseLineY" : 700.62,
+      "fontId" : 3,
+      "text" : "(12-18-98)  SPECIAL PN "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 716.9414,
+      "rightX" : 241.6872,
+      "topY" : 704.9414,
+      "baseLineY" : 714.6,
+      "fontId" : 3,
+      "text" : "Revised (02-18-05)  SPECIAL PN "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.3712,
+      "rightX" : 120.3395,
+      "topY" : 73.3712,
+      "baseLineY" : 81.42,
+      "fontId" : 1,
+      "text" : "HB-1-3565 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 121.6215,
+      "rightX" : 75,
+      "topY" : 109.6215,
+      "baseLineY" : 119.28,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 147.6015,
+      "rightX" : 504.2378,
+      "topY" : 135.6015,
+      "baseLineY" : 145.26,
+      "fontId" : 3,
+      "text" : "Servicing.  The broad scope of activities undertaken to manage the performance of a loan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 161.5815,
+      "rightX" : 445.5614,
+      "topY" : 149.5815,
+      "baseLineY" : 159.24,
+      "fontId" : 3,
+      "text" : "throughout its term and to assure compliance with the program requirements. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 187.5614,
+      "rightX" : 517.5337,
+      "topY" : 175.5614,
+      "baseLineY" : 185.22,
+      "fontId" : 3,
+      "text" : "Servicing lender.  A lender or other entity approved to service a permanent guaranteed loan. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 213.5415,
+      "rightX" : 535.0654,
+      "topY" : 201.5415,
+      "baseLineY" : 211.2,
+      "fontId" : 3,
+      "text" : "Single asset ownership.  A limitation on the real estate assets that may be owned by a borrower. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 239.5215,
+      "rightX" : 537.7245,
+      "topY" : 227.5215,
+      "baseLineY" : 237.18,
+      "fontId" : 3,
+      "text" : "Surplus cash.  The borrower’s remaining funds at the property’s fiscal year end, after making all "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 253.5014,
+      "rightX" : 167.0208,
+      "topY" : 241.5014,
+      "baseLineY" : 251.16,
+      "fontId" : 3,
+      "text" : "required payments. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 279.4814,
+      "rightX" : 534.7297,
+      "topY" : 267.4814,
+      "baseLineY" : 277.14,
+      "fontId" : 3,
+      "text" : "Tenant. The individual or individuals that hold the right to occupy a unit in accordance with the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 293.4615,
+      "rightX" : 310.2264,
+      "topY" : 281.4615,
+      "baseLineY" : 291.12,
+      "fontId" : 3,
+      "text" : "terms of a lease executed with the project owner. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 307.4415,
+      "rightX" : 75,
+      "topY" : 295.4415,
+      "baseLineY" : 305.1,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 321.4215,
+      "rightX" : 506.1697,
+      "topY" : 309.4215,
+      "baseLineY" : 319.08,
+      "fontId" : 3,
+      "text" : "U.S. citizen.  An individual who resides as a citizen in any of the 50 States, the District of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 335.4015,
+      "rightX" : 538.4133,
+      "topY" : 323.4015,
+      "baseLineY" : 333.06,
+      "fontId" : 3,
+      "text" : "Columbia, the Commonwealth of Puerto Rico, the U.S. Virgin islands, Guam, American Samoa, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 349.3815,
+      "rightX" : 534.0513,
+      "topY" : 337.3815,
+      "baseLineY" : 347.04,
+      "fontId" : 3,
+      "text" : "the Commonwealth of the Northern Marianas, the Federated States of Micronesia, the Republic "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 363.3615,
+      "rightX" : 311.3207,
+      "topY" : 351.3615,
+      "baseLineY" : 361.02,
+      "fontId" : 3,
+      "text" : "of Palau, or the Republic of the Marshall Islands. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 377.3415,
+      "rightX" : 75,
+      "topY" : 365.3415,
+      "baseLineY" : 375,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 391.3215,
+      "rightX" : 75,
+      "topY" : 379.3215,
+      "baseLineY" : 388.98,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 405.3015,
+      "rightX" : 75,
+      "topY" : 393.3015,
+      "baseLineY" : 402.9601,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 419.2815,
+      "rightX" : 75,
+      "topY" : 407.2815,
+      "baseLineY" : 416.9401,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 433.2615,
+      "rightX" : 75,
+      "topY" : 421.2615,
+      "baseLineY" : 430.9201,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 447.2415,
+      "rightX" : 75,
+      "topY" : 435.2415,
+      "baseLineY" : 444.9001,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 461.2216,
+      "rightX" : 75,
+      "topY" : 449.2216,
+      "baseLineY" : 458.8801,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 475.2016,
+      "rightX" : 75,
+      "topY" : 463.2016,
+      "baseLineY" : 472.8601,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 489.1816,
+      "rightX" : 75,
+      "topY" : 477.1816,
+      "baseLineY" : 486.8401,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 503.1616,
+      "rightX" : 75,
+      "topY" : 491.1616,
+      "baseLineY" : 500.8201,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 517.1416,
+      "rightX" : 75,
+      "topY" : 505.1416,
+      "baseLineY" : 514.8002,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 531.1216,
+      "rightX" : 75,
+      "topY" : 519.1216,
+      "baseLineY" : 528.7802,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 545.1016,
+      "rightX" : 75,
+      "topY" : 533.1016,
+      "baseLineY" : 542.7601,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 559.0816,
+      "rightX" : 75,
+      "topY" : 547.0816,
+      "baseLineY" : 556.7401,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 573.0616,
+      "rightX" : 75,
+      "topY" : 561.0616,
+      "baseLineY" : 570.7202,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 587.0416,
+      "rightX" : 75,
+      "topY" : 575.0416,
+      "baseLineY" : 584.7001,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 601.0216,
+      "rightX" : 75,
+      "topY" : 589.0216,
+      "baseLineY" : 598.6801,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 615.0016,
+      "rightX" : 75,
+      "topY" : 603.0016,
+      "baseLineY" : 612.6602,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 628.9816,
+      "rightX" : 75,
+      "topY" : 616.9816,
+      "baseLineY" : 626.6401,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 642.9616,
+      "rightX" : 75,
+      "topY" : 630.9616,
+      "baseLineY" : 640.6201,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 656.9416,
+      "rightX" : 75,
+      "topY" : 644.9416,
+      "baseLineY" : 654.6001,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 670.9215,
+      "rightX" : 75,
+      "topY" : 658.9215,
+      "baseLineY" : 668.5801,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 684.9016,
+      "rightX" : 75,
+      "topY" : 672.9016,
+      "baseLineY" : 682.5601,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 698.8816,
+      "rightX" : 543,
+      "topY" : 686.8816,
+      "baseLineY" : 696.5401,
+      "fontId" : 3,
+      "text" : "______________________________________________________________________________ "
+    }, {
+      "leftX" : 254.46,
+      "bottomY" : 712.8615,
+      "rightX" : 360.4642,
+      "topY" : 700.8615,
+      "baseLineY" : 710.5201,
+      "fontId" : 3,
+      "text" : "Glossary, Page 6 of 6 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#ff0000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}
