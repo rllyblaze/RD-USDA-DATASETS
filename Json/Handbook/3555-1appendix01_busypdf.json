@@ -1,0 +1,435 @@
+{
+  "pdfDoc" : "3555-1appendix01.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 66,
+      "bottomY" : 48.2508,
+      "rightX" : 69.495,
+      "topY" : 34.2508,
+      "baseLineY" : 45.06,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 496.02,
+      "bottomY" : 47.5791,
+      "rightX" : 542.7332,
+      "topY" : 37.5791,
+      "baseLineY" : 45.3,
+      "fontId" : 2,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 64.3977,
+      "rightX" : 69.495,
+      "topY" : 50.3977,
+      "baseLineY" : 61.2069,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 494.026,
+      "bottomY" : 58.9819,
+      "rightX" : 542.6731,
+      "topY" : 48.9819,
+      "baseLineY" : 56.7028,
+      "fontId" : 2,
+      "text" : "Appendix 1 "
+    }, {
+      "leftX" : 495.7695,
+      "bottomY" : 70.4448,
+      "rightX" : 542.6831,
+      "topY" : 60.4448,
+      "baseLineY" : 68.1656,
+      "fontId" : 2,
+      "text" : "Page 1 of 1 "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 82.1523,
+      "rightX" : 69.495,
+      "topY" : 68.1523,
+      "baseLineY" : 78.9615,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 274.1342,
+      "bottomY" : 98.2293,
+      "rightX" : 342.4405,
+      "topY" : 84.2293,
+      "baseLineY" : 95.0385,
+      "fontId" : 1,
+      "text" : "Appendix 1 "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 114.3349,
+      "rightX" : 69,
+      "topY" : 102.3349,
+      "baseLineY" : 111.6,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 128.1349,
+      "rightX" : 525.78,
+      "topY" : 116.1349,
+      "baseLineY" : 125.4,
+      "fontId" : 3,
+      "text" : "For the complete 7 CFR Part 3555, refer to the National Archives and Records Administration "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 141.9349,
+      "rightX" : 346.6201,
+      "topY" : 129.9349,
+      "baseLineY" : 139.2,
+      "fontId" : 3,
+      "text" : "Electronic Code of Federal Regulations (eCFR) found at "
+    }, {
+      "leftX" : 346.6201,
+      "bottomY" : 141.9349,
+      "rightX" : 511.8961,
+      "topY" : 129.9349,
+      "baseLineY" : 139.2,
+      "fontId" : 4,
+      "text" : "https://www.ecfr.gov/current/title-"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 155.735,
+      "rightX" : 255.96,
+      "topY" : 143.735,
+      "baseLineY" : 153,
+      "fontId" : 4,
+      "text" : "7/subtitle-B/chapter-XXXV/part-3555"
+    }, {
+      "leftX" : 255.96,
+      "bottomY" : 155.735,
+      "rightX" : 258.96,
+      "topY" : 143.735,
+      "baseLineY" : 153,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 169.535,
+      "rightX" : 69,
+      "topY" : 157.535,
+      "baseLineY" : 166.8,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 183.3349,
+      "rightX" : 483.1798,
+      "topY" : 171.3349,
+      "baseLineY" : 180.6,
+      "fontId" : 3,
+      "text" : "The eCFR is a web version of the Code of Federal Regulations (CFR) that is updated "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 197.1349,
+      "rightX" : 526.6802,
+      "topY" : 185.1349,
+      "baseLineY" : 194.4,
+      "fontId" : 3,
+      "text" : "simultaneously with any published revisions. Please use the link above for the most up to date "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 210.9349,
+      "rightX" : 205.6201,
+      "topY" : 198.9349,
+      "baseLineY" : 208.2,
+      "fontId" : 3,
+      "text" : "version of the 7 CFR 3555. "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 224.7349,
+      "rightX" : 74.9401,
+      "topY" : 212.7349,
+      "baseLineY" : 221.9999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 238.5349,
+      "rightX" : 74.9401,
+      "topY" : 226.5349,
+      "baseLineY" : 235.7999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 252.3349,
+      "rightX" : 74.9401,
+      "topY" : 240.3349,
+      "baseLineY" : 249.5999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 266.1349,
+      "rightX" : 74.9401,
+      "topY" : 254.1349,
+      "baseLineY" : 263.3999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 279.9349,
+      "rightX" : 74.9401,
+      "topY" : 267.9349,
+      "baseLineY" : 277.1999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 293.7348,
+      "rightX" : 74.9401,
+      "topY" : 281.7348,
+      "baseLineY" : 290.9999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 307.5348,
+      "rightX" : 74.9401,
+      "topY" : 295.5348,
+      "baseLineY" : 304.7999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 321.3348,
+      "rightX" : 74.9401,
+      "topY" : 309.3348,
+      "baseLineY" : 318.5999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 335.1348,
+      "rightX" : 74.9401,
+      "topY" : 323.1348,
+      "baseLineY" : 332.3998,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 348.9348,
+      "rightX" : 74.9401,
+      "topY" : 336.9348,
+      "baseLineY" : 346.1998,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 362.7348,
+      "rightX" : 74.9401,
+      "topY" : 350.7348,
+      "baseLineY" : 359.9998,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 376.5348,
+      "rightX" : 74.9401,
+      "topY" : 364.5348,
+      "baseLineY" : 373.7998,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 390.3348,
+      "rightX" : 74.9401,
+      "topY" : 378.3348,
+      "baseLineY" : 387.5998,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 404.1347,
+      "rightX" : 74.9401,
+      "topY" : 392.1347,
+      "baseLineY" : 401.3998,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 417.9347,
+      "rightX" : 74.9401,
+      "topY" : 405.9347,
+      "baseLineY" : 415.1998,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 431.7347,
+      "rightX" : 74.9401,
+      "topY" : 419.7347,
+      "baseLineY" : 428.9998,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 445.5347,
+      "rightX" : 74.9401,
+      "topY" : 433.5347,
+      "baseLineY" : 442.7997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 459.3347,
+      "rightX" : 74.9401,
+      "topY" : 447.3347,
+      "baseLineY" : 456.5997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 473.1347,
+      "rightX" : 74.9401,
+      "topY" : 461.1347,
+      "baseLineY" : 470.3997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 486.9347,
+      "rightX" : 74.9401,
+      "topY" : 474.9347,
+      "baseLineY" : 484.1997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 500.7347,
+      "rightX" : 74.9401,
+      "topY" : 488.7347,
+      "baseLineY" : 497.9997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 514.5346,
+      "rightX" : 74.9401,
+      "topY" : 502.5346,
+      "baseLineY" : 511.7997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 528.3346,
+      "rightX" : 74.9401,
+      "topY" : 516.3346,
+      "baseLineY" : 525.5997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 542.1346,
+      "rightX" : 74.9401,
+      "topY" : 530.1346,
+      "baseLineY" : 539.3997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 555.9347,
+      "rightX" : 74.9401,
+      "topY" : 543.9347,
+      "baseLineY" : 553.1997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 569.7347,
+      "rightX" : 74.9401,
+      "topY" : 557.7347,
+      "baseLineY" : 566.9997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 583.5346,
+      "rightX" : 74.9401,
+      "topY" : 571.5346,
+      "baseLineY" : 580.7997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 597.3346,
+      "rightX" : 74.9401,
+      "topY" : 585.3346,
+      "baseLineY" : 594.5997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 611.1346,
+      "rightX" : 74.9401,
+      "topY" : 599.1346,
+      "baseLineY" : 608.3997,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 753.7191,
+      "rightX" : 68.505,
+      "topY" : 743.7191,
+      "baseLineY" : 751.44,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 80.88,
+      "bottomY" : 763.415,
+      "rightX" : 172.14,
+      "topY" : 751.415,
+      "baseLineY" : 760.68,
+      "fontId" : 3,
+      "text" : "(05-05-25) PN 640"
+    }, {
+      "leftX" : 172.2,
+      "bottomY" : 762.9591,
+      "rightX" : 174.705,
+      "topY" : 752.9591,
+      "baseLineY" : 760.68,
+      "fontId" : 2,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#467886"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

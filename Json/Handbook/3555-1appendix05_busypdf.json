@@ -1,0 +1,1367 @@
+{
+  "pdfDoc" : "3555-1appendix05.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 83.6391,
+      "rightX" : 138.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 95.102,
+      "rightX" : 139.4186,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Appendix 5 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 106.625,
+      "rightX" : 137.7453,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 1 of 6 "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 120.5639,
+      "rightX" : 309,
+      "topY" : 108.5639,
+      "baseLineY" : 117.72,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 270.48,
+      "bottomY" : 134.3639,
+      "rightX" : 344.46,
+      "topY" : 122.3639,
+      "baseLineY" : 131.52,
+      "fontId" : 2,
+      "text" : "APPENDIX 5 "
+    }, {
+      "leftX" : 257.52,
+      "bottomY" : 148.1639,
+      "rightX" : 357.48,
+      "topY" : 136.1639,
+      "baseLineY" : 145.3199,
+      "fontId" : 2,
+      "text" : "INCOME LIMITS "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 163.4639,
+      "rightX" : 93,
+      "topY" : 151.4639,
+      "baseLineY" : 160.62,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 177.1549,
+      "rightX" : 520.9796,
+      "topY" : 165.1549,
+      "baseLineY" : 174.42,
+      "fontId" : 3,
+      "text" : "The following USDA Income and Property Eligibility site is used to determine eligibility "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 190.9549,
+      "rightX" : 426.276,
+      "topY" : 178.9549,
+      "baseLineY" : 188.22,
+      "fontId" : 3,
+      "text" : "for USDA home loan programs.  To determine income eligibility visit"
+    }, {
+      "leftX" : 426.3,
+      "bottomY" : 191.0639,
+      "rightX" : 429.3,
+      "topY" : 179.0639,
+      "baseLineY" : 188.22,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 204.7549,
+      "rightX" : 394.9798,
+      "topY" : 192.7549,
+      "baseLineY" : 202.02,
+      "fontId" : 4,
+      "text" : "http://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do"
+    }, {
+      "leftX" : 394.9798,
+      "bottomY" : 204.7549,
+      "rightX" : 397.9798,
+      "topY" : 192.7549,
+      "baseLineY" : 202.02,
+      "fontId" : 3,
+      "text" : "."
+    }, {
+      "leftX" : 397.9798,
+      "bottomY" : 204.8639,
+      "rightX" : 400.9798,
+      "topY" : 192.8639,
+      "baseLineY" : 202.02,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 218.555,
+      "rightX" : 93,
+      "topY" : 206.555,
+      "baseLineY" : 215.82,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 232.355,
+      "rightX" : 334.92,
+      "topY" : 220.355,
+      "baseLineY" : 229.62,
+      "fontId" : 3,
+      "text" : "Note:  Bookmark this site for future reference/use. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 246.1549,
+      "rightX" : 93,
+      "topY" : 234.1549,
+      "baseLineY" : 243.42,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 526.884,
+      "rightX" : 93,
+      "topY" : 514.884,
+      "baseLineY" : 524.04,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 553.44,
+      "bottomY" : 515.0991,
+      "rightX" : 555.945,
+      "topY" : 505.0991,
+      "baseLineY" : 512.82,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 540.684,
+      "rightX" : 355.26,
+      "topY" : 528.684,
+      "baseLineY" : 537.84,
+      "fontId" : 2,
+      "text" : "To view the county income limits of a specific state: "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 554.375,
+      "rightX" : 93,
+      "topY" : 542.375,
+      "baseLineY" : 551.64,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 568.175,
+      "rightX" : 117,
+      "topY" : 556.175,
+      "baseLineY" : 565.44,
+      "fontId" : 3,
+      "text" : "1."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 568.2971,
+      "rightX" : 120.336,
+      "topY" : 556.2971,
+      "baseLineY" : 565.44,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 568.175,
+      "rightX" : 512.9399,
+      "topY" : 556.175,
+      "baseLineY" : 565.44,
+      "fontId" : 3,
+      "text" : "From the Single Family Housing Guaranteed Eligibility navigation menu on the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 581.975,
+      "rightX" : 504.5399,
+      "topY" : 569.975,
+      "baseLineY" : 579.24,
+      "fontId" : 3,
+      "text" : "top of the page, select “Income Limits” to obtain a listing of all states’ income "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 595.775,
+      "rightX" : 159.36,
+      "topY" : 583.775,
+      "baseLineY" : 593.04,
+      "fontId" : 3,
+      "text" : "limits. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 609.575,
+      "rightX" : 129,
+      "topY" : 597.575,
+      "baseLineY" : 606.84,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 693.8991,
+      "rightX" : 191.6589,
+      "topY" : 683.8991,
+      "baseLineY" : 691.62,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN"
+    }, {
+      "leftX" : 191.64,
+      "bottomY" : 694.355,
+      "rightX" : 194.64,
+      "topY" : 682.355,
+      "baseLineY" : 691.62,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 539.52,
+      "bottomY" : 684.995,
+      "rightX" : 542.52,
+      "topY" : 672.995,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 705.4192,
+      "rightX" : 205.8342,
+      "topY" : 695.4192,
+      "baseLineY" : 703.14,
+      "fontId" : 1,
+      "text" : "Revised (10-12-23)  PN 594 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 719.255,
+      "rightX" : 129,
+      "topY" : 707.255,
+      "baseLineY" : 716.52,
+      "fontId" : 3,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 83.6391,
+      "rightX" : 138.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 95.102,
+      "rightX" : 139.4186,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Appendix 5 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 106.625,
+      "rightX" : 137.7453,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 2 of 6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 120.4549,
+      "rightX" : 117,
+      "topY" : 108.4549,
+      "baseLineY" : 117.72,
+      "fontId" : 3,
+      "text" : "2."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 120.5771,
+      "rightX" : 120.336,
+      "topY" : 108.5771,
+      "baseLineY" : 117.72,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 120.4549,
+      "rightX" : 203.94,
+      "topY" : 108.4549,
+      "baseLineY" : 117.72,
+      "fontId" : 3,
+      "text" : "Select the state. "
+    }, {
+      "leftX" : 90.0043,
+      "bottomY" : 365.6378,
+      "rightX" : 92.5093,
+      "topY" : 355.6378,
+      "baseLineY" : 363.3587,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 408.48,
+      "bottomY" : 356.2791,
+      "rightX" : 410.985,
+      "topY" : 346.2791,
+      "baseLineY" : 354,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 379.475,
+      "rightX" : 117,
+      "topY" : 367.475,
+      "baseLineY" : 376.74,
+      "fontId" : 3,
+      "text" : "3."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 379.5971,
+      "rightX" : 120.336,
+      "topY" : 367.5971,
+      "baseLineY" : 376.74,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 379.475,
+      "rightX" : 506.3396,
+      "topY" : 367.475,
+      "baseLineY" : 376.74,
+      "fontId" : 3,
+      "text" : "Once a state is selected, the income limits utilizing this method will display all "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 393.2749,
+      "rightX" : 482.64,
+      "topY" : 381.2749,
+      "baseLineY" : 390.54,
+      "fontId" : 3,
+      "text" : "counties within the selected state, by number of persons in the household. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 407.0749,
+      "rightX" : 129,
+      "topY" : 395.0749,
+      "baseLineY" : 404.34,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 420.8749,
+      "rightX" : 117,
+      "topY" : 408.8749,
+      "baseLineY" : 418.14,
+      "fontId" : 3,
+      "text" : "4."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 420.9971,
+      "rightX" : 120.336,
+      "topY" : 408.9971,
+      "baseLineY" : 418.14,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 420.8749,
+      "rightX" : 508.7936,
+      "topY" : 408.8749,
+      "baseLineY" : 418.14,
+      "fontId" : 3,
+      "text" : "Some counties that are contained within a Metropolitan Statistical Area (MSA) "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 434.6149,
+      "rightX" : 270.96,
+      "topY" : 422.6149,
+      "baseLineY" : 431.8799,
+      "fontId" : 3,
+      "text" : "will be listed under the MSA. "
+    }, {
+      "leftX" : 89.9987,
+      "bottomY" : 714.2378,
+      "rightX" : 522.5233,
+      "topY" : 704.2378,
+      "baseLineY" : 711.9587,
+      "fontId" : 1,
+      "text" : "______________________________________________________________________________________ "
+    }, {
+      "leftX" : 471.42,
+      "bottomY" : 704.8791,
+      "rightX" : 473.925,
+      "topY" : 694.8791,
+      "baseLineY" : 702.6,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 83.6391,
+      "rightX" : 138.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 95.102,
+      "rightX" : 139.4186,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Appendix 5 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 106.625,
+      "rightX" : 137.7453,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 3 of 6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 120.4549,
+      "rightX" : 117,
+      "topY" : 108.4549,
+      "baseLineY" : 117.72,
+      "fontId" : 3,
+      "text" : "5."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 120.5771,
+      "rightX" : 120.336,
+      "topY" : 108.5771,
+      "baseLineY" : 117.72,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 120.4549,
+      "rightX" : 505.2574,
+      "topY" : 108.4549,
+      "baseLineY" : 117.72,
+      "fontId" : 3,
+      "text" : "If no selection of state is made by the user, the user may utlize the right screen "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 134.2549,
+      "rightX" : 380.6399,
+      "topY" : 122.2549,
+      "baseLineY" : 131.52,
+      "fontId" : 3,
+      "text" : "navigational tool to scroll by page through all states. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 142.299,
+      "rightX" : 91.755,
+      "topY" : 135.299,
+      "baseLineY" : 140.64,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 156.2039,
+      "rightX" : 440.34,
+      "topY" : 144.2039,
+      "baseLineY" : 153.36,
+      "fontId" : 2,
+      "text" : "To determine the eligibility of an individual or applicant/household: "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 169.8949,
+      "rightX" : 93,
+      "topY" : 157.8949,
+      "baseLineY" : 167.16,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 183.6949,
+      "rightX" : 117,
+      "topY" : 171.6949,
+      "baseLineY" : 180.96,
+      "fontId" : 3,
+      "text" : "1."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 183.8171,
+      "rightX" : 120.336,
+      "topY" : 171.8171,
+      "baseLineY" : 180.96,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 183.6949,
+      "rightX" : 512.9399,
+      "topY" : 171.6949,
+      "baseLineY" : 180.96,
+      "fontId" : 3,
+      "text" : "From the Single Family Housing Guaranteed Eligibility navigation menu on the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 197.4949,
+      "rightX" : 520.2,
+      "topY" : 185.4949,
+      "baseLineY" : 194.7599,
+      "fontId" : 3,
+      "text" : "top of the page, select “Income Eligibility” from the Eligibility navigation menu.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 211.2949,
+      "rightX" : 423.6,
+      "topY" : 199.2949,
+      "baseLineY" : 208.5599,
+      "fontId" : 3,
+      "text" : "The following is a step-by-step guide in utilizing the website. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 225.0949,
+      "rightX" : 111,
+      "topY" : 213.0949,
+      "baseLineY" : 222.3599,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 107.9987,
+      "bottomY" : 327.9578,
+      "rightX" : 110.5037,
+      "topY" : 317.9578,
+      "baseLineY" : 325.6787,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 539.52,
+      "bottomY" : 318.5991,
+      "rightX" : 542.025,
+      "topY" : 308.5991,
+      "baseLineY" : 316.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 341.795,
+      "rightX" : 117,
+      "topY" : 329.795,
+      "baseLineY" : 339.06,
+      "fontId" : 3,
+      "text" : "2."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 341.9171,
+      "rightX" : 120.336,
+      "topY" : 329.9171,
+      "baseLineY" : 339.06,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 341.795,
+      "rightX" : 322.98,
+      "topY" : 329.795,
+      "baseLineY" : 339.06,
+      "fontId" : 3,
+      "text" : "Select a state from the drop down menu. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 515.555,
+      "rightX" : 117,
+      "topY" : 503.555,
+      "baseLineY" : 512.82,
+      "fontId" : 3,
+      "text" : "3."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 515.6772,
+      "rightX" : 120.336,
+      "topY" : 503.6772,
+      "baseLineY" : 512.82,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 515.555,
+      "rightX" : 408.8399,
+      "topY" : 503.555,
+      "baseLineY" : 512.82,
+      "fontId" : 3,
+      "text" : "Select a county within the state by utilizing the dropdown. "
+    }, {
+      "leftX" : 540,
+      "bottomY" : 503.8791,
+      "rightX" : 542.505,
+      "topY" : 493.8791,
+      "baseLineY" : 501.6,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 689.9392,
+      "rightX" : 522.5247,
+      "topY" : 679.9392,
+      "baseLineY" : 687.66,
+      "fontId" : 1,
+      "text" : "______________________________________________________________________________________ "
+    }, {
+      "leftX" : 540,
+      "bottomY" : 681.2039,
+      "rightX" : 543,
+      "topY" : 669.2039,
+      "baseLineY" : 678.36,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 701.4591,
+      "rightX" : 191.6589,
+      "topY" : 691.4591,
+      "baseLineY" : 699.18,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN"
+    }, {
+      "leftX" : 191.64,
+      "bottomY" : 701.915,
+      "rightX" : 194.64,
+      "topY" : 689.915,
+      "baseLineY" : 699.18,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 712.9792,
+      "rightX" : 203.3593,
+      "topY" : 702.9792,
+      "baseLineY" : 710.7,
+      "fontId" : 1,
+      "text" : "Revised (10-12-23)  PN 594"
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 83.6391,
+      "rightX" : 138.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 95.102,
+      "rightX" : 139.4186,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Appendix 5 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 106.625,
+      "rightX" : 137.7353,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 4 of 6 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 120.4549,
+      "rightX" : 93,
+      "topY" : 108.4549,
+      "baseLineY" : 117.72,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 134.2549,
+      "rightX" : 117,
+      "topY" : 122.2549,
+      "baseLineY" : 131.52,
+      "fontId" : 3,
+      "text" : "4."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 134.3771,
+      "rightX" : 120.336,
+      "topY" : 122.3771,
+      "baseLineY" : 131.52,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 134.2549,
+      "rightX" : 352.62,
+      "topY" : 122.2549,
+      "baseLineY" : 131.52,
+      "fontId" : 3,
+      "text" : "Complete information on household members. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 148.0549,
+      "rightX" : 93,
+      "topY" : 136.0549,
+      "baseLineY" : 145.3199,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 161.8549,
+      "rightX" : 523.0196,
+      "topY" : 149.8549,
+      "baseLineY" : 159.1199,
+      "fontId" : 3,
+      "text" : "This site is utilized to determine program eligible income and will include income "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 175.6549,
+      "rightX" : 524.2797,
+      "topY" : 163.6549,
+      "baseLineY" : 172.9199,
+      "fontId" : 3,
+      "text" : "from all household members, regardless if they are a party to the note to be taken.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 195.5149,
+      "rightX" : 247.32,
+      "topY" : 183.5149,
+      "baseLineY" : 192.7799,
+      "fontId" : 3,
+      "text" : "The “question” symbol - "
+    }, {
+      "leftX" : 265.38,
+      "bottomY" : 195.5149,
+      "rightX" : 507.6597,
+      "topY" : 183.5149,
+      "baseLineY" : 192.7799,
+      "fontId" : 3,
+      "text" : " may be utilized to seek additional information on "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 209.3149,
+      "rightX" : 180.96,
+      "topY" : 197.3149,
+      "baseLineY" : 206.5799,
+      "fontId" : 3,
+      "text" : "each topic. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 223.2238,
+      "rightX" : 129,
+      "topY" : 211.2238,
+      "baseLineY" : 220.3799,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 246.9349,
+      "rightX" : 93,
+      "topY" : 234.9349,
+      "baseLineY" : 244.1999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 93,
+      "bottomY" : 246.0233,
+      "rightX" : 94.995,
+      "topY" : 238.0233,
+      "baseLineY" : 244.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 236.9148,
+      "rightX" : 231.36,
+      "topY" : 224.9148,
+      "baseLineY" : 234.1799,
+      "fontId" : 3,
+      "text" : "This site is dynamic.  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 259.4411,
+      "rightX" : 153.528,
+      "topY" : 247.4411,
+      "baseLineY" : 257.16,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 153.54,
+      "bottomY" : 260.0171,
+      "rightX" : 156.876,
+      "topY" : 248.0171,
+      "baseLineY" : 257.16,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 259.8949,
+      "rightX" : 405.96,
+      "topY" : 247.8949,
+      "baseLineY" : 257.16,
+      "fontId" : 3,
+      "text" : "Enter the total number of people in the household. "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 273.6949,
+      "rightX" : 165,
+      "topY" : 261.6949,
+      "baseLineY" : 270.96,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 287.041,
+      "rightX" : 153.528,
+      "topY" : 275.041,
+      "baseLineY" : 284.7599,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 153.54,
+      "bottomY" : 287.6171,
+      "rightX" : 156.876,
+      "topY" : 275.6171,
+      "baseLineY" : 284.7599,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 287.4949,
+      "rightX" : 498.5398,
+      "topY" : 275.4949,
+      "baseLineY" : 284.7599,
+      "fontId" : 3,
+      "text" : "Enter the number of residents in the household under 18 years of age, "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 301.2949,
+      "rightX" : 520.8597,
+      "topY" : 289.2949,
+      "baseLineY" : 298.5599,
+      "fontId" : 3,
+      "text" : "disabled, or are full-time students.  A deduction field for annual child care "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 315.0949,
+      "rightX" : 378.66,
+      "topY" : 303.0949,
+      "baseLineY" : 312.3599,
+      "fontId" : 3,
+      "text" : "expenses will display on the following page. "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 328.8949,
+      "rightX" : 165,
+      "topY" : 316.8949,
+      "baseLineY" : 326.1599,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 342.241,
+      "rightX" : 153.528,
+      "topY" : 330.241,
+      "baseLineY" : 339.9599,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 153.54,
+      "bottomY" : 342.817,
+      "rightX" : 156.876,
+      "topY" : 330.817,
+      "baseLineY" : 339.9599,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 342.6949,
+      "rightX" : 517.2574,
+      "topY" : 330.6949,
+      "baseLineY" : 339.9599,
+      "fontId" : 3,
+      "text" : "If the loan applicant or co-applicant is age 62 years of age or older, select "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 356.4949,
+      "rightX" : 481.6149,
+      "topY" : 344.4949,
+      "baseLineY" : 353.7599,
+      "fontId" : 3,
+      "text" : "“Yes.”  A deduction field for eligible expenses will display on the "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 370.2948,
+      "rightX" : 240.3,
+      "topY" : 358.2948,
+      "baseLineY" : 367.5599,
+      "fontId" : 3,
+      "text" : "following page. "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 384.0948,
+      "rightX" : 165,
+      "topY" : 372.0948,
+      "baseLineY" : 381.3599,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 397.4409,
+      "rightX" : 153.528,
+      "topY" : 385.4409,
+      "baseLineY" : 395.1599,
+      "fontId" : 8,
+      "text" : ""
+    }, {
+      "leftX" : 153.54,
+      "bottomY" : 398.017,
+      "rightX" : 156.876,
+      "topY" : 386.017,
+      "baseLineY" : 395.1599,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 397.8948,
+      "rightX" : 513.8386,
+      "topY" : 385.8948,
+      "baseLineY" : 395.1599,
+      "fontId" : 3,
+      "text" : "If there are any disabled household members, select “Yes.”  A deduction "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 411.6948,
+      "rightX" : 459.6598,
+      "topY" : 399.6948,
+      "baseLineY" : 408.9598,
+      "fontId" : 3,
+      "text" : "field for eligible expenses will display on the following page. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 425.4948,
+      "rightX" : 93,
+      "topY" : 413.4948,
+      "baseLineY" : 422.7598,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 439.2948,
+      "rightX" : 117,
+      "topY" : 427.2948,
+      "baseLineY" : 436.5598,
+      "fontId" : 3,
+      "text" : "5."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 439.417,
+      "rightX" : 120.336,
+      "topY" : 427.417,
+      "baseLineY" : 436.5598,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 439.2948,
+      "rightX" : 198.3,
+      "topY" : 427.2948,
+      "baseLineY" : 436.5598,
+      "fontId" : 3,
+      "text" : "Select “Next.” "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 453.0948,
+      "rightX" : 93,
+      "topY" : 441.0948,
+      "baseLineY" : 450.3598,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 540.42,
+      "bottomY" : 704.3991,
+      "rightX" : 542.925,
+      "topY" : 694.3991,
+      "baseLineY" : 702.12,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 720.1296,
+      "rightX" : 92.495,
+      "topY" : 710.1296,
+      "baseLineY" : 717.8505,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 47.6391,
+      "rightX" : 138.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 59.102,
+      "rightX" : 139.4186,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : "Appendix 5 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 70.625,
+      "rightX" : 137.7453,
+      "topY" : 60.625,
+      "baseLineY" : 68.3459,
+      "fontId" : 1,
+      "text" : "Page 5 of 6 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.755,
+      "rightX" : 117,
+      "topY" : 87.755,
+      "baseLineY" : 97.02,
+      "fontId" : 3,
+      "text" : "6."
+    }, {
+      "leftX" : 126,
+      "bottomY" : 99.755,
+      "rightX" : 502.8478,
+      "topY" : 87.7549,
+      "baseLineY" : 97.02,
+      "fontId" : 3,
+      "text" : "Complete the “Expenses and Deductions” portion of the page.  Available data "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 113.5549,
+      "rightX" : 519.3358,
+      "topY" : 101.5549,
+      "baseLineY" : 110.8199,
+      "fontId" : 3,
+      "text" : "fields will appear based upon the responses provided on the “Household Member "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 127.3549,
+      "rightX" : 217.32,
+      "topY" : 115.3549,
+      "baseLineY" : 124.6199,
+      "fontId" : 3,
+      "text" : "Information” page."
+    }, {
+      "leftX" : 108,
+      "bottomY" : 154.9549,
+      "rightX" : 117,
+      "topY" : 142.9549,
+      "baseLineY" : 152.22,
+      "fontId" : 3,
+      "text" : "7."
+    }, {
+      "leftX" : 126,
+      "bottomY" : 154.9549,
+      "rightX" : 516.5999,
+      "topY" : 142.9549,
+      "baseLineY" : 152.22,
+      "fontId" : 3,
+      "text" : "Complete the “Gross Monthly Income” section for all adult household members, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 168.7549,
+      "rightX" : 391.68,
+      "topY" : 156.7549,
+      "baseLineY" : 166.02,
+      "fontId" : 3,
+      "text" : "regardless if a household member is a party to the note."
+    }, {
+      "leftX" : 108,
+      "bottomY" : 196.355,
+      "rightX" : 117,
+      "topY" : 184.355,
+      "baseLineY" : 193.62,
+      "fontId" : 3,
+      "text" : "8."
+    }, {
+      "leftX" : 126,
+      "bottomY" : 196.355,
+      "rightX" : 468.5949,
+      "topY" : 184.355,
+      "baseLineY" : 193.62,
+      "fontId" : 3,
+      "text" : "Select “Finish” to complete the calculation of program eligible income."
+    }, {
+      "leftX" : 90,
+      "bottomY" : 684.5775,
+      "rightX" : 522.526,
+      "topY" : 674.5771,
+      "baseLineY" : 682.298,
+      "fontId" : 1,
+      "text" : "______________________________________________________________________________________ "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 696.5865,
+      "rightX" : 191.8204,
+      "topY" : 686.5865,
+      "baseLineY" : 694.3074,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN"
+    }, {
+      "leftX" : 191.825,
+      "bottomY" : 697.0423,
+      "rightX" : 194.825,
+      "topY" : 685.0423,
+      "baseLineY" : 694.3074,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 707.5556,
+      "rightX" : 206.07,
+      "topY" : 697.5555,
+      "baseLineY" : 705.2764,
+      "fontId" : 1,
+      "text" : "Revised (10-12-23)  PN 594 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 47.6391,
+      "rightX" : 138.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 59.102,
+      "rightX" : 139.4186,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : "Appendix 5 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 70.625,
+      "rightX" : 137.7453,
+      "topY" : 60.625,
+      "baseLineY" : 68.3459,
+      "fontId" : 1,
+      "text" : "Page 6 of 6 "
+    }, {
+      "leftX" : 171.0017,
+      "bottomY" : 70.625,
+      "rightX" : 173.5067,
+      "topY" : 60.625,
+      "baseLineY" : 68.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 83.641,
+      "rightX" : 92.505,
+      "topY" : 73.641,
+      "baseLineY" : 81.3619,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 97.475,
+      "rightX" : 129,
+      "topY" : 85.475,
+      "baseLineY" : 94.74,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 111.2749,
+      "rightX" : 117,
+      "topY" : 99.2749,
+      "baseLineY" : 108.54,
+      "fontId" : 3,
+      "text" : "9."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 111.3971,
+      "rightX" : 120.336,
+      "topY" : 99.3971,
+      "baseLineY" : 108.54,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 111.2749,
+      "rightX" : 429.3,
+      "topY" : 99.2749,
+      "baseLineY" : 108.54,
+      "fontId" : 3,
+      "text" : "An “Income Eligibility Determination Summary” will display. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 125.0749,
+      "rightX" : 129,
+      "topY" : 113.0749,
+      "baseLineY" : 122.34,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 138.8749,
+      "rightX" : 123,
+      "topY" : 126.8749,
+      "baseLineY" : 136.14,
+      "fontId" : 3,
+      "text" : "10."
+    }, {
+      "leftX" : 123,
+      "bottomY" : 138.9971,
+      "rightX" : 126.336,
+      "topY" : 126.9971,
+      "baseLineY" : 136.14,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 138.8749,
+      "rightX" : 499.0173,
+      "topY" : 126.8749,
+      "baseLineY" : 136.14,
+      "fontId" : 3,
+      "text" : "The summary will outline the applicant’s eligibility for the Guaranteed Rural "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 152.6749,
+      "rightX" : 520.92,
+      "topY" : 140.6749,
+      "baseLineY" : 149.9399,
+      "fontId" : 3,
+      "text" : "Housing Loan Program and the Section 502 Direct Rural Housing Loan Program. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 166.4749,
+      "rightX" : 129.0001,
+      "topY" : 154.4749,
+      "baseLineY" : 163.7399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 562.3801,
+      "bottomY" : 462.2639,
+      "rightX" : 565.3801,
+      "topY" : 450.2639,
+      "baseLineY" : 459.4199,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 756.1233,
+      "rightX" : 92.505,
+      "topY" : 746.1233,
+      "baseLineY" : 753.8442,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 5,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 7.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "Wingdings-Regular",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

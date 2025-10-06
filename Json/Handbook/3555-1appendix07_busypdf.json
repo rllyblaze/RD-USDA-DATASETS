@@ -1,0 +1,3285 @@
+{
+  "pdfDoc" : "3555-1appendix07.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 49.9549,
+      "rightX" : 129.66,
+      "topY" : 37.9549,
+      "baseLineY" : 47.22,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 63.7549,
+      "rightX" : 131.34,
+      "topY" : 51.7549,
+      "baseLineY" : 61.02,
+      "fontId" : 1,
+      "text" : "Appendix 7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 77.5549,
+      "rightX" : 129.3,
+      "topY" : 65.5549,
+      "baseLineY" : 74.8199,
+      "fontId" : 1,
+      "text" : "Page 1 of 9 "
+    }, {
+      "leftX" : 540,
+      "bottomY" : 91.3549,
+      "rightX" : 543,
+      "topY" : 79.3549,
+      "baseLineY" : 88.6199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 105.3839,
+      "rightX" : 75,
+      "topY" : 93.3839,
+      "baseLineY" : 102.54,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 270.48,
+      "bottomY" : 119.2439,
+      "rightX" : 344.46,
+      "topY" : 107.2439,
+      "baseLineY" : 116.4,
+      "fontId" : 2,
+      "text" : "APPENDIX 7 "
+    }, {
+      "leftX" : 107.64,
+      "bottomY" : 139.1639,
+      "rightX" : 447.2282,
+      "topY" : 127.1639,
+      "baseLineY" : 136.3199,
+      "fontId" : 2,
+      "text" : "CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM"
+    }, {
+      "leftX" : 447.3,
+      "bottomY" : 139.0549,
+      "rightX" : 454.296,
+      "topY" : 127.0549,
+      "baseLineY" : 136.3199,
+      "fontId" : 1,
+      "text" : " ("
+    }, {
+      "leftX" : 454.32,
+      "bottomY" : 139.1639,
+      "rightX" : 510.3001,
+      "topY" : 127.1639,
+      "baseLineY" : 136.3199,
+      "fontId" : 2,
+      "text" : "CAIVRS)  "
+    }, {
+      "leftX" : 512.76,
+      "bottomY" : 140.8679,
+      "rightX" : 513.015,
+      "topY" : 139.8679,
+      "baseLineY" : 140.64,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 156.2609,
+      "rightX" : 75.255,
+      "topY" : 143.2609,
+      "baseLineY" : 153.18,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 174.624,
+      "rightX" : 169.68,
+      "topY" : 162.624,
+      "baseLineY" : 171.78,
+      "fontId" : 2,
+      "text" : "What is CAIVRS? "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 186.45,
+      "rightX" : 74.505,
+      "topY" : 176.45,
+      "baseLineY" : 184.08,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 200.195,
+      "rightX" : 535.2562,
+      "topY" : 188.195,
+      "baseLineY" : 197.46,
+      "fontId" : 1,
+      "text" : "CAIVRS is a Federal government database of delinquent Federal debtors that allows "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 213.995,
+      "rightX" : 491.9373,
+      "topY" : 201.995,
+      "baseLineY" : 211.26,
+      "fontId" : 1,
+      "text" : "federal agencies to reduce the risk to federal loan and loan guarantee programs. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 227.795,
+      "rightX" : 507.6621,
+      "topY" : 215.795,
+      "baseLineY" : 225.06,
+      "fontId" : 1,
+      "text" : "CAIVRS alerts participating Federal lending agencies when an applicant for credit "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 241.595,
+      "rightX" : 514.2608,
+      "topY" : 229.595,
+      "baseLineY" : 238.86,
+      "fontId" : 1,
+      "text" : "benefits, or for a position of trust in support of the administration of a Federal credit "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 255.3949,
+      "rightX" : 520.2597,
+      "topY" : 243.3949,
+      "baseLineY" : 252.66,
+      "fontId" : 1,
+      "text" : "program, has a Federal lien, judgment, or a Federal loan that is currently in default or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 269.1949,
+      "rightX" : 392.16,
+      "topY" : 257.1949,
+      "baseLineY" : 266.46,
+      "fontId" : 1,
+      "text" : "foreclosure, or has had a claim paid by a reporting agency. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 281.1591,
+      "rightX" : 74.625,
+      "topY" : 271.1591,
+      "baseLineY" : 278.88,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 295.2239,
+      "rightX" : 161.34,
+      "topY" : 283.2239,
+      "baseLineY" : 292.38,
+      "fontId" : 2,
+      "text" : "What does it do? "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 307.0499,
+      "rightX" : 74.505,
+      "topY" : 297.0499,
+      "baseLineY" : 304.68,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 320.795,
+      "rightX" : 495.5398,
+      "topY" : 308.795,
+      "baseLineY" : 318.06,
+      "fontId" : 1,
+      "text" : "CAIVRS allows authorized employees of participating Federal agencies and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 334.595,
+      "rightX" : 510.8338,
+      "topY" : 322.595,
+      "baseLineY" : 331.86,
+      "fontId" : 1,
+      "text" : "approved private lenders acting on the Government’s behalf to access a database of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 348.3949,
+      "rightX" : 508.1997,
+      "topY" : 336.3949,
+      "baseLineY" : 345.66,
+      "fontId" : 1,
+      "text" : "delinquent Federal borrowers for the purpose of pre-screening applicants for credit "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 362.1949,
+      "rightX" : 273.24,
+      "topY" : 350.1949,
+      "baseLineY" : 359.46,
+      "fontId" : 1,
+      "text" : "worthiness for federal assistance.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 374.1591,
+      "rightX" : 74.625,
+      "topY" : 364.1591,
+      "baseLineY" : 371.88,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 388.2239,
+      "rightX" : 170.64,
+      "topY" : 376.2239,
+      "baseLineY" : 385.38,
+      "fontId" : 2,
+      "text" : "How does it work? "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 399.9899,
+      "rightX" : 74.505,
+      "topY" : 389.9899,
+      "baseLineY" : 397.62,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 413.795,
+      "rightX" : 511.5598,
+      "topY" : 401.795,
+      "baseLineY" : 411.06,
+      "fontId" : 1,
+      "text" : "CAIVRS has delinquent borrower records from the Department of Housing and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 427.595,
+      "rightX" : 470.5233,
+      "topY" : 415.595,
+      "baseLineY" : 424.86,
+      "fontId" : 1,
+      "text" : "Urban Development (HUD), the Department of Veterans Affairs (VA), the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 441.3949,
+      "rightX" : 514.8585,
+      "topY" : 429.3949,
+      "baseLineY" : 438.66,
+      "fontId" : 1,
+      "text" : "Department of Education (DOE), the Department of Agriculture (USDA), the Small "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 455.1949,
+      "rightX" : 515.7021,
+      "topY" : 443.1949,
+      "baseLineY" : 452.46,
+      "fontId" : 1,
+      "text" : "Business Administration (SBA), the Federal Deposit Insurance Corporation (FDIC), "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 468.9949,
+      "rightX" : 514.5583,
+      "topY" : 456.9949,
+      "baseLineY" : 466.2599,
+      "fontId" : 1,
+      "text" : "and the Department of Justice (DOJ). Authorized users may access CAIVRS via the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 482.7949,
+      "rightX" : 151.32,
+      "topY" : 470.7949,
+      "baseLineY" : 480.0599,
+      "fontId" : 1,
+      "text" : "Internet. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 495.407,
+      "rightX" : 74.745,
+      "topY" : 484.407,
+      "baseLineY" : 492.9,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 518.364,
+      "rightX" : 413.88,
+      "topY" : 506.364,
+      "baseLineY" : 515.52,
+      "fontId" : 2,
+      "text" : "How does CAIVRS relate to Government Financial Management? "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 530.13,
+      "rightX" : 74.505,
+      "topY" : 520.13,
+      "baseLineY" : 527.76,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 543.935,
+      "rightX" : 520.1385,
+      "topY" : 531.935,
+      "baseLineY" : 541.2,
+      "fontId" : 1,
+      "text" : "Federal law prevents “delinquent Federal debtors from obtaining Federal loans or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 557.735,
+      "rightX" : 531.8998,
+      "topY" : 545.735,
+      "baseLineY" : 555,
+      "fontId" : 1,
+      "text" : "loan insurance guarantees.” CAIVRS provides a single repository of delinquent Federal "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 571.535,
+      "rightX" : 529.56,
+      "topY" : 559.535,
+      "baseLineY" : 568.8,
+      "fontId" : 1,
+      "text" : "debtor records with easy access through a variety of media for pre-screening applicants "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 585.3349,
+      "rightX" : 520.8561,
+      "topY" : 573.3349,
+      "baseLineY" : 582.6,
+      "fontId" : 1,
+      "text" : "for Federal benefits. Most credit bureau reports do not identify insured debts as being "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 599.135,
+      "rightX" : 522.8398,
+      "topY" : 587.135,
+      "baseLineY" : 596.4,
+      "fontId" : 1,
+      "text" : "delinquent Federal debts. By participating in CAIVRS, Federal lending agencies have "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 612.935,
+      "rightX" : 524.58,
+      "topY" : 600.935,
+      "baseLineY" : 610.2,
+      "fontId" : 1,
+      "text" : "ready access to an interdepartmental database of delinquent Federal debts that provide "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 626.735,
+      "rightX" : 509.881,
+      "topY" : 614.735,
+      "baseLineY" : 624,
+      "fontId" : 1,
+      "text" : "Federal financial managers with the information necessary to comply with the U.S. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 640.535,
+      "rightX" : 204.96,
+      "topY" : 628.535,
+      "baseLineY" : 637.8,
+      "fontId" : 1,
+      "text" : "Code requirements. "
+    }, {
+      "leftX" : 99.96,
+      "bottomY" : 654.335,
+      "rightX" : 102.96,
+      "topY" : 642.335,
+      "baseLineY" : 651.6,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 99.96,
+      "bottomY" : 668.135,
+      "rightX" : 102.96,
+      "topY" : 656.135,
+      "baseLineY" : 665.4,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 680.747,
+      "rightX" : 74.745,
+      "topY" : 669.747,
+      "baseLineY" : 678.24,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 709.0191,
+      "rightX" : 74.505,
+      "topY" : 699.0191,
+      "baseLineY" : 706.74,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 722.9991,
+      "rightX" : 176.1379,
+      "topY" : 712.9991,
+      "baseLineY" : 720.72,
+      "fontId" : 6,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 734.5221,
+      "rightX" : 187.8242,
+      "topY" : 724.5221,
+      "baseLineY" : 732.243,
+      "fontId" : 6,
+      "text" : "Revised (05-05-25)  PN 640 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 49.9549,
+      "rightX" : 129.66,
+      "topY" : 37.9549,
+      "baseLineY" : 47.22,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 63.7549,
+      "rightX" : 131.34,
+      "topY" : 51.7549,
+      "baseLineY" : 61.02,
+      "fontId" : 1,
+      "text" : "Appendix 7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 77.5549,
+      "rightX" : 129.3,
+      "topY" : 65.5549,
+      "baseLineY" : 74.8199,
+      "fontId" : 1,
+      "text" : "Page 2 of 9 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 90.465,
+      "rightX" : 74.4815,
+      "topY" : 79.465,
+      "baseLineY" : 87.9,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 104.9039,
+      "rightX" : 191.7,
+      "topY" : 92.9039,
+      "baseLineY" : 102.06,
+      "fontId" : 2,
+      "text" : "ACCESS TO CAIVRS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 117.4071,
+      "rightX" : 74.745,
+      "topY" : 106.4071,
+      "baseLineY" : 114.9,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 140.364,
+      "rightX" : 119.64,
+      "topY" : 128.364,
+      "baseLineY" : 137.52,
+      "fontId" : 2,
+      "text" : "A."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 140.6709,
+      "rightX" : 122.976,
+      "topY" : 128.6709,
+      "baseLineY" : 137.52,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 140.364,
+      "rightX" : 283.98,
+      "topY" : 128.364,
+      "baseLineY" : 137.52,
+      "fontId" : 2,
+      "text" : "CAIVRS Access through GUS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 152.9069,
+      "rightX" : 74.745,
+      "topY" : 141.9069,
+      "baseLineY" : 150.3,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 166.6549,
+      "rightX" : 541.5599,
+      "topY" : 154.6549,
+      "baseLineY" : 163.92,
+      "fontId" : 1,
+      "text" : "Through a business to government agreement, an interface with CAIVRS occurs once "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 180.4549,
+      "rightX" : 522.2398,
+      "topY" : 168.4549,
+      "baseLineY" : 177.72,
+      "fontId" : 1,
+      "text" : "adequate information is complete.  GUS will automatically obtain a CAIVRS number "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 194.2549,
+      "rightX" : 530.8798,
+      "topY" : 182.2549,
+      "baseLineY" : 191.52,
+      "fontId" : 1,
+      "text" : "once the “Borrower Information” page of GUS is complete and saved. When the lender "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 208.0549,
+      "rightX" : 531.3597,
+      "topY" : 196.0549,
+      "baseLineY" : 205.3199,
+      "fontId" : 1,
+      "text" : "opens the “Assets and Liabilities” page of GUS, the results of the CAIVRS request will "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 221.8549,
+      "rightX" : 531.9009,
+      "topY" : 209.8549,
+      "baseLineY" : 219.1199,
+      "fontId" : 1,
+      "text" : "be displayed in the “CAIVRS Information” section. A new CAIVRS result number will "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 235.6549,
+      "rightX" : 237.66,
+      "topY" : 223.6549,
+      "baseLineY" : 232.9199,
+      "fontId" : 1,
+      "text" : "display for each borrower. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 248.2671,
+      "rightX" : 128.745,
+      "topY" : 237.2671,
+      "baseLineY" : 245.76,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 262.2239,
+      "rightX" : 344.94,
+      "topY" : 250.2239,
+      "baseLineY" : 259.38,
+      "fontId" : 2,
+      "text" : "Possible Results Codes of A CAIVRS Request "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 274.727,
+      "rightX" : 124.245,
+      "topY" : 263.727,
+      "baseLineY" : 272.22,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 288.6839,
+      "rightX" : 142.14,
+      "topY" : 276.6839,
+      "baseLineY" : 285.84,
+      "fontId" : 2,
+      "text" : "“A”"
+    }, {
+      "leftX" : 142.14,
+      "bottomY" : 288.575,
+      "rightX" : 541.02,
+      "topY" : 276.575,
+      "baseLineY" : 285.84,
+      "fontId" : 1,
+      "text" : "  There are no Government loan claims/defaults against a Social Security Number. "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 302.375,
+      "rightX" : 124.5,
+      "topY" : 290.375,
+      "baseLineY" : 299.64,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 316.2839,
+      "rightX" : 135.504,
+      "topY" : 304.2839,
+      "baseLineY" : 313.44,
+      "fontId" : 2,
+      "text" : "“B"
+    }, {
+      "leftX" : 135.48,
+      "bottomY" : 316.1749,
+      "rightX" : 487.8,
+      "topY" : 304.1749,
+      "baseLineY" : 313.44,
+      "fontId" : 1,
+      "text" : "”  There is more than one “hit” on a Social Security Number - mostly on "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 329.9749,
+      "rightX" : 528.12,
+      "topY" : 317.9749,
+      "baseLineY" : 327.24,
+      "fontId" : 1,
+      "text" : "Department of Education Guaranteed Loans – when an FHA insured loan is in "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 343.7749,
+      "rightX" : 280.8,
+      "topY" : 331.7749,
+      "baseLineY" : 341.0399,
+      "fontId" : 1,
+      "text" : "default and a claim is paid. "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 357.5749,
+      "rightX" : 124.5,
+      "topY" : 345.5749,
+      "baseLineY" : 354.8399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 371.4839,
+      "rightX" : 136.164,
+      "topY" : 359.4839,
+      "baseLineY" : 368.6399,
+      "fontId" : 2,
+      "text" : "“C"
+    }, {
+      "leftX" : 136.14,
+      "bottomY" : 371.3749,
+      "rightX" : 144.48,
+      "topY" : 359.3749,
+      "baseLineY" : 368.6399,
+      "fontId" : 1,
+      "text" : "” "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 371.3749,
+      "rightX" : 525.1199,
+      "topY" : 359.3749,
+      "baseLineY" : 368.6399,
+      "fontId" : 1,
+      "text" : "A “claim” has been paid to the mortgage company to pay off the loan that has "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 385.1749,
+      "rightX" : 512.0398,
+      "topY" : 373.1749,
+      "baseLineY" : 382.4399,
+      "fontId" : 1,
+      "text" : "gone into foreclosure. This will remain on the CAIVRS system for 3 years. "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 398.9749,
+      "rightX" : 521.6998,
+      "topY" : 386.9749,
+      "baseLineY" : 396.2399,
+      "fontId" : 1,
+      "text" : "These can be either on Title II or Title I.  Title I is for mobile homes or home "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 412.7749,
+      "rightX" : 218.5201,
+      "topY" : 400.7749,
+      "baseLineY" : 410.0399,
+      "fontId" : 1,
+      "text" : "improvement. "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 426.5748,
+      "rightX" : 124.5,
+      "topY" : 414.5748,
+      "baseLineY" : 423.8399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 440.3748,
+      "rightX" : 524.8174,
+      "topY" : 428.3748,
+      "baseLineY" : 437.6399,
+      "fontId" : 1,
+      "text" : "  When a “claim” has been paid then HUD/FHA gets title back and HUD/FHA "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 455.2548,
+      "rightX" : 316.8,
+      "topY" : 443.2548,
+      "baseLineY" : 452.5199,
+      "fontId" : 1,
+      "text" : "sells the property as a HUD-Repo. "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 470.1348,
+      "rightX" : 147.0001,
+      "topY" : 458.1348,
+      "baseLineY" : 467.3999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 483.9348,
+      "rightX" : 75.0001,
+      "topY" : 471.9348,
+      "baseLineY" : 481.1999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 148.5001,
+      "bottomY" : 483.9348,
+      "rightX" : 507.7825,
+      "topY" : 471.9348,
+      "baseLineY" : 481.1999,
+      "fontId" : 1,
+      "text" : "PLEASE NOTE: There are “C” codes in CAIVRS for the Loss Mitigation "
+    }, {
+      "leftX" : 148.5001,
+      "bottomY" : 498.8148,
+      "rightX" : 532.7397,
+      "topY" : 486.8148,
+      "baseLineY" : 496.0799,
+      "fontId" : 1,
+      "text" : "Program. HUD refers to these as “partial claims” but since a dollar amount was "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 513.6948,
+      "rightX" : 483.48,
+      "topY" : 501.6948,
+      "baseLineY" : 510.9599,
+      "fontId" : 1,
+      "text" : "paid by HUD/FHA it is input into CAIVRS as a “C” or “claim paid”. "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 528.6349,
+      "rightX" : 124.5,
+      "topY" : 516.6349,
+      "baseLineY" : 525.8999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 542.5438,
+      "rightX" : 142.14,
+      "topY" : 530.5438,
+      "baseLineY" : 539.6999,
+      "fontId" : 2,
+      "text" : "“D”"
+    }, {
+      "leftX" : 142.14,
+      "bottomY" : 542.4349,
+      "rightX" : 341.82,
+      "topY" : 530.4349,
+      "baseLineY" : 539.6999,
+      "fontId" : 1,
+      "text" : "   The loan is more than 90 days past due. "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 556.2348,
+      "rightX" : 124.5,
+      "topY" : 544.2348,
+      "baseLineY" : 553.4999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 570.0838,
+      "rightX" : 140.82,
+      "topY" : 558.0838,
+      "baseLineY" : 567.2399,
+      "fontId" : 2,
+      "text" : "“F”"
+    }, {
+      "leftX" : 140.82,
+      "bottomY" : 569.9748,
+      "rightX" : 143.82,
+      "topY" : 557.9748,
+      "baseLineY" : 567.2399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 569.9748,
+      "rightX" : 535.7997,
+      "topY" : 557.9748,
+      "baseLineY" : 567.2399,
+      "fontId" : 1,
+      "text" : "FHA insured loan is the first stages of foreclosure via the mortgage company (if "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 583.7749,
+      "rightX" : 402.06,
+      "topY" : 571.7749,
+      "baseLineY" : 581.0399,
+      "fontId" : 1,
+      "text" : "the loan is brought current then it can be reinstated). "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 597.5749,
+      "rightX" : 124.5,
+      "topY" : 585.5749,
+      "baseLineY" : 594.8399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 121.5,
+      "bottomY" : 611.4838,
+      "rightX" : 139.5,
+      "topY" : 599.4838,
+      "baseLineY" : 608.6399,
+      "fontId" : 2,
+      "text" : "“J”"
+    }, {
+      "leftX" : 139.5,
+      "bottomY" : 611.3749,
+      "rightX" : 142.5,
+      "topY" : 599.3749,
+      "baseLineY" : 608.6399,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 611.3749,
+      "rightX" : 528.42,
+      "topY" : 599.3749,
+      "baseLineY" : 608.6399,
+      "fontId" : 1,
+      "text" : "Judgments – via the Department of Justice (these can be for the Department of "
+    }, {
+      "leftX" : 148.5001,
+      "bottomY" : 625.1748,
+      "rightX" : 529.08,
+      "topY" : 613.1748,
+      "baseLineY" : 622.4399,
+      "fontId" : 1,
+      "text" : "Education Guarantee Loans, child support, and a few FHA-insured loans if the "
+    }, {
+      "leftX" : 148.5001,
+      "bottomY" : 638.9748,
+      "rightX" : 280.14,
+      "topY" : 626.9748,
+      "baseLineY" : 636.2399,
+      "fontId" : 1,
+      "text" : "borrower was an investor). "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 651.5871,
+      "rightX" : 128.745,
+      "topY" : 640.5871,
+      "baseLineY" : 649.08,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 665.435,
+      "rightX" : 538.8561,
+      "topY" : 653.435,
+      "baseLineY" : 662.7,
+      "fontId" : 1,
+      "text" : "If GUS automatically retrieves a CAIVRS response, the CAIVRS response cannot be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 680.315,
+      "rightX" : 538.4963,
+      "topY" : 668.315,
+      "baseLineY" : 677.58,
+      "fontId" : 1,
+      "text" : "revised/overridden. If an applicant that will be a party to the loan does not receive a clear "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 695.255,
+      "rightX" : 522.5374,
+      "topY" : 683.255,
+      "baseLineY" : 692.52,
+      "fontId" : 1,
+      "text" : "“A” CAIVRS response, the lender must obtain evidence of an “A” CAIVRS response "
+    }, {
+      "leftX" : 71.64,
+      "bottomY" : 719.025,
+      "rightX" : 74.1215,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.025,
+      "rightX" : 308.4815,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 540.36,
+      "bottomY" : 719.025,
+      "rightX" : 542.8415,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 734.025,
+      "rightX" : 74.4815,
+      "topY" : 723.025,
+      "baseLineY" : 731.46,
+      "fontId" : 8,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 49.9549,
+      "rightX" : 129.66,
+      "topY" : 37.9549,
+      "baseLineY" : 47.22,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 63.7549,
+      "rightX" : 131.34,
+      "topY" : 51.7549,
+      "baseLineY" : 61.02,
+      "fontId" : 1,
+      "text" : "Appendix 7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 77.5549,
+      "rightX" : 129.3,
+      "topY" : 65.5549,
+      "baseLineY" : 74.8199,
+      "fontId" : 1,
+      "text" : "Page 3 of 9 "
+    }, {
+      "leftX" : 540,
+      "bottomY" : 91.3549,
+      "rightX" : 543,
+      "topY" : 79.3549,
+      "baseLineY" : 88.6199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 105.1549,
+      "rightX" : 501.5998,
+      "topY" : 93.1549,
+      "baseLineY" : 102.42,
+      "fontId" : 1,
+      "text" : "outside of GUS. This documentation must be uploaded as part of a complete loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 120.035,
+      "rightX" : 332.28,
+      "topY" : 108.035,
+      "baseLineY" : 117.3,
+      "fontId" : 1,
+      "text" : "application submission.                                     "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 142.9549,
+      "rightX" : 520.2001,
+      "topY" : 130.9549,
+      "baseLineY" : 140.22,
+      "fontId" : 1,
+      "text" : "For manually submitted loans, the lender must obtain and document the CAIVRS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 157.8349,
+      "rightX" : 516.1798,
+      "topY" : 145.8349,
+      "baseLineY" : 155.1,
+      "fontId" : 1,
+      "text" : "response in GUS and include this evidence in a complete loan submission to USDA. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 172.7149,
+      "rightX" : 520.6197,
+      "topY" : 160.7149,
+      "baseLineY" : 169.98,
+      "fontId" : 1,
+      "text" : "Regardless of the submission type, the lender must confirm that all parties to the note "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 187.595,
+      "rightX" : 326.9375,
+      "topY" : 175.595,
+      "baseLineY" : 184.86,
+      "fontId" : 1,
+      "text" : "have obtained a clear “A” CAIVRS response."
+    }, {
+      "leftX" : 326.94,
+      "bottomY" : 187.367,
+      "rightX" : 335.1421,
+      "topY" : 176.367,
+      "baseLineY" : 184.86,
+      "fontId" : 7,
+      "text" : "   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 210.624,
+      "rightX" : 118.98,
+      "topY" : 198.624,
+      "baseLineY" : 207.78,
+      "fontId" : 2,
+      "text" : "B."
+    }, {
+      "leftX" : 118.98,
+      "bottomY" : 210.9309,
+      "rightX" : 122.316,
+      "topY" : 198.9309,
+      "baseLineY" : 207.78,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 210.624,
+      "rightX" : 305.28,
+      "topY" : 198.624,
+      "baseLineY" : 207.78,
+      "fontId" : 2,
+      "text" : "Access to CAIVRS outside of GUS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 224.4839,
+      "rightX" : 75,
+      "topY" : 212.4839,
+      "baseLineY" : 221.64,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 238.115,
+      "rightX" : 528.54,
+      "topY" : 226.115,
+      "baseLineY" : 235.38,
+      "fontId" : 1,
+      "text" : "FHA approved lenders may use their FHA Connection User ID to access CAIVRS. "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 251.915,
+      "rightX" : 75.0001,
+      "topY" : 239.915,
+      "baseLineY" : 249.18,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 265.8239,
+      "rightX" : 209.6401,
+      "topY" : 253.8239,
+      "baseLineY" : 262.98,
+      "fontId" : 2,
+      "text" : "Non-FHA Lenders  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 277.1991,
+      "rightX" : 128.505,
+      "topY" : 267.1991,
+      "baseLineY" : 274.92,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 291.035,
+      "rightX" : 517.9197,
+      "topY" : 279.035,
+      "baseLineY" : 288.3,
+      "fontId" : 1,
+      "text" : "Each non-FHA lender must request at least one Application Coordinator User ID "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 304.8349,
+      "rightX" : 347.94,
+      "topY" : 292.8349,
+      "baseLineY" : 302.1,
+      "fontId" : 1,
+      "text" : "and a Standard User ID for each individual’s use. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 318.6349,
+      "rightX" : 132,
+      "topY" : 306.6349,
+      "baseLineY" : 315.9,
+      "fontId" : 1,
+      "text" : "  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 332.6951,
+      "rightX" : 131.52,
+      "topY" : 320.6951,
+      "baseLineY" : 330.54,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 333.3971,
+      "rightX" : 134.856,
+      "topY" : 321.3971,
+      "baseLineY" : 330.54,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 333.2749,
+      "rightX" : 230.328,
+      "topY" : 321.2749,
+      "baseLineY" : 330.54,
+      "fontId" : 1,
+      "text" : "Non-FHA lenders"
+    }, {
+      "leftX" : 230.34,
+      "bottomY" : 333.3839,
+      "rightX" : 233.34,
+      "topY" : 321.3839,
+      "baseLineY" : 330.54,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 233.34,
+      "bottomY" : 333.2749,
+      "rightX" : 283.308,
+      "topY" : 321.2749,
+      "baseLineY" : 330.54,
+      "fontId" : 1,
+      "text" : "new to the"
+    }, {
+      "leftX" : 283.32,
+      "bottomY" : 333.3839,
+      "rightX" : 286.32,
+      "topY" : 321.3839,
+      "baseLineY" : 330.54,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 286.32,
+      "bottomY" : 333.2749,
+      "rightX" : 531,
+      "topY" : 321.2749,
+      "baseLineY" : 330.54,
+      "fontId" : 1,
+      "text" : "Single Family Housing Guaranteed Loan Program "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 347.0749,
+      "rightX" : 196.596,
+      "topY" : 335.0749,
+      "baseLineY" : 344.34,
+      "fontId" : 1,
+      "text" : "(SFHGLP)"
+    }, {
+      "leftX" : 196.62,
+      "bottomY" : 347.1839,
+      "rightX" : 199.62,
+      "topY" : 335.1839,
+      "baseLineY" : 344.34,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 199.62,
+      "bottomY" : 347.0749,
+      "rightX" : 504.8374,
+      "topY" : 335.0749,
+      "baseLineY" : 344.34,
+      "fontId" : 1,
+      "text" : "that have not yet made a SFHGLP loan, must request CAIVRS "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 360.8749,
+      "rightX" : 516.48,
+      "topY" : 348.8749,
+      "baseLineY" : 358.14,
+      "fontId" : 1,
+      "text" : "access from the Servicing Office guaranteed loan branch in St. Louis prior to "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 374.6749,
+      "rightX" : 404.2559,
+      "topY" : 362.6749,
+      "baseLineY" : 371.9399,
+      "fontId" : 1,
+      "text" : "completing the steps below. This may be requested at:"
+    }, {
+      "leftX" : 404.22,
+      "bottomY" : 374.7839,
+      "rightX" : 407.22,
+      "topY" : 362.7839,
+      "baseLineY" : 371.9399,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 386.6391,
+      "rightX" : 128.505,
+      "topY" : 376.6391,
+      "baseLineY" : 384.36,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 400.5839,
+      "rightX" : 231.96,
+      "topY" : 388.5839,
+      "baseLineY" : 397.74,
+      "fontId" : 2,
+      "text" : "E-Mail Address: "
+    }, {
+      "leftX" : 330.96,
+      "bottomY" : 400.475,
+      "rightX" : 446.4001,
+      "topY" : 388.475,
+      "baseLineY" : 397.74,
+      "fontId" : 13,
+      "text" : "RD.SO.HSB@usda.gov"
+    }, {
+      "leftX" : 446.4001,
+      "bottomY" : 400.475,
+      "rightX" : 449.4001,
+      "topY" : 388.475,
+      "baseLineY" : 397.74,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 414.4439,
+      "rightX" : 249.96,
+      "topY" : 402.4439,
+      "baseLineY" : 411.6,
+      "fontId" : 2,
+      "text" : "Telephone Number: "
+    }, {
+      "leftX" : 330.96,
+      "bottomY" : 414.335,
+      "rightX" : 408.96,
+      "topY" : 402.335,
+      "baseLineY" : 411.6,
+      "fontId" : 1,
+      "text" : "(314) 457-4192 "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 428.3039,
+      "rightX" : 292.9081,
+      "topY" : 416.3039,
+      "baseLineY" : 425.46,
+      "fontId" : 2,
+      "text" : "Toll Free Telephone Number"
+    }, {
+      "leftX" : 292.92,
+      "bottomY" : 428.195,
+      "rightX" : 299.22,
+      "topY" : 416.195,
+      "baseLineY" : 425.46,
+      "fontId" : 1,
+      "text" : ": "
+    }, {
+      "leftX" : 331.02,
+      "bottomY" : 428.195,
+      "rightX" : 408.36,
+      "topY" : 416.195,
+      "baseLineY" : 425.46,
+      "fontId" : 1,
+      "text" : "(877) 636-3789 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 439.6791,
+      "rightX" : 128.505,
+      "topY" : 429.6791,
+      "baseLineY" : 437.4,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 453.7751,
+      "rightX" : 131.52,
+      "topY" : 441.7751,
+      "baseLineY" : 451.62,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 454.4771,
+      "rightX" : 134.856,
+      "topY" : 442.4771,
+      "baseLineY" : 451.62,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 454.355,
+      "rightX" : 234.348,
+      "topY" : 442.355,
+      "baseLineY" : 451.62,
+      "fontId" : 1,
+      "text" : "Non-FHA Lenders"
+    }, {
+      "leftX" : 234.36,
+      "bottomY" : 454.4639,
+      "rightX" : 237.36,
+      "topY" : 442.4639,
+      "baseLineY" : 451.62,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 237.36,
+      "bottomY" : 454.355,
+      "rightX" : 280.68,
+      "topY" : 442.355,
+      "baseLineY" : 451.62,
+      "fontId" : 1,
+      "text" : "currently"
+    }, {
+      "leftX" : 280.68,
+      "bottomY" : 454.4639,
+      "rightX" : 283.68,
+      "topY" : 442.4639,
+      "baseLineY" : 451.62,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 283.68,
+      "bottomY" : 454.355,
+      "rightX" : 344.3399,
+      "topY" : 442.355,
+      "baseLineY" : 451.62,
+      "fontId" : 1,
+      "text" : "participating"
+    }, {
+      "leftX" : 344.34,
+      "bottomY" : 454.4639,
+      "rightX" : 347.34,
+      "topY" : 442.4639,
+      "baseLineY" : 451.62,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 347.28,
+      "bottomY" : 454.355,
+      "rightX" : 491.64,
+      "topY" : 442.355,
+      "baseLineY" : 451.62,
+      "fontId" : 1,
+      "text" : "in the Single Family Housing "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 468.1549,
+      "rightX" : 326.976,
+      "topY" : 456.1549,
+      "baseLineY" : 465.42,
+      "fontId" : 1,
+      "text" : "Guaranteed Loan Program (SFHGLP)"
+    }, {
+      "leftX" : 327,
+      "bottomY" : 468.2639,
+      "rightX" : 330,
+      "topY" : 456.2639,
+      "baseLineY" : 465.42,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 330,
+      "bottomY" : 468.1549,
+      "rightX" : 519.9598,
+      "topY" : 456.1549,
+      "baseLineY" : 465.42,
+      "fontId" : 1,
+      "text" : "that have previously participated in the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 481.9549,
+      "rightX" : 465.2961,
+      "topY" : 469.9549,
+      "baseLineY" : 479.22,
+      "fontId" : 1,
+      "text" : "SFHGLP can request CAIVRS access from HUD’s Internet site at "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 495.7549,
+      "rightX" : 360.3359,
+      "topY" : 483.7549,
+      "baseLineY" : 493.02,
+      "fontId" : 14,
+      "text" : "https://entp.hud.gov/caivrs/public/home.html"
+    }, {
+      "leftX" : 360.36,
+      "bottomY" : 495.7549,
+      "rightX" : 363.36,
+      "topY" : 483.7549,
+      "baseLineY" : 493.02,
+      "fontId" : 1,
+      "text" : "."
+    }, {
+      "leftX" : 363.3,
+      "bottomY" : 495.8639,
+      "rightX" : 366.3,
+      "topY" : 483.8639,
+      "baseLineY" : 493.02,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 509.555,
+      "rightX" : 129,
+      "topY" : 497.555,
+      "baseLineY" : 506.82,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 523.7149,
+      "rightX" : 494.9097,
+      "topY" : 511.7149,
+      "baseLineY" : 520.98,
+      "fontId" : 1,
+      "text" : "Once access is granted, register as Application Coordinator or Standard User"
+    }, {
+      "leftX" : 494.94,
+      "bottomY" : 522.3475,
+      "rightX" : 496.44,
+      "topY" : 516.3475,
+      "baseLineY" : 520.98,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 496.44,
+      "bottomY" : 523.7149,
+      "rightX" : 508.44,
+      "topY" : 511.7149,
+      "baseLineY" : 520.98,
+      "fontId" : 1,
+      "text" : "by"
+    }, {
+      "leftX" : 508.44,
+      "bottomY" : 522.3475,
+      "rightX" : 509.94,
+      "topY" : 516.3475,
+      "baseLineY" : 520.98,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 537.515,
+      "rightX" : 161.0268,
+      "topY" : 525.515,
+      "baseLineY" : 534.78,
+      "fontId" : 1,
+      "text" : "Selecting “"
+    }, {
+      "leftX" : 161.0388,
+      "bottomY" : 537.55,
+      "rightX" : 295.2815,
+      "topY" : 525.55,
+      "baseLineY" : 534.78,
+      "fontId" : 16,
+      "text" : "Registering Lender User ID"
+    }, {
+      "leftX" : 295.26,
+      "bottomY" : 537.515,
+      "rightX" : 410.2199,
+      "topY" : 525.515,
+      "baseLineY" : 534.78,
+      "fontId" : 1,
+      "text" : "” from the main menu.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 551.4239,
+      "rightX" : 75,
+      "topY" : 539.4239,
+      "baseLineY" : 548.58,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 709.0191,
+      "rightX" : 74.505,
+      "topY" : 699.0191,
+      "baseLineY" : 706.74,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 722.9991,
+      "rightX" : 176.1379,
+      "topY" : 712.9991,
+      "baseLineY" : 720.72,
+      "fontId" : 6,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 734.5221,
+      "rightX" : 187.8242,
+      "topY" : 724.5221,
+      "baseLineY" : 732.243,
+      "fontId" : 6,
+      "text" : "Revised (05-05-25)  PN 640 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 49.9549,
+      "rightX" : 129.66,
+      "topY" : 37.9549,
+      "baseLineY" : 47.22,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 63.7549,
+      "rightX" : 131.34,
+      "topY" : 51.7549,
+      "baseLineY" : 61.02,
+      "fontId" : 1,
+      "text" : "Appendix 7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 77.5549,
+      "rightX" : 129.3,
+      "topY" : 65.5549,
+      "baseLineY" : 74.8199,
+      "fontId" : 1,
+      "text" : "Page 4 of 9 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 90.465,
+      "rightX" : 74.4815,
+      "topY" : 79.465,
+      "baseLineY" : 87.9,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 265.7639,
+      "rightX" : 322.26,
+      "topY" : 253.7639,
+      "baseLineY" : 262.92,
+      "fontId" : 2,
+      "text" : "Register for Application Coordinator ID: "
+    }, {
+      "leftX" : 459.06,
+      "bottomY" : 254.2071,
+      "rightX" : 461.805,
+      "topY" : 243.2071,
+      "baseLineY" : 251.7,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 277.6192,
+      "rightX" : 74.505,
+      "topY" : 267.6192,
+      "baseLineY" : 275.34,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 291.7151,
+      "rightX" : 131.52,
+      "topY" : 279.7151,
+      "baseLineY" : 289.56,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 292.4171,
+      "rightX" : 134.856,
+      "topY" : 280.4171,
+      "baseLineY" : 289.56,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 292.295,
+      "rightX" : 414.5879,
+      "topY" : 280.295,
+      "baseLineY" : 289.56,
+      "fontId" : 1,
+      "text" : "To apply for an Application Coordinator ID, check the “"
+    }, {
+      "leftX" : 414.6,
+      "bottomY" : 292.3299,
+      "rightX" : 474.588,
+      "topY" : 280.3299,
+      "baseLineY" : 289.56,
+      "fontId" : 16,
+      "text" : "Coordinator"
+    }, {
+      "leftX" : 474.6,
+      "bottomY" : 292.295,
+      "rightX" : 510.5399,
+      "topY" : 280.295,
+      "baseLineY" : 289.56,
+      "fontId" : 1,
+      "text" : "” radio "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 306.1549,
+      "rightX" : 342,
+      "topY" : 294.1549,
+      "baseLineY" : 303.42,
+      "fontId" : 1,
+      "text" : "button, fill out the form below, and click "
+    }, {
+      "leftX" : 342,
+      "bottomY" : 306.1899,
+      "rightX" : 424.3199,
+      "topY" : 294.1899,
+      "baseLineY" : 303.42,
+      "fontId" : 16,
+      "text" : "Send Application"
+    }, {
+      "leftX" : 424.3199,
+      "bottomY" : 306.1549,
+      "rightX" : 430.26,
+      "topY" : 294.1549,
+      "baseLineY" : 303.42,
+      "fontId" : 1,
+      "text" : ". "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 319.9549,
+      "rightX" : 129,
+      "topY" : 307.9549,
+      "baseLineY" : 317.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 334.0151,
+      "rightX" : 131.52,
+      "topY" : 322.0151,
+      "baseLineY" : 331.86,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 334.7171,
+      "rightX" : 134.856,
+      "topY" : 322.7171,
+      "baseLineY" : 331.86,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 334.595,
+      "rightX" : 535.2,
+      "topY" : 322.595,
+      "baseLineY" : 331.86,
+      "fontId" : 1,
+      "text" : "A six-character password will be required in the password field. The password is "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 348.3949,
+      "rightX" : 537.3,
+      "topY" : 336.3949,
+      "baseLineY" : 345.66,
+      "fontId" : 1,
+      "text" : "case sensitive and can include numbers and letters. The password must contain at "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 362.1949,
+      "rightX" : 405.24,
+      "topY" : 350.1949,
+      "baseLineY" : 359.46,
+      "fontId" : 1,
+      "text" : "least one number and can consist entirely of numbers. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 374.1591,
+      "rightX" : 128.505,
+      "topY" : 364.1591,
+      "baseLineY" : 371.88,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 388.2551,
+      "rightX" : 131.52,
+      "topY" : 376.2551,
+      "baseLineY" : 386.1,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 388.9571,
+      "rightX" : 134.856,
+      "topY" : 376.9571,
+      "baseLineY" : 386.1,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 388.835,
+      "rightX" : 449.4,
+      "topY" : 376.835,
+      "baseLineY" : 386.1,
+      "fontId" : 1,
+      "text" : "Your business email address will require the @ sign. Example: "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 402.635,
+      "rightX" : 252.42,
+      "topY" : 390.635,
+      "baseLineY" : 399.9,
+      "fontId" : 13,
+      "text" : "johndoe@internet.org."
+    }, {
+      "leftX" : 252.36,
+      "bottomY" : 402.635,
+      "rightX" : 255.36,
+      "topY" : 390.635,
+      "baseLineY" : 399.9,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 414.5991,
+      "rightX" : 128.505,
+      "topY" : 404.5991,
+      "baseLineY" : 412.32,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 428.6951,
+      "rightX" : 131.52,
+      "topY" : 416.6951,
+      "baseLineY" : 426.54,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 429.3972,
+      "rightX" : 134.856,
+      "topY" : 417.3972,
+      "baseLineY" : 426.54,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 429.275,
+      "rightX" : 176.4,
+      "topY" : 417.275,
+      "baseLineY" : 426.54,
+      "fontId" : 1,
+      "text" : "Select "
+    }, {
+      "leftX" : 176.4,
+      "bottomY" : 429.2913,
+      "rightX" : 319.7375,
+      "topY" : 417.2913,
+      "baseLineY" : 426.54,
+      "fontId" : 17,
+      "text" : "USDA – Rural Development "
+    }, {
+      "leftX" : 319.68,
+      "bottomY" : 429.275,
+      "rightX" : 509.7,
+      "topY" : 417.275,
+      "baseLineY" : 426.54,
+      "fontId" : 1,
+      "text" : "for the Agency. Ensure the user selects "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 443.135,
+      "rightX" : 419.52,
+      "topY" : 431.135,
+      "baseLineY" : 440.4,
+      "fontId" : 1,
+      "text" : "the correct Agency, as there are multiple USDA choices. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 455.0991,
+      "rightX" : 128.505,
+      "topY" : 445.0991,
+      "baseLineY" : 452.82,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 469.1951,
+      "rightX" : 131.52,
+      "topY" : 457.1951,
+      "baseLineY" : 467.04,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 469.8972,
+      "rightX" : 134.856,
+      "topY" : 457.8972,
+      "baseLineY" : 467.04,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 469.775,
+      "rightX" : 523.9799,
+      "topY" : 457.775,
+      "baseLineY" : 467.04,
+      "fontId" : 1,
+      "text" : "The Lender ID must correspond to the Tax ID Number (no hyphens or spaces) "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 483.575,
+      "rightX" : 204,
+      "topY" : 471.575,
+      "baseLineY" : 480.84,
+      "fontId" : 1,
+      "text" : "reflected on "
+    }, {
+      "leftX" : 203.94,
+      "bottomY" : 483.6099,
+      "rightX" : 519.8998,
+      "topY" : 471.6099,
+      "baseLineY" : 480.84,
+      "fontId" : 16,
+      "text" : "Form RD 3555-16, Agreement for Participation in Single Family "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 497.4099,
+      "rightX" : 529.3199,
+      "topY" : 485.4099,
+      "baseLineY" : 494.64,
+      "fontId" : 16,
+      "text" : "Housing Guaranteed/Insured Loan Programs of the United States Government. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 511.1749,
+      "rightX" : 290.28,
+      "topY" : 499.1749,
+      "baseLineY" : 508.44,
+      "fontId" : 1,
+      "text" : "This will be a 9-digit number. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 523.1391,
+      "rightX" : 128.505,
+      "topY" : 513.1391,
+      "baseLineY" : 520.86,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 537.2351,
+      "rightX" : 131.52,
+      "topY" : 525.2351,
+      "baseLineY" : 535.08,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 537.9371,
+      "rightX" : 134.856,
+      "topY" : 525.9371,
+      "baseLineY" : 535.08,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 537.8149,
+      "rightX" : 514.2,
+      "topY" : 525.8149,
+      "baseLineY" : 535.08,
+      "fontId" : 1,
+      "text" : "As a security question, the page will require the user to type the last name of "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 551.615,
+      "rightX" : 321.36,
+      "topY" : 539.615,
+      "baseLineY" : 548.88,
+      "fontId" : 1,
+      "text" : "their mother, before marriage, in the "
+    }, {
+      "leftX" : 321.3,
+      "bottomY" : 551.6313,
+      "rightX" : 442.9187,
+      "topY" : 539.6313,
+      "baseLineY" : 548.88,
+      "fontId" : 17,
+      "text" : "Mother’s Maiden Name "
+    }, {
+      "leftX" : 442.92,
+      "bottomY" : 551.615,
+      "rightX" : 470.88,
+      "topY" : 539.615,
+      "baseLineY" : 548.88,
+      "fontId" : 1,
+      "text" : "field. "
+    }, {
+      "leftX" : 512.28,
+      "bottomY" : 565.415,
+      "rightX" : 530.28,
+      "topY" : 553.415,
+      "baseLineY" : 562.68,
+      "fontId" : 1,
+      "text" : "      "
+    }, {
+      "leftX" : 71.64,
+      "bottomY" : 719.025,
+      "rightX" : 74.1215,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.025,
+      "rightX" : 308.4815,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 540.36,
+      "bottomY" : 719.025,
+      "rightX" : 542.8415,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 734.025,
+      "rightX" : 74.4815,
+      "topY" : 723.025,
+      "baseLineY" : 731.46,
+      "fontId" : 8,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 49.9549,
+      "rightX" : 129.66,
+      "topY" : 37.9549,
+      "baseLineY" : 47.22,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 63.7549,
+      "rightX" : 131.34,
+      "topY" : 51.7549,
+      "baseLineY" : 61.02,
+      "fontId" : 1,
+      "text" : "Appendix 7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 77.5549,
+      "rightX" : 129.3,
+      "topY" : 65.5549,
+      "baseLineY" : 74.8199,
+      "fontId" : 1,
+      "text" : "Page 5 of 9 "
+    }, {
+      "leftX" : 540,
+      "bottomY" : 91.3549,
+      "rightX" : 543,
+      "topY" : 79.3549,
+      "baseLineY" : 88.6199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 375.8871,
+      "rightX" : 74.745,
+      "topY" : 364.8871,
+      "baseLineY" : 373.38,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 516.3,
+      "bottomY" : 365.855,
+      "rightX" : 519.3,
+      "topY" : 353.855,
+      "baseLineY" : 363.12,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 388.547,
+      "rightX" : 74.745,
+      "topY" : 377.547,
+      "baseLineY" : 386.0399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 401.2069,
+      "rightX" : 74.745,
+      "topY" : 390.2069,
+      "baseLineY" : 398.6999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 415.5239,
+      "rightX" : 274.32,
+      "topY" : 403.5239,
+      "baseLineY" : 412.68,
+      "fontId" : 2,
+      "text" : "Registering as a Standard User: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 433.9751,
+      "rightX" : 131.52,
+      "topY" : 421.9751,
+      "baseLineY" : 431.82,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 434.6772,
+      "rightX" : 134.856,
+      "topY" : 422.6772,
+      "baseLineY" : 431.82,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 434.555,
+      "rightX" : 359.328,
+      "topY" : 422.555,
+      "baseLineY" : 431.82,
+      "fontId" : 1,
+      "text" : "To apply for a Standard User ID, check the “"
+    }, {
+      "leftX" : 359.34,
+      "bottomY" : 434.5899,
+      "rightX" : 382.668,
+      "topY" : 422.5899,
+      "baseLineY" : 431.82,
+      "fontId" : 16,
+      "text" : "User"
+    }, {
+      "leftX" : 382.62,
+      "bottomY" : 434.555,
+      "rightX" : 508.26,
+      "topY" : 422.555,
+      "baseLineY" : 431.82,
+      "fontId" : 1,
+      "text" : "” radio button, fill out the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 448.355,
+      "rightX" : 252.36,
+      "topY" : 436.355,
+      "baseLineY" : 445.62,
+      "fontId" : 1,
+      "text" : "form below, and click "
+    }, {
+      "leftX" : 252.36,
+      "bottomY" : 448.3899,
+      "rightX" : 334.6199,
+      "topY" : 436.3899,
+      "baseLineY" : 445.62,
+      "fontId" : 16,
+      "text" : "Send Application"
+    }, {
+      "leftX" : 334.6199,
+      "bottomY" : 448.355,
+      "rightX" : 518.9398,
+      "topY" : 436.355,
+      "baseLineY" : 445.62,
+      "fontId" : 1,
+      "text" : ". Upon verification of the information "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 462.1549,
+      "rightX" : 503.2198,
+      "topY" : 450.1549,
+      "baseLineY" : 459.42,
+      "fontId" : 1,
+      "text" : "below, a User ID will be assigned. The “Application Coordinator” of your "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 475.9549,
+      "rightX" : 505.2597,
+      "topY" : 463.9549,
+      "baseLineY" : 473.22,
+      "fontId" : 1,
+      "text" : "organization will retrieve the User ID. The password will not be disclosed. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 489.7549,
+      "rightX" : 312.6,
+      "topY" : 477.7549,
+      "baseLineY" : 487.02,
+      "fontId" : 1,
+      "text" : "The user will need to remember it. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 709.0191,
+      "rightX" : 74.505,
+      "topY" : 699.0191,
+      "baseLineY" : 706.74,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 722.9991,
+      "rightX" : 176.1379,
+      "topY" : 712.9991,
+      "baseLineY" : 720.72,
+      "fontId" : 6,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 734.5221,
+      "rightX" : 187.8242,
+      "topY" : 724.5221,
+      "baseLineY" : 732.243,
+      "fontId" : 6,
+      "text" : "Revised (05-05-25)  PN 640 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 49.9549,
+      "rightX" : 129.66,
+      "topY" : 37.9549,
+      "baseLineY" : 47.22,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 63.7549,
+      "rightX" : 131.34,
+      "topY" : 51.7549,
+      "baseLineY" : 61.02,
+      "fontId" : 1,
+      "text" : "Appendix 7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 77.5549,
+      "rightX" : 129.3,
+      "topY" : 65.5549,
+      "baseLineY" : 74.8199,
+      "fontId" : 1,
+      "text" : "Page 6 of 9 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 90.465,
+      "rightX" : 74.4815,
+      "topY" : 79.465,
+      "baseLineY" : 87.9,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 417.455,
+      "rightX" : 111,
+      "topY" : 405.455,
+      "baseLineY" : 414.72,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 576,
+      "bottomY" : 406.235,
+      "rightX" : 579,
+      "topY" : 394.235,
+      "baseLineY" : 403.5,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 431.5751,
+      "rightX" : 131.52,
+      "topY" : 419.5751,
+      "baseLineY" : 429.42,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 432.2772,
+      "rightX" : 134.856,
+      "topY" : 420.2772,
+      "baseLineY" : 429.42,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 432.155,
+      "rightX" : 213.96,
+      "topY" : 420.155,
+      "baseLineY" : 429.42,
+      "fontId" : 1,
+      "text" : "After clicking "
+    }, {
+      "leftX" : 213.96,
+      "bottomY" : 432.1899,
+      "rightX" : 296.34,
+      "topY" : 420.1899,
+      "baseLineY" : 429.42,
+      "fontId" : 16,
+      "text" : "Send Application"
+    }, {
+      "leftX" : 296.34,
+      "bottomY" : 432.155,
+      "rightX" : 512.52,
+      "topY" : 420.155,
+      "baseLineY" : 429.42,
+      "fontId" : 1,
+      "text" : " on the CAIVRS Application Coordinator or "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 446.975,
+      "rightX" : 525.2997,
+      "topY" : 434.975,
+      "baseLineY" : 444.24,
+      "fontId" : 1,
+      "text" : "Standard User Registration form, the user is notified by email if the processing "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 461.855,
+      "rightX" : 533.88,
+      "topY" : 449.855,
+      "baseLineY" : 459.12,
+      "fontId" : 1,
+      "text" : "was successfully completed or if there are errors that need to be corrected before "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 476.735,
+      "rightX" : 529.86,
+      "topY" : 464.735,
+      "baseLineY" : 474,
+      "fontId" : 1,
+      "text" : "processing can be completed. Help guides are available to assist with questions. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 489.8391,
+      "rightX" : 128.505,
+      "topY" : 479.8391,
+      "baseLineY" : 487.56,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 503.9351,
+      "rightX" : 131.52,
+      "topY" : 491.9351,
+      "baseLineY" : 501.78,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 504.6371,
+      "rightX" : 134.856,
+      "topY" : 492.6371,
+      "baseLineY" : 501.78,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 504.515,
+      "rightX" : 525.54,
+      "topY" : 492.515,
+      "baseLineY" : 501.78,
+      "fontId" : 1,
+      "text" : "Upon verification of the information, an ID will be assigned and e-mailed. The "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 518.3149,
+      "rightX" : 434.34,
+      "topY" : 506.3149,
+      "baseLineY" : 515.58,
+      "fontId" : 1,
+      "text" : "password will not be disclosed, so ensure users remember it."
+    }, {
+      "leftX" : 434.28,
+      "bottomY" : 518.3499,
+      "rightX" : 437.28,
+      "topY" : 506.3499,
+      "baseLineY" : 515.58,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 532.1499,
+      "rightX" : 129,
+      "topY" : 520.1499,
+      "baseLineY" : 529.38,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 546.1751,
+      "rightX" : 131.52,
+      "topY" : 534.1751,
+      "baseLineY" : 544.02,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 546.8771,
+      "rightX" : 134.856,
+      "topY" : 534.8771,
+      "baseLineY" : 544.02,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 546.7549,
+      "rightX" : 445.32,
+      "topY" : 534.7549,
+      "baseLineY" : 544.02,
+      "fontId" : 1,
+      "text" : "After successful submission, the following screen will appear. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 560.6639,
+      "rightX" : 111,
+      "topY" : 548.6639,
+      "baseLineY" : 557.8199,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 574.4639,
+      "rightX" : 111,
+      "topY" : 562.4639,
+      "baseLineY" : 571.62,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 588.2639,
+      "rightX" : 111,
+      "topY" : 576.2639,
+      "baseLineY" : 585.42,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 602.0639,
+      "rightX" : 111,
+      "topY" : 590.0639,
+      "baseLineY" : 599.22,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 615.864,
+      "rightX" : 381.36,
+      "topY" : 603.864,
+      "baseLineY" : 613.02,
+      "fontId" : 2,
+      "text" : "NOTE: Displayed as an Example only – Coordinator "
+    }, {
+      "leftX" : 79.02,
+      "bottomY" : 629.6639,
+      "rightX" : 82.02,
+      "topY" : 617.6639,
+      "baseLineY" : 626.82,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 71.64,
+      "bottomY" : 719.025,
+      "rightX" : 74.1215,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.025,
+      "rightX" : 308.4815,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 540.36,
+      "bottomY" : 719.025,
+      "rightX" : 542.8415,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 734.025,
+      "rightX" : 74.4815,
+      "topY" : 723.025,
+      "baseLineY" : 731.46,
+      "fontId" : 8,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 49.9549,
+      "rightX" : 129.66,
+      "topY" : 37.9549,
+      "baseLineY" : 47.22,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 63.7549,
+      "rightX" : 131.34,
+      "topY" : 51.7549,
+      "baseLineY" : 61.02,
+      "fontId" : 1,
+      "text" : "Appendix 7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 77.5549,
+      "rightX" : 129.3,
+      "topY" : 65.5549,
+      "baseLineY" : 74.8199,
+      "fontId" : 1,
+      "text" : "Page 7 of 9 "
+    }, {
+      "leftX" : 540,
+      "bottomY" : 91.3549,
+      "rightX" : 543,
+      "topY" : 79.3549,
+      "baseLineY" : 88.6199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 313.0671,
+      "rightX" : 74.745,
+      "topY" : 302.0671,
+      "baseLineY" : 310.56,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 533.7,
+      "bottomY" : 303.1439,
+      "rightX" : 536.7,
+      "topY" : 291.1439,
+      "baseLineY" : 300.3,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 335.0039,
+      "rightX" : 300,
+      "topY" : 323.0039,
+      "baseLineY" : 332.16,
+      "fontId" : 2,
+      "text" : "Obtaining a CAIVRS Authorization: "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 348.695,
+      "rightX" : 75,
+      "topY" : 336.695,
+      "baseLineY" : 345.96,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 362.4949,
+      "rightX" : 525.2998,
+      "topY" : 350.4949,
+      "baseLineY" : 359.76,
+      "fontId" : 1,
+      "text" : "When CAIVRS is obtained outside of GUS, a printout of the result must be placed "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 376.2949,
+      "rightX" : 433.9199,
+      "topY" : 364.2949,
+      "baseLineY" : 373.56,
+      "fontId" : 1,
+      "text" : "in the lender’s permanent file and a copy submitted to the Agency.  "
+    }, {
+      "leftX" : 79.02,
+      "bottomY" : 388.2299,
+      "rightX" : 81.525,
+      "topY" : 378.2299,
+      "baseLineY" : 385.86,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 401.975,
+      "rightX" : 135,
+      "topY" : 389.975,
+      "baseLineY" : 399.24,
+      "fontId" : 1,
+      "text" : "1."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 402.0971,
+      "rightX" : 138.336,
+      "topY" : 390.0971,
+      "baseLineY" : 399.24,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 401.975,
+      "rightX" : 492.8985,
+      "topY" : 389.975,
+      "baseLineY" : 399.24,
+      "fontId" : 1,
+      "text" : "Once the user receives access capabilities, at the same website, the user  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 415.7749,
+      "rightX" : 184.368,
+      "topY" : 403.7749,
+      "baseLineY" : 413.04,
+      "fontId" : 1,
+      "text" : "selects “"
+    }, {
+      "leftX" : 184.38,
+      "bottomY" : 415.8099,
+      "rightX" : 291.2999,
+      "topY" : 403.8099,
+      "baseLineY" : 413.04,
+      "fontId" : 16,
+      "text" : "CAIVRS Prescreening"
+    }, {
+      "leftX" : 291.3,
+      "bottomY" : 415.7749,
+      "rightX" : 500.2198,
+      "topY" : 403.7749,
+      "baseLineY" : 413.04,
+      "fontId" : 1,
+      "text" : "” under the “Lending Institutions” menu to "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 429.5749,
+      "rightX" : 351.6,
+      "topY" : 417.5749,
+      "baseLineY" : 426.84,
+      "fontId" : 1,
+      "text" : "obtain a CAIVRS number for borrower(s). "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 443.3749,
+      "rightX" : 75,
+      "topY" : 431.3749,
+      "baseLineY" : 440.64,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 665.747,
+      "rightX" : 74.745,
+      "topY" : 654.747,
+      "baseLineY" : 663.24,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 582,
+      "bottomY" : 655.7149,
+      "rightX" : 585,
+      "topY" : 643.7149,
+      "baseLineY" : 652.98,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 678.407,
+      "rightX" : 74.745,
+      "topY" : 667.407,
+      "baseLineY" : 675.9,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 691.0669,
+      "rightX" : 74.745,
+      "topY" : 680.0669,
+      "baseLineY" : 688.5599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 709.0191,
+      "rightX" : 74.505,
+      "topY" : 699.0191,
+      "baseLineY" : 706.74,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 722.9991,
+      "rightX" : 176.1379,
+      "topY" : 712.9991,
+      "baseLineY" : 720.72,
+      "fontId" : 6,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 734.5221,
+      "rightX" : 187.8242,
+      "topY" : 724.5221,
+      "baseLineY" : 732.243,
+      "fontId" : 6,
+      "text" : "Revised (05-05-25)  PN 640 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 49.9549,
+      "rightX" : 129.66,
+      "topY" : 37.9549,
+      "baseLineY" : 47.22,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 63.7549,
+      "rightX" : 131.34,
+      "topY" : 51.7549,
+      "baseLineY" : 61.02,
+      "fontId" : 1,
+      "text" : "Appendix 7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 77.5549,
+      "rightX" : 129.3,
+      "topY" : 65.5549,
+      "baseLineY" : 74.8199,
+      "fontId" : 1,
+      "text" : "Page 8 of 9 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 90.465,
+      "rightX" : 74.4815,
+      "topY" : 79.465,
+      "baseLineY" : 87.9,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 104.795,
+      "rightX" : 449.64,
+      "topY" : 92.795,
+      "baseLineY" : 102.06,
+      "fontId" : 1,
+      "text" : "2.   Enter your username and password. Click “Login” to continue. "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 118.595,
+      "rightX" : 93,
+      "topY" : 106.595,
+      "baseLineY" : 115.86,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 432.9471,
+      "rightX" : 74.745,
+      "topY" : 421.9471,
+      "baseLineY" : 430.44,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 459.3,
+      "bottomY" : 422.915,
+      "rightX" : 462.3,
+      "topY" : 410.915,
+      "baseLineY" : 420.18,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 446.795,
+      "rightX" : 135,
+      "topY" : 434.795,
+      "baseLineY" : 444.06,
+      "fontId" : 1,
+      "text" : "3."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 446.9171,
+      "rightX" : 138.336,
+      "topY" : 434.9171,
+      "baseLineY" : 444.06,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 446.795,
+      "rightX" : 491.88,
+      "topY" : 434.795,
+      "baseLineY" : 444.06,
+      "fontId" : 1,
+      "text" : "Review CAIVRS message. Check “I Agree” and then click “Continue.” "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 665.364,
+      "rightX" : 129,
+      "topY" : 653.364,
+      "baseLineY" : 662.52,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 683.6639,
+      "rightX" : 129,
+      "topY" : 671.6639,
+      "baseLineY" : 680.82,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 71.64,
+      "bottomY" : 719.025,
+      "rightX" : 74.1215,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 719.025,
+      "rightX" : 308.4815,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 540.36,
+      "bottomY" : 719.025,
+      "rightX" : 542.8415,
+      "topY" : 708.025,
+      "baseLineY" : 716.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 734.025,
+      "rightX" : 74.4815,
+      "topY" : 723.025,
+      "baseLineY" : 731.46,
+      "fontId" : 8,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 49.9549,
+      "rightX" : 129.66,
+      "topY" : 37.9549,
+      "baseLineY" : 47.22,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 63.7549,
+      "rightX" : 131.34,
+      "topY" : 51.7549,
+      "baseLineY" : 61.02,
+      "fontId" : 1,
+      "text" : "Appendix 7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 77.5549,
+      "rightX" : 129.3,
+      "topY" : 65.5549,
+      "baseLineY" : 74.8199,
+      "fontId" : 1,
+      "text" : "Page 9 of 9 "
+    }, {
+      "leftX" : 540,
+      "bottomY" : 91.3549,
+      "rightX" : 543,
+      "topY" : 79.3549,
+      "baseLineY" : 88.6199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 105.2639,
+      "rightX" : 163.956,
+      "topY" : 93.2639,
+      "baseLineY" : 102.42,
+      "fontId" : 2,
+      "text" : "NOTE:"
+    }, {
+      "leftX" : 163.98,
+      "bottomY" : 105.1549,
+      "rightX" : 520.6798,
+      "topY" : 93.1549,
+      "baseLineY" : 102.42,
+      "fontId" : 1,
+      "text" : " Password expires every 21 days. If your password is about to expire, you "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 118.9549,
+      "rightX" : 541.5597,
+      "topY" : 106.9549,
+      "baseLineY" : 116.22,
+      "fontId" : 1,
+      "text" : "may get this pop-up screen before or after the initial login screen.  It is suggested that you "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 132.7549,
+      "rightX" : 508.5,
+      "topY" : 120.7549,
+      "baseLineY" : 130.02,
+      "fontId" : 1,
+      "text" : "have a reminder to change your password every 20 days to avoid being locked out. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 364.5949,
+      "rightX" : 129,
+      "topY" : 352.5949,
+      "baseLineY" : 361.86,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 382.8949,
+      "rightX" : 135,
+      "topY" : 370.8949,
+      "baseLineY" : 380.1599,
+      "fontId" : 1,
+      "text" : "4."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 383.0171,
+      "rightX" : 138.336,
+      "topY" : 371.0171,
+      "baseLineY" : 380.1599,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 382.8949,
+      "rightX" : 182.028,
+      "topY" : 370.8949,
+      "baseLineY" : 380.1599,
+      "fontId" : 1,
+      "text" : "At the “"
+    }, {
+      "leftX" : 182.04,
+      "bottomY" : 382.9299,
+      "rightX" : 288.9587,
+      "topY" : 370.9299,
+      "baseLineY" : 380.1599,
+      "fontId" : 16,
+      "text" : "CAIVRS Prescreening"
+    }, {
+      "leftX" : 288.96,
+      "bottomY" : 382.8949,
+      "rightX" : 420.6,
+      "topY" : 370.8949,
+      "baseLineY" : 380.1599,
+      "fontId" : 1,
+      "text" : "” page enter the following: "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 407.5751,
+      "rightX" : 149.5201,
+      "topY" : 395.5751,
+      "baseLineY" : 405.42,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5201,
+      "bottomY" : 408.2771,
+      "rightX" : 152.8561,
+      "topY" : 396.2771,
+      "baseLineY" : 405.42,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 162.0001,
+      "bottomY" : 408.1549,
+      "rightX" : 337.6201,
+      "topY" : 396.1549,
+      "baseLineY" : 405.42,
+      "fontId" : 1,
+      "text" : "Borrower’s social security number;  "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 432.8351,
+      "rightX" : 149.5201,
+      "topY" : 420.8351,
+      "baseLineY" : 430.68,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5201,
+      "bottomY" : 433.5371,
+      "rightX" : 152.8561,
+      "topY" : 421.5371,
+      "baseLineY" : 430.68,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 162.0001,
+      "bottomY" : 433.4149,
+      "rightX" : 167.3281,
+      "topY" : 421.4149,
+      "baseLineY" : 430.68,
+      "fontId" : 1,
+      "text" : "“"
+    }, {
+      "leftX" : 167.3401,
+      "bottomY" : 433.4499,
+      "rightX" : 217.044,
+      "topY" : 421.4499,
+      "baseLineY" : 430.68,
+      "fontId" : 16,
+      "text" : "Lender ID"
+    }, {
+      "leftX" : 217.0201,
+      "bottomY" : 433.4149,
+      "rightX" : 251.94,
+      "topY" : 421.4149,
+      "baseLineY" : 430.68,
+      "fontId" : 1,
+      "text" : "”; and  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 458.0951,
+      "rightX" : 149.5201,
+      "topY" : 446.0951,
+      "baseLineY" : 455.94,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5201,
+      "bottomY" : 458.7971,
+      "rightX" : 152.856,
+      "topY" : 446.7971,
+      "baseLineY" : 455.94,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 458.6749,
+      "rightX" : 206.328,
+      "topY" : 446.6749,
+      "baseLineY" : 455.94,
+      "fontId" : 1,
+      "text" : "Choose “"
+    }, {
+      "leftX" : 206.34,
+      "bottomY" : 458.7099,
+      "rightX" : 342.576,
+      "topY" : 446.7099,
+      "baseLineY" : 455.94,
+      "fontId" : 16,
+      "text" : "USDA – Rural Development"
+    }, {
+      "leftX" : 342.6,
+      "bottomY" : 458.6749,
+      "rightX" : 473.8668,
+      "topY" : 446.6749,
+      "baseLineY" : 455.94,
+      "fontId" : 1,
+      "text" : "” as the Agency and click “"
+    }, {
+      "leftX" : 473.8788,
+      "bottomY" : 458.7099,
+      "rightX" : 497.2188,
+      "topY" : 446.7099,
+      "baseLineY" : 455.94,
+      "fontId" : 16,
+      "text" : "Send"
+    }, {
+      "leftX" : 497.2188,
+      "bottomY" : 458.6749,
+      "rightX" : 531.4788,
+      "topY" : 446.6749,
+      "baseLineY" : 455.94,
+      "fontId" : 1,
+      "text" : "”. TIN "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 472.4749,
+      "rightX" : 354.9,
+      "topY" : 460.4749,
+      "baseLineY" : 469.74,
+      "fontId" : 1,
+      "text" : "numbers for borrowers are not allowed. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 647.7349,
+      "rightX" : 147,
+      "topY" : 635.7349,
+      "baseLineY" : 644.9999,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 661.5349,
+      "rightX" : 135,
+      "topY" : 649.5349,
+      "baseLineY" : 658.7999,
+      "fontId" : 1,
+      "text" : "5."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 661.6571,
+      "rightX" : 138.336,
+      "topY" : 649.6571,
+      "baseLineY" : 658.7999,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 661.5349,
+      "rightX" : 453.6599,
+      "topY" : 649.5349,
+      "baseLineY" : 658.7999,
+      "fontId" : 1,
+      "text" : "A CAIVRS number will be issued upon successful submission.  "
+    }, {
+      "leftX" : 453.66,
+      "bottomY" : 661.0791,
+      "rightX" : 456.165,
+      "topY" : 651.0791,
+      "baseLineY" : 658.8,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 669.5154,
+      "rightX" : 73.755,
+      "topY" : 662.5154,
+      "baseLineY" : 667.92,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 683.435,
+      "rightX" : 489.5998,
+      "topY" : 671.435,
+      "baseLineY" : 680.7,
+      "fontId" : 1,
+      "text" : "If assistance is needed, the lender may email the CAIVRS Administrator at "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 697.235,
+      "rightX" : 222.66,
+      "topY" : 685.235,
+      "baseLineY" : 694.5,
+      "fontId" : 14,
+      "text" : "caivrs_admin@hud.gov"
+    }, {
+      "leftX" : 222.66,
+      "bottomY" : 697.235,
+      "rightX" : 225.66,
+      "topY" : 685.235,
+      "baseLineY" : 694.5,
+      "fontId" : 1,
+      "text" : "."
+    }, {
+      "leftX" : 225.66,
+      "bottomY" : 697.235,
+      "rightX" : 228.66,
+      "topY" : 685.235,
+      "baseLineY" : 694.5,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 709.0191,
+      "rightX" : 74.505,
+      "topY" : 699.0191,
+      "baseLineY" : 706.74,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 722.9991,
+      "rightX" : 176.1379,
+      "topY" : 712.9991,
+      "baseLineY" : 720.72,
+      "fontId" : 6,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 734.5221,
+      "rightX" : 187.8242,
+      "topY" : 724.5221,
+      "baseLineY" : 732.243,
+      "fontId" : 6,
+      "text" : "Revised (05-05-25)  PN 640 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 1.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 13.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "Calibri",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0563c1"
+  }, {
+    "id" : 14,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 15,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 6.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 16,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 17,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 18,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 7.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

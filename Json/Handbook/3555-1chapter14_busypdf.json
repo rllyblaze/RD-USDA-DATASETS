@@ -1,0 +1,2690 @@
+{
+  "pdfDoc" : "3555-1chapter14.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 226.26,
+      "bottomY" : 124.3979,
+      "rightX" : 389.175,
+      "topY" : 110.3979,
+      "baseLineY" : 121.08,
+      "fontId" : 2,
+      "text" : "CHAPTER 14: FUNDING "
+    }, {
+      "leftX" : 226.08,
+      "bottomY" : 140.4779,
+      "rightX" : 392.9033,
+      "topY" : 126.4779,
+      "baseLineY" : 137.16,
+      "fontId" : 2,
+      "text" : "[Official Agency Use Only]  "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 156.6179,
+      "rightX" : 309.495,
+      "topY" : 142.6179,
+      "baseLineY" : 153.3,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 170.364,
+      "rightX" : 93,
+      "topY" : 158.364,
+      "baseLineY" : 167.52,
+      "fontId" : 3,
+      "text" : "14.1"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 170.6709,
+      "rightX" : 96.336,
+      "topY" : 158.6709,
+      "baseLineY" : 167.52,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 170.364,
+      "rightX" : 207,
+      "topY" : 158.364,
+      "baseLineY" : 167.52,
+      "fontId" : 3,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 196.055,
+      "rightX" : 542.5201,
+      "topY" : 184.055,
+      "baseLineY" : 193.32,
+      "fontId" : 5,
+      "text" : "     Congress appropriates program funds to the Agency for loan guarantees for each fiscal "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 209.855,
+      "rightX" : 502.9799,
+      "topY" : 197.855,
+      "baseLineY" : 207.12,
+      "fontId" : 5,
+      "text" : "year (FY) basis (October 1 through September 30).  If Congress has not approved "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 223.6549,
+      "rightX" : 514.6198,
+      "topY" : 211.6549,
+      "baseLineY" : 220.92,
+      "fontId" : 5,
+      "text" : "appropriated funds at the beginning of a fiscal year, the program may continue to be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 237.4549,
+      "rightX" : 533.2798,
+      "topY" : 225.4549,
+      "baseLineY" : 234.72,
+      "fontId" : 5,
+      "text" : "authorized and delivered under a Continuing Resolution until appropriated funds for the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 251.2549,
+      "rightX" : 523.5599,
+      "topY" : 239.2549,
+      "baseLineY" : 248.52,
+      "fontId" : 5,
+      "text" : "fiscal year are approved by Congress.  While the Agency operates under a Continuing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 265.0549,
+      "rightX" : 540.8398,
+      "topY" : 253.0549,
+      "baseLineY" : 262.3199,
+      "fontId" : 5,
+      "text" : "Resolution, the Budget Office receives funds that are allotted to the program according to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 278.8549,
+      "rightX" : 520.2598,
+      "topY" : 266.8549,
+      "baseLineY" : 276.1199,
+      "fontId" : 5,
+      "text" : "the duration of the Continuing Resolution.  Throughout this period, funds are allotted "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 292.6549,
+      "rightX" : 528.96,
+      "topY" : 280.6549,
+      "baseLineY" : 289.9199,
+      "fontId" : 5,
+      "text" : "based on a percentage of the total days for which the Continuing Resolution remains in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 306.4549,
+      "rightX" : 506.5798,
+      "topY" : 294.4549,
+      "baseLineY" : 303.7199,
+      "fontId" : 5,
+      "text" : "effect.  The denominator used in this calculation can be either the amount of funds "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 320.2549,
+      "rightX" : 494.9398,
+      "topY" : 308.2549,
+      "baseLineY" : 317.5199,
+      "fontId" : 5,
+      "text" : "obligated in the previous year or the program level authorized in the Continuing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 334.0549,
+      "rightX" : 166.02,
+      "topY" : 322.0549,
+      "baseLineY" : 331.3199,
+      "fontId" : 5,
+      "text" : "Resolution. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 359.8548,
+      "rightX" : 525.6001,
+      "topY" : 347.8548,
+      "baseLineY" : 357.1199,
+      "fontId" : 5,
+      "text" : "     This chapter describes the funding priority process and Agency actions when funds "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 373.6548,
+      "rightX" : 519.2399,
+      "topY" : 361.6548,
+      "baseLineY" : 370.9199,
+      "fontId" : 5,
+      "text" : "are limited.  It also outlines the Agency procedure to request funds from the National "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 387.4548,
+      "rightX" : 182.28,
+      "topY" : 375.4548,
+      "baseLineY" : 384.7198,
+      "fontId" : 5,
+      "text" : "Office reserve. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 413.3638,
+      "rightX" : 93,
+      "topY" : 401.3638,
+      "baseLineY" : 410.5198,
+      "fontId" : 3,
+      "text" : "14.2"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 413.6707,
+      "rightX" : 96.336,
+      "topY" : 401.6707,
+      "baseLineY" : 410.5198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 413.3638,
+      "rightX" : 291.66,
+      "topY" : 401.3638,
+      "baseLineY" : 410.5198,
+      "fontId" : 3,
+      "text" : "PROGRAM FUNDING PROCESS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 439.0548,
+      "rightX" : 537.1199,
+      "topY" : 427.0548,
+      "baseLineY" : 436.3198,
+      "fontId" : 5,
+      "text" : "     Funds are allocated and distributed to the Agency by the budget staff at the beginning "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 452.8548,
+      "rightX" : 501.24,
+      "topY" : 440.8548,
+      "baseLineY" : 450.1198,
+      "fontId" : 5,
+      "text" : "of each fiscal year through the Single Family Housing Guaranteed Loan Program "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 466.6548,
+      "rightX" : 517.9798,
+      "topY" : 454.6548,
+      "baseLineY" : 463.9198,
+      "fontId" : 5,
+      "text" : "(SFHGLP).  The State accounts will receive funds proportionate to the percentage of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 480.4548,
+      "rightX" : 523.26,
+      "topY" : 468.4548,
+      "baseLineY" : 477.7198,
+      "fontId" : 5,
+      "text" : "prior year’s actual obligations.  Additionally, a portion of the funds will be held in the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 494.2547,
+      "rightX" : 520.8573,
+      "topY" : 482.2547,
+      "baseLineY" : 491.5198,
+      "fontId" : 5,
+      "text" : "National Office reserve to support State accounts that may require a higher allocation "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 508.0547,
+      "rightX" : 537.9598,
+      "topY" : 496.0547,
+      "baseLineY" : 505.3198,
+      "fontId" : 5,
+      "text" : "compared to the previous year.  This measure aims to guarantee adequate funding for the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 521.7947,
+      "rightX" : 535.6201,
+      "topY" : 509.7947,
+      "baseLineY" : 519.0598,
+      "fontId" : 5,
+      "text" : "SFHGLP across all State accounts, based on the allocated funds approved by the Budget "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 535.5947,
+      "rightX" : 144.66,
+      "topY" : 523.5947,
+      "baseLineY" : 532.8597,
+      "fontId" : 5,
+      "text" : "Office. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 561.3947,
+      "rightX" : 537.181,
+      "topY" : 549.3947,
+      "baseLineY" : 558.6597,
+      "fontId" : 5,
+      "text" : "     The National Office will keep lenders and Agency staff apprised of the potential for a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 575.1947,
+      "rightX" : 353.8801,
+      "topY" : 563.1947,
+      "baseLineY" : 572.4597,
+      "fontId" : 5,
+      "text" : "shortage of available funds with an advance notice."
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 176.1379,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 278.8729,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6744,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "14-1 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 185.3162,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : "Revised (10-12-23) PN 594 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 287.9911,
+      "bottomY" : 83.6391,
+      "rightX" : 290.4962,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 503.9923,
+      "bottomY" : 83.6391,
+      "rightX" : 506.4973,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 122.0639,
+      "rightX" : 93,
+      "topY" : 110.0639,
+      "baseLineY" : 119.22,
+      "fontId" : 3,
+      "text" : "14.3"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 122.3708,
+      "rightX" : 96.336,
+      "topY" : 110.3708,
+      "baseLineY" : 119.22,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 122.0639,
+      "rightX" : 385.68,
+      "topY" : 110.0639,
+      "baseLineY" : 119.22,
+      "fontId" : 3,
+      "text" : "PRIORITIZATION OF FUNDING [7 CFR 3555.107] "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 147.7549,
+      "rightX" : 520.9799,
+      "topY" : 135.7549,
+      "baseLineY" : 145.02,
+      "fontId" : 5,
+      "text" : "     When funding is not sufficient to fund all applications, a priority system is used to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 161.5549,
+      "rightX" : 539.8221,
+      "topY" : 149.5549,
+      "baseLineY" : 158.8199,
+      "fontId" : 5,
+      "text" : "ensure that applicants who meet the priorities established for the program are selected for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 175.3549,
+      "rightX" : 535.6198,
+      "topY" : 163.3549,
+      "baseLineY" : 172.6199,
+      "fontId" : 5,
+      "text" : "processing first. The priority system is used to determine the order in which applications "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 189.1549,
+      "rightX" : 527.5799,
+      "topY" : 177.1549,
+      "baseLineY" : 186.4199,
+      "fontId" : 5,
+      "text" : "will be processed.  If funds are limited, the Agency will prioritize requests to first-time "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 202.9549,
+      "rightX" : 542.28,
+      "topY" : 190.9549,
+      "baseLineY" : 200.2199,
+      "fontId" : 5,
+      "text" : "homebuyers or veterans. In the case of applications with equivalent priority status that are "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 216.7549,
+      "rightX" : 517.1398,
+      "topY" : 204.7549,
+      "baseLineY" : 214.0199,
+      "fontId" : 5,
+      "text" : "received on the same day, preference in funding will be given to those qualifying for "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 230.5549,
+      "rightX" : 506.8201,
+      "topY" : 218.5549,
+      "baseLineY" : 227.8199,
+      "fontId" : 5,
+      "text" : "veteran’s preference.  The following outlines the criteria to meet the prioritization: "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 244.3548,
+      "rightX" : 129.0001,
+      "topY" : 232.3548,
+      "baseLineY" : 241.6199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 258.2638,
+      "rightX" : 117.0001,
+      "topY" : 246.2638,
+      "baseLineY" : 255.4199,
+      "fontId" : 3,
+      "text" : "1."
+    }, {
+      "leftX" : 117.0001,
+      "bottomY" : 258.5707,
+      "rightX" : 120.3361,
+      "topY" : 246.5707,
+      "baseLineY" : 255.4199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 258.2638,
+      "rightX" : 502.1401,
+      "topY" : 246.2638,
+      "baseLineY" : 255.4199,
+      "fontId" : 3,
+      "text" : "Households that Qualify for First-Time Homebuyers Preferences [7 CFR "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 272.0638,
+      "rightX" : 172.0201,
+      "topY" : 260.0638,
+      "baseLineY" : 269.2198,
+      "fontId" : 3,
+      "text" : "3555.10] "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 297.7548,
+      "rightX" : 523.4974,
+      "topY" : 285.7548,
+      "baseLineY" : 295.0198,
+      "fontId" : 5,
+      "text" : "     A household qualifies for a first-time homebuyer preference if any applicant meets "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 311.5548,
+      "rightX" : 269.2801,
+      "topY" : 299.5548,
+      "baseLineY" : 308.8198,
+      "fontId" : 5,
+      "text" : "any one of the following criteria: "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 337.6149,
+      "rightX" : 131.5201,
+      "topY" : 325.6149,
+      "baseLineY" : 335.4598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 338.317,
+      "rightX" : 134.8561,
+      "topY" : 326.317,
+      "baseLineY" : 335.4598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 338.1948,
+      "rightX" : 531.6598,
+      "topY" : 326.1948,
+      "baseLineY" : 335.4598,
+      "fontId" : 5,
+      "text" : "An individual who has had no ownership interest in a principal residence during "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 351.9948,
+      "rightX" : 415.5601,
+      "topY" : 339.9948,
+      "baseLineY" : 349.2598,
+      "fontId" : 5,
+      "text" : "the three-year period ending on the date of loan closing. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 378.0549,
+      "rightX" : 131.5201,
+      "topY" : 366.0549,
+      "baseLineY" : 375.8998,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 378.757,
+      "rightX" : 134.8561,
+      "topY" : 366.757,
+      "baseLineY" : 375.8998,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 378.6348,
+      "rightX" : 539.64,
+      "topY" : 366.6348,
+      "baseLineY" : 375.8998,
+      "fontId" : 5,
+      "text" : "An individual who is a displaced homemaker and who, except for owning a home "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 392.2071,
+      "rightX" : 163.5367,
+      "topY" : 381.2071,
+      "baseLineY" : 389.7,
+      "fontId" : 8,
+      "text" : "with"
+    }, {
+      "leftX" : 163.56,
+      "bottomY" : 392.435,
+      "rightX" : 525.7797,
+      "topY" : 380.435,
+      "baseLineY" : 389.7,
+      "fontId" : 5,
+      "text" : " a spouse, has had no ownership interest in a principal residence during the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 406.235,
+      "rightX" : 520.4999,
+      "topY" : 394.235,
+      "baseLineY" : 403.5,
+      "fontId" : 5,
+      "text" : "three-year period ending on the date of loan closing.  A displaced homemaker "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 420.035,
+      "rightX" : 540.5999,
+      "topY" : 408.035,
+      "baseLineY" : 417.3,
+      "fontId" : 5,
+      "text" : "who is unemployed or underemployed, and having trouble obtaining or upgrading "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 433.8349,
+      "rightX" : 533.5799,
+      "topY" : 421.8349,
+      "baseLineY" : 431.1,
+      "fontId" : 5,
+      "text" : "employment. Or an individual who in recent years has worked primarily without "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 447.6349,
+      "rightX" : 530.88,
+      "topY" : 435.6349,
+      "baseLineY" : 444.9,
+      "fontId" : 5,
+      "text" : "earnings to care for the home and family and has not worked full-time, full-year "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 461.4349,
+      "rightX" : 232.32,
+      "topY" : 449.4349,
+      "baseLineY" : 458.7,
+      "fontId" : 5,
+      "text" : "in the labor force. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 487.4951,
+      "rightX" : 131.52,
+      "topY" : 475.4951,
+      "baseLineY" : 485.34,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 488.1971,
+      "rightX" : 134.856,
+      "topY" : 476.1971,
+      "baseLineY" : 485.34,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 488.0749,
+      "rightX" : 529.0198,
+      "topY" : 476.0749,
+      "baseLineY" : 485.34,
+      "fontId" : 5,
+      "text" : "An individual who is a single parent and who, except for owning a home with a "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 501.9349,
+      "rightX" : 522.876,
+      "topY" : 489.9349,
+      "baseLineY" : 499.2,
+      "fontId" : 5,
+      "text" : "spouse, has had no ownership interest in a principal residence during the three-"
+    }, {
+      "leftX" : 144,
+      "bottomY" : 515.7349,
+      "rightX" : 502.9198,
+      "topY" : 503.7349,
+      "baseLineY" : 512.9999,
+      "fontId" : 5,
+      "text" : "year period ending on the date of loan closing.  Single parents include any "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 529.5349,
+      "rightX" : 219.3,
+      "topY" : 517.5349,
+      "baseLineY" : 526.7999,
+      "fontId" : 5,
+      "text" : "individual who "
+    }, {
+      "leftX" : 219.3,
+      "bottomY" : 529.307,
+      "rightX" : 226.6346,
+      "topY" : 518.307,
+      "baseLineY" : 526.8,
+      "fontId" : 8,
+      "text" : "is"
+    }, {
+      "leftX" : 226.62,
+      "bottomY" : 529.535,
+      "rightX" : 541.9797,
+      "topY" : 517.535,
+      "baseLineY" : 526.8,
+      "fontId" : 5,
+      "text" : " unmarried or legally separated from a spouse and has custody or "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 543.3349,
+      "rightX" : 432.3,
+      "topY" : 531.3349,
+      "baseLineY" : 540.6,
+      "fontId" : 5,
+      "text" : "joint custody of one or more minor children, or is pregnant. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 569.244,
+      "rightX" : 117,
+      "topY" : 557.244,
+      "baseLineY" : 566.4,
+      "fontId" : 3,
+      "text" : "2."
+    }, {
+      "leftX" : 117,
+      "bottomY" : 569.5509,
+      "rightX" : 120.336,
+      "topY" : 557.5509,
+      "baseLineY" : 566.4,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 569.244,
+      "rightX" : 470.64,
+      "topY" : 557.244,
+      "baseLineY" : 566.4,
+      "fontId" : 3,
+      "text" : "Households that Qualify for Veterans Preferences [7 CFR 3555.10] "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 594.935,
+      "rightX" : 114,
+      "topY" : 582.935,
+      "baseLineY" : 592.2,
+      "fontId" : 5,
+      "text" : "  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 594.935,
+      "rightX" : 536.0399,
+      "topY" : 582.935,
+      "baseLineY" : 592.2,
+      "fontId" : 5,
+      "text" : "A household qualifies for a veteran's preference if any applicant has served on active "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 608.675,
+      "rightX" : 534.7798,
+      "topY" : 596.675,
+      "baseLineY" : 605.94,
+      "fontId" : 5,
+      "text" : "duty and has been discharged or released from the active forces on conditions other than "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 622.475,
+      "rightX" : 518.3399,
+      "topY" : 610.475,
+      "baseLineY" : 619.74,
+      "fontId" : 5,
+      "text" : "dishonorable from the United States Army, Navy, Air Force, Marine Corps, or Coast "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 636.275,
+      "rightX" : 493.8598,
+      "topY" : 624.275,
+      "baseLineY" : 633.54,
+      "fontId" : 5,
+      "text" : "Guard.  The preference applies to the serviceperson, or the family of a deceased "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 650.075,
+      "rightX" : 532.8598,
+      "topY" : 638.075,
+      "baseLineY" : 647.34,
+      "fontId" : 5,
+      "text" : "serviceperson who died in service before termination of such war or such period or era.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 663.875,
+      "rightX" : 259.9536,
+      "topY" : 651.875,
+      "baseLineY" : 661.14,
+      "fontId" : 5,
+      "text" : "The applicable time frames are:"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 74.505,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 278.8829,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6844,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "14-2 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 74.505,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.9867,
+      "bottomY" : 95.102,
+      "rightX" : 236.976,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 14.3 Prioritization of Funding "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 122.2151,
+      "rightX" : 131.52,
+      "topY" : 110.2151,
+      "baseLineY" : 120.06,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 122.9171,
+      "rightX" : 134.856,
+      "topY" : 110.9171,
+      "baseLineY" : 120.06,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 122.795,
+      "rightX" : 198.72,
+      "topY" : 110.795,
+      "baseLineY" : 120.06,
+      "fontId" : 5,
+      "text" : "During the "
+    }, {
+      "leftX" : 198.72,
+      "bottomY" : 122.5671,
+      "rightX" : 226.7673,
+      "topY" : 111.5671,
+      "baseLineY" : 120.06,
+      "fontId" : 8,
+      "text" : "period"
+    }, {
+      "leftX" : 226.8,
+      "bottomY" : 122.795,
+      "rightX" : 433.14,
+      "topY" : 110.795,
+      "baseLineY" : 120.06,
+      "fontId" : 5,
+      "text" : " of April 6, 1917 through March 31, 1921; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 148.8551,
+      "rightX" : 131.52,
+      "topY" : 136.8551,
+      "baseLineY" : 146.7,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 149.5572,
+      "rightX" : 134.856,
+      "topY" : 137.5572,
+      "baseLineY" : 146.7,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 149.435,
+      "rightX" : 245.4,
+      "topY" : 137.435,
+      "baseLineY" : 146.7,
+      "fontId" : 5,
+      "text" : "During the period of "
+    }, {
+      "leftX" : 245.4,
+      "bottomY" : 149.2071,
+      "rightX" : 290.4696,
+      "topY" : 138.2071,
+      "baseLineY" : 146.7,
+      "fontId" : 8,
+      "text" : "December"
+    }, {
+      "leftX" : 290.46,
+      "bottomY" : 149.435,
+      "rightX" : 473.52,
+      "topY" : 137.435,
+      "baseLineY" : 146.7,
+      "fontId" : 5,
+      "text" : " 7, 1941 through December 31, 1946; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 175.5551,
+      "rightX" : 131.52,
+      "topY" : 163.5551,
+      "baseLineY" : 173.4,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 176.2572,
+      "rightX" : 134.856,
+      "topY" : 164.2572,
+      "baseLineY" : 173.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 176.135,
+      "rightX" : 245.4,
+      "topY" : 164.135,
+      "baseLineY" : 173.4,
+      "fontId" : 5,
+      "text" : "During the period of "
+    }, {
+      "leftX" : 245.4,
+      "bottomY" : 175.9071,
+      "rightX" : 265.5121,
+      "topY" : 164.9071,
+      "baseLineY" : 173.4,
+      "fontId" : 8,
+      "text" : "June"
+    }, {
+      "leftX" : 265.5,
+      "bottomY" : 176.135,
+      "rightX" : 442.5,
+      "topY" : 164.135,
+      "baseLineY" : 173.4,
+      "fontId" : 5,
+      "text" : " 27, 1950 through January 31, 1955; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 202.1951,
+      "rightX" : 131.52,
+      "topY" : 190.1951,
+      "baseLineY" : 200.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 202.8972,
+      "rightX" : 134.856,
+      "topY" : 190.8972,
+      "baseLineY" : 200.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 202.775,
+      "rightX" : 534.5999,
+      "topY" : 190.775,
+      "baseLineY" : 200.04,
+      "fontId" : 5,
+      "text" : "For a period of more than 180 days, any part of which occurred after January 31, "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 216.575,
+      "rightX" : 324.3,
+      "topY" : 204.575,
+      "baseLineY" : 213.84,
+      "fontId" : 5,
+      "text" : "1955, but on or before May 7, 1975;  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 242.6351,
+      "rightX" : 131.52,
+      "topY" : 230.6351,
+      "baseLineY" : 240.48,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 243.3372,
+      "rightX" : 134.856,
+      "topY" : 231.3372,
+      "baseLineY" : 240.48,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 243.215,
+      "rightX" : 495.9,
+      "topY" : 231.215,
+      "baseLineY" : 240.48,
+      "fontId" : 5,
+      "text" : "During the period beginning August 2, 1990 through January 2, 1992; or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 269.3352,
+      "rightX" : 131.52,
+      "topY" : 257.3352,
+      "baseLineY" : 267.1801,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 270.0372,
+      "rightX" : 134.856,
+      "topY" : 258.0372,
+      "baseLineY" : 267.1801,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 269.915,
+      "rightX" : 429.18,
+      "topY" : 257.915,
+      "baseLineY" : 267.1801,
+      "fontId" : 5,
+      "text" : "Any other prescribed by Presidential Proclamation or law.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 295.824,
+      "rightX" : 93,
+      "topY" : 283.824,
+      "baseLineY" : 292.98,
+      "fontId" : 3,
+      "text" : "14.4"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 296.1309,
+      "rightX" : 96.336,
+      "topY" : 284.1309,
+      "baseLineY" : 292.98,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 295.824,
+      "rightX" : 363.36,
+      "topY" : 283.824,
+      "baseLineY" : 292.98,
+      "fontId" : 3,
+      "text" : "AGENCY ACTIONS – SHORTAGE OF FUNDS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 321.515,
+      "rightX" : 536.7,
+      "topY" : 309.515,
+      "baseLineY" : 318.78,
+      "fontId" : 5,
+      "text" : "The following actions will be taken by the Agency when program funding is limited: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 347.4239,
+      "rightX" : 119.64,
+      "topY" : 335.4239,
+      "baseLineY" : 344.58,
+      "fontId" : 3,
+      "text" : "A."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 347.7309,
+      "rightX" : 122.976,
+      "topY" : 335.7309,
+      "baseLineY" : 344.58,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 347.4239,
+      "rightX" : 373.08,
+      "topY" : 335.4239,
+      "baseLineY" : 344.58,
+      "fontId" : 3,
+      "text" : "Agency Actions When Funds Are Not Available "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 373.115,
+      "rightX" : 540.1797,
+      "topY" : 361.115,
+      "baseLineY" : 370.38,
+      "fontId" : 5,
+      "text" : "The National Office will keep lenders and Agency staff apprised of the potential for a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 386.915,
+      "rightX" : 529.5599,
+      "topY" : 374.915,
+      "baseLineY" : 384.18,
+      "fontId" : 5,
+      "text" : "shortage of available funds.  If funds become limited, the Agency will allocate funds in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 400.7149,
+      "rightX" : 540.2399,
+      "topY" : 388.7149,
+      "baseLineY" : 397.98,
+      "fontId" : 5,
+      "text" : "accordance with the percentage obligated in the prior year under a Continuing Resolution "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 414.5149,
+      "rightX" : 528.8999,
+      "topY" : 402.5149,
+      "baseLineY" : 411.78,
+      "fontId" : 5,
+      "text" : "or based on the basic allocation formula in RD Instruction 1940-L for the current fiscal "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 428.3149,
+      "rightX" : 134.6399,
+      "topY" : 416.3149,
+      "baseLineY" : 425.58,
+      "fontId" : 5,
+      "text" : "year. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 454.1149,
+      "rightX" : 533.8796,
+      "topY" : 442.1149,
+      "baseLineY" : 451.3799,
+      "fontId" : 5,
+      "text" : "     Agency staff will place the request on a waiting list and notify the lender that a delay "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 467.9149,
+      "rightX" : 525.4799,
+      "topY" : 455.9149,
+      "baseLineY" : 465.1799,
+      "fontId" : 5,
+      "text" : "is expected.  Applicants who qualify for a preference as a first-time homebuyer or as a "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 481.7149,
+      "rightX" : 525.6,
+      "topY" : 469.7149,
+      "baseLineY" : 478.9799,
+      "fontId" : 5,
+      "text" : "veteran will be placed on the waiting list above those without such a preference, in the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 495.5149,
+      "rightX" : 540.12,
+      "topY" : 483.5149,
+      "baseLineY" : 492.7799,
+      "fontId" : 5,
+      "text" : "order received.  All other applicants will be placed on the waiting list in date-order below "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 509.3149,
+      "rightX" : 275.2799,
+      "topY" : 497.3149,
+      "baseLineY" : 506.5799,
+      "fontId" : 5,
+      "text" : "those who qualify for preferences. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 535.1148,
+      "rightX" : 531.2432,
+      "topY" : 523.1148,
+      "baseLineY" : 532.3799,
+      "fontId" : 5,
+      "text" : "     Loan guarantee requests will remain on the waiting list until funds become available "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 548.9148,
+      "rightX" : 378.2399,
+      "topY" : 536.9148,
+      "baseLineY" : 546.1799,
+      "fontId" : 5,
+      "text" : "or the lender withdraws the request, whichever is first.   "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 574.7148,
+      "rightX" : 532.1997,
+      "topY" : 562.7148,
+      "baseLineY" : 571.9799,
+      "fontId" : 5,
+      "text" : "     If the request is received after funds are exhausted, the Agency will notify the lender "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 588.5149,
+      "rightX" : 537.9,
+      "topY" : 576.5149,
+      "baseLineY" : 585.7799,
+      "fontId" : 5,
+      "text" : "that the loan guarantee request may be deferred until the following fiscal year.  Approval "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 602.3149,
+      "rightX" : 539.5797,
+      "topY" : 590.3149,
+      "baseLineY" : 599.5799,
+      "fontId" : 5,
+      "text" : "officials will keep lenders aware of actions to be taken.  If there is a possibility that funds "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 616.1148,
+      "rightX" : 535.8598,
+      "topY" : 604.1148,
+      "baseLineY" : 613.3799,
+      "fontId" : 5,
+      "text" : "will soon be available, the request for guarantee may be reviewed.  The lender should be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 629.9149,
+      "rightX" : 524.9399,
+      "topY" : 617.9149,
+      "baseLineY" : 627.1799,
+      "fontId" : 5,
+      "text" : "notified if the Agency cannot honor normal turn-around times.  Complete applications "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 643.7149,
+      "rightX" : 503.2787,
+      "topY" : 631.7149,
+      "baseLineY" : 640.9799,
+      "fontId" : 5,
+      "text" : "will be reviewed and funded (as appropriate) on a “first-come first-served” basis.  "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 657.5149,
+      "rightX" : 519.9598,
+      "topY" : 645.5149,
+      "baseLineY" : 654.7799,
+      "fontId" : 5,
+      "text" : "Incomplete applications will be returned and may be resubmitted.  Lenders should be "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 671.3149,
+      "rightX" : 533.2798,
+      "topY" : 659.3149,
+      "baseLineY" : 668.5799,
+      "fontId" : 5,
+      "text" : "advised of the reason the application is being returned, and what is required to complete "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 176.1379,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 278.8729,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6744,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "14-3 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 185.3152,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : "Revised (10-12-23) PN 594 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.102,
+      "rightX" : 285.5763,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 14.4 Agency Actions – Shortage of Funds "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 106.625,
+      "rightX" : 74.495,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 287.9911,
+      "bottomY" : 106.625,
+      "rightX" : 290.4961,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 503.9922,
+      "bottomY" : 106.625,
+      "rightX" : 506.4973,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 121.9549,
+      "rightX" : 537.2397,
+      "topY" : 109.9549,
+      "baseLineY" : 119.22,
+      "fontId" : 5,
+      "text" : "the application.  The approving office is responsible for keeping the lender abreast of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 135.7549,
+      "rightX" : 423.54,
+      "topY" : 123.7549,
+      "baseLineY" : 133.02,
+      "fontId" : 5,
+      "text" : "status of the applications submitted and any availability of funds. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 161.6639,
+      "rightX" : 118.98,
+      "topY" : 149.6639,
+      "baseLineY" : 158.8199,
+      "fontId" : 3,
+      "text" : "B."
+    }, {
+      "leftX" : 118.98,
+      "bottomY" : 161.9708,
+      "rightX" : 122.316,
+      "topY" : 149.9708,
+      "baseLineY" : 158.8199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 161.6639,
+      "rightX" : 521.4636,
+      "topY" : 149.6639,
+      "baseLineY" : 158.8199,
+      "fontId" : 3,
+      "text" : "Agency Actions When Funds Are Not Available – Conditional Commitments "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 175.4639,
+      "rightX" : 291.66,
+      "topY" : 163.4639,
+      "baseLineY" : 172.6199,
+      "fontId" : 3,
+      "text" : "Subject to Availability of Funds "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 201.1549,
+      "rightX" : 533.1599,
+      "topY" : 189.1549,
+      "baseLineY" : 198.4199,
+      "fontId" : 5,
+      "text" : "     When funds are not available, the National Office may authorize issuing Conditional "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 214.9549,
+      "rightX" : 534.6,
+      "topY" : 202.9549,
+      "baseLineY" : 212.2199,
+      "fontId" : 5,
+      "text" : "Commitments “subject to receipt of congressionally appropriated funds.”  In such cases, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 228.7549,
+      "rightX" : 487.6187,
+      "topY" : 216.7549,
+      "baseLineY" : 226.0199,
+      "fontId" : 5,
+      "text" : "when in the best interest of the Government, the Agency will continue to issue "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 242.5549,
+      "rightX" : 253.6199,
+      "topY" : 230.5549,
+      "baseLineY" : 239.8199,
+      "fontId" : 5,
+      "text" : "Conditional Commitments.     "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 268.3548,
+      "rightX" : 529.3199,
+      "topY" : 256.3548,
+      "baseLineY" : 265.6199,
+      "fontId" : 5,
+      "text" : "     When issuing Conditional Commitments that are contingent upon the availability of "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 282.1548,
+      "rightX" : 529.4999,
+      "topY" : 270.1548,
+      "baseLineY" : 279.4199,
+      "fontId" : 5,
+      "text" : "congressionally appropriated funds, Agency personnel will include a specific condition "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 295.9548,
+      "rightX" : 526.8599,
+      "topY" : 283.9548,
+      "baseLineY" : 293.2198,
+      "fontId" : 5,
+      "text" : "stating that the funds are currently unavailable and outlining the expected actions from "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 309.7548,
+      "rightX" : 504.2399,
+      "topY" : 297.7548,
+      "baseLineY" : 307.0198,
+      "fontId" : 5,
+      "text" : "lenders during the interim period. The National Office will provide the authorized "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 323.5548,
+      "rightX" : 537.2999,
+      "topY" : 311.5548,
+      "baseLineY" : 320.8198,
+      "fontId" : 5,
+      "text" : "statement for commitments subject to funding, which will be included in the Conditional "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 337.3548,
+      "rightX" : 540.5999,
+      "topY" : 325.3548,
+      "baseLineY" : 334.6198,
+      "fontId" : 5,
+      "text" : "Commitment generated by the system.  Subsequently, once a Conditional Commitment is "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 351.1548,
+      "rightX" : 532.6187,
+      "topY" : 339.1548,
+      "baseLineY" : 348.4198,
+      "fontId" : 5,
+      "text" : "initially issued with the “subject to availability of funds” language, it will be reissued to "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 364.9548,
+      "rightX" : 533.5199,
+      "topY" : 352.9548,
+      "baseLineY" : 362.2198,
+      "fontId" : 5,
+      "text" : "the lender after funds have been obtained and obligated, with the “subject to availability "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 378.7547,
+      "rightX" : 429.24,
+      "topY" : 366.7547,
+      "baseLineY" : 376.0198,
+      "fontId" : 5,
+      "text" : "of funds” language removed from the Conditional Commitment.    "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 404.5547,
+      "rightX" : 520.9798,
+      "topY" : 392.5547,
+      "baseLineY" : 401.8198,
+      "fontId" : 5,
+      "text" : "     Lenders may close these loans provided they fulfill all the conditions stated on the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 418.3547,
+      "rightX" : 533.2175,
+      "topY" : 406.3547,
+      "baseLineY" : 415.6198,
+      "fontId" : 5,
+      "text" : "Conditional Commitment.  The Agency will not be able to issue a Loan Note Guarantee "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 432.1547,
+      "rightX" : 542.8801,
+      "topY" : 420.1547,
+      "baseLineY" : 429.4197,
+      "fontId" : 5,
+      "text" : "until funding becomes available.  When funding becomes available, the lender must make "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 445.955,
+      "rightX" : 519.5399,
+      "topY" : 433.955,
+      "baseLineY" : 443.22,
+      "fontId" : 5,
+      "text" : "a certification there has been no adverse change in the borrower’s financial condition "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 459.755,
+      "rightX" : 520.5599,
+      "topY" : 447.755,
+      "baseLineY" : 457.02,
+      "fontId" : 5,
+      "text" : "since issuance of the Conditional Commitment.  A lender must certify to the Agency, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 473.5549,
+      "rightX" : 348.9,
+      "topY" : 461.5549,
+      "baseLineY" : 470.82,
+      "fontId" : 5,
+      "text" : "using the process provided on Form RD 3555-18, "
+    }, {
+      "leftX" : 348.9,
+      "bottomY" : 473.5899,
+      "rightX" : 523.5601,
+      "topY" : 461.5899,
+      "baseLineY" : 470.82,
+      "fontId" : 9,
+      "text" : "Conditional Commitment for Single "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 487.3899,
+      "rightX" : 267.708,
+      "topY" : 475.3899,
+      "baseLineY" : 484.62,
+      "fontId" : 9,
+      "text" : "Family Housing Loan Guarantee"
+    }, {
+      "leftX" : 267.7201,
+      "bottomY" : 487.3549,
+      "rightX" : 499.2599,
+      "topY" : 475.3549,
+      "baseLineY" : 484.62,
+      "fontId" : 5,
+      "text" : ", that there have been no adverse changes in the "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 501.1549,
+      "rightX" : 515.64,
+      "topY" : 489.1549,
+      "baseLineY" : 498.42,
+      "fontId" : 5,
+      "text" : "borrower’s financial condition since the Conditional Commitment was issued by the "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 514.8949,
+      "rightX" : 515.94,
+      "topY" : 502.8949,
+      "baseLineY" : 512.1599,
+      "fontId" : 5,
+      "text" : "Agency. The lender will assume all risk of loss until funds become available and the "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 528.6949,
+      "rightX" : 306.9001,
+      "topY" : 516.6949,
+      "baseLineY" : 525.96,
+      "fontId" : 5,
+      "text" : "Agency issues the Loan Note Guarantee. "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 554.6039,
+      "rightX" : 93.0001,
+      "topY" : 542.6039,
+      "baseLineY" : 551.7599,
+      "fontId" : 3,
+      "text" : "14.5"
+    }, {
+      "leftX" : 93.0001,
+      "bottomY" : 554.9108,
+      "rightX" : 96.3361,
+      "topY" : 542.9108,
+      "baseLineY" : 551.7599,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 554.6039,
+      "rightX" : 359.3402,
+      "topY" : 542.6039,
+      "baseLineY" : 551.7599,
+      "fontId" : 3,
+      "text" : "LENDER WITHDRAWAL OF APPLICATION "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 580.295,
+      "rightX" : 536.58,
+      "topY" : 568.295,
+      "baseLineY" : 577.56,
+      "fontId" : 10,
+      "text" : "     If a lender wishes to withdraw an application in the Guaranteed Underwriting System "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 594.095,
+      "rightX" : 519.7798,
+      "topY" : 582.095,
+      "baseLineY" : 591.36,
+      "fontId" : 10,
+      "text" : "(GUS), they can do so by clicking the \"Withdraw Application\" button. However, this "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 607.895,
+      "rightX" : 485.8798,
+      "topY" : 595.895,
+      "baseLineY" : 605.16,
+      "fontId" : 10,
+      "text" : "option is only available if the application's submission status is \"Unknown\" or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 621.695,
+      "rightX" : 533.3998,
+      "topY" : 609.695,
+      "baseLineY" : 618.96,
+      "fontId" : 10,
+      "text" : "\"Preliminary.\" If the application's submission status is \"Final,\" the withdraw application "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 635.495,
+      "rightX" : 512.16,
+      "topY" : 623.495,
+      "baseLineY" : 632.76,
+      "fontId" : 10,
+      "text" : "button will be disabled and the lender cannot withdraw the application at that stage. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 649.295,
+      "rightX" : 75,
+      "topY" : 637.295,
+      "baseLineY" : 646.56,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 663.095,
+      "rightX" : 515.6997,
+      "topY" : 651.095,
+      "baseLineY" : 660.36,
+      "fontId" : 10,
+      "text" : "     However, if the application status is set to \"Pending,\" the lender has the option to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 676.895,
+      "rightX" : 490.4374,
+      "topY" : 664.895,
+      "baseLineY" : 674.16,
+      "fontId" : 10,
+      "text" : "recall the application from the \"Final\" submission status. This means that if the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 690.695,
+      "rightX" : 531.06,
+      "topY" : 678.695,
+      "baseLineY" : 687.96,
+      "fontId" : 10,
+      "text" : "application has been finalized but is still in the \"Pending\" stage under application status,"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 74.505,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 278.8829,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6844,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "14-4 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 74.505,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.9867,
+      "bottomY" : 95.102,
+      "rightX" : 276.0941,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 14.5 Lender Withdrawal of Application "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 121.9549,
+      "rightX" : 518.64,
+      "topY" : 109.9549,
+      "baseLineY" : 119.22,
+      "fontId" : 10,
+      "text" : "the lender can request to withdraw it. This is a two-step process, first the lender must "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 135.755,
+      "rightX" : 521.5798,
+      "topY" : 123.755,
+      "baseLineY" : 133.02,
+      "fontId" : 10,
+      "text" : "recall the final submission and second withdraw the application. Once the application "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 149.555,
+      "rightX" : 529.3809,
+      "topY" : 137.555,
+      "baseLineY" : 146.82,
+      "fontId" : 10,
+      "text" : "status changes to \"In Process\" or \"Approved,\" the recall option will be disabled and the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 163.355,
+      "rightX" : 392.28,
+      "topY" : 151.355,
+      "baseLineY" : 160.62,
+      "fontId" : 10,
+      "text" : "lender will be unable to recall or withdraw the application. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 177.1549,
+      "rightX" : 75,
+      "topY" : 165.1549,
+      "baseLineY" : 174.42,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 190.9549,
+      "rightX" : 536.8748,
+      "topY" : 178.9549,
+      "baseLineY" : 188.22,
+      "fontId" : 10,
+      "text" : "     In cases where the application status is \"In Process\" or \"Approved,\" the lender should "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 204.755,
+      "rightX" : 526.2,
+      "topY" : 192.755,
+      "baseLineY" : 202.02,
+      "fontId" : 10,
+      "text" : "notify the Agency immediately to withdraw the application.  By notifying the Agency, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 218.555,
+      "rightX" : 529.8599,
+      "topY" : 206.555,
+      "baseLineY" : 215.82,
+      "fontId" : 10,
+      "text" : "the loan guarantee request can be removed from the system, and the funds allocated for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.355,
+      "rightX" : 529.675,
+      "topY" : 220.355,
+      "baseLineY" : 229.62,
+      "fontId" : 10,
+      "text" : "that application can be released back to the state's allotment. This is done to ensure that "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 246.1549,
+      "rightX" : 534.2399,
+      "topY" : 234.1549,
+      "baseLineY" : 243.42,
+      "fontId" : 10,
+      "text" : "the funds can be utilized for other guarantee requests and maximize the number of loans "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.9549,
+      "rightX" : 150,
+      "topY" : 247.9549,
+      "baseLineY" : 257.22,
+      "fontId" : 10,
+      "text" : "granted. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 273.755,
+      "rightX" : 75,
+      "topY" : 261.755,
+      "baseLineY" : 271.02,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 287.555,
+      "rightX" : 525.8998,
+      "topY" : 275.555,
+      "baseLineY" : 284.82,
+      "fontId" : 10,
+      "text" : "     It is crucial for lenders to inform the Agency promptly when they no longer require "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 301.355,
+      "rightX" : 521.2198,
+      "topY" : 289.355,
+      "baseLineY" : 298.62,
+      "fontId" : 10,
+      "text" : "the funds to avoid depriving other pending applicants the opportunity to obtain a loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 315.1549,
+      "rightX" : 542.22,
+      "topY" : 303.1549,
+      "baseLineY" : 312.42,
+      "fontId" : 10,
+      "text" : "guarantee. By releasing the funds, the Agency can reallocate them to deserving applicants "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 328.9549,
+      "rightX" : 361.5574,
+      "topY" : 316.9549,
+      "baseLineY" : 326.22,
+      "fontId" : 10,
+      "text" : "and facilitate the loan guarantee process efficiently.  "
+    }, {
+      "leftX" : 361.5574,
+      "bottomY" : 328.9549,
+      "rightX" : 492.8373,
+      "topY" : 316.9549,
+      "baseLineY" : 326.22,
+      "fontId" : 5,
+      "text" : "Some common reasons for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 342.7549,
+      "rightX" : 311.88,
+      "topY" : 330.7549,
+      "baseLineY" : 340.02,
+      "fontId" : 5,
+      "text" : "withdrawing a loan guarantee request are: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 368.8151,
+      "rightX" : 131.52,
+      "topY" : 356.8151,
+      "baseLineY" : 366.66,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 369.5171,
+      "rightX" : 134.856,
+      "topY" : 357.5171,
+      "baseLineY" : 366.66,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 369.3949,
+      "rightX" : 380.58,
+      "topY" : 357.3949,
+      "baseLineY" : 366.66,
+      "fontId" : 5,
+      "text" : "Lender’s rejection of the borrower’s application; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 395.4551,
+      "rightX" : 131.52,
+      "topY" : 383.4551,
+      "baseLineY" : 393.3,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 396.1571,
+      "rightX" : 134.856,
+      "topY" : 384.1571,
+      "baseLineY" : 393.3,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 396.035,
+      "rightX" : 255.96,
+      "topY" : 384.035,
+      "baseLineY" : 393.3,
+      "fontId" : 5,
+      "text" : "Change in property; or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 422.0951,
+      "rightX" : 131.52,
+      "topY" : 410.0951,
+      "baseLineY" : 419.94,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 422.7971,
+      "rightX" : 134.856,
+      "topY" : 410.7971,
+      "baseLineY" : 419.94,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 422.675,
+      "rightX" : 389.28,
+      "topY" : 410.675,
+      "baseLineY" : 419.94,
+      "fontId" : 5,
+      "text" : "Choice of a loan program other than the SFHGLP. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 448.6439,
+      "rightX" : 93,
+      "topY" : 436.6439,
+      "baseLineY" : 445.8,
+      "fontId" : 3,
+      "text" : "14.6"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 448.9508,
+      "rightX" : 96.336,
+      "topY" : 436.9508,
+      "baseLineY" : 445.8,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 448.6439,
+      "rightX" : 533.0403,
+      "topY" : 436.6439,
+      "baseLineY" : 445.8,
+      "fontId" : 3,
+      "text" : "AGENCY ACTION – REQUESTING FUNDS FROM THE NATIONAL OFFICE "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 462.4439,
+      "rightX" : 167.7,
+      "topY" : 450.4439,
+      "baseLineY" : 459.6,
+      "fontId" : 3,
+      "text" : "RESERVE "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 488.1349,
+      "rightX" : 526.2599,
+      "topY" : 476.1349,
+      "baseLineY" : 485.4,
+      "fontId" : 5,
+      "text" : "Funds may be retained by the National Office during a fiscal year to meet program "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 501.9349,
+      "rightX" : 531.1188,
+      "topY" : 489.9349,
+      "baseLineY" : 499.2,
+      "fontId" : 5,
+      "text" : "needs or Agency objective.  To request funds from the National Office reserve, Agency "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 515.7349,
+      "rightX" : 187.32,
+      "topY" : 503.7349,
+      "baseLineY" : 512.9999,
+      "fontId" : 5,
+      "text" : "employees will: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 541.7951,
+      "rightX" : 131.52,
+      "topY" : 529.7951,
+      "baseLineY" : 539.64,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 542.4971,
+      "rightX" : 134.856,
+      "topY" : 530.4971,
+      "baseLineY" : 539.64,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 542.3749,
+      "rightX" : 398.04,
+      "topY" : 530.3749,
+      "baseLineY" : 539.64,
+      "fontId" : 5,
+      "text" : "Request funding on the Agency’s SharePoint site at: "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 556.1749,
+      "rightX" : 445.2838,
+      "topY" : 544.1749,
+      "baseLineY" : 553.4399,
+      "fontId" : 11,
+      "text" : "https://usdagcc.sharepoint.com/sites/rd_hcfp/SFH1/GRH/OPD"
+    }, {
+      "leftX" : 445.26,
+      "bottomY" : 556.1749,
+      "rightX" : 541.32,
+      "topY" : 544.1749,
+      "baseLineY" : 553.4399,
+      "fontId" : 5,
+      "text" : ". Click on the Need "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 569.975,
+      "rightX" : 213,
+      "topY" : 557.975,
+      "baseLineY" : 567.24,
+      "fontId" : 5,
+      "text" : "Funds button. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 583.775,
+      "rightX" : 147,
+      "topY" : 571.775,
+      "baseLineY" : 581.04,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 597.8351,
+      "rightX" : 131.52,
+      "topY" : 585.8351,
+      "baseLineY" : 595.68,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 598.5371,
+      "rightX" : 134.856,
+      "topY" : 586.5371,
+      "baseLineY" : 595.68,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 598.415,
+      "rightX" : 539.2199,
+      "topY" : 586.415,
+      "baseLineY" : 595.68,
+      "fontId" : 5,
+      "text" : "Request actual funding needs by using the dropdown selection for the appropriate "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 612.2149,
+      "rightX" : 260.28,
+      "topY" : 600.2149,
+      "baseLineY" : 609.48,
+      "fontId" : 5,
+      "text" : "type of assistance code. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 638.015,
+      "rightX" : 506.5749,
+      "topY" : 626.015,
+      "baseLineY" : 635.28,
+      "fontId" : 5,
+      "text" : "      If the type of assistance is refinance, each funding request must summarize the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 651.815,
+      "rightX" : 407.8211,
+      "topY" : 639.815,
+      "baseLineY" : 649.08,
+      "fontId" : 5,
+      "text" : "individual request of the cumulative total request for the State."
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 176.1379,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 278.8729,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6744,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "14-5 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 185.3152,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : "Revised (10-12-23) PN 594 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 122.0639,
+      "rightX" : 96,
+      "topY" : 110.0639,
+      "baseLineY" : 119.22,
+      "fontId" : 3,
+      "text" : "14.7 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 122.0639,
+      "rightX" : 469.08,
+      "topY" : 110.0639,
+      "baseLineY" : 119.22,
+      "fontId" : 3,
+      "text" : " AGENCY ACTION – REQUEST FOR RESTORATION OF FUNDS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 147.7549,
+      "rightX" : 539.1599,
+      "topY" : 135.7549,
+      "baseLineY" : 145.02,
+      "fontId" : 5,
+      "text" : "     The Guaranteed Loan Division Lender Reporting Section (GLDLRS) of the Servicing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 161.5549,
+      "rightX" : 506.9998,
+      "topY" : 149.5549,
+      "baseLineY" : 158.8199,
+      "fontId" : 5,
+      "text" : "Office in St. Louis, Missouri will review and approve/deny all restoration of funds "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 175.3549,
+      "rightX" : 492.84,
+      "topY" : 163.3549,
+      "baseLineY" : 172.6199,
+      "fontId" : 5,
+      "text" : "requests.  The following is required to submit a request for restoration of funds: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 201.1549,
+      "rightX" : 234.36,
+      "topY" : 189.1549,
+      "baseLineY" : 198.4199,
+      "fontId" : 5,
+      "text" : "1.   A fully completed "
+    }, {
+      "leftX" : 234.36,
+      "bottomY" : 201.1898,
+      "rightX" : 515.9868,
+      "topY" : 189.1898,
+      "baseLineY" : 198.4199,
+      "fontId" : 9,
+      "text" : "Request for Restoration of Funds from a Prior Fiscal Year"
+    }, {
+      "leftX" : 515.9987,
+      "bottomY" : 201.1549,
+      "rightX" : 518.9987,
+      "topY" : 189.1549,
+      "baseLineY" : 198.4199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 214.9549,
+      "rightX" : 179.34,
+      "topY" : 202.9549,
+      "baseLineY" : 212.2199,
+      "fontId" : 5,
+      "text" : "form.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 241.015,
+      "rightX" : 149.52,
+      "topY" : 229.015,
+      "baseLineY" : 238.8599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 241.7171,
+      "rightX" : 152.856,
+      "topY" : 229.7171,
+      "baseLineY" : 238.8599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 241.5949,
+      "rightX" : 494.5797,
+      "topY" : 229.5949,
+      "baseLineY" : 238.8599,
+      "fontId" : 5,
+      "text" : "Agency personnel will complete the form electronically via Adobe.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 267.655,
+      "rightX" : 149.52,
+      "topY" : 255.655,
+      "baseLineY" : 265.4999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 268.3571,
+      "rightX" : 152.856,
+      "topY" : 256.3571,
+      "baseLineY" : 265.4999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 268.2349,
+      "rightX" : 534.5999,
+      "topY" : 256.2349,
+      "baseLineY" : 265.4999,
+      "fontId" : 5,
+      "text" : "The form will be electronically signed with the employee’s LINC Pass (PIV) "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 282.0949,
+      "rightX" : 194.64,
+      "topY" : 270.0949,
+      "baseLineY" : 279.3599,
+      "fontId" : 5,
+      "text" : "card.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 308.155,
+      "rightX" : 149.52,
+      "topY" : 296.155,
+      "baseLineY" : 305.9999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 308.8571,
+      "rightX" : 152.856,
+      "topY" : 296.8571,
+      "baseLineY" : 305.9999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 308.7349,
+      "rightX" : 423.96,
+      "topY" : 296.7349,
+      "baseLineY" : 305.9999,
+      "fontId" : 5,
+      "text" : "The form should be saved (not printed and scanned).   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 334.7951,
+      "rightX" : 149.52,
+      "topY" : 322.7951,
+      "baseLineY" : 332.64,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 335.4971,
+      "rightX" : 152.856,
+      "topY" : 323.4971,
+      "baseLineY" : 332.64,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 335.3749,
+      "rightX" : 436.68,
+      "topY" : 323.3749,
+      "baseLineY" : 332.64,
+      "fontId" : 5,
+      "text" : "Find the fillable form on the Agency’s SharePoint site at "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 349.1749,
+      "rightX" : 463.2838,
+      "topY" : 337.1749,
+      "baseLineY" : 346.4399,
+      "fontId" : 11,
+      "text" : "https://usdagcc.sharepoint.com/sites/rd_hcfp/SFH1/GRH/OPD"
+    }, {
+      "leftX" : 463.26,
+      "bottomY" : 349.1749,
+      "rightX" : 466.26,
+      "topY" : 337.1749,
+      "baseLineY" : 346.4399,
+      "fontId" : 11,
+      "text" : "."
+    }, {
+      "leftX" : 466.26,
+      "bottomY" : 349.1749,
+      "rightX" : 516.2999,
+      "topY" : 337.1749,
+      "baseLineY" : 346.4399,
+      "fontId" : 5,
+      "text" : "  Click on "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 362.975,
+      "rightX" : 526.5601,
+      "topY" : 350.975,
+      "baseLineY" : 360.24,
+      "fontId" : 5,
+      "text" : "Policies and Procedures, then Templates to access the Restoration of Funds "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 376.7749,
+      "rightX" : 188.4,
+      "topY" : 364.7749,
+      "baseLineY" : 374.04,
+      "fontId" : 5,
+      "text" : "form."
+    }, {
+      "leftX" : 188.34,
+      "bottomY" : 376.7913,
+      "rightX" : 191.34,
+      "topY" : 364.7913,
+      "baseLineY" : 374.04,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 402.5749,
+      "rightX" : 434.94,
+      "topY" : 390.5749,
+      "baseLineY" : 399.84,
+      "fontId" : 5,
+      "text" : "2.   A copy of all Conditional Commitments issued for the loan. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 428.3749,
+      "rightX" : 531.9597,
+      "topY" : 416.3749,
+      "baseLineY" : 425.64,
+      "fontId" : 5,
+      "text" : "3.   If the Agency extended the Conditional Commitment, documentation pertaining "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 442.1749,
+      "rightX" : 512.2198,
+      "topY" : 430.1749,
+      "baseLineY" : 439.4399,
+      "fontId" : 5,
+      "text" : "to the lender’s request and the Agency’s approval must be included with the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 455.9749,
+      "rightX" : 335.94,
+      "topY" : 443.9749,
+      "baseLineY" : 453.2399,
+      "fontId" : 5,
+      "text" : "restoration request.  Dates are required. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 481.7749,
+      "rightX" : 506.1598,
+      "topY" : 469.7749,
+      "baseLineY" : 479.0399,
+      "fontId" : 5,
+      "text" : "4.  A detailed explanation must be entered on the form to indicate whether the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 495.5749,
+      "rightX" : 280.92,
+      "topY" : 483.5749,
+      "baseLineY" : 492.8399,
+      "fontId" : 5,
+      "text" : "Agency or lender is at fault. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 521.3749,
+      "rightX" : 138,
+      "topY" : 509.3749,
+      "baseLineY" : 518.6399,
+      "fontId" : 5,
+      "text" : "5. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 521.3749,
+      "rightX" : 506.9397,
+      "topY" : 509.3749,
+      "baseLineY" : 518.6399,
+      "fontId" : 5,
+      "text" : "If the restoration request is for a higher obligation amount than the original "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 535.1748,
+      "rightX" : 533.6398,
+      "topY" : 523.1748,
+      "baseLineY" : 532.4399,
+      "fontId" : 5,
+      "text" : "obligation, then additional document is required.  The Agency must demonstrate "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 548.9748,
+      "rightX" : 523.3161,
+      "topY" : 536.9748,
+      "baseLineY" : 546.2399,
+      "fontId" : 5,
+      "text" : "that the loan request was reviewed for repayment at the higher amount and the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 562.7749,
+      "rightX" : 509.9398,
+      "topY" : 550.7749,
+      "baseLineY" : 560.0399,
+      "fontId" : 5,
+      "text" : "loan amount does not exceed the maximum amount based on the property’s "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 576.5749,
+      "rightX" : 224.94,
+      "topY" : 564.5749,
+      "baseLineY" : 573.8399,
+      "fontId" : 5,
+      "text" : "appraised value. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 602.3749,
+      "rightX" : 138,
+      "topY" : 590.3749,
+      "baseLineY" : 599.6399,
+      "fontId" : 5,
+      "text" : "6. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 602.3749,
+      "rightX" : 519.482,
+      "topY" : 590.3749,
+      "baseLineY" : 599.6399,
+      "fontId" : 5,
+      "text" : "If the lender did not comply with regulatory requirements and a restoration of "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 616.1748,
+      "rightX" : 535.4998,
+      "topY" : 604.1748,
+      "baseLineY" : 613.4399,
+      "fontId" : 5,
+      "text" : "funds from the prior fiscal year is being requested, an exception to the regulatory "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 629.9748,
+      "rightX" : 517.1998,
+      "topY" : 617.9748,
+      "baseLineY" : 627.2399,
+      "fontId" : 5,
+      "text" : "requirement will be required. Submit a request in accordance with Chapter 1, "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 643.7749,
+      "rightX" : 499.9799,
+      "topY" : 631.7749,
+      "baseLineY" : 641.0399,
+      "fontId" : 5,
+      "text" : "Section 1.9 of this Handbook.  A copy of the approved exception must be "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 657.5749,
+      "rightX" : 396.2986,
+      "topY" : 645.5749,
+      "baseLineY" : 654.8399,
+      "fontId" : 5,
+      "text" : "submitted with the request for a restoration of funds."
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 74.505,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 278.8829,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6844,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "14-6 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 74.505,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 83.6391,
+      "rightX" : 542.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.9867,
+      "bottomY" : 95.102,
+      "rightX" : 341.1339,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 14.7 Agency Action – Request for Restoration of Funds "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 121.9549,
+      "rightX" : 138,
+      "topY" : 109.9549,
+      "baseLineY" : 119.22,
+      "fontId" : 5,
+      "text" : "7. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 121.9549,
+      "rightX" : 199.74,
+      "topY" : 109.9549,
+      "baseLineY" : 119.22,
+      "fontId" : 5,
+      "text" : "Completed "
+    }, {
+      "leftX" : 199.68,
+      "bottomY" : 121.9899,
+      "rightX" : 481.3679,
+      "topY" : 109.9899,
+      "baseLineY" : 119.22,
+      "fontId" : 9,
+      "text" : "Request for Restoration of Funds from a Prior Fiscal Year"
+    }, {
+      "leftX" : 481.38,
+      "bottomY" : 121.9549,
+      "rightX" : 531.0599,
+      "topY" : 109.9549,
+      "baseLineY" : 119.22,
+      "fontId" : 5,
+      "text" : " form and "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 135.7549,
+      "rightX" : 523.6201,
+      "topY" : 123.7549,
+      "baseLineY" : 133.02,
+      "fontId" : 5,
+      "text" : "all documentation must be submitted electronically to the GLDLRS within the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 149.5549,
+      "rightX" : 297.06,
+      "topY" : 137.5549,
+      "baseLineY" : 146.8199,
+      "fontId" : 5,
+      "text" : "Servicing Office in St. Louis at "
+    }, {
+      "leftX" : 297,
+      "bottomY" : 149.5549,
+      "rightX" : 394.38,
+      "topY" : 137.5549,
+      "baseLineY" : 146.8199,
+      "fontId" : 13,
+      "text" : "rd.so.hsb@usda.gov"
+    }, {
+      "leftX" : 394.38,
+      "bottomY" : 149.5549,
+      "rightX" : 400.38,
+      "topY" : 137.5549,
+      "baseLineY" : 146.8199,
+      "fontId" : 5,
+      "text" : ". "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 175.355,
+      "rightX" : 111,
+      "topY" : 163.355,
+      "baseLineY" : 172.62,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 176.1379,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 278.8729,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6744,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "14-7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 185.3152,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : "Revised (10-12-23) PN 594 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#222222"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0563c1"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

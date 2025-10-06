@@ -1,0 +1,2832 @@
+{
+  "pdfDoc" : "3555-1appendix09.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 305.9994,
+      "bottomY" : 108.872,
+      "rightX" : 311.5044,
+      "topY" : 86.872,
+      "baseLineY" : 104.5793,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306.9,
+      "bottomY" : 109.7727,
+      "rightX" : 312.405,
+      "topY" : 87.7727,
+      "baseLineY" : 105.48,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 305.9994,
+      "bottomY" : 146.1915,
+      "rightX" : 311.5044,
+      "topY" : 124.1915,
+      "baseLineY" : 141.8988,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306.9,
+      "bottomY" : 147.0921,
+      "rightX" : 312.405,
+      "topY" : 125.0921,
+      "baseLineY" : 142.7994,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 305.9994,
+      "bottomY" : 183.4515,
+      "rightX" : 311.5044,
+      "topY" : 161.4515,
+      "baseLineY" : 179.1588,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306.9,
+      "bottomY" : 184.3521,
+      "rightX" : 312.405,
+      "topY" : 162.3521,
+      "baseLineY" : 180.0594,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 305.9994,
+      "bottomY" : 220.771,
+      "rightX" : 311.5044,
+      "topY" : 198.771,
+      "baseLineY" : 216.4783,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306.9,
+      "bottomY" : 221.6716,
+      "rightX" : 312.405,
+      "topY" : 199.6716,
+      "baseLineY" : 217.3789,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 305.9994,
+      "bottomY" : 258.0904,
+      "rightX" : 311.5044,
+      "topY" : 236.0904,
+      "baseLineY" : 253.7977,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306.9,
+      "bottomY" : 258.991,
+      "rightX" : 312.405,
+      "topY" : 236.991,
+      "baseLineY" : 254.6984,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 305.9994,
+      "bottomY" : 295.3505,
+      "rightX" : 311.5044,
+      "topY" : 273.3505,
+      "baseLineY" : 291.0578,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306.9,
+      "bottomY" : 296.2511,
+      "rightX" : 312.405,
+      "topY" : 274.2511,
+      "baseLineY" : 291.9584,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 305.9994,
+      "bottomY" : 332.67,
+      "rightX" : 311.5044,
+      "topY" : 310.67,
+      "baseLineY" : 328.3773,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306.9,
+      "bottomY" : 333.5706,
+      "rightX" : 312.405,
+      "topY" : 311.5706,
+      "baseLineY" : 329.2779,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 240.8995,
+      "bottomY" : 369.93,
+      "rightX" : 256.7979,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : "A"
+    }, {
+      "leftX" : 257.6985,
+      "bottomY" : 370.8306,
+      "rightX" : 271.1527,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : "P"
+    }, {
+      "leftX" : 256.7979,
+      "bottomY" : 369.93,
+      "rightX" : 270.2521,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : "P"
+    }, {
+      "leftX" : 271.1373,
+      "bottomY" : 370.8306,
+      "rightX" : 284.5916,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : "P"
+    }, {
+      "leftX" : 270.2367,
+      "bottomY" : 369.93,
+      "rightX" : 283.6909,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : "P"
+    }, {
+      "leftX" : 284.5761,
+      "bottomY" : 370.8306,
+      "rightX" : 299.2635,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 283.6755,
+      "bottomY" : 369.93,
+      "rightX" : 298.3629,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : "E"
+    }, {
+      "leftX" : 299.2151,
+      "bottomY" : 370.8306,
+      "rightX" : 315.1135,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 298.3145,
+      "bottomY" : 369.93,
+      "rightX" : 314.2129,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : "N"
+    }, {
+      "leftX" : 315.1135,
+      "bottomY" : 370.8306,
+      "rightX" : 331.012,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : "D"
+    }, {
+      "leftX" : 314.2129,
+      "bottomY" : 369.93,
+      "rightX" : 330.1114,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : "D"
+    }, {
+      "leftX" : 331.012,
+      "bottomY" : 370.8306,
+      "rightX" : 339.5778,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : "I"
+    }, {
+      "leftX" : 330.1114,
+      "bottomY" : 369.93,
+      "rightX" : 338.6772,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : "I"
+    }, {
+      "leftX" : 339.591,
+      "bottomY" : 370.8306,
+      "rightX" : 355.4894,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : "X"
+    }, {
+      "leftX" : 338.6904,
+      "bottomY" : 369.93,
+      "rightX" : 354.5888,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : "X"
+    }, {
+      "leftX" : 355.43,
+      "bottomY" : 370.8306,
+      "rightX" : 360.935,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 354.5294,
+      "bottomY" : 369.93,
+      "rightX" : 360.0344,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 360.9504,
+      "bottomY" : 370.8306,
+      "rightX" : 371.9604,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : "9"
+    }, {
+      "leftX" : 360.0498,
+      "bottomY" : 369.93,
+      "rightX" : 371.0598,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : "9"
+    }, {
+      "leftX" : 371.9296,
+      "bottomY" : 370.8306,
+      "rightX" : 377.4346,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 371.029,
+      "bottomY" : 369.93,
+      "rightX" : 376.534,
+      "topY" : 347.93,
+      "baseLineY" : 365.6374,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 241.8001,
+      "bottomY" : 370.8306,
+      "rightX" : 257.6985,
+      "topY" : 348.8306,
+      "baseLineY" : 366.538,
+      "fontId" : 2,
+      "text" : "A"
+    }, {
+      "leftX" : 142.1884,
+      "bottomY" : 407.2496,
+      "rightX" : 158.0868,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "U"
+    }, {
+      "leftX" : 158.9874,
+      "bottomY" : 408.1502,
+      "rightX" : 174.8858,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 158.0868,
+      "bottomY" : 407.2496,
+      "rightX" : 173.9852,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "N"
+    }, {
+      "leftX" : 174.8858,
+      "bottomY" : 408.1502,
+      "rightX" : 182.2185,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "-"
+    }, {
+      "leftX" : 173.9852,
+      "bottomY" : 407.2496,
+      "rightX" : 181.3179,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "-"
+    }, {
+      "leftX" : 182.2053,
+      "bottomY" : 408.1502,
+      "rightX" : 198.1037,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 181.3047,
+      "bottomY" : 407.2496,
+      "rightX" : 197.2031,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "N"
+    }, {
+      "leftX" : 198.0443,
+      "bottomY" : 408.1502,
+      "rightX" : 213.9427,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "U"
+    }, {
+      "leftX" : 197.1437,
+      "bottomY" : 407.2496,
+      "rightX" : 213.0421,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "U"
+    }, {
+      "leftX" : 213.9427,
+      "bottomY" : 408.1502,
+      "rightX" : 234.7296,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "M"
+    }, {
+      "leftX" : 213.0421,
+      "bottomY" : 407.2496,
+      "rightX" : 233.829,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "M"
+    }, {
+      "leftX" : 234.7032,
+      "bottomY" : 408.1502,
+      "rightX" : 249.3905,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "B"
+    }, {
+      "leftX" : 233.8026,
+      "bottomY" : 407.2496,
+      "rightX" : 248.4899,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "B"
+    }, {
+      "leftX" : 249.3421,
+      "bottomY" : 408.1502,
+      "rightX" : 264.0294,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 248.4415,
+      "bottomY" : 407.2496,
+      "rightX" : 263.1288,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "E"
+    }, {
+      "leftX" : 264.0404,
+      "bottomY" : 408.1502,
+      "rightX" : 279.9388,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "R"
+    }, {
+      "leftX" : 263.1398,
+      "bottomY" : 407.2496,
+      "rightX" : 279.0382,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "R"
+    }, {
+      "leftX" : 279.9389,
+      "bottomY" : 408.1502,
+      "rightX" : 294.6262,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 279.0383,
+      "bottomY" : 407.2496,
+      "rightX" : 293.7256,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "E"
+    }, {
+      "leftX" : 294.6372,
+      "bottomY" : 408.1502,
+      "rightX" : 310.5357,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "D"
+    }, {
+      "leftX" : 293.7366,
+      "bottomY" : 407.2496,
+      "rightX" : 309.6351,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "D"
+    }, {
+      "leftX" : 310.4762,
+      "bottomY" : 408.1502,
+      "rightX" : 315.9812,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 309.5756,
+      "bottomY" : 407.2496,
+      "rightX" : 315.0806,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 315.9966,
+      "bottomY" : 408.1502,
+      "rightX" : 330.684,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "L"
+    }, {
+      "leftX" : 315.096,
+      "bottomY" : 407.2496,
+      "rightX" : 329.7834,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "L"
+    }, {
+      "leftX" : 330.695,
+      "bottomY" : 408.1502,
+      "rightX" : 345.3824,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 329.7944,
+      "bottomY" : 407.2496,
+      "rightX" : 344.4818,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "E"
+    }, {
+      "leftX" : 345.3339,
+      "bottomY" : 408.1502,
+      "rightX" : 360.0213,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "T"
+    }, {
+      "leftX" : 344.4333,
+      "bottomY" : 407.2496,
+      "rightX" : 359.1207,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "T"
+    }, {
+      "leftX" : 359.9728,
+      "bottomY" : 408.1502,
+      "rightX" : 374.6602,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "T"
+    }, {
+      "leftX" : 359.0722,
+      "bottomY" : 407.2496,
+      "rightX" : 373.7596,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "T"
+    }, {
+      "leftX" : 374.6712,
+      "bottomY" : 408.1502,
+      "rightX" : 389.3586,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 373.7706,
+      "bottomY" : 407.2496,
+      "rightX" : 388.4579,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "E"
+    }, {
+      "leftX" : 389.3696,
+      "bottomY" : 408.1502,
+      "rightX" : 405.268,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "R"
+    }, {
+      "leftX" : 388.469,
+      "bottomY" : 407.2496,
+      "rightX" : 404.3674,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "R"
+    }, {
+      "leftX" : 405.268,
+      "bottomY" : 408.1502,
+      "rightX" : 417.5112,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "S"
+    }, {
+      "leftX" : 404.3674,
+      "bottomY" : 407.2496,
+      "rightX" : 416.6106,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "S"
+    }, {
+      "leftX" : 417.4473,
+      "bottomY" : 408.1502,
+      "rightX" : 422.9523,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 416.5467,
+      "bottomY" : 407.2496,
+      "rightX" : 422.0517,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 422.9677,
+      "bottomY" : 408.1502,
+      "rightX" : 438.8662,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "A"
+    }, {
+      "leftX" : 422.0671,
+      "bottomY" : 407.2496,
+      "rightX" : 437.9656,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "A"
+    }, {
+      "leftX" : 438.8662,
+      "bottomY" : 408.1502,
+      "rightX" : 454.7646,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 437.9656,
+      "bottomY" : 407.2496,
+      "rightX" : 453.864,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "N"
+    }, {
+      "leftX" : 454.7647,
+      "bottomY" : 408.1502,
+      "rightX" : 470.6631,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "D"
+    }, {
+      "leftX" : 453.8641,
+      "bottomY" : 407.2496,
+      "rightX" : 469.7625,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : "D"
+    }, {
+      "leftX" : 470.6037,
+      "bottomY" : 408.1502,
+      "rightX" : 476.1087,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 469.7031,
+      "bottomY" : 407.2496,
+      "rightX" : 475.2081,
+      "topY" : 385.2496,
+      "baseLineY" : 402.9569,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 143.089,
+      "bottomY" : 408.1502,
+      "rightX" : 158.9874,
+      "topY" : 386.1502,
+      "baseLineY" : 403.8575,
+      "fontId" : 2,
+      "text" : "U"
+    }, {
+      "leftX" : 185.8432,
+      "bottomY" : 444.5691,
+      "rightX" : 198.0864,
+      "topY" : 422.5691,
+      "baseLineY" : 440.2764,
+      "fontId" : 1,
+      "text" : "S"
+    }, {
+      "leftX" : 198.9826,
+      "bottomY" : 445.4697,
+      "rightX" : 213.6699,
+      "topY" : 423.4697,
+      "baseLineY" : 441.177,
+      "fontId" : 2,
+      "text" : "T"
+    }, {
+      "leftX" : 198.082,
+      "bottomY" : 444.5691,
+      "rightX" : 212.7693,
+      "topY" : 422.5691,
+      "baseLineY" : 440.2764,
+      "fontId" : 1,
+      "text" : "T"
+    }, {
+      "leftX" : 213.6809,
+      "bottomY" : 445.4697,
+      "rightX" : 229.5794,
+      "topY" : 423.4697,
+      "baseLineY" : 441.177,
+      "fontId" : 2,
+      "text" : "A"
+    }, {
+      "leftX" : 212.7803,
+      "bottomY" : 444.5691,
+      "rightX" : 228.6787,
+      "topY" : 422.5691,
+      "baseLineY" : 440.2764,
+      "fontId" : 1,
+      "text" : "A"
+    }, {
+      "leftX" : 229.5794,
+      "bottomY" : 445.4697,
+      "rightX" : 244.2667,
+      "topY" : 423.4697,
+      "baseLineY" : 441.177,
+      "fontId" : 2,
+      "text" : "T"
+    }, {
+      "leftX" : 228.6787,
+      "bottomY" : 444.5691,
+      "rightX" : 243.3661,
+      "topY" : 422.5691,
+      "baseLineY" : 440.2764,
+      "fontId" : 1,
+      "text" : "T"
+    }, {
+      "leftX" : 244.2183,
+      "bottomY" : 445.4697,
+      "rightX" : 258.9056,
+      "topY" : 423.4697,
+      "baseLineY" : 441.177,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 243.3176,
+      "bottomY" : 444.5691,
+      "rightX" : 258.005,
+      "topY" : 422.5691,
+      "baseLineY" : 440.2764,
+      "fontId" : 1,
+      "text" : "E"
+    }, {
+      "leftX" : 258.9166,
+      "bottomY" : 445.4697,
+      "rightX" : 264.4216,
+      "topY" : 423.4697,
+      "baseLineY" : 441.177,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 258.016,
+      "bottomY" : 444.5691,
+      "rightX" : 263.521,
+      "topY" : 422.5691,
+      "baseLineY" : 440.2764,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 264.437,
+      "bottomY" : 445.4697,
+      "rightX" : 276.6802,
+      "topY" : 423.4697,
+      "baseLineY" : 441.177,
+      "fontId" : 2,
+      "text" : "S"
+    }, {
+      "leftX" : 263.5364,
+      "bottomY" : 444.5691,
+      "rightX" : 275.7796,
+      "topY" : 422.5691,
+      "baseLineY" : 440.2764,
+      "fontId" : 1,
+      "text" : "S"
+    }, {
+      "leftX" : 276.6758,
+      "bottomY" : 445.4697,
+      "rightX" : 292.5742,
+      "topY" : 423.4697,
+      "baseLineY" : 441.177,
+      "fontId" : 2,
+      "text" : "U"
+    }, {
+      "leftX" : 275.7752,
+      "bottomY" : 444.5691,
+      "rightX" : 291.6736,
+      "topY" : 422.5691,
+      "baseLineY" : 440.2764,
+      "fontId" : 1,
+      "text" : "U"
+    }, {
+      "leftX" : 292.5148,
+      "bottomY" : 445.4697,
+      "rightX" : 305.969,
+      "topY" : 423.4697,
+      "baseLineY" : 441.177,
+      "fontId" : 2,
+      "text" : "P"
+    }, {
+      "leftX" : 291.66,
+      "bottomY" : 444.5727,
+      "rightX" : 305.1142,
+      "topY" : 422.5727,
+      "baseLineY" : 440.28,
+      "fontId" : 1,
+      "text" : "P"
+    }, {
+      "leftX" : 305.9994,
+      "bottomY" : 445.4733,
+      "rightX" : 319.4536,
+      "topY" : 423.4733,
+      "baseLineY" : 441.1806,
+      "fontId" : 2,
+      "text" : "P"
+    }, {
+      "leftX" : 305.0988,
+      "bottomY" : 444.5727,
+      "rightX" : 318.553,
+      "topY" : 422.5727,
+      "baseLineY" : 440.28,
+      "fontId" : 1,
+      "text" : "P"
+    }, {
+      "leftX" : 319.4382,
+      "bottomY" : 445.4733,
+      "rightX" : 334.1256,
+      "topY" : 423.4733,
+      "baseLineY" : 441.1806,
+      "fontId" : 2,
+      "text" : "L"
+    }, {
+      "leftX" : 318.5376,
+      "bottomY" : 444.5727,
+      "rightX" : 333.225,
+      "topY" : 422.5727,
+      "baseLineY" : 440.28,
+      "fontId" : 1,
+      "text" : "L"
+    }, {
+      "leftX" : 334.1366,
+      "bottomY" : 445.4733,
+      "rightX" : 348.8239,
+      "topY" : 423.4733,
+      "baseLineY" : 441.1806,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 333.236,
+      "bottomY" : 444.5727,
+      "rightX" : 347.9233,
+      "topY" : 422.5727,
+      "baseLineY" : 440.28,
+      "fontId" : 1,
+      "text" : "E"
+    }, {
+      "leftX" : 348.7755,
+      "bottomY" : 445.4733,
+      "rightX" : 369.5624,
+      "topY" : 423.4733,
+      "baseLineY" : 441.1806,
+      "fontId" : 2,
+      "text" : "M"
+    }, {
+      "leftX" : 347.8749,
+      "bottomY" : 444.5727,
+      "rightX" : 368.6618,
+      "topY" : 422.5727,
+      "baseLineY" : 440.28,
+      "fontId" : 1,
+      "text" : "M"
+    }, {
+      "leftX" : 369.536,
+      "bottomY" : 445.4733,
+      "rightX" : 384.2233,
+      "topY" : 423.4733,
+      "baseLineY" : 441.1806,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 368.6354,
+      "bottomY" : 444.5727,
+      "rightX" : 383.3227,
+      "topY" : 422.5727,
+      "baseLineY" : 440.28,
+      "fontId" : 1,
+      "text" : "E"
+    }, {
+      "leftX" : 384.2343,
+      "bottomY" : 445.4733,
+      "rightX" : 400.1328,
+      "topY" : 423.4733,
+      "baseLineY" : 441.1806,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 383.3337,
+      "bottomY" : 444.5727,
+      "rightX" : 399.2322,
+      "topY" : 422.5727,
+      "baseLineY" : 440.28,
+      "fontId" : 1,
+      "text" : "N"
+    }, {
+      "leftX" : 400.0733,
+      "bottomY" : 445.4733,
+      "rightX" : 414.7607,
+      "topY" : 423.4733,
+      "baseLineY" : 441.1806,
+      "fontId" : 2,
+      "text" : "T"
+    }, {
+      "leftX" : 399.1727,
+      "bottomY" : 444.5727,
+      "rightX" : 413.8601,
+      "topY" : 422.5727,
+      "baseLineY" : 440.28,
+      "fontId" : 1,
+      "text" : "T"
+    }, {
+      "leftX" : 414.7717,
+      "bottomY" : 445.4733,
+      "rightX" : 427.0148,
+      "topY" : 423.4733,
+      "baseLineY" : 441.1806,
+      "fontId" : 2,
+      "text" : "S"
+    }, {
+      "leftX" : 413.8711,
+      "bottomY" : 444.5727,
+      "rightX" : 426.1142,
+      "topY" : 422.5727,
+      "baseLineY" : 440.28,
+      "fontId" : 1,
+      "text" : "S"
+    }, {
+      "leftX" : 426.951,
+      "bottomY" : 445.4733,
+      "rightX" : 432.456,
+      "topY" : 423.4733,
+      "baseLineY" : 441.1806,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 426.0504,
+      "bottomY" : 444.5727,
+      "rightX" : 431.5554,
+      "topY" : 422.5727,
+      "baseLineY" : 440.28,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 186.7439,
+      "bottomY" : 445.4697,
+      "rightX" : 198.987,
+      "topY" : 423.4697,
+      "baseLineY" : 441.177,
+      "fontId" : 2,
+      "text" : "S"
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 469.3665,
+      "rightX" : 308.7452,
+      "topY" : 458.3665,
+      "baseLineY" : 467.2202,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 469.8464,
+      "rightX" : 309.225,
+      "topY" : 458.8464,
+      "baseLineY" : 467.7,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 482.0265,
+      "rightX" : 308.7452,
+      "topY" : 471.0265,
+      "baseLineY" : 479.8801,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 482.5063,
+      "rightX" : 309.225,
+      "topY" : 471.5063,
+      "baseLineY" : 480.36,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 494.6864,
+      "rightX" : 308.7452,
+      "topY" : 483.6864,
+      "baseLineY" : 492.5401,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 495.1662,
+      "rightX" : 309.225,
+      "topY" : 484.1662,
+      "baseLineY" : 493.0199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 507.3464,
+      "rightX" : 308.7452,
+      "topY" : 496.3464,
+      "baseLineY" : 505.2,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 507.8262,
+      "rightX" : 309.225,
+      "topY" : 496.8262,
+      "baseLineY" : 505.6798,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 519.947,
+      "rightX" : 308.7452,
+      "topY" : 508.947,
+      "baseLineY" : 517.8007,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 520.4269,
+      "rightX" : 309.225,
+      "topY" : 509.4269,
+      "baseLineY" : 518.2805,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 532.6069,
+      "rightX" : 308.7452,
+      "topY" : 521.6069,
+      "baseLineY" : 530.4606,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 533.0868,
+      "rightX" : 309.225,
+      "topY" : 522.0868,
+      "baseLineY" : 530.9404,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 545.2669,
+      "rightX" : 308.7452,
+      "topY" : 534.2669,
+      "baseLineY" : 543.1205,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 545.7467,
+      "rightX" : 309.225,
+      "topY" : 534.7467,
+      "baseLineY" : 543.6003,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 557.9269,
+      "rightX" : 308.7452,
+      "topY" : 546.9269,
+      "baseLineY" : 555.7805,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 558.4067,
+      "rightX" : 309.225,
+      "topY" : 547.4067,
+      "baseLineY" : 556.2603,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 570.5868,
+      "rightX" : 308.7452,
+      "topY" : 559.5868,
+      "baseLineY" : 568.4404,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 571.0666,
+      "rightX" : 309.225,
+      "topY" : 560.0666,
+      "baseLineY" : 568.9203,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 583.1874,
+      "rightX" : 308.7452,
+      "topY" : 572.1874,
+      "baseLineY" : 581.0411,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 583.6672,
+      "rightX" : 309.225,
+      "topY" : 572.6672,
+      "baseLineY" : 581.5209,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 595.8474,
+      "rightX" : 308.7452,
+      "topY" : 584.8474,
+      "baseLineY" : 593.701,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 596.3272,
+      "rightX" : 309.225,
+      "topY" : 585.3272,
+      "baseLineY" : 594.1808,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 608.5073,
+      "rightX" : 308.7452,
+      "topY" : 597.5073,
+      "baseLineY" : 606.361,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 608.9872,
+      "rightX" : 309.225,
+      "topY" : 597.9872,
+      "baseLineY" : 606.8408,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 621.1672,
+      "rightX" : 308.7452,
+      "topY" : 610.1672,
+      "baseLineY" : 619.0209,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 621.6471,
+      "rightX" : 309.225,
+      "topY" : 610.6471,
+      "baseLineY" : 619.5007,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 633.8272,
+      "rightX" : 308.7452,
+      "topY" : 622.8272,
+      "baseLineY" : 631.6808,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 634.307,
+      "rightX" : 309.225,
+      "topY" : 623.307,
+      "baseLineY" : 632.1606,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 646.4872,
+      "rightX" : 308.7452,
+      "topY" : 635.4872,
+      "baseLineY" : 644.3408,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 646.967,
+      "rightX" : 309.225,
+      "topY" : 635.967,
+      "baseLineY" : 644.8206,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 659.0877,
+      "rightX" : 308.7452,
+      "topY" : 648.0877,
+      "baseLineY" : 656.9414,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 659.5676,
+      "rightX" : 309.225,
+      "topY" : 648.5676,
+      "baseLineY" : 657.4213,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 306.0002,
+      "bottomY" : 671.7477,
+      "rightX" : 308.7452,
+      "topY" : 660.7477,
+      "baseLineY" : 669.6014,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306.48,
+      "bottomY" : 672.2275,
+      "rightX" : 309.225,
+      "topY" : 661.2275,
+      "baseLineY" : 670.0812,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72.3008,
+      "bottomY" : 684.4076,
+      "rightX" : 77.7908,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 78.3002,
+      "bottomY" : 684.8875,
+      "rightX" : 83.7902,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 77.8204,
+      "bottomY" : 684.4076,
+      "rightX" : 83.3104,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 83.8199,
+      "bottomY" : 684.8875,
+      "rightX" : 89.3099,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 83.3401,
+      "bottomY" : 684.4076,
+      "rightX" : 88.8301,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 89.3395,
+      "bottomY" : 684.8875,
+      "rightX" : 94.8295,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 88.8597,
+      "bottomY" : 684.4076,
+      "rightX" : 94.3497,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 94.7999,
+      "bottomY" : 684.8875,
+      "rightX" : 100.2899,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 94.3201,
+      "bottomY" : 684.4076,
+      "rightX" : 99.8101,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 100.3195,
+      "bottomY" : 684.8875,
+      "rightX" : 105.8095,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 99.8397,
+      "bottomY" : 684.4076,
+      "rightX" : 105.3297,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 105.8392,
+      "bottomY" : 684.8875,
+      "rightX" : 111.3292,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 105.3593,
+      "bottomY" : 684.4076,
+      "rightX" : 110.8493,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 111.2995,
+      "bottomY" : 684.8875,
+      "rightX" : 116.7895,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 110.8197,
+      "bottomY" : 684.4076,
+      "rightX" : 116.3097,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 116.8192,
+      "bottomY" : 684.8875,
+      "rightX" : 122.3092,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 116.3393,
+      "bottomY" : 684.4076,
+      "rightX" : 121.8293,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 122.3388,
+      "bottomY" : 684.8875,
+      "rightX" : 127.8288,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 121.859,
+      "bottomY" : 684.4076,
+      "rightX" : 127.349,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 127.7992,
+      "bottomY" : 684.8875,
+      "rightX" : 133.2892,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 127.3193,
+      "bottomY" : 684.4076,
+      "rightX" : 132.8093,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 133.2595,
+      "bottomY" : 684.8875,
+      "rightX" : 138.7495,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 132.7797,
+      "bottomY" : 684.4076,
+      "rightX" : 138.2697,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 138.7792,
+      "bottomY" : 684.8875,
+      "rightX" : 144.2692,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 138.2993,
+      "bottomY" : 684.4076,
+      "rightX" : 143.7893,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 144.2988,
+      "bottomY" : 684.8875,
+      "rightX" : 149.7888,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 143.819,
+      "bottomY" : 684.4076,
+      "rightX" : 149.309,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 149.8184,
+      "bottomY" : 684.8875,
+      "rightX" : 155.3084,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 149.3386,
+      "bottomY" : 684.4076,
+      "rightX" : 154.8286,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 155.2788,
+      "bottomY" : 684.8875,
+      "rightX" : 160.7688,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 154.799,
+      "bottomY" : 684.4076,
+      "rightX" : 160.289,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 160.7984,
+      "bottomY" : 684.8875,
+      "rightX" : 166.2884,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 160.3186,
+      "bottomY" : 684.4076,
+      "rightX" : 165.8086,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 166.3181,
+      "bottomY" : 684.8875,
+      "rightX" : 171.8081,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 165.8382,
+      "bottomY" : 684.4076,
+      "rightX" : 171.3282,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 171.7784,
+      "bottomY" : 684.8875,
+      "rightX" : 177.2684,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 171.2986,
+      "bottomY" : 684.4076,
+      "rightX" : 176.7886,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 177.2992,
+      "bottomY" : 684.8875,
+      "rightX" : 182.7892,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 176.8193,
+      "bottomY" : 684.4076,
+      "rightX" : 182.3093,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 182.8188,
+      "bottomY" : 684.8875,
+      "rightX" : 188.3088,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 182.339,
+      "bottomY" : 684.4076,
+      "rightX" : 187.829,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 188.2792,
+      "bottomY" : 684.8875,
+      "rightX" : 193.7692,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 187.7993,
+      "bottomY" : 684.4076,
+      "rightX" : 193.2893,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 193.7395,
+      "bottomY" : 684.8875,
+      "rightX" : 199.2295,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 193.2597,
+      "bottomY" : 684.4076,
+      "rightX" : 198.7497,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 199.2592,
+      "bottomY" : 684.8875,
+      "rightX" : 204.7492,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 198.7793,
+      "bottomY" : 684.4076,
+      "rightX" : 204.2693,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 204.7788,
+      "bottomY" : 684.8875,
+      "rightX" : 210.2688,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 204.299,
+      "bottomY" : 684.4076,
+      "rightX" : 209.789,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 210.2984,
+      "bottomY" : 684.8875,
+      "rightX" : 215.7884,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 209.8186,
+      "bottomY" : 684.4076,
+      "rightX" : 215.3086,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 215.7588,
+      "bottomY" : 684.8875,
+      "rightX" : 221.2488,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 215.279,
+      "bottomY" : 684.4076,
+      "rightX" : 220.769,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 221.2784,
+      "bottomY" : 684.8875,
+      "rightX" : 226.7684,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 220.7986,
+      "bottomY" : 684.4076,
+      "rightX" : 226.2886,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 226.7981,
+      "bottomY" : 684.8875,
+      "rightX" : 232.2881,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 226.3182,
+      "bottomY" : 684.4076,
+      "rightX" : 231.8082,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 232.2584,
+      "bottomY" : 684.8875,
+      "rightX" : 237.7484,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 231.7786,
+      "bottomY" : 684.4076,
+      "rightX" : 237.2686,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 237.7781,
+      "bottomY" : 684.8875,
+      "rightX" : 243.2681,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 237.2982,
+      "bottomY" : 684.4076,
+      "rightX" : 242.7882,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 243.2977,
+      "bottomY" : 684.8875,
+      "rightX" : 248.7877,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 242.8179,
+      "bottomY" : 684.4076,
+      "rightX" : 248.3079,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 248.7581,
+      "bottomY" : 684.8875,
+      "rightX" : 254.2481,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 248.2782,
+      "bottomY" : 684.4076,
+      "rightX" : 253.7682,
+      "topY" : 673.4076,
+      "baseLineY" : 682.2613,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 254.2184,
+      "bottomY" : 684.8875,
+      "rightX" : 259.7084,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 253.74,
+      "bottomY" : 684.4064,
+      "rightX" : 259.23,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 259.7395,
+      "bottomY" : 684.8861,
+      "rightX" : 265.2295,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 259.2596,
+      "bottomY" : 684.4064,
+      "rightX" : 264.7496,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 265.2591,
+      "bottomY" : 684.8861,
+      "rightX" : 270.7491,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 264.7793,
+      "bottomY" : 684.4064,
+      "rightX" : 270.2693,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 270.7788,
+      "bottomY" : 684.8861,
+      "rightX" : 276.2688,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 270.299,
+      "bottomY" : 684.4064,
+      "rightX" : 275.7889,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 276.2391,
+      "bottomY" : 684.8861,
+      "rightX" : 281.7291,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 275.7593,
+      "bottomY" : 684.4064,
+      "rightX" : 281.2493,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 281.7588,
+      "bottomY" : 684.8861,
+      "rightX" : 287.2488,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 281.279,
+      "bottomY" : 684.4064,
+      "rightX" : 286.769,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 287.2784,
+      "bottomY" : 684.8861,
+      "rightX" : 292.7684,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 286.7986,
+      "bottomY" : 684.4064,
+      "rightX" : 292.2886,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 292.7388,
+      "bottomY" : 684.8861,
+      "rightX" : 298.2288,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 292.259,
+      "bottomY" : 684.4064,
+      "rightX" : 297.749,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 298.2585,
+      "bottomY" : 684.8861,
+      "rightX" : 303.7484,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 297.7786,
+      "bottomY" : 684.4064,
+      "rightX" : 303.2686,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 303.7781,
+      "bottomY" : 684.8861,
+      "rightX" : 309.2681,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 303.2983,
+      "bottomY" : 684.4064,
+      "rightX" : 308.7883,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 309.2385,
+      "bottomY" : 684.8861,
+      "rightX" : 314.7285,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 308.7586,
+      "bottomY" : 684.4064,
+      "rightX" : 314.2486,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 314.6988,
+      "bottomY" : 684.8861,
+      "rightX" : 320.1888,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 314.219,
+      "bottomY" : 684.4064,
+      "rightX" : 319.709,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 320.2185,
+      "bottomY" : 684.8861,
+      "rightX" : 325.7085,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 319.7386,
+      "bottomY" : 684.4064,
+      "rightX" : 325.2286,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 325.7381,
+      "bottomY" : 684.8861,
+      "rightX" : 331.2281,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 325.2583,
+      "bottomY" : 684.4064,
+      "rightX" : 330.7483,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 331.2578,
+      "bottomY" : 684.8861,
+      "rightX" : 336.7478,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 330.778,
+      "bottomY" : 684.4064,
+      "rightX" : 336.2679,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 336.7181,
+      "bottomY" : 684.8861,
+      "rightX" : 342.2081,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 336.2383,
+      "bottomY" : 684.4064,
+      "rightX" : 341.7283,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 342.2378,
+      "bottomY" : 684.8861,
+      "rightX" : 347.7278,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 341.758,
+      "bottomY" : 684.4064,
+      "rightX" : 347.248,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 347.7574,
+      "bottomY" : 684.8861,
+      "rightX" : 353.2474,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 347.2776,
+      "bottomY" : 684.4064,
+      "rightX" : 352.7676,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 353.2178,
+      "bottomY" : 684.8861,
+      "rightX" : 358.7078,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 352.738,
+      "bottomY" : 684.4064,
+      "rightX" : 358.228,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 358.7375,
+      "bottomY" : 684.8861,
+      "rightX" : 364.2274,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 358.2576,
+      "bottomY" : 684.4064,
+      "rightX" : 363.7476,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 364.2571,
+      "bottomY" : 684.8861,
+      "rightX" : 369.7471,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 363.7773,
+      "bottomY" : 684.4064,
+      "rightX" : 369.2673,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 369.7175,
+      "bottomY" : 684.8861,
+      "rightX" : 375.2075,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 369.2376,
+      "bottomY" : 684.4064,
+      "rightX" : 374.7276,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 375.1778,
+      "bottomY" : 684.8861,
+      "rightX" : 380.6678,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 374.698,
+      "bottomY" : 684.4064,
+      "rightX" : 380.188,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 380.6975,
+      "bottomY" : 684.8861,
+      "rightX" : 386.1875,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 380.2177,
+      "bottomY" : 684.4064,
+      "rightX" : 385.7076,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 386.2171,
+      "bottomY" : 684.8861,
+      "rightX" : 391.7071,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 385.7373,
+      "bottomY" : 684.4064,
+      "rightX" : 391.2273,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 391.7379,
+      "bottomY" : 684.8861,
+      "rightX" : 397.2279,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 391.2581,
+      "bottomY" : 684.4064,
+      "rightX" : 396.748,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 397.1982,
+      "bottomY" : 684.8861,
+      "rightX" : 402.6882,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 396.7184,
+      "bottomY" : 684.4064,
+      "rightX" : 402.2084,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 402.7179,
+      "bottomY" : 684.8861,
+      "rightX" : 408.2079,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 402.2381,
+      "bottomY" : 684.4064,
+      "rightX" : 407.7281,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 408.2375,
+      "bottomY" : 684.8861,
+      "rightX" : 413.7275,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 407.7577,
+      "bottomY" : 684.4064,
+      "rightX" : 413.2477,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 413.6979,
+      "bottomY" : 684.8861,
+      "rightX" : 419.1879,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 413.2181,
+      "bottomY" : 684.4064,
+      "rightX" : 418.7081,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 419.2176,
+      "bottomY" : 684.8861,
+      "rightX" : 424.7076,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 418.7377,
+      "bottomY" : 684.4064,
+      "rightX" : 424.2277,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 424.7372,
+      "bottomY" : 684.8861,
+      "rightX" : 430.2272,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 424.2574,
+      "bottomY" : 684.4064,
+      "rightX" : 429.7474,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 430.1976,
+      "bottomY" : 684.8861,
+      "rightX" : 435.6876,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 429.7177,
+      "bottomY" : 684.4064,
+      "rightX" : 435.2077,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 435.6579,
+      "bottomY" : 684.8861,
+      "rightX" : 441.1479,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 435.1781,
+      "bottomY" : 684.4064,
+      "rightX" : 440.6681,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 441.1776,
+      "bottomY" : 684.8861,
+      "rightX" : 446.6676,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 440.6978,
+      "bottomY" : 684.4064,
+      "rightX" : 446.1877,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 446.6972,
+      "bottomY" : 684.8861,
+      "rightX" : 452.1872,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 446.2174,
+      "bottomY" : 684.4064,
+      "rightX" : 451.7074,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 452.2169,
+      "bottomY" : 684.8861,
+      "rightX" : 457.7069,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 451.7371,
+      "bottomY" : 684.4064,
+      "rightX" : 457.2271,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 457.6772,
+      "bottomY" : 684.8861,
+      "rightX" : 463.1672,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 457.1974,
+      "bottomY" : 684.4064,
+      "rightX" : 462.6874,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 463.1969,
+      "bottomY" : 684.8861,
+      "rightX" : 468.6869,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 462.7171,
+      "bottomY" : 684.4064,
+      "rightX" : 468.2071,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 468.7166,
+      "bottomY" : 684.8861,
+      "rightX" : 474.2065,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 468.2367,
+      "bottomY" : 684.4064,
+      "rightX" : 473.7267,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 474.1769,
+      "bottomY" : 684.8861,
+      "rightX" : 479.6669,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 473.6971,
+      "bottomY" : 684.4064,
+      "rightX" : 479.1871,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 479.6966,
+      "bottomY" : 684.8861,
+      "rightX" : 485.1866,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 479.2167,
+      "bottomY" : 684.4064,
+      "rightX" : 484.7067,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 485.2162,
+      "bottomY" : 684.8861,
+      "rightX" : 490.7062,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 484.7364,
+      "bottomY" : 684.4064,
+      "rightX" : 490.2264,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 490.6766,
+      "bottomY" : 684.8861,
+      "rightX" : 496.1666,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 490.1967,
+      "bottomY" : 684.4064,
+      "rightX" : 495.6867,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 496.1369,
+      "bottomY" : 684.8861,
+      "rightX" : 501.6269,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 495.6571,
+      "bottomY" : 684.4064,
+      "rightX" : 501.1471,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 501.6566,
+      "bottomY" : 684.8861,
+      "rightX" : 507.1466,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 501.1768,
+      "bottomY" : 684.4064,
+      "rightX" : 506.6667,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 507.1762,
+      "bottomY" : 684.8861,
+      "rightX" : 512.6663,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 506.6964,
+      "bottomY" : 684.4064,
+      "rightX" : 512.1864,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 512.6959,
+      "bottomY" : 684.8861,
+      "rightX" : 518.1859,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 512.2161,
+      "bottomY" : 684.4064,
+      "rightX" : 517.7061,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 518.1562,
+      "bottomY" : 684.8861,
+      "rightX" : 523.6462,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 517.6765,
+      "bottomY" : 684.4064,
+      "rightX" : 523.1664,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 523.6759,
+      "bottomY" : 684.8861,
+      "rightX" : 529.1659,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 523.1961,
+      "bottomY" : 684.4064,
+      "rightX" : 528.6861,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 529.1956,
+      "bottomY" : 684.8861,
+      "rightX" : 534.6855,
+      "topY" : 673.8861,
+      "baseLineY" : 682.7398,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 528.7158,
+      "bottomY" : 684.4064,
+      "rightX" : 534.2057,
+      "topY" : 673.4064,
+      "baseLineY" : 682.26,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 534.66,
+      "bottomY" : 684.8863,
+      "rightX" : 540.15,
+      "topY" : 673.8863,
+      "baseLineY" : 682.74,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 534.1802,
+      "bottomY" : 684.4065,
+      "rightX" : 539.6702,
+      "topY" : 673.4065,
+      "baseLineY" : 682.2602,
+      "fontId" : 3,
+      "text" : "_"
+    }, {
+      "leftX" : 540.1204,
+      "bottomY" : 684.8863,
+      "rightX" : 542.8654,
+      "topY" : 673.8863,
+      "baseLineY" : 682.74,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 539.6406,
+      "bottomY" : 684.4065,
+      "rightX" : 542.3856,
+      "topY" : 673.4065,
+      "baseLineY" : 682.2602,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72.7806,
+      "bottomY" : 684.8875,
+      "rightX" : 78.2706,
+      "topY" : 673.8875,
+      "baseLineY" : 682.7411,
+      "fontId" : 4,
+      "text" : "_"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 695.9712,
+      "rightX" : 178.6419,
+      "topY" : 685.9712,
+      "baseLineY" : 694.02,
+      "fontId" : 5,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 707.4311,
+      "rightX" : 232.2699,
+      "topY" : 697.4311,
+      "baseLineY" : 705.4799,
+      "fontId" : 5,
+      "text" : "Renumbered (05-04-20)  SPECIAL PN "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.46,
+      "bottomY" : 47.3112,
+      "rightX" : 542.497,
+      "topY" : 37.3112,
+      "baseLineY" : 45.36,
+      "fontId" : 5,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 493.0802,
+      "bottomY" : 58.7711,
+      "rightX" : 542.5079,
+      "topY" : 48.7711,
+      "baseLineY" : 56.8199,
+      "fontId" : 5,
+      "text" : "Appendix 9 "
+    }, {
+      "leftX" : 494.7606,
+      "bottomY" : 70.2911,
+      "rightX" : 542.524,
+      "topY" : 60.2911,
+      "baseLineY" : 68.3399,
+      "fontId" : 5,
+      "text" : "Page 1 of 1 "
+    }, {
+      "leftX" : 305.9994,
+      "bottomY" : 108.872,
+      "rightX" : 311.5044,
+      "topY" : 86.872,
+      "baseLineY" : 104.5793,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 306.9,
+      "bottomY" : 109.7727,
+      "rightX" : 312.405,
+      "topY" : 87.7727,
+      "baseLineY" : 105.48,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 268.02,
+      "bottomY" : 137.1317,
+      "rightX" : 347.4249,
+      "topY" : 123.1317,
+      "baseLineY" : 134.4,
+      "fontId" : 6,
+      "text" : "Appendix 10 "
+    }, {
+      "leftX" : 173.0399,
+      "bottomY" : 153.2115,
+      "rightX" : 442.4569,
+      "topY" : 139.2115,
+      "baseLineY" : 150.4798,
+      "fontId" : 6,
+      "text" : "Unnumbered Letters and State Supplements "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 166.5312,
+      "rightX" : 74.505,
+      "topY" : 156.5312,
+      "baseLineY" : 164.58,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 178.0513,
+      "rightX" : 74.505,
+      "topY" : 168.0513,
+      "baseLineY" : 176.1,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 191.8214,
+      "rightX" : 542.9207,
+      "topY" : 179.8214,
+      "baseLineY" : 189.48,
+      "fontId" : 7,
+      "text" : "In accordance with RD Instruction 2006-B, all unnumbered letters and State issuances "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 205.6214,
+      "rightX" : 515.6125,
+      "topY" : 193.6214,
+      "baseLineY" : 203.28,
+      "fontId" : 7,
+      "text" : "must be submitted to the National Office for either prior approval or post approval.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 219.4214,
+      "rightX" : 129,
+      "topY" : 207.4214,
+      "baseLineY" : 217.08,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 233.2214,
+      "rightX" : 541.848,
+      "topY" : 221.2214,
+      "baseLineY" : 230.8799,
+      "fontId" : 7,
+      "text" : "Appendix 10 may serve as a placeholder for unnumbered letters and State issuances if "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 247.0214,
+      "rightX" : 274.896,
+      "topY" : 235.0214,
+      "baseLineY" : 244.6799,
+      "fontId" : 7,
+      "text" : "a paper master manual is retained. "
+    }, {
+      "leftX" : 71.9997,
+      "bottomY" : 744.2708,
+      "rightX" : 178.6416,
+      "topY" : 734.2708,
+      "baseLineY" : 742.3196,
+      "fontId" : 5,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 539.9999,
+      "bottomY" : 734.9712,
+      "rightX" : 542.5049,
+      "topY" : 724.9712,
+      "baseLineY" : 733.02,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 71.9997,
+      "bottomY" : 755.7908,
+      "rightX" : 232.2696,
+      "topY" : 745.7908,
+      "baseLineY" : 753.8395,
+      "fontId" : 5,
+      "text" : "Renumbered (05-04-20)  SPECIAL PN "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 22.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 22.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#c0c0c0"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#c0c0c0"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

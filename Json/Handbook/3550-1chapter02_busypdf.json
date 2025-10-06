@@ -1,0 +1,3849 @@
+{
+  "pdfDoc" : "3550-1chapter02.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 66,
+      "bottomY" : 76.4991,
+      "rightX" : 68.505,
+      "topY" : 66.4991,
+      "baseLineY" : 74.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 494.16,
+      "bottomY" : 84.9591,
+      "rightX" : 542.205,
+      "topY" : 74.9591,
+      "baseLineY" : 82.68,
+      "fontId" : 1,
+      "text" : "HB-1-3550 "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 92.8554,
+      "rightX" : 67.875,
+      "topY" : 85.8554,
+      "baseLineY" : 91.26,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 151.08,
+      "bottomY" : 117.7787,
+      "rightX" : 154.83,
+      "topY" : 102.7787,
+      "baseLineY" : 114.36,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 175.56,
+      "bottomY" : 134.0579,
+      "rightX" : 462.9748,
+      "topY" : 120.0579,
+      "baseLineY" : 130.74,
+      "fontId" : 4,
+      "text" : "CHAPTER 2:  OVERVIEW OF SECTION 502 "
+    }, {
+      "leftX" : 66.0045,
+      "bottomY" : 170.7583,
+      "rightX" : 68.5095,
+      "topY" : 160.7583,
+      "baseLineY" : 168.4792,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 143.88,
+      "bottomY" : 161.1591,
+      "rightX" : 146.385,
+      "topY" : 151.1591,
+      "baseLineY" : 158.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 490.4418,
+      "bottomY" : 161.1591,
+      "rightX" : 492.9468,
+      "topY" : 151.1591,
+      "baseLineY" : 158.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 184.7039,
+      "rightX" : 86.7197,
+      "topY" : 172.7039,
+      "baseLineY" : 181.86,
+      "fontId" : 5,
+      "text" : "2.1"
+    }, {
+      "leftX" : 86.7,
+      "bottomY" : 185.0108,
+      "rightX" : 90.0012,
+      "topY" : 173.0108,
+      "baseLineY" : 181.86,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 184.7039,
+      "rightX" : 206.94,
+      "topY" : 172.7039,
+      "baseLineY" : 181.86,
+      "fontId" : 5,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 196.71,
+      "rightX" : 68.505,
+      "topY" : 186.71,
+      "baseLineY" : 194.34,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 210.4549,
+      "rightX" : 533.1599,
+      "topY" : 198.4549,
+      "baseLineY" : 207.72,
+      "fontId" : 8,
+      "text" : "This chapter provides an overview of key aspects of the Section 502 program. Section 1 "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 224.3149,
+      "rightX" : 541.7399,
+      "topY" : 212.3149,
+      "baseLineY" : 221.58,
+      "fontId" : 8,
+      "text" : "identifies the various types of loans available and details the circumstances in which each kind of "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 238.2349,
+      "rightX" : 530.8198,
+      "topY" : 226.2349,
+      "baseLineY" : 235.4999,
+      "fontId" : 8,
+      "text" : "loan can be made. Section 2 describes the Agency’s Dedicated Loan Origination and Servicing "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 252.1549,
+      "rightX" : 516.54,
+      "topY" : 240.1549,
+      "baseLineY" : 249.4199,
+      "fontId" : 8,
+      "text" : "(DLOS) System. The chapter concludes with Section 3, a broad-brush overview of the steps "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 266.0749,
+      "rightX" : 274.92,
+      "topY" : 254.0749,
+      "baseLineY" : 263.3399,
+      "fontId" : 8,
+      "text" : "involved in processing Section 502 loans. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 281.1229,
+      "rightX" : 69.255,
+      "topY" : 268.1229,
+      "baseLineY" : 278.16,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 205.5,
+      "bottomY" : 306.6779,
+      "rightX" : 410.4747,
+      "topY" : 292.6779,
+      "baseLineY" : 303.36,
+      "fontId" : 4,
+      "text" : "SECTION 1: TYPES OF LOANS "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 324.7349,
+      "rightX" : 69.87,
+      "topY" : 309.7349,
+      "baseLineY" : 321.18,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 338.6039,
+      "rightX" : 86.7197,
+      "topY" : 326.6039,
+      "baseLineY" : 335.76,
+      "fontId" : 5,
+      "text" : "2.2"
+    }, {
+      "leftX" : 86.7,
+      "bottomY" : 338.9108,
+      "rightX" : 90.0012,
+      "topY" : 326.9108,
+      "baseLineY" : 335.76,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 338.6039,
+      "rightX" : 178.92,
+      "topY" : 326.6039,
+      "baseLineY" : 335.76,
+      "fontId" : 5,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 362.375,
+      "rightX" : 539.9398,
+      "topY" : 350.375,
+      "baseLineY" : 359.64,
+      "fontId" : 8,
+      "text" : "The rules governing Section 502 loan origination differ slightly, depending upon the type "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 376.295,
+      "rightX" : 442.8,
+      "topY" : 364.295,
+      "baseLineY" : 373.56,
+      "fontId" : 8,
+      "text" : "of loan being made.  The types of loans available under Section 502 include: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 400.4351,
+      "rightX" : 113.52,
+      "topY" : 388.4351,
+      "baseLineY" : 398.28,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 401.1372,
+      "rightX" : 116.856,
+      "topY" : 389.1372,
+      "baseLineY" : 398.28,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 401.015,
+      "rightX" : 186.276,
+      "topY" : 389.015,
+      "baseLineY" : 398.28,
+      "fontId" : 8,
+      "text" : "Initial loans;"
+    }, {
+      "leftX" : 186.24,
+      "bottomY" : 400.4351,
+      "rightX" : 189.24,
+      "topY" : 388.4351,
+      "baseLineY" : 398.28,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 425.1551,
+      "rightX" : 113.52,
+      "topY" : 413.1551,
+      "baseLineY" : 423,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 425.8572,
+      "rightX" : 116.856,
+      "topY" : 413.8572,
+      "baseLineY" : 423,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 425.735,
+      "rightX" : 202.176,
+      "topY" : 413.735,
+      "baseLineY" : 423,
+      "fontId" : 8,
+      "text" : "Assumed loans;"
+    }, {
+      "leftX" : 202.14,
+      "bottomY" : 425.1551,
+      "rightX" : 205.14,
+      "topY" : 413.1551,
+      "baseLineY" : 423,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 449.8151,
+      "rightX" : 113.52,
+      "topY" : 437.8151,
+      "baseLineY" : 447.66,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 450.5172,
+      "rightX" : 116.856,
+      "topY" : 438.5172,
+      "baseLineY" : 447.66,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 450.395,
+      "rightX" : 233.28,
+      "topY" : 438.395,
+      "baseLineY" : 447.66,
+      "fontId" : 8,
+      "text" : "Subsequent loans; and"
+    }, {
+      "leftX" : 233.22,
+      "bottomY" : 449.8151,
+      "rightX" : 236.22,
+      "topY" : 437.8151,
+      "baseLineY" : 447.66,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 474.5351,
+      "rightX" : 113.52,
+      "topY" : 462.5351,
+      "baseLineY" : 472.38,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 475.2372,
+      "rightX" : 116.856,
+      "topY" : 463.2372,
+      "baseLineY" : 472.38,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 475.115,
+      "rightX" : 218.52,
+      "topY" : 463.115,
+      "baseLineY" : 472.38,
+      "fontId" : 8,
+      "text" : "Nonprogram loans."
+    }, {
+      "leftX" : 218.46,
+      "bottomY" : 474.5351,
+      "rightX" : 221.46,
+      "topY" : 462.5351,
+      "baseLineY" : 472.38,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 499.055,
+      "rightX" : 487.6799,
+      "topY" : 487.055,
+      "baseLineY" : 496.32,
+      "fontId" : 8,
+      "text" : "This section describes the four types of loans and how they differ. The interest "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 512.975,
+      "rightX" : 410.64,
+      "topY" : 500.975,
+      "baseLineY" : 510.2401,
+      "fontId" : 8,
+      "text" : "rate for SFH loans can be found in Exhibit B of RD Instruction 440.1. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 537.2039,
+      "rightX" : 86.7197,
+      "topY" : 525.2039,
+      "baseLineY" : 534.36,
+      "fontId" : 5,
+      "text" : "2.3"
+    }, {
+      "leftX" : 86.7,
+      "bottomY" : 537.5108,
+      "rightX" : 90.0012,
+      "topY" : 525.5108,
+      "baseLineY" : 534.36,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 537.2039,
+      "rightX" : 202.02,
+      "topY" : 525.2039,
+      "baseLineY" : 534.36,
+      "fontId" : 5,
+      "text" : "INITIAL LOANS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 560.975,
+      "rightX" : 524.94,
+      "topY" : 548.975,
+      "baseLineY" : 558.24,
+      "fontId" : 8,
+      "text" : "Initial loans are made when neither the applicant nor the seller has an existing Agency "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 574.8949,
+      "rightX" : 538.9798,
+      "topY" : 562.8949,
+      "baseLineY" : 572.16,
+      "fontId" : 8,
+      "text" : "loan. Generally, they are made for the maximum loan term for which the applicant qualifies, and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 588.8149,
+      "rightX" : 503.5798,
+      "topY" : 576.8149,
+      "baseLineY" : 586.08,
+      "fontId" : 8,
+      "text" : "at the Rural Housing (RH) 502 very low or low interest rate. If no prior Agency loans are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 602.675,
+      "rightX" : 531.5998,
+      "topY" : 590.675,
+      "baseLineY" : 599.94,
+      "fontId" : 8,
+      "text" : "involved in the transaction and the loan is to be made on program terms, this is the type of loan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 616.595,
+      "rightX" : 526.1999,
+      "topY" : 604.595,
+      "baseLineY" : 613.86,
+      "fontId" : 8,
+      "text" : "used.  An initial loan can be made to an existing homeowner, who is not an Agency borrower, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 630.5149,
+      "rightX" : 522.54,
+      "topY" : 618.5149,
+      "baseLineY" : 627.78,
+      "fontId" : 8,
+      "text" : "for essential repairs to their home provided any senior lien secures an affordable non-Agency "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 644.4349,
+      "rightX" : 98.64,
+      "topY" : 632.4349,
+      "baseLineY" : 641.7,
+      "fontId" : 8,
+      "text" : "loan. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 656.0391,
+      "rightX" : 68.505,
+      "topY" : 646.0391,
+      "baseLineY" : 653.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 663.5875,
+      "rightX" : 67.62,
+      "topY" : 657.5875,
+      "baseLineY" : 662.22,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 299.4,
+      "bottomY" : 676.9192,
+      "rightX" : 315.2216,
+      "topY" : 666.9192,
+      "baseLineY" : 674.64,
+      "fontId" : 1,
+      "text" : "2-1 "
+    }, {
+      "leftX" : 71.936,
+      "bottomY" : 688.4422,
+      "rightX" : 178.5888,
+      "topY" : 678.4422,
+      "baseLineY" : 686.163,
+      "fontId" : 1,
+      "text" : "(01-23-03)  SPECIAL PN "
+    }, {
+      "leftX" : 71.9259,
+      "bottomY" : 700.1455,
+      "rightX" : 215.7731,
+      "topY" : 690.1455,
+      "baseLineY" : 697.8663,
+      "fontId" : 1,
+      "text" : "Revised (03-09-22)  SPECIAL PN  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 66,
+      "bottomY" : 76.4991,
+      "rightX" : 68.505,
+      "topY" : 66.4991,
+      "baseLineY" : 74.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 77.2205,
+      "rightX" : 68.505,
+      "topY" : 67.2205,
+      "baseLineY" : 74.9414,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 84.9591,
+      "rightX" : 120.045,
+      "topY" : 74.9591,
+      "baseLineY" : 82.68,
+      "fontId" : 1,
+      "text" : "HB-1-3550 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 98.4239,
+      "rightX" : 111,
+      "topY" : 86.4239,
+      "baseLineY" : 95.58,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 112.5839,
+      "rightX" : 86.7197,
+      "topY" : 100.5839,
+      "baseLineY" : 109.74,
+      "fontId" : 5,
+      "text" : "2.4"
+    }, {
+      "leftX" : 86.7,
+      "bottomY" : 112.8908,
+      "rightX" : 90.0012,
+      "topY" : 100.8908,
+      "baseLineY" : 109.74,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 112.5839,
+      "rightX" : 213.3,
+      "topY" : 100.5839,
+      "baseLineY" : 109.74,
+      "fontId" : 5,
+      "text" : "ASSUMED LOANS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 136.355,
+      "rightX" : 532.1998,
+      "topY" : 124.355,
+      "baseLineY" : 133.62,
+      "fontId" : 8,
+      "text" : "Section 502 loans may be assumed. The terms and conditions of the assumption depend "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 150.2149,
+      "rightX" : 272.58,
+      "topY" : 138.2149,
+      "baseLineY" : 147.48,
+      "fontId" : 8,
+      "text" : "upon the eligibility of the new purchaser. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 174.4439,
+      "rightX" : 119.4999,
+      "topY" : 162.4439,
+      "baseLineY" : 171.6,
+      "fontId" : 5,
+      "text" : "A."
+    }, {
+      "leftX" : 119.46,
+      "bottomY" : 174.7508,
+      "rightX" : 122.7612,
+      "topY" : 162.7508,
+      "baseLineY" : 171.6,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 174.4439,
+      "rightX" : 306.18,
+      "topY" : 162.4439,
+      "baseLineY" : 171.6,
+      "fontId" : 5,
+      "text" : "New Rates and Terms Assumption "
+    }, {
+      "leftX" : 107.76,
+      "bottomY" : 198.3349,
+      "rightX" : 535.3198,
+      "topY" : 186.3349,
+      "baseLineY" : 195.6,
+      "fontId" : 8,
+      "text" : "When purchasing a property currently financed by a Section 502 loan, the new borrower "
+    }, {
+      "leftX" : 71.76,
+      "bottomY" : 212.2549,
+      "rightX" : 535.0199,
+      "topY" : 200.2549,
+      "baseLineY" : 209.52,
+      "fontId" : 8,
+      "text" : "will typically receive new loan funds.  However, new rates and terms assumptions must be used "
+    }, {
+      "leftX" : 71.76,
+      "bottomY" : 226.1749,
+      "rightX" : 526.6198,
+      "topY" : 214.1749,
+      "baseLineY" : 223.4399,
+      "fontId" : 8,
+      "text" : "when funding is limited (e.g. in September as a fiscal year is coming to a close and in October "
+    }, {
+      "leftX" : 71.76,
+      "bottomY" : 240.0949,
+      "rightX" : 226.02,
+      "topY" : 228.0949,
+      "baseLineY" : 237.3599,
+      "fontId" : 8,
+      "text" : "when a new fiscal year begins). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 264.1549,
+      "rightX" : 513.3,
+      "topY" : 252.1549,
+      "baseLineY" : 261.4199,
+      "fontId" : 8,
+      "text" : "With a new rates and terms assumption, the purchaser assumes the outstanding debt "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 278.0749,
+      "rightX" : 534.1784,
+      "topY" : 266.0749,
+      "baseLineY" : 275.3399,
+      "fontId" : 8,
+      "text" : "(including principal and recapture amounts), which is reamortized at new rates and terms. If the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 291.9949,
+      "rightX" : 499.4998,
+      "topY" : 279.9949,
+      "baseLineY" : 289.2599,
+      "fontId" : 8,
+      "text" : "new purchaser and the property are eligible for the Section 502 program, the loan can be "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 305.9149,
+      "rightX" : 528.1774,
+      "topY" : 293.9149,
+      "baseLineY" : 303.1799,
+      "fontId" : 8,
+      "text" : "assumed on program terms. In addition, eligible new purchasers may receive subsequent loans "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 319.8349,
+      "rightX" : 528.4749,
+      "topY" : 307.8349,
+      "baseLineY" : 317.0999,
+      "fontId" : 8,
+      "text" : "to make up the difference between the amount of debt assumed and the purchase price, or may "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 333.7549,
+      "rightX" : 522.8998,
+      "topY" : 321.7549,
+      "baseLineY" : 331.02,
+      "fontId" : 8,
+      "text" : "be able to obtain a leveraged loan. If the property does not meet Agency standards or will not "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 347.6749,
+      "rightX" : 532.6198,
+      "topY" : 335.6749,
+      "baseLineY" : 344.94,
+      "fontId" : 8,
+      "text" : "be brought to Agency standards with the use of loan funds, or the new purchaser is not eligible, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 361.595,
+      "rightX" : 492.5998,
+      "topY" : 349.595,
+      "baseLineY" : 358.86,
+      "fontId" : 8,
+      "text" : "the loan can be assumed on nonprogram terms.  Purchasers who assume the loan under "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 375.515,
+      "rightX" : 508.5,
+      "topY" : 363.515,
+      "baseLineY" : 372.78,
+      "fontId" : 8,
+      "text" : "nonprogram terms are not eligible for a loan to cover amounts above the amount assumed. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 399.7439,
+      "rightX" : 118.8438,
+      "topY" : 387.7439,
+      "baseLineY" : 396.9,
+      "fontId" : 5,
+      "text" : "B."
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 400.0508,
+      "rightX" : 122.1012,
+      "topY" : 388.0508,
+      "baseLineY" : 396.9,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 399.7439,
+      "rightX" : 311.58,
+      "topY" : 387.7439,
+      "baseLineY" : 396.9,
+      "fontId" : 5,
+      "text" : "Same Rates and Terms Assumption "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 423.515,
+      "rightX" : 514.202,
+      "topY" : 411.515,
+      "baseLineY" : 420.78,
+      "fontId" : 8,
+      "text" : "In certain limited cases -- generally those involving transfers of title between family "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 437.495,
+      "rightX" : 533.5798,
+      "topY" : 425.495,
+      "baseLineY" : 434.76,
+      "fontId" : 8,
+      "text" : "members -- a same rates and terms assumption, is permitted. Under this type of assumption, the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 451.535,
+      "rightX" : 507.8997,
+      "topY" : 439.535,
+      "baseLineY" : 448.8,
+      "fontId" : 8,
+      "text" : "existing note terms, including the interest rate and the remaining repayment period, do not "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 465.515,
+      "rightX" : 111.96,
+      "topY" : 453.515,
+      "baseLineY" : 462.78,
+      "fontId" : 8,
+      "text" : "change. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 489.455,
+      "rightX" : 522.9597,
+      "topY" : 477.455,
+      "baseLineY" : 486.72,
+      "fontId" : 8,
+      "text" : "The new owner is not reviewed for income-eligibility, creditworthiness, or repayment "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 503.375,
+      "rightX" : 515.2798,
+      "topY" : 491.375,
+      "baseLineY" : 500.64,
+      "fontId" : 8,
+      "text" : "ability; and the property is not reviewed or appraised. The new owner may receive payment "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 517.295,
+      "rightX" : 376.6198,
+      "topY" : 505.295,
+      "baseLineY" : 514.5601,
+      "fontId" : 8,
+      "text" : "subsidy if eligible based on their household’s adjusted income. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 541.235,
+      "rightX" : 515.64,
+      "topY" : 529.235,
+      "baseLineY" : 538.5001,
+      "fontId" : 8,
+      "text" : "Same rates and terms assumptions are permitted for the following types of transfers: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 565.3752,
+      "rightX" : 113.52,
+      "topY" : 553.3752,
+      "baseLineY" : 563.2201,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 566.0772,
+      "rightX" : 116.856,
+      "topY" : 554.0772,
+      "baseLineY" : 563.2201,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 565.9551,
+      "rightX" : 529.1398,
+      "topY" : 553.9551,
+      "baseLineY" : 563.2201,
+      "fontId" : 8,
+      "text" : "A transfer from the borrower to a spouse or children not resulting from the death of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 579.815,
+      "rightX" : 191.016,
+      "topY" : 567.815,
+      "baseLineY" : 577.0801,
+      "fontId" : 8,
+      "text" : "the borrower;"
+    }, {
+      "leftX" : 190.98,
+      "bottomY" : 579.2352,
+      "rightX" : 193.98,
+      "topY" : 567.2352,
+      "baseLineY" : 577.0801,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 603.9552,
+      "rightX" : 113.52,
+      "topY" : 591.9552,
+      "baseLineY" : 601.8,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 604.6572,
+      "rightX" : 116.856,
+      "topY" : 592.6572,
+      "baseLineY" : 601.8,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 604.535,
+      "rightX" : 535.8599,
+      "topY" : 592.535,
+      "baseLineY" : 601.8,
+      "fontId" : 8,
+      "text" : "A transfer to a relative, joint tenant, or tenant by the entirety resulting from the death "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 618.4551,
+      "rightX" : 203.976,
+      "topY" : 606.4551,
+      "baseLineY" : 615.7201,
+      "fontId" : 8,
+      "text" : "of the borrower;"
+    }, {
+      "leftX" : 203.94,
+      "bottomY" : 617.8752,
+      "rightX" : 206.94,
+      "topY" : 605.8752,
+      "baseLineY" : 615.7201,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 641.5159,
+      "rightX" : 112.6092,
+      "topY" : 631.5159,
+      "baseLineY" : 639.72,
+      "fontId" : 14,
+      "text" : "•"
+    }, {
+      "leftX" : 112.6192,
+      "bottomY" : 642.1009,
+      "rightX" : 115.4048,
+      "topY" : 632.1009,
+      "baseLineY" : 639.72,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 642.4549,
+      "rightX" : 532.14,
+      "topY" : 630.4549,
+      "baseLineY" : 639.72,
+      "fontId" : 8,
+      "text" : "A transfer to a spouse or ex-spouse resulting from a divorce decree, legal separation "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 656.375,
+      "rightX" : 344.016,
+      "topY" : 644.375,
+      "baseLineY" : 653.64,
+      "fontId" : 8,
+      "text" : "agreement, or property settlement agreement;"
+    }, {
+      "leftX" : 343.98,
+      "bottomY" : 655.4359,
+      "rightX" : 346.485,
+      "topY" : 645.4359,
+      "baseLineY" : 653.64,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 65.9951,
+      "bottomY" : 667.9231,
+      "rightX" : 68.5001,
+      "topY" : 657.9231,
+      "baseLineY" : 665.644,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 677.2433,
+      "rightX" : 67.995,
+      "topY" : 669.2433,
+      "baseLineY" : 675.42,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 299.34,
+      "bottomY" : 690.2992,
+      "rightX" : 315.1616,
+      "topY" : 680.2992,
+      "baseLineY" : 688.02,
+      "fontId" : 1,
+      "text" : "2-2 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 61.98,
+      "bottomY" : 76.4991,
+      "rightX" : 64.485,
+      "topY" : 66.4991,
+      "baseLineY" : 74.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 494.16,
+      "bottomY" : 84.9591,
+      "rightX" : 542.205,
+      "topY" : 74.9591,
+      "baseLineY" : 82.68,
+      "fontId" : 1,
+      "text" : "HB-1-3550 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.8191,
+      "rightX" : 196.6689,
+      "topY" : 85.8191,
+      "baseLineY" : 93.54,
+      "fontId" : 1,
+      "text" : "Paragraph 2.4 Assumed Loans "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 116.0351,
+      "rightX" : 113.52,
+      "topY" : 104.0351,
+      "baseLineY" : 113.88,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 116.7371,
+      "rightX" : 116.856,
+      "topY" : 104.7371,
+      "baseLineY" : 113.88,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 116.615,
+      "rightX" : 507.8974,
+      "topY" : 104.615,
+      "baseLineY" : 113.88,
+      "fontId" : 8,
+      "text" : "A transfer to a person, other than a deceased borrower’s spouse, who wishes to "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 130.535,
+      "rightX" : 540.4797,
+      "topY" : 118.535,
+      "baseLineY" : 127.8,
+      "fontId" : 8,
+      "text" : "assume the loan for the benefit of persons who were dependent on the borrower at the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 144.4549,
+      "rightX" : 516.2399,
+      "topY" : 132.4549,
+      "baseLineY" : 141.72,
+      "fontId" : 8,
+      "text" : "time of death, if the dwelling will be occupied by one or more persons who were "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 158.3749,
+      "rightX" : 534.2362,
+      "topY" : 146.3749,
+      "baseLineY" : 155.64,
+      "fontId" : 8,
+      "text" : "dependent on the borrower at the time of death, and there is a reasonable prospect of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 172.2949,
+      "rightX" : 195.9,
+      "topY" : 160.2949,
+      "baseLineY" : 169.5599,
+      "fontId" : 8,
+      "text" : "repayment; or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 195.3551,
+      "rightX" : 113.52,
+      "topY" : 183.3551,
+      "baseLineY" : 193.2,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 196.0571,
+      "rightX" : 116.856,
+      "topY" : 184.0571,
+      "baseLineY" : 193.2,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 195.9349,
+      "rightX" : 527.2799,
+      "topY" : 183.9349,
+      "baseLineY" : 193.2,
+      "fontId" : 8,
+      "text" : "A transfer into an inter vivos trust in which the borrower does not transfer rights of "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 209.9149,
+      "rightX" : 256.98,
+      "topY" : 197.9149,
+      "baseLineY" : 207.1799,
+      "fontId" : 8,
+      "text" : "occupancy in the property. "
+    }, {
+      "leftX" : 107.9401,
+      "bottomY" : 232.8949,
+      "rightX" : 526.92,
+      "topY" : 220.8949,
+      "baseLineY" : 230.1599,
+      "fontId" : 8,
+      "text" : "A party interested in a same rates and terms assumption must provide the Agency with "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 246.8149,
+      "rightX" : 520.4974,
+      "topY" : 234.8149,
+      "baseLineY" : 244.0799,
+      "fontId" : 8,
+      "text" : "evidence that they meet one of the permitted types of transfers listed above and a copy of the "
+    }, {
+      "leftX" : 71.9401,
+      "bottomY" : 260.6748,
+      "rightX" : 290.8201,
+      "topY" : 248.6748,
+      "baseLineY" : 257.9399,
+      "fontId" : 8,
+      "text" : "recorded deed conveying ownership to them. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 283.8839,
+      "rightX" : 86.7197,
+      "topY" : 271.8839,
+      "baseLineY" : 281.04,
+      "fontId" : 5,
+      "text" : "2.5"
+    }, {
+      "leftX" : 86.7,
+      "bottomY" : 284.1908,
+      "rightX" : 90.0012,
+      "topY" : 272.1908,
+      "baseLineY" : 281.04,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 283.8839,
+      "rightX" : 235.26,
+      "topY" : 271.8839,
+      "baseLineY" : 281.04,
+      "fontId" : 5,
+      "text" : "SUBSEQUENT LOANS "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 306.635,
+      "rightX" : 490.1398,
+      "topY" : 294.635,
+      "baseLineY" : 303.9,
+      "fontId" : 8,
+      "text" : "Subsequent loans can be issued as part of the original purchase of a property in "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 320.555,
+      "rightX" : 506.8798,
+      "topY" : 308.555,
+      "baseLineY" : 317.82,
+      "fontId" : 8,
+      "text" : "combination with an assumption, or during the term of an Agency loan to help an existing "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 334.415,
+      "rightX" : 505.8599,
+      "topY" : 322.415,
+      "baseLineY" : 331.68,
+      "fontId" : 8,
+      "text" : "borrower pay for repairs or improvements to the property. The key processing differences "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 348.335,
+      "rightX" : 490.08,
+      "topY" : 336.335,
+      "baseLineY" : 345.6,
+      "fontId" : 8,
+      "text" : "between subsequent and initial loans are described in Exhibit 2-1 and in later chapters. "
+    }, {
+      "leftX" : 61.98,
+      "bottomY" : 356.0875,
+      "rightX" : 63.6,
+      "topY" : 350.0875,
+      "baseLineY" : 354.72,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 279.96,
+      "bottomY" : 374.3669,
+      "rightX" : 334.9698,
+      "topY" : 363.3669,
+      "baseLineY" : 371.76,
+      "fontId" : 17,
+      "text" : "Exhibit 2-1 "
+    }, {
+      "leftX" : 189.4848,
+      "bottomY" : 393.3294,
+      "rightX" : 425.3485,
+      "topY" : 382.3294,
+      "baseLineY" : 390.7225,
+      "fontId" : 17,
+      "text" : "Key Processing Differences for Subsequent Loans "
+    }, {
+      "leftX" : 68.82,
+      "bottomY" : 405.1791,
+      "rightX" : 71.325,
+      "topY" : 395.1791,
+      "baseLineY" : 402.9,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 418.1355,
+      "rightX" : 76.9819,
+      "topY" : 407.1355,
+      "baseLineY" : 416.16,
+      "fontId" : 18,
+      "text" : "•"
+    }, {
+      "leftX" : 76.98,
+      "bottomY" : 418.7791,
+      "rightX" : 80.0136,
+      "topY" : 407.7791,
+      "baseLineY" : 416.16,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 418.6671,
+      "rightX" : 540.9925,
+      "topY" : 407.6671,
+      "baseLineY" : 416.16,
+      "fontId" : 20,
+      "text" : "An appraisal is not required for a subsequent loan: Less than $7,500 and for minimal essential repairs; "
+    }, {
+      "leftX" : 89.989,
+      "bottomY" : 431.327,
+      "rightX" : 525.3538,
+      "topY" : 420.327,
+      "baseLineY" : 428.8199,
+      "fontId" : 20,
+      "text" : "$7,500 or more where the Agency obtained an appraisal within the last two years; or to protect the "
+    }, {
+      "leftX" : 89.989,
+      "bottomY" : 443.9869,
+      "rightX" : 300.3987,
+      "topY" : 432.9869,
+      "baseLineY" : 441.4799,
+      "fontId" : 20,
+      "text" : "Government’s interest (see Paragraph 5.17 A.). "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 462.9555,
+      "rightX" : 76.9819,
+      "topY" : 451.9555,
+      "baseLineY" : 460.98,
+      "fontId" : 18,
+      "text" : "•"
+    }, {
+      "leftX" : 76.98,
+      "bottomY" : 463.5991,
+      "rightX" : 80.0136,
+      "topY" : 452.5991,
+      "baseLineY" : 460.98,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 90.06,
+      "bottomY" : 463.4871,
+      "rightX" : 512.4619,
+      "topY" : 452.4871,
+      "baseLineY" : 460.98,
+      "fontId" : 20,
+      "text" : "Subsequent loans may be made in areas that changed from rural to non-rural to make necessary "
+    }, {
+      "leftX" : 89.9941,
+      "bottomY" : 476.147,
+      "rightX" : 512.5541,
+      "topY" : 465.147,
+      "baseLineY" : 473.64,
+      "fontId" : 20,
+      "text" : "repairs, to pay equity in connection with an assumption of a program loan, or to pay equity of a "
+    }, {
+      "leftX" : 89.9941,
+      "bottomY" : 488.752,
+      "rightX" : 302.7975,
+      "topY" : 477.752,
+      "baseLineY" : 486.245,
+      "fontId" : 20,
+      "text" : "departing co-borrower (see Paragraph 5.3 C.6.). "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 507.7155,
+      "rightX" : 76.9819,
+      "topY" : 496.7155,
+      "baseLineY" : 505.74,
+      "fontId" : 18,
+      "text" : "•"
+    }, {
+      "leftX" : 76.98,
+      "bottomY" : 508.359,
+      "rightX" : 80.0136,
+      "topY" : 497.359,
+      "baseLineY" : 505.74,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 508.247,
+      "rightX" : 538.1334,
+      "topY" : 497.247,
+      "baseLineY" : 505.74,
+      "fontId" : 20,
+      "text" : "The Agency may reamortize the initial loan when the subsequent loan is made if the borrower cannot "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 520.907,
+      "rightX" : 527.6848,
+      "topY" : 509.907,
+      "baseLineY" : 518.3999,
+      "fontId" : 20,
+      "text" : "reasonably be expected to meet the payments without the reamortization (see Paragraph 6.16 B.2.). "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 539.8755,
+      "rightX" : 76.9819,
+      "topY" : 528.8755,
+      "baseLineY" : 537.9,
+      "fontId" : 18,
+      "text" : "•"
+    }, {
+      "leftX" : 76.98,
+      "bottomY" : 540.5191,
+      "rightX" : 80.0136,
+      "topY" : 529.5191,
+      "baseLineY" : 537.9,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 540.4071,
+      "rightX" : 519.5157,
+      "topY" : 529.4071,
+      "baseLineY" : 537.9,
+      "fontId" : 20,
+      "text" : "Full title clearance is not needed for subsequent loans to existing borrowers for minimal essential "
+    }, {
+      "leftX" : 89.989,
+      "bottomY" : 553.067,
+      "rightX" : 392.5429,
+      "topY" : 542.067,
+      "baseLineY" : 550.5599,
+      "fontId" : 20,
+      "text" : "repairs to protect the Government’s interest (see Paragraph 5.12 B.). "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 569.0355,
+      "rightX" : 76.9819,
+      "topY" : 558.0355,
+      "baseLineY" : 567.06,
+      "fontId" : 18,
+      "text" : "•"
+    }, {
+      "leftX" : 76.98,
+      "bottomY" : 569.679,
+      "rightX" : 80.0136,
+      "topY" : 558.679,
+      "baseLineY" : 567.06,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 569.5671,
+      "rightX" : 528.8937,
+      "topY" : 558.5671,
+      "baseLineY" : 567.06,
+      "fontId" : 20,
+      "text" : "Applicants have a legal right to cancel a subsequent loan within 3 business days from whichever of "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 582.1671,
+      "rightX" : 529.2418,
+      "topY" : 571.1671,
+      "baseLineY" : 579.66,
+      "fontId" : 20,
+      "text" : "the following activities occurs last: (1) execution of the mortgage or deed of trust; (2) receipt of the "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 594.827,
+      "rightX" : 520.6774,
+      "topY" : 583.827,
+      "baseLineY" : 592.3199,
+      "fontId" : 20,
+      "text" : "Closing Disclosure at least three business days prior to consummation; or (3) receipt of Form RD "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 607.4869,
+      "rightX" : 522.8384,
+      "topY" : 596.4869,
+      "baseLineY" : 604.9799,
+      "fontId" : 20,
+      "text" : "1940-43, Notice of Right to Cancel.  Loan funds cannot be disbursed until the three business days "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 620.1471,
+      "rightX" : 540.9037,
+      "topY" : 609.1471,
+      "baseLineY" : 617.64,
+      "fontId" : 20,
+      "text" : "have passed, unless a hardship exists and the applicant waives their right to cancel the loan in writing, "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 632.807,
+      "rightX" : 510.9087,
+      "topY" : 621.807,
+      "baseLineY" : 630.2999,
+      "fontId" : 20,
+      "text" : "as mentioned in Paragraph 8.6 F.2. Form RD 1940-43 is not used for subsequent loans made in "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 645.467,
+      "rightX" : 470.2044,
+      "topY" : 634.467,
+      "baseLineY" : 642.9599,
+      "fontId" : 20,
+      "text" : "conjunction with an assumption since the applicant does not have title to the property. "
+    }, {
+      "leftX" : 61.98,
+      "bottomY" : 674.8063,
+      "rightX" : 63.6,
+      "topY" : 668.8063,
+      "baseLineY" : 673.4388,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 299.34,
+      "bottomY" : 686.8191,
+      "rightX" : 315.1616,
+      "topY" : 676.8191,
+      "baseLineY" : 684.54,
+      "fontId" : 1,
+      "text" : "2-3 "
+    }, {
+      "leftX" : 71.9962,
+      "bottomY" : 698.4022,
+      "rightX" : 178.6491,
+      "topY" : 688.4022,
+      "baseLineY" : 696.1231,
+      "fontId" : 1,
+      "text" : "(01-23-03)  SPECIAL PN "
+    }, {
+      "leftX" : 71.9862,
+      "bottomY" : 710.1056,
+      "rightX" : 213.3784,
+      "topY" : 700.1056,
+      "baseLineY" : 707.8265,
+      "fontId" : 1,
+      "text" : "Revised (03-09-22)  SPECIAL PN "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 66,
+      "bottomY" : 77.2205,
+      "rightX" : 68.505,
+      "topY" : 67.2205,
+      "baseLineY" : 74.9414,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 76.4991,
+      "rightX" : 68.505,
+      "topY" : 66.4991,
+      "baseLineY" : 74.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 84.9591,
+      "rightX" : 120.045,
+      "topY" : 74.9591,
+      "baseLineY" : 82.68,
+      "fontId" : 1,
+      "text" : "HB-1-3550 "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 98.015,
+      "rightX" : 69,
+      "topY" : 86.015,
+      "baseLineY" : 95.28,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 116.4239,
+      "rightX" : 86.7197,
+      "topY" : 104.4239,
+      "baseLineY" : 113.58,
+      "fontId" : 5,
+      "text" : "2.6"
+    }, {
+      "leftX" : 86.7,
+      "bottomY" : 116.7309,
+      "rightX" : 90.0012,
+      "topY" : 104.7309,
+      "baseLineY" : 113.58,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 116.4239,
+      "rightX" : 244.5,
+      "topY" : 104.4239,
+      "baseLineY" : 113.58,
+      "fontId" : 5,
+      "text" : "NONPROGRAM LOANS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 140.195,
+      "rightX" : 505.6198,
+      "topY" : 128.195,
+      "baseLineY" : 137.46,
+      "fontId" : 8,
+      "text" : "Nonprogram loans are loans made on nonprogram terms to borrowers who are not "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 154.055,
+      "rightX" : 504.12,
+      "topY" : 142.055,
+      "baseLineY" : 151.32,
+      "fontId" : 8,
+      "text" : "program-eligible, and/or for properties that do not meet Agency standards and will not be "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 167.975,
+      "rightX" : 524.9363,
+      "topY" : 155.975,
+      "baseLineY" : 165.24,
+      "fontId" : 8,
+      "text" : "brought to Agency standards with the use of loan funds. The interest rate offered is somewhat "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 181.8949,
+      "rightX" : 521.9409,
+      "topY" : 169.8949,
+      "baseLineY" : 179.16,
+      "fontId" : 8,
+      "text" : "higher than for program-eligible borrowers, but is competitive in the marketplace. Borrowers "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 195.8149,
+      "rightX" : 520.9798,
+      "topY" : 183.8149,
+      "baseLineY" : 193.08,
+      "fontId" : 8,
+      "text" : "with nonprogram loans are not eligible for program benefits, such as payment subsidy, or for "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 209.7349,
+      "rightX" : 527.5199,
+      "topY" : 197.7349,
+      "baseLineY" : 206.9999,
+      "fontId" : 8,
+      "text" : "servicing actions, such as moratoriums. They also are exempt from occupancy restrictions and "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 223.6549,
+      "rightX" : 518.2198,
+      "topY" : 211.6549,
+      "baseLineY" : 220.9199,
+      "fontId" : 8,
+      "text" : "the requirement to refinance with private credit. Nonprogram loans are discussed in detail in "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 237.5749,
+      "rightX" : 520.2601,
+      "topY" : 225.5749,
+      "baseLineY" : 234.8399,
+      "fontId" : 8,
+      "text" : "Chapter 11. The circumstances in which the Field Office can originate nonprogram loans are "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 251.4349,
+      "rightX" : 156.3001,
+      "topY" : 239.4349,
+      "baseLineY" : 248.6999,
+      "fontId" : 8,
+      "text" : "discussed below. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 275.6639,
+      "rightX" : 119.4999,
+      "topY" : 263.6639,
+      "baseLineY" : 272.82,
+      "fontId" : 5,
+      "text" : "A."
+    }, {
+      "leftX" : 119.46,
+      "bottomY" : 275.9708,
+      "rightX" : 122.7612,
+      "topY" : 263.9708,
+      "baseLineY" : 272.82,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 275.6639,
+      "rightX" : 372.9,
+      "topY" : 263.6639,
+      "baseLineY" : 272.82,
+      "fontId" : 5,
+      "text" : "Facilitate Sale By an Existing Agency Borrower "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 299.435,
+      "rightX" : 525.5998,
+      "topY" : 287.435,
+      "baseLineY" : 296.7,
+      "fontId" : 8,
+      "text" : "When an existing Agency borrower wishes to sell a security property, the Agency will "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 313.355,
+      "rightX" : 521.2199,
+      "topY" : 301.355,
+      "baseLineY" : 310.62,
+      "fontId" : 8,
+      "text" : "assist the borrower by providing assistance to an eligible purchaser. If the purchaser does not "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 327.275,
+      "rightX" : 532.0198,
+      "topY" : 315.275,
+      "baseLineY" : 324.54,
+      "fontId" : 8,
+      "text" : "qualify for assistance under the Section 502 program, the loan may be assumed on nonprogram "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 341.195,
+      "rightX" : 493.4999,
+      "topY" : 329.195,
+      "baseLineY" : 338.4601,
+      "fontId" : 8,
+      "text" : "terms. Nonprogram purchasers acquiring a property from an Agency borrower are only "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 355.055,
+      "rightX" : 532.8599,
+      "topY" : 343.055,
+      "baseLineY" : 352.32,
+      "fontId" : 8,
+      "text" : "permitted to assume existing debt; new credit cannot be extended to them through a subsequent "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 368.975,
+      "rightX" : 98.64,
+      "topY" : 356.975,
+      "baseLineY" : 366.2401,
+      "fontId" : 8,
+      "text" : "loan. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 393.2639,
+      "rightX" : 118.8438,
+      "topY" : 381.2639,
+      "baseLineY" : 390.42,
+      "fontId" : 5,
+      "text" : "B."
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 393.5709,
+      "rightX" : 122.1012,
+      "topY" : 381.5709,
+      "baseLineY" : 390.42,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 393.2639,
+      "rightX" : 401.1,
+      "topY" : 381.2639,
+      "baseLineY" : 390.42,
+      "fontId" : 5,
+      "text" : "Facilitate Sale of Real Estate Owned (REO) Property "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 417.035,
+      "rightX" : 532.8599,
+      "topY" : 405.035,
+      "baseLineY" : 414.3,
+      "fontId" : 8,
+      "text" : "The Agency may offer credit for the purchase of REO property on nonprogram terms to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 430.895,
+      "rightX" : 515.16,
+      "topY" : 418.895,
+      "baseLineY" : 428.16,
+      "fontId" : 8,
+      "text" : "borrowers who are not program-eligible, and/or for properties that are not program-eligible. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 442.4991,
+      "rightX" : 68.505,
+      "topY" : 432.4991,
+      "baseLineY" : 440.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 454.0222,
+      "rightX" : 68.505,
+      "topY" : 444.0222,
+      "baseLineY" : 451.743,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 465.485,
+      "rightX" : 68.505,
+      "topY" : 455.485,
+      "baseLineY" : 463.2059,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 477.0081,
+      "rightX" : 68.505,
+      "topY" : 467.0081,
+      "baseLineY" : 474.7289,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 488.5311,
+      "rightX" : 68.505,
+      "topY" : 478.5311,
+      "baseLineY" : 486.2519,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 499.994,
+      "rightX" : 68.505,
+      "topY" : 489.994,
+      "baseLineY" : 497.7148,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 511.517,
+      "rightX" : 68.505,
+      "topY" : 501.517,
+      "baseLineY" : 509.2378,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 523.04,
+      "rightX" : 68.505,
+      "topY" : 513.04,
+      "baseLineY" : 520.7609,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 534.5029,
+      "rightX" : 68.505,
+      "topY" : 524.5029,
+      "baseLineY" : 532.2238,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 546.0258,
+      "rightX" : 68.505,
+      "topY" : 536.0258,
+      "baseLineY" : 543.7467,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 557.4887,
+      "rightX" : 68.505,
+      "topY" : 547.4887,
+      "baseLineY" : 555.2096,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 569.0117,
+      "rightX" : 68.505,
+      "topY" : 559.0117,
+      "baseLineY" : 566.7326,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 580.5348,
+      "rightX" : 68.505,
+      "topY" : 570.5348,
+      "baseLineY" : 578.2556,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 591.9976,
+      "rightX" : 68.505,
+      "topY" : 581.9976,
+      "baseLineY" : 589.7184,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 603.5206,
+      "rightX" : 68.505,
+      "topY" : 593.5206,
+      "baseLineY" : 601.2415,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 615.0436,
+      "rightX" : 68.505,
+      "topY" : 605.0436,
+      "baseLineY" : 612.7645,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 626.5064,
+      "rightX" : 68.505,
+      "topY" : 616.5064,
+      "baseLineY" : 624.2273,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 638.0294,
+      "rightX" : 68.505,
+      "topY" : 628.0294,
+      "baseLineY" : 635.7503,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 649.5525,
+      "rightX" : 68.505,
+      "topY" : 639.5525,
+      "baseLineY" : 647.2733,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 661.0153,
+      "rightX" : 68.505,
+      "topY" : 651.0153,
+      "baseLineY" : 658.7362,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 672.5384,
+      "rightX" : 68.505,
+      "topY" : 662.5384,
+      "baseLineY" : 670.2592,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 299.3358,
+      "bottomY" : 685.6745,
+      "rightX" : 315.1573,
+      "topY" : 675.6745,
+      "baseLineY" : 683.3954,
+      "fontId" : 1,
+      "text" : "2-4 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 66,
+      "bottomY" : 76.4991,
+      "rightX" : 68.505,
+      "topY" : 66.4991,
+      "baseLineY" : 74.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 494.16,
+      "bottomY" : 84.9591,
+      "rightX" : 542.205,
+      "topY" : 74.9591,
+      "baseLineY" : 82.68,
+      "fontId" : 1,
+      "text" : "HB-1-3550 "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 98.135,
+      "rightX" : 69,
+      "topY" : 86.135,
+      "baseLineY" : 95.4,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 132.18,
+      "bottomY" : 118.8179,
+      "rightX" : 480.6846,
+      "topY" : 104.8179,
+      "baseLineY" : 115.5,
+      "fontId" : 4,
+      "text" : "SECTION 2: THE DEDICATED LOAN ORIGINATION "
+    }, {
+      "leftX" : 211.6143,
+      "bottomY" : 135.2025,
+      "rightX" : 440.3551,
+      "topY" : 121.2025,
+      "baseLineY" : 131.8846,
+      "fontId" : 4,
+      "text" : "AND SERVICING SYSTEM (DLOS) "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 153.1949,
+      "rightX" : 69.87,
+      "topY" : 138.1949,
+      "baseLineY" : 149.64,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 167.0639,
+      "rightX" : 86.7197,
+      "topY" : 155.0639,
+      "baseLineY" : 164.22,
+      "fontId" : 5,
+      "text" : "2.7"
+    }, {
+      "leftX" : 86.7,
+      "bottomY" : 167.3708,
+      "rightX" : 90.0012,
+      "topY" : 155.3708,
+      "baseLineY" : 164.22,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 167.0639,
+      "rightX" : 143.64,
+      "topY" : 155.0639,
+      "baseLineY" : 164.22,
+      "fontId" : 5,
+      "text" : "DLOS "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 179.01,
+      "rightX" : 68.505,
+      "topY" : 169.01,
+      "baseLineY" : 176.64,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.815,
+      "rightX" : 509.5798,
+      "topY" : 180.815,
+      "baseLineY" : 190.08,
+      "fontId" : 8,
+      "text" : "DLOS is designed to expedite loan-making, standardize information collection and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 206.735,
+      "rightX" : 508.86,
+      "topY" : 194.735,
+      "baseLineY" : 204,
+      "fontId" : 8,
+      "text" : "record keeping, and facilitate communication between Field Offices and the Servicing and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 220.6549,
+      "rightX" : 511.9199,
+      "topY" : 208.6549,
+      "baseLineY" : 217.92,
+      "fontId" : 8,
+      "text" : "Asset Management Office (Servicing Office). DLOS tracks loans from application through "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 234.5749,
+      "rightX" : 390.84,
+      "topY" : 222.5749,
+      "baseLineY" : 231.84,
+      "fontId" : 8,
+      "text" : "servicing using two interconnected systems: UniFi and LoanServ. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 246.7191,
+      "rightX" : 68.625,
+      "topY" : 236.7191,
+      "baseLineY" : 244.44,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 260.7839,
+      "rightX" : 86.7197,
+      "topY" : 248.7839,
+      "baseLineY" : 257.94,
+      "fontId" : 5,
+      "text" : "2.8"
+    }, {
+      "leftX" : 86.7,
+      "bottomY" : 261.0908,
+      "rightX" : 90.0012,
+      "topY" : 249.0908,
+      "baseLineY" : 257.94,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 260.7839,
+      "rightX" : 144.96,
+      "topY" : 248.7839,
+      "baseLineY" : 257.94,
+      "fontId" : 5,
+      "text" : "UNIFI "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 272.7299,
+      "rightX" : 68.505,
+      "topY" : 262.7299,
+      "baseLineY" : 270.36,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 286.535,
+      "rightX" : 485.5197,
+      "topY" : 274.535,
+      "baseLineY" : 283.8,
+      "fontId" : 8,
+      "text" : "UniFi is a web-based application used for loan origination. It retains applicant "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 300.455,
+      "rightX" : 505.1336,
+      "topY" : 288.455,
+      "baseLineY" : 297.72,
+      "fontId" : 8,
+      "text" : "information, makes complex computations, and maintains a central record of all activities "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 314.375,
+      "rightX" : 539.8799,
+      "topY" : 302.375,
+      "baseLineY" : 311.64,
+      "fontId" : 8,
+      "text" : "associated with an individual application from the time of pre-qualification through loan closing. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 328.295,
+      "rightX" : 527.9409,
+      "topY" : 316.295,
+      "baseLineY" : 325.56,
+      "fontId" : 8,
+      "text" : "UniFi’s many data screens are linked so that once a piece of information is entered, UniFi will "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 342.215,
+      "rightX" : 326.88,
+      "topY" : 330.215,
+      "baseLineY" : 339.48,
+      "fontId" : 8,
+      "text" : "automatically transfer it to all pertinent data screens. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 354.2991,
+      "rightX" : 68.505,
+      "topY" : 344.2991,
+      "baseLineY" : 352.02,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 368.135,
+      "rightX" : 351.9,
+      "topY" : 356.135,
+      "baseLineY" : 365.4,
+      "fontId" : 8,
+      "text" : "A few of UniFi’s most important features include: "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 380.0391,
+      "rightX" : 68.625,
+      "topY" : 370.0391,
+      "baseLineY" : 377.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 394.3151,
+      "rightX" : 113.52,
+      "topY" : 382.3151,
+      "baseLineY" : 392.16,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 395.0171,
+      "rightX" : 116.856,
+      "topY" : 383.0171,
+      "baseLineY" : 392.16,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 394.895,
+      "rightX" : 526.2,
+      "topY" : 382.895,
+      "baseLineY" : 392.16,
+      "fontId" : 8,
+      "text" : "Its ability to create a waiting list to help the Loan Originator select applications for "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 408.815,
+      "rightX" : 273.336,
+      "topY" : 396.815,
+      "baseLineY" : 406.08,
+      "fontId" : 8,
+      "text" : "processing in the proper order;"
+    }, {
+      "leftX" : 273.3,
+      "bottomY" : 408.2351,
+      "rightX" : 276.3,
+      "topY" : 396.2351,
+      "baseLineY" : 406.08,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 420.7791,
+      "rightX" : 68.505,
+      "topY" : 410.7791,
+      "baseLineY" : 418.5,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 434.9351,
+      "rightX" : 113.52,
+      "topY" : 422.9351,
+      "baseLineY" : 432.78,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 435.6371,
+      "rightX" : 116.856,
+      "topY" : 423.6371,
+      "baseLineY" : 432.78,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 435.515,
+      "rightX" : 523.2586,
+      "topY" : 423.515,
+      "baseLineY" : 432.78,
+      "fontId" : 8,
+      "text" : "Screens that automatically calculate maximum loan amount and payment subsidy; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 449.435,
+      "rightX" : 143.34,
+      "topY" : 437.435,
+      "baseLineY" : 446.7,
+      "fontId" : 8,
+      "text" : "and"
+    }, {
+      "leftX" : 143.34,
+      "bottomY" : 448.8551,
+      "rightX" : 146.34,
+      "topY" : 436.8551,
+      "baseLineY" : 446.7,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 461.4591,
+      "rightX" : 68.505,
+      "topY" : 451.4591,
+      "baseLineY" : 459.18,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 475.5551,
+      "rightX" : 113.52,
+      "topY" : 463.5551,
+      "baseLineY" : 473.4,
+      "fontId" : 11,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 476.2571,
+      "rightX" : 116.856,
+      "topY" : 464.2571,
+      "baseLineY" : 473.4,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 125.94,
+      "bottomY" : 476.135,
+      "rightX" : 496.1999,
+      "topY" : 464.135,
+      "baseLineY" : 473.4,
+      "fontId" : 8,
+      "text" : "The ability to print out many loan approval and closing forms with borrower "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 490.055,
+      "rightX" : 226.6188,
+      "topY" : 478.055,
+      "baseLineY" : 487.32,
+      "fontId" : 8,
+      "text" : "information inserted."
+    }, {
+      "leftX" : 226.56,
+      "bottomY" : 489.4751,
+      "rightX" : 229.56,
+      "topY" : 477.4751,
+      "baseLineY" : 487.32,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 501.6591,
+      "rightX" : 68.505,
+      "topY" : 491.6591,
+      "baseLineY" : 499.38,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 513.1822,
+      "rightX" : 68.505,
+      "topY" : 503.1822,
+      "baseLineY" : 510.903,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 524.645,
+      "rightX" : 68.505,
+      "topY" : 514.645,
+      "baseLineY" : 522.3659,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 536.1681,
+      "rightX" : 68.505,
+      "topY" : 526.1681,
+      "baseLineY" : 533.8889,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 547.6911,
+      "rightX" : 68.505,
+      "topY" : 537.6911,
+      "baseLineY" : 545.4119,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 559.1539,
+      "rightX" : 68.505,
+      "topY" : 549.1539,
+      "baseLineY" : 556.8748,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 570.6769,
+      "rightX" : 68.505,
+      "topY" : 560.6769,
+      "baseLineY" : 568.3978,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 582.1398,
+      "rightX" : 68.505,
+      "topY" : 572.1398,
+      "baseLineY" : 579.8607,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 593.6628,
+      "rightX" : 68.505,
+      "topY" : 583.6628,
+      "baseLineY" : 591.3837,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 605.1858,
+      "rightX" : 68.505,
+      "topY" : 595.1858,
+      "baseLineY" : 602.9066,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 616.6486,
+      "rightX" : 68.505,
+      "topY" : 606.6486,
+      "baseLineY" : 614.3695,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 628.1717,
+      "rightX" : 68.505,
+      "topY" : 618.1717,
+      "baseLineY" : 625.8925,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 639.6947,
+      "rightX" : 68.505,
+      "topY" : 629.6947,
+      "baseLineY" : 637.4155,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 651.1576,
+      "rightX" : 68.505,
+      "topY" : 641.1576,
+      "baseLineY" : 648.8784,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 662.6805,
+      "rightX" : 68.505,
+      "topY" : 652.6805,
+      "baseLineY" : 660.4014,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 677.7229,
+      "rightX" : 69.255,
+      "topY" : 664.7229,
+      "baseLineY" : 674.76,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 299.34,
+      "bottomY" : 691.0191,
+      "rightX" : 315.1616,
+      "topY" : 681.0191,
+      "baseLineY" : 688.74,
+      "fontId" : 1,
+      "text" : "2-5 "
+    }, {
+      "leftX" : 71.9962,
+      "bottomY" : 702.5421,
+      "rightX" : 176.1241,
+      "topY" : 692.5421,
+      "baseLineY" : 700.263,
+      "fontId" : 1,
+      "text" : "(01-23-03) SPECIAL PN "
+    }, {
+      "leftX" : 71.9762,
+      "bottomY" : 714.2455,
+      "rightX" : 213.3684,
+      "topY" : 704.2455,
+      "baseLineY" : 711.9664,
+      "fontId" : 1,
+      "text" : "Revised (03-09-22)  SPECIAL PN "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 66,
+      "bottomY" : 77.2205,
+      "rightX" : 68.505,
+      "topY" : 67.2205,
+      "baseLineY" : 74.9414,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 76.4991,
+      "rightX" : 68.505,
+      "topY" : 66.4991,
+      "baseLineY" : 74.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 84.9591,
+      "rightX" : 120.045,
+      "topY" : 74.9591,
+      "baseLineY" : 82.68,
+      "fontId" : 1,
+      "text" : "HB-1-3550 "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 91.5475,
+      "rightX" : 67.62,
+      "topY" : 85.5475,
+      "baseLineY" : 90.18,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 110.124,
+      "rightX" : 86.7197,
+      "topY" : 98.124,
+      "baseLineY" : 107.28,
+      "fontId" : 5,
+      "text" : "2.9"
+    }, {
+      "leftX" : 86.7,
+      "bottomY" : 110.4309,
+      "rightX" : 90.0012,
+      "topY" : 98.4309,
+      "baseLineY" : 107.28,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 110.124,
+      "rightX" : 177.6,
+      "topY" : 98.124,
+      "baseLineY" : 107.28,
+      "fontId" : 5,
+      "text" : "LOANSERV "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 122.13,
+      "rightX" : 68.505,
+      "topY" : 112.13,
+      "baseLineY" : 119.76,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 135.875,
+      "rightX" : 537.5397,
+      "topY" : 123.875,
+      "baseLineY" : 133.14,
+      "fontId" : 8,
+      "text" : "LoanServ is a mainframe-based application that is used to service Agency loans and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 149.795,
+      "rightX" : 537.5397,
+      "topY" : 137.795,
+      "baseLineY" : 147.06,
+      "fontId" : 8,
+      "text" : "monitor loan performance. It is linked to UniFi so that information from UniFi can be uploaded "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 163.7149,
+      "rightX" : 198.96,
+      "topY" : 151.7149,
+      "baseLineY" : 160.98,
+      "fontId" : 8,
+      "text" : "into LoanServ each night. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 175.7992,
+      "rightX" : 68.505,
+      "topY" : 165.7992,
+      "baseLineY" : 173.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 189.635,
+      "rightX" : 525.2399,
+      "topY" : 177.635,
+      "baseLineY" : 186.9,
+      "fontId" : 8,
+      "text" : "Field Staff can access certain areas of LoanServ to gather information on a borrower’s "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 203.555,
+      "rightX" : 503.5198,
+      "topY" : 191.555,
+      "baseLineY" : 200.82,
+      "fontId" : 8,
+      "text" : "account, such as determining the amortized loan amount on construction loans. The Loan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 217.475,
+      "rightX" : 369.24,
+      "topY" : 205.475,
+      "baseLineY" : 214.74,
+      "fontId" : 8,
+      "text" : "Originator uses LoanServ to obligate funds and order checks. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 229.4991,
+      "rightX" : 68.505,
+      "topY" : 219.4991,
+      "baseLineY" : 227.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 243.3349,
+      "rightX" : 526.62,
+      "topY" : 231.3349,
+      "baseLineY" : 240.6,
+      "fontId" : 8,
+      "text" : "LoanServ is also a communications device to help the Servicing Office and Field Staff "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 257.2549,
+      "rightX" : 515.9399,
+      "topY" : 245.2549,
+      "baseLineY" : 254.52,
+      "fontId" : 8,
+      "text" : "keep abreast of each other’s’ activities. If the Servicing Office needs on-site assistance for a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 271.1749,
+      "rightX" : 498.8398,
+      "topY" : 259.1749,
+      "baseLineY" : 268.4399,
+      "fontId" : 8,
+      "text" : "servicing action, LoanServ can be used to communicate with Field Staff. For example, a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 285.0949,
+      "rightX" : 523.56,
+      "topY" : 273.0949,
+      "baseLineY" : 282.36,
+      "fontId" : 8,
+      "text" : "Servicer involved in working out an insurance claim with a borrower might use the LoanServ "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 299.0149,
+      "rightX" : 539.2798,
+      "topY" : 287.0149,
+      "baseLineY" : 296.28,
+      "fontId" : 8,
+      "text" : "work queue to ask Field Staff to visit the property to assess the repair work that has been done to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 312.9349,
+      "rightX" : 499.56,
+      "topY" : 300.9349,
+      "baseLineY" : 310.2,
+      "fontId" : 8,
+      "text" : "date.  Similarly, if a Loan Originator obtains information about a change in a borrower’s "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 326.855,
+      "rightX" : 535.6199,
+      "topY" : 314.855,
+      "baseLineY" : 324.12,
+      "fontId" : 8,
+      "text" : "employment status that has not been reported, LoanServ can be used to pass on that information "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 340.775,
+      "rightX" : 186.66,
+      "topY" : 328.775,
+      "baseLineY" : 338.04,
+      "fontId" : 8,
+      "text" : "to the Servicing Office. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 352.3191,
+      "rightX" : 68.505,
+      "topY" : 342.3191,
+      "baseLineY" : 350.04,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 363.8422,
+      "rightX" : 68.505,
+      "topY" : 353.8422,
+      "baseLineY" : 361.563,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 375.3652,
+      "rightX" : 68.505,
+      "topY" : 365.3652,
+      "baseLineY" : 373.086,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 386.8281,
+      "rightX" : 68.505,
+      "topY" : 376.8281,
+      "baseLineY" : 384.5489,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 398.3511,
+      "rightX" : 68.505,
+      "topY" : 388.3511,
+      "baseLineY" : 396.0719,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 409.814,
+      "rightX" : 68.505,
+      "topY" : 399.814,
+      "baseLineY" : 407.5348,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 421.337,
+      "rightX" : 68.505,
+      "topY" : 411.337,
+      "baseLineY" : 419.0578,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 432.86,
+      "rightX" : 68.505,
+      "topY" : 422.86,
+      "baseLineY" : 430.5808,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 444.3229,
+      "rightX" : 68.505,
+      "topY" : 434.3229,
+      "baseLineY" : 442.0437,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 455.8459,
+      "rightX" : 68.505,
+      "topY" : 445.8459,
+      "baseLineY" : 453.5667,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 467.3689,
+      "rightX" : 68.505,
+      "topY" : 457.3689,
+      "baseLineY" : 465.0898,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 478.8318,
+      "rightX" : 68.505,
+      "topY" : 468.8318,
+      "baseLineY" : 476.5526,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 490.3548,
+      "rightX" : 68.505,
+      "topY" : 480.3548,
+      "baseLineY" : 488.0757,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 501.8778,
+      "rightX" : 68.505,
+      "topY" : 491.8778,
+      "baseLineY" : 499.5987,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 513.3407,
+      "rightX" : 68.505,
+      "topY" : 503.3407,
+      "baseLineY" : 511.0616,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 524.8637,
+      "rightX" : 68.505,
+      "topY" : 514.8637,
+      "baseLineY" : 522.5846,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 536.3867,
+      "rightX" : 68.505,
+      "topY" : 526.3867,
+      "baseLineY" : 534.1075,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 547.8496,
+      "rightX" : 68.505,
+      "topY" : 537.8496,
+      "baseLineY" : 545.5704,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 559.3726,
+      "rightX" : 68.505,
+      "topY" : 549.3726,
+      "baseLineY" : 557.0934,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 570.8956,
+      "rightX" : 68.505,
+      "topY" : 560.8956,
+      "baseLineY" : 568.6165,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 582.3585,
+      "rightX" : 68.505,
+      "topY" : 572.3585,
+      "baseLineY" : 580.0793,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 593.8814,
+      "rightX" : 68.505,
+      "topY" : 583.8814,
+      "baseLineY" : 591.6023,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 605.4044,
+      "rightX" : 68.505,
+      "topY" : 595.4044,
+      "baseLineY" : 603.1253,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 616.8673,
+      "rightX" : 68.505,
+      "topY" : 606.8673,
+      "baseLineY" : 614.5882,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 628.3903,
+      "rightX" : 68.505,
+      "topY" : 618.3903,
+      "baseLineY" : 626.1112,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 639.8532,
+      "rightX" : 68.505,
+      "topY" : 629.8532,
+      "baseLineY" : 637.574,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 651.3762,
+      "rightX" : 68.505,
+      "topY" : 641.3762,
+      "baseLineY" : 649.097,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 666.1549,
+      "rightX" : 69.12,
+      "topY" : 654.1549,
+      "baseLineY" : 663.42,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 299.34,
+      "bottomY" : 679.6792,
+      "rightX" : 315.1616,
+      "topY" : 669.6792,
+      "baseLineY" : 677.4,
+      "fontId" : 1,
+      "text" : "2-6 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 66,
+      "bottomY" : 76.4991,
+      "rightX" : 68.505,
+      "topY" : 66.4991,
+      "baseLineY" : 74.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 494.16,
+      "bottomY" : 84.9591,
+      "rightX" : 542.205,
+      "topY" : 74.9591,
+      "baseLineY" : 82.68,
+      "fontId" : 1,
+      "text" : "HB-1-3550 "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 95.6391,
+      "rightX" : 68.505,
+      "topY" : 85.6391,
+      "baseLineY" : 93.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 105.54,
+      "bottomY" : 124.8179,
+      "rightX" : 507.3112,
+      "topY" : 110.8179,
+      "baseLineY" : 121.5,
+      "fontId" : 4,
+      "text" : "SECTION 3: OVERVIEW OF LOAN ORIGINATION PROCESS "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 142.8749,
+      "rightX" : 69.87,
+      "topY" : 127.8749,
+      "baseLineY" : 139.32,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 156.744,
+      "rightX" : 92.6068,
+      "topY" : 144.744,
+      "baseLineY" : 153.9,
+      "fontId" : 5,
+      "text" : "2.10"
+    }, {
+      "leftX" : 92.58,
+      "bottomY" : 157.0509,
+      "rightX" : 95.8812,
+      "topY" : 145.0509,
+      "baseLineY" : 153.9,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 156.744,
+      "rightX" : 337.02,
+      "topY" : 144.744,
+      "baseLineY" : 153.9,
+      "fontId" : 5,
+      "text" : "APPLICATION PROCESSING (Chapter 3) "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 168.6899,
+      "rightX" : 68.505,
+      "topY" : 158.6899,
+      "baseLineY" : 166.32,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 182.435,
+      "rightX" : 236.3388,
+      "topY" : 170.435,
+      "baseLineY" : 179.7,
+      "fontId" : 8,
+      "text" : "When potential applicants "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 196.355,
+      "rightX" : 239.34,
+      "topY" : 184.355,
+      "baseLineY" : 193.62,
+      "fontId" : 8,
+      "text" : "express interest in the Section 502 "
+    }, {
+      "leftX" : 375.06,
+      "bottomY" : 198.0269,
+      "rightX" : 455.745,
+      "topY" : 187.0269,
+      "baseLineY" : 195.42,
+      "fontId" : 17,
+      "text" : "Processing Steps "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 210.2749,
+      "rightX" : 262.9213,
+      "topY" : 198.2749,
+      "baseLineY" : 207.54,
+      "fontId" : 8,
+      "text" : "program, the standard pre-qualification "
+    }, {
+      "leftX" : 284.76,
+      "bottomY" : 209.9391,
+      "rightX" : 287.265,
+      "topY" : 199.9391,
+      "baseLineY" : 207.66,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 224.1949,
+      "rightX" : 261.6361,
+      "topY" : 212.1949,
+      "baseLineY" : 221.46,
+      "fontId" : 8,
+      "text" : "method is the potential applicant’s self-"
+    }, {
+      "leftX" : 287.94,
+      "bottomY" : 222.5871,
+      "rightX" : 532.6317,
+      "topY" : 211.5871,
+      "baseLineY" : 220.08,
+      "fontId" : 20,
+      "text" : "This section outlines the steps involved in processing a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 238.0549,
+      "rightX" : 175.08,
+      "topY" : 226.0549,
+      "baseLineY" : 235.3199,
+      "fontId" : 8,
+      "text" : "assessment using the "
+    }, {
+      "leftX" : 175.08,
+      "bottomY" : 238.055,
+      "rightX" : 245.7,
+      "topY" : 226.055,
+      "baseLineY" : 235.32,
+      "fontId" : 21,
+      "text" : "Single Family "
+    }, {
+      "leftX" : 287.94,
+      "bottomY" : 235.247,
+      "rightX" : 533.2344,
+      "topY" : 224.247,
+      "baseLineY" : 232.7399,
+      "fontId" : 20,
+      "text" : "Section 502 loan. It is intended to provide a conceptual "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 251.975,
+      "rightX" : 250.2959,
+      "topY" : 239.975,
+      "baseLineY" : 249.24,
+      "fontId" : 21,
+      "text" : "Housing Direct Self-Assessment tool"
+    }, {
+      "leftX" : 250.26,
+      "bottomY" : 251.975,
+      "rightX" : 256.26,
+      "topY" : 239.975,
+      "baseLineY" : 249.24,
+      "fontId" : 8,
+      "text" : ". "
+    }, {
+      "leftX" : 287.94,
+      "bottomY" : 247.9069,
+      "rightX" : 513.959,
+      "topY" : 236.9069,
+      "baseLineY" : 245.3998,
+      "fontId" : 20,
+      "text" : "overview of the process. The detail needed to fully "
+    }, {
+      "leftX" : 287.94,
+      "bottomY" : 260.5668,
+      "rightX" : 521.6464,
+      "topY" : 249.5668,
+      "baseLineY" : 258.0598,
+      "fontId" : 20,
+      "text" : "understand each step follows in later chapters of this "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 265.8949,
+      "rightX" : 242.34,
+      "topY" : 253.8949,
+      "baseLineY" : 263.16,
+      "fontId" : 8,
+      "text" : "Agency staff should refer potential "
+    }, {
+      "leftX" : 287.94,
+      "bottomY" : 273.2267,
+      "rightX" : 336.823,
+      "topY" : 262.2267,
+      "baseLineY" : 270.7197,
+      "fontId" : 20,
+      "text" : "handbook. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 279.8149,
+      "rightX" : 264.3,
+      "topY" : 267.8149,
+      "baseLineY" : 277.08,
+      "fontId" : 8,
+      "text" : "applicants to the tool in their marketing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 293.7349,
+      "rightX" : 262.6201,
+      "topY" : 281.7349,
+      "baseLineY" : 291,
+      "fontId" : 8,
+      "text" : "materials, while speaking to them, etc.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 307.655,
+      "rightX" : 541.44,
+      "topY" : 295.655,
+      "baseLineY" : 304.92,
+      "fontId" : 8,
+      "text" : "Pre-qualifications completed by the Agency staff are limited. The potential applicant may "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 321.575,
+      "rightX" : 421.56,
+      "topY" : 309.575,
+      "baseLineY" : 318.84,
+      "fontId" : 8,
+      "text" : "submit an application regardless of the outcome of the pre-qualification. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 333.6591,
+      "rightX" : 68.625,
+      "topY" : 323.6591,
+      "baseLineY" : 331.38,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 102,
+      "bottomY" : 347.615,
+      "rightX" : 537.2349,
+      "topY" : 335.615,
+      "baseLineY" : 344.88,
+      "fontId" : 8,
+      "text" : "When an applicant submits a complete application, the application should be reviewed for "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 361.535,
+      "rightX" : 510.0009,
+      "topY" : 349.535,
+      "baseLineY" : 358.8,
+      "fontId" : 8,
+      "text" : "eligibility within 30 days, using guidance outlined in Chapter 4. The Loan Originator must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 375.455,
+      "rightX" : 534.5997,
+      "topY" : 363.455,
+      "baseLineY" : 372.72,
+      "fontId" : 8,
+      "text" : "select applications for processing based on each applicant’s priority and the date the application "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 389.315,
+      "rightX" : 529.5596,
+      "topY" : 377.315,
+      "baseLineY" : 386.58,
+      "fontId" : 8,
+      "text" : "was determined complete. If the applicant is not eligible, the Loan Approval Official will deny "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 403.235,
+      "rightX" : 515.8796,
+      "topY" : 391.235,
+      "baseLineY" : 400.5,
+      "fontId" : 8,
+      "text" : "the application. If the applicant is determined eligible, the Loan Originator will determine if "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 417.155,
+      "rightX" : 506.2197,
+      "topY" : 405.155,
+      "baseLineY" : 414.42,
+      "fontId" : 8,
+      "text" : "funding is available, using guidance outlined in Chapter 4, prior to issuing a Certificate of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 431.075,
+      "rightX" : 529.3184,
+      "topY" : 419.075,
+      "baseLineY" : 428.3401,
+      "fontId" : 8,
+      "text" : "Eligibility.  If funding is not available, eligible applicants will be placed on the waiting list. As "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 444.995,
+      "rightX" : 510.8399,
+      "topY" : 432.995,
+      "baseLineY" : 442.2601,
+      "fontId" : 8,
+      "text" : "funds become available, applicants on the waiting list must be processed in the appropriate "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 458.9151,
+      "rightX" : 320.58,
+      "topY" : 446.9151,
+      "baseLineY" : 456.1801,
+      "fontId" : 8,
+      "text" : "order, based on priority status and application date. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 473.195,
+      "rightX" : 69,
+      "topY" : 461.195,
+      "baseLineY" : 470.4601,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 487.1039,
+      "rightX" : 92.6068,
+      "topY" : 475.1039,
+      "baseLineY" : 484.26,
+      "fontId" : 5,
+      "text" : "2.11"
+    }, {
+      "leftX" : 92.58,
+      "bottomY" : 487.4108,
+      "rightX" : 95.8812,
+      "topY" : 475.4108,
+      "baseLineY" : 484.26,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 487.1039,
+      "rightX" : 324.48,
+      "topY" : 475.1039,
+      "baseLineY" : 484.26,
+      "fontId" : 5,
+      "text" : "BORROWER ELIGIBILITY (Chapter 4) "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 499.0499,
+      "rightX" : 68.505,
+      "topY" : 489.0499,
+      "baseLineY" : 496.68,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 512.855,
+      "rightX" : 495.6,
+      "topY" : 500.855,
+      "baseLineY" : 510.12,
+      "fontId" : 8,
+      "text" : "Once the application has been selected for processing, the Loan Originator must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 526.7149,
+      "rightX" : 530.2198,
+      "topY" : 514.7149,
+      "baseLineY" : 523.98,
+      "fontId" : 8,
+      "text" : "determine the applicant’s eligibility. This involves verifying the household’s income, checking "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 540.6349,
+      "rightX" : 536.4597,
+      "topY" : 528.6349,
+      "baseLineY" : 537.9,
+      "fontId" : 8,
+      "text" : "the credit history of all parties to the note, and reviewing all other eligibility requirements. Once "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 554.5549,
+      "rightX" : 483.5398,
+      "topY" : 542.5549,
+      "baseLineY" : 551.8199,
+      "fontId" : 8,
+      "text" : "the applicant’s eligibility has been verified, the Loan Originator uses verified income "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 568.475,
+      "rightX" : 521.9398,
+      "topY" : 556.475,
+      "baseLineY" : 565.74,
+      "fontId" : 8,
+      "text" : "information to determine the amount of payment subsidy the household is entitled to, and the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 582.3949,
+      "rightX" : 362.58,
+      "topY" : 570.3949,
+      "baseLineY" : 579.66,
+      "fontId" : 8,
+      "text" : "maximum loan amount the applicant will be able to receive. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 594.5391,
+      "rightX" : 68.505,
+      "topY" : 584.5391,
+      "baseLineY" : 592.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 608.375,
+      "rightX" : 532.2599,
+      "topY" : 596.375,
+      "baseLineY" : 605.64,
+      "fontId" : 8,
+      "text" : "Based on this information, the Loan Originator counsels the applicant about the level of "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 622.295,
+      "rightX" : 528.2997,
+      "topY" : 610.295,
+      "baseLineY" : 619.56,
+      "fontId" : 8,
+      "text" : "mortgage debt the household can afford, and issues a Certificate of Eligibility, which is signed "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 636.1549,
+      "rightX" : 523.7963,
+      "topY" : 624.1549,
+      "baseLineY" : 633.42,
+      "fontId" : 8,
+      "text" : "by the Loan Approval Official. The household then attempts to locate a home. In cases where "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 650.0749,
+      "rightX" : 510.5997,
+      "topY" : 638.0749,
+      "baseLineY" : 647.34,
+      "fontId" : 8,
+      "text" : "the applicant has already submitted a contract for a property, no Certificate of Eligibility is "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 663.995,
+      "rightX" : 111.96,
+      "topY" : 651.995,
+      "baseLineY" : 661.26,
+      "fontId" : 8,
+      "text" : "needed. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 675.5991,
+      "rightX" : 68.505,
+      "topY" : 665.5991,
+      "baseLineY" : 673.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 685.2233,
+      "rightX" : 67.995,
+      "topY" : 677.2233,
+      "baseLineY" : 683.4,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 299.34,
+      "bottomY" : 698.6991,
+      "rightX" : 315.1616,
+      "topY" : 688.6991,
+      "baseLineY" : 696.42,
+      "fontId" : 1,
+      "text" : "2-7 "
+    }, {
+      "leftX" : 71.9962,
+      "bottomY" : 710.2823,
+      "rightX" : 178.6491,
+      "topY" : 700.2823,
+      "baseLineY" : 708.0031,
+      "fontId" : 1,
+      "text" : "(01-23-03)  SPECIAL PN "
+    }, {
+      "leftX" : 71.9862,
+      "bottomY" : 721.9856,
+      "rightX" : 213.3784,
+      "topY" : 711.9856,
+      "baseLineY" : 719.7065,
+      "fontId" : 1,
+      "text" : "Revised (03-09-22)  SPECIAL PN "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 66,
+      "bottomY" : 76.4991,
+      "rightX" : 68.505,
+      "topY" : 66.4991,
+      "baseLineY" : 74.22,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 77.2205,
+      "rightX" : 68.505,
+      "topY" : 67.2205,
+      "baseLineY" : 74.9414,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 84.9591,
+      "rightX" : 120.045,
+      "topY" : 74.9591,
+      "baseLineY" : 82.68,
+      "fontId" : 1,
+      "text" : "HB-1-3550 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 104.4239,
+      "rightX" : 92.6068,
+      "topY" : 92.4239,
+      "baseLineY" : 101.58,
+      "fontId" : 5,
+      "text" : "2.12"
+    }, {
+      "leftX" : 92.58,
+      "bottomY" : 104.7309,
+      "rightX" : 95.8812,
+      "topY" : 92.7309,
+      "baseLineY" : 101.58,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 104.4239,
+      "rightX" : 339.78,
+      "topY" : 92.4239,
+      "baseLineY" : 101.58,
+      "fontId" : 5,
+      "text" : "PROPERTY REQUIREMENTS (Chapter 5) "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 124.175,
+      "rightX" : 514.2598,
+      "topY" : 112.175,
+      "baseLineY" : 121.44,
+      "fontId" : 8,
+      "text" : "Once the household has located a home or decided on the design of a dwelling to be "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 138.095,
+      "rightX" : 506.5798,
+      "topY" : 126.095,
+      "baseLineY" : 135.36,
+      "fontId" : 8,
+      "text" : "constructed, they must provide key information to allow the Loan Originator to determine "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 151.9549,
+      "rightX" : 529.2,
+      "topY" : 139.9549,
+      "baseLineY" : 149.22,
+      "fontId" : 8,
+      "text" : "whether the property is modest and meets the Agency’s underwriting guidelines. This includes "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 165.8749,
+      "rightX" : 514.4998,
+      "topY" : 153.8749,
+      "baseLineY" : 163.14,
+      "fontId" : 8,
+      "text" : "the information needed to conduct an appraisal, to conduct an environmental review, and to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 179.7949,
+      "rightX" : 541.44,
+      "topY" : 167.7949,
+      "baseLineY" : 177.0599,
+      "fontId" : 8,
+      "text" : "verify that the site and dwelling meet, or will be constructed to meet, all applicable requirements. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 191.9991,
+      "rightX" : 68.625,
+      "topY" : 181.9991,
+      "baseLineY" : 189.72,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 206.0639,
+      "rightX" : 92.6068,
+      "topY" : 194.0639,
+      "baseLineY" : 203.22,
+      "fontId" : 5,
+      "text" : "2.13"
+    }, {
+      "leftX" : 92.58,
+      "bottomY" : 206.3708,
+      "rightX" : 95.8812,
+      "topY" : 194.3708,
+      "baseLineY" : 203.22,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 110.94,
+      "bottomY" : 206.0639,
+      "rightX" : 339.78,
+      "topY" : 194.0639,
+      "baseLineY" : 203.22,
+      "fontId" : 5,
+      "text" : "UNDERWRITING THE LOAN (Chapter 6) "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 218.07,
+      "rightX" : 68.505,
+      "topY" : 208.07,
+      "baseLineY" : 215.7,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 111.06,
+      "bottomY" : 231.815,
+      "rightX" : 537.2999,
+      "topY" : 219.815,
+      "baseLineY" : 229.08,
+      "fontId" : 8,
+      "text" : "If the applicant and the property meet the Agency’s standards, the Loan Originator must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 245.735,
+      "rightX" : 489.8999,
+      "topY" : 233.735,
+      "baseLineY" : 243,
+      "fontId" : 8,
+      "text" : "determine the loan amount needed and whether it can be supported by the household’s "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 259.595,
+      "rightX" : 515.8809,
+      "topY" : 247.595,
+      "baseLineY" : 256.86,
+      "fontId" : 8,
+      "text" : "repayment ability.  In order to determine repayment ability the Loan Originator must have a "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 273.5149,
+      "rightX" : 498.5349,
+      "topY" : 261.5149,
+      "baseLineY" : 270.78,
+      "fontId" : 8,
+      "text" : "good estimate of the impact that escrow payments for taxes, flood insurance, and hazard "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 287.4349,
+      "rightX" : 539.2798,
+      "topY" : 275.4349,
+      "baseLineY" : 284.7,
+      "fontId" : 8,
+      "text" : "insurance will have on the household. Repayment ability also is affected by the payment subsidy "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 301.355,
+      "rightX" : 455.76,
+      "topY" : 289.355,
+      "baseLineY" : 298.62,
+      "fontId" : 8,
+      "text" : "the household is entitled to, which is based on the household’s adjusted income "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 313.5591,
+      "rightX" : 68.625,
+      "topY" : 303.5591,
+      "baseLineY" : 311.28,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 327.6239,
+      "rightX" : 92.6068,
+      "topY" : 315.6239,
+      "baseLineY" : 324.78,
+      "fontId" : 5,
+      "text" : "2.14"
+    }, {
+      "leftX" : 92.58,
+      "bottomY" : 327.9308,
+      "rightX" : 95.8812,
+      "topY" : 315.9308,
+      "baseLineY" : 324.78,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 327.6239,
+      "rightX" : 377.46,
+      "topY" : 315.6239,
+      "baseLineY" : 324.78,
+      "fontId" : 5,
+      "text" : "TAXES, INSURANCE, AND ESCROW (Chapter 7) "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 339.63,
+      "rightX" : 68.505,
+      "topY" : 329.63,
+      "baseLineY" : 337.26,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 353.375,
+      "rightX" : 506.8199,
+      "topY" : 341.375,
+      "baseLineY" : 350.64,
+      "fontId" : 8,
+      "text" : "To ensure that funds are available to pay for the cost of real estate taxes, insurance "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 367.235,
+      "rightX" : 531.1798,
+      "topY" : 355.235,
+      "baseLineY" : 364.5,
+      "fontId" : 8,
+      "text" : "premiums, and other assessments, the Loan Originator must have a good understanding of how "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 381.155,
+      "rightX" : 538.1398,
+      "topY" : 369.155,
+      "baseLineY" : 378.42,
+      "fontId" : 8,
+      "text" : "to set up a good escrow account. Before closing the loan, the Loan Originator must work closely "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 395.075,
+      "rightX" : 482.76,
+      "topY" : 383.075,
+      "baseLineY" : 392.34,
+      "fontId" : 8,
+      "text" : "with the closing agent to get accurate figures to use in establishing escrow payments. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 407.2191,
+      "rightX" : 68.625,
+      "topY" : 397.2191,
+      "baseLineY" : 404.94,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 421.3439,
+      "rightX" : 92.6068,
+      "topY" : 409.3439,
+      "baseLineY" : 418.5,
+      "fontId" : 5,
+      "text" : "2.15"
+    }, {
+      "leftX" : 92.58,
+      "bottomY" : 421.6508,
+      "rightX" : 95.8812,
+      "topY" : 409.6508,
+      "baseLineY" : 418.5,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 421.3439,
+      "rightX" : 363.66,
+      "topY" : 409.3439,
+      "baseLineY" : 418.5,
+      "fontId" : 5,
+      "text" : "LOAN APPROVAL AND CLOSING (Chapter 8) "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 433.35,
+      "rightX" : 68.505,
+      "topY" : 423.35,
+      "baseLineY" : 430.98,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 447.095,
+      "rightX" : 539.4573,
+      "topY" : 435.095,
+      "baseLineY" : 444.36,
+      "fontId" : 8,
+      "text" : "The Loan Approval Official reviews the case file and determines whether the loan can be "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 461.015,
+      "rightX" : 522.84,
+      "topY" : 449.015,
+      "baseLineY" : 458.28,
+      "fontId" : 8,
+      "text" : "approved. If the loan is approved, the Loan Originator notifies the applicant and obligates the "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 474.875,
+      "rightX" : 104.58,
+      "topY" : 462.875,
+      "baseLineY" : 472.14,
+      "fontId" : 8,
+      "text" : "funds. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 480.3116,
+      "rightX" : 67.125,
+      "topY" : 476.3116,
+      "baseLineY" : 479.4,
+      "fontId" : 22,
+      "text" : " "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 498.815,
+      "rightX" : 487.2598,
+      "topY" : 486.815,
+      "baseLineY" : 496.08,
+      "fontId" : 8,
+      "text" : "The applicant then selects a closing agent. The closing agent is responsible for "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 512.735,
+      "rightX" : 517.1398,
+      "topY" : 500.735,
+      "baseLineY" : 510,
+      "fontId" : 8,
+      "text" : "conducting the preliminary title clearance and for ensuring that the property conforms to the "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 526.655,
+      "rightX" : 536.4598,
+      "topY" : 514.655,
+      "baseLineY" : 523.92,
+      "fontId" : 8,
+      "text" : "Agency’s security requirements. The Loan Originator and closing agent work together to ensure "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 540.575,
+      "rightX" : 530.8198,
+      "topY" : 528.575,
+      "baseLineY" : 537.84,
+      "fontId" : 8,
+      "text" : "that all required closing documents are prepared for signature at closing and that Agency funds "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 554.495,
+      "rightX" : 530.2199,
+      "topY" : 542.495,
+      "baseLineY" : 551.76,
+      "fontId" : 8,
+      "text" : "arrive before the date of closing. The Loan Originator activates the loan in LoanServ after loan "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 568.415,
+      "rightX" : 457.44,
+      "topY" : 556.415,
+      "baseLineY" : 565.68,
+      "fontId" : 8,
+      "text" : "closing and prepares a loan docket to send to the Servicing Office for servicing. "
+    }, {
+      "leftX" : 107.94,
+      "bottomY" : 592.355,
+      "rightX" : 535.2,
+      "topY" : 580.355,
+      "baseLineY" : 589.62,
+      "fontId" : 8,
+      "text" : "When a new home is to be built or rehabilitation on an existing dwelling is involved, the "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 606.2149,
+      "rightX" : 492.2398,
+      "topY" : 594.2149,
+      "baseLineY" : 603.48,
+      "fontId" : 8,
+      "text" : "Loan Originator also oversees the progress of construction. This involves ensuring that "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 620.135,
+      "rightX" : 494.162,
+      "topY" : 608.135,
+      "baseLineY" : 617.4,
+      "fontId" : 8,
+      "text" : "inspections are performed at appropriate points in the process, that mitigation measures "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 634.055,
+      "rightX" : 522.84,
+      "topY" : 622.055,
+      "baseLineY" : 631.32,
+      "fontId" : 8,
+      "text" : "established as part of any environmental review are properly implemented, and that funds are "
+    }, {
+      "leftX" : 71.94,
+      "bottomY" : 647.975,
+      "rightX" : 285.84,
+      "topY" : 635.975,
+      "baseLineY" : 645.24,
+      "fontId" : 8,
+      "text" : "disbursed appropriately to pay for the work. "
+    }, {
+      "leftX" : 66,
+      "bottomY" : 657.0354,
+      "rightX" : 67.875,
+      "topY" : 650.0354,
+      "baseLineY" : 655.44,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 299.34,
+      "bottomY" : 670.4392,
+      "rightX" : 315.1616,
+      "topY" : 660.4392,
+      "baseLineY" : 668.16,
+      "fontId" : 1,
+      "text" : "2-8 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 7.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 15.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 13.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 15.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 6.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 15,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 16,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 17,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 18,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 19,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 20,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 21,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 22,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 4.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

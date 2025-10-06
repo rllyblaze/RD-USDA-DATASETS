@@ -1,0 +1,4058 @@
+{
+  "pdfDoc" : "3555-1chapter08.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 84.7671,
+      "rightX" : 124.8467,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 186.3567,
+      "bottomY" : 84.7671,
+      "rightX" : 189.1017,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 305.9948,
+      "bottomY" : 84.7671,
+      "rightX" : 308.7398,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 475.493,
+      "bottomY" : 84.7671,
+      "rightX" : 478.238,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 539.9896,
+      "bottomY" : 84.7671,
+      "rightX" : 542.7346,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 151.8,
+      "bottomY" : 101.4779,
+      "rightX" : 463.6938,
+      "topY" : 87.4779,
+      "baseLineY" : 98.16,
+      "fontId" : 2,
+      "text" : "CHAPTER 8: APPLICANT CHARACTERISTICS "
+    }, {
+      "leftX" : 258.3556,
+      "bottomY" : 118.212,
+      "rightX" : 357.1243,
+      "topY" : 104.212,
+      "baseLineY" : 114.894,
+      "fontId" : 2,
+      "text" : "7 CFR 3555.151 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 132.804,
+      "rightX" : 75,
+      "topY" : 120.804,
+      "baseLineY" : 129.96,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 146.6039,
+      "rightX" : 87,
+      "topY" : 134.6039,
+      "baseLineY" : 143.76,
+      "fontId" : 3,
+      "text" : "8.1"
+    }, {
+      "leftX" : 87,
+      "bottomY" : 146.9108,
+      "rightX" : 90.336,
+      "topY" : 134.9108,
+      "baseLineY" : 143.76,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 146.6039,
+      "rightX" : 207,
+      "topY" : 134.6039,
+      "baseLineY" : 143.76,
+      "fontId" : 3,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 160.4039,
+      "rightX" : 75,
+      "topY" : 148.4039,
+      "baseLineY" : 157.56,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 174.095,
+      "rightX" : 510.8986,
+      "topY" : 162.095,
+      "baseLineY" : 171.36,
+      "fontId" : 5,
+      "text" : "Applicants seeking the assistance of a Single Family Housing Guaranteed Loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 188.0149,
+      "rightX" : 524.9937,
+      "topY" : 176.0149,
+      "baseLineY" : 185.28,
+      "fontId" : 5,
+      "text" : "Program (SFHGLP) loan must meet the minimum applicant characteristics outlined in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 201.9349,
+      "rightX" : 542.5197,
+      "topY" : 189.9349,
+      "baseLineY" : 199.2,
+      "fontId" : 5,
+      "text" : "this chapter. Lenders must determine that the criteria have been met prior to analyzing the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 215.8549,
+      "rightX" : 354.9,
+      "topY" : 203.8549,
+      "baseLineY" : 213.1199,
+      "fontId" : 5,
+      "text" : "applicants’ income, credit, and ratio qualifications. "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 229.9549,
+      "rightX" : 74.9999,
+      "topY" : 217.9549,
+      "baseLineY" : 227.2199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 243.9238,
+      "rightX" : 86.9999,
+      "topY" : 231.9238,
+      "baseLineY" : 241.0799,
+      "fontId" : 3,
+      "text" : "8.2"
+    }, {
+      "leftX" : 86.9999,
+      "bottomY" : 244.2307,
+      "rightX" : 90.3359,
+      "topY" : 232.2307,
+      "baseLineY" : 241.0799,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 243.9238,
+      "rightX" : 362.22,
+      "topY" : 231.9238,
+      "baseLineY" : 241.0799,
+      "fontId" : 3,
+      "text" : "APPLICANT ELIGIBILITY REQUIREMENTS "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 257.7238,
+      "rightX" : 75,
+      "topY" : 245.7238,
+      "baseLineY" : 254.8799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 271.4148,
+      "rightX" : 519.4796,
+      "topY" : 259.4148,
+      "baseLineY" : 268.6799,
+      "fontId" : 5,
+      "text" : "The lender must confirm the applicants meet the criteria for obtaining a SFHGLP "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 285.2748,
+      "rightX" : 408.18,
+      "topY" : 273.2748,
+      "baseLineY" : 282.5399,
+      "fontId" : 5,
+      "text" : "guarantee prior to full analysis of the applicants’ loan request. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 299.3748,
+      "rightX" : 75,
+      "topY" : 287.3748,
+      "baseLineY" : 296.6399,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 313.3439,
+      "rightX" : 119.4999,
+      "topY" : 301.3439,
+      "baseLineY" : 310.5,
+      "fontId" : 3,
+      "text" : "A."
+    }, {
+      "leftX" : 119.46,
+      "bottomY" : 313.6508,
+      "rightX" : 122.7612,
+      "topY" : 301.6508,
+      "baseLineY" : 310.5,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 313.3439,
+      "rightX" : 335.94,
+      "topY" : 301.3439,
+      "baseLineY" : 310.5,
+      "fontId" : 3,
+      "text" : "Owning a Dwelling [7 CFR 3555.151 (e)] "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 327.1439,
+      "rightX" : 75,
+      "topY" : 315.1439,
+      "baseLineY" : 324.3,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 340.8349,
+      "rightX" : 535.68,
+      "topY" : 328.8349,
+      "baseLineY" : 338.1,
+      "fontId" : 5,
+      "text" : "Applicants who own an additional dwelling to which they will retain ownership may "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 354.6949,
+      "rightX" : 540.2999,
+      "topY" : 342.6949,
+      "baseLineY" : 351.96,
+      "fontId" : 5,
+      "text" : "be eligible for a guaranteed loan. It is not the intent of the SFHGLP to assist applicants in "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 368.6149,
+      "rightX" : 523.9198,
+      "topY" : 356.6149,
+      "baseLineY" : 365.88,
+      "fontId" : 5,
+      "text" : "building an investment portfolio. The loan applicants are limited to owning one single "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 382.535,
+      "rightX" : 466.4999,
+      "topY" : 370.535,
+      "baseLineY" : 379.8,
+      "fontId" : 5,
+      "text" : "family housing unit, other than the house associated with the loan request. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 396.455,
+      "rightX" : 128.9999,
+      "topY" : 384.455,
+      "baseLineY" : 393.72,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 408.755,
+      "rightX" : 329.2198,
+      "topY" : 396.755,
+      "baseLineY" : 406.02,
+      "fontId" : 5,
+      "text" : "Applicants may purchase another home if "
+    }, {
+      "leftX" : 329.2198,
+      "bottomY" : 408.8639,
+      "rightX" : 344.9398,
+      "topY" : 396.8639,
+      "baseLineY" : 406.02,
+      "fontId" : 3,
+      "text" : "all "
+    }, {
+      "leftX" : 344.8799,
+      "bottomY" : 408.755,
+      "rightX" : 473.8199,
+      "topY" : 396.755,
+      "baseLineY" : 406.02,
+      "fontId" : 5,
+      "text" : "the criteria below are met: "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 421.235,
+      "rightX" : 110.9999,
+      "topY" : 409.235,
+      "baseLineY" : 418.5,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 432.6551,
+      "rightX" : 131.5199,
+      "topY" : 420.6551,
+      "baseLineY" : 430.5,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 433.3571,
+      "rightX" : 134.8559,
+      "topY" : 421.3571,
+      "baseLineY" : 430.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 433.235,
+      "rightX" : 530.1597,
+      "topY" : 421.235,
+      "baseLineY" : 430.5,
+      "fontId" : 5,
+      "text" : "The applicants are not financially responsible for another Agency guaranteed or "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 445.235,
+      "rightX" : 459.2399,
+      "topY" : 433.235,
+      "baseLineY" : 442.5,
+      "fontId" : 5,
+      "text" : "direct home loan by the time the guaranteed home loan is closed; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 468.6551,
+      "rightX" : 131.5199,
+      "topY" : 456.6551,
+      "baseLineY" : 466.5,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 469.3571,
+      "rightX" : 134.8559,
+      "topY" : 457.3571,
+      "baseLineY" : 466.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 457.235,
+      "rightX" : 146.9999,
+      "topY" : 445.235,
+      "baseLineY" : 454.5,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 469.235,
+      "rightX" : 479.7599,
+      "topY" : 457.235,
+      "baseLineY" : 466.5,
+      "fontId" : 5,
+      "text" : "The applicants are financially qualified to own more than one house;  "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 492.6551,
+      "rightX" : 131.5199,
+      "topY" : 480.6551,
+      "baseLineY" : 490.5,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 493.3571,
+      "rightX" : 134.8559,
+      "topY" : 481.3571,
+      "baseLineY" : 490.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 481.235,
+      "rightX" : 146.9999,
+      "topY" : 469.235,
+      "baseLineY" : 478.5,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 493.235,
+      "rightX" : 527.5197,
+      "topY" : 481.235,
+      "baseLineY" : 490.5,
+      "fontId" : 5,
+      "text" : "The applicants will occupy the home financed with the guaranteed loan as their "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 505.235,
+      "rightX" : 409.3799,
+      "topY" : 493.235,
+      "baseLineY" : 502.5,
+      "fontId" : 5,
+      "text" : "primary residence throughout the term of the loan; and "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 517.235,
+      "rightX" : 146.9999,
+      "topY" : 505.235,
+      "baseLineY" : 514.5,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 528.6551,
+      "rightX" : 131.5199,
+      "topY" : 516.6551,
+      "baseLineY" : 526.5,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 529.3571,
+      "rightX" : 134.8559,
+      "topY" : 517.3571,
+      "baseLineY" : 526.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 529.235,
+      "rightX" : 525.8999,
+      "topY" : 517.235,
+      "baseLineY" : 526.5,
+      "fontId" : 5,
+      "text" : "The current home owned, whether adequate or inadequate, no longer meets the "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 541.235,
+      "rightX" : 431.5199,
+      "topY" : 529.235,
+      "baseLineY" : 538.5,
+      "fontId" : 5,
+      "text" : "applicants’ needs. Examples include, but are not limited to: "
+    }, {
+      "leftX" : 152.9999,
+      "bottomY" : 553.235,
+      "rightX" : 155.9999,
+      "topY" : 541.235,
+      "baseLineY" : 550.5,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 170.9999,
+      "bottomY" : 565.235,
+      "rightX" : 370.2599,
+      "topY" : 553.235,
+      "baseLineY" : 562.5,
+      "fontId" : 5,
+      "text" : "Relocation due to a new job opportunity. "
+    }, {
+      "leftX" : 148.4999,
+      "bottomY" : 567.2972,
+      "rightX" : 155.6999,
+      "topY" : 555.2972,
+      "baseLineY" : 562.5,
+      "fontId" : 8,
+      "text" : "o"
+    }, {
+      "leftX" : 155.6999,
+      "bottomY" : 565.3571,
+      "rightX" : 159.0359,
+      "topY" : 553.3571,
+      "baseLineY" : 562.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 148.4999,
+      "bottomY" : 577.235,
+      "rightX" : 151.4999,
+      "topY" : 565.235,
+      "baseLineY" : 574.5,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 170.9999,
+      "bottomY" : 589.235,
+      "rightX" : 443.2799,
+      "topY" : 577.235,
+      "baseLineY" : 586.5,
+      "fontId" : 5,
+      "text" : "Requires a larger home to provide for a growing family. "
+    }, {
+      "leftX" : 148.4999,
+      "bottomY" : 591.2972,
+      "rightX" : 155.6999,
+      "topY" : 579.2972,
+      "baseLineY" : 586.5,
+      "fontId" : 8,
+      "text" : "o"
+    }, {
+      "leftX" : 155.6999,
+      "bottomY" : 589.3571,
+      "rightX" : 159.0359,
+      "topY" : 577.3571,
+      "baseLineY" : 586.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 148.4999,
+      "bottomY" : 601.235,
+      "rightX" : 151.4999,
+      "topY" : 589.235,
+      "baseLineY" : 598.5,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 170.9999,
+      "bottomY" : 613.235,
+      "rightX" : 475.8599,
+      "topY" : 601.235,
+      "baseLineY" : 610.5,
+      "fontId" : 5,
+      "text" : "Obtaining a divorce and the ex-spouse will retain the dwelling. "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 625.235,
+      "rightX" : 146.9999,
+      "topY" : 613.235,
+      "baseLineY" : 622.5,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 148.4999,
+      "bottomY" : 615.2972,
+      "rightX" : 155.6999,
+      "topY" : 603.2972,
+      "baseLineY" : 610.5,
+      "fontId" : 8,
+      "text" : "o"
+    }, {
+      "leftX" : 155.6999,
+      "bottomY" : 613.3571,
+      "rightX" : 159.0359,
+      "topY" : 601.3571,
+      "baseLineY" : 610.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 148.4999,
+      "bottomY" : 639.2972,
+      "rightX" : 155.6999,
+      "topY" : 627.2972,
+      "baseLineY" : 634.5,
+      "fontId" : 8,
+      "text" : "o"
+    }, {
+      "leftX" : 155.6999,
+      "bottomY" : 637.3571,
+      "rightX" : 159.0359,
+      "topY" : 625.3571,
+      "baseLineY" : 634.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 170.9999,
+      "bottomY" : 637.235,
+      "rightX" : 535.9199,
+      "topY" : 625.235,
+      "baseLineY" : 634.5,
+      "fontId" : 5,
+      "text" : "Is a non-occupying co-owner or co-borrower on another mortgage loan and "
+    }, {
+      "leftX" : 170.9999,
+      "bottomY" : 649.235,
+      "rightX" : 356.64,
+      "topY" : 637.235,
+      "baseLineY" : 646.5,
+      "fontId" : 5,
+      "text" : "wants to purchase their own dwelling. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 662.855,
+      "rightX" : 111,
+      "topY" : 650.855,
+      "baseLineY" : 660.12,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 676.6549,
+      "rightX" : 111,
+      "topY" : 664.6549,
+      "baseLineY" : 673.92,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 694.8349,
+      "rightX" : 526.02,
+      "topY" : 682.8349,
+      "baseLineY" : 692.1,
+      "fontId" : 5,
+      "text" : "___________________________________________________________________________ "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 706.8592,
+      "rightX" : 182.4885,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : "(03-09-16) SPECIAL PN   "
+    }, {
+      "leftX" : 215.9854,
+      "bottomY" : 706.8592,
+      "rightX" : 218.4904,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 251.9872,
+      "bottomY" : 706.8592,
+      "rightX" : 254.4922,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 287.9891,
+      "bottomY" : 706.8592,
+      "rightX" : 303.8107,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : "8-1 "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 720.107,
+      "rightX" : 197.666,
+      "topY" : 709.107,
+      "baseLineY" : 717.6,
+      "fontId" : 1,
+      "text" : "Revised (08-05-25)  PN 649"
+    }, {
+      "leftX" : 197.64,
+      "bottomY" : 719.8791,
+      "rightX" : 200.145,
+      "topY" : 709.8791,
+      "baseLineY" : 717.6,
+      "fontId" : 9,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 84.7671,
+      "rightX" : 124.8467,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 97.427,
+      "rightX" : 293.1262,
+      "topY" : 86.427,
+      "baseLineY" : 94.9199,
+      "fontId" : 1,
+      "text" : "Paragraph 8.2 Applicant Eligibility Requirements "
+    }, {
+      "leftX" : 71.978,
+      "bottomY" : 110.032,
+      "rightX" : 74.723,
+      "topY" : 99.032,
+      "baseLineY" : 107.525,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 123.935,
+      "rightX" : 522.6587,
+      "topY" : 111.935,
+      "baseLineY" : 121.2,
+      "fontId" : 5,
+      "text" : "All documentation will be retained in the lender’s permanent loan file and may be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 137.795,
+      "rightX" : 295.44,
+      "topY" : 125.795,
+      "baseLineY" : 135.06,
+      "fontId" : 5,
+      "text" : "requested by the Agency upon review. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 151.8349,
+      "rightX" : 111,
+      "topY" : 139.8349,
+      "baseLineY" : 149.1,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 165.6349,
+      "rightX" : 536.1573,
+      "topY" : 153.6349,
+      "baseLineY" : 162.9,
+      "fontId" : 5,
+      "text" : "Repayment Income for rents received less than 24 months. Applicants retaining their "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 179.555,
+      "rightX" : 524.9408,
+      "topY" : 167.555,
+      "baseLineY" : 176.82,
+      "fontId" : 5,
+      "text" : "existing dwelling must qualify for all mortgage liability payments. Rents received less "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 193.475,
+      "rightX" : 511.2598,
+      "topY" : 181.475,
+      "baseLineY" : 190.74,
+      "fontId" : 5,
+      "text" : "than 24 months do not represent a stable continued source of income for repayment "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 207.3949,
+      "rightX" : 497.5199,
+      "topY" : 195.3949,
+      "baseLineY" : 204.66,
+      "fontId" : 5,
+      "text" : "income and cannot be used when qualifying the loan request. The corresponding "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 221.2549,
+      "rightX" : 539.9999,
+      "topY" : 209.2549,
+      "baseLineY" : 218.52,
+      "fontId" : 5,
+      "text" : "mortgage liability associated with the retained dwelling must be included in the debt ratio "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 235.1749,
+      "rightX" : 457.3799,
+      "topY" : 223.1749,
+      "baseLineY" : 232.4399,
+      "fontId" : 5,
+      "text" : "calculation. Refer to Chapter 9 for additional guidance on rental income. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 249.5149,
+      "rightX" : 110.9999,
+      "topY" : 237.5149,
+      "baseLineY" : 246.78,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 263.3749,
+      "rightX" : 509.5186,
+      "topY" : 251.3749,
+      "baseLineY" : 260.64,
+      "fontId" : 5,
+      "text" : "Repayment Income for rents received 24 months or more. When applicants can "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 277.295,
+      "rightX" : 532.1998,
+      "topY" : 265.295,
+      "baseLineY" : 274.56,
+      "fontId" : 5,
+      "text" : "demonstrate rental income is stable and dependable, as evidenced and documented with "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 291.215,
+      "rightX" : 534.7786,
+      "topY" : 279.215,
+      "baseLineY" : 288.48,
+      "fontId" : 5,
+      "text" : "the most recent two years tax returns and a copy of the current written lease executed by "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 305.075,
+      "rightX" : 521.515,
+      "topY" : 293.075,
+      "baseLineY" : 302.34,
+      "fontId" : 5,
+      "text" : "the homeowner and the lessee, the net rental income can be considered for repayment "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 318.995,
+      "rightX" : 538.202,
+      "topY" : 306.995,
+      "baseLineY" : 316.26,
+      "fontId" : 5,
+      "text" : "ratios. IRS Form 1040 Schedule E is required to verify all rental income. Depreciation or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 332.915,
+      "rightX" : 495.2998,
+      "topY" : 320.915,
+      "baseLineY" : 330.18,
+      "fontId" : 5,
+      "text" : "depletion shown on Schedule E may be added back to the net income or loss for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 346.835,
+      "rightX" : 516.6562,
+      "topY" : 334.835,
+      "baseLineY" : 344.1,
+      "fontId" : 5,
+      "text" : "repayment income. Positive rental income is considered gross income for repayment "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 360.755,
+      "rightX" : 526.08,
+      "topY" : 348.755,
+      "baseLineY" : 358.0201,
+      "fontId" : 5,
+      "text" : "income. Negative rental income must be treated as a recurring liability and included in "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 374.675,
+      "rightX" : 525.84,
+      "topY" : 362.675,
+      "baseLineY" : 371.9401,
+      "fontId" : 5,
+      "text" : "the debt ratio calculation. Refer to Chapter 9 for additional guidance on rental income. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 388.595,
+      "rightX" : 132,
+      "topY" : 376.595,
+      "baseLineY" : 385.8601,
+      "fontId" : 5,
+      "text" : "  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 402.5151,
+      "rightX" : 525.8984,
+      "topY" : 390.5151,
+      "baseLineY" : 399.7801,
+      "fontId" : 5,
+      "text" : "Annual Income Calculation. Any positive net rental income will be included in the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 416.435,
+      "rightX" : 531.176,
+      "topY" : 404.435,
+      "baseLineY" : 413.7,
+      "fontId" : 5,
+      "text" : "calculation of annual income to determine eligibility of the household for the SFHGLP. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 430.355,
+      "rightX" : 500.216,
+      "topY" : 418.355,
+      "baseLineY" : 427.62,
+      "fontId" : 5,
+      "text" : "Rental income must be considered in the annual income analysis regardless of its "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 444.215,
+      "rightX" : 527.9432,
+      "topY" : 432.215,
+      "baseLineY" : 441.48,
+      "fontId" : 5,
+      "text" : "duration. Rental income, for annual income purposes, is considered the total rental real "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 458.135,
+      "rightX" : 519.5399,
+      "topY" : 446.135,
+      "baseLineY" : 455.4,
+      "fontId" : 5,
+      "text" : "estate income amount reported on the most recent IRS Form 1040 Schedule E for the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 472.055,
+      "rightX" : 509.9398,
+      "topY" : 460.055,
+      "baseLineY" : 469.32,
+      "fontId" : 5,
+      "text" : "previous 12 months. In the absence of a Schedule E; canceled checks, money order "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 485.975,
+      "rightX" : 533.3398,
+      "topY" : 473.975,
+      "baseLineY" : 483.2401,
+      "fontId" : 5,
+      "text" : "receipts, bank statements, or other documentation may be used to support the amount of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 499.895,
+      "rightX" : 530.1561,
+      "topY" : 487.895,
+      "baseLineY" : 497.1601,
+      "fontId" : 5,
+      "text" : "rents received for annual income purposes. Any negative net rental income is treated as "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 513.815,
+      "rightX" : 356.9399,
+      "topY" : 501.815,
+      "baseLineY" : 511.0801,
+      "fontId" : 5,
+      "text" : "zero for the purposes of calculating annual income. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 527.7351,
+      "rightX" : 129,
+      "topY" : 515.7351,
+      "baseLineY" : 525.0001,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 541.8351,
+      "rightX" : 501.5399,
+      "topY" : 529.8351,
+      "baseLineY" : 539.1001,
+      "fontId" : 5,
+      "text" : "Documentation. Refer to Chapter 9 for additional guidance on documentation "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 555.635,
+      "rightX" : 542.2199,
+      "topY" : 543.635,
+      "baseLineY" : 552.9,
+      "fontId" : 5,
+      "text" : "requirements of rental income. Guidance on the process of entering rental income into the "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 569.435,
+      "rightX" : 379.6799,
+      "topY" : 557.435,
+      "baseLineY" : 566.7,
+      "fontId" : 5,
+      "text" : "Guaranteed Underwriting System (GUS) is available at: "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 583.235,
+      "rightX" : 444.2398,
+      "topY" : 571.235,
+      "baseLineY" : 580.5,
+      "fontId" : 10,
+      "text" : "https://www.rd.usda.gov/resources/usda-linc-training-resource-library"
+    }, {
+      "leftX" : 444.2399,
+      "bottomY" : 583.235,
+      "rightX" : 447.2399,
+      "topY" : 571.235,
+      "baseLineY" : 580.5,
+      "fontId" : 5,
+      "text" : ","
+    }, {
+      "leftX" : 447.2399,
+      "bottomY" : 583.235,
+      "rightX" : 450.2399,
+      "topY" : 571.235,
+      "baseLineY" : 580.5,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 450.2399,
+      "bottomY" : 583.235,
+      "rightX" : 513.5399,
+      "topY" : 571.235,
+      "baseLineY" : 580.5,
+      "fontId" : 5,
+      "text" : "select GUS,  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 597.035,
+      "rightX" : 241.98,
+      "topY" : 585.035,
+      "baseLineY" : 594.3,
+      "fontId" : 5,
+      "text" : "Training, Real Estate Page. "
+    }, {
+      "leftX" : 252,
+      "bottomY" : 597.035,
+      "rightX" : 255,
+      "topY" : 585.035,
+      "baseLineY" : 594.3,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 610.9439,
+      "rightX" : 129,
+      "topY" : 598.9439,
+      "baseLineY" : 608.1,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 624.744,
+      "rightX" : 118.8438,
+      "topY" : 612.744,
+      "baseLineY" : 621.9,
+      "fontId" : 3,
+      "text" : "B."
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 625.0509,
+      "rightX" : 122.1012,
+      "topY" : 613.0509,
+      "baseLineY" : 621.9,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 624.744,
+      "rightX" : 324.96,
+      "topY" : 612.744,
+      "baseLineY" : 621.9,
+      "fontId" : 3,
+      "text" : "Obtaining Credit [7 CFR 3555.151 (j)] "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 639.0839,
+      "rightX" : 75,
+      "topY" : 627.0839,
+      "baseLineY" : 636.24,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 652.7749,
+      "rightX" : 220.68,
+      "topY" : 640.7749,
+      "baseLineY" : 650.04,
+      "fontId" : 5,
+      "text" : "Form RD 3555-21, "
+    }, {
+      "leftX" : 220.68,
+      "bottomY" : 652.8099,
+      "rightX" : 471.4079,
+      "topY" : 640.8099,
+      "baseLineY" : 650.04,
+      "fontId" : 11,
+      "text" : "Request for Single Family Housing Loan Guarantee"
+    }, {
+      "leftX" : 471.42,
+      "bottomY" : 652.7749,
+      "rightX" : 519.12,
+      "topY" : 640.7749,
+      "baseLineY" : 650.04,
+      "fontId" : 5,
+      "text" : ", requires "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 666.6949,
+      "rightX" : 538.5577,
+      "topY" : 654.6949,
+      "baseLineY" : 663.96,
+      "fontId" : 5,
+      "text" : "both the lender and the applicants to certify that the applicants are unable to secure credit "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 680.615,
+      "rightX" : 540.5999,
+      "topY" : 668.615,
+      "baseLineY" : 677.88,
+      "fontId" : 5,
+      "text" : "from other sources upon terms and conditions which the applicants can reasonably fulfill. "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 708.035,
+      "rightX" : 538.02,
+      "topY" : 696.035,
+      "baseLineY" : 705.3,
+      "fontId" : 5,
+      "text" : "_____________________________________________________________________________ "
+    }, {
+      "leftX" : 284.34,
+      "bottomY" : 720.1191,
+      "rightX" : 300.1616,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 9,
+      "text" : "8-2 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 84.7671,
+      "rightX" : 124.8467,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 97.427,
+      "rightX" : 293.1482,
+      "topY" : 86.427,
+      "baseLineY" : 94.9199,
+      "fontId" : 1,
+      "text" : "Paragraph 8.2 Applicant Eligibility Requirements "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 110.032,
+      "rightX" : 74.745,
+      "topY" : 99.032,
+      "baseLineY" : 107.525,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 111.0479,
+      "rightX" : 72.255,
+      "topY" : 110.0479,
+      "baseLineY" : 110.82,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.075,
+      "rightX" : 536.52,
+      "topY" : 113.075,
+      "baseLineY" : 122.34,
+      "fontId" : 5,
+      "text" : "The certification can be made if the applicants will not meet the requirements to obtain a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 138.995,
+      "rightX" : 517.9197,
+      "topY" : 126.995,
+      "baseLineY" : 136.26,
+      "fontId" : 5,
+      "text" : "traditional conventional credit loan at loan closing. Traditional conventional credit is "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 152.855,
+      "rightX" : 266.34,
+      "topY" : 140.855,
+      "baseLineY" : 150.12,
+      "fontId" : 5,
+      "text" : "defined for Agency purposes as: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.8949,
+      "rightX" : 111,
+      "topY" : 154.8949,
+      "baseLineY" : 164.16,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 180.9551,
+      "rightX" : 131.52,
+      "topY" : 168.9551,
+      "baseLineY" : 178.8,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 181.6571,
+      "rightX" : 134.856,
+      "topY" : 169.6571,
+      "baseLineY" : 178.8,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 181.535,
+      "rightX" : 513.4797,
+      "topY" : 169.535,
+      "baseLineY" : 178.8,
+      "fontId" : 5,
+      "text" : "The applicants have available personal non-retirement liquid verifiable asset "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 195.4549,
+      "rightX" : 530.04,
+      "topY" : 183.4549,
+      "baseLineY" : 192.72,
+      "fontId" : 5,
+      "text" : "funds of at least 20% of the purchase price that can be used as a down payment; "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 209.795,
+      "rightX" : 147,
+      "topY" : 197.795,
+      "baseLineY" : 207.06,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 223.9151,
+      "rightX" : 131.52,
+      "topY" : 211.9151,
+      "baseLineY" : 221.76,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 224.6172,
+      "rightX" : 134.856,
+      "topY" : 212.6172,
+      "baseLineY" : 221.76,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 224.495,
+      "rightX" : 524.64,
+      "topY" : 212.495,
+      "baseLineY" : 221.76,
+      "fontId" : 5,
+      "text" : "The applicants can, in addition to the 20% down payment, pay all their closing "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 238.415,
+      "rightX" : 292.32,
+      "topY" : 226.415,
+      "baseLineY" : 235.68,
+      "fontId" : 5,
+      "text" : "costs associated with the loan; "
+    }, {
+      "leftX" : 133.02,
+      "bottomY" : 252.3349,
+      "rightX" : 136.02,
+      "topY" : 240.3349,
+      "baseLineY" : 249.6,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 266.3951,
+      "rightX" : 131.52,
+      "topY" : 254.3951,
+      "baseLineY" : 264.24,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 267.0971,
+      "rightX" : 134.856,
+      "topY" : 255.0971,
+      "baseLineY" : 264.24,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 266.975,
+      "rightX" : 538.8597,
+      "topY" : 254.975,
+      "baseLineY" : 264.24,
+      "fontId" : 5,
+      "text" : "The applicants can meet qualifying ratios of no more than 28% PITI and 36% TD "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 280.7749,
+      "rightX" : 358.32,
+      "topY" : 268.7749,
+      "baseLineY" : 278.04,
+      "fontId" : 5,
+      "text" : "when applying the 20% down payment; and "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 294.9949,
+      "rightX" : 147,
+      "topY" : 282.9949,
+      "baseLineY" : 292.26,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 309.1151,
+      "rightX" : 131.52,
+      "topY" : 297.1151,
+      "baseLineY" : 306.96,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 309.8171,
+      "rightX" : 134.856,
+      "topY" : 297.8171,
+      "baseLineY" : 306.96,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 309.695,
+      "rightX" : 479.8798,
+      "topY" : 297.695,
+      "baseLineY" : 306.96,
+      "fontId" : 5,
+      "text" : "The applicants can demonstrate qualifying credit for such a loan. The "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 323.615,
+      "rightX" : 530.1597,
+      "topY" : 311.615,
+      "baseLineY" : 320.88,
+      "fontId" : 5,
+      "text" : "conventional mortgage loan term is for a 30- year fixed rate loan term without a "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 337.535,
+      "rightX" : 406.56,
+      "topY" : 325.535,
+      "baseLineY" : 334.8,
+      "fontId" : 5,
+      "text" : "condition to obtain private mortgage insurance (PMI). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 351.455,
+      "rightX" : 111,
+      "topY" : 339.455,
+      "baseLineY" : 348.72,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 365.315,
+      "rightX" : 520.2596,
+      "topY" : 353.315,
+      "baseLineY" : 362.58,
+      "fontId" : 5,
+      "text" : "If the applicants meet the cumulative criteria of traditional conventional credit, as "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 379.175,
+      "rightX" : 478.5,
+      "topY" : 367.175,
+      "baseLineY" : 376.44,
+      "fontId" : 5,
+      "text" : "defined by the Agency above; the applicants are ineligible for the SFHGLP.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 393.155,
+      "rightX" : 129,
+      "topY" : 381.155,
+      "baseLineY" : 390.42,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 407.075,
+      "rightX" : 512.34,
+      "topY" : 395.075,
+      "baseLineY" : 404.34,
+      "fontId" : 5,
+      "text" : "It remains the underwriter’s responsibility to support the criteria of this Section. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 420.995,
+      "rightX" : 505.8033,
+      "topY" : 408.995,
+      "baseLineY" : 418.26,
+      "fontId" : 5,
+      "text" : "However, when the criteria identified in the first three bullet points above are met, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 434.915,
+      "rightX" : 534.6599,
+      "topY" : 422.915,
+      "baseLineY" : 432.1801,
+      "fontId" : 5,
+      "text" : "documentation to support ineligibility for conventional credit should be submitted to the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 448.835,
+      "rightX" : 523.2588,
+      "topY" : 436.835,
+      "baseLineY" : 446.1001,
+      "fontId" : 5,
+      "text" : "Agency as part of the complete loan application. In all cases, the lender will retain the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 462.695,
+      "rightX" : 515.64,
+      "topY" : 450.695,
+      "baseLineY" : 459.9601,
+      "fontId" : 5,
+      "text" : "documentation to support the applicants’ ineligibility for conventional credit in their "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 476.615,
+      "rightX" : 210.3,
+      "topY" : 464.615,
+      "baseLineY" : 473.8801,
+      "fontId" : 5,
+      "text" : "permanent loan file.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 490.535,
+      "rightX" : 129,
+      "topY" : 478.535,
+      "baseLineY" : 487.8001,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 504.5151,
+      "rightX" : 542.6399,
+      "topY" : 492.5151,
+      "baseLineY" : 501.7801,
+      "fontId" : 5,
+      "text" : "Liquid assets for conventional credit down payment purposes typically consist of cash "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 518.435,
+      "rightX" : 540.84,
+      "topY" : 506.435,
+      "baseLineY" : 515.7001,
+      "fontId" : 5,
+      "text" : "or cash equivalents. Cash or cash equivalents include funds in the applicants’ checking or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 532.3551,
+      "rightX" : 515.6398,
+      "topY" : 520.3551,
+      "baseLineY" : 529.6201,
+      "fontId" : 5,
+      "text" : "savings accounts, sale proceeds from a real estate owned property, or investments in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 546.2751,
+      "rightX" : 538.5598,
+      "topY" : 534.2751,
+      "baseLineY" : 543.5401,
+      "fontId" : 5,
+      "text" : "stocks, bonds, mutual funds, certificates of deposit, and money market funds, unless they "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 560.195,
+      "rightX" : 514.6172,
+      "topY" : 548.195,
+      "baseLineY" : 557.4601,
+      "fontId" : 5,
+      "text" : "are encumbered (pledged as collateral) or otherwise inaccessible without substantial "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 574.0551,
+      "rightX" : 542.6399,
+      "topY" : 562.0551,
+      "baseLineY" : 571.3201,
+      "fontId" : 5,
+      "text" : "penalty. Cash equivalents do not include funds in Individual Retirement Accounts, 401(k) "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 587.9751,
+      "rightX" : 539.8773,
+      "topY" : 575.9751,
+      "baseLineY" : 585.2401,
+      "fontId" : 5,
+      "text" : "accounts, Keogh accounts, or other retirement accounts that are restricted and may not be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 601.8951,
+      "rightX" : 527.9337,
+      "topY" : 589.8951,
+      "baseLineY" : 599.1601,
+      "fontId" : 5,
+      "text" : "accessed without incurring substantial monetary penalties. Educational college savings "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 615.815,
+      "rightX" : 527.2198,
+      "topY" : 603.815,
+      "baseLineY" : 613.0801,
+      "fontId" : 5,
+      "text" : "plans, such as a 529 plan, which incur a penalty to withdraw, are not considered a cash "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 629.7351,
+      "rightX" : 382.32,
+      "topY" : 617.7351,
+      "baseLineY" : 627.0001,
+      "fontId" : 5,
+      "text" : "equivalent. Owning land is not considered a liquid asset. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 643.427,
+      "rightX" : 74.745,
+      "topY" : 632.427,
+      "baseLineY" : 640.92,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 643.6549,
+      "rightX" : 219,
+      "topY" : 631.6549,
+      "baseLineY" : 640.92,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 694.8349,
+      "rightX" : 526.02,
+      "topY" : 682.8349,
+      "baseLineY" : 692.1,
+      "fontId" : 5,
+      "text" : "___________________________________________________________________________ "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 706.8592,
+      "rightX" : 177.1579,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 179.9935,
+      "bottomY" : 706.8592,
+      "rightX" : 182.4985,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 215.9954,
+      "bottomY" : 706.8592,
+      "rightX" : 218.5004,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 251.9973,
+      "bottomY" : 706.8592,
+      "rightX" : 254.5023,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 287.9991,
+      "bottomY" : 706.8592,
+      "rightX" : 303.8207,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : "8-3 "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 720.107,
+      "rightX" : 197.666,
+      "topY" : 709.107,
+      "baseLineY" : 717.6,
+      "fontId" : 1,
+      "text" : "Revised (08-05-25)  PN 649"
+    }, {
+      "leftX" : 197.64,
+      "bottomY" : 719.8791,
+      "rightX" : 200.145,
+      "topY" : 709.8791,
+      "baseLineY" : 717.6,
+      "fontId" : 9,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 84.7671,
+      "rightX" : 124.8467,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 97.427,
+      "rightX" : 293.1262,
+      "topY" : 86.427,
+      "baseLineY" : 94.9199,
+      "fontId" : 1,
+      "text" : "Paragraph 8.2 Applicant Eligibility Requirements "
+    }, {
+      "leftX" : 71.978,
+      "bottomY" : 110.032,
+      "rightX" : 74.723,
+      "topY" : 99.032,
+      "baseLineY" : 107.525,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 123.935,
+      "rightX" : 129,
+      "topY" : 111.935,
+      "baseLineY" : 121.2,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 137.855,
+      "rightX" : 511.2599,
+      "topY" : 125.855,
+      "baseLineY" : 135.12,
+      "fontId" : 5,
+      "text" : " If the applicants have ownership in a business, or are self-employed, the lender "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 151.7749,
+      "rightX" : 521.82,
+      "topY" : 139.7749,
+      "baseLineY" : 149.04,
+      "fontId" : 5,
+      "text" : "should closely review the asset accounts to verify assets are not transferred between a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 165.6949,
+      "rightX" : 533.8199,
+      "topY" : 153.6949,
+      "baseLineY" : 162.96,
+      "fontId" : 5,
+      "text" : "personal account and a business account and vice versa. These accounts should function "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 179.6149,
+      "rightX" : 501.3599,
+      "topY" : 167.6149,
+      "baseLineY" : 176.8799,
+      "fontId" : 5,
+      "text" : "as two separate financial tools, one for personal transactions and one for business "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 193.5349,
+      "rightX" : 529.4962,
+      "topY" : 181.5349,
+      "baseLineY" : 190.7999,
+      "fontId" : 5,
+      "text" : "transactions. In the event the assets from the business account and personal account are "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 207.4549,
+      "rightX" : 519.5997,
+      "topY" : 195.4549,
+      "baseLineY" : 204.7199,
+      "fontId" : 5,
+      "text" : "co-mingled, the co-mingled assets would need to be included in the test for obtaining "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 221.3749,
+      "rightX" : 144.3,
+      "topY" : 209.3749,
+      "baseLineY" : 218.6399,
+      "fontId" : 5,
+      "text" : "credit.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 235.2348,
+      "rightX" : 75,
+      "topY" : 223.2348,
+      "baseLineY" : 232.4999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 249.1439,
+      "rightX" : 119.4999,
+      "topY" : 237.1439,
+      "baseLineY" : 246.3,
+      "fontId" : 3,
+      "text" : "C."
+    }, {
+      "leftX" : 119.46,
+      "bottomY" : 249.4508,
+      "rightX" : 122.7612,
+      "topY" : 237.4508,
+      "baseLineY" : 246.3,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 249.1439,
+      "rightX" : 358.26,
+      "topY" : 237.1439,
+      "baseLineY" : 246.3,
+      "fontId" : 3,
+      "text" : "Occupying the Property [7 CFR 3555.151(c)] "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 262.9439,
+      "rightX" : 75,
+      "topY" : 250.9439,
+      "baseLineY" : 260.1,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 276.6349,
+      "rightX" : 517.1398,
+      "topY" : 264.6349,
+      "baseLineY" : 273.9,
+      "fontId" : 5,
+      "text" : "Applicants must agree to personally occupy the dwelling as a principal residence "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 290.5549,
+      "rightX" : 513.78,
+      "topY" : 278.5549,
+      "baseLineY" : 287.82,
+      "fontId" : 5,
+      "text" : "throughout the term of the loan. Bona fide occupancy in the home as the applicants’ "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 304.475,
+      "rightX" : 513.48,
+      "topY" : 292.475,
+      "baseLineY" : 301.74,
+      "fontId" : 5,
+      "text" : "principal residence within 60 days after signing the security instruments is required. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 318.9349,
+      "rightX" : 111,
+      "topY" : 306.9349,
+      "baseLineY" : 316.2,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 332.9951,
+      "rightX" : 131.52,
+      "topY" : 320.9951,
+      "baseLineY" : 330.84,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 333.6971,
+      "rightX" : 134.856,
+      "topY" : 321.6971,
+      "baseLineY" : 330.84,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 333.6839,
+      "rightX" : 309.06,
+      "topY" : 321.6839,
+      "baseLineY" : 330.84,
+      "fontId" : 3,
+      "text" : "Active duty military applicants. "
+    }, {
+      "leftX" : 309.06,
+      "bottomY" : 333.575,
+      "rightX" : 537.9597,
+      "topY" : 321.575,
+      "baseLineY" : 330.84,
+      "fontId" : 5,
+      "text" : "Active duty military applicants may be eligible "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 347.495,
+      "rightX" : 538.8597,
+      "topY" : 335.495,
+      "baseLineY" : 344.76,
+      "fontId" : 5,
+      "text" : "for the SFHGLP. They must occupy the property as their principal residence. The "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 361.415,
+      "rightX" : 517.9197,
+      "topY" : 349.415,
+      "baseLineY" : 358.68,
+      "fontId" : 5,
+      "text" : "military applicants must express intent to meet occupancy requirements upon "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 375.335,
+      "rightX" : 503.1,
+      "topY" : 363.335,
+      "baseLineY" : 372.6,
+      "fontId" : 5,
+      "text" : "his/her discharge from the service. A military service member who cannot "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 389.255,
+      "rightX" : 536.5798,
+      "topY" : 377.255,
+      "baseLineY" : 386.5201,
+      "fontId" : 5,
+      "text" : "physically reside in a property because they are on active duty will be considered "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 403.175,
+      "rightX" : 489.66,
+      "topY" : 391.175,
+      "baseLineY" : 400.4401,
+      "fontId" : 5,
+      "text" : "to meet occupancy requirements defined in §3555.10 of 7 CFR 3555 if: "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 417.095,
+      "rightX" : 147,
+      "topY" : 405.095,
+      "baseLineY" : 414.3601,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 433.0773,
+      "rightX" : 151.2,
+      "topY" : 421.0773,
+      "baseLineY" : 428.2801,
+      "fontId" : 8,
+      "text" : "o"
+    }, {
+      "leftX" : 151.2,
+      "bottomY" : 431.1372,
+      "rightX" : 154.536,
+      "topY" : 419.1372,
+      "baseLineY" : 428.2801,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 431.0151,
+      "rightX" : 521.2197,
+      "topY" : 419.0151,
+      "baseLineY" : 428.2801,
+      "fontId" : 5,
+      "text" : "The service member’s family will continue to occupy the property as their "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 444.9351,
+      "rightX" : 513.9599,
+      "topY" : 432.9351,
+      "baseLineY" : 442.2001,
+      "fontId" : 5,
+      "text" : "principal residence. Refer to Attachment 9-A, for additional guidance on "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 458.8551,
+      "rightX" : 462.42,
+      "topY" : 446.8551,
+      "baseLineY" : 456.1201,
+      "fontId" : 5,
+      "text" : "calculating military income for repayment of the loan request. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 473.1951,
+      "rightX" : 147,
+      "topY" : 461.1951,
+      "baseLineY" : 470.4601,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 487.3152,
+      "rightX" : 131.52,
+      "topY" : 475.3152,
+      "baseLineY" : 485.1601,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 488.0173,
+      "rightX" : 134.856,
+      "topY" : 476.0173,
+      "baseLineY" : 485.1601,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 488.0041,
+      "rightX" : 245.7612,
+      "topY" : 476.0041,
+      "baseLineY" : 485.1601,
+      "fontId" : 3,
+      "text" : "Student applicants. "
+    }, {
+      "leftX" : 245.7612,
+      "bottomY" : 487.8951,
+      "rightX" : 524.28,
+      "topY" : 475.8951,
+      "baseLineY" : 485.1601,
+      "fontId" : 5,
+      "text" : "Due to the probability of relocation after graduation, full- "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 501.8151,
+      "rightX" : 493.6198,
+      "topY" : 489.8151,
+      "baseLineY" : 499.0801,
+      "fontId" : 5,
+      "text" : "time students cannot obtain loans unless they intend to make the home a "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 515.7351,
+      "rightX" : 533.2174,
+      "topY" : 503.7351,
+      "baseLineY" : 513.0001,
+      "fontId" : 5,
+      "text" : "permanent residence and there are reasonable prospects of securing employment "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 529.6551,
+      "rightX" : 279.3,
+      "topY" : 517.6551,
+      "baseLineY" : 526.9202,
+      "fontId" : 5,
+      "text" : "in the area after graduation. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 543.7551,
+      "rightX" : 75,
+      "topY" : 531.7551,
+      "baseLineY" : 541.0201,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 557.6639,
+      "rightX" : 119.4999,
+      "topY" : 545.6639,
+      "baseLineY" : 554.82,
+      "fontId" : 3,
+      "text" : "D."
+    }, {
+      "leftX" : 119.46,
+      "bottomY" : 557.9708,
+      "rightX" : 122.7612,
+      "topY" : 545.9708,
+      "baseLineY" : 554.82,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 557.6639,
+      "rightX" : 351.6,
+      "topY" : 545.6639,
+      "baseLineY" : 554.82,
+      "fontId" : 3,
+      "text" : "Having Legal Capacity [7 CFR 3555.151(f)] "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 571.4639,
+      "rightX" : 75,
+      "topY" : 559.4639,
+      "baseLineY" : 568.62,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 585.155,
+      "rightX" : 511.8599,
+      "topY" : 573.155,
+      "baseLineY" : 582.42,
+      "fontId" : 5,
+      "text" : "Applicants must be considered an adult under State law and must have the legal "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 599.075,
+      "rightX" : 511.5599,
+      "topY" : 587.075,
+      "baseLineY" : 596.34,
+      "fontId" : 5,
+      "text" : "capacity to incur the loan obligation. Applicants with a court-appointed guardian or "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 612.995,
+      "rightX" : 534.5399,
+      "topY" : 600.995,
+      "baseLineY" : 610.26,
+      "fontId" : 5,
+      "text" : "conservator, empowered to obligate the applicant in real estate matters, are eligible for a "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 626.915,
+      "rightX" : 484.6197,
+      "topY" : 614.915,
+      "baseLineY" : 624.18,
+      "fontId" : 5,
+      "text" : "loan. Applicants must be an individual, not a trust, corporation, or partnership."
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 708.035,
+      "rightX" : 538.02,
+      "topY" : 696.035,
+      "baseLineY" : 705.3,
+      "fontId" : 5,
+      "text" : "_____________________________________________________________________________ "
+    }, {
+      "leftX" : 284.34,
+      "bottomY" : 720.1191,
+      "rightX" : 300.1616,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 9,
+      "text" : "8-4 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 84.7671,
+      "rightX" : 124.8467,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 97.427,
+      "rightX" : 293.1482,
+      "topY" : 86.427,
+      "baseLineY" : 94.9199,
+      "fontId" : 1,
+      "text" : "Paragraph 8.2 Applicant Eligibility Requirements "
+    }, {
+      "leftX" : 306.0058,
+      "bottomY" : 97.427,
+      "rightX" : 308.7508,
+      "topY" : 86.427,
+      "baseLineY" : 94.9199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 540.0005,
+      "bottomY" : 97.427,
+      "rightX" : 542.7455,
+      "topY" : 86.427,
+      "baseLineY" : 94.9199,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 111.4549,
+      "rightX" : 75,
+      "topY" : 99.4549,
+      "baseLineY" : 108.72,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.364,
+      "rightX" : 118.8438,
+      "topY" : 113.364,
+      "baseLineY" : 122.52,
+      "fontId" : 3,
+      "text" : "E."
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 125.6709,
+      "rightX" : 122.1012,
+      "topY" : 113.6709,
+      "baseLineY" : 122.52,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 125.364,
+      "rightX" : 439.26,
+      "topY" : 113.364,
+      "baseLineY" : 122.52,
+      "fontId" : 3,
+      "text" : "Not Having a Suspension or Debarment [7 CFR 3555.151(g)] "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 139.1639,
+      "rightX" : 57,
+      "topY" : 127.1639,
+      "baseLineY" : 136.32,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 152.855,
+      "rightX" : 510.2398,
+      "topY" : 140.855,
+      "baseLineY" : 150.12,
+      "fontId" : 5,
+      "text" : "Individuals who have been suspended or debarred from participation in Federal "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 166.7749,
+      "rightX" : 538.8,
+      "topY" : 154.7749,
+      "baseLineY" : 164.04,
+      "fontId" : 5,
+      "text" : "programs are not eligible for a guaranteed loan. Applicants that have been excluded from "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 180.6949,
+      "rightX" : 515.88,
+      "topY" : 168.6949,
+      "baseLineY" : 177.96,
+      "fontId" : 5,
+      "text" : "a non-housing federal program continue to be eligible to participate in the SFHGLP, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 194.6149,
+      "rightX" : 521.3398,
+      "topY" : 182.6149,
+      "baseLineY" : 191.8799,
+      "fontId" : 5,
+      "text" : "unless the individual becomes suspended or debarred pursuant to 2 CFR Part 180 and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 208.4749,
+      "rightX" : 524.4585,
+      "topY" : 196.4749,
+      "baseLineY" : 205.7399,
+      "fontId" : 5,
+      "text" : "417. Applicants that are excluded from federal housing programs or excluded from all "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 222.3949,
+      "rightX" : 390.54,
+      "topY" : 210.3949,
+      "baseLineY" : 219.6599,
+      "fontId" : 5,
+      "text" : "federal programs are ineligible to participate in SFHGLP.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 236.3149,
+      "rightX" : 111,
+      "topY" : 224.3149,
+      "baseLineY" : 233.5799,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 250.2348,
+      "rightX" : 540.54,
+      "topY" : 238.2348,
+      "baseLineY" : 247.4999,
+      "fontId" : 5,
+      "text" : "The approved lender, or their agent, is responsible for screening the applicants and all "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 264.1548,
+      "rightX" : 343.6201,
+      "topY" : 252.1548,
+      "baseLineY" : 261.4199,
+      "fontId" : 5,
+      "text" : "others who are parties to the transaction such as: "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 278.0748,
+      "rightX" : 111.0001,
+      "topY" : 266.0748,
+      "baseLineY" : 275.3398,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 131.4,
+      "bottomY" : 292.2551,
+      "rightX" : 136.92,
+      "topY" : 280.2551,
+      "baseLineY" : 290.1,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 136.92,
+      "bottomY" : 292.9571,
+      "rightX" : 140.256,
+      "topY" : 280.9571,
+      "baseLineY" : 290.1,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 149.4,
+      "bottomY" : 292.835,
+      "rightX" : 214.74,
+      "topY" : 280.835,
+      "baseLineY" : 290.1,
+      "fontId" : 5,
+      "text" : "Loan Officer "
+    }, {
+      "leftX" : 348.42,
+      "bottomY" : 292.2551,
+      "rightX" : 353.94,
+      "topY" : 280.2551,
+      "baseLineY" : 290.1,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 353.94,
+      "bottomY" : 292.9571,
+      "rightX" : 357.276,
+      "topY" : 280.9571,
+      "baseLineY" : 290.1,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 366.42,
+      "bottomY" : 292.835,
+      "rightX" : 413.4,
+      "topY" : 280.835,
+      "baseLineY" : 290.1,
+      "fontId" : 5,
+      "text" : "Surveyor "
+    }, {
+      "leftX" : 131.4,
+      "bottomY" : 307.0151,
+      "rightX" : 136.92,
+      "topY" : 295.0151,
+      "baseLineY" : 304.86,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 136.92,
+      "bottomY" : 307.7171,
+      "rightX" : 140.256,
+      "topY" : 295.7171,
+      "baseLineY" : 304.86,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 149.4,
+      "bottomY" : 307.595,
+      "rightX" : 226.68,
+      "topY" : 295.595,
+      "baseLineY" : 304.86,
+      "fontId" : 5,
+      "text" : "Loan Processor "
+    }, {
+      "leftX" : 348.42,
+      "bottomY" : 307.0151,
+      "rightX" : 353.94,
+      "topY" : 295.0151,
+      "baseLineY" : 304.86,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 353.94,
+      "bottomY" : 307.7171,
+      "rightX" : 357.276,
+      "topY" : 295.7171,
+      "baseLineY" : 304.86,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 366.42,
+      "bottomY" : 307.595,
+      "rightX" : 405.42,
+      "topY" : 295.595,
+      "baseLineY" : 304.86,
+      "fontId" : 5,
+      "text" : "Builder "
+    }, {
+      "leftX" : 131.4,
+      "bottomY" : 321.7751,
+      "rightX" : 136.92,
+      "topY" : 309.7751,
+      "baseLineY" : 319.62,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 136.92,
+      "bottomY" : 322.4771,
+      "rightX" : 140.256,
+      "topY" : 310.4771,
+      "baseLineY" : 319.62,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 149.4,
+      "bottomY" : 322.355,
+      "rightX" : 211.02,
+      "topY" : 310.355,
+      "baseLineY" : 319.62,
+      "fontId" : 5,
+      "text" : "Underwriter "
+    }, {
+      "leftX" : 348.42,
+      "bottomY" : 321.7751,
+      "rightX" : 353.94,
+      "topY" : 309.7751,
+      "baseLineY" : 319.62,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 353.94,
+      "bottomY" : 322.4771,
+      "rightX" : 357.276,
+      "topY" : 310.4771,
+      "baseLineY" : 319.62,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 366.42,
+      "bottomY" : 322.355,
+      "rightX" : 441.72,
+      "topY" : 310.355,
+      "baseLineY" : 319.62,
+      "fontId" : 5,
+      "text" : "Title Company "
+    }, {
+      "leftX" : 131.4,
+      "bottomY" : 336.5951,
+      "rightX" : 136.92,
+      "topY" : 324.5951,
+      "baseLineY" : 334.44,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 136.92,
+      "bottomY" : 337.2971,
+      "rightX" : 140.256,
+      "topY" : 325.2971,
+      "baseLineY" : 334.44,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 149.4,
+      "bottomY" : 337.175,
+      "rightX" : 199.74,
+      "topY" : 325.175,
+      "baseLineY" : 334.44,
+      "fontId" : 5,
+      "text" : "Appraiser "
+    }, {
+      "leftX" : 348.42,
+      "bottomY" : 336.5951,
+      "rightX" : 353.94,
+      "topY" : 324.5951,
+      "baseLineY" : 334.44,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 353.94,
+      "bottomY" : 337.2971,
+      "rightX" : 357.276,
+      "topY" : 325.2971,
+      "baseLineY" : 334.44,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 366.42,
+      "bottomY" : 337.175,
+      "rightX" : 439.14,
+      "topY" : 325.175,
+      "baseLineY" : 334.44,
+      "fontId" : 5,
+      "text" : "Closing Agent "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 351.095,
+      "rightX" : 129,
+      "topY" : 339.095,
+      "baseLineY" : 348.36,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.015,
+      "rightX" : 540.2338,
+      "topY" : 353.015,
+      "baseLineY" : 362.28,
+      "fontId" : 5,
+      "text" : "on the U.S. General Services Administration’s (GSA) System for Award Management at  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 378.935,
+      "rightX" : 274.368,
+      "topY" : 366.935,
+      "baseLineY" : 376.2,
+      "fontId" : 10,
+      "text" : "https://sam.gov/content/exclusions"
+    }, {
+      "leftX" : 274.38,
+      "bottomY" : 378.935,
+      "rightX" : 536.94,
+      "topY" : 366.935,
+      "baseLineY" : 376.2,
+      "fontId" : 5,
+      "text" : " as part of their eligibility determination of applicants. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 392.855,
+      "rightX" : 511.92,
+      "topY" : 380.855,
+      "baseLineY" : 390.12,
+      "fontId" : 5,
+      "text" : "The lender must use due diligence in determining if the applicants are suspended or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 406.7149,
+      "rightX" : 503.5798,
+      "topY" : 394.7149,
+      "baseLineY" : 403.98,
+      "fontId" : 5,
+      "text" : "debarred and eligible for the program. Lenders must retain documentation in their "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 420.635,
+      "rightX" : 518.9987,
+      "topY" : 408.635,
+      "baseLineY" : 417.9,
+      "fontId" : 5,
+      "text" : "permanent loan file to support their decision. The above list is not all inclusive as the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 434.555,
+      "rightX" : 471.18,
+      "topY" : 422.555,
+      "baseLineY" : 431.82,
+      "fontId" : 5,
+      "text" : "lender is responsible for determining all parties involved in the transaction. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 448.475,
+      "rightX" : 111,
+      "topY" : 436.475,
+      "baseLineY" : 445.74,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 462.395,
+      "rightX" : 540.2385,
+      "topY" : 450.395,
+      "baseLineY" : 459.66,
+      "fontId" : 5,
+      "text" : "Lenders who utilize an automated method that creates a report, similar to a watch list, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 476.315,
+      "rightX" : 519.8961,
+      "topY" : 464.315,
+      "baseLineY" : 473.58,
+      "fontId" : 5,
+      "text" : "which performs a check of the SAM website, will meet the criteria of this check. The "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 490.235,
+      "rightX" : 533.22,
+      "topY" : 478.235,
+      "baseLineY" : 487.5001,
+      "fontId" : 5,
+      "text" : "results of the SAM check including date and screen print will be retained in the lender’s "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 504.155,
+      "rightX" : 524.2798,
+      "topY" : 492.155,
+      "baseLineY" : 501.4201,
+      "fontId" : 5,
+      "text" : "permanent loan file. The SAM check should occur prior to the request for Conditional "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 518.0751,
+      "rightX" : 537.9597,
+      "topY" : 506.0751,
+      "baseLineY" : 515.3401,
+      "fontId" : 5,
+      "text" : "Commitment and no greater than 30 days prior to loan closing; otherwise, the lender will "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 531.9951,
+      "rightX" : 526.6798,
+      "topY" : 519.9951,
+      "baseLineY" : 529.2601,
+      "fontId" : 5,
+      "text" : "update their documentation by performing another check of SAM. Rural Development "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 545.8551,
+      "rightX" : 510.96,
+      "topY" : 533.8551,
+      "baseLineY" : 543.1201,
+      "fontId" : 5,
+      "text" : "staff is not required to rescreen applicants upon request of a loan guarantee. During "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 559.7751,
+      "rightX" : 516.9598,
+      "topY" : 547.7751,
+      "baseLineY" : 557.0401,
+      "fontId" : 5,
+      "text" : "submission of the application, the lender will verify a SAM check was performed by "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 573.695,
+      "rightX" : 490.62,
+      "topY" : 561.695,
+      "baseLineY" : 570.9601,
+      "fontId" : 5,
+      "text" : "documenting the date in GUS. For loan types not supported by GUS (manually "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 587.6151,
+      "rightX" : 538.2,
+      "topY" : 575.6151,
+      "baseLineY" : 584.8801,
+      "fontId" : 5,
+      "text" : "submitted) the lender will provide the date the SAM check was completed and identify if "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 601.5351,
+      "rightX" : 541.6197,
+      "topY" : 589.5351,
+      "baseLineY" : 598.8001,
+      "fontId" : 5,
+      "text" : "the party to the transaction is debarred when submitting the file to Rural Development for "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 615.4551,
+      "rightX" : 513.9598,
+      "topY" : 603.4551,
+      "baseLineY" : 612.7201,
+      "fontId" : 5,
+      "text" : "issuance of a Conditional Commitment.  Additional guidance on this process can be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 629.375,
+      "rightX" : 512.9399,
+      "topY" : 617.375,
+      "baseLineY" : 626.6401,
+      "fontId" : 5,
+      "text" : "located following Step 3, “E-mail the Appropriate Production Team” of the Manual "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 643.295,
+      "rightX" : 260.04,
+      "topY" : 631.295,
+      "baseLineY" : 640.5601,
+      "fontId" : 5,
+      "text" : "Submission Job Aid, located at "
+    }, {
+      "leftX" : 260.04,
+      "bottomY" : 643.295,
+      "rightX" : 519.696,
+      "topY" : 631.295,
+      "baseLineY" : 640.5601,
+      "fontId" : 10,
+      "text" : "https://www.rd.usda.gov/resources/usda-linc-training-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 657.2149,
+      "rightX" : 184.68,
+      "topY" : 645.2149,
+      "baseLineY" : 654.48,
+      "fontId" : 10,
+      "text" : "resource-library"
+    }, {
+      "leftX" : 184.68,
+      "bottomY" : 657.2149,
+      "rightX" : 526.86,
+      "topY" : 645.2149,
+      "baseLineY" : 654.48,
+      "fontId" : 5,
+      "text" : ", in the “Loan Origination” tab, “Documents and Resources”, “Manual "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 671.135,
+      "rightX" : 216.06,
+      "topY" : 659.135,
+      "baseLineY" : 668.4,
+      "fontId" : 5,
+      "text" : "Submission Job Aid”. "
+    }, {
+      "leftX" : 357.06,
+      "bottomY" : 671.135,
+      "rightX" : 360.06,
+      "topY" : 659.135,
+      "baseLineY" : 668.4,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 694.8349,
+      "rightX" : 526.02,
+      "topY" : 682.8349,
+      "baseLineY" : 692.1,
+      "fontId" : 5,
+      "text" : "___________________________________________________________________________ "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 706.8592,
+      "rightX" : 182.4885,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : "(03-09-16) SPECIAL PN   "
+    }, {
+      "leftX" : 215.9854,
+      "bottomY" : 706.8592,
+      "rightX" : 218.4904,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 251.9872,
+      "bottomY" : 706.8592,
+      "rightX" : 254.4922,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 287.9891,
+      "bottomY" : 706.8592,
+      "rightX" : 303.8107,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : "8-5 "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 720.107,
+      "rightX" : 197.666,
+      "topY" : 709.107,
+      "baseLineY" : 717.6,
+      "fontId" : 1,
+      "text" : "Revised (08-05-25)  PN 649"
+    }, {
+      "leftX" : 197.64,
+      "bottomY" : 719.8791,
+      "rightX" : 200.145,
+      "topY" : 709.8791,
+      "baseLineY" : 717.6,
+      "fontId" : 9,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 84.7671,
+      "rightX" : 124.8467,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 97.427,
+      "rightX" : 293.1482,
+      "topY" : 86.427,
+      "baseLineY" : 94.9199,
+      "fontId" : 1,
+      "text" : "Paragraph 8.2 Applicant Eligibility Requirements "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 111.3839,
+      "rightX" : 118.1877,
+      "topY" : 99.3839,
+      "baseLineY" : 108.54,
+      "fontId" : 3,
+      "text" : "F."
+    }, {
+      "leftX" : 118.14,
+      "bottomY" : 111.6908,
+      "rightX" : 121.4412,
+      "topY" : 99.6908,
+      "baseLineY" : 108.54,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 111.3839,
+      "rightX" : 514.86,
+      "topY" : 99.3839,
+      "baseLineY" : 108.54,
+      "fontId" : 3,
+      "text" : "Having Acceptable Citizenship or Immigration Status [7 CFR 3555.151 (b)] "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 122.7899,
+      "rightX" : 74.505,
+      "topY" : 112.7899,
+      "baseLineY" : 120.42,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 136.535,
+      "rightX" : 538.0797,
+      "topY" : 124.535,
+      "baseLineY" : 133.8,
+      "fontId" : 5,
+      "text" : "The applicants must be a U.S. citizen, a U.S. non-citizen national, or a qualified alien "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 150.3349,
+      "rightX" : 501.9598,
+      "topY" : 138.3349,
+      "baseLineY" : 147.6,
+      "fontId" : 5,
+      "text" : "as identified in Section 401 of the Personal Responsibility and Work Opportunity "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 164.1349,
+      "rightX" : 526.56,
+      "topY" : 152.1349,
+      "baseLineY" : 161.4,
+      "fontId" : 5,
+      "text" : "Reconciliation Act of 1996 (PRWORA) (8 U.S.C. Section 1611). Lenders must secure "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 177.9349,
+      "rightX" : 541.8,
+      "topY" : 165.9349,
+      "baseLineY" : 175.2,
+      "fontId" : 5,
+      "text" : "and retain acceptable documentation to determine whether the applicants for a guaranteed "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 191.7349,
+      "rightX" : 537.5159,
+      "topY" : 179.7349,
+      "baseLineY" : 188.9999,
+      "fontId" : 5,
+      "text" : "loan are U.S. citizens, U.S. non- citizen nationals, or “qualified aliens.”  In all cases, non-"
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 205.5349,
+      "rightX" : 539.9409,
+      "topY" : 193.5349,
+      "baseLineY" : 202.7999,
+      "fontId" : 5,
+      "text" : "U.S. citizens legally admitted into the United States will have a United States Citizenship "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 219.3349,
+      "rightX" : 529.6198,
+      "topY" : 207.3349,
+      "baseLineY" : 216.5999,
+      "fontId" : 5,
+      "text" : "and Immigration Services (USCIS) number. In the rare occasion where a number is not "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 233.1349,
+      "rightX" : 272.3279,
+      "topY" : 221.1349,
+      "baseLineY" : 230.3999,
+      "fontId" : 5,
+      "text" : "available or known, the applicants"
+    }, {
+      "leftX" : 272.3399,
+      "bottomY" : 233.2438,
+      "rightX" : 275.3399,
+      "topY" : 221.2438,
+      "baseLineY" : 230.3999,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 275.3399,
+      "bottomY" : 233.1349,
+      "rightX" : 408.5999,
+      "topY" : 221.1349,
+      "baseLineY" : 230.3999,
+      "fontId" : 5,
+      "text" : "should contact the USCIS.  "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 246.9349,
+      "rightX" : 128.9999,
+      "topY" : 234.9349,
+      "baseLineY" : 244.1999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 260.7348,
+      "rightX" : 519.5999,
+      "topY" : 248.7348,
+      "baseLineY" : 257.9999,
+      "fontId" : 5,
+      "text" : "For all file submissions, the lender is responsible for documenting the applicants’ "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 274.5348,
+      "rightX" : 531.1199,
+      "topY" : 262.5348,
+      "baseLineY" : 271.7999,
+      "fontId" : 5,
+      "text" : "legal residency. The lender is responsible to collect any necessary documents needed to "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 288.3348,
+      "rightX" : 512.6398,
+      "topY" : 276.3348,
+      "baseLineY" : 285.5999,
+      "fontId" : 5,
+      "text" : "validate eligibility.  By submitting the request for a Conditional Commitment to the "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 302.1348,
+      "rightX" : 531.8399,
+      "topY" : 290.1348,
+      "baseLineY" : 299.3998,
+      "fontId" : 5,
+      "text" : "Agency, the lender represents and warrants that the non-U.S. citizen applicant is legally "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 315.9348,
+      "rightX" : 508.62,
+      "topY" : 303.9348,
+      "baseLineY" : 313.1998,
+      "fontId" : 5,
+      "text" : "present in the United States and meets the eligibility requirements of the SFHGLP. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 327.4192,
+      "rightX" : 128.505,
+      "topY" : 317.4192,
+      "baseLineY" : 325.14,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 341.255,
+      "rightX" : 534.5399,
+      "topY" : 329.255,
+      "baseLineY" : 338.52,
+      "fontId" : 5,
+      "text" : "This program is available to individuals who receive a loan note guarantee under the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 355.0549,
+      "rightX" : 182.7,
+      "topY" : 343.0549,
+      "baseLineY" : 352.32,
+      "fontId" : 5,
+      "text" : "SFHGLP who: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 375.1151,
+      "rightX" : 131.52,
+      "topY" : 363.1151,
+      "baseLineY" : 372.96,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 375.8171,
+      "rightX" : 134.856,
+      "topY" : 363.8171,
+      "baseLineY" : 372.96,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 375.6949,
+      "rightX" : 539.9398,
+      "topY" : 363.6949,
+      "baseLineY" : 372.96,
+      "fontId" : 5,
+      "text" : "Reside as a citizen in any of the 50 States, the Commonwealth of Puerto Rico, the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 389.6149,
+      "rightX" : 541.3198,
+      "topY" : 377.6149,
+      "baseLineY" : 386.88,
+      "fontId" : 5,
+      "text" : "U.S. Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 403.535,
+      "rightX" : 514.9737,
+      "topY" : 391.535,
+      "baseLineY" : 400.8,
+      "fontId" : 5,
+      "text" : "Marianas, Federated States of Micronesia, and the Republics of the Marshall "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 417.455,
+      "rightX" : 250.26,
+      "topY" : 405.455,
+      "baseLineY" : 414.72,
+      "fontId" : 5,
+      "text" : "Islands and Palau; or, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 437.6351,
+      "rightX" : 131.52,
+      "topY" : 425.6351,
+      "baseLineY" : 435.48,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 438.3372,
+      "rightX" : 134.856,
+      "topY" : 426.3372,
+      "baseLineY" : 435.48,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 438.215,
+      "rightX" : 509.5198,
+      "topY" : 426.215,
+      "baseLineY" : 435.48,
+      "fontId" : 5,
+      "text" : "A non-citizen national who resides in one of the foregoing areas after being "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 452.135,
+      "rightX" : 510.66,
+      "topY" : 440.135,
+      "baseLineY" : 449.4,
+      "fontId" : 5,
+      "text" : "legally admitted to the U.S. for permanent residence or on indefinite parole. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 466.055,
+      "rightX" : 129,
+      "topY" : 454.055,
+      "baseLineY" : 463.32,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 479.975,
+      "rightX" : 493.8573,
+      "topY" : 467.975,
+      "baseLineY" : 477.2401,
+      "fontId" : 5,
+      "text" : "The term “indefinite parole” is no longer a term used by the Citizenship and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 493.835,
+      "rightX" : 532.5601,
+      "topY" : 481.835,
+      "baseLineY" : 491.1,
+      "fontId" : 5,
+      "text" : "Immigration Service (CIS), formerly the Immigration and Naturalization Service (INS). "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 507.755,
+      "rightX" : 129.0001,
+      "topY" : 495.755,
+      "baseLineY" : 505.0201,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 521.675,
+      "rightX" : 541.86,
+      "topY" : 509.675,
+      "baseLineY" : 518.9401,
+      "fontId" : 5,
+      "text" : "Generally, a U.S. non-citizen national is a person born in American Samoa or Swains  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 535.595,
+      "rightX" : 533.5799,
+      "topY" : 523.595,
+      "baseLineY" : 532.86,
+      "fontId" : 5,
+      "text" : "Island or after the date the U.S. acquired American Samoa or Swains Island, or a person "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 549.5149,
+      "rightX" : 491.8796,
+      "topY" : 537.5149,
+      "baseLineY" : 546.78,
+      "fontId" : 5,
+      "text" : "whose parents are U.S. non-citizen nationals. Typical evidence of the relatively "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 563.4349,
+      "rightX" : 542.641,
+      "topY" : 551.4349,
+      "baseLineY" : 560.7,
+      "fontId" : 5,
+      "text" : "uncommon status as a non-citizen national includes a birth certificate or passport. Persons "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 577.355,
+      "rightX" : 396.9,
+      "topY" : 565.355,
+      "baseLineY" : 574.62,
+      "fontId" : 5,
+      "text" : "who are non-citizen nationals are eligible for consideration. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 591.3949,
+      "rightX" : 111,
+      "topY" : 579.3949,
+      "baseLineY" : 588.66,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 591.3949,
+      "rightX" : 147,
+      "topY" : 579.3949,
+      "baseLineY" : 588.66,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 605.3149,
+      "rightX" : 524.9398,
+      "topY" : 593.3149,
+      "baseLineY" : 602.58,
+      "fontId" : 5,
+      "text" : "Aliens must provide acceptable evidence that they are qualified aliens. A qualified "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 619.1749,
+      "rightX" : 403.62,
+      "topY" : 607.1749,
+      "baseLineY" : 616.4399,
+      "fontId" : 5,
+      "text" : "alien is defined under PRWORA (8 U.S.C. Section 1641) as: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 641.2751,
+      "rightX" : 131.52,
+      "topY" : 629.2751,
+      "baseLineY" : 639.12,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 641.9771,
+      "rightX" : 134.856,
+      "topY" : 629.9771,
+      "baseLineY" : 639.12,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 641.855,
+      "rightX" : 540.6,
+      "topY" : 629.855,
+      "baseLineY" : 639.12,
+      "fontId" : 5,
+      "text" : "An alien who is lawfully admitted for permanent residence under the Immigration "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 655.7149,
+      "rightX" : 290.28,
+      "topY" : 643.7149,
+      "baseLineY" : 652.98,
+      "fontId" : 5,
+      "text" : "and Nationality Act (INA); or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 677.9351,
+      "rightX" : 131.52,
+      "topY" : 665.9351,
+      "baseLineY" : 675.78,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 678.6371,
+      "rightX" : 134.856,
+      "topY" : 666.6371,
+      "baseLineY" : 675.78,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 678.5149,
+      "rightX" : 462.06,
+      "topY" : 666.5149,
+      "baseLineY" : 675.78,
+      "fontId" : 5,
+      "text" : "An alien who is granted asylum under section 208 of such Act; or "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 708.035,
+      "rightX" : 538.02,
+      "topY" : 696.035,
+      "baseLineY" : 705.3,
+      "fontId" : 5,
+      "text" : "_____________________________________________________________________________ "
+    }, {
+      "leftX" : 284.34,
+      "bottomY" : 720.1191,
+      "rightX" : 300.1616,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 9,
+      "text" : "8-6 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 84.7671,
+      "rightX" : 124.8467,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 97.427,
+      "rightX" : 293.1482,
+      "topY" : 86.427,
+      "baseLineY" : 94.9199,
+      "fontId" : 1,
+      "text" : "Paragraph 8.2 Applicant Eligibility Requirements "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 111.5351,
+      "rightX" : 131.52,
+      "topY" : 99.5351,
+      "baseLineY" : 109.38,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 112.2371,
+      "rightX" : 134.856,
+      "topY" : 100.2371,
+      "baseLineY" : 109.38,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 112.115,
+      "rightX" : 534.48,
+      "topY" : 100.115,
+      "baseLineY" : 109.38,
+      "fontId" : 5,
+      "text" : "A refugee who is admitted to the United States under section 207 of such Act; or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 134.2151,
+      "rightX" : 131.52,
+      "topY" : 122.2151,
+      "baseLineY" : 132.06,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 134.9171,
+      "rightX" : 134.856,
+      "topY" : 122.9171,
+      "baseLineY" : 132.06,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 134.795,
+      "rightX" : 542.9399,
+      "topY" : 122.795,
+      "baseLineY" : 132.06,
+      "fontId" : 5,
+      "text" : "An alien who is paroled into the United States under section 212(d)(5) of such Act "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 148.7149,
+      "rightX" : 301.56,
+      "topY" : 136.7149,
+      "baseLineY" : 145.98,
+      "fontId" : 5,
+      "text" : "for a period of at least 1 year; or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 170.8751,
+      "rightX" : 131.52,
+      "topY" : 158.8751,
+      "baseLineY" : 168.72,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 171.5771,
+      "rightX" : 134.856,
+      "topY" : 159.5771,
+      "baseLineY" : 168.72,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 171.4549,
+      "rightX" : 534.0001,
+      "topY" : 159.4549,
+      "baseLineY" : 168.72,
+      "fontId" : 5,
+      "text" : "An alien whose deportation is being withheld under sections 243(h) or 241(b)(3) "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 185.2549,
+      "rightX" : 280.92,
+      "topY" : 173.2549,
+      "baseLineY" : 182.52,
+      "fontId" : 5,
+      "text" : "of such Act, as amended; or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 207.3551,
+      "rightX" : 131.5201,
+      "topY" : 195.3551,
+      "baseLineY" : 205.2,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 208.0571,
+      "rightX" : 134.856,
+      "topY" : 196.0571,
+      "baseLineY" : 205.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 207.9349,
+      "rightX" : 526.32,
+      "topY" : 195.9349,
+      "baseLineY" : 205.2,
+      "fontId" : 5,
+      "text" : "An alien who is granted conditional entry pursuant to section 203(a)(7) of such "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 221.8549,
+      "rightX" : 342.18,
+      "topY" : 209.8549,
+      "baseLineY" : 219.1199,
+      "fontId" : 5,
+      "text" : "Act as in effect prior to April 1, 1980; or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 244.075,
+      "rightX" : 131.52,
+      "topY" : 232.075,
+      "baseLineY" : 241.9199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 244.7771,
+      "rightX" : 134.856,
+      "topY" : 232.7771,
+      "baseLineY" : 241.9199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 244.6549,
+      "rightX" : 511.2,
+      "topY" : 232.6549,
+      "baseLineY" : 241.9199,
+      "fontId" : 5,
+      "text" : "An alien who is a Cuban/Haitian Entrant as defined by section 501(e) of the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 258.5149,
+      "rightX" : 369.48,
+      "topY" : 246.5149,
+      "baseLineY" : 255.7799,
+      "fontId" : 5,
+      "text" : "Refugee Education Assistance Act of 1980; or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 280.735,
+      "rightX" : 131.52,
+      "topY" : 268.735,
+      "baseLineY" : 278.5799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 281.437,
+      "rightX" : 134.856,
+      "topY" : 269.437,
+      "baseLineY" : 278.5799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 281.3149,
+      "rightX" : 537.8997,
+      "topY" : 269.3149,
+      "baseLineY" : 278.5799,
+      "fontId" : 5,
+      "text" : "An alien who has been battered or subjected to extreme cruelty under section 431 "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 295.2349,
+      "rightX" : 338.16,
+      "topY" : 283.2349,
+      "baseLineY" : 292.4999,
+      "fontId" : 5,
+      "text" : "of the Immigration and Nationality Act. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 315.1549,
+      "rightX" : 147,
+      "topY" : 303.1549,
+      "baseLineY" : 312.4199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 329.0149,
+      "rightX" : 526.2561,
+      "topY" : 317.0149,
+      "baseLineY" : 326.2799,
+      "fontId" : 5,
+      "text" : "In addition to the categories of qualified aliens described above, Native Americans "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 342.8149,
+      "rightX" : 528.24,
+      "topY" : 330.8149,
+      "baseLineY" : 340.0799,
+      "fontId" : 5,
+      "text" : "born in Canada may also be eligible as lawfully admitted for permanent residence. The "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 356.6148,
+      "rightX" : 362.22,
+      "topY" : 344.6148,
+      "baseLineY" : 353.8799,
+      "fontId" : 5,
+      "text" : "documentation described above may be unavailable. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 370.4148,
+      "rightX" : 129,
+      "topY" : 358.4148,
+      "baseLineY" : 367.6799,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 384.2148,
+      "rightX" : 531.6599,
+      "topY" : 372.2148,
+      "baseLineY" : 381.4799,
+      "fontId" : 5,
+      "text" : "To establish the applicants are qualified aliens, the Native American should provide "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 398.1238,
+      "rightX" : 123.7199,
+      "topY" : 386.1238,
+      "baseLineY" : 395.2798,
+      "fontId" : 3,
+      "text" : "all "
+    }, {
+      "leftX" : 123.7199,
+      "bottomY" : 398.0148,
+      "rightX" : 284.5799,
+      "topY" : 386.0148,
+      "baseLineY" : 395.2798,
+      "fontId" : 5,
+      "text" : "of the following documentation:  "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 411.8148,
+      "rightX" : 128.9999,
+      "topY" : 399.8148,
+      "baseLineY" : 409.0798,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 431.875,
+      "rightX" : 131.5199,
+      "topY" : 419.875,
+      "baseLineY" : 429.7198,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 432.577,
+      "rightX" : 134.8559,
+      "topY" : 420.577,
+      "baseLineY" : 429.7198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 432.4548,
+      "rightX" : 515.5197,
+      "topY" : 420.4548,
+      "baseLineY" : 429.7198,
+      "fontId" : 5,
+      "text" : "A letter from their Native American tribe stating that the alien has at least 50 "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 446.4348,
+      "rightX" : 506.5197,
+      "topY" : 434.4348,
+      "baseLineY" : 443.6999,
+      "fontId" : 5,
+      "text" : "percent Native American or Aboriginal blood (also referred to as the blood "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 460.2948,
+      "rightX" : 196.3199,
+      "topY" : 448.2948,
+      "baseLineY" : 457.5598,
+      "fontId" : 5,
+      "text" : "quantum); "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 480.475,
+      "rightX" : 131.5199,
+      "topY" : 468.475,
+      "baseLineY" : 478.3199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 481.177,
+      "rightX" : 134.8559,
+      "topY" : 469.177,
+      "baseLineY" : 478.3199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 481.0548,
+      "rightX" : 540.5399,
+      "topY" : 469.0548,
+      "baseLineY" : 478.3199,
+      "fontId" : 5,
+      "text" : "Their Canadian “Certificate of Indian Status Card” with a red stripe along the top; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 501.175,
+      "rightX" : 131.5199,
+      "topY" : 489.175,
+      "baseLineY" : 499.0199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 501.877,
+      "rightX" : 134.8559,
+      "topY" : 489.877,
+      "baseLineY" : 499.0199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 501.7548,
+      "rightX" : 252.9599,
+      "topY" : 489.7548,
+      "baseLineY" : 499.0199,
+      "fontId" : 5,
+      "text" : "Their birth certificate; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 521.815,
+      "rightX" : 131.5199,
+      "topY" : 509.815,
+      "baseLineY" : 519.6599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 522.517,
+      "rightX" : 134.8559,
+      "topY" : 510.517,
+      "baseLineY" : 519.6599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 522.3948,
+      "rightX" : 343.86,
+      "topY" : 510.3948,
+      "baseLineY" : 519.6599,
+      "fontId" : 5,
+      "text" : "If a Haudenosaunee, their Red I.D. Card; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 542.455,
+      "rightX" : 131.5199,
+      "topY" : 530.455,
+      "baseLineY" : 540.2999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 543.157,
+      "rightX" : 134.8559,
+      "topY" : 531.157,
+      "baseLineY" : 540.2999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 543.0348,
+      "rightX" : 519.9597,
+      "topY" : 531.0348,
+      "baseLineY" : 540.2999,
+      "fontId" : 5,
+      "text" : "If an Inuit, an Inuit enrollment card from one of the regional Inuit lands claim "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 557.0148,
+      "rightX" : 204.9599,
+      "topY" : 545.0148,
+      "baseLineY" : 554.2798,
+      "fontId" : 5,
+      "text" : "agreements; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 577.195,
+      "rightX" : 131.5199,
+      "topY" : 565.195,
+      "baseLineY" : 575.0399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 577.897,
+      "rightX" : 134.8559,
+      "topY" : 565.897,
+      "baseLineY" : 575.0399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 577.7748,
+      "rightX" : 533.8799,
+      "topY" : 565.7748,
+      "baseLineY" : 575.0399,
+      "fontId" : 5,
+      "text" : "Their social security card issued by the U.S. Social Security Administration; and "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 597.8349,
+      "rightX" : 131.5199,
+      "topY" : 585.8349,
+      "baseLineY" : 595.6798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 598.537,
+      "rightX" : 134.8559,
+      "topY" : 586.537,
+      "baseLineY" : 595.6798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 598.4148,
+      "rightX" : 381.2399,
+      "topY" : 586.4148,
+      "baseLineY" : 595.6798,
+      "fontId" : 5,
+      "text" : "Their Canadian or United States driver’s license. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 612.4548,
+      "rightX" : 128.9999,
+      "topY" : 600.4548,
+      "baseLineY" : 609.7198,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 626.5438,
+      "rightX" : 86.9999,
+      "topY" : 614.5438,
+      "baseLineY" : 623.6998,
+      "fontId" : 3,
+      "text" : "8.3"
+    }, {
+      "leftX" : 86.9999,
+      "bottomY" : 626.8507,
+      "rightX" : 90.3359,
+      "topY" : 614.8507,
+      "baseLineY" : 623.6998,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 626.5438,
+      "rightX" : 264.5999,
+      "topY" : 614.5438,
+      "baseLineY" : 623.6998,
+      "fontId" : 3,
+      "text" : "TRUTHFUL APPLICATION "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 640.8837,
+      "rightX" : 74.9999,
+      "topY" : 628.8837,
+      "baseLineY" : 638.0398,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 654.5748,
+      "rightX" : 528.2396,
+      "topY" : 642.5748,
+      "baseLineY" : 651.8398,
+      "fontId" : 5,
+      "text" : "The integrity of the information presented in the mortgage application process is of "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 668.4948,
+      "rightX" : 519.4797,
+      "topY" : 656.4948,
+      "baseLineY" : 665.7598,
+      "fontId" : 5,
+      "text" : "the utmost importance. Applicants and lenders should be aware that they will be held "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 694.8349,
+      "rightX" : 526.02,
+      "topY" : 682.8349,
+      "baseLineY" : 692.1,
+      "fontId" : 5,
+      "text" : "___________________________________________________________________________ "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 706.8592,
+      "rightX" : 177.1579,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 179.9935,
+      "bottomY" : 706.8592,
+      "rightX" : 182.4985,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 215.9954,
+      "bottomY" : 706.8592,
+      "rightX" : 218.5004,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 251.9973,
+      "bottomY" : 706.8592,
+      "rightX" : 254.5023,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 287.9991,
+      "bottomY" : 706.8592,
+      "rightX" : 303.8207,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : "8-7 "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 720.107,
+      "rightX" : 197.666,
+      "topY" : 709.107,
+      "baseLineY" : 717.6,
+      "fontId" : 1,
+      "text" : "Revised (08-05-25)  PN 649"
+    }, {
+      "leftX" : 197.64,
+      "bottomY" : 719.8791,
+      "rightX" : 200.145,
+      "topY" : 709.8791,
+      "baseLineY" : 717.6,
+      "fontId" : 9,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 84.7671,
+      "rightX" : 124.8467,
+      "topY" : 73.7671,
+      "baseLineY" : 82.26,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 97.427,
+      "rightX" : 229.9034,
+      "topY" : 86.427,
+      "baseLineY" : 94.9199,
+      "fontId" : 1,
+      "text" : "Paragraph 8.3 Truthful Application "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 110.032,
+      "rightX" : 74.745,
+      "topY" : 99.032,
+      "baseLineY" : 107.525,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 305.9948,
+      "bottomY" : 110.032,
+      "rightX" : 308.7398,
+      "topY" : 99.032,
+      "baseLineY" : 107.525,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 539.9896,
+      "bottomY" : 110.032,
+      "rightX" : 542.7346,
+      "topY" : 99.032,
+      "baseLineY" : 107.525,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 123.875,
+      "rightX" : 535.2596,
+      "topY" : 111.875,
+      "baseLineY" : 121.14,
+      "fontId" : 5,
+      "text" : "responsible for the validity of the information submitted to the Agency. Applicants must "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 137.795,
+      "rightX" : 506.5799,
+      "topY" : 125.795,
+      "baseLineY" : 135.06,
+      "fontId" : 5,
+      "text" : "provide truthful information when applying for a guaranteed loan. Applicants who "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 151.7149,
+      "rightX" : 529.2,
+      "topY" : 139.7149,
+      "baseLineY" : 148.98,
+      "fontId" : 5,
+      "text" : "provide false information, or who fail to disclose relevant information, will be denied a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 165.6349,
+      "rightX" : 540.3,
+      "topY" : 153.6349,
+      "baseLineY" : 162.9,
+      "fontId" : 5,
+      "text" : "guaranteed loan. Falsification of information or disclosure can jeopardize any issuance of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 179.5549,
+      "rightX" : 535.4399,
+      "topY" : 167.5549,
+      "baseLineY" : 176.8199,
+      "fontId" : 5,
+      "text" : "a Loan Note Guarantee or continued eligibility of the approved lender, depending on the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 193.4749,
+      "rightX" : 214.92,
+      "topY" : 181.4749,
+      "baseLineY" : 190.7399,
+      "fontId" : 5,
+      "text" : "severity of the action. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 207.3949,
+      "rightX" : 129,
+      "topY" : 195.3949,
+      "baseLineY" : 204.6599,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 221.3149,
+      "rightX" : 505.9198,
+      "topY" : 209.3149,
+      "baseLineY" : 218.5799,
+      "fontId" : 5,
+      "text" : "The types of information covered by this policy include all documentation and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 235.2348,
+      "rightX" : 481.3199,
+      "topY" : 223.2348,
+      "baseLineY" : 232.4999,
+      "fontId" : 5,
+      "text" : "information submitted by the approved lender when requesting a Conditional "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 249.1548,
+      "rightX" : 534.2997,
+      "topY" : 237.1548,
+      "baseLineY" : 246.4199,
+      "fontId" : 5,
+      "text" : "Commitment, Loan Note Guarantee, or servicing action request. Fraud or other criminal "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 263.0148,
+      "rightX" : 531.5397,
+      "topY" : 251.0148,
+      "baseLineY" : 260.2798,
+      "fontId" : 5,
+      "text" : "misconduct in connection with loan applicants will be reported to the appropriate office "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 276.9348,
+      "rightX" : 511.8598,
+      "topY" : 264.9348,
+      "baseLineY" : 274.1998,
+      "fontId" : 5,
+      "text" : "or Agency as required by state or federal law. These include the Office of Inspector "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 290.8548,
+      "rightX" : 541.8,
+      "topY" : 278.8548,
+      "baseLineY" : 288.1198,
+      "fontId" : 5,
+      "text" : "General, state agencies, or other entities that may take whatever action is required by law. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 304.7748,
+      "rightX" : 129,
+      "topY" : 292.7748,
+      "baseLineY" : 302.0399,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 318.6948,
+      "rightX" : 508.2633,
+      "topY" : 306.6948,
+      "baseLineY" : 315.9599,
+      "fontId" : 5,
+      "text" : " Any intentional or negligent misrepresentation of information contained in the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 332.4948,
+      "rightX" : 517.2598,
+      "topY" : 320.4948,
+      "baseLineY" : 329.7599,
+      "fontId" : 5,
+      "text" : "application package may result in civil liability, including monetary damages, to any "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 346.2948,
+      "rightX" : 534.2998,
+      "topY" : 334.2948,
+      "baseLineY" : 343.5598,
+      "fontId" : 5,
+      "text" : "person who may suffer any loss due to reliance upon any misrepresentation made on the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 360.0948,
+      "rightX" : 540.5997,
+      "topY" : 348.0948,
+      "baseLineY" : 357.3598,
+      "fontId" : 5,
+      "text" : "application and/or in criminal penalties including but not limited to, fine or imprisonment "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 373.8948,
+      "rightX" : 488.64,
+      "topY" : 361.8948,
+      "baseLineY" : 371.1598,
+      "fontId" : 5,
+      "text" : "or both under the provisions of Title 18, United States Code, Sec. 1001, et seq. "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 694.8349,
+      "rightX" : 526.02,
+      "topY" : 682.8349,
+      "baseLineY" : 692.1,
+      "fontId" : 5,
+      "text" : "___________________________________________________________________________ "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 706.8592,
+      "rightX" : 182.4885,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : "(03-09-16) SPECIAL PN   "
+    }, {
+      "leftX" : 215.9854,
+      "bottomY" : 706.8592,
+      "rightX" : 218.4904,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 251.9872,
+      "bottomY" : 706.8592,
+      "rightX" : 254.4922,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 287.9891,
+      "bottomY" : 706.8592,
+      "rightX" : 303.8107,
+      "topY" : 696.8592,
+      "baseLineY" : 704.58,
+      "fontId" : 9,
+      "text" : "8-8 "
+    }, {
+      "leftX" : 73.02,
+      "bottomY" : 720.107,
+      "rightX" : 197.666,
+      "topY" : 709.107,
+      "baseLineY" : 717.6,
+      "fontId" : 1,
+      "text" : "Revised (08-05-25)  PN 649"
+    }, {
+      "leftX" : 197.64,
+      "bottomY" : 719.8791,
+      "rightX" : 200.145,
+      "topY" : 709.8791,
+      "baseLineY" : 717.6,
+      "fontId" : 9,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "CourierNew",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 1.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

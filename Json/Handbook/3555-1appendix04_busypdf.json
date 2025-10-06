@@ -1,0 +1,1501 @@
+{
+  "pdfDoc" : "3555-1appendix04.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 476.46,
+      "bottomY" : 83.6391,
+      "rightX" : 524.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 475.0672,
+      "bottomY" : 95.102,
+      "rightX" : 524.4958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 476.7505,
+      "bottomY" : 106.625,
+      "rightX" : 524.4999,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 1 of 2 "
+    }, {
+      "leftX" : 258.66,
+      "bottomY" : 125.2319,
+      "rightX" : 357.3432,
+      "topY" : 109.2319,
+      "baseLineY" : 121.44,
+      "fontId" : 2,
+      "text" : "APPENDIX 4 "
+    }, {
+      "leftX" : 167.7625,
+      "bottomY" : 143.6549,
+      "rightX" : 444.2405,
+      "topY" : 127.6549,
+      "baseLineY" : 139.863,
+      "fontId" : 2,
+      "text" : "AGENCY CONTACT INFORMATION"
+    }, {
+      "leftX" : 444.18,
+      "bottomY" : 142.2299,
+      "rightX" : 446.685,
+      "topY" : 132.2299,
+      "baseLineY" : 139.86,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 163.4519,
+      "rightX" : 310.005,
+      "topY" : 147.4519,
+      "baseLineY" : 159.66,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 143.94,
+      "bottomY" : 178.115,
+      "rightX" : 279.24,
+      "topY" : 166.115,
+      "baseLineY" : 175.38,
+      "fontId" : 4,
+      "text" : "RURAL DEVELOPMENT "
+    }, {
+      "leftX" : 372.24,
+      "bottomY" : 178.115,
+      "rightX" : 518.88,
+      "topY" : 166.115,
+      "baseLineY" : 175.38,
+      "fontId" : 4,
+      "text" : "CONTACT INFORMATION "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 194.075,
+      "rightX" : 444.96,
+      "topY" : 182.075,
+      "baseLineY" : 191.34,
+      "fontId" : 5,
+      "text" : "Click the link below: "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 196.2239,
+      "rightX" : 237.66,
+      "topY" : 184.2239,
+      "baseLineY" : 193.38,
+      "fontId" : 6,
+      "text" : "Rural Development Website "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 214.1951,
+      "rightX" : 113.52,
+      "topY" : 202.1951,
+      "baseLineY" : 212.04,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 214.8971,
+      "rightX" : 116.856,
+      "topY" : 202.8971,
+      "baseLineY" : 212.04,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 214.7749,
+      "rightX" : 302.64,
+      "topY" : 202.7749,
+      "baseLineY" : 212.04,
+      "fontId" : 5,
+      "text" : "Includes National, State Offices and "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 207.875,
+      "rightX" : 512.016,
+      "topY" : 195.875,
+      "baseLineY" : 205.14,
+      "fontId" : 9,
+      "text" : "https://www.rd.usda.gov/programs-"
+    }, {
+      "leftX" : 126,
+      "bottomY" : 229.6549,
+      "rightX" : 221.64,
+      "topY" : 217.6549,
+      "baseLineY" : 226.92,
+      "fontId" : 5,
+      "text" : "SFHGLP Contacts. "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 221.675,
+      "rightX" : 492.996,
+      "topY" : 209.675,
+      "baseLineY" : 218.94,
+      "fontId" : 9,
+      "text" : "services/single-family-housing-"
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 235.475,
+      "rightX" : 499.656,
+      "topY" : 223.475,
+      "baseLineY" : 232.74,
+      "fontId" : 9,
+      "text" : "programs/single-family-housing-"
+    }, {
+      "leftX" : 90,
+      "bottomY" : 248.075,
+      "rightX" : 93,
+      "topY" : 236.075,
+      "baseLineY" : 245.34,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 249.2749,
+      "rightX" : 462.876,
+      "topY" : 237.2749,
+      "baseLineY" : 246.54,
+      "fontId" : 9,
+      "text" : "guaranteed-loan-program"
+    }, {
+      "leftX" : 462.9,
+      "bottomY" : 249.2749,
+      "rightX" : 465.9,
+      "topY" : 237.2749,
+      "baseLineY" : 246.54,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 265.9439,
+      "rightX" : 325.02,
+      "topY" : 253.9439,
+      "baseLineY" : 263.1,
+      "fontId" : 6,
+      "text" : "Housing and Community Facilities Programs "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 264.3349,
+      "rightX" : 411.3,
+      "topY" : 252.3349,
+      "baseLineY" : 261.6,
+      "fontId" : 5,
+      "text" : "Administrator "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 278.135,
+      "rightX" : 438.3,
+      "topY" : 266.135,
+      "baseLineY" : 275.4,
+      "fontId" : 5,
+      "text" : "Rural Development "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 291.935,
+      "rightX" : 418.92,
+      "topY" : 279.935,
+      "baseLineY" : 289.2,
+      "fontId" : 5,
+      "text" : "National Office "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 305.735,
+      "rightX" : 498.9,
+      "topY" : 293.735,
+      "baseLineY" : 303,
+      "fontId" : 5,
+      "text" : "1400 Independence Avenue SW "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 319.535,
+      "rightX" : 480.96,
+      "topY" : 307.535,
+      "baseLineY" : 316.8,
+      "fontId" : 5,
+      "text" : "Room 5014, Mail Stop 0701 "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 333.335,
+      "rightX" : 485.58,
+      "topY" : 321.335,
+      "baseLineY" : 330.6,
+      "fontId" : 5,
+      "text" : "Washington, DC 20250-0701 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 349.7639,
+      "rightX" : 262.26,
+      "topY" : 337.7639,
+      "baseLineY" : 346.92,
+      "fontId" : 6,
+      "text" : "SFHGLP National Headquarters "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 348.155,
+      "rightX" : 438.3,
+      "topY" : 336.155,
+      "baseLineY" : 345.42,
+      "fontId" : 5,
+      "text" : "Rural Development "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 366.4899,
+      "rightX" : 129,
+      "topY" : 354.4899,
+      "baseLineY" : 363.72,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 375.755,
+      "rightX" : 498.9,
+      "topY" : 363.755,
+      "baseLineY" : 373.02,
+      "fontId" : 5,
+      "text" : "1400 Independence Avenue SW "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 361.955,
+      "rightX" : 486.84,
+      "topY" : 349.955,
+      "baseLineY" : 359.22,
+      "fontId" : 5,
+      "text" : "National Office-Headquarters "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 389.5549,
+      "rightX" : 480.9599,
+      "topY" : 377.5549,
+      "baseLineY" : 386.82,
+      "fontId" : 5,
+      "text" : "Room 5133, Mail Stop 0784 "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 403.355,
+      "rightX" : 485.58,
+      "topY" : 391.355,
+      "baseLineY" : 400.62,
+      "fontId" : 5,
+      "text" : "Washington, DC 20250-0784 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 420.2039,
+      "rightX" : 303,
+      "topY" : 408.2039,
+      "baseLineY" : 417.36,
+      "fontId" : 6,
+      "text" : "Single Family Housing Guaranteed Loan "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 418.115,
+      "rightX" : 546.7197,
+      "topY" : 406.115,
+      "baseLineY" : 415.38,
+      "fontId" : 5,
+      "text" : "Click the link below for SFHGLP Contact "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 434.0639,
+      "rightX" : 139.68,
+      "topY" : 422.0639,
+      "baseLineY" : 431.22,
+      "fontId" : 6,
+      "text" : "Divisions "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 431.915,
+      "rightX" : 366,
+      "topY" : 419.915,
+      "baseLineY" : 429.18,
+      "fontId" : 5,
+      "text" : "List: "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 445.715,
+      "rightX" : 537.276,
+      "topY" : 433.715,
+      "baseLineY" : 442.98,
+      "fontId" : 9,
+      "text" : "https://www.rd.usda.gov/resources/usda-"
+    }, {
+      "leftX" : 104.4,
+      "bottomY" : 458.9039,
+      "rightX" : 247.44,
+      "topY" : 446.9039,
+      "baseLineY" : 456.06,
+      "fontId" : 6,
+      "text" : "Origination and Processing "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 459.515,
+      "rightX" : 481.0199,
+      "topY" : 447.515,
+      "baseLineY" : 456.78,
+      "fontId" : 9,
+      "text" : "linc-training-resource-library"
+    }, {
+      "leftX" : 480.96,
+      "bottomY" : 459.515,
+      "rightX" : 483.96,
+      "topY" : 447.515,
+      "baseLineY" : 456.78,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 479.8151,
+      "rightX" : 124.32,
+      "topY" : 467.8151,
+      "baseLineY" : 477.66,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 480.5171,
+      "rightX" : 127.656,
+      "topY" : 468.5171,
+      "baseLineY" : 477.66,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 480.395,
+      "rightX" : 316.62,
+      "topY" : 468.395,
+      "baseLineY" : 477.66,
+      "fontId" : 5,
+      "text" : "Process Conditional Commitments and "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 473.315,
+      "rightX" : 343.98,
+      "topY" : 461.315,
+      "baseLineY" : 470.58,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 494.195,
+      "rightX" : 275.4,
+      "topY" : 482.195,
+      "baseLineY" : 491.46,
+      "fontId" : 5,
+      "text" : "Issue Loan Note Guarantees "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 500.9149,
+      "rightX" : 343.98,
+      "topY" : 488.9149,
+      "baseLineY" : 498.18,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 340.98,
+      "bottomY" : 487.1149,
+      "rightX" : 494.64,
+      "topY" : 475.1149,
+      "baseLineY" : 484.38,
+      "fontId" : 5,
+      "text" : "Click on SFHGLP Contact List "
+    }, {
+      "leftX" : 104.4,
+      "bottomY" : 512.1239,
+      "rightX" : 309.42,
+      "topY" : 500.1239,
+      "baseLineY" : 509.28,
+      "fontId" : 6,
+      "text" : "Quality Assurance & Lender Oversight "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 530.0951,
+      "rightX" : 124.32,
+      "topY" : 518.0951,
+      "baseLineY" : 527.94,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 530.7971,
+      "rightX" : 127.656,
+      "topY" : 518.7971,
+      "baseLineY" : 527.94,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 530.675,
+      "rightX" : 322.98,
+      "topY" : 518.675,
+      "baseLineY" : 527.94,
+      "fontId" : 5,
+      "text" : "Provide Program Quality Assurance and "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 544.475,
+      "rightX" : 224.1,
+      "topY" : 532.475,
+      "baseLineY" : 541.74,
+      "fontId" : 5,
+      "text" : "Lender Oversight "
+    }, {
+      "leftX" : 104.4,
+      "bottomY" : 562.4039,
+      "rightX" : 271.02,
+      "topY" : 550.4039,
+      "baseLineY" : 559.56,
+      "fontId" : 6,
+      "text" : "Policy & Program Management "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 580.3151,
+      "rightX" : 124.32,
+      "topY" : 568.3151,
+      "baseLineY" : 578.16,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 581.0172,
+      "rightX" : 127.656,
+      "topY" : 569.0172,
+      "baseLineY" : 578.16,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 580.895,
+      "rightX" : 324.36,
+      "topY" : 568.895,
+      "baseLineY" : 578.16,
+      "fontId" : 5,
+      "text" : "Provide Program Guidance and Issuance "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 594.695,
+      "rightX" : 243.78,
+      "topY" : 582.695,
+      "baseLineY" : 591.96,
+      "fontId" : 5,
+      "text" : "of Rules/Regulations  "
+    }, {
+      "leftX" : 104.4,
+      "bottomY" : 612.624,
+      "rightX" : 315.36,
+      "topY" : 600.624,
+      "baseLineY" : 609.78,
+      "fontId" : 6,
+      "text" : "System & Implementation Management  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 630.5951,
+      "rightX" : 124.32,
+      "topY" : 618.5951,
+      "baseLineY" : 628.44,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 631.2971,
+      "rightX" : 127.656,
+      "topY" : 619.2971,
+      "baseLineY" : 628.44,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 631.175,
+      "rightX" : 324.3,
+      "topY" : 619.175,
+      "baseLineY" : 628.44,
+      "fontId" : 5,
+      "text" : "Analyze, Evaluate, Monitor and Manage "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 644.975,
+      "rightX" : 325.74,
+      "topY" : 632.975,
+      "baseLineY" : 642.24,
+      "fontId" : 5,
+      "text" : "the Effectiveness of SFHGLP Systems "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 659.3991,
+      "rightX" : 92.505,
+      "topY" : 649.3991,
+      "baseLineY" : 657.12,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 670.9221,
+      "rightX" : 92.505,
+      "topY" : 660.9221,
+      "baseLineY" : 668.643,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 697.1391,
+      "rightX" : 188.385,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 300.6,
+      "bottomY" : 697.1391,
+      "rightX" : 303.105,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 516.96,
+      "bottomY" : 697.1391,
+      "rightX" : 519.465,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 708.5991,
+      "rightX" : 197.565,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "Revised (06-28-23) PN 585 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 720.1191,
+      "rightX" : 92.505,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 84.24,
+      "bottomY" : 83.6391,
+      "rightX" : 132.285,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 300.6,
+      "bottomY" : 83.6391,
+      "rightX" : 303.105,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 516.96,
+      "bottomY" : 83.6391,
+      "rightX" : 519.465,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 95.0991,
+      "rightX" : 133.665,
+      "topY" : 85.0991,
+      "baseLineY" : 92.82,
+      "fontId" : 1,
+      "text" : "Appendix 4 "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 106.6192,
+      "rightX" : 131.985,
+      "topY" : 96.6192,
+      "baseLineY" : 104.34,
+      "fontId" : 1,
+      "text" : "Page 2 of 2 "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 118.1391,
+      "rightX" : 92.505,
+      "topY" : 108.1391,
+      "baseLineY" : 115.86,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144.3,
+      "bottomY" : 132.4549,
+      "rightX" : 276.552,
+      "topY" : 120.4549,
+      "baseLineY" : 129.72,
+      "fontId" : 4,
+      "text" : "RURAL DEVELOPMENT"
+    }, {
+      "leftX" : 276.6,
+      "bottomY" : 131.9991,
+      "rightX" : 279.105,
+      "topY" : 121.9991,
+      "baseLineY" : 129.72,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 374.76,
+      "bottomY" : 132.4549,
+      "rightX" : 518.364,
+      "topY" : 120.4549,
+      "baseLineY" : 129.72,
+      "fontId" : 4,
+      "text" : "CONTACT INFORMATION"
+    }, {
+      "leftX" : 518.4,
+      "bottomY" : 131.9991,
+      "rightX" : 520.905,
+      "topY" : 121.9991,
+      "baseLineY" : 129.72,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 146.735,
+      "rightX" : 548.8201,
+      "topY" : 134.735,
+      "baseLineY" : 144,
+      "fontId" : 5,
+      "text" : "Click the link below for Servicing Contact "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 148.8839,
+      "rightX" : 325.02,
+      "topY" : 136.8839,
+      "baseLineY" : 146.04,
+      "fontId" : 6,
+      "text" : "Business Center Servicing Office Guaranteed "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 163.7639,
+      "rightX" : 164.7,
+      "topY" : 151.7639,
+      "baseLineY" : 160.92,
+      "fontId" : 6,
+      "text" : "Loan Division "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 160.535,
+      "rightX" : 405.42,
+      "topY" : 148.535,
+      "baseLineY" : 157.8,
+      "fontId" : 5,
+      "text" : "Information: "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 178.535,
+      "rightX" : 96,
+      "topY" : 166.535,
+      "baseLineY" : 175.8,
+      "fontId" : 5,
+      "text" : "  "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 188.135,
+      "rightX" : 520.7159,
+      "topY" : 176.135,
+      "baseLineY" : 185.4,
+      "fontId" : 9,
+      "text" : "RD-SFH-GRHServicingContacts.pdf"
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 174.3349,
+      "rightX" : 548.7345,
+      "topY" : 162.3349,
+      "baseLineY" : 171.6,
+      "fontId" : 9,
+      "text" : "https://www.rd.usda.gov/sites/default/files/"
+    }, {
+      "leftX" : 520.74,
+      "bottomY" : 188.135,
+      "rightX" : 523.74,
+      "topY" : 176.135,
+      "baseLineY" : 185.4,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 104.4,
+      "bottomY" : 194.4239,
+      "rightX" : 318.4188,
+      "topY" : 182.4239,
+      "baseLineY" : 191.58,
+      "fontId" : 6,
+      "text" : "Single Family Housing Servicing Branch  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 213.4751,
+      "rightX" : 124.32,
+      "topY" : 201.4751,
+      "baseLineY" : 211.32,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 214.1772,
+      "rightX" : 127.656,
+      "topY" : 202.1772,
+      "baseLineY" : 211.32,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 214.055,
+      "rightX" : 328.32,
+      "topY" : 202.055,
+      "baseLineY" : 211.32,
+      "fontId" : 5,
+      "text" : "Electronic Reporting System (default and "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 201.935,
+      "rightX" : 344.76,
+      "topY" : 189.935,
+      "baseLineY" : 199.2,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 213.4192,
+      "rightX" : 344.265,
+      "topY" : 203.4192,
+      "baseLineY" : 211.14,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 227.855,
+      "rightX" : 188.76,
+      "topY" : 215.855,
+      "baseLineY" : 225.12,
+      "fontId" : 5,
+      "text" : "portfolio)  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 245.9351,
+      "rightX" : 124.32,
+      "topY" : 233.9351,
+      "baseLineY" : 243.78,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 246.6371,
+      "rightX" : 127.656,
+      "topY" : 234.6371,
+      "baseLineY" : 243.78,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 246.5149,
+      "rightX" : 290.4,
+      "topY" : 234.5149,
+      "baseLineY" : 243.78,
+      "fontId" : 5,
+      "text" : "Guaranteed Underwriting System "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 260.3149,
+      "rightX" : 197.76,
+      "topY" : 248.3149,
+      "baseLineY" : 257.58,
+      "fontId" : 5,
+      "text" : "Agreements "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 278.395,
+      "rightX" : 124.32,
+      "topY" : 266.395,
+      "baseLineY" : 276.2399,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 279.0971,
+      "rightX" : 127.656,
+      "topY" : 267.0971,
+      "baseLineY" : 276.2399,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 278.9749,
+      "rightX" : 190.62,
+      "topY" : 266.9749,
+      "baseLineY" : 276.2399,
+      "fontId" : 5,
+      "text" : "Lender Loan "
+    }, {
+      "leftX" : 190.62,
+      "bottomY" : 278.9749,
+      "rightX" : 231,
+      "topY" : 266.9749,
+      "baseLineY" : 276.2399,
+      "fontId" : 5,
+      "text" : "Closing "
+    }, {
+      "leftX" : 231,
+      "bottomY" : 278.9749,
+      "rightX" : 312.3,
+      "topY" : 266.9749,
+      "baseLineY" : 276.2399,
+      "fontId" : 5,
+      "text" : "Agreements and "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 292.7749,
+      "rightX" : 217.08,
+      "topY" : 280.7749,
+      "baseLineY" : 290.0399,
+      "fontId" : 5,
+      "text" : "Guarantee Fees  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 310.915,
+      "rightX" : 124.32,
+      "topY" : 298.915,
+      "baseLineY" : 308.7599,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 311.6171,
+      "rightX" : 127.656,
+      "topY" : 299.6171,
+      "baseLineY" : 308.7599,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 311.4949,
+      "rightX" : 240.66,
+      "topY" : 299.4949,
+      "baseLineY" : 308.7599,
+      "fontId" : 5,
+      "text" : "Annual Fee Collection  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 329.575,
+      "rightX" : 124.32,
+      "topY" : 317.575,
+      "baseLineY" : 327.4199,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 330.2771,
+      "rightX" : 127.656,
+      "topY" : 318.2771,
+      "baseLineY" : 327.4199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 330.1549,
+      "rightX" : 169.68,
+      "topY" : 318.1549,
+      "baseLineY" : 327.4199,
+      "fontId" : 5,
+      "text" : "Transfer "
+    }, {
+      "leftX" : 169.68,
+      "bottomY" : 330.1549,
+      "rightX" : 179.676,
+      "topY" : 318.1549,
+      "baseLineY" : 327.4199,
+      "fontId" : 5,
+      "text" : "of"
+    }, {
+      "leftX" : 179.7,
+      "bottomY" : 330.1549,
+      "rightX" : 326.34,
+      "topY" : 318.1549,
+      "baseLineY" : 327.4199,
+      "fontId" : 5,
+      "text" : " Servicing Form RD 3555-11  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 348.235,
+      "rightX" : 124.32,
+      "topY" : 336.235,
+      "baseLineY" : 346.0799,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 348.9371,
+      "rightX" : 127.656,
+      "topY" : 336.9371,
+      "baseLineY" : 346.0799,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 348.8149,
+      "rightX" : 321.36,
+      "topY" : 336.8149,
+      "baseLineY" : 346.0799,
+      "fontId" : 5,
+      "text" : "Security Administration for GLS LINC  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 366.835,
+      "rightX" : 124.32,
+      "topY" : 354.835,
+      "baseLineY" : 364.6799,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 367.5371,
+      "rightX" : 127.656,
+      "topY" : 355.5371,
+      "baseLineY" : 364.6799,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 367.4149,
+      "rightX" : 299.9975,
+      "topY" : 355.4149,
+      "baseLineY" : 364.6799,
+      "fontId" : 5,
+      "text" : "Servicing and Default Management "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 381.2149,
+      "rightX" : 180.78,
+      "topY" : 369.2149,
+      "baseLineY" : 378.4799,
+      "fontId" : 5,
+      "text" : "Support  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 399.295,
+      "rightX" : 124.32,
+      "topY" : 387.295,
+      "baseLineY" : 397.1399,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 399.9971,
+      "rightX" : 127.656,
+      "topY" : 387.9971,
+      "baseLineY" : 397.1399,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 399.8749,
+      "rightX" : 308.9999,
+      "topY" : 387.8749,
+      "baseLineY" : 397.1399,
+      "fontId" : 5,
+      "text" : "Loss Mitigation Quality Reviews and "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 413.6749,
+      "rightX" : 270.4201,
+      "topY" : 401.6749,
+      "baseLineY" : 410.9399,
+      "fontId" : 5,
+      "text" : "Lender/Servicer Oversight  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 431.815,
+      "rightX" : 124.32,
+      "topY" : 419.815,
+      "baseLineY" : 429.6599,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 432.5171,
+      "rightX" : 127.656,
+      "topY" : 420.5171,
+      "baseLineY" : 429.6599,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 432.3949,
+      "rightX" : 264.66,
+      "topY" : 420.3949,
+      "baseLineY" : 429.6599,
+      "fontId" : 5,
+      "text" : "Loss Mitigation Exceptions  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 450.415,
+      "rightX" : 124.32,
+      "topY" : 438.415,
+      "baseLineY" : 448.2599,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 451.1171,
+      "rightX" : 127.656,
+      "topY" : 439.1171,
+      "baseLineY" : 448.2599,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 450.9949,
+      "rightX" : 224.7,
+      "topY" : 438.9949,
+      "baseLineY" : 448.2599,
+      "fontId" : 5,
+      "text" : "Mortgage Recovery "
+    }, {
+      "leftX" : 224.7,
+      "bottomY" : 450.9949,
+      "rightX" : 267.2879,
+      "topY" : 438.9949,
+      "baseLineY" : 448.2599,
+      "fontId" : 5,
+      "text" : "Advance"
+    }, {
+      "leftX" : 267.3,
+      "bottomY" : 450.9949,
+      "rightX" : 308.5799,
+      "topY" : 438.9949,
+      "baseLineY" : 448.2599,
+      "fontId" : 5,
+      "text" : " (MRA) "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 464.7949,
+      "rightX" : 218.1,
+      "topY" : 452.7949,
+      "baseLineY" : 462.0599,
+      "fontId" : 5,
+      "text" : "Payoff Requests "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 480.6349,
+      "rightX" : 96,
+      "topY" : 468.6349,
+      "baseLineY" : 477.8999,
+      "fontId" : 5,
+      "text" : "  "
+    }, {
+      "leftX" : 104.4,
+      "bottomY" : 496.5838,
+      "rightX" : 300.432,
+      "topY" : 484.5838,
+      "baseLineY" : 493.7399,
+      "fontId" : 6,
+      "text" : "Single Family Housing Claims Branch"
+    }, {
+      "leftX" : 300.42,
+      "bottomY" : 496.5838,
+      "rightX" : 306.42,
+      "topY" : 484.5838,
+      "baseLineY" : 493.7399,
+      "fontId" : 6,
+      "text" : "  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 514.495,
+      "rightX" : 124.32,
+      "topY" : 502.495,
+      "baseLineY" : 512.3399,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 515.197,
+      "rightX" : 127.656,
+      "topY" : 503.197,
+      "baseLineY" : 512.3399,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 515.0749,
+      "rightX" : 286.92,
+      "topY" : 503.0749,
+      "baseLineY" : 512.3399,
+      "fontId" : 5,
+      "text" : "Loss Claims and Lender Support "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 533.155,
+      "rightX" : 124.32,
+      "topY" : 521.155,
+      "baseLineY" : 530.9999,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 533.857,
+      "rightX" : 127.656,
+      "topY" : 521.857,
+      "baseLineY" : 530.9999,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 533.7348,
+      "rightX" : 326.28,
+      "topY" : 521.7348,
+      "baseLineY" : 530.9999,
+      "fontId" : 5,
+      "text" : "Post Liquidation Policies and Procedures "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 551.815,
+      "rightX" : 124.32,
+      "topY" : 539.815,
+      "baseLineY" : 549.6599,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 552.5171,
+      "rightX" : 127.656,
+      "topY" : 540.5171,
+      "baseLineY" : 549.6599,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 552.3949,
+      "rightX" : 320.9399,
+      "topY" : 540.3949,
+      "baseLineY" : 549.6599,
+      "fontId" : 5,
+      "text" : "Lender Program Servicing Training and "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 566.1949,
+      "rightX" : 203.1,
+      "topY" : 554.1949,
+      "baseLineY" : 563.4599,
+      "fontId" : 5,
+      "text" : "Coordination "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 584.6039,
+      "rightX" : 299.64,
+      "topY" : 572.6039,
+      "baseLineY" : 581.76,
+      "fontId" : 6,
+      "text" : "Consolidated Help Desk Support Center "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 582.515,
+      "rightX" : 376.7999,
+      "topY" : 570.515,
+      "baseLineY" : 579.78,
+      "fontId" : 5,
+      "text" : "Email: "
+    }, {
+      "leftX" : 376.8,
+      "bottomY" : 582.515,
+      "rightX" : 455.82,
+      "topY" : 570.515,
+      "baseLineY" : 579.78,
+      "fontId" : 9,
+      "text" : "rd.hd@usda.gov"
+    }, {
+      "leftX" : 455.82,
+      "bottomY" : 582.515,
+      "rightX" : 458.82,
+      "topY" : 570.515,
+      "baseLineY" : 579.78,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 603.5951,
+      "rightX" : 124.32,
+      "topY" : 591.5951,
+      "baseLineY" : 601.44,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 604.2971,
+      "rightX" : 127.656,
+      "topY" : 592.2971,
+      "baseLineY" : 601.44,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 604.175,
+      "rightX" : 293.34,
+      "topY" : 592.175,
+      "baseLineY" : 601.44,
+      "fontId" : 5,
+      "text" : "Guaranteed Underwriting System  "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 611.0749,
+      "rightX" : 434.4598,
+      "topY" : 599.0749,
+      "baseLineY" : 608.34,
+      "fontId" : 5,
+      "text" : "Select option 2 at 1"
+    }, {
+      "leftX" : 434.46,
+      "bottomY" : 605.6633,
+      "rightX" : 439.7986,
+      "topY" : 597.6633,
+      "baseLineY" : 603.84,
+      "fontId" : 5,
+      "text" : "st"
+    }, {
+      "leftX" : 439.8,
+      "bottomY" : 611.0749,
+      "rightX" : 536.3999,
+      "topY" : 599.0749,
+      "baseLineY" : 608.34,
+      "fontId" : 5,
+      "text" : " menu item (USDA "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 597.2749,
+      "rightX" : 472.74,
+      "topY" : 585.2749,
+      "baseLineY" : 594.54,
+      "fontId" : 5,
+      "text" : "Telephone: 800-457-3642  "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 622.2551,
+      "rightX" : 124.32,
+      "topY" : 610.2551,
+      "baseLineY" : 620.1,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 622.9571,
+      "rightX" : 127.656,
+      "topY" : 610.9571,
+      "baseLineY" : 620.1,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 622.8349,
+      "rightX" : 265.62,
+      "topY" : 610.8349,
+      "baseLineY" : 620.1,
+      "fontId" : 5,
+      "text" : "E-Authentication Questions  "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 624.875,
+      "rightX" : 539.3998,
+      "topY" : 612.875,
+      "baseLineY" : 622.14,
+      "fontId" : 5,
+      "text" : "Applications); then select option 2 at the "
+    }, {
+      "leftX" : 118.8,
+      "bottomY" : 640.8551,
+      "rightX" : 124.32,
+      "topY" : 628.8551,
+      "baseLineY" : 638.7,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 124.32,
+      "bottomY" : 641.5572,
+      "rightX" : 127.656,
+      "topY" : 629.5572,
+      "baseLineY" : 638.7,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 641.435,
+      "rightX" : 306.3,
+      "topY" : 629.435,
+      "baseLineY" : 638.7,
+      "fontId" : 5,
+      "text" : "Guaranteed Loan System (internal to "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 638.675,
+      "rightX" : 347.76,
+      "topY" : 626.675,
+      "baseLineY" : 635.94,
+      "fontId" : 5,
+      "text" : "2"
+    }, {
+      "leftX" : 347.76,
+      "bottomY" : 633.2633,
+      "rightX" : 355.7719,
+      "topY" : 625.2633,
+      "baseLineY" : 631.44,
+      "fontId" : 5,
+      "text" : "nd"
+    }, {
+      "leftX" : 355.8,
+      "bottomY" : 638.675,
+      "rightX" : 440.4599,
+      "topY" : 626.675,
+      "baseLineY" : 635.94,
+      "fontId" : 5,
+      "text" : " menu item (RD) "
+    }, {
+      "leftX" : 341.76,
+      "bottomY" : 650.1591,
+      "rightX" : 344.265,
+      "topY" : 640.1591,
+      "baseLineY" : 647.88,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 136.8,
+      "bottomY" : 655.235,
+      "rightX" : 181.14,
+      "topY" : 643.235,
+      "baseLineY" : 652.5,
+      "fontId" : 5,
+      "text" : "Agency) "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 669.2392,
+      "rightX" : 92.505,
+      "topY" : 659.2392,
+      "baseLineY" : 666.96,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 84.24,
+      "bottomY" : 705.1191,
+      "rightX" : 86.745,
+      "topY" : 695.1191,
+      "baseLineY" : 702.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 300.6,
+      "bottomY" : 705.1191,
+      "rightX" : 303.105,
+      "topY" : 695.1191,
+      "baseLineY" : 702.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 516.96,
+      "bottomY" : 705.1191,
+      "rightX" : 519.465,
+      "topY" : 695.1191,
+      "baseLineY" : 702.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 720.1191,
+      "rightX" : 92.505,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 16.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#ffffff"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#ff0000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

@@ -1,0 +1,3867 @@
+{
+  "pdfDoc" : "3555-1chapter19.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 539.9941,
+      "bottomY" : 95.102,
+      "rightX" : 542.4991,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 207.24,
+      "bottomY" : 111.3779,
+      "rightX" : 408.2584,
+      "topY" : 97.3779,
+      "baseLineY" : 108.06,
+      "fontId" : 2,
+      "text" : "CHAPTER 19: LOSS CLAIMS - "
+    }, {
+      "leftX" : 181.5588,
+      "bottomY" : 127.5248,
+      "rightX" : 433.9397,
+      "topY" : 113.5248,
+      "baseLineY" : 124.2069,
+      "fontId" : 2,
+      "text" : " COLLECTING ON THE GUARANTEE "
+    }, {
+      "leftX" : 253.6816,
+      "bottomY" : 143.6019,
+      "rightX" : 361.7609,
+      "topY" : 129.6019,
+      "baseLineY" : 140.2839,
+      "fontId" : 2,
+      "text" : "[7 CFR 3555.351] "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 157.3439,
+      "rightX" : 75,
+      "topY" : 145.3439,
+      "baseLineY" : 154.5,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 171.1439,
+      "rightX" : 93,
+      "topY" : 159.1439,
+      "baseLineY" : 168.3,
+      "fontId" : 3,
+      "text" : "19.1"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 171.4508,
+      "rightX" : 96.336,
+      "topY" : 159.4508,
+      "baseLineY" : 168.3,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 171.1439,
+      "rightX" : 178.98,
+      "topY" : 159.1439,
+      "baseLineY" : 168.3,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 184.8349,
+      "rightX" : 75,
+      "topY" : 172.8349,
+      "baseLineY" : 182.1,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 198.6349,
+      "rightX" : 500.5799,
+      "topY" : 186.6349,
+      "baseLineY" : 195.9,
+      "fontId" : 5,
+      "text" : "This chapter outlines collecting on the guarantee.  It provides a description of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 212.4349,
+      "rightX" : 518.2197,
+      "topY" : 200.4349,
+      "baseLineY" : 209.7,
+      "fontId" : 5,
+      "text" : "allowable costs, the servicer process for submitting a loss claim, outlines the Agency "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 226.2349,
+      "rightX" : 482.215,
+      "topY" : 214.2349,
+      "baseLineY" : 223.4999,
+      "fontId" : 5,
+      "text" : "review, describes penalties that could be assessed for failure to meet program "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 240.0349,
+      "rightX" : 403.1987,
+      "topY" : 228.0349,
+      "baseLineY" : 237.2999,
+      "fontId" : 5,
+      "text" : "requirements, and provides guidance on net recovery value.   "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 253.8349,
+      "rightX" : 75,
+      "topY" : 241.8349,
+      "baseLineY" : 251.0999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 267.7438,
+      "rightX" : 93,
+      "topY" : 255.7438,
+      "baseLineY" : 264.8999,
+      "fontId" : 3,
+      "text" : "19.2"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 268.0507,
+      "rightX" : 96.336,
+      "topY" : 256.0507,
+      "baseLineY" : 264.8999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 267.7438,
+      "rightX" : 258.36,
+      "topY" : 255.7438,
+      "baseLineY" : 264.8999,
+      "fontId" : 3,
+      "text" : "LOSS CLAIM COVERAGE "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 281.4349,
+      "rightX" : 75,
+      "topY" : 269.4349,
+      "baseLineY" : 278.6999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 295.3438,
+      "rightX" : 119.64,
+      "topY" : 283.3438,
+      "baseLineY" : 292.4999,
+      "fontId" : 3,
+      "text" : "A."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 295.6507,
+      "rightX" : 122.976,
+      "topY" : 283.6507,
+      "baseLineY" : 292.4999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 295.3438,
+      "rightX" : 249.66,
+      "topY" : 283.3438,
+      "baseLineY" : 292.4999,
+      "fontId" : 3,
+      "text" : "Loan Guarantee Limits "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 309.0348,
+      "rightX" : 75,
+      "topY" : 297.0348,
+      "baseLineY" : 306.2999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 322.8348,
+      "rightX" : 538.4999,
+      "topY" : 310.8348,
+      "baseLineY" : 320.0999,
+      "fontId" : 5,
+      "text" : "The maximum payment that a servicer may collect from the Agency under the Single "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 336.6348,
+      "rightX" : 449.9401,
+      "topY" : 324.6348,
+      "baseLineY" : 333.8998,
+      "fontId" : 5,
+      "text" : "Family Housing Guaranteed Loan Program (SFHGLP) is the lesser of: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 362.6951,
+      "rightX" : 131.52,
+      "topY" : 350.6951,
+      "baseLineY" : 360.54,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 363.3972,
+      "rightX" : 134.856,
+      "topY" : 351.3972,
+      "baseLineY" : 360.54,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 363.275,
+      "rightX" : 512.256,
+      "topY" : 351.275,
+      "baseLineY" : 360.54,
+      "fontId" : 5,
+      "text" : "Ninety percent of the original principal amount advanced to the borrower; or"
+    }, {
+      "leftX" : 512.22,
+      "bottomY" : 363.2913,
+      "rightX" : 515.22,
+      "topY" : 351.2913,
+      "baseLineY" : 360.54,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 389.3351,
+      "rightX" : 131.5199,
+      "topY" : 377.3351,
+      "baseLineY" : 387.18,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 390.0371,
+      "rightX" : 134.8559,
+      "topY" : 378.0371,
+      "baseLineY" : 387.18,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 389.915,
+      "rightX" : 526.0197,
+      "topY" : 377.915,
+      "baseLineY" : 387.18,
+      "fontId" : 5,
+      "text" : "One hundred percent of any loss equal to or less than 35 percent of the original "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 403.7749,
+      "rightX" : 535.2599,
+      "topY" : 391.7749,
+      "baseLineY" : 401.04,
+      "fontId" : 5,
+      "text" : "principal advanced, plus 85 percent of any remaining loss up to 65 percent of the "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 417.5749,
+      "rightX" : 240.9599,
+      "topY" : 405.5749,
+      "baseLineY" : 414.84,
+      "fontId" : 5,
+      "text" : "principal advanced. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 443.3749,
+      "rightX" : 506.9997,
+      "topY" : 431.3749,
+      "baseLineY" : 440.64,
+      "fontId" : 5,
+      "text" : "When calculating the maximum loss claim amount, any previously reimbursed "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 457.1749,
+      "rightX" : 542.8799,
+      "topY" : 445.1749,
+      "baseLineY" : 454.4399,
+      "fontId" : 5,
+      "text" : "Mortgage Recovery Advance (MRA) provided for the loan should be included in the loss. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 482.9749,
+      "rightX" : 504.4798,
+      "topY" : 470.9749,
+      "baseLineY" : 480.2399,
+      "fontId" : 5,
+      "text" : "For example, if the original principal amount (OPA) guaranteed on a loan was "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 496.7749,
+      "rightX" : 494.2799,
+      "topY" : 484.7749,
+      "baseLineY" : 494.0399,
+      "fontId" : 5,
+      "text" : "$100,000, the maximum loss payment would be $90,000, which is the lesser of: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 522.5913,
+      "rightX" : 135,
+      "topY" : 510.5913,
+      "baseLineY" : 519.84,
+      "fontId" : 8,
+      "text" : "1."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 523.0767,
+      "rightX" : 138.336,
+      "topY" : 511.0767,
+      "baseLineY" : 519.84,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 522.5913,
+      "rightX" : 280.02,
+      "topY" : 510.5913,
+      "baseLineY" : 519.84,
+      "fontId" : 8,
+      "text" : "Ninety percent of principal "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 548.5751,
+      "rightX" : 149.52,
+      "topY" : 536.5751,
+      "baseLineY" : 546.42,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 549.2771,
+      "rightX" : 152.856,
+      "topY" : 537.2771,
+      "baseLineY" : 546.42,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 549.1549,
+      "rightX" : 250.98,
+      "topY" : 537.1549,
+      "baseLineY" : 546.42,
+      "fontId" : 5,
+      "text" : "OPA is $100,000. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 575.2751,
+      "rightX" : 149.52,
+      "topY" : 563.2751,
+      "baseLineY" : 573.12,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 575.9771,
+      "rightX" : 152.856,
+      "topY" : 563.9771,
+      "baseLineY" : 573.12,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 575.855,
+      "rightX" : 311.28,
+      "topY" : 563.855,
+      "baseLineY" : 573.12,
+      "fontId" : 5,
+      "text" : "90 percent of OPA is $90,000. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 601.6713,
+      "rightX" : 135,
+      "topY" : 589.6713,
+      "baseLineY" : 598.92,
+      "fontId" : 8,
+      "text" : "2."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 602.1567,
+      "rightX" : 138.336,
+      "topY" : 590.1567,
+      "baseLineY" : 598.92,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 601.6713,
+      "rightX" : 464.04,
+      "topY" : 589.6713,
+      "baseLineY" : 598.92,
+      "fontId" : 8,
+      "text" : "One hundred percent of 35 percent and 85 percent of 65 percent "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 627.7151,
+      "rightX" : 149.52,
+      "topY" : 615.7151,
+      "baseLineY" : 625.56,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 628.4171,
+      "rightX" : 152.856,
+      "topY" : 616.4171,
+      "baseLineY" : 625.56,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 628.295,
+      "rightX" : 250.98,
+      "topY" : 616.295,
+      "baseLineY" : 625.56,
+      "fontId" : 5,
+      "text" : "OPA is $100,000. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 654.3551,
+      "rightX" : 149.52,
+      "topY" : 642.3551,
+      "baseLineY" : 652.2,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 655.0572,
+      "rightX" : 152.856,
+      "topY" : 643.0572,
+      "baseLineY" : 652.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 654.935,
+      "rightX" : 308.28,
+      "topY" : 642.935,
+      "baseLineY" : 652.2,
+      "fontId" : 5,
+      "text" : "35 percent of OPA is $35,000."
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 685.6191,
+      "rightX" : 317.6215,
+      "topY" : 675.6191,
+      "baseLineY" : 683.34,
+      "fontId" : 1,
+      "text" : "19-1 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 697.1391,
+      "rightX" : 176.1379,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 305.9971,
+      "bottomY" : 697.1391,
+      "rightX" : 308.5021,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.602,
+      "rightX" : 187.8312,
+      "topY" : 698.602,
+      "baseLineY" : 706.3229,
+      "fontId" : 1,
+      "text" : "Revised (04-14-25)  PN 637 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 720.125,
+      "rightX" : 74.495,
+      "topY" : 710.125,
+      "baseLineY" : 717.8459,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.102,
+      "rightX" : 224.1337,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 19.2 Loss Claim Coverage "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 106.625,
+      "rightX" : 74.495,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 248.0915,
+      "bottomY" : 106.625,
+      "rightX" : 250.5965,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 120.7151,
+      "rightX" : 149.52,
+      "topY" : 108.7151,
+      "baseLineY" : 118.56,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 121.4171,
+      "rightX" : 152.856,
+      "topY" : 109.4171,
+      "baseLineY" : 118.56,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 121.295,
+      "rightX" : 311.28,
+      "topY" : 109.295,
+      "baseLineY" : 118.56,
+      "fontId" : 5,
+      "text" : "65 percent of OPA is $65,000. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 147.3551,
+      "rightX" : 149.52,
+      "topY" : 135.3551,
+      "baseLineY" : 145.2,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 148.0572,
+      "rightX" : 152.856,
+      "topY" : 136.0572,
+      "baseLineY" : 145.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 147.935,
+      "rightX" : 377.58,
+      "topY" : 135.935,
+      "baseLineY" : 145.2,
+      "fontId" : 5,
+      "text" : "85 percent of 65 percent of OPA is $55,250. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 174.0551,
+      "rightX" : 149.52,
+      "topY" : 162.0551,
+      "baseLineY" : 171.9,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 174.7572,
+      "rightX" : 152.856,
+      "topY" : 162.7572,
+      "baseLineY" : 171.9,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 174.635,
+      "rightX" : 510.6599,
+      "topY" : 162.635,
+      "baseLineY" : 171.9,
+      "fontId" : 5,
+      "text" : "Payment amount is 100 percent of 35 percent of OPA ($35,000) plus 85 "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 188.435,
+      "rightX" : 465.6,
+      "topY" : 176.435,
+      "baseLineY" : 185.7,
+      "fontId" : 5,
+      "text" : "percent of 65 percent of OPA ($55,250).  This equals $90,250. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 214.235,
+      "rightX" : 527.58,
+      "topY" : 202.235,
+      "baseLineY" : 211.5,
+      "fontId" : 5,
+      "text" : "The Agency’s exposure would be limited to $90,000, which is the lesser of the two "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 228.035,
+      "rightX" : 220.6201,
+      "topY" : 216.035,
+      "baseLineY" : 225.3,
+      "fontId" : 5,
+      "text" : "loss payment amounts. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 253.8349,
+      "rightX" : 522.2399,
+      "topY" : 241.8349,
+      "baseLineY" : 251.1,
+      "fontId" : 5,
+      "text" : "If the Agency had previously reimbursed the servicer for a MRA in the amount of "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 267.6349,
+      "rightX" : 531.9599,
+      "topY" : 255.6349,
+      "baseLineY" : 264.9,
+      "fontId" : 5,
+      "text" : "$30,000, The maximum exposure on the final loss claim would be $60,000 which is the "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 281.4349,
+      "rightX" : 322.6201,
+      "topY" : 269.4349,
+      "baseLineY" : 278.7,
+      "fontId" : 5,
+      "text" : "lesser amount minus the MRA already paid. "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 307.3439,
+      "rightX" : 118.9801,
+      "topY" : 295.3439,
+      "baseLineY" : 304.4999,
+      "fontId" : 3,
+      "text" : "B."
+    }, {
+      "leftX" : 118.9801,
+      "bottomY" : 307.6508,
+      "rightX" : 122.3161,
+      "topY" : 295.6508,
+      "baseLineY" : 304.4999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 307.3439,
+      "rightX" : 303.9601,
+      "topY" : 295.3439,
+      "baseLineY" : 304.4999,
+      "fontId" : 3,
+      "text" : "Losses Covered by the Guarantee  "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 321.0349,
+      "rightX" : 75.0001,
+      "topY" : 309.0349,
+      "baseLineY" : 318.2999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 334.8349,
+      "rightX" : 456.2401,
+      "topY" : 322.8349,
+      "baseLineY" : 332.0999,
+      "fontId" : 5,
+      "text" : "Losses that are covered by the loan guarantee include the following: "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 360.895,
+      "rightX" : 131.5201,
+      "topY" : 348.895,
+      "baseLineY" : 358.7399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 361.5971,
+      "rightX" : 134.8561,
+      "topY" : 349.5971,
+      "baseLineY" : 358.7399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 361.4749,
+      "rightX" : 337.3201,
+      "topY" : 349.4749,
+      "baseLineY" : 358.7399,
+      "fontId" : 5,
+      "text" : "Principal and interest owed on the loan. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 387.535,
+      "rightX" : 131.5201,
+      "topY" : 375.535,
+      "baseLineY" : 385.3799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 388.2371,
+      "rightX" : 134.8561,
+      "topY" : 376.2371,
+      "baseLineY" : 385.3799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 388.1149,
+      "rightX" : 521.5801,
+      "topY" : 376.1149,
+      "baseLineY" : 385.3799,
+      "fontId" : 5,
+      "text" : "Additional interest accrued up to 60 days from the settlement date through the "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 401.9149,
+      "rightX" : 273.6601,
+      "topY" : 389.9149,
+      "baseLineY" : 399.1799,
+      "fontId" : 5,
+      "text" : "date the loss claim is paid. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 427.975,
+      "rightX" : 131.5201,
+      "topY" : 415.975,
+      "baseLineY" : 425.8199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 428.6771,
+      "rightX" : 134.8561,
+      "topY" : 416.6771,
+      "baseLineY" : 425.8199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 428.5549,
+      "rightX" : 505.2599,
+      "topY" : 416.5549,
+      "baseLineY" : 425.8199,
+      "fontId" : 5,
+      "text" : "Principal and interest indebtedness on protective advances provided by the "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 442.4149,
+      "rightX" : 341.8801,
+      "topY" : 430.4149,
+      "baseLineY" : 439.6799,
+      "fontId" : 5,
+      "text" : "servicer to protect the security property.  "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 468.475,
+      "rightX" : 131.5201,
+      "topY" : 456.475,
+      "baseLineY" : 466.3199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 469.1771,
+      "rightX" : 134.8561,
+      "topY" : 457.1771,
+      "baseLineY" : 466.3199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 469.0549,
+      "rightX" : 506.94,
+      "topY" : 457.0549,
+      "baseLineY" : 466.3199,
+      "fontId" : 5,
+      "text" : "Liquidation and disposition costs as outlined in Chapter’s 18 and 19 of this "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 482.8549,
+      "rightX" : 196.9801,
+      "topY" : 470.8549,
+      "baseLineY" : 480.1199,
+      "fontId" : 5,
+      "text" : "Handbook."
+    }, {
+      "leftX" : 196.9801,
+      "bottomY" : 482.9639,
+      "rightX" : 199.9801,
+      "topY" : 470.9639,
+      "baseLineY" : 480.1199,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 508.7639,
+      "rightX" : 119.6401,
+      "topY" : 496.7639,
+      "baseLineY" : 505.9199,
+      "fontId" : 3,
+      "text" : "C."
+    }, {
+      "leftX" : 119.6401,
+      "bottomY" : 509.0708,
+      "rightX" : 122.9761,
+      "topY" : 497.0708,
+      "baseLineY" : 505.9199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 508.7639,
+      "rightX" : 270.36,
+      "topY" : 496.7639,
+      "baseLineY" : 505.9199,
+      "fontId" : 3,
+      "text" : "Reasonable and Customary "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 522.4549,
+      "rightX" : 75,
+      "topY" : 510.4549,
+      "baseLineY" : 519.7199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 536.2549,
+      "rightX" : 532.92,
+      "topY" : 524.2549,
+      "baseLineY" : 533.5199,
+      "fontId" : 5,
+      "text" : "Liquidation and disposition costs should be similar to costs the servicer incurs when "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 550.0549,
+      "rightX" : 531.8399,
+      "topY" : 538.0549,
+      "baseLineY" : 547.3199,
+      "fontId" : 5,
+      "text" : "servicing non-guaranteed loans.  Refer to Chapter 18 for further guidance on customary "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 563.8548,
+      "rightX" : 534.5387,
+      "topY" : 551.8548,
+      "baseLineY" : 561.1199,
+      "fontId" : 5,
+      "text" : "costs related to the management and liquidation of acquired properties.  Allowable costs "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 577.6549,
+      "rightX" : 179.2801,
+      "topY" : 565.6549,
+      "baseLineY" : 574.9199,
+      "fontId" : 5,
+      "text" : "could include: "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 603.715,
+      "rightX" : 131.5201,
+      "topY" : 591.715,
+      "baseLineY" : 601.5599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 604.4171,
+      "rightX" : 134.8561,
+      "topY" : 592.4171,
+      "baseLineY" : 601.5599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 604.2949,
+      "rightX" : 528.8399,
+      "topY" : 592.2949,
+      "baseLineY" : 601.5599,
+      "fontId" : 5,
+      "text" : "Appraisal-related costs excluding management fees. Reasonable and customary "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 618.0949,
+      "rightX" : 540.78,
+      "topY" : 606.0949,
+      "baseLineY" : 615.3599,
+      "fontId" : 5,
+      "text" : "costs are determined by the Department of Veteran Affairs appraisal fee schedule. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 644.155,
+      "rightX" : 131.5201,
+      "topY" : 632.155,
+      "baseLineY" : 641.9999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 644.857,
+      "rightX" : 134.8561,
+      "topY" : 632.857,
+      "baseLineY" : 641.9999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 644.7348,
+      "rightX" : 251.0401,
+      "topY" : 632.7348,
+      "baseLineY" : 641.9999,
+      "fontId" : 5,
+      "text" : "Securing the property."
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 694.3191,
+      "rightX" : 317.6215,
+      "topY" : 684.3191,
+      "baseLineY" : 692.04,
+      "fontId" : 1,
+      "text" : "19-2 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.1549,
+      "rightX" : 75,
+      "topY" : 696.1549,
+      "baseLineY" : 705.42,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 337.32,
+      "bottomY" : 708.1549,
+      "rightX" : 340.32,
+      "topY" : 696.1549,
+      "baseLineY" : 705.42,
+      "fontId" : 5,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.102,
+      "rightX" : 224.1337,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 19.2 Loss Claim Coverage "
+    }, {
+      "leftX" : 539.9841,
+      "bottomY" : 106.625,
+      "rightX" : 542.4891,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 120.7151,
+      "rightX" : 131.52,
+      "topY" : 108.7151,
+      "baseLineY" : 118.56,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 121.4171,
+      "rightX" : 134.856,
+      "topY" : 109.4171,
+      "baseLineY" : 118.56,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 121.295,
+      "rightX" : 513.9598,
+      "topY" : 109.295,
+      "baseLineY" : 118.56,
+      "fontId" : 5,
+      "text" : "Payment of real estate commissions to sell the property at a maximum of six "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 135.095,
+      "rightX" : 511.2599,
+      "topY" : 123.095,
+      "baseLineY" : 132.36,
+      "fontId" : 5,
+      "text" : "percent of the sales price unless incentives can be justified or a minimum of "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 148.8949,
+      "rightX" : 349.32,
+      "topY" : 136.8949,
+      "baseLineY" : 146.16,
+      "fontId" : 5,
+      "text" : "$2,000 commission for low value sales.     "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 174.6949,
+      "rightX" : 524.28,
+      "topY" : 162.6949,
+      "baseLineY" : 171.96,
+      "fontId" : 5,
+      "text" : "Costs associated with servicer in-house expenses (e.g. employee salaries, in-house "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 188.4949,
+      "rightX" : 504.5986,
+      "topY" : 176.4949,
+      "baseLineY" : 185.7599,
+      "fontId" : 5,
+      "text" : "legal fees, travel, Real Estate Owned (REO) management fees and other company "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 202.2949,
+      "rightX" : 238.2599,
+      "topY" : 190.2949,
+      "baseLineY" : 199.5599,
+      "fontId" : 5,
+      "text" : "expenses) are not allowed. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 228.0949,
+      "rightX" : 531.6599,
+      "topY" : 216.0949,
+      "baseLineY" : 225.3599,
+      "fontId" : 5,
+      "text" : "Allowable liquidation and disposition costs differ for properties sold to a third party "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 241.8949,
+      "rightX" : 495.5399,
+      "topY" : 229.8949,
+      "baseLineY" : 239.1599,
+      "fontId" : 5,
+      "text" : "from those that remain in the servicer’s inventory at payment of the loss claim.   "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 267.7112,
+      "rightX" : 134.9999,
+      "topY" : 255.7112,
+      "baseLineY" : 264.9599,
+      "fontId" : 8,
+      "text" : "1."
+    }, {
+      "leftX" : 134.9999,
+      "bottomY" : 268.1966,
+      "rightX" : 138.3359,
+      "topY" : 256.1966,
+      "baseLineY" : 264.9599,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 267.7112,
+      "rightX" : 395.9999,
+      "topY" : 255.7112,
+      "baseLineY" : 264.9599,
+      "fontId" : 8,
+      "text" : "Third Party Foreclosure or Pre-Foreclosure Sale.  "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 293.4949,
+      "rightX" : 488.9159,
+      "topY" : 281.4949,
+      "baseLineY" : 290.7599,
+      "fontId" : 5,
+      "text" : "If the property is sold to a third-party at the foreclosure sale or by a pre-"
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 307.2948,
+      "rightX" : 540.4784,
+      "topY" : 295.2948,
+      "baseLineY" : 304.5599,
+      "fontId" : 5,
+      "text" : "foreclosure sale (PFS), the loss claim will be calculated on the actual sales price.  The "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 321.0948,
+      "rightX" : 521.5197,
+      "topY" : 309.0948,
+      "baseLineY" : 318.3599,
+      "fontId" : 5,
+      "text" : "Agency will reimburse the servicer for actual liquidation expenses plus additional "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 334.8948,
+      "rightX" : 518.5786,
+      "topY" : 322.8948,
+      "baseLineY" : 332.1599,
+      "fontId" : 5,
+      "text" : "interest for up to 45 days from the PFS closing date or foreclosure sale date.  The "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 348.6948,
+      "rightX" : 529.9186,
+      "topY" : 336.6948,
+      "baseLineY" : 345.9598,
+      "fontId" : 5,
+      "text" : "servicer should file the loss claim within 45 days of funds receipt or in the case of a "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 362.4948,
+      "rightX" : 496.6199,
+      "topY" : 350.4948,
+      "baseLineY" : 359.7598,
+      "fontId" : 5,
+      "text" : "PFS, the settlement date, otherwise the loss claim may be denied or reduced. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 376.2948,
+      "rightX" : 530.8772,
+      "topY" : 364.2948,
+      "baseLineY" : 373.5598,
+      "fontId" : 5,
+      "text" : "Documentation of expenses associated with a loss claim request must be retained in "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 390.0948,
+      "rightX" : 274.9199,
+      "topY" : 378.0948,
+      "baseLineY" : 387.3598,
+      "fontId" : 5,
+      "text" : "the servicer’s permanent file.   "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 415.9111,
+      "rightX" : 134.9999,
+      "topY" : 403.9111,
+      "baseLineY" : 413.1598,
+      "fontId" : 8,
+      "text" : "2."
+    }, {
+      "leftX" : 134.9999,
+      "bottomY" : 416.3965,
+      "rightX" : 138.3359,
+      "topY" : 404.3965,
+      "baseLineY" : 413.1598,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 415.9111,
+      "rightX" : 480.2999,
+      "topY" : 403.9111,
+      "baseLineY" : 413.1598,
+      "fontId" : 8,
+      "text" : "Acquired by the Servicer at a Foreclosure Sale or by Deed-in-Lieu.  "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 441.6947,
+      "rightX" : 542.8799,
+      "topY" : 429.6947,
+      "baseLineY" : 438.9598,
+      "fontId" : 5,
+      "text" : "For property acquired by the servicer at the foreclosure sale or by deed-in-lieu, the "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 455.4947,
+      "rightX" : 538.9199,
+      "topY" : 443.4947,
+      "baseLineY" : 452.7598,
+      "fontId" : 5,
+      "text" : "servicer will order a market value appraisal that is compliant with Uniform Standards "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 469.2947,
+      "rightX" : 512.2784,
+      "topY" : 457.2947,
+      "baseLineY" : 466.5598,
+      "fontId" : 5,
+      "text" : "of Professional Appraisal Practice (USPAP) standards.  If the servicer utilized a "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 483.0947,
+      "rightX" : 518.7599,
+      "topY" : 471.0947,
+      "baseLineY" : 480.3597,
+      "fontId" : 5,
+      "text" : "qualified appraisal during liquidation and it is dated within six months of the loss "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 496.8947,
+      "rightX" : 522.5999,
+      "topY" : 484.8947,
+      "baseLineY" : 494.1597,
+      "fontId" : 5,
+      "text" : "claim date, the servicer may reuse the existing appraisal.  To estimate holding and "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 510.6947,
+      "rightX" : 542.64,
+      "topY" : 498.6947,
+      "baseLineY" : 507.9597,
+      "fontId" : 5,
+      "text" : "disposition costs, a standard acquisition and management resale factor of 15.95% (aka "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 524.4947,
+      "rightX" : 529.7995,
+      "topY" : 512.4947,
+      "baseLineY" : 521.7597,
+      "fontId" : 5,
+      "text" : "VA Net Value Factor) as established by the Department of Veteran Affairs (VA) of "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 538.2947,
+      "rightX" : 542.1599,
+      "topY" : 526.2947,
+      "baseLineY" : 535.5597,
+      "fontId" : 5,
+      "text" : "the estimated sales price is used.  Loss claims for acquired property should be filed by "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 552.0946,
+      "rightX" : 542.52,
+      "topY" : 540.0946,
+      "baseLineY" : 549.3597,
+      "fontId" : 5,
+      "text" : "the servicer within 60 days of the foreclosure sale date, acquisition date, or possession "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 565.8946,
+      "rightX" : 513.5399,
+      "topY" : 553.8946,
+      "baseLineY" : 563.1597,
+      "fontId" : 5,
+      "text" : "of the security property. Loss claims filed beyond this period may be reduced or "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 579.6947,
+      "rightX" : 236.9999,
+      "topY" : 567.6947,
+      "baseLineY" : 576.9597,
+      "fontId" : 5,
+      "text" : "denied by the Agency. "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 605.4947,
+      "rightX" : 542.1562,
+      "topY" : 593.4947,
+      "baseLineY" : 602.7597,
+      "fontId" : 5,
+      "text" : "The servicer can negotiate a “cash for keys” option with the former borrower for a "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 619.2947,
+      "rightX" : 532.3197,
+      "topY" : 607.2947,
+      "baseLineY" : 616.5597,
+      "fontId" : 5,
+      "text" : "maximum of up to $2,500. The property must be left in broom swept condition with "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 633.0947,
+      "rightX" : 514.8599,
+      "topY" : 621.0947,
+      "baseLineY" : 630.3597,
+      "fontId" : 5,
+      "text" : "all personal property removed before the borrower can be eligible to receive this "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 646.8947,
+      "rightX" : 527.2799,
+      "topY" : 634.8947,
+      "baseLineY" : 644.1597,
+      "fontId" : 5,
+      "text" : "incentive.  A written agreement must be signed by the borrower and retained in the "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 660.6947,
+      "rightX" : 194.9999,
+      "topY" : 648.6947,
+      "baseLineY" : 657.9597,
+      "fontId" : 5,
+      "text" : "servicing file. "
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 697.1391,
+      "rightX" : 317.6215,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 1,
+      "text" : "19-3 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 176.1379,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 305.9971,
+      "bottomY" : 708.5991,
+      "rightX" : 308.5021,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1222,
+      "rightX" : 187.8312,
+      "topY" : 710.1222,
+      "baseLineY" : 717.843,
+      "fontId" : 1,
+      "text" : "Revised (04-14-25)  PN 637 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.102,
+      "rightX" : 216.6988,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 19.3 Filing a Loss Claim "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 106.625,
+      "rightX" : 74.495,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 120.5639,
+      "rightX" : 93,
+      "topY" : 108.5639,
+      "baseLineY" : 117.72,
+      "fontId" : 3,
+      "text" : "19.3"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 120.8708,
+      "rightX" : 96.336,
+      "topY" : 108.8708,
+      "baseLineY" : 117.72,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 120.5639,
+      "rightX" : 243.42,
+      "topY" : 108.5639,
+      "baseLineY" : 117.72,
+      "fontId" : 3,
+      "text" : "FILING A LOSS CLAIM "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 134.5549,
+      "rightX" : 111,
+      "topY" : 122.5549,
+      "baseLineY" : 131.8199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 148.4749,
+      "rightX" : 496.8573,
+      "topY" : 136.4749,
+      "baseLineY" : 145.7399,
+      "fontId" : 5,
+      "text" : "All requests for loss claim payments will be made through an electronic web "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 162.2749,
+      "rightX" : 541.92,
+      "topY" : 150.2749,
+      "baseLineY" : 159.5399,
+      "fontId" : 5,
+      "text" : "submission via USDA Lender Interactive Network Connection (USDA LINC) and can be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 176.0749,
+      "rightX" : 164.6988,
+      "topY" : 164.0749,
+      "baseLineY" : 173.3399,
+      "fontId" : 5,
+      "text" : "accessed at "
+    }, {
+      "leftX" : 164.64,
+      "bottomY" : 176.0749,
+      "rightX" : 391.68,
+      "topY" : 164.0749,
+      "baseLineY" : 173.3399,
+      "fontId" : 10,
+      "text" : "https://usdalinc.sc.egov.usda.gov/RHShome.do"
+    }, {
+      "leftX" : 391.68,
+      "bottomY" : 176.0749,
+      "rightX" : 535.74,
+      "topY" : 164.0749,
+      "baseLineY" : 173.3399,
+      "fontId" : 5,
+      "text" : ". All information entered into "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 189.875,
+      "rightX" : 542.6998,
+      "topY" : 177.875,
+      "baseLineY" : 187.14,
+      "fontId" : 5,
+      "text" : "the USDA LINC Loss Claim Administration system must be supported by documentation "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 203.675,
+      "rightX" : 526.9186,
+      "topY" : 191.675,
+      "baseLineY" : 200.94,
+      "fontId" : 5,
+      "text" : "in the loss claim file.  The servicer is responsible for the completeness and accuracy of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 217.475,
+      "rightX" : 246,
+      "topY" : 205.475,
+      "baseLineY" : 214.74,
+      "fontId" : 5,
+      "text" : "the loss claim submission.    "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 243.2149,
+      "rightX" : 542.58,
+      "topY" : 231.2149,
+      "baseLineY" : 240.48,
+      "fontId" : 5,
+      "text" : "Information for gaining access to USDA LINC, submitting loss claims, and uploading "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 257.0149,
+      "rightX" : 540.54,
+      "topY" : 245.0149,
+      "baseLineY" : 254.28,
+      "fontId" : 5,
+      "text" : "loss claim documentation can be located in the Loan Servicing section under USDA Loss "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 270.8149,
+      "rightX" : 316.6801,
+      "topY" : 258.8149,
+      "baseLineY" : 268.08,
+      "fontId" : 5,
+      "text" : "Claim Administration User Guide found at "
+    }, {
+      "leftX" : 316.6801,
+      "bottomY" : 270.8149,
+      "rightX" : 487.656,
+      "topY" : 258.8149,
+      "baseLineY" : 268.08,
+      "fontId" : 10,
+      "text" : "https://www.rd.usda.gov/programs-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 284.615,
+      "rightX" : 353.9399,
+      "topY" : 272.615,
+      "baseLineY" : 281.88,
+      "fontId" : 10,
+      "text" : "services/lenders/usda-linc-training-resource-library"
+    }, {
+      "leftX" : 353.94,
+      "bottomY" : 284.615,
+      "rightX" : 362.88,
+      "topY" : 272.615,
+      "baseLineY" : 281.88,
+      "fontId" : 5,
+      "text" : " . "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 310.5239,
+      "rightX" : 119.64,
+      "topY" : 298.5239,
+      "baseLineY" : 307.68,
+      "fontId" : 3,
+      "text" : "A."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 310.8308,
+      "rightX" : 122.976,
+      "topY" : 298.8308,
+      "baseLineY" : 307.68,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 310.5239,
+      "rightX" : 276.96,
+      "topY" : 298.5239,
+      "baseLineY" : 307.68,
+      "fontId" : 3,
+      "text" : "Sold to a Third Party or PFS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 336.2149,
+      "rightX" : 523.2609,
+      "topY" : 324.2149,
+      "baseLineY" : 333.48,
+      "fontId" : 5,
+      "text" : "For property that is sold through PFS or to a third party at the foreclosure sale, the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 350.0149,
+      "rightX" : 533.2188,
+      "topY" : 338.0149,
+      "baseLineY" : 347.28,
+      "fontId" : 5,
+      "text" : "loss claim must be submitted within 45 days from the PFS closing date, foreclosure sale "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 363.8149,
+      "rightX" : 418.14,
+      "topY" : 351.8149,
+      "baseLineY" : 361.08,
+      "fontId" : 5,
+      "text" : "date, or the date the proceeds were received, whichever is later.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 389.7239,
+      "rightX" : 118.98,
+      "topY" : 377.7239,
+      "baseLineY" : 386.8799,
+      "fontId" : 3,
+      "text" : "B."
+    }, {
+      "leftX" : 118.98,
+      "bottomY" : 390.0308,
+      "rightX" : 122.316,
+      "topY" : 378.0308,
+      "baseLineY" : 386.8799,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 389.7239,
+      "rightX" : 418.62,
+      "topY" : 377.7239,
+      "baseLineY" : 386.8799,
+      "fontId" : 3,
+      "text" : "Acquired by the Servicer at Foreclosure or Deed-in-Lieu "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 415.4149,
+      "rightX" : 530.2198,
+      "topY" : 403.4149,
+      "baseLineY" : 412.6799,
+      "fontId" : 5,
+      "text" : "For properties that are acquired by the servicer, the servicer must order an appraisal "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 429.2149,
+      "rightX" : 537.595,
+      "topY" : 417.2149,
+      "baseLineY" : 426.4799,
+      "fontId" : 5,
+      "text" : "within 15 days of the foreclosure sale date, acquisition date, or possession of the security "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 443.0149,
+      "rightX" : 524.5785,
+      "topY" : 431.0149,
+      "baseLineY" : 440.2799,
+      "fontId" : 5,
+      "text" : "property and file the loss claim within 60 days of the foreclosure sale date, acquisition "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 456.8149,
+      "rightX" : 516.5374,
+      "topY" : 444.8149,
+      "baseLineY" : 454.0799,
+      "fontId" : 5,
+      "text" : "date, or possession of the security property.  In cases where a separate legal action is "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 470.6148,
+      "rightX" : 531.5997,
+      "topY" : 458.6148,
+      "baseLineY" : 467.8799,
+      "fontId" : 5,
+      "text" : "necessary to gain possession following a foreclosure, the proceeding should be initiated "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 484.4148,
+      "rightX" : 524.1596,
+      "topY" : 472.4148,
+      "baseLineY" : 481.6799,
+      "fontId" : 5,
+      "text" : "within 30 calendar days of the foreclosure sale, redemption period, or other prevailing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 498.2148,
+      "rightX" : 509.3398,
+      "topY" : 486.2148,
+      "baseLineY" : 495.4799,
+      "fontId" : 5,
+      "text" : "State law affecting acquisition of title.  The Agency will determine the value of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 512.0148,
+      "rightX" : 507.9598,
+      "topY" : 500.0148,
+      "baseLineY" : 509.2798,
+      "fontId" : 5,
+      "text" : "property for the basis of the loss claim by utilizing the market value of the security "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 525.8148,
+      "rightX" : 533.9408,
+      "topY" : 513.8148,
+      "baseLineY" : 523.0798,
+      "fontId" : 5,
+      "text" : "property through the Property Sale Value Calculator (PSVC). The Agency will apply an "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 539.6148,
+      "rightX" : 514.2599,
+      "topY" : 527.6148,
+      "baseLineY" : 536.8798,
+      "fontId" : 5,
+      "text" : "acquisition and management resale factor  to estimate holding and disposition costs, "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 553.4148,
+      "rightX" : 525.9599,
+      "topY" : 541.4148,
+      "baseLineY" : 550.6798,
+      "fontId" : 5,
+      "text" : "based on the most current VA Management and Acquisition Factor (also known as the "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 567.2148,
+      "rightX" : 513.5398,
+      "topY" : 555.2148,
+      "baseLineY" : 564.4799,
+      "fontId" : 5,
+      "text" : "VA Net Value Factor), as announced by the VA in a notice published in the Federal "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 581.0148,
+      "rightX" : 217.3199,
+      "topY" : 569.0148,
+      "baseLineY" : 578.2798,
+      "fontId" : 5,
+      "text" : "Register and found at: "
+    }, {
+      "leftX" : 217.3199,
+      "bottomY" : 581.0148,
+      "rightX" : 529.9199,
+      "topY" : 569.0148,
+      "baseLineY" : 578.2798,
+      "fontId" : 10,
+      "text" : "https://www.benefits.va.gov/HOMELOANS/servicers_valeri.asp"
+    }, {
+      "leftX" : 529.8599,
+      "bottomY" : 581.0148,
+      "rightX" : 532.8599,
+      "topY" : 569.0148,
+      "baseLineY" : 578.2798,
+      "fontId" : 5,
+      "text" : "."
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 694.3191,
+      "rightX" : 317.6215,
+      "topY" : 684.3191,
+      "baseLineY" : 692.04,
+      "fontId" : 1,
+      "text" : "19-4 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.1549,
+      "rightX" : 75,
+      "topY" : 696.1549,
+      "baseLineY" : 705.42,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 337.32,
+      "bottomY" : 708.1549,
+      "rightX" : 340.32,
+      "topY" : 696.1549,
+      "baseLineY" : 705.42,
+      "fontId" : 5,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.102,
+      "rightX" : 216.6988,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 19.3 Filing a Loss Claim "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 106.625,
+      "rightX" : 74.495,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 120.5639,
+      "rightX" : 119.64,
+      "topY" : 108.5639,
+      "baseLineY" : 117.72,
+      "fontId" : 3,
+      "text" : "C."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 120.8708,
+      "rightX" : 122.976,
+      "topY" : 108.8708,
+      "baseLineY" : 117.72,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 120.5639,
+      "rightX" : 254.34,
+      "topY" : 108.5639,
+      "baseLineY" : 117.72,
+      "fontId" : 3,
+      "text" : "Market Value Appraisal "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 146.2549,
+      "rightX" : 537.5388,
+      "topY" : 134.2549,
+      "baseLineY" : 143.52,
+      "fontId" : 5,
+      "text" : "The servicer will order an appraisal prepared by a licensed or certified appraiser. The "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 160.0549,
+      "rightX" : 482.22,
+      "topY" : 148.0549,
+      "baseLineY" : 157.3199,
+      "fontId" : 5,
+      "text" : "appraisal must comply with USPAP and meet all the following requirements: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 186.1151,
+      "rightX" : 131.52,
+      "topY" : 174.1151,
+      "baseLineY" : 183.96,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 186.8171,
+      "rightX" : 134.856,
+      "topY" : 174.8171,
+      "baseLineY" : 183.96,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 186.6949,
+      "rightX" : 438.96,
+      "topY" : 174.6949,
+      "baseLineY" : 183.96,
+      "fontId" : 5,
+      "text" : "USDA to be named as either the client and/or intended user.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 212.7551,
+      "rightX" : 131.52,
+      "topY" : 200.7551,
+      "baseLineY" : 210.6,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 213.4571,
+      "rightX" : 134.856,
+      "topY" : 201.4571,
+      "baseLineY" : 210.6,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 213.3349,
+      "rightX" : 486.3,
+      "topY" : 201.3349,
+      "baseLineY" : 210.6,
+      "fontId" : 5,
+      "text" : "The intended use is market value for loss mitigation or asset valuation. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 239.4551,
+      "rightX" : 131.52,
+      "topY" : 227.4551,
+      "baseLineY" : 237.3,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 240.1571,
+      "rightX" : 134.856,
+      "topY" : 228.1571,
+      "baseLineY" : 237.3,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 240.035,
+      "rightX" : 450.9561,
+      "topY" : 228.035,
+      "baseLineY" : 237.3,
+      "fontId" : 5,
+      "text" : "State the highest and best use analysis for the subject property.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 265.8349,
+      "rightX" : 355.2,
+      "topY" : 253.8349,
+      "baseLineY" : 263.1,
+      "fontId" : 5,
+      "text" : "The appraiser will use one of the following forms:  "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 291.8951,
+      "rightX" : 131.5199,
+      "topY" : 279.8951,
+      "baseLineY" : 289.74,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 292.5971,
+      "rightX" : 134.8559,
+      "topY" : 280.5971,
+      "baseLineY" : 289.74,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 292.475,
+      "rightX" : 540.002,
+      "topY" : 280.475,
+      "baseLineY" : 289.74,
+      "fontId" : 5,
+      "text" : "Uniform Residential Appraisal Report (URAR/Fannie Mae Form 1004 or Freddie "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 306.2749,
+      "rightX" : 219.9599,
+      "topY" : 294.2749,
+      "baseLineY" : 303.54,
+      "fontId" : 5,
+      "text" : "Mac form 70) ; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 332.3351,
+      "rightX" : 131.5199,
+      "topY" : 320.3351,
+      "baseLineY" : 330.18,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 333.0371,
+      "rightX" : 134.8559,
+      "topY" : 321.0371,
+      "baseLineY" : 330.18,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 332.915,
+      "rightX" : 536.9399,
+      "topY" : 320.915,
+      "baseLineY" : 330.18,
+      "fontId" : 5,
+      "text" : "Manufactured Home Appraisal Report (Fannie Mae Form 1004C or Freddie Mac "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 346.7749,
+      "rightX" : 220.3799,
+      "topY" : 334.7749,
+      "baseLineY" : 344.04,
+      "fontId" : 5,
+      "text" : "Form 70-B); or "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 372.8351,
+      "rightX" : 131.5199,
+      "topY" : 360.8351,
+      "baseLineY" : 370.68,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 373.5371,
+      "rightX" : 134.8559,
+      "topY" : 361.5371,
+      "baseLineY" : 370.68,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 373.415,
+      "rightX" : 511.2598,
+      "topY" : 361.415,
+      "baseLineY" : 370.68,
+      "fontId" : 5,
+      "text" : "Individual Condominium Unit Appraisal Report (Fannie Mae Form 1073 or "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 387.2149,
+      "rightX" : 264.96,
+      "topY" : 375.2149,
+      "baseLineY" : 384.48,
+      "fontId" : 5,
+      "text" : "Freddie Mac Form 465). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 413.0149,
+      "rightX" : 513.84,
+      "topY" : 401.0149,
+      "baseLineY" : 410.28,
+      "fontId" : 5,
+      "text" : "Along with the above-mentioned appraisal forms, the following should be included: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 439.0751,
+      "rightX" : 131.52,
+      "topY" : 427.0751,
+      "baseLineY" : 436.92,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 439.7771,
+      "rightX" : 134.856,
+      "topY" : 427.7771,
+      "baseLineY" : 436.92,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 439.6549,
+      "rightX" : 525.3008,
+      "topY" : 427.6549,
+      "baseLineY" : 436.92,
+      "fontId" : 5,
+      "text" : "Photos documenting the interior inspection are part of the appraisal inspection. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 453.4549,
+      "rightX" : 369.36,
+      "topY" : 441.4549,
+      "baseLineY" : 450.72,
+      "fontId" : 5,
+      "text" : "The following color photos must be included:  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 479.5151,
+      "rightX" : 167.52,
+      "topY" : 467.5151,
+      "baseLineY" : 477.36,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 480.2171,
+      "rightX" : 170.856,
+      "topY" : 468.2171,
+      "baseLineY" : 477.36,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 480.095,
+      "rightX" : 518.6396,
+      "topY" : 468.095,
+      "baseLineY" : 477.36,
+      "fontId" : 5,
+      "text" : "All living spaces in the property (i.e. living room, family room, bonus "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 493.8949,
+      "rightX" : 326.64,
+      "topY" : 481.8949,
+      "baseLineY" : 491.16,
+      "fontId" : 5,
+      "text" : "room, dining room/area, etc.)  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 513.9551,
+      "rightX" : 167.52,
+      "topY" : 501.9551,
+      "baseLineY" : 511.8,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 514.6571,
+      "rightX" : 170.856,
+      "topY" : 502.6571,
+      "baseLineY" : 511.8,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 514.535,
+      "rightX" : 251.64,
+      "topY" : 502.535,
+      "baseLineY" : 511.8,
+      "fontId" : 5,
+      "text" : "All bedrooms  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 534.6551,
+      "rightX" : 167.52,
+      "topY" : 522.6551,
+      "baseLineY" : 532.5,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 535.3571,
+      "rightX" : 170.856,
+      "topY" : 523.3571,
+      "baseLineY" : 532.5,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 535.235,
+      "rightX" : 223.9799,
+      "topY" : 523.235,
+      "baseLineY" : 532.5,
+      "fontId" : 5,
+      "text" : "Kitchen  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 555.2951,
+      "rightX" : 167.52,
+      "topY" : 543.2951,
+      "baseLineY" : 553.14,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 555.9972,
+      "rightX" : 170.856,
+      "topY" : 543.9972,
+      "baseLineY" : 553.14,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 555.875,
+      "rightX" : 238.68,
+      "topY" : 543.875,
+      "baseLineY" : 553.14,
+      "fontId" : 5,
+      "text" : "Bathrooms  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 575.9351,
+      "rightX" : 167.52,
+      "topY" : 563.9351,
+      "baseLineY" : 573.78,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 576.6372,
+      "rightX" : 170.856,
+      "topY" : 564.6372,
+      "baseLineY" : 573.78,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 576.515,
+      "rightX" : 289.98,
+      "topY" : 564.515,
+      "baseLineY" : 573.78,
+      "fontId" : 5,
+      "text" : "Basement/crawlspace  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 596.6351,
+      "rightX" : 167.52,
+      "topY" : 584.6351,
+      "baseLineY" : 594.48,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 597.3371,
+      "rightX" : 170.856,
+      "topY" : 585.3371,
+      "baseLineY" : 594.48,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 597.2149,
+      "rightX" : 255,
+      "topY" : 585.2149,
+      "baseLineY" : 594.48,
+      "fontId" : 5,
+      "text" : "Laundry room  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 617.2751,
+      "rightX" : 167.52,
+      "topY" : 605.2751,
+      "baseLineY" : 615.12,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 617.9771,
+      "rightX" : 170.856,
+      "topY" : 605.9771,
+      "baseLineY" : 615.12,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 617.855,
+      "rightX" : 527.58,
+      "topY" : 605.855,
+      "baseLineY" : 615.12,
+      "fontId" : 5,
+      "text" : "Mechanicals (furnace/air conditioner unit/water heater/electrical panel)  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 637.9151,
+      "rightX" : 167.52,
+      "topY" : 625.9151,
+      "baseLineY" : 635.76,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 638.6172,
+      "rightX" : 170.856,
+      "topY" : 626.6172,
+      "baseLineY" : 635.76,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 638.495,
+      "rightX" : 210,
+      "topY" : 626.495,
+      "baseLineY" : 635.76,
+      "fontId" : 5,
+      "text" : "Attic  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 658.6151,
+      "rightX" : 167.52,
+      "topY" : 646.6151,
+      "baseLineY" : 656.46,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 659.3171,
+      "rightX" : 170.856,
+      "topY" : 647.3171,
+      "baseLineY" : 656.46,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 659.1949,
+      "rightX" : 250.6199,
+      "topY" : 647.1949,
+      "baseLineY" : 656.46,
+      "fontId" : 5,
+      "text" : "Garage/sheds  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 679.2551,
+      "rightX" : 167.52,
+      "topY" : 667.2551,
+      "baseLineY" : 677.1,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 679.9571,
+      "rightX" : 170.856,
+      "topY" : 667.9571,
+      "baseLineY" : 677.1,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 679.8349,
+      "rightX" : 357.6,
+      "topY" : 667.8349,
+      "baseLineY" : 677.1,
+      "fontId" : 5,
+      "text" : "Any/all deferred maintenance items  "
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 697.1391,
+      "rightX" : 317.6215,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 1,
+      "text" : "19-5 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 176.1379,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 305.9971,
+      "bottomY" : 708.5991,
+      "rightX" : 308.5021,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1222,
+      "rightX" : 187.8312,
+      "topY" : 710.1222,
+      "baseLineY" : 717.843,
+      "fontId" : 1,
+      "text" : "Revised (04-14-25)  PN 637 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.102,
+      "rightX" : 216.6988,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 19.3 Filing a Loss Claim "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 106.625,
+      "rightX" : 74.495,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 120.4549,
+      "rightX" : 520.56,
+      "topY" : 108.4549,
+      "baseLineY" : 117.72,
+      "fontId" : 5,
+      "text" : "Appraisals will be in PDF format with color photos upon submission to USDA LINC."
+    }, {
+      "leftX" : 520.56,
+      "bottomY" : 120.285,
+      "rightX" : 525.5669,
+      "topY" : 109.285,
+      "baseLineY" : 117.72,
+      "fontId" : 11,
+      "text" : "  "
+    }, {
+      "leftX" : 72.005,
+      "bottomY" : 133.6696,
+      "rightX" : 74.4865,
+      "topY" : 122.6696,
+      "baseLineY" : 131.1046,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 148.1039,
+      "rightX" : 119.64,
+      "topY" : 136.1039,
+      "baseLineY" : 145.26,
+      "fontId" : 3,
+      "text" : "D."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 148.4108,
+      "rightX" : 122.976,
+      "topY" : 136.4108,
+      "baseLineY" : 145.26,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 148.1039,
+      "rightX" : 315.9587,
+      "topY" : 136.1039,
+      "baseLineY" : 145.26,
+      "fontId" : 3,
+      "text" : "The Property Sale Value Calculator  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 173.735,
+      "rightX" : 542.2798,
+      "topY" : 161.735,
+      "baseLineY" : 171,
+      "fontId" : 5,
+      "text" : "The Agency has developed a Property Sale Value Calculator (PSVC) to determine the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 187.535,
+      "rightX" : 486.9587,
+      "topY" : 175.535,
+      "baseLineY" : 184.8,
+      "fontId" : 5,
+      "text" : "estimated sales price for REO loss claims.  The model coefficients use data on "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 201.3349,
+      "rightX" : 532.9199,
+      "topY" : 189.3349,
+      "baseLineY" : 198.6,
+      "fontId" : 5,
+      "text" : "approximately 94,000 historical loss claims from the program.  The Agency updates the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 215.1349,
+      "rightX" : 539.8737,
+      "topY" : 203.1349,
+      "baseLineY" : 212.4,
+      "fontId" : 5,
+      "text" : "model coefficients on a regular basis using actual property sale values acquired through a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 228.9349,
+      "rightX" : 529.1362,
+      "topY" : 216.9349,
+      "baseLineY" : 226.2,
+      "fontId" : 5,
+      "text" : "third-party data provider.  The Agency adds historical data to the model every year and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 242.7349,
+      "rightX" : 541.1973,
+      "topY" : 230.7349,
+      "baseLineY" : 239.9999,
+      "fontId" : 5,
+      "text" : "re-generates coefficients to ensure historical relationships between variables represent the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 256.5349,
+      "rightX" : 543.42,
+      "topY" : 244.5349,
+      "baseLineY" : 253.7999,
+      "fontId" : 5,
+      "text" : "most recent data available and that the model produces accurate property value estimates.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 270.3349,
+      "rightX" : 129,
+      "topY" : 258.3349,
+      "baseLineY" : 267.5999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 284.2438,
+      "rightX" : 93,
+      "topY" : 272.2438,
+      "baseLineY" : 281.3999,
+      "fontId" : 3,
+      "text" : "19.4"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 284.5507,
+      "rightX" : 96.336,
+      "topY" : 272.5507,
+      "baseLineY" : 281.3999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 284.2438,
+      "rightX" : 345.3,
+      "topY" : 272.2438,
+      "baseLineY" : 281.3999,
+      "fontId" : 3,
+      "text" : "CALCULATING NET RECOVERY VALUE "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 309.9349,
+      "rightX" : 532.8598,
+      "topY" : 297.9349,
+      "baseLineY" : 307.1999,
+      "fontId" : 5,
+      "text" : "As a part of the loss claim, the Agency will reimburse the servicer for the difference "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 323.7348,
+      "rightX" : 513.9598,
+      "topY" : 311.7348,
+      "baseLineY" : 320.9999,
+      "fontId" : 5,
+      "text" : "between the loss incurred by the servicer and the net recovery value of the property, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 337.5348,
+      "rightX" : 540.24,
+      "topY" : 325.5348,
+      "baseLineY" : 334.7999,
+      "fontId" : 5,
+      "text" : "within the limits of the guarantee.  Net recovery value is the amount the servicer recovers "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 351.3348,
+      "rightX" : 538.1362,
+      "topY" : 339.3348,
+      "baseLineY" : 348.5999,
+      "fontId" : 5,
+      "text" : "from the sale of a property after accounting for all costs. Net recovery value is calculated "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.1348,
+      "rightX" : 534.78,
+      "topY" : 353.1348,
+      "baseLineY" : 362.3998,
+      "fontId" : 5,
+      "text" : "differently for properties that have been sold than for properties that are in the servicer’s "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 378.9348,
+      "rightX" : 532.4998,
+      "topY" : 366.9348,
+      "baseLineY" : 376.1998,
+      "fontId" : 5,
+      "text" : "inventory at the time the loss claim is filed.  For property that has already been sold, the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 392.7348,
+      "rightX" : 530.0999,
+      "topY" : 380.7348,
+      "baseLineY" : 389.9998,
+      "fontId" : 5,
+      "text" : "actual net recovery value is used.  For property that remains in the servicer’s inventory, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 406.5348,
+      "rightX" : 263.328,
+      "topY" : 394.5348,
+      "baseLineY" : 403.7998,
+      "fontId" : 5,
+      "text" : "the estimated net recovery value"
+    }, {
+      "leftX" : 263.34,
+      "bottomY" : 406.5511,
+      "rightX" : 266.34,
+      "topY" : 394.5511,
+      "baseLineY" : 403.7998,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 266.28,
+      "bottomY" : 406.5348,
+      "rightX" : 305.28,
+      "topY" : 394.5348,
+      "baseLineY" : 403.7998,
+      "fontId" : 5,
+      "text" : "is used. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 432.4437,
+      "rightX" : 119.64,
+      "topY" : 420.4437,
+      "baseLineY" : 429.5998,
+      "fontId" : 3,
+      "text" : "A."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 432.7506,
+      "rightX" : 122.976,
+      "topY" : 420.7506,
+      "baseLineY" : 429.5998,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 432.4437,
+      "rightX" : 284.64,
+      "topY" : 420.4437,
+      "baseLineY" : 429.5998,
+      "fontId" : 3,
+      "text" : "Properties Sold at Foreclosure "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 458.1347,
+      "rightX" : 539.64,
+      "topY" : 446.1347,
+      "baseLineY" : 455.3998,
+      "fontId" : 5,
+      "text" : "When the servicer disposed of the property at the time of a loss claim submission, the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 471.9347,
+      "rightX" : 422.52,
+      "topY" : 459.9347,
+      "baseLineY" : 469.1998,
+      "fontId" : 5,
+      "text" : "actual net recovery value is calculated as the difference between: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 497.9949,
+      "rightX" : 131.52,
+      "topY" : 485.9949,
+      "baseLineY" : 495.8398,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 498.6969,
+      "rightX" : 134.856,
+      "topY" : 486.6969,
+      "baseLineY" : 495.8398,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 498.5747,
+      "rightX" : 530.5762,
+      "topY" : 486.5747,
+      "baseLineY" : 495.8398,
+      "fontId" : 5,
+      "text" : "The proceeds from the sale and any other amounts recovered, such as recovered "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 512.3747,
+      "rightX" : 234.3,
+      "topY" : 500.3747,
+      "baseLineY" : 509.6398,
+      "fontId" : 5,
+      "text" : "escrow funds; and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 538.4349,
+      "rightX" : 131.52,
+      "topY" : 526.4349,
+      "baseLineY" : 536.2798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 539.1369,
+      "rightX" : 134.856,
+      "topY" : 527.1369,
+      "baseLineY" : 536.2798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 539.0148,
+      "rightX" : 357.96,
+      "topY" : 527.0148,
+      "baseLineY" : 536.2798,
+      "fontId" : 5,
+      "text" : "Allowable liquidation and disposition costs. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 564.9837,
+      "rightX" : 118.98,
+      "topY" : 552.9837,
+      "baseLineY" : 562.1398,
+      "fontId" : 3,
+      "text" : "B."
+    }, {
+      "leftX" : 118.98,
+      "bottomY" : 565.2906,
+      "rightX" : 122.316,
+      "topY" : 553.2906,
+      "baseLineY" : 562.1398,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 564.9837,
+      "rightX" : 233.28,
+      "topY" : 552.9837,
+      "baseLineY" : 562.1398,
+      "fontId" : 3,
+      "text" : "Acquired Properties "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 590.6747,
+      "rightX" : 504.2386,
+      "topY" : 578.6747,
+      "baseLineY" : 587.9398,
+      "fontId" : 5,
+      "text" : "The Agency estimates the net recovery value on unsold REO as the difference "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 604.4747,
+      "rightX" : 154.32,
+      "topY" : 592.4747,
+      "baseLineY" : 601.7397,
+      "fontId" : 5,
+      "text" : "between: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 630.5349,
+      "rightX" : 131.52,
+      "topY" : 618.5349,
+      "baseLineY" : 628.3798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 631.2369,
+      "rightX" : 134.856,
+      "topY" : 619.2369,
+      "baseLineY" : 628.3798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 631.1147,
+      "rightX" : 414.216,
+      "topY" : 619.1147,
+      "baseLineY" : 628.3798,
+      "fontId" : 5,
+      "text" : "The estimated value of the property based on the PSVC;"
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 694.3191,
+      "rightX" : 317.6215,
+      "topY" : 684.3191,
+      "baseLineY" : 692.04,
+      "fontId" : 1,
+      "text" : "19-6 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.1549,
+      "rightX" : 75,
+      "topY" : 696.1549,
+      "baseLineY" : 705.42,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 337.32,
+      "bottomY" : 708.1549,
+      "rightX" : 340.32,
+      "topY" : 696.1549,
+      "baseLineY" : 705.42,
+      "fontId" : 5,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.102,
+      "rightX" : 267.8109,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 19.4 Calculating Net Recovery Value "
+    }, {
+      "leftX" : 539.9841,
+      "bottomY" : 106.625,
+      "rightX" : 542.4891,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 120.7151,
+      "rightX" : 131.52,
+      "topY" : 108.7151,
+      "baseLineY" : 118.56,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 121.4171,
+      "rightX" : 134.856,
+      "topY" : 109.4171,
+      "baseLineY" : 118.56,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 121.295,
+      "rightX" : 519.6,
+      "topY" : 109.295,
+      "baseLineY" : 118.56,
+      "fontId" : 5,
+      "text" : "Allowable acquisition and management costs associated with liquidation; and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 147.3551,
+      "rightX" : 131.52,
+      "topY" : 135.3551,
+      "baseLineY" : 145.2,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 148.0572,
+      "rightX" : 134.856,
+      "topY" : 136.0572,
+      "baseLineY" : 145.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 147.935,
+      "rightX" : 252.96,
+      "topY" : 135.935,
+      "baseLineY" : 145.2,
+      "fontId" : 5,
+      "text" : "VA Net Value Factor. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 161.795,
+      "rightX" : 75,
+      "topY" : 149.795,
+      "baseLineY" : 159.06,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 175.7039,
+      "rightX" : 93,
+      "topY" : 163.7039,
+      "baseLineY" : 172.86,
+      "fontId" : 3,
+      "text" : "19.5"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 176.0108,
+      "rightX" : 96.336,
+      "topY" : 164.0108,
+      "baseLineY" : 172.86,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 103.5,
+      "bottomY" : 175.7039,
+      "rightX" : 211.5,
+      "topY" : 163.7039,
+      "baseLineY" : 172.86,
+      "fontId" : 3,
+      "text" : "AGENCY REVIEW "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 201.3949,
+      "rightX" : 538.555,
+      "topY" : 189.3949,
+      "baseLineY" : 198.66,
+      "fontId" : 5,
+      "text" : "The Agency will review the loss claim package from the servicer.  Loss claim checks "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 215.1949,
+      "rightX" : 534.8986,
+      "topY" : 203.1949,
+      "baseLineY" : 212.46,
+      "fontId" : 5,
+      "text" : "or electronic funds transfer (EFT) payments will be issued to the servicer by the Agency "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 228.9949,
+      "rightX" : 523.562,
+      "topY" : 216.9949,
+      "baseLineY" : 226.2599,
+      "fontId" : 5,
+      "text" : "within 60 days of the servicer’s properly filed loss claim.  Agency staff will notify the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 242.7949,
+      "rightX" : 529.2,
+      "topY" : 230.7949,
+      "baseLineY" : 240.0599,
+      "fontId" : 5,
+      "text" : "servicer of any additional documentation required and will note it in the loss claim file. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 268.5349,
+      "rightX" : 510.8399,
+      "topY" : 256.5349,
+      "baseLineY" : 265.7999,
+      "fontId" : 5,
+      "text" : "Once all required information is submitted, the Agency must take the following "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 282.3349,
+      "rightX" : 148.32,
+      "topY" : 270.3349,
+      "baseLineY" : 279.5999,
+      "fontId" : 5,
+      "text" : "actions: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 308.395,
+      "rightX" : 131.52,
+      "topY" : 296.395,
+      "baseLineY" : 306.2399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 309.0971,
+      "rightX" : 134.856,
+      "topY" : 297.0971,
+      "baseLineY" : 306.2399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 308.9749,
+      "rightX" : 529.6199,
+      "topY" : 296.9749,
+      "baseLineY" : 306.2399,
+      "fontId" : 5,
+      "text" : "Determine whether the servicer has fulfilled all SFHGLP obligations and if not, "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 322.8349,
+      "rightX" : 426.12,
+      "topY" : 310.8349,
+      "baseLineY" : 320.0999,
+      "fontId" : 5,
+      "text" : "whether reduction or denial of the loss claim is warranted. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 348.895,
+      "rightX" : 131.52,
+      "topY" : 336.895,
+      "baseLineY" : 346.7399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 349.5971,
+      "rightX" : 134.856,
+      "topY" : 337.5971,
+      "baseLineY" : 346.7399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 349.4749,
+      "rightX" : 520.6199,
+      "topY" : 337.4749,
+      "baseLineY" : 346.7399,
+      "fontId" : 5,
+      "text" : "Review and approve the loss claim with an Agency designee with appropriate "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 363.2749,
+      "rightX" : 238.3201,
+      "topY" : 351.2749,
+      "baseLineY" : 360.5399,
+      "fontId" : 5,
+      "text" : "approval authority. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 389.335,
+      "rightX" : 131.5201,
+      "topY" : 377.335,
+      "baseLineY" : 387.1799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 390.0371,
+      "rightX" : 134.8561,
+      "topY" : 378.0371,
+      "baseLineY" : 387.1799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 389.9149,
+      "rightX" : 531.9601,
+      "topY" : 377.9149,
+      "baseLineY" : 387.1799,
+      "fontId" : 5,
+      "text" : "Advise the servicer of the PSVC (if applicable) used to calculate the loss claim.  "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 415.975,
+      "rightX" : 131.5201,
+      "topY" : 403.975,
+      "baseLineY" : 413.8199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 416.6771,
+      "rightX" : 134.8561,
+      "topY" : 404.6771,
+      "baseLineY" : 413.8199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 416.5549,
+      "rightX" : 537.6598,
+      "topY" : 404.5549,
+      "baseLineY" : 413.8199,
+      "fontId" : 5,
+      "text" : "Provide appropriate appeal rights for any adjustments, reductions, or denials with "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 430.4149,
+      "rightX" : 500.2162,
+      "topY" : 418.4149,
+      "baseLineY" : 427.6799,
+      "fontId" : 5,
+      "text" : "specific reasons and clear explanation for the decision in accordance with "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 444.2149,
+      "rightX" : 292.6801,
+      "topY" : 432.2149,
+      "baseLineY" : 441.4799,
+      "fontId" : 5,
+      "text" : "Appendix 3 of this Handbook. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 470.275,
+      "rightX" : 131.5201,
+      "topY" : 458.275,
+      "baseLineY" : 468.1199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5201,
+      "bottomY" : 470.9771,
+      "rightX" : 134.8561,
+      "topY" : 458.9771,
+      "baseLineY" : 468.1199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 470.8549,
+      "rightX" : 219.0001,
+      "topY" : 458.8549,
+      "baseLineY" : 468.1199,
+      "fontId" : 5,
+      "text" : "Issue payment. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 496.6549,
+      "rightX" : 502.0173,
+      "topY" : 484.6549,
+      "baseLineY" : 493.9199,
+      "fontId" : 5,
+      "text" : "Payment of the loss claim simultaneously fulfills and terminates the loan note "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 510.4549,
+      "rightX" : 519.54,
+      "topY" : 498.4549,
+      "baseLineY" : 507.7199,
+      "fontId" : 5,
+      "text" : "guarantee.  A termination notice will be mailed to the designated payee at the time of "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 524.2549,
+      "rightX" : 161.3401,
+      "topY" : 512.2549,
+      "baseLineY" : 521.5199,
+      "fontId" : 5,
+      "text" : "payment.   "
+    }, {
+      "leftX" : 72.0001,
+      "bottomY" : 538.0549,
+      "rightX" : 75.0001,
+      "topY" : 526.0549,
+      "baseLineY" : 535.3199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 551.9638,
+      "rightX" : 119.6401,
+      "topY" : 539.9638,
+      "baseLineY" : 549.1199,
+      "fontId" : 3,
+      "text" : "A."
+    }, {
+      "leftX" : 119.6401,
+      "bottomY" : 552.2707,
+      "rightX" : 122.9761,
+      "topY" : 540.2707,
+      "baseLineY" : 549.1199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 551.9638,
+      "rightX" : 315.0601,
+      "topY" : 539.9638,
+      "baseLineY" : 549.1199,
+      "fontId" : 3,
+      "text" : "Reduction or Denial of a Loss Claim "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 577.6549,
+      "rightX" : 518.1598,
+      "topY" : 565.6549,
+      "baseLineY" : 574.9199,
+      "fontId" : 5,
+      "text" : "The Agency will review each loss claim for adherence to program regulation and "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 591.4549,
+      "rightX" : 529.4998,
+      "topY" : 579.4549,
+      "baseLineY" : 588.7199,
+      "fontId" : 5,
+      "text" : "make any reductions and/or denial of loss claim as noted below.  The Agency staff will "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 605.2549,
+      "rightX" : 540.8997,
+      "topY" : 593.2549,
+      "baseLineY" : 602.5199,
+      "fontId" : 5,
+      "text" : "use information provided by the servicer to determine if the loss claim should be adjusted "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 619.0549,
+      "rightX" : 499.32,
+      "topY" : 607.0549,
+      "baseLineY" : 616.3199,
+      "fontId" : 5,
+      "text" : "or denied.  The Agency must show that any reduction to the servicer’s loss claim "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 632.8548,
+      "rightX" : 527.5199,
+      "topY" : 620.8548,
+      "baseLineY" : 630.1199,
+      "fontId" : 5,
+      "text" : "corresponds with the servicer’s action or failure to act.  This section provides guidance "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 646.6549,
+      "rightX" : 534.6602,
+      "topY" : 634.6549,
+      "baseLineY" : 643.9199,
+      "fontId" : 5,
+      "text" : "regarding reduction or denial of a loss claim, and when applicable, the specific penalties "
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 697.1391,
+      "rightX" : 317.6215,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 1,
+      "text" : "19-7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 176.1379,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 305.9971,
+      "bottomY" : 708.5991,
+      "rightX" : 308.5021,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1222,
+      "rightX" : 187.8312,
+      "topY" : 710.1222,
+      "baseLineY" : 717.843,
+      "fontId" : 1,
+      "text" : "Revised (04-14-25)  PN 637 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.102,
+      "rightX" : 201.6388,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 19.5 Agency Review "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 106.625,
+      "rightX" : 74.495,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 120.4549,
+      "rightX" : 523.1998,
+      "topY" : 108.4549,
+      "baseLineY" : 117.72,
+      "fontId" : 5,
+      "text" : "attached to those factors.  Additional information regarding penalties may be found in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 134.2549,
+      "rightX" : 256.68,
+      "topY" : 122.2549,
+      "baseLineY" : 131.52,
+      "fontId" : 5,
+      "text" : "Appendix 8 of this Handbook. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 148.0549,
+      "rightX" : 75,
+      "topY" : 136.0549,
+      "baseLineY" : 145.3199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 161.9639,
+      "rightX" : 118.98,
+      "topY" : 149.9639,
+      "baseLineY" : 159.1199,
+      "fontId" : 3,
+      "text" : "B."
+    }, {
+      "leftX" : 118.98,
+      "bottomY" : 162.2708,
+      "rightX" : 122.316,
+      "topY" : 150.2708,
+      "baseLineY" : 159.1199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 161.9639,
+      "rightX" : 349.98,
+      "topY" : 149.9639,
+      "baseLineY" : 159.1199,
+      "fontId" : 3,
+      "text" : "Calculation and Approval of Loss Payment "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 187.6549,
+      "rightX" : 313.956,
+      "topY" : 175.6549,
+      "baseLineY" : 184.9199,
+      "fontId" : 5,
+      "text" : "Agency staff will review the loss claim"
+    }, {
+      "leftX" : 313.98,
+      "bottomY" : 187.6898,
+      "rightX" : 316.98,
+      "topY" : 175.6898,
+      "baseLineY" : 184.9199,
+      "fontId" : 12,
+      "text" : " "
+    }, {
+      "leftX" : 316.98,
+      "bottomY" : 187.6549,
+      "rightX" : 531.2998,
+      "topY" : 175.6549,
+      "baseLineY" : 184.9199,
+      "fontId" : 5,
+      "text" : "and supporting documentation submitted by "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 201.4549,
+      "rightX" : 536.1333,
+      "topY" : 189.4549,
+      "baseLineY" : 198.7199,
+      "fontId" : 5,
+      "text" : "the servicer.  Agency staff will  document and create a loss claim payment to the servicer"
+    }, {
+      "leftX" : 536.16,
+      "bottomY" : 201.5638,
+      "rightX" : 545.16,
+      "topY" : 189.5638,
+      "baseLineY" : 198.7199,
+      "fontId" : 3,
+      "text" : ".  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 215.2549,
+      "rightX" : 505.6198,
+      "topY" : 203.2549,
+      "baseLineY" : 212.5199,
+      "fontId" : 5,
+      "text" : "The Agency’s reviewer should contact the servicer if there are questions about the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 229.0549,
+      "rightX" : 291.66,
+      "topY" : 217.0549,
+      "baseLineY" : 226.3199,
+      "fontId" : 5,
+      "text" : "information submitted by the servicer."
+    }, {
+      "leftX" : 291.66,
+      "bottomY" : 229.1638,
+      "rightX" : 300.66,
+      "topY" : 217.1638,
+      "baseLineY" : 226.3199,
+      "fontId" : 3,
+      "text" : "   "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 242.9638,
+      "rightX" : 75,
+      "topY" : 230.9638,
+      "baseLineY" : 240.1199,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 256.8838,
+      "rightX" : 119.64,
+      "topY" : 244.8838,
+      "baseLineY" : 254.0399,
+      "fontId" : 3,
+      "text" : "C."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 257.1907,
+      "rightX" : 122.976,
+      "topY" : 245.1907,
+      "baseLineY" : 254.0399,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 256.8838,
+      "rightX" : 276.6,
+      "topY" : 244.8838,
+      "baseLineY" : 254.0399,
+      "fontId" : 3,
+      "text" : "Loss Claim Payment Process "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 282.5748,
+      "rightX" : 494.5198,
+      "topY" : 270.5748,
+      "baseLineY" : 279.8398,
+      "fontId" : 5,
+      "text" : "The Agency will use the following procedures for loss claim processing and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 296.3748,
+      "rightX" : 312.96,
+      "topY" : 284.3748,
+      "baseLineY" : 293.6398,
+      "fontId" : 5,
+      "text" : "disbursement of any loss claim payment.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 322.1911,
+      "rightX" : 135,
+      "topY" : 310.1911,
+      "baseLineY" : 319.4398,
+      "fontId" : 8,
+      "text" : "1."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 322.6765,
+      "rightX" : 138.336,
+      "topY" : 310.6765,
+      "baseLineY" : 319.4398,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 322.1911,
+      "rightX" : 334.32,
+      "topY" : 310.1911,
+      "baseLineY" : 319.4398,
+      "fontId" : 8,
+      "text" : "Notification of Loss Payment Amount "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 347.9748,
+      "rightX" : 534.9599,
+      "topY" : 335.9748,
+      "baseLineY" : 345.2398,
+      "fontId" : 5,
+      "text" : "The Agency should notify the servicer in writing of the amount to be paid within "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 361.7748,
+      "rightX" : 531.3573,
+      "topY" : 349.7748,
+      "baseLineY" : 359.0398,
+      "fontId" : 5,
+      "text" : "60 days of receipt of a properly completed loss claim package.  If the loss claim has "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 375.5747,
+      "rightX" : 529.7998,
+      "topY" : 363.5747,
+      "baseLineY" : 372.8398,
+      "fontId" : 5,
+      "text" : "been reduced or denied, the Agency will provide a clear explanation of its decision, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 389.3747,
+      "rightX" : 504.2399,
+      "topY" : 377.3747,
+      "baseLineY" : 386.6398,
+      "fontId" : 5,
+      "text" : "including an analysis of how the amount of any reduction was determined and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 403.1747,
+      "rightX" : 487.92,
+      "topY" : 391.1747,
+      "baseLineY" : 400.4398,
+      "fontId" : 5,
+      "text" : "provide notification of appeal rights in accordance with Appendix 3 of this "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 416.9747,
+      "rightX" : 184.9801,
+      "topY" : 404.9747,
+      "baseLineY" : 414.2397,
+      "fontId" : 5,
+      "text" : "Handbook.  "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 442.731,
+      "rightX" : 135.0001,
+      "topY" : 430.731,
+      "baseLineY" : 439.9797,
+      "fontId" : 8,
+      "text" : "2."
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 443.2165,
+      "rightX" : 138.3361,
+      "topY" : 431.2165,
+      "baseLineY" : 439.9797,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 442.731,
+      "rightX" : 330.9601,
+      "topY" : 430.731,
+      "baseLineY" : 439.9797,
+      "fontId" : 8,
+      "text" : "Payment and Post Payment Activities "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 468.5147,
+      "rightX" : 540.3598,
+      "topY" : 456.5147,
+      "baseLineY" : 465.7797,
+      "fontId" : 5,
+      "text" : "Payments for approved loss claims should be distributed within 60 days of receipt "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 482.3147,
+      "rightX" : 531.1789,
+      "topY" : 470.3147,
+      "baseLineY" : 479.5797,
+      "fontId" : 5,
+      "text" : "of a properly completed loss claim package.  Servicers who participate in electronic "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 496.1147,
+      "rightX" : 519.66,
+      "topY" : 484.1147,
+      "baseLineY" : 493.3797,
+      "fontId" : 5,
+      "text" : "funds transfer (EFT) should receive payment within 3 working days of loss claim "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 509.9147,
+      "rightX" : 510.24,
+      "topY" : 497.9147,
+      "baseLineY" : 507.1797,
+      "fontId" : 5,
+      "text" : "processing.  For all other servicers, a check should be generated and distributed "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 523.7146,
+      "rightX" : 531.1801,
+      "topY" : 511.7146,
+      "baseLineY" : 520.9797,
+      "fontId" : 5,
+      "text" : "within 3 working days of receipt of a properly completed and submitted loss claim.  "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 549.531,
+      "rightX" : 135.0001,
+      "topY" : 537.531,
+      "baseLineY" : 546.7797,
+      "fontId" : 8,
+      "text" : "3."
+    }, {
+      "leftX" : 135.0001,
+      "bottomY" : 550.0164,
+      "rightX" : 138.3361,
+      "topY" : 538.0164,
+      "baseLineY" : 546.7797,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 549.531,
+      "rightX" : 279.72,
+      "topY" : 537.531,
+      "baseLineY" : 546.7797,
+      "fontId" : 8,
+      "text" : "Review and Appeal Rights. "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 575.3147,
+      "rightX" : 536.2189,
+      "topY" : 563.3147,
+      "baseLineY" : 572.5797,
+      "fontId" : 5,
+      "text" : "If a loss claim is reduced or denied, the Agency will notify the servicer of review "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 589.1147,
+      "rightX" : 535.5601,
+      "topY" : 577.1147,
+      "baseLineY" : 586.3797,
+      "fontId" : 5,
+      "text" : "and appeal rights as described in Appendix 3 of this Handbook.  If the servicer seeks "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 602.9147,
+      "rightX" : 538.1999,
+      "topY" : 590.9147,
+      "baseLineY" : 600.1797,
+      "fontId" : 5,
+      "text" : "to request a review or appeal a loss claim decision, the Agency will pay the approved "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 616.7146,
+      "rightX" : 522.5997,
+      "topY" : 604.7146,
+      "baseLineY" : 613.9797,
+      "fontId" : 5,
+      "text" : "portion of the loss claim within the time frames described above.  Interest will not "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 630.5146,
+      "rightX" : 530.2802,
+      "topY" : 618.5146,
+      "baseLineY" : 627.7797,
+      "fontId" : 5,
+      "text" : "accrue on any disputed loss amount during the review or appeals process regardless "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 644.3147,
+      "rightX" : 317.5801,
+      "topY" : 632.3147,
+      "baseLineY" : 641.5797,
+      "fontId" : 5,
+      "text" : "of the outcome of the review or appeal. "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 670.1147,
+      "rightX" : 147.0001,
+      "topY" : 658.1147,
+      "baseLineY" : 667.3797,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 694.3191,
+      "rightX" : 317.6215,
+      "topY" : 684.3191,
+      "baseLineY" : 692.04,
+      "fontId" : 1,
+      "text" : "19-8 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.1549,
+      "rightX" : 75,
+      "topY" : 696.1549,
+      "baseLineY" : 705.42,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 337.32,
+      "bottomY" : 708.1549,
+      "rightX" : 340.32,
+      "topY" : 696.1549,
+      "baseLineY" : 705.42,
+      "fontId" : 5,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.102,
+      "rightX" : 201.6388,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 19.5 Agency Review "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 106.625,
+      "rightX" : 74.495,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 120.4713,
+      "rightX" : 135,
+      "topY" : 108.4713,
+      "baseLineY" : 117.72,
+      "fontId" : 8,
+      "text" : "4."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 120.9567,
+      "rightX" : 138.336,
+      "topY" : 108.9567,
+      "baseLineY" : 117.72,
+      "fontId" : 9,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 120.4713,
+      "rightX" : 278.34,
+      "topY" : 108.4713,
+      "baseLineY" : 117.72,
+      "fontId" : 8,
+      "text" : "Supplemental Loss Claims "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 146.2549,
+      "rightX" : 516.8998,
+      "topY" : 134.2549,
+      "baseLineY" : 143.52,
+      "fontId" : 5,
+      "text" : "The Agency may allow the servicer to submit one supplemental loss claim in "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 160.0549,
+      "rightX" : 526.9799,
+      "topY" : 148.0549,
+      "baseLineY" : 157.3199,
+      "fontId" : 5,
+      "text" : "addition to the original loss claim submitted.  The supplemental loss claim must be "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 173.8549,
+      "rightX" : 544.26,
+      "topY" : 161.8549,
+      "baseLineY" : 171.1199,
+      "fontId" : 5,
+      "text" : "received by the Agency within six months from payment date of the initial loss claim.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 187.6549,
+      "rightX" : 496.2609,
+      "topY" : 175.6549,
+      "baseLineY" : 184.9199,
+      "fontId" : 5,
+      "text" : "The Agency reserves the right to limit the payment of additional interest and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 201.4549,
+      "rightX" : 473.2798,
+      "topY" : 189.4549,
+      "baseLineY" : 198.7199,
+      "fontId" : 5,
+      "text" : "expenses.  The six-month expiration period may be exceeded if unusual "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 215.2549,
+      "rightX" : 514.1961,
+      "topY" : 203.2549,
+      "baseLineY" : 212.5199,
+      "fontId" : 5,
+      "text" : "circumstances exist such as a domestic incident as defined by the Department of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 229.0549,
+      "rightX" : 524.9398,
+      "topY" : 217.0549,
+      "baseLineY" : 226.3199,
+      "fontId" : 5,
+      "text" : "Homeland Security or when a geographic location in which the property is located "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 242.8548,
+      "rightX" : 320.22,
+      "topY" : 230.8548,
+      "baseLineY" : 240.1199,
+      "fontId" : 5,
+      "text" : "has a Presidential Disaster Declaration.  "
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 697.1391,
+      "rightX" : 317.6215,
+      "topY" : 687.1391,
+      "baseLineY" : 694.86,
+      "fontId" : 1,
+      "text" : "19-9 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 176.1379,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 305.9971,
+      "bottomY" : 708.5991,
+      "rightX" : 308.5021,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1222,
+      "rightX" : 187.8312,
+      "topY" : 710.1222,
+      "baseLineY" : 717.843,
+      "fontId" : 1,
+      "text" : "Revised (04-14-25)  PN 637 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "Arial-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 11,
+    "fontFamily" : "Calibri",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

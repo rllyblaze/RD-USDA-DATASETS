@@ -1,0 +1,6956 @@
+{
+  "pdfDoc" : "3560-1Chapter08.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 191.28,
+      "bottomY" : 95.1179,
+      "rightX" : 424.35,
+      "topY" : 81.1179,
+      "baseLineY" : 91.8,
+      "fontId" : 2,
+      "text" : "CHAPTER 8: LOAN CLOSING AND "
+    }, {
+      "leftX" : 237,
+      "bottomY" : 111.1979,
+      "rightX" : 378.63,
+      "topY" : 97.1979,
+      "baseLineY" : 107.88,
+      "fontId" : 2,
+      "text" : "PROJECT LEASE-UP "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 143.7239,
+      "rightX" : 96,
+      "topY" : 131.7239,
+      "baseLineY" : 140.88,
+      "fontId" : 3,
+      "text" : "8.1   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 143.7239,
+      "rightX" : 210,
+      "topY" : 131.7239,
+      "baseLineY" : 140.88,
+      "fontId" : 3,
+      "text" : "INTRODUCTION  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 169.415,
+      "rightX" : 523.1998,
+      "topY" : 157.415,
+      "baseLineY" : 166.68,
+      "fontId" : 4,
+      "text" : "After a loan has been approved, as described in Chapters 4 and 5, the Loan Originator "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.2149,
+      "rightX" : 312.84,
+      "topY" : 171.2149,
+      "baseLineY" : 180.48,
+      "fontId" : 4,
+      "text" : "takes steps to prepare for loan closing and project "
+    }, {
+      "leftX" : 359.16,
+      "bottomY" : 188.7269,
+      "rightX" : 501.24,
+      "topY" : 177.7269,
+      "baseLineY" : 186.12,
+      "fontId" : 5,
+      "text" : "Moving from Loan Approval  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 197.0149,
+      "rightX" : 295.4399,
+      "topY" : 185.0149,
+      "baseLineY" : 194.28,
+      "fontId" : 4,
+      "text" : "lease-up.  This chapter describes the rules and "
+    }, {
+      "leftX" : 390.24,
+      "bottomY" : 201.567,
+      "rightX" : 467.52,
+      "topY" : 190.567,
+      "baseLineY" : 198.96,
+      "fontId" : 5,
+      "text" : "to Loan Closing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 210.8149,
+      "rightX" : 220.6799,
+      "topY" : 198.8149,
+      "baseLineY" : 208.08,
+      "fontId" : 4,
+      "text" : "procedures of these activities.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 236.6149,
+      "rightX" : 283.92,
+      "topY" : 224.6149,
+      "baseLineY" : 233.8799,
+      "fontId" : 4,
+      "text" : "Section 1 addresses the loan closing "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 225.9471,
+      "rightX" : 500.4323,
+      "topY" : 214.9471,
+      "baseLineY" : 223.44,
+      "fontId" : 6,
+      "text" : "It is important for the process to move "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 238.5437,
+      "rightX" : 510.7148,
+      "topY" : 227.5437,
+      "baseLineY" : 236.0366,
+      "fontId" : 6,
+      "text" : "quickly from loan approval through loan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 250.4149,
+      "rightX" : 180,
+      "topY" : 238.4149,
+      "baseLineY" : 247.6799,
+      "fontId" : 4,
+      "text" : "process in three parts: "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 251.2618,
+      "rightX" : 493.0798,
+      "topY" : 240.2618,
+      "baseLineY" : 248.7547,
+      "fontId" : 6,
+      "text" : "closing.  Once a loan is obligated, as "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 275.761,
+      "rightX" : 113.496,
+      "topY" : 263.761,
+      "baseLineY" : 273.4799,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 276.3371,
+      "rightX" : 116.856,
+      "topY" : 264.3371,
+      "baseLineY" : 273.4799,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 263.8584,
+      "rightX" : 509.8804,
+      "topY" : 252.8584,
+      "baseLineY" : 261.3513,
+      "fontId" : 6,
+      "text" : "described in Chapter 5, Processing Final "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 276.2149,
+      "rightX" : 236.28,
+      "topY" : 264.2149,
+      "baseLineY" : 273.4799,
+      "fontId" : 4,
+      "text" : "Preparing for closing,  "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 276.5764,
+      "rightX" : 513.8416,
+      "topY" : 265.5764,
+      "baseLineY" : 274.0694,
+      "fontId" : 6,
+      "text" : "Applications – Stage 2, a debt to the U.S. "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 289.1731,
+      "rightX" : 519.6053,
+      "topY" : 278.1731,
+      "baseLineY" : 286.666,
+      "fontId" : 6,
+      "text" : "treasury is established, resulting in interest "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 301.561,
+      "rightX" : 113.496,
+      "topY" : 289.561,
+      "baseLineY" : 299.2799,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 302.1371,
+      "rightX" : 116.856,
+      "topY" : 290.1371,
+      "baseLineY" : 299.2799,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 302.0149,
+      "rightX" : 235.32,
+      "topY" : 290.0149,
+      "baseLineY" : 299.2799,
+      "fontId" : 4,
+      "text" : "Going to closing, and  "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 301.8912,
+      "rightX" : 507.36,
+      "topY" : 290.8912,
+      "baseLineY" : 299.3841,
+      "fontId" : 6,
+      "text" : "costs to the Agency and taxpayers.  The "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 314.4878,
+      "rightX" : 491.3133,
+      "topY" : 303.4878,
+      "baseLineY" : 311.9808,
+      "fontId" : 6,
+      "text" : "Loan Originator must work with the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 327.361,
+      "rightX" : 113.496,
+      "topY" : 315.361,
+      "baseLineY" : 325.0799,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 327.937,
+      "rightX" : 116.856,
+      "topY" : 315.937,
+      "baseLineY" : 325.0799,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 327.8149,
+      "rightX" : 237.72,
+      "topY" : 315.8149,
+      "baseLineY" : 325.0799,
+      "fontId" : 4,
+      "text" : "Post-closing activities. "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 327.0845,
+      "rightX" : 520.2024,
+      "topY" : 316.0845,
+      "baseLineY" : 324.5774,
+      "fontId" : 6,
+      "text" : "borrower to establish realistic expectations "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 339.8026,
+      "rightX" : 527.2806,
+      "topY" : 328.8026,
+      "baseLineY" : 337.2955,
+      "fontId" : 6,
+      "text" : "of the construction period so that after funds "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 353.6148,
+      "rightX" : 303.84,
+      "topY" : 341.6148,
+      "baseLineY" : 350.8799,
+      "fontId" : 4,
+      "text" : "Prior to closing, a number of documents "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 352.3992,
+      "rightX" : 511.0827,
+      "topY" : 341.3992,
+      "baseLineY" : 349.8922,
+      "fontId" : 6,
+      "text" : "have been obligated, construction can be "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 365.1173,
+      "rightX" : 511.6799,
+      "topY" : 354.1173,
+      "baseLineY" : 362.6102,
+      "fontId" : 6,
+      "text" : "completed and funds can be disbursed as "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 367.4148,
+      "rightX" : 291.84,
+      "topY" : 355.4148,
+      "baseLineY" : 364.6799,
+      "fontId" : 4,
+      "text" : "must be prepared.  At closing, documents are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 381.2148,
+      "rightX" : 276.12,
+      "topY" : 369.2148,
+      "baseLineY" : 378.4799,
+      "fontId" : 4,
+      "text" : "executed and ownership of the property is "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 377.7139,
+      "rightX" : 523.9509,
+      "topY" : 366.7139,
+      "baseLineY" : 375.2069,
+      "fontId" : 6,
+      "text" : "quickly as possible.  Moving a project from "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 395.0148,
+      "rightX" : 292.92,
+      "topY" : 383.0148,
+      "baseLineY" : 392.2798,
+      "fontId" : 4,
+      "text" : "transferred to the borrower.  Post-closing, the "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 403.0287,
+      "rightX" : 514.7125,
+      "topY" : 392.0287,
+      "baseLineY" : 400.5216,
+      "fontId" : 6,
+      "text" : "manner will help make the most effective "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 390.3106,
+      "rightX" : 509.5205,
+      "topY" : 379.3106,
+      "baseLineY" : 387.8035,
+      "fontId" : 6,
+      "text" : "loan approval to loan closing in a timely "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 422.6148,
+      "rightX" : 273.4801,
+      "topY" : 410.6148,
+      "baseLineY" : 419.8798,
+      "fontId" : 4,
+      "text" : "and the loan file is forwarded to the Loan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 408.8148,
+      "rightX" : 298.2,
+      "topY" : 396.8148,
+      "baseLineY" : 406.0798,
+      "fontId" : 4,
+      "text" : "loan docket is completed, documents are filed, "
+    }, {
+      "leftX" : 329.16,
+      "bottomY" : 415.7871,
+      "rightX" : 428.52,
+      "topY" : 404.7871,
+      "baseLineY" : 413.28,
+      "fontId" : 6,
+      "text" : "use of program funds. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 436.4148,
+      "rightX" : 148.32,
+      "topY" : 424.4148,
+      "baseLineY" : 433.6798,
+      "fontId" : 4,
+      "text" : "Servicing staff. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 462.2148,
+      "rightX" : 523.3199,
+      "topY" : 450.2148,
+      "baseLineY" : 459.4798,
+      "fontId" : 4,
+      "text" : "Section 2 describes Agency responsibilities during project lease-up.  When the loan is "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 476.0148,
+      "rightX" : 541.3198,
+      "topY" : 464.0148,
+      "baseLineY" : 473.2798,
+      "fontId" : 4,
+      "text" : "closed and construction completed, the borrower begins to lease up the project.  At this point, the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 489.8147,
+      "rightX" : 535.3198,
+      "topY" : 477.8147,
+      "baseLineY" : 487.0798,
+      "fontId" : 4,
+      "text" : "Agency must begin to monitor the borrower’s compliance with rent and occupancy rules, which "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 503.6147,
+      "rightX" : 369.24,
+      "topY" : 491.6147,
+      "baseLineY" : 500.8798,
+      "fontId" : 4,
+      "text" : "will involve meetings with the borrower and visits to the site. "
+    }, {
+      "leftX" : 158.88,
+      "bottomY" : 531.9179,
+      "rightX" : 356.2249,
+      "topY" : 517.9179,
+      "baseLineY" : 528.6,
+      "fontId" : 2,
+      "text" : "SECTION 1:  LOAN CLOSING "
+    }, {
+      "leftX" : 356.1968,
+      "bottomY" : 531.8098,
+      "rightX" : 456.514,
+      "topY" : 517.8098,
+      "baseLineY" : 528.6,
+      "fontId" : 9,
+      "text" : "[7 CFR 3560.72] "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 557.6039,
+      "rightX" : 96,
+      "topY" : 545.6039,
+      "baseLineY" : 554.76,
+      "fontId" : 3,
+      "text" : "8.2   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 557.6039,
+      "rightX" : 179.04,
+      "topY" : 545.6039,
+      "baseLineY" : 554.76,
+      "fontId" : 3,
+      "text" : "OVERVIEW "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 583.295,
+      "rightX" : 512.8798,
+      "topY" : 571.295,
+      "baseLineY" : 580.56,
+      "fontId" : 4,
+      "text" : "This section addresses the timing and general requirements of loan closing and then "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 597.095,
+      "rightX" : 510.1198,
+      "topY" : 585.095,
+      "baseLineY" : 594.36,
+      "fontId" : 4,
+      "text" : "describes the key responsibilities of each actor in the loan closing process.  It discusses the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 610.895,
+      "rightX" : 470.52,
+      "topY" : 598.895,
+      "baseLineY" : 608.16,
+      "fontId" : 4,
+      "text" : "borrower’s and the Agency’s roles in choosing a closing agent, the closing agent’s "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 624.695,
+      "rightX" : 534.9598,
+      "topY" : 612.695,
+      "baseLineY" : 621.96,
+      "fontId" : 4,
+      "text" : "responsibilities, and the role of the Loan Processing Staff.  The section then describes the actual "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 638.495,
+      "rightX" : 533.8798,
+      "topY" : 626.495,
+      "baseLineY" : 635.76,
+      "fontId" : 4,
+      "text" : "process of loan closing and the actions that take place after closing to complete the loan docket. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 664.4039,
+      "rightX" : 96,
+      "topY" : 652.4039,
+      "baseLineY" : 661.56,
+      "fontId" : 3,
+      "text" : "8.3   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 664.4039,
+      "rightX" : 273.36,
+      "topY" : 652.4039,
+      "baseLineY" : 661.56,
+      "fontId" : 3,
+      "text" : "TIMING OF LOAN CLOSING "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 690.095,
+      "rightX" : 533.5198,
+      "topY" : 678.095,
+      "baseLineY" : 687.36,
+      "fontId" : 4,
+      "text" : "The timing of loan closing depends on the method of project financing.  As described in "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 703.895,
+      "rightX" : 531.96,
+      "topY" : 691.895,
+      "baseLineY" : 701.16,
+      "fontId" : 4,
+      "text" : "Paragraph 4.18 C.5, there are two methods of financing construction for Multi-Family Housing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 717.695,
+      "rightX" : 508.7999,
+      "topY" : 705.695,
+      "baseLineY" : 714.96,
+      "fontId" : 4,
+      "text" : "projects: interim financing and multiple advances.  The method approved for the project is "
+    }, {
+      "leftX" : 285.36,
+      "bottomY" : 754.6792,
+      "rightX" : 301.1665,
+      "topY" : 744.6792,
+      "baseLineY" : 752.4,
+      "fontId" : 1,
+      "text" : "8-1 "
+    }, {
+      "leftX" : 65.28,
+      "bottomY" : 766.1991,
+      "rightX" : 146.3604,
+      "topY" : 756.1991,
+      "baseLineY" : 763.92,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 85.8949,
+      "rightX" : 528.5998,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "specified in the final application.  Exhibit 8-1 shows the timing of the loan closing activities in "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.6949,
+      "rightX" : 225.6,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : "relation to project construction. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.8751,
+      "rightX" : 113.52,
+      "topY" : 113.8751,
+      "baseLineY" : 123.72,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 126.5771,
+      "rightX" : 116.856,
+      "topY" : 114.5771,
+      "baseLineY" : 123.72,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 126.4549,
+      "rightX" : 540.4797,
+      "topY" : 114.4549,
+      "baseLineY" : 123.72,
+      "fontId" : 4,
+      "text" : "For interim financing, Agency loan closing takes place after construction is complete. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 152.5151,
+      "rightX" : 113.52,
+      "topY" : 140.5151,
+      "baseLineY" : 150.36,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 153.2171,
+      "rightX" : 116.856,
+      "topY" : 141.2171,
+      "baseLineY" : 150.36,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 153.095,
+      "rightX" : 459.9598,
+      "topY" : 141.095,
+      "baseLineY" : 150.36,
+      "fontId" : 4,
+      "text" : "For multiple advances, loan closing takes place prior to construction. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 178.8839,
+      "rightX" : 96,
+      "topY" : 166.8839,
+      "baseLineY" : 176.04,
+      "fontId" : 3,
+      "text" : "8.4   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 178.8839,
+      "rightX" : 305.76,
+      "topY" : 166.8839,
+      "baseLineY" : 176.04,
+      "fontId" : 3,
+      "text" : "LOAN CLOSING REQUIREMENTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 204.5749,
+      "rightX" : 535.3198,
+      "topY" : 192.5749,
+      "baseLineY" : 201.84,
+      "fontId" : 4,
+      "text" : "At loan closing, the Agency and the borrower execute all necessary documents to secure "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 218.3749,
+      "rightX" : 532.4398,
+      "topY" : 206.3749,
+      "baseLineY" : 215.64,
+      "fontId" : 4,
+      "text" : "financing for the project.  At this time, they may collect any items not already provided to meet "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 232.1749,
+      "rightX" : 250.32,
+      "topY" : 220.1749,
+      "baseLineY" : 229.4399,
+      "fontId" : 4,
+      "text" : "the conditions indicated in the letter. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 257.9749,
+      "rightX" : 529.92,
+      "topY" : 245.9749,
+      "baseLineY" : 255.2399,
+      "fontId" : 4,
+      "text" : "A closing agent selected by the borrower and approved by the Agency must be present. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 283.7749,
+      "rightX" : 508.1997,
+      "topY" : 271.7749,
+      "baseLineY" : 281.0399,
+      "fontId" : 4,
+      "text" : "Before the loan can be closed, the borrower must demonstrate that all program and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 297.5749,
+      "rightX" : 530.9998,
+      "topY" : 285.5749,
+      "baseLineY" : 294.8399,
+      "fontId" : 4,
+      "text" : "property requirements have been met and that the loan is adequately secured as specified in the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 311.4098,
+      "rightX" : 212.64,
+      "topY" : 299.4098,
+      "baseLineY" : 308.6399,
+      "fontId" : 11,
+      "text" : "Handbook Letter 102 (3560),"
+    }, {
+      "leftX" : 212.64,
+      "bottomY" : 311.3749,
+      "rightX" : 215.64,
+      "topY" : 299.3749,
+      "baseLineY" : 308.6399,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 215.64,
+      "bottomY" : 311.4098,
+      "rightX" : 507.8279,
+      "topY" : 299.4098,
+      "baseLineY" : 308.6399,
+      "fontId" : 11,
+      "text" : "Letter of Conditions, Loan Approval, or Obligation of Funds"
+    }, {
+      "leftX" : 507.84,
+      "bottomY" : 311.3749,
+      "rightX" : 531.84,
+      "topY" : 299.3749,
+      "baseLineY" : 308.6399,
+      "fontId" : 4,
+      "text" : " that "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 325.1748,
+      "rightX" : 510.4798,
+      "topY" : 313.1748,
+      "baseLineY" : 322.4399,
+      "fontId" : 4,
+      "text" : "was sent to the borrower at loan approval.  Briefly, the borrower must demonstrate that the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 338.9748,
+      "rightX" : 216.72,
+      "topY" : 326.9748,
+      "baseLineY" : 336.2399,
+      "fontId" : 4,
+      "text" : "following conditions are met: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.035,
+      "rightX" : 113.52,
+      "topY" : 353.035,
+      "baseLineY" : 362.8799,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 365.737,
+      "rightX" : 116.856,
+      "topY" : 353.737,
+      "baseLineY" : 362.8799,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 365.6148,
+      "rightX" : 537.2398,
+      "topY" : 353.6148,
+      "baseLineY" : 362.8799,
+      "fontId" : 4,
+      "text" : "The financing is secure.  All funds sources proposed in the application are brought to "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 379.4148,
+      "rightX" : 274.32,
+      "topY" : 367.4148,
+      "baseLineY" : 376.6799,
+      "fontId" : 4,
+      "text" : "loan closing for disbursement. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 405.475,
+      "rightX" : 113.52,
+      "topY" : 393.475,
+      "baseLineY" : 403.3199,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 406.177,
+      "rightX" : 116.856,
+      "topY" : 394.177,
+      "baseLineY" : 403.3199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 406.0549,
+      "rightX" : 531.4798,
+      "topY" : 394.0549,
+      "baseLineY" : 403.3199,
+      "fontId" : 4,
+      "text" : "The construction has been completed (or in the case of multiple advances, the funds "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 419.9749,
+      "rightX" : 542.7574,
+      "topY" : 407.9749,
+      "baseLineY" : 417.2399,
+      "fontId" : 4,
+      "text" : "are adequate to ensure completion) in accordance with the plans and specifications for "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 433.7749,
+      "rightX" : 313.5599,
+      "topY" : 421.7749,
+      "baseLineY" : 431.0399,
+      "fontId" : 4,
+      "text" : "the costs projected in the application.   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 459.835,
+      "rightX" : 113.52,
+      "topY" : 447.835,
+      "baseLineY" : 457.6799,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 460.537,
+      "rightX" : 116.856,
+      "topY" : 448.537,
+      "baseLineY" : 457.6799,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 460.4148,
+      "rightX" : 529.7998,
+      "topY" : 448.4148,
+      "baseLineY" : 457.6799,
+      "fontId" : 4,
+      "text" : "The property is adequately secured and the Agency’s lien position requirements are "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 474.2148,
+      "rightX" : 441.96,
+      "topY" : 462.2148,
+      "baseLineY" : 471.4799,
+      "fontId" : 4,
+      "text" : "met.  Chapter 7 provides further details on security requirements. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 500.395,
+      "rightX" : 113.52,
+      "topY" : 488.395,
+      "baseLineY" : 498.2399,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 501.097,
+      "rightX" : 116.856,
+      "topY" : 489.097,
+      "baseLineY" : 498.2399,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 500.9748,
+      "rightX" : 421.9198,
+      "topY" : 488.9748,
+      "baseLineY" : 498.2399,
+      "fontId" : 4,
+      "text" : "The borrower has met program and civil rights requirements. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 526.6548,
+      "rightX" : 75,
+      "topY" : 514.6548,
+      "baseLineY" : 523.9199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 552.4548,
+      "rightX" : 75,
+      "topY" : 540.4548,
+      "baseLineY" : 549.7198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 578.2549,
+      "rightX" : 75,
+      "topY" : 566.2549,
+      "baseLineY" : 575.5199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 604.0549,
+      "rightX" : 75,
+      "topY" : 592.0549,
+      "baseLineY" : 601.3199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 629.8548,
+      "rightX" : 75,
+      "topY" : 617.8548,
+      "baseLineY" : 627.1199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 655.6548,
+      "rightX" : 75,
+      "topY" : 643.6548,
+      "baseLineY" : 652.9199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 681.4548,
+      "rightX" : 75,
+      "topY" : 669.4548,
+      "baseLineY" : 678.7198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 707.2549,
+      "rightX" : 75,
+      "topY" : 695.2549,
+      "baseLineY" : 704.5199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 294.36,
+      "bottomY" : 758.7591,
+      "rightX" : 310.1665,
+      "topY" : 748.7591,
+      "baseLineY" : 756.48,
+      "fontId" : 1,
+      "text" : "8-2 "
+    }, {
+      "leftX" : 527.88,
+      "bottomY" : 782.1591,
+      "rightX" : 532.8899,
+      "topY" : 772.1591,
+      "baseLineY" : 779.88,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 282.84,
+      "bottomY" : 103.6469,
+      "rightX" : 337.92,
+      "topY" : 92.6469,
+      "baseLineY" : 101.04,
+      "fontId" : 5,
+      "text" : "Exhibit 8-1 "
+    }, {
+      "leftX" : 223.68,
+      "bottomY" : 116.3669,
+      "rightX" : 399.7238,
+      "topY" : 105.3669,
+      "baseLineY" : 113.76,
+      "fontId" : 5,
+      "text" : "Summary of Loan Closing Activities  "
+    }, {
+      "leftX" : 245.04,
+      "bottomY" : 128.9669,
+      "rightX" : 373.1437,
+      "topY" : 117.9669,
+      "baseLineY" : 126.36,
+      "fontId" : 5,
+      "text" : "Performed by Agency Staff"
+    }, {
+      "leftX" : 373.08,
+      "bottomY" : 128.867,
+      "rightX" : 375.84,
+      "topY" : 117.867,
+      "baseLineY" : 126.36,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 141.687,
+      "rightX" : 184.92,
+      "topY" : 130.687,
+      "baseLineY" : 139.08,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 153.21,
+      "rightX" : 275.4693,
+      "topY" : 143.21,
+      "baseLineY" : 150.84,
+      "fontId" : 12,
+      "text" : "Preparing for Closing"
+    }, {
+      "leftX" : 275.5151,
+      "bottomY" : 153.1192,
+      "rightX" : 278.0051,
+      "topY" : 143.1192,
+      "baseLineY" : 150.84,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 164.931,
+      "rightX" : 187.2163,
+      "topY" : 153.931,
+      "baseLineY" : 162.84,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 165.4591,
+      "rightX" : 190.2744,
+      "topY" : 154.4591,
+      "baseLineY" : 162.84,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 165.1192,
+      "rightX" : 394.2903,
+      "topY" : 155.1192,
+      "baseLineY" : 162.84,
+      "fontId" : 1,
+      "text" : "Select closing agent or title insurance company; "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 176.931,
+      "rightX" : 187.2163,
+      "topY" : 165.931,
+      "baseLineY" : 174.84,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 177.4591,
+      "rightX" : 190.2744,
+      "topY" : 166.4591,
+      "baseLineY" : 174.84,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 177.1192,
+      "rightX" : 356.2531,
+      "topY" : 167.1192,
+      "baseLineY" : 174.84,
+      "fontId" : 1,
+      "text" : "Review title opinion/insurance binder; "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 189.051,
+      "rightX" : 187.2163,
+      "topY" : 178.051,
+      "baseLineY" : 186.96,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 189.5791,
+      "rightX" : 190.2744,
+      "topY" : 178.5791,
+      "baseLineY" : 186.96,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 189.2392,
+      "rightX" : 419.1573,
+      "topY" : 179.2392,
+      "baseLineY" : 186.96,
+      "fontId" : 1,
+      "text" : "Provide necessary documents to the Office of General "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 200.7629,
+      "rightX" : 424.6404,
+      "topY" : 190.7629,
+      "baseLineY" : 198.4838,
+      "fontId" : 1,
+      "text" : "Counsel (OGC) to prepare/finalize closing instructions; "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 212.2866,
+      "rightX" : 217.0522,
+      "topY" : 202.2866,
+      "baseLineY" : 210.0075,
+      "fontId" : 1,
+      "text" : "and "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 224.091,
+      "rightX" : 187.2163,
+      "topY" : 213.091,
+      "baseLineY" : 222,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 224.619,
+      "rightX" : 190.2744,
+      "topY" : 213.619,
+      "baseLineY" : 222,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 224.2791,
+      "rightX" : 428.726,
+      "topY" : 214.2791,
+      "baseLineY" : 222,
+      "fontId" : 1,
+      "text" : "Provide closing instructions and necessary documents to "
+    }, {
+      "leftX" : 77.76,
+      "bottomY" : 237.687,
+      "rightX" : 139.5707,
+      "topY" : 226.687,
+      "baseLineY" : 235.08,
+      "fontId" : 5,
+      "text" : "Construction"
+    }, {
+      "leftX" : 139.44,
+      "bottomY" : 237.171,
+      "rightX" : 150.2482,
+      "topY" : 226.171,
+      "baseLineY" : 235.08,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 150.24,
+      "bottomY" : 237.687,
+      "rightX" : 153,
+      "topY" : 226.687,
+      "baseLineY" : 235.08,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 235.8029,
+      "rightX" : 274.4208,
+      "topY" : 225.8029,
+      "baseLineY" : 233.5237,
+      "fontId" : 1,
+      "text" : "closing agent (see "
+    }, {
+      "leftX" : 274.4507,
+      "bottomY" : 235.8937,
+      "rightX" : 342.9466,
+      "topY" : 225.8937,
+      "baseLineY" : 233.5237,
+      "fontId" : 12,
+      "text" : "Attachment 8-A"
+    }, {
+      "leftX" : 342.9565,
+      "bottomY" : 235.8029,
+      "rightX" : 351.2034,
+      "topY" : 225.8029,
+      "baseLineY" : 233.5237,
+      "fontId" : 1,
+      "text" : "). "
+    }, {
+      "leftX" : 77.76,
+      "bottomY" : 250.2869,
+      "rightX" : 148.0992,
+      "topY" : 239.2869,
+      "baseLineY" : 247.68,
+      "fontId" : 5,
+      "text" : "Performed for "
+    }, {
+      "leftX" : 289.9095,
+      "bottomY" : 253.3225,
+      "rightX" : 322.3991,
+      "topY" : 243.3225,
+      "baseLineY" : 251.0434,
+      "fontId" : 1,
+      "text" : "****** "
+    }, {
+      "leftX" : 77.76,
+      "bottomY" : 263.005,
+      "rightX" : 166.4311,
+      "topY" : 252.005,
+      "baseLineY" : 260.3981,
+      "fontId" : 5,
+      "text" : "Interim Financing "
+    }, {
+      "leftX" : 166.3229,
+      "bottomY" : 262.9051,
+      "rightX" : 169.0829,
+      "topY" : 251.9051,
+      "baseLineY" : 260.3981,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 225.2293,
+      "bottomY" : 264.8754,
+      "rightX" : 390.7944,
+      "topY" : 254.8754,
+      "baseLineY" : 262.5671,
+      "fontId" : 15,
+      "text" : "Closing agent arranges closing date and "
+    }, {
+      "leftX" : 249.3425,
+      "bottomY" : 276.3992,
+      "rightX" : 366.5517,
+      "topY" : 266.3992,
+      "baseLineY" : 274.0909,
+      "fontId" : 15,
+      "text" : "prepares closing documents. "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 294.171,
+      "rightX" : 187.2163,
+      "topY" : 283.171,
+      "baseLineY" : 292.08,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 294.699,
+      "rightX" : 190.2744,
+      "topY" : 283.699,
+      "baseLineY" : 292.08,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 294.3591,
+      "rightX" : 421.5309,
+      "topY" : 284.3591,
+      "baseLineY" : 292.08,
+      "fontId" : 1,
+      "text" : "Review promissory note and interest credit agreement; "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 306.171,
+      "rightX" : 187.2163,
+      "topY" : 295.171,
+      "baseLineY" : 304.08,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 306.699,
+      "rightX" : 190.2744,
+      "topY" : 295.699,
+      "baseLineY" : 304.08,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 306.3591,
+      "rightX" : 399.3211,
+      "topY" : 296.3591,
+      "baseLineY" : 304.08,
+      "fontId" : 1,
+      "text" : "Determine size of initial check (if financing is by "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 317.8828,
+      "rightX" : 298.1664,
+      "topY" : 307.8828,
+      "baseLineY" : 315.6037,
+      "fontId" : 1,
+      "text" : "multiple advances); and "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 329.691,
+      "rightX" : 187.2163,
+      "topY" : 318.691,
+      "baseLineY" : 327.6,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 330.2191,
+      "rightX" : 190.2744,
+      "topY" : 319.2191,
+      "baseLineY" : 327.6,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 329.8791,
+      "rightX" : 362.6076,
+      "topY" : 319.8791,
+      "baseLineY" : 327.6,
+      "fontId" : 1,
+      "text" : "Order loan check from St. Louis Office. "
+    }, {
+      "leftX" : 182.1623,
+      "bottomY" : 347.6091,
+      "rightX" : 238.9811,
+      "topY" : 337.6091,
+      "baseLineY" : 345.2392,
+      "fontId" : 12,
+      "text" : "Loan Closing"
+    }, {
+      "leftX" : 239.1634,
+      "bottomY" : 347.5183,
+      "rightX" : 241.6534,
+      "topY" : 337.5183,
+      "baseLineY" : 345.2392,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 359.331,
+      "rightX" : 187.2163,
+      "topY" : 348.331,
+      "baseLineY" : 357.24,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 359.859,
+      "rightX" : 190.2744,
+      "topY" : 348.859,
+      "baseLineY" : 357.24,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 359.5191,
+      "rightX" : 320.3672,
+      "topY" : 349.5191,
+      "baseLineY" : 357.24,
+      "fontId" : 1,
+      "text" : "Attend closing (if necessary). "
+    }, {
+      "leftX" : 189.3534,
+      "bottomY" : 377.0679,
+      "rightX" : 422.9633,
+      "topY" : 367.0679,
+      "baseLineY" : 374.7596,
+      "fontId" : 15,
+      "text" : "Closing agent reviews closing documents with all parties, "
+    }, {
+      "leftX" : 188.7558,
+      "bottomY" : 388.5916,
+      "rightX" : 423.5589,
+      "topY" : 378.5916,
+      "baseLineY" : 386.2834,
+      "fontId" : 15,
+      "text" : "and obtains applicant signature on all closing documents, "
+    }, {
+      "leftX" : 253.7946,
+      "bottomY" : 400.1153,
+      "rightX" : 358.524,
+      "topY" : 390.1153,
+      "baseLineY" : 397.8071,
+      "fontId" : 15,
+      "text" : "and disburses loan funds. "
+    }, {
+      "leftX" : 292.4295,
+      "bottomY" : 417.4863,
+      "rightX" : 319.8792,
+      "topY" : 407.4863,
+      "baseLineY" : 415.2072,
+      "fontId" : 1,
+      "text" : "***** "
+    }, {
+      "leftX" : 182.1523,
+      "bottomY" : 429.1008,
+      "rightX" : 278.5343,
+      "topY" : 419.1008,
+      "baseLineY" : 426.7309,
+      "fontId" : 12,
+      "text" : "Post-Closing Activities"
+    }, {
+      "leftX" : 278.5054,
+      "bottomY" : 429.01,
+      "rightX" : 280.9954,
+      "topY" : 419.01,
+      "baseLineY" : 426.7309,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 438.72,
+      "bottomY" : 429.171,
+      "rightX" : 449.5282,
+      "topY" : 418.171,
+      "baseLineY" : 427.08,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 449.64,
+      "bottomY" : 429.6869,
+      "rightX" : 516.8448,
+      "topY" : 418.6869,
+      "baseLineY" : 427.08,
+      "fontId" : 5,
+      "text" : " Construction "
+    }, {
+      "leftX" : 183.228,
+      "bottomY" : 440.5629,
+      "rightX" : 429.1911,
+      "topY" : 430.5629,
+      "baseLineY" : 438.2546,
+      "fontId" : 15,
+      "text" : "Closing agent records mortgage or deed of trust and secures "
+    }, {
+      "leftX" : 295.9055,
+      "bottomY" : 452.0866,
+      "rightX" : 316.3932,
+      "topY" : 442.0866,
+      "baseLineY" : 449.7783,
+      "fontId" : 15,
+      "text" : "title. "
+    }, {
+      "leftX" : 438.7215,
+      "bottomY" : 442.2836,
+      "rightX" : 532.6906,
+      "topY" : 431.2836,
+      "baseLineY" : 439.6766,
+      "fontId" : 5,
+      "text" : "Begins for Multiple "
+    }, {
+      "leftX" : 438.7215,
+      "bottomY" : 455.0017,
+      "rightX" : 486.7234,
+      "topY" : 444.0017,
+      "baseLineY" : 452.3947,
+      "fontId" : 5,
+      "text" : "Advances "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 469.851,
+      "rightX" : 187.2163,
+      "topY" : 458.851,
+      "baseLineY" : 467.76,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 470.3791,
+      "rightX" : 190.2744,
+      "topY" : 459.3791,
+      "baseLineY" : 467.76,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 470.0391,
+      "rightX" : 414.5679,
+      "topY" : 460.0391,
+      "baseLineY" : 467.76,
+      "fontId" : 1,
+      "text" : "Obtain closing documents, review them to determine "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 481.5629,
+      "rightX" : 390.4368,
+      "topY" : 471.5629,
+      "baseLineY" : 479.2837,
+      "fontId" : 1,
+      "text" : "acceptability, and sign the closing instructions; "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 493.371,
+      "rightX" : 187.2163,
+      "topY" : 482.371,
+      "baseLineY" : 491.28,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 493.899,
+      "rightX" : 190.2744,
+      "topY" : 482.899,
+      "baseLineY" : 491.28,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 493.5591,
+      "rightX" : 396.3242,
+      "topY" : 483.5591,
+      "baseLineY" : 491.28,
+      "fontId" : 1,
+      "text" : "Enter closing data into Automated Multi-Family "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 505.0828,
+      "rightX" : 355.6496,
+      "topY" : 495.0828,
+      "baseLineY" : 502.8037,
+      "fontId" : 1,
+      "text" : "Housing Accounting System (AMAS) "
+    }, {
+      "leftX" : 355.6795,
+      "bottomY" : 505.1737,
+      "rightX" : 382.8733,
+      "topY" : 495.1737,
+      "baseLineY" : 502.8037,
+      "fontId" : 12,
+      "text" : "[M1F]"
+    }, {
+      "leftX" : 382.9131,
+      "bottomY" : 505.0828,
+      "rightX" : 402.4456,
+      "topY" : 495.0828,
+      "baseLineY" : 502.8037,
+      "fontId" : 1,
+      "text" : " and "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 516.6065,
+      "rightX" : 401.2385,
+      "topY" : 506.6065,
+      "baseLineY" : 514.3274,
+      "fontId" : 1,
+      "text" : "establish the Amortization Effective Date (AED); "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 528.411,
+      "rightX" : 187.2163,
+      "topY" : 517.411,
+      "baseLineY" : 526.32,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2053,
+      "bottomY" : 528.9391,
+      "rightX" : 190.2744,
+      "topY" : 517.9391,
+      "baseLineY" : 526.32,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 528.5991,
+      "rightX" : 415.525,
+      "topY" : 518.5991,
+      "baseLineY" : 526.32,
+      "fontId" : 1,
+      "text" : "Compile final documents in the loan file and forward "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 540.1229,
+      "rightX" : 371.2529,
+      "topY" : 530.1229,
+      "baseLineY" : 537.8438,
+      "fontId" : 1,
+      "text" : "them to OGC for review (if required); and "
+    }, {
+      "leftX" : 182.16,
+      "bottomY" : 551.931,
+      "rightX" : 187.2163,
+      "topY" : 540.931,
+      "baseLineY" : 549.84,
+      "fontId" : 13,
+      "text" : ""
+    }, {
+      "leftX" : 187.2,
+      "bottomY" : 552.459,
+      "rightX" : 190.2691,
+      "topY" : 541.459,
+      "baseLineY" : 549.84,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 200.16,
+      "bottomY" : 552.1191,
+      "rightX" : 424.0487,
+      "topY" : 542.1191,
+      "baseLineY" : 549.84,
+      "fontId" : 1,
+      "text" : "Forward completed loan docket to Loan Servicing staff."
+    }, {
+      "leftX" : 423.96,
+      "bottomY" : 552.347,
+      "rightX" : 426.72,
+      "topY" : 541.347,
+      "baseLineY" : 549.84,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 69,
+      "bottomY" : 762.4792,
+      "rightX" : 147.6501,
+      "topY" : 752.4792,
+      "baseLineY" : 760.2,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 147.6,
+      "bottomY" : 762.935,
+      "rightX" : 150.6,
+      "topY" : 750.935,
+      "baseLineY" : 760.2,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 302.4,
+      "bottomY" : 750.9591,
+      "rightX" : 318.2065,
+      "topY" : 740.9591,
+      "baseLineY" : 748.68,
+      "fontId" : 1,
+      "text" : "8-3 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 86.0039,
+      "rightX" : 96,
+      "topY" : 74.0039,
+      "baseLineY" : 83.16,
+      "fontId" : 3,
+      "text" : "8.5   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.0039,
+      "rightX" : 443.7603,
+      "topY" : 74.0039,
+      "baseLineY" : 83.16,
+      "fontId" : 3,
+      "text" : "CHOOSING THE CLOSING AGENT AND TITLE COMPANY "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 111.6949,
+      "rightX" : 520.1998,
+      "topY" : 99.6949,
+      "baseLineY" : 108.96,
+      "fontId" : 4,
+      "text" : "Every loan closing requires a closing agent to close Agency real estate loans, provide "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 125.4949,
+      "rightX" : 517.4387,
+      "topY" : 113.4949,
+      "baseLineY" : 122.7599,
+      "fontId" : 4,
+      "text" : "necessary title clearance services, and perform other closing-related duties prescribed by the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 139.2949,
+      "rightX" : 522.84,
+      "topY" : 127.2949,
+      "baseLineY" : 136.5599,
+      "fontId" : 4,
+      "text" : "Agency.  An attorney or title company, chosen by the borrower and approved by the Agency, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 153.0949,
+      "rightX" : 513.3597,
+      "topY" : 141.0949,
+      "baseLineY" : 150.3599,
+      "fontId" : 4,
+      "text" : "may perform this role. A closing agent or title company will be selected in accordance with "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 166.8949,
+      "rightX" : 188.64,
+      "topY" : 154.8949,
+      "baseLineY" : 164.1599,
+      "fontId" : 4,
+      "text" : "RD Instruction 1927-B. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 192.8038,
+      "rightX" : 96,
+      "topY" : 180.8038,
+      "baseLineY" : 189.9599,
+      "fontId" : 3,
+      "text" : "8.6   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.8038,
+      "rightX" : 327.72,
+      "topY" : 180.8038,
+      "baseLineY" : 189.9599,
+      "fontId" : 3,
+      "text" : "CLOSING AGENT RESPONSIBILITIES "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 218.4949,
+      "rightX" : 520.3198,
+      "topY" : 206.4949,
+      "baseLineY" : 215.7599,
+      "fontId" : 4,
+      "text" : "To allow the Agency the ability to minimize potential fraud, waste, abuse, kick backs, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 232.2948,
+      "rightX" : 518.1589,
+      "topY" : 220.2948,
+      "baseLineY" : 229.5599,
+      "fontId" : 4,
+      "text" : "referral fees and equity skimming; all closing agents/attorneys must indicate the recipient and "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 246.0948,
+      "rightX" : 534.5953,
+      "topY" : 234.0948,
+      "baseLineY" : 243.3599,
+      "fontId" : 4,
+      "text" : "amount of section 514 loans and section 516 grants.  This information must be stated on the Form "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 259.8948,
+      "rightX" : 524.8777,
+      "topY" : 247.8948,
+      "baseLineY" : 257.1599,
+      "fontId" : 4,
+      "text" : "HUD-1 Settlement Statement.  The recipients of payments and the amount of the payment from "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 273.6948,
+      "rightX" : 508.6788,
+      "topY" : 261.6948,
+      "baseLineY" : 270.9598,
+      "fontId" : 4,
+      "text" : "section 514 loans and section 516 grants must be stated on Form RD 3550-25, section Other."
+    }, {
+      "leftX" : 508.56,
+      "bottomY" : 273.4671,
+      "rightX" : 538.0887,
+      "topY" : 262.4671,
+      "baseLineY" : 270.96,
+      "fontId" : 6,
+      "text" : "  If all "
+    }, {
+      "leftX" : 72.0053,
+      "bottomY" : 286.3066,
+      "rightX" : 540.1234,
+      "topY" : 275.3066,
+      "baseLineY" : 283.7995,
+      "fontId" : 6,
+      "text" : "recipients and the amounts received can not be stated on Form RD 3550-25, an attachment may be added. "
+    }, {
+      "leftX" : 72.0053,
+      "bottomY" : 299.0247,
+      "rightX" : 408.9571,
+      "topY" : 288.0247,
+      "baseLineY" : 296.5176,
+      "fontId" : 6,
+      "text" : "If an attachment is added indicate on Form RD 3550-25:” See Attachment”. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 317.735,
+      "rightX" : 527.8799,
+      "topY" : 305.735,
+      "baseLineY" : 315,
+      "fontId" : 4,
+      "text" : "The closing agent conducts the loan closing and has certain other pre- and post-closing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 331.535,
+      "rightX" : 525.8398,
+      "topY" : 319.535,
+      "baseLineY" : 328.8,
+      "fontId" : 4,
+      "text" : "responsibilities in accordance with RD Instruction 1927-B.  The list of tasks performed by the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 345.3349,
+      "rightX" : 270.96,
+      "topY" : 333.3349,
+      "baseLineY" : 342.6,
+      "fontId" : 4,
+      "text" : "closing agent is provided in Exhibit 8-2.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 364.1749,
+      "rightX" : 75,
+      "topY" : 352.1749,
+      "baseLineY" : 361.44,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 383.0149,
+      "rightX" : 111,
+      "topY" : 371.0149,
+      "baseLineY" : 380.28,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 252,
+      "bottomY" : 383.0149,
+      "rightX" : 255,
+      "topY" : 371.0149,
+      "baseLineY" : 380.28,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 324.48,
+      "bottomY" : 729.5991,
+      "rightX" : 340.29,
+      "topY" : 719.5991,
+      "baseLineY" : 727.32,
+      "fontId" : 1,
+      "text" : "8-4 "
+    }, {
+      "leftX" : 583.2,
+      "bottomY" : 752.9991,
+      "rightX" : 588.2099,
+      "topY" : 742.9991,
+      "baseLineY" : 750.72,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 283.08,
+      "bottomY" : 86.4839,
+      "rightX" : 343.08,
+      "topY" : 74.4839,
+      "baseLineY" : 83.64,
+      "fontId" : 3,
+      "text" : "Exhibit 8-2 "
+    }, {
+      "leftX" : 222.96,
+      "bottomY" : 106.2839,
+      "rightX" : 403.32,
+      "topY" : 94.2839,
+      "baseLineY" : 103.44,
+      "fontId" : 3,
+      "text" : "Responsibilities of a Closing Agent "
+    }, {
+      "leftX" : 77.64,
+      "bottomY" : 125.007,
+      "rightX" : 155.52,
+      "topY" : 114.007,
+      "baseLineY" : 122.4,
+      "fontId" : 5,
+      "text" : "Prior to Closing "
+    }, {
+      "leftX" : 77.64,
+      "bottomY" : 142.7355,
+      "rightX" : 82.7184,
+      "topY" : 131.7355,
+      "baseLineY" : 140.76,
+      "fontId" : 16,
+      "text" : "•"
+    }, {
+      "leftX" : 82.6853,
+      "bottomY" : 143.3791,
+      "rightX" : 85.7544,
+      "topY" : 132.3791,
+      "baseLineY" : 140.76,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 88.4482,
+      "bottomY" : 143.2671,
+      "rightX" : 451.4434,
+      "topY" : 132.2671,
+      "baseLineY" : 140.76,
+      "fontId" : 6,
+      "text" : "Provide a title insurance binder within 10 days of the date of the transmittal letter. "
+    }, {
+      "leftX" : 77.64,
+      "bottomY" : 161.2155,
+      "rightX" : 82.7184,
+      "topY" : 150.2155,
+      "baseLineY" : 159.24,
+      "fontId" : 16,
+      "text" : "•"
+    }, {
+      "leftX" : 82.6853,
+      "bottomY" : 161.859,
+      "rightX" : 85.7544,
+      "topY" : 150.859,
+      "baseLineY" : 159.24,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 88.4482,
+      "bottomY" : 161.747,
+      "rightX" : 532.6879,
+      "topY" : 150.747,
+      "baseLineY" : 159.24,
+      "fontId" : 6,
+      "text" : "Assess whether there will be any problems meeting the closing conditions as provided in the closing "
+    }, {
+      "leftX" : 88.4482,
+      "bottomY" : 174.4651,
+      "rightX" : 145.5691,
+      "topY" : 163.4651,
+      "baseLineY" : 171.9581,
+      "fontId" : 6,
+      "text" : "instructions: "
+    }, {
+      "leftX" : 87.013,
+      "bottomY" : 192.2931,
+      "rightX" : 92.4667,
+      "topY" : 181.2931,
+      "baseLineY" : 190.3176,
+      "fontId" : 16,
+      "text" : "◊"
+    }, {
+      "leftX" : 92.4115,
+      "bottomY" : 192.9366,
+      "rightX" : 95.4806,
+      "topY" : 181.9366,
+      "baseLineY" : 190.3176,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 100.2168,
+      "bottomY" : 192.8246,
+      "rightX" : 461.8983,
+      "topY" : 181.8246,
+      "baseLineY" : 190.3176,
+      "fontId" : 6,
+      "text" : "Assess whether, after closing, the lien position will be as required by the Agency; "
+    }, {
+      "leftX" : 87.013,
+      "bottomY" : 210.774,
+      "rightX" : 92.4667,
+      "topY" : 199.774,
+      "baseLineY" : 208.7985,
+      "fontId" : 16,
+      "text" : "◊"
+    }, {
+      "leftX" : 92.4115,
+      "bottomY" : 211.4176,
+      "rightX" : 95.4807,
+      "topY" : 200.4176,
+      "baseLineY" : 208.7985,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 100.2168,
+      "bottomY" : 211.3056,
+      "rightX" : 522.6172,
+      "topY" : 200.3056,
+      "baseLineY" : 208.7985,
+      "fontId" : 6,
+      "text" : "Ensure that the applicant provides a copy of an acceptable hazard insurance policy or insurance "
+    }, {
+      "leftX" : 100.6915,
+      "bottomY" : 224.0237,
+      "rightX" : 367.5725,
+      "topY" : 213.0237,
+      "baseLineY" : 221.5166,
+      "fontId" : 6,
+      "text" : "binder and evidence that one year’s premium has been paid; "
+    }, {
+      "leftX" : 87.013,
+      "bottomY" : 241.8516,
+      "rightX" : 92.4667,
+      "topY" : 230.8516,
+      "baseLineY" : 239.8761,
+      "fontId" : 16,
+      "text" : "◊"
+    }, {
+      "leftX" : 92.4115,
+      "bottomY" : 242.4951,
+      "rightX" : 95.4807,
+      "topY" : 231.4951,
+      "baseLineY" : 239.8761,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 100.2168,
+      "bottomY" : 242.3832,
+      "rightX" : 370.3325,
+      "topY" : 231.3832,
+      "baseLineY" : 239.8761,
+      "fontId" : 6,
+      "text" : "Confirm that the applicant has flood insurance, if applicable; "
+    }, {
+      "leftX" : 87.013,
+      "bottomY" : 260.2111,
+      "rightX" : 92.4668,
+      "topY" : 249.2111,
+      "baseLineY" : 258.2356,
+      "fontId" : 16,
+      "text" : "◊"
+    }, {
+      "leftX" : 92.4116,
+      "bottomY" : 260.8546,
+      "rightX" : 95.4807,
+      "topY" : 249.8546,
+      "baseLineY" : 258.2356,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 100.2168,
+      "bottomY" : 260.7426,
+      "rightX" : 309.734,
+      "topY" : 249.7426,
+      "baseLineY" : 258.2356,
+      "fontId" : 6,
+      "text" : "Confirm that all required taxes have been paid; "
+    }, {
+      "leftX" : 87.013,
+      "bottomY" : 278.6921,
+      "rightX" : 92.4668,
+      "topY" : 267.6921,
+      "baseLineY" : 276.7166,
+      "fontId" : 16,
+      "text" : "◊"
+    }, {
+      "leftX" : 92.4116,
+      "bottomY" : 279.3356,
+      "rightX" : 95.4807,
+      "topY" : 268.3356,
+      "baseLineY" : 276.7166,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 100.2169,
+      "bottomY" : 279.2236,
+      "rightX" : 459.9774,
+      "topY" : 268.2236,
+      "baseLineY" : 276.7166,
+      "fontId" : 6,
+      "text" : "Collect any other information the Agency has instructed the applicant to provide; "
+    }, {
+      "leftX" : 87.013,
+      "bottomY" : 297.173,
+      "rightX" : 92.4668,
+      "topY" : 286.173,
+      "baseLineY" : 295.1975,
+      "fontId" : 16,
+      "text" : "◊"
+    }, {
+      "leftX" : 92.4116,
+      "bottomY" : 297.8166,
+      "rightX" : 95.4807,
+      "topY" : 286.8166,
+      "baseLineY" : 295.1975,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 100.2169,
+      "bottomY" : 297.7046,
+      "rightX" : 451.2116,
+      "topY" : 286.7046,
+      "baseLineY" : 295.1975,
+      "fontId" : 6,
+      "text" : "Ensure that the applicant is aware of any funds that must be brought to closing; "
+    }, {
+      "leftX" : 87.0131,
+      "bottomY" : 315.5325,
+      "rightX" : 92.4668,
+      "topY" : 304.5325,
+      "baseLineY" : 313.557,
+      "fontId" : 16,
+      "text" : "◊"
+    }, {
+      "leftX" : 92.4116,
+      "bottomY" : 316.1761,
+      "rightX" : 95.4807,
+      "topY" : 305.1761,
+      "baseLineY" : 313.557,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 100.2169,
+      "bottomY" : 316.0641,
+      "rightX" : 544.8165,
+      "topY" : 305.0641,
+      "baseLineY" : 313.557,
+      "fontId" : 6,
+      "text" : "If interim financing, make sure that there are no outstanding demands for payment from a contractor "
+    }, {
+      "leftX" : 100.6916,
+      "bottomY" : 328.7822,
+      "rightX" : 270.4868,
+      "topY" : 317.7822,
+      "baseLineY" : 326.2751,
+      "fontId" : 6,
+      "text" : "or supplier for construction work; and "
+    }, {
+      "leftX" : 86.6487,
+      "bottomY" : 346.6102,
+      "rightX" : 92.1025,
+      "topY" : 335.6102,
+      "baseLineY" : 344.6346,
+      "fontId" : 16,
+      "text" : "◊"
+    }, {
+      "leftX" : 92.0473,
+      "bottomY" : 347.2537,
+      "rightX" : 95.1164,
+      "topY" : 336.2537,
+      "baseLineY" : 344.6346,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 100.2058,
+      "bottomY" : 347.1417,
+      "rightX" : 540.7263,
+      "topY" : 336.1417,
+      "baseLineY" : 344.6346,
+      "fontId" : 6,
+      "text" : "If required by State Supplement, require that an affidavit regarding work of improvement, provided "
+    }, {
+      "leftX" : 100.2058,
+      "bottomY" : 359.7383,
+      "rightX" : 297.6056,
+      "topY" : 348.7383,
+      "baseLineY" : 357.2313,
+      "fontId" : 6,
+      "text" : "by the Agency, be completed and executed.  "
+    }, {
+      "leftX" : 297.6056,
+      "bottomY" : 359.7704,
+      "rightX" : 506.5253,
+      "topY" : 348.7704,
+      "baseLineY" : 357.2313,
+      "fontId" : 17,
+      "text" : "Form RD 1927-5, Affidavit Regarding Work of "
+    }, {
+      "leftX" : 100.2058,
+      "bottomY" : 372.4885,
+      "rightX" : 158.3546,
+      "topY" : 361.4885,
+      "baseLineY" : 369.9494,
+      "fontId" : 17,
+      "text" : "Improvement"
+    }, {
+      "leftX" : 158.4087,
+      "bottomY" : 372.4564,
+      "rightX" : 545.7693,
+      "topY" : 361.4564,
+      "baseLineY" : 369.9494,
+      "fontId" : 6,
+      "text" : ", may be used for this purpose.  The affidavit must be signed at closing by the borrower "
+    }, {
+      "leftX" : 100.2058,
+      "bottomY" : 385.0531,
+      "rightX" : 527.6461,
+      "topY" : 374.0531,
+      "baseLineY" : 382.546,
+      "fontId" : 6,
+      "text" : "when a loan is being made to a borrower who already owns the real estate to be mortgaged.  The "
+    }, {
+      "leftX" : 100.2058,
+      "bottomY" : 397.7712,
+      "rightX" : 535.3264,
+      "topY" : 386.7712,
+      "baseLineY" : 395.2641,
+      "fontId" : 6,
+      "text" : "affidavit must be signed at closing by the seller when a loan is being made to a borrower to enable "
+    }, {
+      "leftX" : 100.2058,
+      "bottomY" : 410.4892,
+      "rightX" : 264.8388,
+      "topY" : 399.4892,
+      "baseLineY" : 407.9822,
+      "fontId" : 6,
+      "text" : "the borrower to acquire the property. "
+    }, {
+      "leftX" : 77.6511,
+      "bottomY" : 428.3172,
+      "rightX" : 82.7295,
+      "topY" : 417.3172,
+      "baseLineY" : 426.3417,
+      "fontId" : 16,
+      "text" : "•"
+    }, {
+      "leftX" : 82.6964,
+      "bottomY" : 428.9608,
+      "rightX" : 85.7655,
+      "topY" : 417.9608,
+      "baseLineY" : 426.3417,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 88.4593,
+      "bottomY" : 428.8488,
+      "rightX" : 343.8135,
+      "topY" : 417.8488,
+      "baseLineY" : 426.3417,
+      "fontId" : 6,
+      "text" : "Establish a mutually convenient date for the loan closing. "
+    }, {
+      "leftX" : 77.6622,
+      "bottomY" : 446.712,
+      "rightX" : 194.0569,
+      "topY" : 435.712,
+      "baseLineY" : 444.1051,
+      "fontId" : 5,
+      "text" : "On Day of Loan Closing "
+    }, {
+      "leftX" : 77.6622,
+      "bottomY" : 464.4401,
+      "rightX" : 82.7406,
+      "topY" : 453.4401,
+      "baseLineY" : 462.4646,
+      "fontId" : 16,
+      "text" : "•"
+    }, {
+      "leftX" : 82.7074,
+      "bottomY" : 465.0836,
+      "rightX" : 85.7766,
+      "topY" : 454.0836,
+      "baseLineY" : 462.4646,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 88.4703,
+      "bottomY" : 464.9717,
+      "rightX" : 497.6679,
+      "topY" : 453.9717,
+      "baseLineY" : 462.4646,
+      "fontId" : 6,
+      "text" : "Complete Closing Statement, which itemizes the costs to be paid by the applicant at closing. "
+    }, {
+      "leftX" : 77.6732,
+      "bottomY" : 482.7996,
+      "rightX" : 82.7516,
+      "topY" : 471.7996,
+      "baseLineY" : 480.8241,
+      "fontId" : 16,
+      "text" : "•"
+    }, {
+      "leftX" : 82.7185,
+      "bottomY" : 483.4432,
+      "rightX" : 85.7876,
+      "topY" : 472.4432,
+      "baseLineY" : 480.8241,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 88.4813,
+      "bottomY" : 483.3312,
+      "rightX" : 512.9209,
+      "topY" : 472.3312,
+      "baseLineY" : 480.8241,
+      "fontId" : 6,
+      "text" : "Confirm that the applicant has no outstanding judgments.  If any additional entries of record are "
+    }, {
+      "leftX" : 88.4813,
+      "bottomY" : 496.0493,
+      "rightX" : 439.4761,
+      "topY" : 485.0493,
+      "baseLineY" : 493.5422,
+      "fontId" : 6,
+      "text" : "identified, the loan cannot be closed until these entries are cleared or approved. "
+    }, {
+      "leftX" : 77.6732,
+      "bottomY" : 513.8772,
+      "rightX" : 82.7516,
+      "topY" : 502.8772,
+      "baseLineY" : 511.9017,
+      "fontId" : 16,
+      "text" : "•"
+    }, {
+      "leftX" : 82.7185,
+      "bottomY" : 514.5208,
+      "rightX" : 85.7876,
+      "topY" : 503.5208,
+      "baseLineY" : 511.9017,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 88.4813,
+      "bottomY" : 514.4088,
+      "rightX" : 416.3252,
+      "topY" : 503.4088,
+      "baseLineY" : 511.9017,
+      "fontId" : 6,
+      "text" : "Review closing documents with all parties and obtain required signatures. "
+    }, {
+      "leftX" : 77.6842,
+      "bottomY" : 532.3582,
+      "rightX" : 82.7626,
+      "topY" : 521.3582,
+      "baseLineY" : 530.3827,
+      "fontId" : 16,
+      "text" : "•"
+    }, {
+      "leftX" : 82.7295,
+      "bottomY" : 533.0017,
+      "rightX" : 85.7986,
+      "topY" : 522.0017,
+      "baseLineY" : 530.3827,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 88.4924,
+      "bottomY" : 532.8897,
+      "rightX" : 211.6105,
+      "topY" : 521.8897,
+      "baseLineY" : 530.3827,
+      "fontId" : 6,
+      "text" : "Disburse funds as required. "
+    }, {
+      "leftX" : 77.6953,
+      "bottomY" : 550.753,
+      "rightX" : 143.6924,
+      "topY" : 539.753,
+      "baseLineY" : 548.1461,
+      "fontId" : 5,
+      "text" : "After Closing "
+    }, {
+      "leftX" : 77.6953,
+      "bottomY" : 568.4811,
+      "rightX" : 82.7737,
+      "topY" : 557.4811,
+      "baseLineY" : 566.5056,
+      "fontId" : 16,
+      "text" : "•"
+    }, {
+      "leftX" : 82.7406,
+      "bottomY" : 569.1247,
+      "rightX" : 85.8097,
+      "topY" : 558.1247,
+      "baseLineY" : 566.5056,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 88.5034,
+      "bottomY" : 569.0127,
+      "rightX" : 211.1579,
+      "topY" : 558.0127,
+      "baseLineY" : 566.5056,
+      "fontId" : 6,
+      "text" : "Record security documents."
+    }, {
+      "leftX" : 211.0254,
+      "bottomY" : 569.1126,
+      "rightX" : 213.7854,
+      "topY" : 558.1126,
+      "baseLineY" : 566.5056,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 77.7063,
+      "bottomY" : 586.9621,
+      "rightX" : 82.7847,
+      "topY" : 575.9621,
+      "baseLineY" : 584.9866,
+      "fontId" : 16,
+      "text" : "•"
+    }, {
+      "leftX" : 82.7516,
+      "bottomY" : 587.6056,
+      "rightX" : 85.8207,
+      "topY" : 576.6056,
+      "baseLineY" : 584.9866,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 88.5145,
+      "bottomY" : 587.4936,
+      "rightX" : 462.9141,
+      "topY" : 576.4936,
+      "baseLineY" : 584.9866,
+      "fontId" : 6,
+      "text" : "Return to the Agency executed documents and other loan information provided by it."
+    }, {
+      "leftX" : 462.7925,
+      "bottomY" : 587.5935,
+      "rightX" : 465.5526,
+      "topY" : 576.5935,
+      "baseLineY" : 584.9866,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 77.64,
+      "bottomY" : 606.5951,
+      "rightX" : 83.16,
+      "topY" : 594.5951,
+      "baseLineY" : 604.44,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 83.16,
+      "bottomY" : 607.2971,
+      "rightX" : 86.496,
+      "topY" : 595.2971,
+      "baseLineY" : 604.44,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 88.44,
+      "bottomY" : 606.9471,
+      "rightX" : 359.515,
+      "topY" : 595.9471,
+      "baseLineY" : 604.44,
+      "fontId" : 6,
+      "text" : "Secure a title insurance policy within 14 days of loan closing."
+    }, {
+      "leftX" : 359.4,
+      "bottomY" : 607.175,
+      "rightX" : 362.4,
+      "topY" : 595.175,
+      "baseLineY" : 604.44,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 79.44,
+      "bottomY" : 772.4391,
+      "rightX" : 158.0902,
+      "topY" : 762.4391,
+      "baseLineY" : 770.16,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623"
+    }, {
+      "leftX" : 158.04,
+      "bottomY" : 772.8949,
+      "rightX" : 161.04,
+      "topY" : 760.8949,
+      "baseLineY" : 770.16,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 305.52,
+      "bottomY" : 760.9192,
+      "rightX" : 321.3265,
+      "topY" : 750.9192,
+      "baseLineY" : 758.64,
+      "fontId" : 1,
+      "text" : "8-5 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 86.0039,
+      "rightX" : 96,
+      "topY" : 74.0039,
+      "baseLineY" : 83.16,
+      "fontId" : 3,
+      "text" : "8.7   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.0039,
+      "rightX" : 383.4,
+      "topY" : 74.0039,
+      "baseLineY" : 83.16,
+      "fontId" : 3,
+      "text" : "LOAN PROCESSING STAFF RESPONSIBILITIES "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 111.6949,
+      "rightX" : 504.3598,
+      "topY" : 99.6949,
+      "baseLineY" : 108.96,
+      "fontId" : 4,
+      "text" : "The Loan Originator is responsible for coordinating all aspects of the loan closing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 125.4949,
+      "rightX" : 514.6798,
+      "topY" : 113.4949,
+      "baseLineY" : 122.7599,
+      "fontId" : 4,
+      "text" : "process so that all of the conditions for loan closing are met and the required documents are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 139.2949,
+      "rightX" : 340.56,
+      "topY" : 127.2949,
+      "baseLineY" : 136.5599,
+      "fontId" : 4,
+      "text" : "prepared and ready to be signed by the day of closing.   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 165.0949,
+      "rightX" : 531.5999,
+      "topY" : 153.0949,
+      "baseLineY" : 162.3599,
+      "fontId" : 4,
+      "text" : "Between the time the loan is approved and the day of closing, the Loan Originator must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 178.8949,
+      "rightX" : 506.0398,
+      "topY" : 166.8949,
+      "baseLineY" : 176.1599,
+      "fontId" : 4,
+      "text" : "work with the applicant and the closing agent to ensure that all appropriate documents are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 192.6949,
+      "rightX" : 517.3198,
+      "topY" : 180.6949,
+      "baseLineY" : 189.9599,
+      "fontId" : 4,
+      "text" : "prepared prior to closing.  The Loan Originator must also work with the OGC to obtain loan "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 206.4949,
+      "rightX" : 539.4009,
+      "topY" : 194.4949,
+      "baseLineY" : 203.7599,
+      "fontId" : 4,
+      "text" : "closing instructions from them.  Closing must not take place until the applicant has met all of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 220.2948,
+      "rightX" : 179.76,
+      "topY" : 208.2948,
+      "baseLineY" : 217.5599,
+      "fontId" : 4,
+      "text" : "conditions outlined in "
+    }, {
+      "leftX" : 179.76,
+      "bottomY" : 220.3298,
+      "rightX" : 518.0399,
+      "topY" : 208.3298,
+      "baseLineY" : 217.5599,
+      "fontId" : 11,
+      "text" : "Handbook Letter 102 (3560), Letter of Conditions, Loan Approval, or "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 234.1298,
+      "rightX" : 169.428,
+      "topY" : 222.1298,
+      "baseLineY" : 231.3599,
+      "fontId" : 11,
+      "text" : "Obligation of Funds"
+    }, {
+      "leftX" : 169.44,
+      "bottomY" : 234.0948,
+      "rightX" : 172.44,
+      "topY" : 222.0948,
+      "baseLineY" : 231.3599,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 172.44,
+      "bottomY" : 234.0948,
+      "rightX" : 524.8799,
+      "topY" : 222.0948,
+      "baseLineY" : 231.3599,
+      "fontId" : 4,
+      "text" : "for loan closing sent to them by the Agency when the loan was approved "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 247.8948,
+      "rightX" : 354.5999,
+      "topY" : 235.8948,
+      "baseLineY" : 245.1599,
+      "fontId" : 4,
+      "text" : "(see Paragraph 5.21 for details on the letter of conditions). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.8038,
+      "rightX" : 257.04,
+      "topY" : 261.8038,
+      "baseLineY" : 270.9598,
+      "fontId" : 3,
+      "text" : "A.  Work with the Applicant "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 299.4948,
+      "rightX" : 522.8398,
+      "topY" : 287.4948,
+      "baseLineY" : 296.7598,
+      "fontId" : 4,
+      "text" : "The Loan Originator must work with applicants to ensure that they understand the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 313.2948,
+      "rightX" : 489.2398,
+      "topY" : 301.2948,
+      "baseLineY" : 310.5598,
+      "fontId" : 4,
+      "text" : "steps required to reach closing successfully and that they are fully aware of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 327.0948,
+      "rightX" : 523.9198,
+      "topY" : 315.0948,
+      "baseLineY" : 324.3598,
+      "fontId" : 4,
+      "text" : "responsibilities they will assume when the loan closes.  Items to cover prior to closing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 340.8948,
+      "rightX" : 149.64,
+      "topY" : 328.8948,
+      "baseLineY" : 338.1598,
+      "fontId" : 4,
+      "text" : "include: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 366.9549,
+      "rightX" : 113.52,
+      "topY" : 354.9549,
+      "baseLineY" : 364.7998,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 367.6569,
+      "rightX" : 116.856,
+      "topY" : 355.6569,
+      "baseLineY" : 364.7998,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 367.5348,
+      "rightX" : 397.9199,
+      "topY" : 355.5348,
+      "baseLineY" : 364.7998,
+      "fontId" : 4,
+      "text" : "Prior to loan closing, meeting all conditions specified in "
+    }, {
+      "leftX" : 397.9199,
+      "bottomY" : 367.5697,
+      "rightX" : 541.5598,
+      "topY" : 355.5697,
+      "baseLineY" : 364.7998,
+      "fontId" : 11,
+      "text" : "Handbook Letter 102 (3560), "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 381.3697,
+      "rightX" : 418.0679,
+      "topY" : 369.3697,
+      "baseLineY" : 378.5998,
+      "fontId" : 11,
+      "text" : "Letter of Conditions, Loan Approval, or Obligation of Funds"
+    }, {
+      "leftX" : 418.08,
+      "bottomY" : 381.3348,
+      "rightX" : 421.416,
+      "topY" : 369.3348,
+      "baseLineY" : 378.5998,
+      "fontId" : 4,
+      "text" : ";"
+    }, {
+      "leftX" : 421.44,
+      "bottomY" : 381.4437,
+      "rightX" : 424.44,
+      "topY" : 369.4437,
+      "baseLineY" : 378.5998,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 407.5149,
+      "rightX" : 113.52,
+      "topY" : 395.5149,
+      "baseLineY" : 405.3598,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 408.2169,
+      "rightX" : 116.856,
+      "topY" : 396.2169,
+      "baseLineY" : 405.3598,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 408.0948,
+      "rightX" : 367.2,
+      "topY" : 396.0948,
+      "baseLineY" : 405.3598,
+      "fontId" : 4,
+      "text" : "Requirements for the selection of a closing agent; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 434.1549,
+      "rightX" : 113.52,
+      "topY" : 422.1549,
+      "baseLineY" : 431.9998,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 434.857,
+      "rightX" : 116.856,
+      "topY" : 422.857,
+      "baseLineY" : 431.9998,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 434.7348,
+      "rightX" : 368.88,
+      "topY" : 422.7348,
+      "baseLineY" : 431.9998,
+      "fontId" : 4,
+      "text" : "A list of current Agency-approved closing agents; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 460.7949,
+      "rightX" : 113.52,
+      "topY" : 448.7949,
+      "baseLineY" : 458.6398,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 461.497,
+      "rightX" : 116.856,
+      "topY" : 449.497,
+      "baseLineY" : 458.6398,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 461.3748,
+      "rightX" : 450.6,
+      "topY" : 449.3748,
+      "baseLineY" : 458.6398,
+      "fontId" : 4,
+      "text" : "Documents and information that must be provided prior to closing; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 487.5549,
+      "rightX" : 113.52,
+      "topY" : 475.5549,
+      "baseLineY" : 485.3998,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 488.257,
+      "rightX" : 116.856,
+      "topY" : 476.257,
+      "baseLineY" : 485.3998,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 488.1348,
+      "rightX" : 264.96,
+      "topY" : 476.1348,
+      "baseLineY" : 485.3998,
+      "fontId" : 4,
+      "text" : "Insurance requirements; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 514.195,
+      "rightX" : 113.52,
+      "topY" : 502.195,
+      "baseLineY" : 512.0399,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 514.897,
+      "rightX" : 116.856,
+      "topY" : 502.897,
+      "baseLineY" : 512.0399,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 514.7748,
+      "rightX" : 327.96,
+      "topY" : 502.7748,
+      "baseLineY" : 512.0399,
+      "fontId" : 4,
+      "text" : "Applicant responsibilities at loan closing. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 540.4548,
+      "rightX" : 518.6398,
+      "topY" : 528.4548,
+      "baseLineY" : 537.7198,
+      "fontId" : 4,
+      "text" : "These items might be covered at the preconstruction meeting (see Chapter 9), the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 554.2548,
+      "rightX" : 508.7998,
+      "topY" : 542.2548,
+      "baseLineY" : 551.5198,
+      "fontId" : 4,
+      "text" : "prelease-up meeting (see Section 2 of this chapter), or, if necessary, at a preclosing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 568.0548,
+      "rightX" : 152.64,
+      "topY" : 556.0548,
+      "baseLineY" : 565.3198,
+      "fontId" : 4,
+      "text" : "meeting. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 593.9638,
+      "rightX" : 284.9987,
+      "topY" : 581.9638,
+      "baseLineY" : 591.1199,
+      "fontId" : 3,
+      "text" : "B.  Review Title Insurance Binder "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 619.6548,
+      "rightX" : 528.8398,
+      "topY" : 607.6548,
+      "baseLineY" : 616.9199,
+      "fontId" : 4,
+      "text" : "Upon receipt of a title insurance binder from the closing agent, the Loan Originator "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 633.4548,
+      "rightX" : 296.28,
+      "topY" : 621.4548,
+      "baseLineY" : 630.7198,
+      "fontId" : 4,
+      "text" : "must carefully review it to ensure that: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 659.635,
+      "rightX" : 113.52,
+      "topY" : 647.635,
+      "baseLineY" : 657.4799,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 660.337,
+      "rightX" : 116.856,
+      "topY" : 648.337,
+      "baseLineY" : 657.4799,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 660.2148,
+      "rightX" : 384.96,
+      "topY" : 648.2148,
+      "baseLineY" : 657.4799,
+      "fontId" : 4,
+      "text" : "The borrower will become the owner of the property; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 686.275,
+      "rightX" : 113.52,
+      "topY" : 674.275,
+      "baseLineY" : 684.1199,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 686.977,
+      "rightX" : 116.856,
+      "topY" : 674.977,
+      "baseLineY" : 684.1199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 686.8548,
+      "rightX" : 296.04,
+      "topY" : 674.8548,
+      "baseLineY" : 684.1199,
+      "fontId" : 4,
+      "text" : "All prior liens have been removed; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 712.915,
+      "rightX" : 113.52,
+      "topY" : 700.915,
+      "baseLineY" : 710.7599,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 713.617,
+      "rightX" : 116.856,
+      "topY" : 701.617,
+      "baseLineY" : 710.7599,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 713.4949,
+      "rightX" : 359.4,
+      "topY" : 701.4949,
+      "baseLineY" : 710.7599,
+      "fontId" : 4,
+      "text" : "Outstanding judgments have been resolved; and "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 758.3991,
+      "rightX" : 315.09,
+      "topY" : 748.3991,
+      "baseLineY" : 756.12,
+      "fontId" : 1,
+      "text" : "8-6 "
+    }, {
+      "leftX" : 79.2,
+      "bottomY" : 775.7992,
+      "rightX" : 81.69,
+      "topY" : 765.7992,
+      "baseLineY" : 773.52,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.2751,
+      "rightX" : 113.52,
+      "topY" : 74.2751,
+      "baseLineY" : 84.12,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.9771,
+      "rightX" : 116.856,
+      "topY" : 74.9771,
+      "baseLineY" : 84.12,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.855,
+      "rightX" : 366,
+      "topY" : 74.855,
+      "baseLineY" : 84.12,
+      "fontId" : 4,
+      "text" : "Property rights intended as security are available. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 112.535,
+      "rightX" : 525.5997,
+      "topY" : 100.535,
+      "baseLineY" : 109.8,
+      "fontId" : 4,
+      "text" : "In consultation with OGC, the Loan Originator should review the legal description "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 126.3349,
+      "rightX" : 511.4397,
+      "topY" : 114.3349,
+      "baseLineY" : 123.6,
+      "fontId" : 4,
+      "text" : "and any exceptions to the title to determine if the lien position is in jeopardy.  If the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 140.1349,
+      "rightX" : 539.04,
+      "topY" : 128.1349,
+      "baseLineY" : 137.4,
+      "fontId" : 4,
+      "text" : "exceptions will adversely affect the property’s title, suitability, or security value, the loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 153.9349,
+      "rightX" : 193.92,
+      "topY" : 141.9349,
+      "baseLineY" : 151.2,
+      "fontId" : 4,
+      "text" : "cannot be closed. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 179.7349,
+      "rightX" : 488.1598,
+      "topY" : 167.7349,
+      "baseLineY" : 176.9999,
+      "fontId" : 4,
+      "text" : "If any required information is omitted, or if the title insurance binder is not "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 193.5349,
+      "rightX" : 516.96,
+      "topY" : 181.5349,
+      "baseLineY" : 190.7999,
+      "fontId" : 4,
+      "text" : "satisfactory, the Loan Originator should return it to the closing agent for corrections. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 219.4438,
+      "rightX" : 355.32,
+      "topY" : 207.4438,
+      "baseLineY" : 216.5999,
+      "fontId" : 3,
+      "text" : "C.  Prepare Documents for Closing Instructions "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 245.1349,
+      "rightX" : 506.6398,
+      "topY" : 233.1349,
+      "baseLineY" : 242.3999,
+      "fontId" : 4,
+      "text" : "The Loan Originator must obtain loan closing instructions from OGC and then "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 258.9349,
+      "rightX" : 517.6799,
+      "topY" : 246.9349,
+      "baseLineY" : 256.1999,
+      "fontId" : 4,
+      "text" : "forward these instructions to the loan closing agent.  The Loan Originator should not "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 272.7348,
+      "rightX" : 534.8399,
+      "topY" : 260.7348,
+      "baseLineY" : 269.9999,
+      "fontId" : 4,
+      "text" : "request closing instructions from OGC until the Loan Originator has determined that the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 286.5348,
+      "rightX" : 411.1222,
+      "topY" : 274.5348,
+      "baseLineY" : 283.7999,
+      "fontId" : 4,
+      "text" : "applicant will meet the loan closing conditions specified in the "
+    }, {
+      "leftX" : 411.1222,
+      "bottomY" : 286.5698,
+      "rightX" : 516.8409,
+      "topY" : 274.5698,
+      "baseLineY" : 283.7999,
+      "fontId" : 11,
+      "text" : "Handbook Letter 102 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 300.3698,
+      "rightX" : 438.1079,
+      "topY" : 288.3698,
+      "baseLineY" : 297.5999,
+      "fontId" : 11,
+      "text" : "(3560), Letter of Conditions, Loan Approval, or Obligation of Funds"
+    }, {
+      "leftX" : 438.12,
+      "bottomY" : 300.3348,
+      "rightX" : 540.24,
+      "topY" : 288.3348,
+      "baseLineY" : 297.5999,
+      "fontId" : 4,
+      "text" : " sent to the applicant "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 314.1348,
+      "rightX" : 512.04,
+      "topY" : 302.1348,
+      "baseLineY" : 311.3998,
+      "fontId" : 4,
+      "text" : "by the Agency at loan approval.  The Loan Originator will take the following steps: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 340.195,
+      "rightX" : 113.52,
+      "topY" : 328.195,
+      "baseLineY" : 338.0399,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 340.897,
+      "rightX" : 116.856,
+      "topY" : 328.897,
+      "baseLineY" : 338.0399,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 340.7748,
+      "rightX" : 509.8799,
+      "topY" : 328.7748,
+      "baseLineY" : 338.0399,
+      "fontId" : 4,
+      "text" : "Assemble the loan docket to be provided to OGC, including the documents and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 354.5748,
+      "rightX" : 241.188,
+      "topY" : 342.5748,
+      "baseLineY" : 351.8398,
+      "fontId" : 4,
+      "text" : "information provided as"
+    }, {
+      "leftX" : 241.2,
+      "bottomY" : 354.6838,
+      "rightX" : 326.544,
+      "topY" : 342.6838,
+      "baseLineY" : 351.8398,
+      "fontId" : 3,
+      "text" : " Attachment 8-A"
+    }, {
+      "leftX" : 326.52,
+      "bottomY" : 354.5748,
+      "rightX" : 350.16,
+      "topY" : 342.5748,
+      "baseLineY" : 351.8398,
+      "fontId" : 4,
+      "text" : "; and"
+    }, {
+      "leftX" : 350.28,
+      "bottomY" : 354.6838,
+      "rightX" : 353.28,
+      "topY" : 342.6838,
+      "baseLineY" : 351.8398,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 380.635,
+      "rightX" : 113.52,
+      "topY" : 368.635,
+      "baseLineY" : 378.4799,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 381.337,
+      "rightX" : 116.856,
+      "topY" : 369.337,
+      "baseLineY" : 378.4799,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 381.2148,
+      "rightX" : 507.2399,
+      "topY" : 369.2148,
+      "baseLineY" : 378.4799,
+      "fontId" : 4,
+      "text" : "Forward to OGC the docket and documents.  OGC will review the information "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 395.0148,
+      "rightX" : 518.2798,
+      "topY" : 383.0148,
+      "baseLineY" : 392.2798,
+      "fontId" : 4,
+      "text" : "provided and complete any portions if necessary.  If the loan docket includes any "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 408.8148,
+      "rightX" : 541.0798,
+      "topY" : 396.8148,
+      "baseLineY" : 406.0798,
+      "fontId" : 4,
+      "text" : "documents that require special attention, such as a bond (replacing a promissory note) "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 422.6148,
+      "rightX" : 410.28,
+      "topY" : 410.6148,
+      "baseLineY" : 419.8798,
+      "fontId" : 4,
+      "text" : "or an intercreditor agreement, OGC will review these also. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 448.5237,
+      "rightX" : 451.08,
+      "topY" : 436.5237,
+      "baseLineY" : 445.6798,
+      "fontId" : 3,
+      "text" : "D.  Provide Closing Agent with Closing Instructions and Materials "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 474.2148,
+      "rightX" : 528.1199,
+      "topY" : 462.2148,
+      "baseLineY" : 471.4798,
+      "fontId" : 4,
+      "text" : "When OGC completes its review of the loan docket and documents and determines "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 488.0148,
+      "rightX" : 513.5999,
+      "topY" : 476.0148,
+      "baseLineY" : 485.2798,
+      "fontId" : 4,
+      "text" : "that the loan can be closed, it will provide the Loan Originator with the loan closing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 501.8147,
+      "rightX" : 542.6399,
+      "topY" : 489.8147,
+      "baseLineY" : 499.0798,
+      "fontId" : 4,
+      "text" : "instructions.  The Loan Originator must forward these instructions and the documents and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 515.6147,
+      "rightX" : 209.04,
+      "topY" : 503.6147,
+      "baseLineY" : 512.8798,
+      "fontId" : 4,
+      "text" : "information listed in "
+    }, {
+      "leftX" : 209.04,
+      "bottomY" : 515.7237,
+      "rightX" : 294.24,
+      "topY" : 503.7237,
+      "baseLineY" : 512.8798,
+      "fontId" : 3,
+      "text" : "Attachment 8-A "
+    }, {
+      "leftX" : 294.24,
+      "bottomY" : 515.6147,
+      "rightX" : 393.96,
+      "topY" : 503.6147,
+      "baseLineY" : 512.8798,
+      "fontId" : 4,
+      "text" : "to the closing agent. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 541.4147,
+      "rightX" : 529.7999,
+      "topY" : 529.4147,
+      "baseLineY" : 538.6797,
+      "fontId" : 4,
+      "text" : "All forms needed for loan closing, as well as copies of other documents to facilitate "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 555.2147,
+      "rightX" : 537.1198,
+      "topY" : 543.2147,
+      "baseLineY" : 552.4797,
+      "fontId" : 4,
+      "text" : "the closing agent’s review (e.g., tax bills, legal descriptions, or surveys), will be attached "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 569.0148,
+      "rightX" : 529.7974,
+      "topY" : 557.0148,
+      "baseLineY" : 566.2798,
+      "fontId" : 4,
+      "text" : "to the closing instructions. The closing agent must ensure that they are executed at loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 582.8147,
+      "rightX" : 474.36,
+      "topY" : 570.8147,
+      "baseLineY" : 580.0798,
+      "fontId" : 4,
+      "text" : "closing and returned to the Agency along with the other closing documents. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 608.7237,
+      "rightX" : 229.32,
+      "topY" : 596.7237,
+      "baseLineY" : 605.8798,
+      "fontId" : 3,
+      "text" : "E.  Obtain Loan Check "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 634.4148,
+      "rightX" : 525.8398,
+      "topY" : 622.4148,
+      "baseLineY" : 631.6798,
+      "fontId" : 4,
+      "text" : "The amount of the check will depend on whether the borrower is obtaining interim "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 648.2148,
+      "rightX" : 526.0801,
+      "topY" : 636.2148,
+      "baseLineY" : 645.4798,
+      "fontId" : 4,
+      "text" : "financing or multiple advances.  Funds cannot be disbursed until the mortgage is filed. "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 674.0148,
+      "rightX" : 129.0001,
+      "topY" : 662.0148,
+      "baseLineY" : 671.2798,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 699.8147,
+      "rightX" : 129.0001,
+      "topY" : 687.8147,
+      "baseLineY" : 697.0798,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 312.84,
+      "bottomY" : 728.5191,
+      "rightX" : 328.65,
+      "topY" : 718.5191,
+      "baseLineY" : 726.24,
+      "fontId" : 1,
+      "text" : "8-7 "
+    }, {
+      "leftX" : 79.2,
+      "bottomY" : 740.0391,
+      "rightX" : 160.2804,
+      "topY" : 730.0391,
+      "baseLineY" : 737.76,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 85.8949,
+      "rightX" : 536.5197,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "If the applicant obtained interim financing, the check will be for the entire amount of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.6949,
+      "rightX" : 537.4798,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : "the loan.  If any funds are being held back for any reason (e.g., incomplete construction), "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 113.4949,
+      "rightX" : 337.92,
+      "topY" : 101.4949,
+      "baseLineY" : 110.7599,
+      "fontId" : 4,
+      "text" : "these funds will be put in a supervised account. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.5551,
+      "rightX" : 113.52,
+      "topY" : 127.5551,
+      "baseLineY" : 137.4,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 140.2571,
+      "rightX" : 116.856,
+      "topY" : 128.2571,
+      "baseLineY" : 137.4,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 140.1349,
+      "rightX" : 532.6797,
+      "topY" : 128.1349,
+      "baseLineY" : 137.4,
+      "fontId" : 4,
+      "text" : "In the case of multiple advances, the check will be for an initial amount.  Additional "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 153.9349,
+      "rightX" : 528.1199,
+      "topY" : 141.9349,
+      "baseLineY" : 151.2,
+      "fontId" : 4,
+      "text" : "checks will be requested on a periodic basis to cover costs as the borrower requests "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 167.7349,
+      "rightX" : 442.3199,
+      "topY" : 155.7349,
+      "baseLineY" : 164.9999,
+      "fontId" : 4,
+      "text" : "them.  See Chapter 9 for guidance on preparing partial payments. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 193.5349,
+      "rightX" : 541.5598,
+      "topY" : 181.5349,
+      "baseLineY" : 190.7999,
+      "fontId" : 4,
+      "text" : "To obtain a loan check, the Loan Originator must use AMAS as described below. The "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 207.3349,
+      "rightX" : 418.68,
+      "topY" : 195.3349,
+      "baseLineY" : 204.5999,
+      "fontId" : 4,
+      "text" : "check request can take as long as 5 days from request to receipt. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 233.3951,
+      "rightX" : 113.52,
+      "topY" : 221.3951,
+      "baseLineY" : 231.24,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 234.0971,
+      "rightX" : 116.856,
+      "topY" : 222.0971,
+      "baseLineY" : 231.24,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 233.975,
+      "rightX" : 210.84,
+      "topY" : 221.975,
+      "baseLineY" : 231.24,
+      "fontId" : 4,
+      "text" : "Check the screen "
+    }, {
+      "leftX" : 210.84,
+      "bottomY" : 234.0839,
+      "rightX" : 249.636,
+      "topY" : 222.0839,
+      "baseLineY" : 231.24,
+      "fontId" : 3,
+      "text" : "[M1AI]"
+    }, {
+      "leftX" : 249.6,
+      "bottomY" : 233.975,
+      "rightX" : 532.6798,
+      "topY" : 221.975,
+      "baseLineY" : 231.24,
+      "fontId" : 4,
+      "text" : " for the undisbursed amount of the loan and the Maximum "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 247.7749,
+      "rightX" : 222.6,
+      "topY" : 235.7749,
+      "baseLineY" : 245.04,
+      "fontId" : 4,
+      "text" : "Debt Limit (MDL). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.9551,
+      "rightX" : 113.52,
+      "topY" : 261.9551,
+      "baseLineY" : 271.8,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 274.6571,
+      "rightX" : 116.856,
+      "topY" : 262.6571,
+      "baseLineY" : 271.8,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 274.535,
+      "rightX" : 210.84,
+      "topY" : 262.535,
+      "baseLineY" : 271.8,
+      "fontId" : 4,
+      "text" : "Check the screen "
+    }, {
+      "leftX" : 210.84,
+      "bottomY" : 274.6439,
+      "rightX" : 249.636,
+      "topY" : 262.6439,
+      "baseLineY" : 271.8,
+      "fontId" : 3,
+      "text" : "[M1XI]"
+    }, {
+      "leftX" : 249.6,
+      "bottomY" : 274.535,
+      "rightX" : 477.2398,
+      "topY" : 262.535,
+      "baseLineY" : 271.8,
+      "fontId" : 4,
+      "text" : " for the disbursed amount and accrued interest. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 300.4751,
+      "rightX" : 113.52,
+      "topY" : 288.4751,
+      "baseLineY" : 298.32,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 301.1771,
+      "rightX" : 116.856,
+      "topY" : 289.1771,
+      "baseLineY" : 298.32,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 301.0549,
+      "rightX" : 540.4798,
+      "topY" : 289.0549,
+      "baseLineY" : 298.32,
+      "fontId" : 4,
+      "text" : "Make sure that the disbursed amount plus accrued interest does not exceed the MDL.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 314.975,
+      "rightX" : 501.8398,
+      "topY" : 302.975,
+      "baseLineY" : 312.24,
+      "fontId" : 4,
+      "text" : "If it exceeds the MDL, the check amount will default to the amount available. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 341.1551,
+      "rightX" : 113.52,
+      "topY" : 329.1551,
+      "baseLineY" : 339,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 341.8571,
+      "rightX" : 116.856,
+      "topY" : 329.8571,
+      "baseLineY" : 339,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 341.735,
+      "rightX" : 339.7175,
+      "topY" : 329.735,
+      "baseLineY" : 339,
+      "fontId" : 4,
+      "text" : "Complete screen Request Loan/Grant Check"
+    }, {
+      "leftX" : 339.72,
+      "bottomY" : 341.7699,
+      "rightX" : 342.72,
+      "topY" : 329.7699,
+      "baseLineY" : 339,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 342.84,
+      "bottomY" : 341.8439,
+      "rightX" : 376.836,
+      "topY" : 329.8439,
+      "baseLineY" : 339,
+      "fontId" : 3,
+      "text" : "[M1C]"
+    }, {
+      "leftX" : 376.8,
+      "bottomY" : 341.735,
+      "rightX" : 382.92,
+      "topY" : 329.735,
+      "baseLineY" : 339,
+      "fontId" : 4,
+      "text" : ". "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 367.5239,
+      "rightX" : 272.04,
+      "topY" : 355.5239,
+      "baseLineY" : 364.68,
+      "fontId" : 3,
+      "text" : "F.  Establish Payment Schedule "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 393.2149,
+      "rightX" : 531.8398,
+      "topY" : 381.2149,
+      "baseLineY" : 390.48,
+      "fontId" : 4,
+      "text" : "The borrower is required to make loan payments on a monthly basis, payable on the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 407.0149,
+      "rightX" : 517.9199,
+      "topY" : 395.0149,
+      "baseLineY" : 404.28,
+      "fontId" : 4,
+      "text" : "first of each month.  If closing does not occur on the first of the month, principal and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 420.815,
+      "rightX" : 536.5199,
+      "topY" : 408.815,
+      "baseLineY" : 418.08,
+      "fontId" : 4,
+      "text" : "interest payments for the period before the first payment are added to the loan amount as "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 434.6149,
+      "rightX" : 307.5599,
+      "topY" : 422.6149,
+      "baseLineY" : 431.88,
+      "fontId" : 4,
+      "text" : "described in the Forms Manual Insert for "
+    }, {
+      "leftX" : 307.56,
+      "bottomY" : 434.6499,
+      "rightX" : 483.408,
+      "topY" : 422.6499,
+      "baseLineY" : 431.88,
+      "fontId" : 11,
+      "text" : "Form RD 3560-52, Promissory Note"
+    }, {
+      "leftX" : 483.36,
+      "bottomY" : 434.6149,
+      "rightX" : 489.36,
+      "topY" : 422.6149,
+      "baseLineY" : 431.88,
+      "fontId" : 4,
+      "text" : ". "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 460.5239,
+      "rightX" : 285.48,
+      "topY" : 448.5239,
+      "baseLineY" : 457.68,
+      "fontId" : 3,
+      "text" : "G.  Establish Initial Disbursement "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 486.2149,
+      "rightX" : 540.1199,
+      "topY" : 474.2149,
+      "baseLineY" : 483.4799,
+      "fontId" : 4,
+      "text" : "For interim financing, all loan funds are disbursed at the Agency closing.  If there is a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 500.0149,
+      "rightX" : 528.3598,
+      "topY" : 488.0149,
+      "baseLineY" : 497.2799,
+      "fontId" : 4,
+      "text" : "reason to retain funds (e.g., if small construction tasks still need to be completed) these "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 513.8149,
+      "rightX" : 532.7999,
+      "topY" : 501.8149,
+      "baseLineY" : 511.0799,
+      "fontId" : 4,
+      "text" : "funds will still be disbursed, but they will be held in a supervised account in accordance "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 527.6148,
+      "rightX" : 249.72,
+      "topY" : 515.6148,
+      "baseLineY" : 524.8799,
+      "fontId" : 4,
+      "text" : "with RD Instruction 1902-A. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 553.4149,
+      "rightX" : 489.7198,
+      "topY" : 541.4149,
+      "baseLineY" : 550.6799,
+      "fontId" : 4,
+      "text" : "For multiple advances, however, funds are disbursed over time.  The initial "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 567.2149,
+      "rightX" : 526.7998,
+      "topY" : 555.2149,
+      "baseLineY" : 564.4799,
+      "fontId" : 4,
+      "text" : "disbursement will cover initial expenses such as the cost of the land, attorney fees, and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 581.0149,
+      "rightX" : 535.7998,
+      "topY" : 569.0149,
+      "baseLineY" : 578.2799,
+      "fontId" : 4,
+      "text" : "other closing costs.  Prior to closing, the borrower will inform the Agency of the amount "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 594.8149,
+      "rightX" : 514.5598,
+      "topY" : 582.8149,
+      "baseLineY" : 592.08,
+      "fontId" : 4,
+      "text" : "needed for the initial disbursement.  (Disbursements after closing are requested on a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 608.6149,
+      "rightX" : 537.5997,
+      "topY" : 596.6149,
+      "baseLineY" : 605.8799,
+      "fontId" : 4,
+      "text" : "monthly basis for expenses incurred during the month.  See Chapter 9 for a discussion of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 622.4149,
+      "rightX" : 271.32,
+      "topY" : 610.4149,
+      "baseLineY" : 619.6799,
+      "fontId" : 4,
+      "text" : "how to request partial payments.) "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 648.3239,
+      "rightX" : 96,
+      "topY" : 636.3239,
+      "baseLineY" : 645.4799,
+      "fontId" : 3,
+      "text" : "8.8   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 648.3239,
+      "rightX" : 281.4,
+      "topY" : 636.3239,
+      "baseLineY" : 645.4799,
+      "fontId" : 3,
+      "text" : "ACTIONS AT LOAN CLOSING "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 674.0149,
+      "rightX" : 528.2398,
+      "topY" : 662.0149,
+      "baseLineY" : 671.2799,
+      "fontId" : 4,
+      "text" : "At loan closing, the Agency and the borrower must execute all necessary documents to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 687.8149,
+      "rightX" : 340.8,
+      "topY" : 675.8149,
+      "baseLineY" : 685.08,
+      "fontId" : 4,
+      "text" : "transfer ownership and secure financing for the project. "
+    }, {
+      "leftX" : 314.76,
+      "bottomY" : 761.7591,
+      "rightX" : 330.5665,
+      "topY" : 751.7591,
+      "baseLineY" : 759.48,
+      "fontId" : 1,
+      "text" : "8-8 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 85.8949,
+      "rightX" : 336.24,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "At loan closing, the following actions must take place. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 106.0751,
+      "rightX" : 113.52,
+      "topY" : 94.0751,
+      "baseLineY" : 103.92,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 106.7771,
+      "rightX" : 116.856,
+      "topY" : 94.7771,
+      "baseLineY" : 103.92,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 106.6549,
+      "rightX" : 244.56,
+      "topY" : 94.6549,
+      "baseLineY" : 103.92,
+      "fontId" : 4,
+      "text" : "Each document listed in "
+    }, {
+      "leftX" : 244.68,
+      "bottomY" : 106.7639,
+      "rightX" : 326.904,
+      "topY" : 94.7639,
+      "baseLineY" : 103.92,
+      "fontId" : 3,
+      "text" : "Attachment 8-A"
+    }, {
+      "leftX" : 326.88,
+      "bottomY" : 106.6549,
+      "rightX" : 519.6,
+      "topY" : 94.6549,
+      "baseLineY" : 103.92,
+      "fontId" : 4,
+      "text" : " is reviewed and executed as necessary. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 126.5951,
+      "rightX" : 113.52,
+      "topY" : 114.5951,
+      "baseLineY" : 124.44,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 127.2971,
+      "rightX" : 116.856,
+      "topY" : 115.2971,
+      "baseLineY" : 124.44,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 127.175,
+      "rightX" : 517.9197,
+      "topY" : 115.175,
+      "baseLineY" : 124.44,
+      "fontId" : 4,
+      "text" : "If any changes need to be made to the text of a security instrument or promissory "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 140.975,
+      "rightX" : 521.8798,
+      "topY" : 128.975,
+      "baseLineY" : 138.24,
+      "fontId" : 4,
+      "text" : "note, a line should be drawn through only the specific language to be deleted.  All "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 154.7749,
+      "rightX" : 530.16,
+      "topY" : 142.7749,
+      "baseLineY" : 152.04,
+      "fontId" : 4,
+      "text" : "persons signing the security instrument or promissory note must initial the changes. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 180.9551,
+      "rightX" : 113.52,
+      "topY" : 168.9551,
+      "baseLineY" : 178.8,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 181.6571,
+      "rightX" : 116.856,
+      "topY" : 169.6571,
+      "baseLineY" : 178.8,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 181.535,
+      "rightX" : 319.32,
+      "topY" : 169.535,
+      "baseLineY" : 178.8,
+      "fontId" : 4,
+      "text" : "Funds will be dispersed, as appropriate. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 207.3239,
+      "rightX" : 96,
+      "topY" : 195.3239,
+      "baseLineY" : 204.48,
+      "fontId" : 3,
+      "text" : "8.9   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 207.3239,
+      "rightX" : 271.44,
+      "topY" : 195.3239,
+      "baseLineY" : 204.48,
+      "fontId" : 3,
+      "text" : "POSTCLOSING ACTIVITIES "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 233.0149,
+      "rightX" : 529.8,
+      "topY" : 221.0149,
+      "baseLineY" : 230.28,
+      "fontId" : 4,
+      "text" : "After closing, all documents need to be accounted for, recorded, and filed as necessary. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 258.9239,
+      "rightX" : 329.4,
+      "topY" : 246.9239,
+      "baseLineY" : 256.08,
+      "fontId" : 3,
+      "text" : "A.  Obtain and Review Closing Documents "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 284.6149,
+      "rightX" : 508.9199,
+      "topY" : 272.6149,
+      "baseLineY" : 281.8799,
+      "fontId" : 4,
+      "text" : "The closing agent will provide all closing documents to the Agency.  The Loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 298.4149,
+      "rightX" : 526.7999,
+      "topY" : 286.4149,
+      "baseLineY" : 295.6799,
+      "fontId" : 4,
+      "text" : "Originator will review the mortgage to ensure the Agency received proper lien priority "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 312.2149,
+      "rightX" : 539.6399,
+      "topY" : 300.2149,
+      "baseLineY" : 309.4799,
+      "fontId" : 4,
+      "text" : "and review all other documents to ensure that they were properly executed and recorded.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 326.0149,
+      "rightX" : 514.4398,
+      "topY" : 314.0149,
+      "baseLineY" : 323.2799,
+      "fontId" : 4,
+      "text" : "A final copy of the mortgage and the title insurance policy may be delivered later as "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 339.8149,
+      "rightX" : 288.96,
+      "topY" : 327.8149,
+      "baseLineY" : 337.0799,
+      "fontId" : 4,
+      "text" : "described in Paragraphs 8.9 B and C. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 365.6148,
+      "rightX" : 517.0799,
+      "topY" : 353.6148,
+      "baseLineY" : 362.8799,
+      "fontId" : 4,
+      "text" : "When all documents have been reviewed, the Loan Originator will sign the Loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 379.4148,
+      "rightX" : 521.8798,
+      "topY" : 367.4148,
+      "baseLineY" : 376.6799,
+      "fontId" : 4,
+      "text" : "Closing Instructions to show that loan was closed in accordance with the instructions. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 405.3238,
+      "rightX" : 261.72,
+      "topY" : 393.3238,
+      "baseLineY" : 402.4799,
+      "fontId" : 3,
+      "text" : "B.  Record Mortgage or Deed "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 431.0148,
+      "rightX" : 514.5598,
+      "topY" : 419.0148,
+      "baseLineY" : 428.2798,
+      "fontId" : 4,
+      "text" : "The closing agent must record the mortgage (or deed of trust) after closing.  The "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 444.8148,
+      "rightX" : 515.8799,
+      "topY" : 432.8148,
+      "baseLineY" : 442.0798,
+      "fontId" : 4,
+      "text" : "closing agent will submit an unrecorded copy to the agency along with other closing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 458.6148,
+      "rightX" : 499.6799,
+      "topY" : 446.6148,
+      "baseLineY" : 455.8798,
+      "fontId" : 4,
+      "text" : "documents.  The recorded copy should be provided to the Agency as soon as it is "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 472.4148,
+      "rightX" : 539.2798,
+      "topY" : 460.4148,
+      "baseLineY" : 469.6798,
+      "fontId" : 4,
+      "text" : "completed.  If the original is retained by the filing official, a confirmed copy showing the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 486.2148,
+      "rightX" : 315.6,
+      "topY" : 474.2148,
+      "baseLineY" : 483.4798,
+      "fontId" : 4,
+      "text" : "date and place of record must be provided. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 512.1237,
+      "rightX" : 190.32,
+      "topY" : 500.1237,
+      "baseLineY" : 509.2798,
+      "fontId" : 3,
+      "text" : "C.  Secure Title "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 537.8147,
+      "rightX" : 519.3597,
+      "topY" : 525.8147,
+      "baseLineY" : 535.0798,
+      "fontId" : 4,
+      "text" : "The closing agent must secure the title insurance policy and deliver it to the Loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 551.6147,
+      "rightX" : 355.68,
+      "topY" : 539.6147,
+      "baseLineY" : 548.8798,
+      "fontId" : 4,
+      "text" : "Originator and applicant within 14 days of closing. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 577.5239,
+      "rightX" : 341.88,
+      "topY" : 565.5239,
+      "baseLineY" : 574.68,
+      "fontId" : 3,
+      "text" : "D.  Establish the Amortization Effective Date "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 603.2149,
+      "rightX" : 495.4798,
+      "topY" : 591.2149,
+      "baseLineY" : 600.48,
+      "fontId" : 4,
+      "text" : "The AED is the date that the system begins accruing interest on the loan and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 617.015,
+      "rightX" : 527.1599,
+      "topY" : 605.015,
+      "baseLineY" : 614.28,
+      "fontId" : 4,
+      "text" : "establishes the schedule of payments.  Once the closing date occurs or the last advance "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 630.815,
+      "rightX" : 538.0799,
+      "topY" : 618.815,
+      "baseLineY" : 628.08,
+      "fontId" : 4,
+      "text" : "check is distributed, whichever occurs last, the AED is established.  If the closing date or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 644.615,
+      "rightX" : 531.4786,
+      "topY" : 632.615,
+      "baseLineY" : 641.88,
+      "fontId" : 4,
+      "text" : "the last advance is distributed on the first day of the month, the AED is the same day. If "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 658.415,
+      "rightX" : 541.3198,
+      "topY" : 646.415,
+      "baseLineY" : 655.68,
+      "fontId" : 4,
+      "text" : "the loan closing occurs on any other day, the AED is the first day of the following month. "
+    }, {
+      "leftX" : 299.28,
+      "bottomY" : 685.4392,
+      "rightX" : 315.0865,
+      "topY" : 675.4392,
+      "baseLineY" : 683.16,
+      "fontId" : 1,
+      "text" : "8-9 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 696.9591,
+      "rightX" : 153.0804,
+      "topY" : 686.9591,
+      "baseLineY" : 694.68,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 710.735,
+      "rightX" : 129,
+      "topY" : 698.735,
+      "baseLineY" : 708,
+      "fontId" : 4,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 10,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.0039,
+      "rightX" : 314.76,
+      "topY" : 74.0039,
+      "baseLineY" : 83.16,
+      "fontId" : 3,
+      "text" : "E.  Put Closing Information into AMAS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 111.6949,
+      "rightX" : 510.8398,
+      "topY" : 99.6949,
+      "baseLineY" : 108.96,
+      "fontId" : 4,
+      "text" : "When all closing documents are complete, the Loan Originator should enter the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.4949,
+      "rightX" : 392.52,
+      "topY" : 113.4949,
+      "baseLineY" : 122.7599,
+      "fontId" : 4,
+      "text" : "closing information into AMAS using screen Loan Closing"
+    }, {
+      "leftX" : 392.52,
+      "bottomY" : 125.5299,
+      "rightX" : 395.52,
+      "topY" : 113.5299,
+      "baseLineY" : 122.7599,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 395.52,
+      "bottomY" : 125.6039,
+      "rightX" : 428.076,
+      "topY" : 113.6039,
+      "baseLineY" : 122.7599,
+      "fontId" : 3,
+      "text" : "[M1F]"
+    }, {
+      "leftX" : 428.04,
+      "bottomY" : 125.4949,
+      "rightX" : 434.04,
+      "topY" : 113.4949,
+      "baseLineY" : 122.7599,
+      "fontId" : 4,
+      "text" : ". "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 151.4039,
+      "rightX" : 407.64,
+      "topY" : 139.4039,
+      "baseLineY" : 148.5599,
+      "fontId" : 3,
+      "text" : "F.  Complete Loan Docket and Transfer to Servicing Staff "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 177.0949,
+      "rightX" : 519.4799,
+      "topY" : 165.0949,
+      "baseLineY" : 174.3599,
+      "fontId" : 4,
+      "text" : "Once the information has been entered into AMAS and all closing documents are "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 190.8949,
+      "rightX" : 538.3198,
+      "topY" : 178.8949,
+      "baseLineY" : 188.1599,
+      "fontId" : 4,
+      "text" : "filed, as necessary, the Loan Originator should put all loan closing documents in the loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 204.6949,
+      "rightX" : 498.1198,
+      "topY" : 192.6949,
+      "baseLineY" : 201.9599,
+      "fontId" : 4,
+      "text" : "docket and forward the loan docket to appropriate staff for servicing.  (The Loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 218.4949,
+      "rightX" : 517.956,
+      "topY" : 206.4949,
+      "baseLineY" : 215.7599,
+      "fontId" : 4,
+      "text" : "Servicing Staff will service the loan in accordance with procedures outlined in HB-3-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.2948,
+      "rightX" : 141.96,
+      "topY" : 220.2948,
+      "baseLineY" : 229.5599,
+      "fontId" : 4,
+      "text" : "3560.) "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 258.2038,
+      "rightX" : 438.36,
+      "topY" : 246.2038,
+      "baseLineY" : 255.3599,
+      "fontId" : 3,
+      "text" : "G.  Populate Multi-Family Housing Information System (MFIS) "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 283.8948,
+      "rightX" : 446.7586,
+      "topY" : 271.8948,
+      "baseLineY" : 281.1599,
+      "fontId" : 4,
+      "text" : "The Loan Originator will enter appropriate information into MFIS."
+    }, {
+      "leftX" : 309.84,
+      "bottomY" : 759.4792,
+      "rightX" : 330.69,
+      "topY" : 749.4792,
+      "baseLineY" : 757.2,
+      "fontId" : 1,
+      "text" : "8-10 "
+    }, {
+      "leftX" : 545.88,
+      "bottomY" : 782.8791,
+      "rightX" : 550.8899,
+      "topY" : 772.8791,
+      "baseLineY" : 780.6,
+      "fontId" : 1,
+      "text" : "  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 11,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 196.2,
+      "bottomY" : 88.3979,
+      "rightX" : 419.1833,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 2,
+      "text" : "SECTION 2: PROJECT LEASE-UP "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 114.0839,
+      "rightX" : 102,
+      "topY" : 102.0839,
+      "baseLineY" : 111.24,
+      "fontId" : 3,
+      "text" : "8.10   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 114.0839,
+      "rightX" : 330.96,
+      "topY" : 102.0839,
+      "baseLineY" : 111.24,
+      "fontId" : 3,
+      "text" : "PROJECT LEASE-UP REQUIREMENTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.7749,
+      "rightX" : 537.4799,
+      "topY" : 127.7749,
+      "baseLineY" : 137.04,
+      "fontId" : 4,
+      "text" : "Once the loan is closed, the applicant becomes a borrower. Borrowers are then subject to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 153.5749,
+      "rightX" : 535.7999,
+      "topY" : 141.5749,
+      "baseLineY" : 150.84,
+      "fontId" : 4,
+      "text" : "program requirements regarding project management, occupancy, rents, subsidies, and financial "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 167.3749,
+      "rightX" : 515.8799,
+      "topY" : 155.3749,
+      "baseLineY" : 164.64,
+      "fontId" : 4,
+      "text" : "management.  Marketing, as required by the borrower’s approved Affirmative Fair Housing "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 181.1749,
+      "rightX" : 531.4799,
+      "topY" : 169.1749,
+      "baseLineY" : 178.4399,
+      "fontId" : 4,
+      "text" : "Marketing Plan (AFHMP), must begin no less than 90 days prior to any rental activity.  During "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 194.975,
+      "rightX" : 538.9198,
+      "topY" : 182.975,
+      "baseLineY" : 192.24,
+      "fontId" : 4,
+      "text" : "project lease-up, borrowers should make special efforts to ensure that they comply with program "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 208.7749,
+      "rightX" : 522.2399,
+      "topY" : 196.7749,
+      "baseLineY" : 206.04,
+      "fontId" : 4,
+      "text" : "rent and occupancy requirements as they lease available units.  The Agency will take steps to "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 222.5749,
+      "rightX" : 534.3597,
+      "topY" : 210.5749,
+      "baseLineY" : 219.84,
+      "fontId" : 4,
+      "text" : "help borrowers understand their responsibilities and will monitor the project closely in the early "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 236.3749,
+      "rightX" : 541.8,
+      "topY" : 224.3749,
+      "baseLineY" : 233.64,
+      "fontId" : 4,
+      "text" : "stages to ensure that these requirements are met.  HB-2-3560 provides detailed guidance on these "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 250.1749,
+      "rightX" : 496.9198,
+      "topY" : 238.1749,
+      "baseLineY" : 247.4399,
+      "fontId" : 4,
+      "text" : "requirements.  Exhibit 8-3 shows where the applicable requirements can be found in the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 263.9749,
+      "rightX" : 126.6,
+      "topY" : 251.9749,
+      "baseLineY" : 261.2399,
+      "fontId" : 4,
+      "text" : "regulation. "
+    }, {
+      "leftX" : 276.12,
+      "bottomY" : 290.3639,
+      "rightX" : 336.12,
+      "topY" : 278.3639,
+      "baseLineY" : 287.52,
+      "fontId" : 3,
+      "text" : "Exhibit 8-3 "
+    }, {
+      "leftX" : 213.24,
+      "bottomY" : 310.1639,
+      "rightX" : 398.88,
+      "topY" : 298.1639,
+      "baseLineY" : 307.32,
+      "fontId" : 3,
+      "text" : "Project Management Requirements "
+    }, {
+      "leftX" : 94.68,
+      "bottomY" : 329.8899,
+      "rightX" : 176.4,
+      "topY" : 317.8899,
+      "baseLineY" : 327.12,
+      "fontId" : 11,
+      "text" : "7 CFR part 3560"
+    }, {
+      "leftX" : 176.4,
+      "bottomY" : 329.855,
+      "rightX" : 182.4,
+      "topY" : 317.855,
+      "baseLineY" : 327.12,
+      "fontId" : 4,
+      "text" : ", "
+    }, {
+      "leftX" : 182.4,
+      "bottomY" : 329.8899,
+      "rightX" : 230.004,
+      "topY" : 317.8899,
+      "baseLineY" : 327.12,
+      "fontId" : 11,
+      "text" : "subpart C"
+    }, {
+      "leftX" : 230.04,
+      "bottomY" : 329.855,
+      "rightX" : 509.52,
+      "topY" : 317.855,
+      "baseLineY" : 327.12,
+      "fontId" : 4,
+      "text" : ":  Borrower Management and Operations Responsibilities "
+    }, {
+      "leftX" : 94.68,
+      "bottomY" : 343.6899,
+      "rightX" : 176.4,
+      "topY" : 331.6899,
+      "baseLineY" : 340.92,
+      "fontId" : 11,
+      "text" : "7 CFR part 3560"
+    }, {
+      "leftX" : 176.4,
+      "bottomY" : 343.655,
+      "rightX" : 182.4,
+      "topY" : 331.655,
+      "baseLineY" : 340.92,
+      "fontId" : 4,
+      "text" : ", "
+    }, {
+      "leftX" : 182.4,
+      "bottomY" : 343.6899,
+      "rightX" : 230.664,
+      "topY" : 331.6899,
+      "baseLineY" : 340.92,
+      "fontId" : 11,
+      "text" : "subpart D"
+    }, {
+      "leftX" : 230.64,
+      "bottomY" : 343.655,
+      "rightX" : 408.36,
+      "topY" : 331.655,
+      "baseLineY" : 340.92,
+      "fontId" : 4,
+      "text" : ":  Multi-Family Housing Occupancy "
+    }, {
+      "leftX" : 94.68,
+      "bottomY" : 357.4899,
+      "rightX" : 176.4,
+      "topY" : 345.4899,
+      "baseLineY" : 354.72,
+      "fontId" : 11,
+      "text" : "7 CFR part 3560"
+    }, {
+      "leftX" : 176.4,
+      "bottomY" : 357.455,
+      "rightX" : 182.4,
+      "topY" : 345.455,
+      "baseLineY" : 354.72,
+      "fontId" : 4,
+      "text" : ", "
+    }, {
+      "leftX" : 182.4,
+      "bottomY" : 357.4899,
+      "rightX" : 229.332,
+      "topY" : 345.4899,
+      "baseLineY" : 354.72,
+      "fontId" : 11,
+      "text" : "subpart E"
+    }, {
+      "leftX" : 229.32,
+      "bottomY" : 357.455,
+      "rightX" : 268.92,
+      "topY" : 345.455,
+      "baseLineY" : 354.72,
+      "fontId" : 4,
+      "text" : ":  Rents "
+    }, {
+      "leftX" : 94.68,
+      "bottomY" : 371.2899,
+      "rightX" : 176.4,
+      "topY" : 359.2899,
+      "baseLineY" : 368.52,
+      "fontId" : 11,
+      "text" : "7 CFR part 3560"
+    }, {
+      "leftX" : 176.4,
+      "bottomY" : 371.255,
+      "rightX" : 182.4,
+      "topY" : 359.255,
+      "baseLineY" : 368.52,
+      "fontId" : 4,
+      "text" : ", "
+    }, {
+      "leftX" : 182.4,
+      "bottomY" : 371.2899,
+      "rightX" : 229.332,
+      "topY" : 359.2899,
+      "baseLineY" : 368.52,
+      "fontId" : 11,
+      "text" : "subpart F"
+    }, {
+      "leftX" : 229.32,
+      "bottomY" : 371.255,
+      "rightX" : 321.96,
+      "topY" : 359.255,
+      "baseLineY" : 368.52,
+      "fontId" : 4,
+      "text" : ":  Rental Subsidies "
+    }, {
+      "leftX" : 94.68,
+      "bottomY" : 385.0899,
+      "rightX" : 176.4,
+      "topY" : 373.0899,
+      "baseLineY" : 382.32,
+      "fontId" : 11,
+      "text" : "7 CFR part 3560"
+    }, {
+      "leftX" : 176.4,
+      "bottomY" : 385.055,
+      "rightX" : 182.4,
+      "topY" : 373.055,
+      "baseLineY" : 382.32,
+      "fontId" : 4,
+      "text" : ", "
+    }, {
+      "leftX" : 182.4,
+      "bottomY" : 385.0899,
+      "rightX" : 234.636,
+      "topY" : 373.0899,
+      "baseLineY" : 382.32,
+      "fontId" : 11,
+      "text" : "subpart G:"
+    }, {
+      "leftX" : 234.6,
+      "bottomY" : 385.055,
+      "rightX" : 353.88,
+      "topY" : 373.055,
+      "baseLineY" : 382.32,
+      "fontId" : 4,
+      "text" : "  Financial Management "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 415.5239,
+      "rightX" : 102,
+      "topY" : 403.5239,
+      "baseLineY" : 412.68,
+      "fontId" : 3,
+      "text" : "8.11   "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 415.5239,
+      "rightX" : 315,
+      "topY" : 403.5239,
+      "baseLineY" : 412.68,
+      "fontId" : 3,
+      "text" : "MONITORING PROJECT LEASE-UP "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 441.2149,
+      "rightX" : 536.52,
+      "topY" : 429.2149,
+      "baseLineY" : 438.48,
+      "fontId" : 4,
+      "text" : "Borrowers should be prepared to reach full occupancy with eligible tenants as quickly as "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 455.0149,
+      "rightX" : 535.5959,
+      "topY" : 443.0149,
+      "baseLineY" : 452.28,
+      "fontId" : 4,
+      "text" : "possible.  Loan Processing Staff must coordinate with Loan Servicing Staff to monitor the lease-"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 468.8149,
+      "rightX" : 480,
+      "topY" : 456.8149,
+      "baseLineY" : 466.08,
+      "fontId" : 4,
+      "text" : "up process to make sure that the following key program requirements are being met: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 494.8751,
+      "rightX" : 113.52,
+      "topY" : 482.8751,
+      "baseLineY" : 492.72,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 495.5771,
+      "rightX" : 116.856,
+      "topY" : 483.5771,
+      "baseLineY" : 492.72,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 495.4549,
+      "rightX" : 509.1599,
+      "topY" : 483.4549,
+      "baseLineY" : 492.72,
+      "fontId" : 4,
+      "text" : "Affirmative marketing has been taking place at least 90 days prior to any rental "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 509.255,
+      "rightX" : 524.6398,
+      "topY" : 497.255,
+      "baseLineY" : 506.52,
+      "fontId" : 4,
+      "text" : "activity, as required by an approved AFHMP, to market the property to all eligible "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 523.0549,
+      "rightX" : 168.72,
+      "topY" : 511.0549,
+      "baseLineY" : 520.3199,
+      "fontId" : 4,
+      "text" : "persons. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 549.1151,
+      "rightX" : 113.52,
+      "topY" : 537.1151,
+      "baseLineY" : 546.96,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 549.8171,
+      "rightX" : 116.856,
+      "topY" : 537.8171,
+      "baseLineY" : 546.96,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 549.6949,
+      "rightX" : 528.7198,
+      "topY" : 537.6949,
+      "baseLineY" : 546.96,
+      "fontId" : 4,
+      "text" : "Program occupancy rules are being observed. (All tenants admitted are eligible and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 563.495,
+      "rightX" : 316.32,
+      "topY" : 551.495,
+      "baseLineY" : 560.76,
+      "fontId" : 4,
+      "text" : "all eligible tenants are being admitted.) "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 589.5551,
+      "rightX" : 113.52,
+      "topY" : 577.5551,
+      "baseLineY" : 587.4,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 590.2571,
+      "rightX" : 116.856,
+      "topY" : 578.2571,
+      "baseLineY" : 587.4,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 590.1349,
+      "rightX" : 540.48,
+      "topY" : 578.1349,
+      "baseLineY" : 587.4,
+      "fontId" : 4,
+      "text" : "Program rent rules are being observed.  Tenants are being charged the correct rents as "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 603.9349,
+      "rightX" : 249.6,
+      "topY" : 591.9349,
+      "baseLineY" : 601.2,
+      "fontId" : 4,
+      "text" : "evidenced in their leases. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 629.735,
+      "rightX" : 534.2399,
+      "topY" : 617.735,
+      "baseLineY" : 627,
+      "fontId" : 4,
+      "text" : "The Agency will receive project worksheets and tenant certifications on a monthly basis "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 643.535,
+      "rightX" : 542.64,
+      "topY" : 631.535,
+      "baseLineY" : 640.8,
+      "fontId" : 4,
+      "text" : "as the project leases up.  Field  Staff with the responsibility for monitoring project lease-ups must "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 657.3349,
+      "rightX" : 513.361,
+      "topY" : 645.3349,
+      "baseLineY" : 654.6,
+      "fontId" : 4,
+      "text" : "check, as part of their review of these documents, that rent and occupancy requirements are "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 671.135,
+      "rightX" : 150.96,
+      "topY" : 659.135,
+      "baseLineY" : 668.4,
+      "fontId" : 4,
+      "text" : "being observed. "
+    }, {
+      "leftX" : 299.76,
+      "bottomY" : 736.9192,
+      "rightX" : 320.6063,
+      "topY" : 726.9192,
+      "baseLineY" : 734.64,
+      "fontId" : 1,
+      "text" : "8-11 "
+    }, {
+      "leftX" : 71.9964,
+      "bottomY" : 756.1239,
+      "rightX" : 74.4864,
+      "topY" : 746.1239,
+      "baseLineY" : 753.8447,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 74.28,
+      "bottomY" : 748.4391,
+      "rightX" : 155.3604,
+      "topY" : 738.4391,
+      "baseLineY" : 746.16,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 12,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 85.8949,
+      "rightX" : 518.5198,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "In addition, there are three key occasions early in the project’s life to monitor project "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 99.6949,
+      "rightX" : 538.7999,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : "operations and address issues with the borrower: the pre-occupancy conference, the 90-day visit, "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 113.495,
+      "rightX" : 260.64,
+      "topY" : 101.495,
+      "baseLineY" : 110.76,
+      "fontId" : 4,
+      "text" : "and the 11-month warranty inspection. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.4039,
+      "rightX" : 269.64,
+      "topY" : 127.4039,
+      "baseLineY" : 136.56,
+      "fontId" : 3,
+      "text" : "A.  Pre-Occupancy Conference "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 165.095,
+      "rightX" : 537.48,
+      "topY" : 153.095,
+      "baseLineY" : 162.36,
+      "fontId" : 4,
+      "text" : "The pre-occupancy conference takes place 90 to 120 days before lease-up begins and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 178.8949,
+      "rightX" : 539.0398,
+      "topY" : 166.8949,
+      "baseLineY" : 176.16,
+      "fontId" : 4,
+      "text" : "includes the Agency, the borrower, and the management agent.  This meeting is a time to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.6949,
+      "rightX" : 541.3199,
+      "topY" : 180.6949,
+      "baseLineY" : 189.96,
+      "fontId" : 4,
+      "text" : "explain program requirements and reach agreement on how property will be operated.  At "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 206.4949,
+      "rightX" : 440.2799,
+      "topY" : 194.4949,
+      "baseLineY" : 203.7599,
+      "fontId" : 4,
+      "text" : "a minimum, the Loan Originator should explain the following items: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.5551,
+      "rightX" : 113.52,
+      "topY" : 220.5551,
+      "baseLineY" : 230.4,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 233.2571,
+      "rightX" : 116.856,
+      "topY" : 221.2571,
+      "baseLineY" : 230.4,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 233.2439,
+      "rightX" : 254.6399,
+      "topY" : 221.2439,
+      "baseLineY" : 230.4,
+      "fontId" : 3,
+      "text" : "Management documents."
+    }, {
+      "leftX" : 254.64,
+      "bottomY" : 233.1349,
+      "rightX" : 503.8799,
+      "topY" : 221.1349,
+      "baseLineY" : 230.4,
+      "fontId" : 4,
+      "text" : "  The Agency should discuss the management plan, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 246.9349,
+      "rightX" : 541.0812,
+      "topY" : 234.9349,
+      "baseLineY" : 244.2,
+      "fontId" : 4,
+      "text" : "management certification, lease, and budget and point out aspects that are particularly "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 260.7349,
+      "rightX" : 532.9198,
+      "topY" : 248.7349,
+      "baseLineY" : 257.9999,
+      "fontId" : 4,
+      "text" : "important to program compliance. Examples of documents to review at this meeting "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 274.5349,
+      "rightX" : 164.616,
+      "topY" : 262.5349,
+      "baseLineY" : 271.7999,
+      "fontId" : 4,
+      "text" : "include:"
+    }, {
+      "leftX" : 164.64,
+      "bottomY" : 274.5699,
+      "rightX" : 167.64,
+      "topY" : 262.5699,
+      "baseLineY" : 271.7999,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 300.715,
+      "rightX" : 131.928,
+      "topY" : 288.715,
+      "baseLineY" : 298.5599,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 301.4171,
+      "rightX" : 135.216,
+      "topY" : 289.4171,
+      "baseLineY" : 298.5599,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 301.3299,
+      "rightX" : 466.8959,
+      "topY" : 289.3299,
+      "baseLineY" : 298.5599,
+      "fontId" : 11,
+      "text" : "Form RD 3560-9, Interest Credit and Rental Assistance Agreement"
+    }, {
+      "leftX" : 466.92,
+      "bottomY" : 301.2949,
+      "rightX" : 473.4,
+      "topY" : 289.2949,
+      "baseLineY" : 298.5599,
+      "fontId" : 4,
+      "text" : "; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 327.3551,
+      "rightX" : 131.928,
+      "topY" : 315.3551,
+      "baseLineY" : 325.2,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 328.0571,
+      "rightX" : 135.216,
+      "topY" : 316.0571,
+      "baseLineY" : 325.2,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 327.9699,
+      "rightX" : 385.896,
+      "topY" : 315.9699,
+      "baseLineY" : 325.2,
+      "fontId" : 11,
+      "text" : "Form RD 3560-29, Notice of Payment Due Report"
+    }, {
+      "leftX" : 386.04,
+      "bottomY" : 327.9349,
+      "rightX" : 392.4,
+      "topY" : 315.9349,
+      "baseLineY" : 325.2,
+      "fontId" : 4,
+      "text" : "; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 353.9951,
+      "rightX" : 131.9279,
+      "topY" : 341.9951,
+      "baseLineY" : 351.84,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.8799,
+      "bottomY" : 354.6971,
+      "rightX" : 135.2159,
+      "topY" : 342.6971,
+      "baseLineY" : 351.84,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 354.6099,
+      "rightX" : 330.4799,
+      "topY" : 342.6099,
+      "baseLineY" : 351.84,
+      "fontId" : 11,
+      "text" : "Form RD 3560-8, Tenant Certification"
+    }, {
+      "leftX" : 330.4799,
+      "bottomY" : 354.5749,
+      "rightX" : 336.7199,
+      "topY" : 342.5749,
+      "baseLineY" : 351.84,
+      "fontId" : 4,
+      "text" : "; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 380.7551,
+      "rightX" : 131.9279,
+      "topY" : 368.7551,
+      "baseLineY" : 378.6,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.8799,
+      "bottomY" : 381.4571,
+      "rightX" : 135.2159,
+      "topY" : 369.4571,
+      "baseLineY" : 378.6,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 381.3699,
+      "rightX" : 427.2358,
+      "topY" : 369.3699,
+      "baseLineY" : 378.6,
+      "fontId" : 11,
+      "text" : "Form RD 1910-5, Request for Verification of Employment;"
+    }, {
+      "leftX" : 427.3199,
+      "bottomY" : 381.3349,
+      "rightX" : 430.3199,
+      "topY" : 369.3349,
+      "baseLineY" : 378.6,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 407.3951,
+      "rightX" : 131.9279,
+      "topY" : 395.3951,
+      "baseLineY" : 405.24,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.8799,
+      "bottomY" : 408.0971,
+      "rightX" : 135.2159,
+      "topY" : 396.0971,
+      "baseLineY" : 405.24,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 408.0099,
+      "rightX" : 443.3998,
+      "topY" : 396.0099,
+      "baseLineY" : 405.24,
+      "fontId" : 11,
+      "text" : "Form HUD 935.2, Affirmative Fair Housing Marketing Plan; "
+    }, {
+      "leftX" : 443.3998,
+      "bottomY" : 407.975,
+      "rightX" : 446.3998,
+      "topY" : 395.975,
+      "baseLineY" : 405.24,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 434.0351,
+      "rightX" : 131.9279,
+      "topY" : 422.0351,
+      "baseLineY" : 431.88,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.8799,
+      "bottomY" : 434.7371,
+      "rightX" : 135.2159,
+      "topY" : 422.7371,
+      "baseLineY" : 431.88,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 434.6499,
+      "rightX" : 338.64,
+      "topY" : 422.6499,
+      "baseLineY" : 431.88,
+      "fontId" : 11,
+      "text" : "Form RD 400-4, Assurance Agreement; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 460.6751,
+      "rightX" : 131.928,
+      "topY" : 448.6751,
+      "baseLineY" : 458.52,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 461.3772,
+      "rightX" : 135.216,
+      "topY" : 449.3772,
+      "baseLineY" : 458.52,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 461.2899,
+      "rightX" : 418.68,
+      "topY" : 449.2899,
+      "baseLineY" : 458.52,
+      "fontId" : 11,
+      "text" : "Form HUD 928.1, HUD Fair Housing Poster (English); "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 487.1951,
+      "rightX" : 131.928,
+      "topY" : 475.1951,
+      "baseLineY" : 485.04,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 487.8972,
+      "rightX" : 135.216,
+      "topY" : 475.8972,
+      "baseLineY" : 485.04,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 487.8099,
+      "rightX" : 423.2399,
+      "topY" : 475.8099,
+      "baseLineY" : 485.04,
+      "fontId" : 11,
+      "text" : "Form HUD 928.1A, HUD Fair Housing Poster (Spanish) "
+    }, {
+      "leftX" : 423.2399,
+      "bottomY" : 487.775,
+      "rightX" : 507.8398,
+      "topY" : 475.775,
+      "baseLineY" : 485.04,
+      "fontId" : 4,
+      "text" : "in addition to the "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 501.575,
+      "rightX" : 395.2799,
+      "topY" : 489.575,
+      "baseLineY" : 498.84,
+      "fontId" : 4,
+      "text" : "English version of the poster, when appropriate; and"
+    }, {
+      "leftX" : 395.2799,
+      "bottomY" : 501.6099,
+      "rightX" : 398.2799,
+      "topY" : 489.6099,
+      "baseLineY" : 498.84,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 527.7551,
+      "rightX" : 131.928,
+      "topY" : 515.7551,
+      "baseLineY" : 525.6,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 528.4571,
+      "rightX" : 135.216,
+      "topY" : 516.4571,
+      "baseLineY" : 525.6,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 528.3699,
+      "rightX" : 415.9199,
+      "topY" : 516.3699,
+      "baseLineY" : 525.6,
+      "fontId" : 11,
+      "text" : "Form AD-475-C, USDA “…and Justice for All” Poster. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 554.3951,
+      "rightX" : 113.52,
+      "topY" : 542.3951,
+      "baseLineY" : 552.24,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 555.0971,
+      "rightX" : 116.856,
+      "topY" : 543.0971,
+      "baseLineY" : 552.24,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 555.0839,
+      "rightX" : 245.16,
+      "topY" : 543.0839,
+      "baseLineY" : 552.24,
+      "fontId" : 3,
+      "text" : "Initial operating issues."
+    }, {
+      "leftX" : 245.16,
+      "bottomY" : 554.975,
+      "rightX" : 345.2399,
+      "topY" : 542.975,
+      "baseLineY" : 552.24,
+      "fontId" : 4,
+      "text" : "  In accordance with "
+    }, {
+      "leftX" : 345.2399,
+      "bottomY" : 555.0099,
+      "rightX" : 441.6,
+      "topY" : 543.0099,
+      "baseLineY" : 552.24,
+      "fontId" : 11,
+      "text" : "Forms RD 3560-33 "
+    }, {
+      "leftX" : 441.6,
+      "bottomY" : 554.975,
+      "rightX" : 458.88,
+      "topY" : 542.975,
+      "baseLineY" : 552.24,
+      "fontId" : 4,
+      "text" : "and"
+    }, {
+      "leftX" : 458.88,
+      "bottomY" : 555.0099,
+      "rightX" : 477.84,
+      "topY" : 543.0099,
+      "baseLineY" : 552.24,
+      "fontId" : 11,
+      "text" : " -34"
+    }, {
+      "leftX" : 477.84,
+      "bottomY" : 554.975,
+      "rightX" : 501.5999,
+      "topY" : 542.975,
+      "baseLineY" : 552.24,
+      "fontId" : 4,
+      "text" : ", the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 568.775,
+      "rightX" : 542.8798,
+      "topY" : 556.775,
+      "baseLineY" : 566.04,
+      "fontId" : 4,
+      "text" : "borrower is required to provide initial operating capital (2 percent contribution) by the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 582.575,
+      "rightX" : 518.8798,
+      "topY" : 570.575,
+      "baseLineY" : 579.84,
+      "fontId" : 4,
+      "text" : "time the loan is closed or interim funds are obtained, whichever occurs first.  The "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 596.375,
+      "rightX" : 542.7598,
+      "topY" : 584.375,
+      "baseLineY" : 593.64,
+      "fontId" : 4,
+      "text" : "Loan Originator should ensure that these funds are deposited in the General Operating "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 610.175,
+      "rightX" : 532.7998,
+      "topY" : 598.175,
+      "baseLineY" : 607.44,
+      "fontId" : 4,
+      "text" : "Account and made available to the project.  The Loan Originator should also review "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 623.975,
+      "rightX" : 511.9199,
+      "topY" : 611.975,
+      "baseLineY" : 621.24,
+      "fontId" : 4,
+      "text" : "with the borrower the list of expenses that the Agency approved during the loan "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 637.775,
+      "rightX" : 302.28,
+      "topY" : 625.775,
+      "baseLineY" : 635.04,
+      "fontId" : 4,
+      "text" : "application stage (Paragraph 5.9 D). "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 663.8352,
+      "rightX" : 113.52,
+      "topY" : 651.8352,
+      "baseLineY" : 661.6801,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 664.5372,
+      "rightX" : 116.856,
+      "topY" : 652.5372,
+      "baseLineY" : 661.6801,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 664.524,
+      "rightX" : 204.1199,
+      "topY" : 652.524,
+      "baseLineY" : 661.6801,
+      "fontId" : 3,
+      "text" : "Tenant issues.  "
+    }, {
+      "leftX" : 204.1199,
+      "bottomY" : 664.415,
+      "rightX" : 540.1207,
+      "topY" : 652.415,
+      "baseLineY" : 661.6801,
+      "fontId" : 4,
+      "text" : "Initial tenant issues are likely to include tenant eligibility, waiting list "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 678.215,
+      "rightX" : 438.4799,
+      "topY" : 666.215,
+      "baseLineY" : 675.48,
+      "fontId" : 4,
+      "text" : "procedures, and tenant grievances (see Chapter 6 of HB-2-3560)."
+    }, {
+      "leftX" : 438.5999,
+      "bottomY" : 678.324,
+      "rightX" : 441.5999,
+      "topY" : 666.324,
+      "baseLineY" : 675.48,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 704.2751,
+      "rightX" : 113.5199,
+      "topY" : 692.2751,
+      "baseLineY" : 702.12,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.5199,
+      "bottomY" : 704.9771,
+      "rightX" : 116.8559,
+      "topY" : 692.9771,
+      "baseLineY" : 702.12,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 704.9639,
+      "rightX" : 219.12,
+      "topY" : 692.9639,
+      "baseLineY" : 702.12,
+      "fontId" : 3,
+      "text" : "Civil rights issues."
+    }, {
+      "leftX" : 219.1199,
+      "bottomY" : 704.855,
+      "rightX" : 520.4398,
+      "topY" : 692.855,
+      "baseLineY" : 702.12,
+      "fontId" : 4,
+      "text" : "  The borrower must understand that marketing, in accordance "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 718.655,
+      "rightX" : 533.2798,
+      "topY" : 706.655,
+      "baseLineY" : 715.92,
+      "fontId" : 4,
+      "text" : "with their approved AFHMP, must begin no less than 90 days prior to the beginning "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1239,
+      "rightX" : 74.49,
+      "topY" : 746.1239,
+      "baseLineY" : 753.8447,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 309.84,
+      "bottomY" : 764.0391,
+      "rightX" : 330.6862,
+      "topY" : 754.0391,
+      "baseLineY" : 761.76,
+      "fontId" : 1,
+      "text" : "8-12 "
+    }, {
+      "leftX" : 92.28,
+      "bottomY" : 787.4391,
+      "rightX" : 94.77,
+      "topY" : 777.4391,
+      "baseLineY" : 785.16,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 13,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 85.8949,
+      "rightX" : 504.9598,
+      "topY" : 73.8949,
+      "baseLineY" : 83.16,
+      "fontId" : 4,
+      "text" : "of rental activities.  Also the “approved plan” must be posted in a conspicuous "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 99.6949,
+      "rightX" : 242.28,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : "location, along with the "
+    }, {
+      "leftX" : 242.28,
+      "bottomY" : 99.7299,
+      "rightX" : 330.8401,
+      "topY" : 87.7299,
+      "baseLineY" : 96.96,
+      "fontId" : 11,
+      "text" : "Form HUD 928.1,"
+    }, {
+      "leftX" : 330.8401,
+      "bottomY" : 99.6949,
+      "rightX" : 333.8401,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 333.8401,
+      "bottomY" : 99.7299,
+      "rightX" : 513,
+      "topY" : 87.7299,
+      "baseLineY" : 96.96,
+      "fontId" : 11,
+      "text" : "HUD Fair Housing Poster (English),"
+    }, {
+      "leftX" : 513,
+      "bottomY" : 99.6949,
+      "rightX" : 536.28,
+      "topY" : 87.6949,
+      "baseLineY" : 96.96,
+      "fontId" : 4,
+      "text" : " and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 113.5299,
+      "rightX" : 390.9479,
+      "topY" : 101.5299,
+      "baseLineY" : 110.7599,
+      "fontId" : 11,
+      "text" : "Form AD 475-C, USDA “…and Justice for All” Poster"
+    }, {
+      "leftX" : 390.96,
+      "bottomY" : 113.4949,
+      "rightX" : 509.28,
+      "topY" : 101.4949,
+      "baseLineY" : 110.7599,
+      "fontId" : 4,
+      "text" : ".  The borrower must be "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 127.2949,
+      "rightX" : 538.1998,
+      "topY" : 115.2949,
+      "baseLineY" : 124.5599,
+      "fontId" : 4,
+      "text" : "provided with the required posters and the approved marketing plan at this time.  It is "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 141.0949,
+      "rightX" : 454.92,
+      "topY" : 129.0949,
+      "baseLineY" : 138.3599,
+      "fontId" : 4,
+      "text" : "also an opportunity to review with the borrower the requirements of "
+    }, {
+      "leftX" : 454.92,
+      "bottomY" : 141.1298,
+      "rightX" : 531.6,
+      "topY" : 129.1298,
+      "baseLineY" : 138.3599,
+      "fontId" : 11,
+      "text" : "Form RD 400-4"
+    }, {
+      "leftX" : 531.6,
+      "bottomY" : 141.0949,
+      "rightX" : 540.6,
+      "topY" : 129.0949,
+      "baseLineY" : 138.3599,
+      "fontId" : 4,
+      "text" : ".  "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 154.8949,
+      "rightX" : 523.0798,
+      "topY" : 142.8949,
+      "baseLineY" : 152.1599,
+      "fontId" : 4,
+      "text" : "This form requires the borrower to collect and maintain statistical data concerning "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 168.6949,
+      "rightX" : 521.5187,
+      "topY" : 156.6949,
+      "baseLineY" : 165.9599,
+      "fontId" : 4,
+      "text" : "race, national origin, and sex in a manner that will enable the Agency to complete "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 182.4949,
+      "rightX" : 324.6,
+      "topY" : 170.4949,
+      "baseLineY" : 179.7599,
+      "fontId" : 4,
+      "text" : "periodic civil rights compliance reviews. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 208.2948,
+      "rightX" : 524.9999,
+      "topY" : 196.2948,
+      "baseLineY" : 205.5599,
+      "fontId" : 4,
+      "text" : "Where a significant number or proportion of the population needs information in a "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 222.0948,
+      "rightX" : 508.9198,
+      "topY" : 210.0948,
+      "baseLineY" : 219.3599,
+      "fontId" : 4,
+      "text" : "language other than English, the borrower will take reasonable steps to provide "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 235.8948,
+      "rightX" : 536.2798,
+      "topY" : 223.8948,
+      "baseLineY" : 233.1599,
+      "fontId" : 4,
+      "text" : "information in appropriate languages to such persons.  This requirement applies with "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 249.6948,
+      "rightX" : 508.3201,
+      "topY" : 237.6948,
+      "baseLineY" : 246.9598,
+      "fontId" : 4,
+      "text" : "regard to written material of the type that is ordinarily distributed to the public. "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 275.6038,
+      "rightX" : 214.6801,
+      "topY" : 263.6038,
+      "baseLineY" : 272.7598,
+      "fontId" : 3,
+      "text" : "B.  The 90-Day Visit "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 301.2948,
+      "rightX" : 529.6801,
+      "topY" : 289.2948,
+      "baseLineY" : 298.5598,
+      "fontId" : 4,
+      "text" : "The 90-day visit is a chance to see that the project is making progress with lease-up "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 315.095,
+      "rightX" : 534.8398,
+      "topY" : 303.095,
+      "baseLineY" : 312.36,
+      "fontId" : 4,
+      "text" : "and that program rules are being observed.  It should take place between the sixtieth and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 328.895,
+      "rightX" : 355.32,
+      "topY" : 316.895,
+      "baseLineY" : 326.16,
+      "fontId" : 4,
+      "text" : "ninetieth days that a project is open for occupancy. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 354.695,
+      "rightX" : 522.636,
+      "topY" : 342.695,
+      "baseLineY" : 351.96,
+      "fontId" : 4,
+      "text" : "The 90-day visit is similar to the supervisory visit described in Chapter 9 of HB-2-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 368.495,
+      "rightX" : 533.3998,
+      "topY" : 356.495,
+      "baseLineY" : 365.76,
+      "fontId" : 4,
+      "text" : "3560, but will concentrate on issues appropriate to a new project (e.g., there is generally "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 382.295,
+      "rightX" : 509.6398,
+      "topY" : 370.295,
+      "baseLineY" : 379.56,
+      "fontId" : 4,
+      "text" : "no need for a physical inspection since all units are new).  The following key items "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 396.095,
+      "rightX" : 285.96,
+      "topY" : 384.095,
+      "baseLineY" : 393.36,
+      "fontId" : 4,
+      "text" : "should be examined during the visit: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 422.1551,
+      "rightX" : 113.52,
+      "topY" : 410.1551,
+      "baseLineY" : 420,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 422.8571,
+      "rightX" : 116.856,
+      "topY" : 410.8571,
+      "baseLineY" : 420,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 422.8439,
+      "rightX" : 189.36,
+      "topY" : 410.8439,
+      "baseLineY" : 420,
+      "fontId" : 3,
+      "text" : "Tenant files."
+    }, {
+      "leftX" : 189.36,
+      "bottomY" : 422.735,
+      "rightX" : 517.9221,
+      "topY" : 410.735,
+      "baseLineY" : 420,
+      "fontId" : 4,
+      "text" : "  Confirm that tenant files reflect compliance with program rent and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 436.535,
+      "rightX" : 209.64,
+      "topY" : 424.535,
+      "baseLineY" : 433.8,
+      "fontId" : 4,
+      "text" : "occupancy rules. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 462.7151,
+      "rightX" : 131.928,
+      "topY" : 450.7151,
+      "baseLineY" : 460.56,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 463.4171,
+      "rightX" : 135.216,
+      "topY" : 451.4171,
+      "baseLineY" : 460.56,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 463.295,
+      "rightX" : 489.96,
+      "topY" : 451.295,
+      "baseLineY" : 460.56,
+      "fontId" : 4,
+      "text" : "Do the files demonstrate that the units are occupied by eligible tenants? "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 489.3551,
+      "rightX" : 131.928,
+      "topY" : 477.3551,
+      "baseLineY" : 487.2,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 490.0572,
+      "rightX" : 135.216,
+      "topY" : 478.0572,
+      "baseLineY" : 487.2,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 489.935,
+      "rightX" : 524.64,
+      "topY" : 477.935,
+      "baseLineY" : 487.2,
+      "fontId" : 4,
+      "text" : "Are the rents indicated in the lease consistent with program rent requirements? "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 515.9951,
+      "rightX" : 131.928,
+      "topY" : 503.9951,
+      "baseLineY" : 513.84,
+      "fontId" : 10,
+      "text" : "◊"
+    }, {
+      "leftX" : 131.88,
+      "bottomY" : 516.6972,
+      "rightX" : 135.216,
+      "topY" : 504.6972,
+      "baseLineY" : 513.84,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 516.575,
+      "rightX" : 386.88,
+      "topY" : 504.575,
+      "baseLineY" : 513.84,
+      "fontId" : 4,
+      "text" : "Do the leases conform with agency requirements? "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 542.6351,
+      "rightX" : 113.52,
+      "topY" : 530.6351,
+      "baseLineY" : 540.48,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 543.3372,
+      "rightX" : 116.856,
+      "topY" : 531.3372,
+      "baseLineY" : 540.48,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 543.324,
+      "rightX" : 209.4001,
+      "topY" : 531.324,
+      "baseLineY" : 540.48,
+      "fontId" : 3,
+      "text" : "Marketing plan."
+    }, {
+      "leftX" : 209.4,
+      "bottomY" : 543.215,
+      "rightX" : 470.4,
+      "topY" : 531.215,
+      "baseLineY" : 540.48,
+      "fontId" : 4,
+      "text" : "  Confirm that the borrower is following the AFHMP. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 569.2751,
+      "rightX" : 113.52,
+      "topY" : 557.2751,
+      "baseLineY" : 567.12,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 569.9771,
+      "rightX" : 116.856,
+      "topY" : 557.9771,
+      "baseLineY" : 567.12,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 569.9639,
+      "rightX" : 188.76,
+      "topY" : 557.9639,
+      "baseLineY" : 567.12,
+      "fontId" : 3,
+      "text" : "Waiting list."
+    }, {
+      "leftX" : 188.76,
+      "bottomY" : 569.855,
+      "rightX" : 529.9197,
+      "topY" : 557.855,
+      "baseLineY" : 567.12,
+      "fontId" : 4,
+      "text" : "  Check the waiting list for rejections, acceptances, and withdrawals to "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 583.655,
+      "rightX" : 459.96,
+      "topY" : 571.655,
+      "baseLineY" : 580.92,
+      "fontId" : 4,
+      "text" : "confirm that selection priorities were observed and applied correctly. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 609.7152,
+      "rightX" : 113.52,
+      "topY" : 597.7152,
+      "baseLineY" : 607.5601,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 610.4172,
+      "rightX" : 116.856,
+      "topY" : 598.4172,
+      "baseLineY" : 607.5601,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 610.404,
+      "rightX" : 245.9999,
+      "topY" : 598.404,
+      "baseLineY" : 607.5601,
+      "fontId" : 3,
+      "text" : "Borrower contribution."
+    }, {
+      "leftX" : 246,
+      "bottomY" : 610.295,
+      "rightX" : 529.7997,
+      "topY" : 598.295,
+      "baseLineY" : 607.5601,
+      "fontId" : 4,
+      "text" : "  Confirm that 2 percent operating capital is being used for "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 624.095,
+      "rightX" : 538.5598,
+      "topY" : 612.095,
+      "baseLineY" : 621.36,
+      "fontId" : 4,
+      "text" : "initial operating expenses. In particular, make sure that the borrower understands that "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 637.895,
+      "rightX" : 399.5999,
+      "topY" : 625.895,
+      "baseLineY" : 635.16,
+      "fontId" : 4,
+      "text" : "these funds are to be spent on initial operating expenses. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 663.9552,
+      "rightX" : 113.52,
+      "topY" : 651.9552,
+      "baseLineY" : 661.8,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 664.6572,
+      "rightX" : 116.856,
+      "topY" : 652.6572,
+      "baseLineY" : 661.8,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 664.644,
+      "rightX" : 246.12,
+      "topY" : 652.644,
+      "baseLineY" : 661.8,
+      "fontId" : 3,
+      "text" : "Financial management."
+    }, {
+      "leftX" : 246,
+      "bottomY" : 664.535,
+      "rightX" : 537.2397,
+      "topY" : 652.535,
+      "baseLineY" : 661.8,
+      "fontId" : 4,
+      "text" : "  Confirm that all appropriate accounts have been set up and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 678.335,
+      "rightX" : 501.4799,
+      "topY" : 666.335,
+      "baseLineY" : 675.6,
+      "fontId" : 4,
+      "text" : "systems are in place to track funds.  See HB-2-3560 for guidance on financial "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 692.135,
+      "rightX" : 193.32,
+      "topY" : 680.135,
+      "baseLineY" : 689.4,
+      "fontId" : 4,
+      "text" : "management. "
+    }, {
+      "leftX" : 309.84,
+      "bottomY" : 745.9192,
+      "rightX" : 330.6862,
+      "topY" : 735.9192,
+      "baseLineY" : 743.64,
+      "fontId" : 1,
+      "text" : "8-13 "
+    }, {
+      "leftX" : 71.9964,
+      "bottomY" : 756.1239,
+      "rightX" : 74.4864,
+      "topY" : 746.1239,
+      "baseLineY" : 753.8447,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 92.28,
+      "bottomY" : 757.4391,
+      "rightX" : 173.3604,
+      "topY" : 747.4391,
+      "baseLineY" : 755.16,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 14,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0869,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 86.1551,
+      "rightX" : 113.52,
+      "topY" : 74.1551,
+      "baseLineY" : 84,
+      "fontId" : 10,
+      "text" : "•"
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 86.8571,
+      "rightX" : 116.856,
+      "topY" : 74.8571,
+      "baseLineY" : 84,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 86.8439,
+      "rightX" : 234.5999,
+      "topY" : 74.8439,
+      "baseLineY" : 84,
+      "fontId" : 3,
+      "text" : "Project maintenance."
+    }, {
+      "leftX" : 234.6,
+      "bottomY" : 86.735,
+      "rightX" : 515.1598,
+      "topY" : 74.735,
+      "baseLineY" : 84,
+      "fontId" : 4,
+      "text" : "  Confirm that the project has a maintenance plan and that "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 100.535,
+      "rightX" : 386.28,
+      "topY" : 88.535,
+      "baseLineY" : 97.8,
+      "fontId" : 4,
+      "text" : "initial maintenance has been performed satisfactorily. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 126.4439,
+      "rightX" : 313.08,
+      "topY" : 114.4439,
+      "baseLineY" : 123.6,
+      "fontId" : 3,
+      "text" : "C.  The 11-Month Warranty Inspection "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 152.1349,
+      "rightX" : 507.1199,
+      "topY" : 140.1349,
+      "baseLineY" : 149.4,
+      "fontId" : 4,
+      "text" : "Eleven months after project completion, the Agency should conduct a physical "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 165.935,
+      "rightX" : 513.84,
+      "topY" : 153.935,
+      "baseLineY" : 163.2,
+      "fontId" : 4,
+      "text" : "inspection of the property to verify the condition of items under the 1-year builder’s "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 179.735,
+      "rightX" : 520.7974,
+      "topY" : 167.735,
+      "baseLineY" : 177,
+      "fontId" : 4,
+      "text" : "warranty and ensure that there are no repairs to be made before the warranty expires.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 193.535,
+      "rightX" : 533.5198,
+      "topY" : 181.535,
+      "baseLineY" : 190.8,
+      "fontId" : 4,
+      "text" : "This inspection is a good time to check on the property’s general physical condition and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 207.3349,
+      "rightX" : 480.5998,
+      "topY" : 195.3349,
+      "baseLineY" : 204.6,
+      "fontId" : 4,
+      "text" : "address any other physical property or maintenance issues that are identified. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 233.1349,
+      "rightX" : 489,
+      "topY" : 221.1349,
+      "baseLineY" : 230.4,
+      "fontId" : 4,
+      "text" : "The 11-month warranty inspection should be monitored through the MFIS. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 258.935,
+      "rightX" : 129,
+      "topY" : 246.935,
+      "baseLineY" : 256.2,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 284.735,
+      "rightX" : 129,
+      "topY" : 272.735,
+      "baseLineY" : 282,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 310.535,
+      "rightX" : 129,
+      "topY" : 298.535,
+      "baseLineY" : 307.8,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 336.3349,
+      "rightX" : 129,
+      "topY" : 324.3349,
+      "baseLineY" : 333.6,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 362.1349,
+      "rightX" : 129,
+      "topY" : 350.1349,
+      "baseLineY" : 359.4,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 387.9349,
+      "rightX" : 129,
+      "topY" : 375.9349,
+      "baseLineY" : 385.2,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 413.7349,
+      "rightX" : 129,
+      "topY" : 401.7349,
+      "baseLineY" : 410.9999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 439.5349,
+      "rightX" : 129,
+      "topY" : 427.5349,
+      "baseLineY" : 436.7999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 465.3349,
+      "rightX" : 129,
+      "topY" : 453.3349,
+      "baseLineY" : 462.5999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 491.1349,
+      "rightX" : 129,
+      "topY" : 479.1349,
+      "baseLineY" : 488.3999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 516.9349,
+      "rightX" : 129,
+      "topY" : 504.9349,
+      "baseLineY" : 514.1999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 542.7348,
+      "rightX" : 129,
+      "topY" : 530.7348,
+      "baseLineY" : 539.9999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 568.5349,
+      "rightX" : 129,
+      "topY" : 556.5349,
+      "baseLineY" : 565.7999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 594.3349,
+      "rightX" : 129,
+      "topY" : 582.3349,
+      "baseLineY" : 591.5999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 620.1349,
+      "rightX" : 129,
+      "topY" : 608.1349,
+      "baseLineY" : 617.3999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 645.9349,
+      "rightX" : 129,
+      "topY" : 633.9349,
+      "baseLineY" : 643.1999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 671.7348,
+      "rightX" : 129,
+      "topY" : 659.7348,
+      "baseLineY" : 668.9999,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 756.1239,
+      "rightX" : 74.49,
+      "topY" : 746.1239,
+      "baseLineY" : 753.8447,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 303.84,
+      "bottomY" : 772.5592,
+      "rightX" : 324.69,
+      "topY" : 762.5592,
+      "baseLineY" : 770.28,
+      "fontId" : 1,
+      "text" : "8-14 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 15,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 494.4,
+      "bottomY" : 47.6391,
+      "rightX" : 542.4868,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3560 "
+    }, {
+      "leftX" : 484.68,
+      "bottomY" : 58.0912,
+      "rightX" : 545.13,
+      "topY" : 49.0912,
+      "baseLineY" : 56.04,
+      "fontId" : 19,
+      "text" : "Attachment 8-A "
+    }, {
+      "leftX" : 539.9968,
+      "bottomY" : 59.1629,
+      "rightX" : 542.4868,
+      "topY" : 49.1629,
+      "baseLineY" : 56.8837,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 521.88,
+      "bottomY" : 67.0912,
+      "rightX" : 545.127,
+      "topY" : 58.0912,
+      "baseLineY" : 65.04,
+      "fontId" : 19,
+      "text" : "1 of 1 "
+    }, {
+      "leftX" : 243.6,
+      "bottomY" : 88.3979,
+      "rightX" : 371.9116,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 2,
+      "text" : "ATTACHMENT 8-A "
+    }, {
+      "leftX" : 542.877,
+      "bottomY" : 77.4142,
+      "rightX" : 545.127,
+      "topY" : 68.4142,
+      "baseLineY" : 75.363,
+      "fontId" : 19,
+      "text" : " "
+    }, {
+      "leftX" : 204.4845,
+      "bottomY" : 116.478,
+      "rightX" : 411.041,
+      "topY" : 102.478,
+      "baseLineY" : 113.16,
+      "fontId" : 2,
+      "text" : "LOAN CLOSING DOCUMENTS "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 142.055,
+      "rightX" : 501.4798,
+      "topY" : 130.055,
+      "baseLineY" : 139.32,
+      "fontId" : 4,
+      "text" : "The following documents must be prepared prior to closing and will be executed/ "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 155.855,
+      "rightX" : 174.96,
+      "topY" : 143.855,
+      "baseLineY" : 153.12,
+      "fontId" : 4,
+      "text" : "submitted at closing: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 181.2011,
+      "rightX" : 113.496,
+      "topY" : 169.2011,
+      "baseLineY" : 178.92,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 181.7771,
+      "rightX" : 116.856,
+      "topY" : 169.7771,
+      "baseLineY" : 178.92,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 181.6549,
+      "rightX" : 213.996,
+      "topY" : 169.6549,
+      "baseLineY" : 178.92,
+      "fontId" : 4,
+      "text" : "Promissory Note ("
+    }, {
+      "leftX" : 213.96,
+      "bottomY" : 181.6899,
+      "rightX" : 302.64,
+      "topY" : 169.6899,
+      "baseLineY" : 178.92,
+      "fontId" : 11,
+      "text" : "Form RD 3560-52"
+    }, {
+      "leftX" : 302.64,
+      "bottomY" : 181.6549,
+      "rightX" : 313.08,
+      "topY" : 169.6549,
+      "baseLineY" : 178.92,
+      "fontId" : 4,
+      "text" : "); "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 207.0011,
+      "rightX" : 113.496,
+      "topY" : 195.0011,
+      "baseLineY" : 204.72,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 207.5771,
+      "rightX" : 116.856,
+      "topY" : 195.5771,
+      "baseLineY" : 204.72,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 207.4549,
+      "rightX" : 353.9147,
+      "topY" : 195.4549,
+      "baseLineY" : 204.72,
+      "fontId" : 4,
+      "text" : "Interest credit and rental assistance agreement ("
+    }, {
+      "leftX" : 353.88,
+      "bottomY" : 207.4899,
+      "rightX" : 436.56,
+      "topY" : 195.4899,
+      "baseLineY" : 204.72,
+      "fontId" : 11,
+      "text" : "Form RD 3560-9"
+    }, {
+      "leftX" : 436.56,
+      "bottomY" : 207.4549,
+      "rightX" : 447,
+      "topY" : 195.4549,
+      "baseLineY" : 204.72,
+      "fontId" : 4,
+      "text" : "); "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.801,
+      "rightX" : 113.496,
+      "topY" : 220.801,
+      "baseLineY" : 230.52,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 233.3771,
+      "rightX" : 116.856,
+      "topY" : 221.3771,
+      "baseLineY" : 230.52,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 233.2549,
+      "rightX" : 179.04,
+      "topY" : 221.2549,
+      "baseLineY" : 230.52,
+      "fontId" : 4,
+      "text" : "Mortgage; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 258.601,
+      "rightX" : 113.496,
+      "topY" : 246.601,
+      "baseLineY" : 256.3199,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 259.1771,
+      "rightX" : 116.856,
+      "topY" : 247.1771,
+      "baseLineY" : 256.3199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 259.0549,
+      "rightX" : 432,
+      "topY" : 247.0549,
+      "baseLineY" : 256.3199,
+      "fontId" : 4,
+      "text" : "Financing statements and/or security agreements, if applicable; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 284.401,
+      "rightX" : 113.496,
+      "topY" : 272.401,
+      "baseLineY" : 282.1199,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 284.9771,
+      "rightX" : 116.856,
+      "topY" : 272.9771,
+      "baseLineY" : 282.1199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 284.8549,
+      "rightX" : 537,
+      "topY" : 272.8549,
+      "baseLineY" : 282.1199,
+      "fontId" : 4,
+      "text" : "Title insurance (borrower must provide binder prior to closing; policy, after closing); "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 310.201,
+      "rightX" : 113.496,
+      "topY" : 298.201,
+      "baseLineY" : 307.9199,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 310.7771,
+      "rightX" : 116.856,
+      "topY" : 298.7771,
+      "baseLineY" : 307.9199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 310.6549,
+      "rightX" : 496.32,
+      "topY" : 298.6549,
+      "baseLineY" : 307.9199,
+      "fontId" : 4,
+      "text" : "Organization papers (Certificate of Good Standing, Partnership Agreement); "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 336.001,
+      "rightX" : 113.496,
+      "topY" : 324.001,
+      "baseLineY" : 333.7199,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 336.5771,
+      "rightX" : 116.856,
+      "topY" : 324.5771,
+      "baseLineY" : 333.7199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 336.4549,
+      "rightX" : 266.64,
+      "topY" : 324.4549,
+      "baseLineY" : 333.7199,
+      "fontId" : 4,
+      "text" : "Affidavits — as appropriate; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 361.801,
+      "rightX" : 113.496,
+      "topY" : 349.801,
+      "baseLineY" : 359.5199,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 362.377,
+      "rightX" : 116.856,
+      "topY" : 350.377,
+      "baseLineY" : 359.5199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 362.2549,
+      "rightX" : 274.92,
+      "topY" : 350.2549,
+      "baseLineY" : 359.5199,
+      "fontId" : 4,
+      "text" : "Evidence of payment of taxes; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 387.601,
+      "rightX" : 113.496,
+      "topY" : 375.601,
+      "baseLineY" : 385.3199,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 388.177,
+      "rightX" : 116.856,
+      "topY" : 376.177,
+      "baseLineY" : 385.3199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 388.0549,
+      "rightX" : 529.7999,
+      "topY" : 376.0549,
+      "baseLineY" : 385.3199,
+      "fontId" : 4,
+      "text" : "Evidence of all required insurance policies (property, liability, and fidelity bond) as "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 401.8548,
+      "rightX" : 183.84,
+      "topY" : 389.8548,
+      "baseLineY" : 399.1199,
+      "fontId" : 4,
+      "text" : "required by "
+    }, {
+      "leftX" : 183.96,
+      "bottomY" : 401.8898,
+      "rightX" : 272.988,
+      "topY" : 389.8898,
+      "baseLineY" : 399.1199,
+      "fontId" : 11,
+      "text" : "[7 CFR 3560.105]"
+    }, {
+      "leftX" : 273,
+      "bottomY" : 401.8548,
+      "rightX" : 279.36,
+      "topY" : 389.8548,
+      "baseLineY" : 399.1199,
+      "fontId" : 4,
+      "text" : "; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 427.2009,
+      "rightX" : 113.496,
+      "topY" : 415.2009,
+      "baseLineY" : 424.9199,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 427.777,
+      "rightX" : 116.856,
+      "topY" : 415.777,
+      "baseLineY" : 424.9199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 427.6548,
+      "rightX" : 182.64,
+      "topY" : 415.6548,
+      "baseLineY" : 424.9199,
+      "fontId" : 4,
+      "text" : "Deeds; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 453.0009,
+      "rightX" : 113.496,
+      "topY" : 441.0009,
+      "baseLineY" : 450.7198,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 453.577,
+      "rightX" : 116.856,
+      "topY" : 441.577,
+      "baseLineY" : 450.7198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 453.4548,
+      "rightX" : 256.68,
+      "topY" : 441.4548,
+      "baseLineY" : 450.7198,
+      "fontId" : 4,
+      "text" : "Loan Closing Instructions. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 479.2548,
+      "rightX" : 377.88,
+      "topY" : 467.2548,
+      "baseLineY" : 476.5198,
+      "fontId" : 4,
+      "text" : "Other items to be completed not later than loan closing: "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 504.6009,
+      "rightX" : 113.496,
+      "topY" : 492.6009,
+      "baseLineY" : 502.3198,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 505.177,
+      "rightX" : 116.856,
+      "topY" : 493.177,
+      "baseLineY" : 502.3198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 505.0548,
+      "rightX" : 283.32,
+      "topY" : 493.0548,
+      "baseLineY" : 502.3198,
+      "fontId" : 4,
+      "text" : "Meeting conditions identified in "
+    }, {
+      "leftX" : 283.32,
+      "bottomY" : 505.0897,
+      "rightX" : 529.7999,
+      "topY" : 493.0897,
+      "baseLineY" : 502.3198,
+      "fontId" : 11,
+      "text" : "Handbook Letter 102 (3560), Letter of Conditions, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 518.8897,
+      "rightX" : 315.468,
+      "topY" : 506.8897,
+      "baseLineY" : 516.1198,
+      "fontId" : 11,
+      "text" : "Loan Approval, or Obligation of Funds"
+    }, {
+      "leftX" : 315.48,
+      "bottomY" : 518.8548,
+      "rightX" : 522.3599,
+      "topY" : 506.8548,
+      "baseLineY" : 516.1198,
+      "fontId" : 4,
+      "text" : " (must be signed by the borrower and filed "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 532.6548,
+      "rightX" : 215.64,
+      "topY" : 520.6548,
+      "baseLineY" : 529.9198,
+      "fontId" : 4,
+      "text" : "with the Agency); "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 558.0009,
+      "rightX" : 113.496,
+      "topY" : 546.0009,
+      "baseLineY" : 555.7198,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 558.5769,
+      "rightX" : 116.856,
+      "topY" : 546.5769,
+      "baseLineY" : 555.7198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 558.4548,
+      "rightX" : 354.96,
+      "topY" : 546.4548,
+      "baseLineY" : 555.7198,
+      "fontId" : 4,
+      "text" : "Evidence of deposit of initial operating capital; "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 583.8009,
+      "rightX" : 113.496,
+      "topY" : 571.8009,
+      "baseLineY" : 581.5198,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 584.3769,
+      "rightX" : 116.856,
+      "topY" : 572.3769,
+      "baseLineY" : 581.5198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 584.2547,
+      "rightX" : 335.9999,
+      "topY" : 572.2547,
+      "baseLineY" : 581.5198,
+      "fontId" : 4,
+      "text" : "Evidence of initial equity contribution; and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 609.6009,
+      "rightX" : 113.496,
+      "topY" : 597.6009,
+      "baseLineY" : 607.3198,
+      "fontId" : 7,
+      "text" : ""
+    }, {
+      "leftX" : 113.52,
+      "bottomY" : 610.177,
+      "rightX" : 116.856,
+      "topY" : 598.177,
+      "baseLineY" : 607.3198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 610.0548,
+      "rightX" : 501.5998,
+      "topY" : 598.0548,
+      "baseLineY" : 607.3198,
+      "fontId" : 4,
+      "text" : "Applicant’s certification of availability or unavailability of other Government "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 623.8548,
+      "rightX" : 180,
+      "topY" : 611.8548,
+      "baseLineY" : 621.1198,
+      "fontId" : 4,
+      "text" : "assistance. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 649.6548,
+      "rightX" : 111,
+      "topY" : 637.6548,
+      "baseLineY" : 646.9198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 675.4548,
+      "rightX" : 111,
+      "topY" : 663.4548,
+      "baseLineY" : 672.7198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 701.2548,
+      "rightX" : 111,
+      "topY" : 689.2548,
+      "baseLineY" : 698.5198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 71.9964,
+      "bottomY" : 756.1238,
+      "rightX" : 74.4864,
+      "topY" : 746.1238,
+      "baseLineY" : 753.8447,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 91.2,
+      "bottomY" : 772.5592,
+      "rightX" : 172.29,
+      "topY" : 762.5592,
+      "baseLineY" : 770.28,
+      "fontId" : 1,
+      "text" : "(08-30-24)  PN 623 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "Wingdings-Regular",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 14.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "Wingdings-Regular",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 15,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 10.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 16,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 17,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 11.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 18,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#ff0000"
+  }, {
+    "id" : 19,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

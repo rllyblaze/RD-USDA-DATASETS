@@ -1,0 +1,5252 @@
+{
+  "pdfDoc" : "3555-1chapter15.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 239.3941,
+      "bottomY" : 47.6391,
+      "rightX" : 241.8991,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 59.102,
+      "rightX" : 74.495,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 197.04,
+      "bottomY" : 88.3979,
+      "rightX" : 418.4552,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 2,
+      "text" : "CHAPTER 15: SUBMITTING THE "
+    }, {
+      "leftX" : 221.28,
+      "bottomY" : 104.4779,
+      "rightX" : 394.2126,
+      "topY" : 90.4779,
+      "baseLineY" : 101.16,
+      "fontId" : 2,
+      "text" : "APPLICATION PACKAGE "
+    }, {
+      "leftX" : 261.12,
+      "bottomY" : 118.2839,
+      "rightX" : 346.8,
+      "topY" : 106.2839,
+      "baseLineY" : 115.44,
+      "fontId" : 3,
+      "text" : "[7 CFR 3555.107"
+    }, {
+      "leftX" : 346.8,
+      "bottomY" : 118.175,
+      "rightX" : 353.82,
+      "topY" : 106.175,
+      "baseLineY" : 115.44,
+      "fontId" : 4,
+      "text" : "] "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 144.0839,
+      "rightX" : 93,
+      "topY" : 132.0839,
+      "baseLineY" : 141.24,
+      "fontId" : 3,
+      "text" : "15.1"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 144.3908,
+      "rightX" : 96.336,
+      "topY" : 132.3908,
+      "baseLineY" : 141.24,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 144.0839,
+      "rightX" : 207,
+      "topY" : 132.0839,
+      "baseLineY" : 141.24,
+      "fontId" : 3,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 169.7749,
+      "rightX" : 515.3387,
+      "topY" : 157.7749,
+      "baseLineY" : 167.04,
+      "fontId" : 4,
+      "text" : "It is the lender’s responsibility to work with the applicant to ensure all necessary "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 183.5749,
+      "rightX" : 529.26,
+      "topY" : 171.5749,
+      "baseLineY" : 180.84,
+      "fontId" : 4,
+      "text" : "documentation is obtained to satisfy the requirements for loan eligibility.  Lenders may "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 197.3749,
+      "rightX" : 537.9,
+      "topY" : 185.3749,
+      "baseLineY" : 194.64,
+      "fontId" : 4,
+      "text" : "utilize industry standard forms when assembling the application package.  The loan must "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 211.1749,
+      "rightX" : 513.8398,
+      "topY" : 199.1749,
+      "baseLineY" : 208.4399,
+      "fontId" : 4,
+      "text" : "be underwritten and approved by the lender prior to submission to the Agency.  The "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 224.9149,
+      "rightX" : 505.1399,
+      "topY" : 212.9149,
+      "baseLineY" : 222.1799,
+      "fontId" : 4,
+      "text" : "Agency requires that lenders use the Guaranteed Underwriting System (GUS), the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 238.7149,
+      "rightX" : 533.939,
+      "topY" : 226.7149,
+      "baseLineY" : 235.9799,
+      "fontId" : 4,
+      "text" : "Agency’s automated underwriting system, for all supported loan products.  Lenders will "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 252.5149,
+      "rightX" : 492.2399,
+      "topY" : 240.5149,
+      "baseLineY" : 249.7799,
+      "fontId" : 4,
+      "text" : "certify upon a “final” underwriting submission that the loan has been reviewed, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 266.3149,
+      "rightX" : 510.8998,
+      "topY" : 254.3149,
+      "baseLineY" : 263.5799,
+      "fontId" : 4,
+      "text" : "underwritten, and all data entered in GUS is true, complete, accurate, and retained.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 280.1148,
+      "rightX" : 531.8997,
+      "topY" : 268.1148,
+      "baseLineY" : 277.3799,
+      "fontId" : 4,
+      "text" : "Lenders must review the GUS Underwriting Findings Report to ensure all requirements "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 293.9148,
+      "rightX" : 284.28,
+      "topY" : 281.9148,
+      "baseLineY" : 291.1799,
+      "fontId" : 4,
+      "text" : "are met.  Refer to Attachment 15-A, "
+    }, {
+      "leftX" : 284.28,
+      "bottomY" : 293.9498,
+      "rightX" : 514.9799,
+      "topY" : 281.9498,
+      "baseLineY" : 291.1799,
+      "fontId" : 6,
+      "text" : "Guaranteed Rural Housing – Loan Origination "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 307.7498,
+      "rightX" : 155.6999,
+      "topY" : 295.7498,
+      "baseLineY" : 304.9799,
+      "fontId" : 6,
+      "text" : "Checklist,"
+    }, {
+      "leftX" : 155.6999,
+      "bottomY" : 307.7148,
+      "rightX" : 525.3008,
+      "topY" : 295.7148,
+      "baseLineY" : 304.9799,
+      "fontId" : 4,
+      "text" : " for a list of required items to be provided to the Agency for a complete loan "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 321.5148,
+      "rightX" : 206.6999,
+      "topY" : 309.5148,
+      "baseLineY" : 318.7798,
+      "fontId" : 4,
+      "text" : "application package."
+    }, {
+      "leftX" : 206.6399,
+      "bottomY" : 321.6238,
+      "rightX" : 209.6399,
+      "topY" : 309.6238,
+      "baseLineY" : 318.7798,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 347.4238,
+      "rightX" : 92.9999,
+      "topY" : 335.4238,
+      "baseLineY" : 344.5798,
+      "fontId" : 3,
+      "text" : "15.2"
+    }, {
+      "leftX" : 92.9999,
+      "bottomY" : 347.7307,
+      "rightX" : 96.3359,
+      "topY" : 335.7307,
+      "baseLineY" : 344.5798,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 347.4238,
+      "rightX" : 265.9799,
+      "topY" : 335.4238,
+      "baseLineY" : 344.5798,
+      "fontId" : 3,
+      "text" : "LENDER RESPONSIBILITY "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 373.1148,
+      "rightX" : 510.2399,
+      "topY" : 361.1148,
+      "baseLineY" : 370.3798,
+      "fontId" : 4,
+      "text" : "The originating lender is responsible for the accuracy of all information used to "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 386.9148,
+      "rightX" : 492.3599,
+      "topY" : 374.9148,
+      "baseLineY" : 384.1798,
+      "fontId" : 4,
+      "text" : "obtain a Rural Development guarantee in accordance with 7 CFR 3555 and this "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 400.7148,
+      "rightX" : 528.9599,
+      "topY" : 388.7148,
+      "baseLineY" : 397.9798,
+      "fontId" : 4,
+      "text" : "Handbook.  The permanent loan file must contain verified documentation that supports "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 414.5148,
+      "rightX" : 489.2999,
+      "topY" : 402.5148,
+      "baseLineY" : 411.7798,
+      "fontId" : 4,
+      "text" : "household eligibility for the Single Family Housing Guaranteed Loan Program "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 428.3147,
+      "rightX" : 389.2799,
+      "topY" : 416.3147,
+      "baseLineY" : 425.5798,
+      "fontId" : 4,
+      "text" : "(SFHGLP) and the lender’s approval of the loan request.   "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 454.1147,
+      "rightX" : 515.9419,
+      "topY" : 442.1147,
+      "baseLineY" : 451.3798,
+      "fontId" : 4,
+      "text" : "Lenders are not authorized to close loans prior to the issuance of the Conditional "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 467.9147,
+      "rightX" : 518.043,
+      "topY" : 455.9147,
+      "baseLineY" : 465.1797,
+      "fontId" : 4,
+      "text" : "Commitment.  Closing a loan prior to obtaining a Conditional Commitment from the "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 481.7147,
+      "rightX" : 529.1397,
+      "topY" : 469.7147,
+      "baseLineY" : 478.9797,
+      "fontId" : 4,
+      "text" : "Agency will render that loan submission ineligible for a Loan Note Guarantee and may "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 495.5147,
+      "rightX" : 415.4999,
+      "topY" : 483.5147,
+      "baseLineY" : 492.7797,
+      "fontId" : 4,
+      "text" : "affect the lender’s approval status to participate in the program. "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 509.3147,
+      "rightX" : 74.9999,
+      "topY" : 497.3147,
+      "baseLineY" : 506.5797,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 523.2236,
+      "rightX" : 92.9999,
+      "topY" : 511.2236,
+      "baseLineY" : 520.3797,
+      "fontId" : 3,
+      "text" : "15.3"
+    }, {
+      "leftX" : 92.9999,
+      "bottomY" : 523.5305,
+      "rightX" : 96.3359,
+      "topY" : 511.5305,
+      "baseLineY" : 520.3797,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 523.2236,
+      "rightX" : 295.6799,
+      "topY" : 511.2236,
+      "baseLineY" : 520.3797,
+      "fontId" : 3,
+      "text" : "LOAN APPLICATION PACKAGE "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 549.0236,
+      "rightX" : 119.6399,
+      "topY" : 537.0236,
+      "baseLineY" : 546.1797,
+      "fontId" : 3,
+      "text" : "A."
+    }, {
+      "leftX" : 119.6399,
+      "bottomY" : 549.3305,
+      "rightX" : 122.9759,
+      "topY" : 537.3305,
+      "baseLineY" : 546.1797,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 549.0236,
+      "rightX" : 285.6599,
+      "topY" : 537.0236,
+      "baseLineY" : 546.1797,
+      "fontId" : 3,
+      "text" : "Manually Underwritten Loans "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 574.7149,
+      "rightX" : 343.56,
+      "topY" : 562.7149,
+      "baseLineY" : 571.98,
+      "fontId" : 4,
+      "text" : "Manually underwritten loans are defined as:  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 600.7751,
+      "rightX" : 131.52,
+      "topY" : 588.7751,
+      "baseLineY" : 598.62,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 601.4771,
+      "rightX" : 134.856,
+      "topY" : 589.4771,
+      "baseLineY" : 598.62,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 601.355,
+      "rightX" : 519.8998,
+      "topY" : 589.355,
+      "baseLineY" : 598.62,
+      "fontId" : 4,
+      "text" : "GUS applications that receive an underwriting recommendation of “Refer” or "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 615.1549,
+      "rightX" : 252.6,
+      "topY" : 603.1549,
+      "baseLineY" : 612.42,
+      "fontId" : 4,
+      "text" : "“Refer with Caution.” "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 640.9549,
+      "rightX" : 536.8799,
+      "topY" : 628.9549,
+      "baseLineY" : 638.22,
+      "fontId" : 4,
+      "text" : "These loan applications are submitted as final in GUS and, based on the GUS "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 643.0171,
+      "rightX" : 151.2,
+      "topY" : 631.0171,
+      "baseLineY" : 638.22,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 151.2,
+      "bottomY" : 641.0771,
+      "rightX" : 154.536,
+      "topY" : 629.0771,
+      "baseLineY" : 638.22,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 654.755,
+      "rightX" : 537.5999,
+      "topY" : 642.755,
+      "baseLineY" : 652.02,
+      "fontId" : 4,
+      "text" : "recommendation, must be manually underwritten by the lender’s underwriter. "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 680.6639,
+      "rightX" : 74.9999,
+      "topY" : 668.6639,
+      "baseLineY" : 677.82,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 181.9199,
+      "bottomY" : 680.6639,
+      "rightX" : 184.9199,
+      "topY" : 668.6639,
+      "baseLineY" : 677.82,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 181.1779,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN  "
+    }, {
+      "leftX" : 278.8729,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6744,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "15-1 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 187.8342,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : "Revised (08-05-25)  PN 649 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 239.3941,
+      "bottomY" : 47.6391,
+      "rightX" : 241.8991,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 59.102,
+      "rightX" : 243.6326,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 15.3 Loan Application Package "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 88.0171,
+      "rightX" : 151.2,
+      "topY" : 76.0171,
+      "baseLineY" : 83.22,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 151.2,
+      "bottomY" : 86.0771,
+      "rightX" : 154.536,
+      "topY" : 74.0771,
+      "baseLineY" : 83.22,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 85.9549,
+      "rightX" : 517.62,
+      "topY" : 73.9549,
+      "baseLineY" : 83.22,
+      "fontId" : 4,
+      "text" : "Additional documentation, in accordance with Attachment 15-A, must be "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 99.7549,
+      "rightX" : 541.56,
+      "topY" : 87.7549,
+      "baseLineY" : 97.02,
+      "fontId" : 4,
+      "text" : "provided to the Agency along with the request for a Conditional Commitment. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.6639,
+      "rightX" : 118.98,
+      "topY" : 113.6639,
+      "baseLineY" : 122.8199,
+      "fontId" : 3,
+      "text" : "B."
+    }, {
+      "leftX" : 118.98,
+      "bottomY" : 125.5549,
+      "rightX" : 124.98,
+      "topY" : 113.5549,
+      "baseLineY" : 122.8199,
+      "fontId" : 4,
+      "text" : "  "
+    }, {
+      "leftX" : 124.98,
+      "bottomY" : 125.6639,
+      "rightX" : 265.008,
+      "topY" : 113.6639,
+      "baseLineY" : 122.8199,
+      "fontId" : 3,
+      "text" : "Manually Submitted Loans"
+    }, {
+      "leftX" : 265.08,
+      "bottomY" : 125.5549,
+      "rightX" : 268.08,
+      "topY" : 113.5549,
+      "baseLineY" : 122.8199,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 151.355,
+      "rightX" : 326.58,
+      "topY" : 139.355,
+      "baseLineY" : 148.62,
+      "fontId" : 4,
+      "text" : "Manually submitted loans are defined as: "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 177.4151,
+      "rightX" : 149.52,
+      "topY" : 165.4151,
+      "baseLineY" : 175.26,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 178.1172,
+      "rightX" : 152.856,
+      "topY" : 166.1172,
+      "baseLineY" : 175.26,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 177.995,
+      "rightX" : 513.96,
+      "topY" : 165.995,
+      "baseLineY" : 175.26,
+      "fontId" : 4,
+      "text" : "Any loan type that is unsupported by GUS, including Streamlined Assist "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 191.795,
+      "rightX" : 400.92,
+      "topY" : 179.795,
+      "baseLineY" : 189.06,
+      "fontId" : 4,
+      "text" : "Refinance transactions and select pilot programs. "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 219.6572,
+      "rightX" : 169.2,
+      "topY" : 207.6572,
+      "baseLineY" : 214.86,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 169.2,
+      "bottomY" : 217.7171,
+      "rightX" : 172.536,
+      "topY" : 205.7171,
+      "baseLineY" : 214.86,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 217.595,
+      "rightX" : 523.3201,
+      "topY" : 205.595,
+      "baseLineY" : 214.86,
+      "fontId" : 4,
+      "text" : "These loan applications must be manually underwritten by the lender’s "
+    }, {
+      "leftX" : 180.0001,
+      "bottomY" : 231.3949,
+      "rightX" : 241.9801,
+      "topY" : 219.3949,
+      "baseLineY" : 228.66,
+      "fontId" : 4,
+      "text" : "underwriter. "
+    }, {
+      "leftX" : 162.0001,
+      "bottomY" : 259.2571,
+      "rightX" : 169.2001,
+      "topY" : 247.2571,
+      "baseLineY" : 254.46,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 169.2001,
+      "bottomY" : 257.3171,
+      "rightX" : 172.5361,
+      "topY" : 245.3171,
+      "baseLineY" : 254.46,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 180.0001,
+      "bottomY" : 257.1949,
+      "rightX" : 530.5176,
+      "topY" : 245.1949,
+      "baseLineY" : 254.46,
+      "fontId" : 4,
+      "text" : "The associated documents must be uploaded via GUS, however no GUS "
+    }, {
+      "leftX" : 180.0001,
+      "bottomY" : 270.9949,
+      "rightX" : 327.3,
+      "topY" : 258.9949,
+      "baseLineY" : 268.2599,
+      "fontId" : 4,
+      "text" : "recommendation is generated. "
+    }, {
+      "leftX" : 162.0001,
+      "bottomY" : 298.8571,
+      "rightX" : 169.2001,
+      "topY" : 286.8571,
+      "baseLineY" : 294.0599,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 169.2001,
+      "bottomY" : 296.9171,
+      "rightX" : 172.5361,
+      "topY" : 284.9171,
+      "baseLineY" : 294.0599,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 180.0001,
+      "bottomY" : 310.5949,
+      "rightX" : 506.6399,
+      "topY" : 298.5949,
+      "baseLineY" : 307.8599,
+      "fontId" : 4,
+      "text" : "LINC Training and Resource Library in the “Loan Origination” tab "
+    }, {
+      "leftX" : 180.0001,
+      "bottomY" : 296.7949,
+      "rightX" : 519.7798,
+      "topY" : 284.7949,
+      "baseLineY" : 294.0599,
+      "fontId" : 4,
+      "text" : "A job aid for this type of manual submission is available in the USDA "
+    }, {
+      "leftX" : 180.0001,
+      "bottomY" : 324.3949,
+      "rightX" : 226.356,
+      "topY" : 312.3949,
+      "baseLineY" : 321.6599,
+      "fontId" : 4,
+      "text" : "located at"
+    }, {
+      "leftX" : 226.3801,
+      "bottomY" : 324.3949,
+      "rightX" : 229.3801,
+      "topY" : 312.3949,
+      "baseLineY" : 321.6599,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 229.3801,
+      "bottomY" : 324.3949,
+      "rightX" : 533.616,
+      "topY" : 312.3949,
+      "baseLineY" : 321.6599,
+      "fontId" : 11,
+      "text" : "https://www.rd.usda.gov/resources/usda-linc-training-resource-"
+    }, {
+      "leftX" : 180,
+      "bottomY" : 338.195,
+      "rightX" : 292.74,
+      "topY" : 326.195,
+      "baseLineY" : 335.46,
+      "fontId" : 11,
+      "text" : "library/loan-origination"
+    }, {
+      "leftX" : 292.74,
+      "bottomY" : 338.195,
+      "rightX" : 295.74,
+      "topY" : 326.195,
+      "baseLineY" : 335.46,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 295.68,
+      "bottomY" : 338.195,
+      "rightX" : 514.9786,
+      "topY" : 326.195,
+      "baseLineY" : 335.46,
+      "fontId" : 4,
+      "text" : "under “Documents and Resources,” “Manual "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 351.995,
+      "rightX" : 288.06,
+      "topY" : 339.995,
+      "baseLineY" : 349.26,
+      "fontId" : 4,
+      "text" : "Submission Job Aid.” "
+    }, {
+      "leftX" : 111,
+      "bottomY" : 377.9039,
+      "rightX" : 122.64,
+      "topY" : 365.9039,
+      "baseLineY" : 375.06,
+      "fontId" : 3,
+      "text" : "C."
+    }, {
+      "leftX" : 122.64,
+      "bottomY" : 378.2108,
+      "rightX" : 125.976,
+      "topY" : 366.2108,
+      "baseLineY" : 375.06,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 129,
+      "bottomY" : 377.9039,
+      "rightX" : 405.6493,
+      "topY" : 365.9039,
+      "baseLineY" : 375.06,
+      "fontId" : 3,
+      "text" : "Guaranteed Underwriting System - GUS Accept loans"
+    }, {
+      "leftX" : 405.6,
+      "bottomY" : 377.795,
+      "rightX" : 408.6,
+      "topY" : 365.795,
+      "baseLineY" : 375.06,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 403.6113,
+      "rightX" : 139.5,
+      "topY" : 391.6113,
+      "baseLineY" : 400.86,
+      "fontId" : 12,
+      "text" : "1."
+    }, {
+      "leftX" : 139.5,
+      "bottomY" : 404.0967,
+      "rightX" : 142.836,
+      "topY" : 392.0967,
+      "baseLineY" : 400.86,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 153,
+      "bottomY" : 403.6113,
+      "rightX" : 352.38,
+      "topY" : 391.6113,
+      "baseLineY" : 400.86,
+      "fontId" : 12,
+      "text" : "Streamlined Documentation Loan Files "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 429.3949,
+      "rightX" : 526.68,
+      "topY" : 417.3949,
+      "baseLineY" : 426.66,
+      "fontId" : 4,
+      "text" : "When GUS renders an underwriting recommendation of “Accept,” this allows "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 443.1949,
+      "rightX" : 480.4821,
+      "topY" : 431.1949,
+      "baseLineY" : 440.46,
+      "fontId" : 4,
+      "text" : "the lender to submit streamlined documentation to request a Conditional "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 456.9949,
+      "rightX" : 196.86,
+      "topY" : 444.9949,
+      "baseLineY" : 454.2599,
+      "fontId" : 4,
+      "text" : "Commitment."
+    }, {
+      "leftX" : 196.86,
+      "bottomY" : 457.1039,
+      "rightX" : 202.86,
+      "topY" : 445.1039,
+      "baseLineY" : 454.2599,
+      "fontId" : 3,
+      "text" : "  "
+    }, {
+      "leftX" : 202.86,
+      "bottomY" : 456.9949,
+      "rightX" : 527.6401,
+      "topY" : 444.9949,
+      "baseLineY" : 454.2599,
+      "fontId" : 4,
+      "text" : "Information regarding processing procedures is located in the GUS "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 470.7949,
+      "rightX" : 235.2,
+      "topY" : 458.7949,
+      "baseLineY" : 468.0599,
+      "fontId" : 4,
+      "text" : "User Guide posted to "
+    }, {
+      "leftX" : 235.2,
+      "bottomY" : 470.7949,
+      "rightX" : 539.436,
+      "topY" : 458.7949,
+      "baseLineY" : 468.0599,
+      "fontId" : 11,
+      "text" : "https://www.rd.usda.gov/resources/usda-linc-training-resource-"
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 484.595,
+      "rightX" : 321.756,
+      "topY" : 472.595,
+      "baseLineY" : 481.86,
+      "fontId" : 11,
+      "text" : "library/guaranteed-underwriting-system"
+    }, {
+      "leftX" : 321.78,
+      "bottomY" : 484.595,
+      "rightX" : 324.78,
+      "topY" : 472.595,
+      "baseLineY" : 481.86,
+      "fontId" : 11,
+      "text" : "."
+    }, {
+      "leftX" : 324.78,
+      "bottomY" : 484.7039,
+      "rightX" : 327.78,
+      "topY" : 472.7039,
+      "baseLineY" : 481.86,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 327.72,
+      "bottomY" : 484.595,
+      "rightX" : 330.72,
+      "topY" : 472.595,
+      "baseLineY" : 481.86,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 510.4113,
+      "rightX" : 139.5,
+      "topY" : 498.4113,
+      "baseLineY" : 507.66,
+      "fontId" : 12,
+      "text" : "2."
+    }, {
+      "leftX" : 139.5,
+      "bottomY" : 510.8967,
+      "rightX" : 142.836,
+      "topY" : 498.8967,
+      "baseLineY" : 507.66,
+      "fontId" : 13,
+      "text" : " "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 510.4113,
+      "rightX" : 309.18,
+      "topY" : 498.4113,
+      "baseLineY" : 507.66,
+      "fontId" : 12,
+      "text" : "Full Documentation Loan Files "
+    }, {
+      "leftX" : 148.5,
+      "bottomY" : 536.1949,
+      "rightX" : 537.72,
+      "topY" : 524.1949,
+      "baseLineY" : 533.46,
+      "fontId" : 4,
+      "text" : "GUS “Accept with Full Documentation” loan files require additional items to be "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 549.995,
+      "rightX" : 529.0798,
+      "topY" : 537.995,
+      "baseLineY" : 547.26,
+      "fontId" : 4,
+      "text" : "submitted to the Agency.  Full documentation submissions are not re-underwritten "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 563.795,
+      "rightX" : 535.7997,
+      "topY" : 551.795,
+      "baseLineY" : 561.06,
+      "fontId" : 4,
+      "text" : "by the Agency.  Full documentation loan files will undergo a review to compare the "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 577.595,
+      "rightX" : 509.4587,
+      "topY" : 565.595,
+      "baseLineY" : 574.86,
+      "fontId" : 4,
+      "text" : "data entered by the lender to the submitted documentation.  Any discrepancies "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 74.505,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 278.8829,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6844,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "15-2 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 74.505,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 59.102,
+      "rightX" : 243.6326,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 15.3 Loan Application Package "
+    }, {
+      "leftX" : 334.1833,
+      "bottomY" : 59.102,
+      "rightX" : 336.6883,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 85.9549,
+      "rightX" : 539.3398,
+      "topY" : 73.9549,
+      "baseLineY" : 83.22,
+      "fontId" : 4,
+      "text" : "identified by the Agency will be reviewed with the approved lender before the file is "
+    }, {
+      "leftX" : 130.5,
+      "bottomY" : 99.7549,
+      "rightX" : 292.44,
+      "topY" : 87.7549,
+      "baseLineY" : 97.02,
+      "fontId" : 4,
+      "text" : "released for correction or denied. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 125.6639,
+      "rightX" : 93,
+      "topY" : 113.6639,
+      "baseLineY" : 122.8199,
+      "fontId" : 3,
+      "text" : "15.4"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 125.9708,
+      "rightX" : 96.336,
+      "topY" : 113.9708,
+      "baseLineY" : 122.8199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 125.6639,
+      "rightX" : 272.7,
+      "topY" : 113.6639,
+      "baseLineY" : 122.8199,
+      "fontId" : 3,
+      "text" : "ELECTRONIC SIGNATURES "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 151.3549,
+      "rightX" : 540.8973,
+      "topY" : 139.3549,
+      "baseLineY" : 148.6199,
+      "fontId" : 4,
+      "text" : "Rural Development will accept electronic signatures for origination, loan closing, and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 165.1549,
+      "rightX" : 524.5798,
+      "topY" : 153.1549,
+      "baseLineY" : 162.4199,
+      "fontId" : 4,
+      "text" : "servicing documents unless otherwise prohibited by law or program.  This guidance is "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 178.9549,
+      "rightX" : 453.84,
+      "topY" : 166.9549,
+      "baseLineY" : 176.2199,
+      "fontId" : 4,
+      "text" : "limited to lenders.  Agency staff will continue to follow internal policy. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 204.7549,
+      "rightX" : 529.3199,
+      "topY" : 192.7549,
+      "baseLineY" : 202.0199,
+      "fontId" : 4,
+      "text" : "7 CFR 3555 does not prohibit or consent to electronic signatures.  Lenders may use "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 218.5549,
+      "rightX" : 511.2561,
+      "topY" : 206.5549,
+      "baseLineY" : 215.8199,
+      "fontId" : 4,
+      "text" : "electronic signatures when the lender perfects and maintains a first lien position, an "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.3548,
+      "rightX" : 520.68,
+      "topY" : 220.3548,
+      "baseLineY" : 229.6199,
+      "fontId" : 4,
+      "text" : "enforceable promissory note, and meets all other agency requirements.  This includes "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 246.1548,
+      "rightX" : 531.5399,
+      "topY" : 234.1548,
+      "baseLineY" : 243.4199,
+      "fontId" : 4,
+      "text" : "electronic promissory notes (eNotes), deed of trust, and other documents relevant to the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 259.9548,
+      "rightX" : 513.6021,
+      "topY" : 247.9548,
+      "baseLineY" : 257.2198,
+      "fontId" : 4,
+      "text" : "loan transaction.  Lenders should be familiar with the securitization requirements of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 273.7548,
+      "rightX" : 479.2799,
+      "topY" : 261.7548,
+      "baseLineY" : 271.0198,
+      "fontId" : 4,
+      "text" : "government sponsored enterprises (GSE), such as Ginnie Mae, regarding the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 287.5548,
+      "rightX" : 236.64,
+      "topY" : 275.5548,
+      "baseLineY" : 284.8198,
+      "fontId" : 4,
+      "text" : "transferability of eNotes.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 313.3548,
+      "rightX" : 514.6136,
+      "topY" : 301.3548,
+      "baseLineY" : 310.6198,
+      "fontId" : 4,
+      "text" : "Lenders who choose to accept electronic signatures must meet the standards and "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 327.1548,
+      "rightX" : 532.1987,
+      "topY" : 315.1548,
+      "baseLineY" : 324.4198,
+      "fontId" : 4,
+      "text" : "requirements set forth in the E-Sign Act, as well as all other applicable federal and state "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 340.9548,
+      "rightX" : 514.5597,
+      "topY" : 328.9548,
+      "baseLineY" : 338.2198,
+      "fontId" : 4,
+      "text" : "regulations and guidelines.  Lenders are charged with the same responsibility of due "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 354.7547,
+      "rightX" : 509.22,
+      "topY" : 342.7547,
+      "baseLineY" : 352.0198,
+      "fontId" : 4,
+      "text" : "diligence with electronically signed documents as they are with paper documents.   "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 368.5547,
+      "rightX" : 110.9999,
+      "topY" : 356.5547,
+      "baseLineY" : 365.8198,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 382.3547,
+      "rightX" : 531.5997,
+      "topY" : 370.3547,
+      "baseLineY" : 379.6198,
+      "fontId" : 4,
+      "text" : "If any electronically signed document is deemed unenforceable (e.g. the promissory "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 396.1547,
+      "rightX" : 517.3197,
+      "topY" : 384.1547,
+      "baseLineY" : 393.4197,
+      "fontId" : 4,
+      "text" : "note, mortgage, or deed of trust) and is connected to any fraud, misrepresentation, or "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 409.9547,
+      "rightX" : 530.5797,
+      "topY" : 397.9547,
+      "baseLineY" : 407.2197,
+      "fontId" : 4,
+      "text" : "negligent servicing, the lender bears the risk that any loss claim submitted in relation to "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 423.7547,
+      "rightX" : 517.7997,
+      "topY" : 411.7547,
+      "baseLineY" : 421.0197,
+      "fontId" : 4,
+      "text" : "the unenforceable document will be denied or reduced in accordance with applicable "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 437.5547,
+      "rightX" : 539.2208,
+      "topY" : 425.5547,
+      "baseLineY" : 434.8197,
+      "fontId" : 4,
+      "text" : "regulations.  The lender’s failure to collect on the promissory note or enforce the security "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 451.3547,
+      "rightX" : 537.4799,
+      "topY" : 439.3547,
+      "baseLineY" : 448.6197,
+      "fontId" : 4,
+      "text" : "instrument because of its electronic signature will be treated as negligent servicing under "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 465.1546,
+      "rightX" : 214.9799,
+      "topY" : 453.1546,
+      "baseLineY" : 462.4197,
+      "fontId" : 4,
+      "text" : "SFHGLP regulations. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 478.8946,
+      "rightX" : 128.9999,
+      "topY" : 466.8946,
+      "baseLineY" : 476.1597,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 492.6946,
+      "rightX" : 539.8807,
+      "topY" : 480.6946,
+      "baseLineY" : 489.9597,
+      "fontId" : 4,
+      "text" : "Failure to comply with any Federal statute or regulation could result in the denial of a "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 506.4946,
+      "rightX" : 537.8996,
+      "topY" : 494.4946,
+      "baseLineY" : 503.7596,
+      "fontId" : 4,
+      "text" : "loan guarantee or claim, withdrawal of lending authority, and/or debarment from Federal "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 520.2946,
+      "rightX" : 159.2999,
+      "topY" : 508.2946,
+      "baseLineY" : 517.5596,
+      "fontId" : 4,
+      "text" : "programs. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 534.0946,
+      "rightX" : 128.9999,
+      "topY" : 522.0946,
+      "baseLineY" : 531.3596,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 548.0035,
+      "rightX" : 92.9999,
+      "topY" : 536.0035,
+      "baseLineY" : 545.1596,
+      "fontId" : 3,
+      "text" : "15.5"
+    }, {
+      "leftX" : 92.9999,
+      "bottomY" : 548.3104,
+      "rightX" : 96.3359,
+      "topY" : 536.3104,
+      "baseLineY" : 545.1596,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 548.0035,
+      "rightX" : 388.6799,
+      "topY" : 536.0035,
+      "baseLineY" : 545.1596,
+      "fontId" : 3,
+      "text" : "AGENCY REVIEW OF APPLICATION PACKAGE  "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 573.6946,
+      "rightX" : 536.2173,
+      "topY" : 561.6946,
+      "baseLineY" : 570.9596,
+      "fontId" : 4,
+      "text" : "The Agency’s automated system will track the date and time the application package "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 587.4946,
+      "rightX" : 516.8397,
+      "topY" : 575.4946,
+      "baseLineY" : 584.7596,
+      "fontId" : 4,
+      "text" : "is received.  Agency review of the application package is completed in the order it is "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 601.2946,
+      "rightX" : 542.5161,
+      "topY" : 589.2946,
+      "baseLineY" : 598.5596,
+      "fontId" : 4,
+      "text" : "received.  As outlined below, there are circumstances which may require a more thorough "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 615.0946,
+      "rightX" : 492.1799,
+      "topY" : 603.0946,
+      "baseLineY" : 612.3596,
+      "fontId" : 4,
+      "text" : "review by the Agency.  In these situations, the Agency will contact the lender.   "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 641.0036,
+      "rightX" : 119.6399,
+      "topY" : 629.0036,
+      "baseLineY" : 638.1597,
+      "fontId" : 3,
+      "text" : "A."
+    }, {
+      "leftX" : 119.6399,
+      "bottomY" : 641.3105,
+      "rightX" : 122.9759,
+      "topY" : 629.3105,
+      "baseLineY" : 638.1597,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 641.0036,
+      "rightX" : 274.6799,
+      "topY" : 629.0036,
+      "baseLineY" : 638.1597,
+      "fontId" : 3,
+      "text" : "Content of Standard Review "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 666.6946,
+      "rightX" : 499.5584,
+      "topY" : 654.6946,
+      "baseLineY" : 663.9597,
+      "fontId" : 4,
+      "text" : "In general, the Agency will review applications to determine that all program "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 680.4946,
+      "rightX" : 527.16,
+      "topY" : 668.4946,
+      "baseLineY" : 677.7596,
+      "fontId" : 4,
+      "text" : "requirements have been met.  The lender has sole responsibility to properly underwrite "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 694.2946,
+      "rightX" : 498.1798,
+      "topY" : 682.2946,
+      "baseLineY" : 691.5596,
+      "fontId" : 4,
+      "text" : "the loan and ensure program requirements have been met.  Agency review of the "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 178.6529,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 287.9911,
+      "bottomY" : 708.5991,
+      "rightX" : 290.4961,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 296.8688,
+      "bottomY" : 708.5991,
+      "rightX" : 317.6703,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "15-3 "
+    }, {
+      "leftX" : 355.3055,
+      "bottomY" : 708.5991,
+      "rightX" : 357.8105,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 187.8342,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : "Revised (08-05-25)  PN 649 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 239.3941,
+      "bottomY" : 47.6391,
+      "rightX" : 241.8991,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 59.102,
+      "rightX" : 298.0512,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 15.5 Agency Review of Application Package "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 85.9549,
+      "rightX" : 507.2937,
+      "topY" : 73.9549,
+      "baseLineY" : 83.22,
+      "fontId" : 4,
+      "text" : "application does not relieve the lender of these responsibilities.  Agency staff must "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.7549,
+      "rightX" : 219.96,
+      "topY" : 87.7549,
+      "baseLineY" : 97.02,
+      "fontId" : 4,
+      "text" : "determine if the loan:   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 125.8151,
+      "rightX" : 131.52,
+      "topY" : 113.8151,
+      "baseLineY" : 123.66,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 126.5171,
+      "rightX" : 134.856,
+      "topY" : 114.5171,
+      "baseLineY" : 123.66,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 126.3949,
+      "rightX" : 316.56,
+      "topY" : 114.3949,
+      "baseLineY" : 123.66,
+      "fontId" : 4,
+      "text" : "Is located in an eligible rural area,   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 152.4551,
+      "rightX" : 131.52,
+      "topY" : 140.4551,
+      "baseLineY" : 150.3,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 153.1571,
+      "rightX" : 134.856,
+      "topY" : 141.1571,
+      "baseLineY" : 150.3,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 153.035,
+      "rightX" : 338.94,
+      "topY" : 141.035,
+      "baseLineY" : 150.3,
+      "fontId" : 4,
+      "text" : "Meets the adjusted annual income limit, "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 179.1551,
+      "rightX" : 131.52,
+      "topY" : 167.1551,
+      "baseLineY" : 177,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 179.8571,
+      "rightX" : 134.856,
+      "topY" : 167.8571,
+      "baseLineY" : 177,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 179.735,
+      "rightX" : 436.2,
+      "topY" : 167.735,
+      "baseLineY" : 177,
+      "fontId" : 4,
+      "text" : "Has appropriate collateral value to support the loan request,  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 205.7951,
+      "rightX" : 131.52,
+      "topY" : 193.7951,
+      "baseLineY" : 203.64,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 206.4972,
+      "rightX" : 134.856,
+      "topY" : 194.4972,
+      "baseLineY" : 203.64,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 206.375,
+      "rightX" : 455.3398,
+      "topY" : 194.375,
+      "baseLineY" : 203.64,
+      "fontId" : 4,
+      "text" : "Meets environmental requirements of RD Instruction 1970, and  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 232.4351,
+      "rightX" : 131.52,
+      "topY" : 220.4351,
+      "baseLineY" : 230.28,
+      "fontId" : 7,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 233.1372,
+      "rightX" : 134.856,
+      "topY" : 221.1372,
+      "baseLineY" : 230.28,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 233.015,
+      "rightX" : 471.5999,
+      "topY" : 221.015,
+      "baseLineY" : 230.28,
+      "fontId" : 4,
+      "text" : "Meets applicable requirements of 7 CFR 3555 and this Handbook.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 258.875,
+      "rightX" : 523.68,
+      "topY" : 246.875,
+      "baseLineY" : 256.14,
+      "fontId" : 4,
+      "text" : "Agency staff will utilize the SFHGLP Documentation and Processing Checklist in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 272.675,
+      "rightX" : 487.6786,
+      "topY" : 260.675,
+      "baseLineY" : 269.94,
+      "fontId" : 4,
+      "text" : "their review of Conditional Commitment requests, which assists in the review, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 286.475,
+      "rightX" : 326.88,
+      "topY" : 274.475,
+      "baseLineY" : 283.74,
+      "fontId" : 4,
+      "text" : "processing, and closing of a guaranteed loan. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 312.3839,
+      "rightX" : 118.98,
+      "topY" : 300.3839,
+      "baseLineY" : 309.54,
+      "fontId" : 3,
+      "text" : "B."
+    }, {
+      "leftX" : 118.98,
+      "bottomY" : 312.6908,
+      "rightX" : 122.316,
+      "topY" : 300.6908,
+      "baseLineY" : 309.54,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 312.3839,
+      "rightX" : 393.24,
+      "topY" : 300.3839,
+      "baseLineY" : 309.54,
+      "fontId" : 3,
+      "text" : "Agency Review of Lender’s Underwriting Decisions "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 338.0749,
+      "rightX" : 535.98,
+      "topY" : 326.0749,
+      "baseLineY" : 335.34,
+      "fontId" : 4,
+      "text" : "It is the approved lender’s responsibility to underwrite loans, however, under limited "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 351.8749,
+      "rightX" : 525.7787,
+      "topY" : 339.8749,
+      "baseLineY" : 349.14,
+      "fontId" : 4,
+      "text" : "circumstances, the Agency may determine that a more thorough review of the lender’s "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 365.6749,
+      "rightX" : 524.5798,
+      "topY" : 353.6749,
+      "baseLineY" : 362.9399,
+      "fontId" : 4,
+      "text" : "submission should be performed.  The Agency must notify the lender in writing of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 379.4149,
+      "rightX" : 541.9197,
+      "topY" : 367.4149,
+      "baseLineY" : 376.6799,
+      "fontId" : 4,
+      "text" : "additional review.  The Agency may review the lender’s underwriting decisions under the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 393.2149,
+      "rightX" : 231.96,
+      "topY" : 381.2149,
+      "baseLineY" : 390.4799,
+      "fontId" : 4,
+      "text" : "following circumstances: "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 419.0312,
+      "rightX" : 331.98,
+      "topY" : 407.0312,
+      "baseLineY" : 416.2799,
+      "fontId" : 12,
+      "text" : "1.   Lenders who are new to the program  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 444.8149,
+      "rightX" : 504.48,
+      "topY" : 432.8149,
+      "baseLineY" : 442.0799,
+      "fontId" : 4,
+      "text" : "When a new lender is approved for participation in the program, the initial "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 458.6148,
+      "rightX" : 542.2198,
+      "topY" : 446.6148,
+      "baseLineY" : 455.8799,
+      "fontId" : 4,
+      "text" : "application submissions will receive a thorough Agency review, including a review of "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 472.4148,
+      "rightX" : 510.5999,
+      "topY" : 460.4148,
+      "baseLineY" : 469.6799,
+      "fontId" : 4,
+      "text" : "the lender’s underwriting decisions.  The purpose of these reviews is to provide "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 486.2148,
+      "rightX" : 531.8375,
+      "topY" : 474.2148,
+      "baseLineY" : 483.4799,
+      "fontId" : 4,
+      "text" : "training and ensure that the lender has a complete and accurate understanding of the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 500.0148,
+      "rightX" : 478.6199,
+      "topY" : 488.0148,
+      "baseLineY" : 497.2798,
+      "fontId" : 4,
+      "text" : "Agency’s requirements.  The Agency will continue to review new lender "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 513.8148,
+      "rightX" : 520.6198,
+      "topY" : 501.8148,
+      "baseLineY" : 511.0798,
+      "fontId" : 4,
+      "text" : "underwriting decisions until the Agency is confident that the lender is performing "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 527.6148,
+      "rightX" : 538.4999,
+      "topY" : 515.6148,
+      "baseLineY" : 524.8798,
+      "fontId" : 4,
+      "text" : "satisfactorily.  Additional training is provided when incomplete or deficient packages "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 541.4148,
+      "rightX" : 315.5999,
+      "topY" : 529.4148,
+      "baseLineY" : 538.6798,
+      "fontId" : 4,
+      "text" : "are received during initial submission.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 567.2312,
+      "rightX" : 435.0538,
+      "topY" : 555.2312,
+      "baseLineY" : 564.4799,
+      "fontId" : 12,
+      "text" : "2.   Lenders that submit incomplete or inaccurate applications "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 593.0148,
+      "rightX" : 504.5387,
+      "topY" : 581.0148,
+      "baseLineY" : 590.2798,
+      "fontId" : 4,
+      "text" : "If a lender submits incomplete applications or applications with inaccurate "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 606.8148,
+      "rightX" : 525.5997,
+      "topY" : 594.8148,
+      "baseLineY" : 604.0798,
+      "fontId" : 4,
+      "text" : "information, the Agency may choose to review the lender’s underwriting to ensure "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 620.6148,
+      "rightX" : 521.28,
+      "topY" : 608.6148,
+      "baseLineY" : 617.8798,
+      "fontId" : 4,
+      "text" : "that they understand the Agency’s requirements.  Thorough reviews will continue "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 634.4148,
+      "rightX" : 541.2007,
+      "topY" : 622.4148,
+      "baseLineY" : 631.6798,
+      "fontId" : 4,
+      "text" : "until the lender demonstrates their ability to submit complete and accurate application "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 648.2148,
+      "rightX" : 266.28,
+      "topY" : 636.2148,
+      "baseLineY" : 645.4799,
+      "fontId" : 4,
+      "text" : "packages on a regular basis.  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 674.0148,
+      "rightX" : 147,
+      "topY" : 662.0148,
+      "baseLineY" : 671.2798,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 74.505,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 278.8829,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6844,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "15-4 "
+    }, {
+      "leftX" : 331.017,
+      "bottomY" : 708.5991,
+      "rightX" : 333.522,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 74.505,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 59.102,
+      "rightX" : 298.0512,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 15.5 Agency Review of Application Package "
+    }, {
+      "leftX" : 334.1833,
+      "bottomY" : 59.102,
+      "rightX" : 336.6883,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 85.9713,
+      "rightX" : 138,
+      "topY" : 73.9713,
+      "baseLineY" : 83.22,
+      "fontId" : 12,
+      "text" : "3. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 85.9713,
+      "rightX" : 370.68,
+      "topY" : 73.9713,
+      "baseLineY" : 83.22,
+      "fontId" : 12,
+      "text" : "Lenders with significant loan review findings "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 111.7549,
+      "rightX" : 524.88,
+      "topY" : 99.7549,
+      "baseLineY" : 109.02,
+      "fontId" : 4,
+      "text" : "Lenders that exhibit above average default, foreclosure, and loss claim activity "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 125.5549,
+      "rightX" : 531.84,
+      "topY" : 113.5549,
+      "baseLineY" : 122.8199,
+      "fontId" : 4,
+      "text" : "may have their current loan submissions reviewed more thoroughly by the Agency.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 139.3549,
+      "rightX" : 542.22,
+      "topY" : 127.3549,
+      "baseLineY" : 136.6199,
+      "fontId" : 4,
+      "text" : "The lender will be referred to the Lender Oversight Branch for continued monitoring.  "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 165.2639,
+      "rightX" : 119.6399,
+      "topY" : 153.2639,
+      "baseLineY" : 162.4199,
+      "fontId" : 3,
+      "text" : "C."
+    }, {
+      "leftX" : 119.6399,
+      "bottomY" : 165.5708,
+      "rightX" : 122.9759,
+      "topY" : 153.5708,
+      "baseLineY" : 162.4199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 165.2639,
+      "rightX" : 309.6599,
+      "topY" : 153.2639,
+      "baseLineY" : 162.4199,
+      "fontId" : 3,
+      "text" : "Conditions for the Loan Guarantee "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 190.9549,
+      "rightX" : 541.6198,
+      "topY" : 178.9549,
+      "baseLineY" : 188.2199,
+      "fontId" : 4,
+      "text" : "Agency staff will determine if any conditions must be met for the loan to qualify for a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 204.7549,
+      "rightX" : 515.5198,
+      "topY" : 192.7549,
+      "baseLineY" : 202.0199,
+      "fontId" : 4,
+      "text" : "guarantee.  Terms and conditions will be listed and issued to the lender on Form RD "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 218.5549,
+      "rightX" : 148.02,
+      "topY" : 206.5549,
+      "baseLineY" : 215.8199,
+      "fontId" : 4,
+      "text" : "3555-18"
+    }, {
+      "leftX" : 148.02,
+      "bottomY" : 218.5898,
+      "rightX" : 151.02,
+      "topY" : 206.5898,
+      "baseLineY" : 215.8199,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 151.02,
+      "bottomY" : 218.5549,
+      "rightX" : 161.016,
+      "topY" : 206.5549,
+      "baseLineY" : 215.8199,
+      "fontId" : 4,
+      "text" : "or"
+    }, {
+      "leftX" : 161.04,
+      "bottomY" : 218.5898,
+      "rightX" : 164.04,
+      "topY" : 206.5898,
+      "baseLineY" : 215.8199,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 163.98,
+      "bottomY" : 218.5549,
+      "rightX" : 259.992,
+      "topY" : 206.5549,
+      "baseLineY" : 215.8199,
+      "fontId" : 4,
+      "text" : "Form RD 3555-18E"
+    }, {
+      "leftX" : 259.98,
+      "bottomY" : 218.5898,
+      "rightX" : 530.2799,
+      "topY" : 206.5898,
+      "baseLineY" : 215.8199,
+      "fontId" : 6,
+      "text" : ", Conditional Commitment for a Single Family Housing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 232.3898,
+      "rightX" : 192.96,
+      "topY" : 220.3898,
+      "baseLineY" : 229.6199,
+      "fontId" : 6,
+      "text" : "Loan Guarantee. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 258.2638,
+      "rightX" : 93,
+      "topY" : 246.2638,
+      "baseLineY" : 255.4199,
+      "fontId" : 3,
+      "text" : "15.6"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 258.5707,
+      "rightX" : 96.336,
+      "topY" : 246.5707,
+      "baseLineY" : 255.4199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 258.2638,
+      "rightX" : 481.74,
+      "topY" : 246.2638,
+      "baseLineY" : 255.4199,
+      "fontId" : 3,
+      "text" : "LENDER NOTIFICATION ON REQUEST FOR LOAN GUARANTEE "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 283.9548,
+      "rightX" : 520.5,
+      "topY" : 271.9548,
+      "baseLineY" : 281.2198,
+      "fontId" : 4,
+      "text" : "The Agency will notify the lender of the results from the application review.  The "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 297.7548,
+      "rightX" : 324.6,
+      "topY" : 285.7548,
+      "baseLineY" : 295.0198,
+      "fontId" : 4,
+      "text" : "following are possible results of the review:  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 323.6638,
+      "rightX" : 119.64,
+      "topY" : 311.6638,
+      "baseLineY" : 320.8198,
+      "fontId" : 3,
+      "text" : "A."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 323.9707,
+      "rightX" : 122.976,
+      "topY" : 311.9707,
+      "baseLineY" : 320.8198,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 323.6638,
+      "rightX" : 373.38,
+      "topY" : 311.6638,
+      "baseLineY" : 320.8198,
+      "fontId" : 3,
+      "text" : "The Request for a Loan Guarantee is Approved "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 349.3548,
+      "rightX" : 523.92,
+      "topY" : 337.3548,
+      "baseLineY" : 346.6198,
+      "fontId" : 4,
+      "text" : "If the loan file meets Agency requirements, the lender will receive an email with a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 363.1548,
+      "rightX" : 282.66,
+      "topY" : 351.1548,
+      "baseLineY" : 360.4198,
+      "fontId" : 4,
+      "text" : "link to view Form RD 3555-18/18E,"
+    }, {
+      "leftX" : 282.66,
+      "bottomY" : 363.1897,
+      "rightX" : 540.9,
+      "topY" : 351.1897,
+      "baseLineY" : 360.4198,
+      "fontId" : 6,
+      "text" : " Conditional Commitment for Single Family Housing "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 376.9897,
+      "rightX" : 187.008,
+      "topY" : 364.9897,
+      "baseLineY" : 374.2198,
+      "fontId" : 6,
+      "text" : "Loan Guarantee"
+    }, {
+      "leftX" : 187.02,
+      "bottomY" : 376.9548,
+      "rightX" : 520.202,
+      "topY" : 364.9548,
+      "baseLineY" : 374.2198,
+      "fontId" : 4,
+      "text" : ". The Conditional Commitment establishes conditions for issuing the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 390.7547,
+      "rightX" : 531.3,
+      "topY" : 378.7547,
+      "baseLineY" : 388.0198,
+      "fontId" : 4,
+      "text" : "Loan Note Guarantee.  This form will also be available under the Documents section of "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 404.5547,
+      "rightX" : 517.5599,
+      "topY" : 392.5547,
+      "baseLineY" : 401.8198,
+      "fontId" : 4,
+      "text" : "the GUS system once it has been issued by the Agency.  In order to receive the Loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 418.3547,
+      "rightX" : 502.5598,
+      "topY" : 406.3547,
+      "baseLineY" : 415.6198,
+      "fontId" : 4,
+      "text" : "Note Guarantee, the lender must submit any required documents and certify to all "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 432.1547,
+      "rightX" : 519.3,
+      "topY" : 420.1547,
+      "baseLineY" : 429.4197,
+      "fontId" : 4,
+      "text" : "conditions noted on Form RD 3555-18/18E (including any attachments to the form).  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 445.9547,
+      "rightX" : 508.8598,
+      "topY" : 433.9547,
+      "baseLineY" : 443.2197,
+      "fontId" : 4,
+      "text" : "Chapter 16 of this Handbook provides additional guidance to obtain the Loan Note "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 459.7547,
+      "rightX" : 166.32,
+      "topY" : 447.7547,
+      "baseLineY" : 457.0197,
+      "fontId" : 4,
+      "text" : "Guarantee.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 485.6636,
+      "rightX" : 118.98,
+      "topY" : 473.6636,
+      "baseLineY" : 482.8197,
+      "fontId" : 3,
+      "text" : "B."
+    }, {
+      "leftX" : 118.98,
+      "bottomY" : 485.9705,
+      "rightX" : 122.316,
+      "topY" : 473.9705,
+      "baseLineY" : 482.8197,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 485.6636,
+      "rightX" : 306.66,
+      "topY" : 473.6636,
+      "baseLineY" : 482.8197,
+      "fontId" : 3,
+      "text" : "Return of Incomplete Applications "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 511.3547,
+      "rightX" : 538.6199,
+      "topY" : 499.3547,
+      "baseLineY" : 508.6197,
+      "fontId" : 4,
+      "text" : "If the application request is missing information specified in Attachment 15-A and/or "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 525.1546,
+      "rightX" : 524.3999,
+      "topY" : 513.1546,
+      "baseLineY" : 522.4197,
+      "fontId" : 4,
+      "text" : "the final GUS Underwriting Findings Report, the Agency will suspend the application "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 538.8946,
+      "rightX" : 505.0197,
+      "topY" : 526.8946,
+      "baseLineY" : 536.1597,
+      "fontId" : 4,
+      "text" : "and request the missing documentation from the approved lender.  Once the file is "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 552.6947,
+      "rightX" : 521.2808,
+      "topY" : 540.6947,
+      "baseLineY" : 549.9597,
+      "fontId" : 4,
+      "text" : "complete, the lender must alert OPD staff that all requested information is ready for a "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 566.4947,
+      "rightX" : 488.88,
+      "topY" : 554.4947,
+      "baseLineY" : 563.7597,
+      "fontId" : 4,
+      "text" : "subsequent review, as GUS does not automatically alert the Agency when new "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 580.2947,
+      "rightX" : 539.22,
+      "topY" : 568.2947,
+      "baseLineY" : 577.5597,
+      "fontId" : 4,
+      "text" : "documentation is uploaded. The file will then be placed in line again for Agency review.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 594.0946,
+      "rightX" : 509.94,
+      "topY" : 582.0946,
+      "baseLineY" : 591.3597,
+      "fontId" : 4,
+      "text" : "If the lender cannot provide the necessary information, the lender should request to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 607.8946,
+      "rightX" : 535.3196,
+      "topY" : 595.8946,
+      "baseLineY" : 605.1597,
+      "fontId" : 4,
+      "text" : "withdraw the loan file from GUS. Agency staff will not withdraw loan files without first "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 621.6947,
+      "rightX" : 396.96,
+      "topY" : 609.6947,
+      "baseLineY" : 618.9597,
+      "fontId" : 4,
+      "text" : "contacting the lender to request the missing documentation. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 647.6036,
+      "rightX" : 119.64,
+      "topY" : 635.6036,
+      "baseLineY" : 644.7597,
+      "fontId" : 3,
+      "text" : "C."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 647.9105,
+      "rightX" : 122.976,
+      "topY" : 635.9105,
+      "baseLineY" : 644.7597,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 647.6036,
+      "rightX" : 358.02,
+      "topY" : 635.6036,
+      "baseLineY" : 644.7597,
+      "fontId" : 3,
+      "text" : "The Request for a Loan Guarantee is Denied "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 673.2947,
+      "rightX" : 534.2984,
+      "topY" : 661.2947,
+      "baseLineY" : 670.5597,
+      "fontId" : 4,
+      "text" : "The loan guarantee request will be denied if the proposed loan fails to meet program "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 687.0947,
+      "rightX" : 527.5798,
+      "topY" : 675.0947,
+      "baseLineY" : 684.3597,
+      "fontId" : 4,
+      "text" : "requirements.  The Agency will notify the lender in writing of the reason for the denial "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 178.6529,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 287.9911,
+      "bottomY" : 708.5991,
+      "rightX" : 290.4961,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 296.8688,
+      "bottomY" : 708.5991,
+      "rightX" : 317.6703,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "15-5 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 187.8342,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : "Revised (08-05-25)  PN 649 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 120.0359,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 239.3941,
+      "bottomY" : 47.6391,
+      "rightX" : 241.8991,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 59.102,
+      "rightX" : 363.2714,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : "Paragraph 15.6 Lender Notification on Request For Loan For Guarantee "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 85.9549,
+      "rightX" : 534.1799,
+      "topY" : 73.9549,
+      "baseLineY" : 83.22,
+      "fontId" : 4,
+      "text" : "and will provide review and appeal rights as indicated in Appendix 3 of this Handbook.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 99.7549,
+      "rightX" : 524.9399,
+      "topY" : 87.7549,
+      "baseLineY" : 97.02,
+      "fontId" : 4,
+      "text" : "The Agency must properly process the loan in the Agency’s internal Guaranteed Loan "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 113.5549,
+      "rightX" : 346.92,
+      "topY" : 101.5549,
+      "baseLineY" : 110.8199,
+      "fontId" : 4,
+      "text" : "System (GLS) database to record the loan denial. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 139.4639,
+      "rightX" : 93,
+      "topY" : 127.4639,
+      "baseLineY" : 136.6199,
+      "fontId" : 3,
+      "text" : "15.7"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 139.7708,
+      "rightX" : 96.336,
+      "topY" : 127.7708,
+      "baseLineY" : 136.6199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.4639,
+      "rightX" : 430.32,
+      "topY" : 127.4639,
+      "baseLineY" : 136.6199,
+      "fontId" : 3,
+      "text" : "LENDER RESPONSE TO CONDITIONAL COMMITMENT "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 165.1549,
+      "rightX" : 531.18,
+      "topY" : 153.1549,
+      "baseLineY" : 162.4199,
+      "fontId" : 4,
+      "text" : "The lender has three responses to the issuance of Form RD 3555-18/18E: the lender "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 178.9549,
+      "rightX" : 540.5401,
+      "topY" : 166.9549,
+      "baseLineY" : 176.2199,
+      "fontId" : 4,
+      "text" : "may accept the terms and conditions, decline the terms and conditions for loan guarantee, "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 192.7549,
+      "rightX" : 359.2801,
+      "topY" : 180.7549,
+      "baseLineY" : 190.0199,
+      "fontId" : 4,
+      "text" : "or request that the terms and conditions be altered.   "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 218.6638,
+      "rightX" : 119.6401,
+      "topY" : 206.6638,
+      "baseLineY" : 215.8199,
+      "fontId" : 3,
+      "text" : "A."
+    }, {
+      "leftX" : 119.6401,
+      "bottomY" : 218.9707,
+      "rightX" : 122.9761,
+      "topY" : 206.9707,
+      "baseLineY" : 215.8199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 218.6638,
+      "rightX" : 258.36,
+      "topY" : 206.6638,
+      "baseLineY" : 215.8199,
+      "fontId" : 3,
+      "text" : "Accepting the Conditions "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 244.3548,
+      "rightX" : 539.1359,
+      "topY" : 232.3548,
+      "baseLineY" : 241.6199,
+      "fontId" : 4,
+      "text" : "If the lender understands and agrees to accept the conditions listed on Form RD 3555-"
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 258.1548,
+      "rightX" : 541.8598,
+      "topY" : 246.1548,
+      "baseLineY" : 255.4199,
+      "fontId" : 4,
+      "text" : "18/18E, no further communication with the Agency is required until the lender is ready to "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 271.9548,
+      "rightX" : 512.1359,
+      "topY" : 259.9548,
+      "baseLineY" : 269.2198,
+      "fontId" : 4,
+      "text" : "request the loan guarantee.  The loan must close in accordance with Form RD 3555-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 285.7548,
+      "rightX" : 230.28,
+      "topY" : 273.7548,
+      "baseLineY" : 283.0198,
+      "fontId" : 4,
+      "text" : "18/18E which includes:   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 311.5548,
+      "rightX" : 427.6201,
+      "topY" : 299.5548,
+      "baseLineY" : 308.8198,
+      "fontId" : 4,
+      "text" : "1. A loan amount equal to or less than the authorized amount,  "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 333.3348,
+      "rightX" : 450.5399,
+      "topY" : 321.3348,
+      "baseLineY" : 330.5998,
+      "fontId" : 4,
+      "text" : "2. An interest rate equal to or less than the authorized amount, and  "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 355.1148,
+      "rightX" : 331.3201,
+      "topY" : 343.1148,
+      "baseLineY" : 352.3798,
+      "fontId" : 4,
+      "text" : "3. Compliance with all stated conditions.   "
+    }, {
+      "leftX" : 360.0001,
+      "bottomY" : 355.1148,
+      "rightX" : 363.0001,
+      "topY" : 343.1148,
+      "baseLineY" : 352.3798,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 377.0637,
+      "rightX" : 118.9801,
+      "topY" : 365.0637,
+      "baseLineY" : 374.2198,
+      "fontId" : 3,
+      "text" : "B."
+    }, {
+      "leftX" : 118.9801,
+      "bottomY" : 377.3707,
+      "rightX" : 122.3161,
+      "topY" : 365.3707,
+      "baseLineY" : 374.2198,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 377.0637,
+      "rightX" : 361.3801,
+      "topY" : 365.0637,
+      "baseLineY" : 374.2198,
+      "fontId" : 3,
+      "text" : "Declining the Conditions for Loan Guarantee "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 402.7548,
+      "rightX" : 507.5159,
+      "topY" : 390.7548,
+      "baseLineY" : 400.0198,
+      "fontId" : 4,
+      "text" : "If the lender determines that the terms and conditions stated on Form RD 3555-"
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 416.5548,
+      "rightX" : 142.6921,
+      "topY" : 404.5548,
+      "baseLineY" : 413.8198,
+      "fontId" : 4,
+      "text" : "18/18E"
+    }, {
+      "leftX" : 142.6801,
+      "bottomY" : 416.5897,
+      "rightX" : 145.6801,
+      "topY" : 404.5897,
+      "baseLineY" : 413.8198,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 145.6801,
+      "bottomY" : 416.5548,
+      "rightX" : 216,
+      "topY" : 404.5548,
+      "baseLineY" : 413.8198,
+      "fontId" : 4,
+      "text" : "cannot be met,"
+    }, {
+      "leftX" : 216,
+      "bottomY" : 416.5897,
+      "rightX" : 219,
+      "topY" : 404.5897,
+      "baseLineY" : 413.8198,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 219,
+      "bottomY" : 416.5548,
+      "rightX" : 542.9398,
+      "topY" : 404.5548,
+      "baseLineY" : 413.8198,
+      "fontId" : 4,
+      "text" : "that the loan guarantee is not needed, or that the loan will not go to "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 430.3547,
+      "rightX" : 537.66,
+      "topY" : 418.3547,
+      "baseLineY" : 427.6198,
+      "fontId" : 4,
+      "text" : "closing, the lender must inform the Agency in writing as soon as possible.  The funds for "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 444.1547,
+      "rightX" : 526.561,
+      "topY" : 432.1547,
+      "baseLineY" : 441.4198,
+      "fontId" : 4,
+      "text" : "that loan request are reserved for the transaction until the expiration of the Conditional "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 457.9547,
+      "rightX" : 530.6397,
+      "topY" : 445.9547,
+      "baseLineY" : 455.2198,
+      "fontId" : 4,
+      "text" : "Commitment. Upon being informed that the lender intends to decline the conditions for "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 471.7547,
+      "rightX" : 536.8799,
+      "topY" : 459.7547,
+      "baseLineY" : 469.0197,
+      "fontId" : 4,
+      "text" : "loan guarantee, Agency staff will cancel the loan guarantee obligation in GLS.  This will "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 485.5547,
+      "rightX" : 432.8401,
+      "topY" : 473.5547,
+      "baseLineY" : 482.8197,
+      "fontId" : 4,
+      "text" : "release the committed funds for reallocation to a new commitment. "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 511.4637,
+      "rightX" : 119.6401,
+      "topY" : 499.4637,
+      "baseLineY" : 508.6197,
+      "fontId" : 3,
+      "text" : "C."
+    }, {
+      "leftX" : 119.6401,
+      "bottomY" : 511.7706,
+      "rightX" : 122.9761,
+      "topY" : 499.7706,
+      "baseLineY" : 508.6197,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 511.4637,
+      "rightX" : 305.4001,
+      "topY" : 499.4637,
+      "baseLineY" : 508.6197,
+      "fontId" : 3,
+      "text" : "Requesting Changes in Conditions "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 537.1546,
+      "rightX" : 490.9174,
+      "topY" : 525.1546,
+      "baseLineY" : 534.4197,
+      "fontId" : 4,
+      "text" : "Requests to close the loan at a lower loan amount or interest rate than those "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 550.8947,
+      "rightX" : 510.8998,
+      "topY" : 538.8947,
+      "baseLineY" : 548.1597,
+      "fontId" : 4,
+      "text" : "authorized on the issued Conditional Commitment do not require any action.  If the "
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 564.6947,
+      "rightX" : 529.8361,
+      "topY" : 552.6947,
+      "baseLineY" : 561.9597,
+      "fontId" : 4,
+      "text" : "lender believes that there are erroneous conditions and requirements on Form RD 3555-"
+    }, {
+      "leftX" : 108.0001,
+      "bottomY" : 578.4947,
+      "rightX" : 142.6921,
+      "topY" : 566.4947,
+      "baseLineY" : 575.7597,
+      "fontId" : 4,
+      "text" : "18/18E"
+    }, {
+      "leftX" : 142.6801,
+      "bottomY" : 578.5296,
+      "rightX" : 145.6801,
+      "topY" : 566.5296,
+      "baseLineY" : 575.7597,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 145.6801,
+      "bottomY" : 578.4947,
+      "rightX" : 485.88,
+      "topY" : 566.4947,
+      "baseLineY" : 575.7597,
+      "fontId" : 4,
+      "text" : "that should be altered, the lender may contact the Agency and propose "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 592.2947,
+      "rightX" : 545.52,
+      "topY" : 580.2947,
+      "baseLineY" : 589.5597,
+      "fontId" : 4,
+      "text" : "alternatives.  The request must be via email and must not affect the eligibility of the loan.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 618.0947,
+      "rightX" : 513.6,
+      "topY" : 606.0947,
+      "baseLineY" : 615.3597,
+      "fontId" : 4,
+      "text" : "Modifications that adversely affect the loan, such as an increase in loan amount, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 631.8947,
+      "rightX" : 541.8588,
+      "topY" : 619.8947,
+      "baseLineY" : 629.1597,
+      "fontId" : 4,
+      "text" : "interest rate, monthly liabilities, real estate taxes and homeowner’s insurance (that exceed "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 645.6947,
+      "rightX" : 482.0999,
+      "topY" : 633.6947,
+      "baseLineY" : 642.9597,
+      "fontId" : 4,
+      "text" : "the allowed threshold); or lower repayment income, assets, etc. require a new "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 659.4947,
+      "rightX" : 511.6797,
+      "topY" : 647.4947,
+      "baseLineY" : 656.7598,
+      "fontId" : 4,
+      "text" : "underwriting review.  Refer to the resubmission policy outlined in Chapter 5 of this "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 673.2947,
+      "rightX" : 515.8558,
+      "topY" : 661.2947,
+      "baseLineY" : 670.5598,
+      "fontId" : 4,
+      "text" : "Handbook. The lender is not authorized to close the loan until a new Form RD 3555-"
+    }, {
+      "leftX" : 108,
+      "bottomY" : 687.0947,
+      "rightX" : 195.66,
+      "topY" : 675.0947,
+      "baseLineY" : 684.3597,
+      "fontId" : 4,
+      "text" : "18/18E is issued.  "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 687.0947,
+      "rightX" : 219,
+      "topY" : 675.0947,
+      "baseLineY" : 684.3597,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 74.505,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 278.8829,
+      "bottomY" : 708.5991,
+      "rightX" : 299.6844,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "15-6 "
+    }, {
+      "leftX" : 331.017,
+      "bottomY" : 708.5991,
+      "rightX" : 333.522,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 74.505,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 119.2042,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB 1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 95.102,
+      "rightX" : 144.2242,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 1,
+      "text" : "Attachment 15-A "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.625,
+      "rightX" : 119.7453,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 1,
+      "text" : "Page 1 of 3 "
+    }, {
+      "leftX" : 248.46,
+      "bottomY" : 120.5639,
+      "rightX" : 366.48,
+      "topY" : 108.5639,
+      "baseLineY" : 117.72,
+      "fontId" : 3,
+      "text" : "ATTACHMENT 15-A "
+    }, {
+      "leftX" : 363.3,
+      "bottomY" : 149.5113,
+      "rightX" : 499.3813,
+      "topY" : 137.5113,
+      "baseLineY" : 146.76,
+      "fontId" : 12,
+      "text" : "Guaranteed Rural Housing"
+    }, {
+      "leftX" : 499.38,
+      "bottomY" : 149.5299,
+      "rightX" : 502.38,
+      "topY" : 137.5299,
+      "baseLineY" : 146.76,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 174.2069,
+      "rightX" : 341.3833,
+      "topY" : 163.2069,
+      "baseLineY" : 171.6,
+      "fontId" : 14,
+      "text" : "                                                                                                  "
+    }, {
+      "leftX" : 359.9944,
+      "bottomY" : 174.2069,
+      "rightX" : 499.9016,
+      "topY" : 163.2069,
+      "baseLineY" : 171.6,
+      "fontId" : 14,
+      "text" : "   Loan Origination Checklist "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 191.7543,
+      "rightX" : 72.834,
+      "topY" : 188.7543,
+      "baseLineY" : 191.04,
+      "fontId" : 15,
+      "text" : " "
+    }, {
+      "leftX" : 79.02,
+      "bottomY" : 215.3115,
+      "rightX" : 149.4693,
+      "topY" : 207.3115,
+      "baseLineY" : 213.3,
+      "fontId" : 16,
+      "text" : "Lender Instructions:"
+    }, {
+      "leftX" : 149.46,
+      "bottomY" : 215.1655,
+      "rightX" : 153.3025,
+      "topY" : 207.1655,
+      "baseLineY" : 213.3,
+      "fontId" : 17,
+      "text" : "  "
+    }, {
+      "leftX" : 153.3,
+      "bottomY" : 214.9958,
+      "rightX" : 531.8994,
+      "topY" : 206.9958,
+      "baseLineY" : 213.3,
+      "fontId" : 18,
+      "text" : "Submit the identified documents for the applicable loan type.  To expedite loan review, please submit only the "
+    }, {
+      "leftX" : 79.02,
+      "bottomY" : 225.3758,
+      "rightX" : 527.7429,
+      "topY" : 217.3758,
+      "baseLineY" : 223.68,
+      "fontId" : 18,
+      "text" : "identified documents.  Documents must not exceed the maximum allowable age set forth in the 7 CFR 3555 and Handbook 1-3555."
+    }, {
+      "leftX" : 527.7599,
+      "bottomY" : 225.5455,
+      "rightX" : 529.6854,
+      "topY" : 217.5455,
+      "baseLineY" : 223.68,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 529.6769,
+      "bottomY" : 225.6915,
+      "rightX" : 531.6024,
+      "topY" : 217.6915,
+      "baseLineY" : 223.68,
+      "fontId" : 16,
+      "text" : " "
+    }, {
+      "leftX" : 79.02,
+      "bottomY" : 235.7532,
+      "rightX" : 528.5429,
+      "topY" : 227.7532,
+      "baseLineY" : 234.0574,
+      "fontId" : 18,
+      "text" : "Rural Development will consider all documents submitted as the certified and true copies of the original documents retained in the "
+    }, {
+      "leftX" : 79.02,
+      "bottomY" : 246.1306,
+      "rightX" : 462.3594,
+      "topY" : 238.1306,
+      "baseLineY" : 244.4348,
+      "fontId" : 18,
+      "text" : "lender’s permanent file. Lenders should submit loan files electronically to Rural Development.  See 4.1.13 of the "
+    }, {
+      "leftX" : 462.3,
+      "bottomY" : 246.3055,
+      "rightX" : 520.1346,
+      "topY" : 238.3055,
+      "baseLineY" : 244.44,
+      "fontId" : 19,
+      "text" : "GUS lender user "
+    }, {
+      "leftX" : 79.02,
+      "bottomY" : 256.6855,
+      "rightX" : 136.0759,
+      "topY" : 248.6855,
+      "baseLineY" : 254.82,
+      "fontId" : 19,
+      "text" : "guide (usda.gov)"
+    }, {
+      "leftX" : 136.0784,
+      "bottomY" : 256.6855,
+      "rightX" : 384.5387,
+      "topY" : 248.6855,
+      "baseLineY" : 254.82,
+      "fontId" : 17,
+      "text" : " for further information on submitting a file through GUS, as well as the "
+    }, {
+      "leftX" : 384.5302,
+      "bottomY" : 256.6855,
+      "rightX" : 516.5553,
+      "topY" : 248.6855,
+      "baseLineY" : 254.82,
+      "fontId" : 19,
+      "text" : "Manual Submission Job Aid (usda.gov)"
+    }, {
+      "leftX" : 516.5902,
+      "bottomY" : 256.6855,
+      "rightX" : 530.5145,
+      "topY" : 248.6855,
+      "baseLineY" : 254.82,
+      "fontId" : 17,
+      "text" : " for "
+    }, {
+      "leftX" : 79.02,
+      "bottomY" : 270.1855,
+      "rightX" : 171.2891,
+      "topY" : 262.1855,
+      "baseLineY" : 268.32,
+      "fontId" : 17,
+      "text" : "files not supported by GUS"
+    }, {
+      "leftX" : 171.3,
+      "bottomY" : 271.055,
+      "rightX" : 177.3,
+      "topY" : 259.055,
+      "baseLineY" : 268.32,
+      "fontId" : 4,
+      "text" : ". "
+    }, {
+      "leftX" : 177.24,
+      "bottomY" : 270.0159,
+      "rightX" : 179.1655,
+      "topY" : 262.0159,
+      "baseLineY" : 268.32,
+      "fontId" : 18,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 275.931,
+      "rightX" : 72.75,
+      "topY" : 272.931,
+      "baseLineY" : 275.22,
+      "fontId" : 20,
+      "text" : " "
+    }, {
+      "leftX" : 72.9,
+      "bottomY" : 312.3587,
+      "rightX" : 120.954,
+      "topY" : 303.3587,
+      "baseLineY" : 310.26,
+      "fontId" : 21,
+      "text" : "Applicant(s): "
+    }, {
+      "leftX" : 240.9,
+      "bottomY" : 312.3587,
+      "rightX" : 270.654,
+      "topY" : 303.3587,
+      "baseLineY" : 310.26,
+      "fontId" : 21,
+      "text" : "Lender: "
+    }, {
+      "leftX" : 389.7,
+      "bottomY" : 312.3587,
+      "rightX" : 411.474,
+      "topY" : 303.3587,
+      "baseLineY" : 310.26,
+      "fontId" : 21,
+      "text" : "Date: "
+    }, {
+      "leftX" : 240.9,
+      "bottomY" : 323.3386,
+      "rightX" : 242.934,
+      "topY" : 314.3386,
+      "baseLineY" : 321.24,
+      "fontId" : 21,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 327.5637,
+      "rightX" : 72.75,
+      "topY" : 324.5637,
+      "baseLineY" : 326.88,
+      "fontId" : 22,
+      "text" : " "
+    }, {
+      "leftX" : 253.2,
+      "bottomY" : 339.6329,
+      "rightX" : 360.984,
+      "topY" : 330.6329,
+      "baseLineY" : 337.5,
+      "fontId" : 23,
+      "text" : "Loan Origination Checklist "
+    }, {
+      "leftX" : 85.02,
+      "bottomY" : 349.953,
+      "rightX" : 529.161,
+      "topY" : 340.953,
+      "baseLineY" : 347.82,
+      "fontId" : 23,
+      "text" : "Guaranteed Underwriting System (GUS)- Purchase and Non-Streamlined and Streamlined Refinance Transactions "
+    }, {
+      "leftX" : 222.6,
+      "bottomY" : 360.333,
+      "rightX" : 391.5714,
+      "topY" : 351.333,
+      "baseLineY" : 358.2,
+      "fontId" : 23,
+      "text" : "Underwriting Recommendation:  ACCEPT "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 369.819,
+      "rightX" : 363.7372,
+      "topY" : 362.819,
+      "baseLineY" : 368.16,
+      "fontId" : 24,
+      "text" : "When submitting documents in GUS, the appraisal report must be uploaded separately in color.   "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 393.043,
+      "rightX" : 360.954,
+      "topY" : 384.043,
+      "baseLineY" : 390.78,
+      "fontId" : 25,
+      "text" : "Form RD 3555-21, Request for Single Family Housing Loan Guarantee "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 397.4612,
+      "rightX" : 90.9962,
+      "topY" : 383.4612,
+      "baseLineY" : 394.8,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 398.0646,
+      "rightX" : 94.1795,
+      "topY" : 384.0646,
+      "baseLineY" : 394.8,
+      "fontId" : 27,
+      "text" : " "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 404.3828,
+      "rightX" : 90.462,
+      "topY" : 395.3828,
+      "baseLineY" : 402.24,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 404.3386,
+      "rightX" : 294.231,
+      "topY" : 395.3386,
+      "baseLineY" : 402.24,
+      "fontId" : 21,
+      "text" : "Include all pages from the current published version "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 415.3187,
+      "rightX" : 234.4836,
+      "topY" : 406.3187,
+      "baseLineY" : 413.22,
+      "fontId" : 21,
+      "text" : "Executed by applicant(s) and lender "
+    }, {
+      "leftX" : 234.48,
+      "bottomY" : 415.0855,
+      "rightX" : 236.2835,
+      "topY" : 407.0855,
+      "baseLineY" : 413.22,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 441.5613,
+      "rightX" : 90.9962,
+      "topY" : 427.5613,
+      "baseLineY" : 438.9,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 441.465,
+      "rightX" : 93.5015,
+      "topY" : 430.465,
+      "baseLineY" : 438.9,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 437.143,
+      "rightX" : 291.174,
+      "topY" : 428.143,
+      "baseLineY" : 434.88,
+      "fontId" : 25,
+      "text" : "FEMA Standard Flood Hazard Determination Form "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 448.4829,
+      "rightX" : 90.462,
+      "topY" : 439.4829,
+      "baseLineY" : 446.34,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 448.4387,
+      "rightX" : 489.0119,
+      "topY" : 439.4387,
+      "baseLineY" : 446.34,
+      "fontId" : 21,
+      "text" : "New construction properties located in 100-year flood plains require additional documentation, including "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 459.4187,
+      "rightX" : 381.054,
+      "topY" : 450.4187,
+      "baseLineY" : 457.32,
+      "fontId" : 21,
+      "text" : "confirmation the base flood elevation (BFE) is below lowest habitable floor.  "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 470.2047,
+      "rightX" : 89.6984,
+      "topY" : 462.2047,
+      "baseLineY" : 468.3,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 470.3986,
+      "rightX" : 315.348,
+      "topY" : 461.3986,
+      "baseLineY" : 468.3,
+      "fontId" : 21,
+      "text" : "Lender to use the most current form available from FEMA."
+    }, {
+      "leftX" : 315.36,
+      "bottomY" : 470.1655,
+      "rightX" : 317.1635,
+      "topY" : 462.1655,
+      "baseLineY" : 468.3,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 486.5013,
+      "rightX" : 90.9962,
+      "topY" : 472.5013,
+      "baseLineY" : 483.84,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 487.1046,
+      "rightX" : 94.1795,
+      "topY" : 473.1046,
+      "baseLineY" : 483.84,
+      "fontId" : 27,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 484.363,
+      "rightX" : 210.3096,
+      "topY" : 475.363,
+      "baseLineY" : 482.1,
+      "fontId" : 25,
+      "text" : "Mortgage Payoff Statement: "
+    }, {
+      "leftX" : 210.3186,
+      "bottomY" : 484.1987,
+      "rightX" : 295.1463,
+      "topY" : 475.1987,
+      "baseLineY" : 482.1,
+      "fontId" : 21,
+      "text" : "If refinance transaction"
+    }, {
+      "leftX" : 295.203,
+      "bottomY" : 484.363,
+      "rightX" : 297.237,
+      "topY" : 475.363,
+      "baseLineY" : 482.1,
+      "fontId" : 25,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 502.5212,
+      "rightX" : 90.9962,
+      "topY" : 488.5212,
+      "baseLineY" : 499.86,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 502.425,
+      "rightX" : 93.5015,
+      "topY" : 491.425,
+      "baseLineY" : 499.86,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 498.103,
+      "rightX" : 272.514,
+      "topY" : 489.103,
+      "baseLineY" : 495.84,
+      "fontId" : 25,
+      "text" : "Uniform Residential Appraisal Report (URAR) "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 509.4428,
+      "rightX" : 90.462,
+      "topY" : 500.4428,
+      "baseLineY" : 507.3,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 509.3986,
+      "rightX" : 468.7455,
+      "topY" : 500.3986,
+      "baseLineY" : 507.3,
+      "fontId" : 21,
+      "text" : "The appraiser must use the most current forms acceptable to Fannie Mae, Freddie Mac, VA, or HUD."
+    }, {
+      "leftX" : 468.72,
+      "bottomY" : 509.1655,
+      "rightX" : 472.3269,
+      "topY" : 501.1655,
+      "baseLineY" : 507.3,
+      "fontId" : 17,
+      "text" : "  "
+    }, {
+      "leftX" : 472.38,
+      "bottomY" : 509.563,
+      "rightX" : 474.414,
+      "topY" : 500.563,
+      "baseLineY" : 507.3,
+      "fontId" : 25,
+      "text" : " "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 520.9029,
+      "rightX" : 90.462,
+      "topY" : 511.9029,
+      "baseLineY" : 518.76,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 520.8587,
+      "rightX" : 313.554,
+      "topY" : 511.8587,
+      "baseLineY" : 518.76,
+      "fontId" : 21,
+      "text" : "Not required for most streamlined refinance transactions."
+    }, {
+      "leftX" : 313.563,
+      "bottomY" : 521.023,
+      "rightX" : 315.597,
+      "topY" : 512.023,
+      "baseLineY" : 518.76,
+      "fontId" : 25,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 530.6455,
+      "rightX" : 103.6235,
+      "topY" : 522.6455,
+      "baseLineY" : 528.78,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 534.8637,
+      "rightX" : 72.75,
+      "topY" : 531.8637,
+      "baseLineY" : 534.18,
+      "fontId" : 22,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 178.6529,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 187.8342,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : "Revised (08-05-25)  PN 649 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 67.5,
+      "bottomY" : 47.6391,
+      "rightX" : 114.7042,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB 1-3555 "
+    }, {
+      "leftX" : 67.5,
+      "bottomY" : 59.102,
+      "rightX" : 139.7242,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : "Attachment 15-A "
+    }, {
+      "leftX" : 67.5,
+      "bottomY" : 70.625,
+      "rightX" : 115.2453,
+      "topY" : 60.625,
+      "baseLineY" : 68.3459,
+      "fontId" : 1,
+      "text" : "Page 2 of 3 "
+    }, {
+      "leftX" : 253.2,
+      "bottomY" : 84.033,
+      "rightX" : 360.984,
+      "topY" : 75.033,
+      "baseLineY" : 81.9,
+      "fontId" : 23,
+      "text" : "Loan Origination Checklist "
+    }, {
+      "leftX" : 120.36,
+      "bottomY" : 94.3529,
+      "rightX" : 493.833,
+      "topY" : 85.3529,
+      "baseLineY" : 92.22,
+      "fontId" : 23,
+      "text" : "Files Not Supported By GUS, GUS Refer/Refer with Caution Underwriting Recommendation, or "
+    }, {
+      "leftX" : 113.94,
+      "bottomY" : 104.7329,
+      "rightX" : 500.247,
+      "topY" : 95.7329,
+      "baseLineY" : 102.6,
+      "fontId" : 23,
+      "text" : "GUS Accept with Full Documentation Message on GUS Underwriting Findings and Analysis Report "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 109.4638,
+      "rightX" : 72.75,
+      "topY" : 106.4638,
+      "baseLineY" : 108.78,
+      "fontId" : 22,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 117.6989,
+      "rightX" : 363.7372,
+      "topY" : 110.6989,
+      "baseLineY" : 116.04,
+      "fontId" : 24,
+      "text" : "When submitting documents in GUS, the appraisal report must be uploaded separately in color.   "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 128.2186,
+      "rightX" : 397.737,
+      "topY" : 119.2186,
+      "baseLineY" : 126.12,
+      "fontId" : 21,
+      "text" : "The Manual File Submission Job Aid located on the LINC Training and Resource Library at "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 139.1986,
+      "rightX" : 393.8949,
+      "topY" : 130.1986,
+      "baseLineY" : 137.1,
+      "fontId" : 31,
+      "text" : "https://www.rd.usda.gov/resources/usda-linc-training-resource-library/loan-origination"
+    }, {
+      "leftX" : 393.9,
+      "bottomY" : 138.7589,
+      "rightX" : 395.655,
+      "topY" : 131.7589,
+      "baseLineY" : 137.1,
+      "fontId" : 24,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 155.3013,
+      "rightX" : 90.9962,
+      "topY" : 141.3013,
+      "baseLineY" : 152.64,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 155.9046,
+      "rightX" : 94.1795,
+      "topY" : 141.9046,
+      "baseLineY" : 152.64,
+      "fontId" : 27,
+      "text" : " "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 162.2229,
+      "rightX" : 90.462,
+      "topY" : 153.2229,
+      "baseLineY" : 160.08,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 162.1787,
+      "rightX" : 279.957,
+      "topY" : 153.1787,
+      "baseLineY" : 160.08,
+      "fontId" : 21,
+      "text" : "Include all pages from current published version "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 150.883,
+      "rightX" : 360.954,
+      "topY" : 141.883,
+      "baseLineY" : 148.62,
+      "fontId" : 25,
+      "text" : "Form RD 3555-21, Request for Single Family Housing Loan Guarantee "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 172.9648,
+      "rightX" : 89.6984,
+      "topY" : 164.9648,
+      "baseLineY" : 171.06,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 173.1587,
+      "rightX" : 234.4836,
+      "topY" : 164.1587,
+      "baseLineY" : 171.06,
+      "fontId" : 21,
+      "text" : "Executed by applicant(s) and lender "
+    }, {
+      "leftX" : 234.48,
+      "bottomY" : 172.9255,
+      "rightX" : 236.2835,
+      "topY" : 164.9255,
+      "baseLineY" : 171.06,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 198.9213,
+      "rightX" : 90.9962,
+      "topY" : 184.9213,
+      "baseLineY" : 196.26,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 198.825,
+      "rightX" : 93.5015,
+      "topY" : 187.825,
+      "baseLineY" : 196.26,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 206.2786,
+      "rightX" : 329.637,
+      "topY" : 197.2786,
+      "baseLineY" : 204.18,
+      "fontId" : 21,
+      "text" : "Documentation of annual and repayment income calculations "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 194.9829,
+      "rightX" : 348.774,
+      "topY" : 185.9829,
+      "baseLineY" : 192.72,
+      "fontId" : 25,
+      "text" : "Underwriting Analysis:  FNMA 1008/FHLMC 1077, or similar form  "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 206.3228,
+      "rightX" : 90.462,
+      "topY" : 197.3228,
+      "baseLineY" : 204.18,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 217.0647,
+      "rightX" : 89.6984,
+      "topY" : 209.0647,
+      "baseLineY" : 215.16,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 217.2586,
+      "rightX" : 495.0796,
+      "topY" : 208.2586,
+      "baseLineY" : 215.16,
+      "fontId" : 21,
+      "text" : "Credit waiver explanations, debt ratio waiver compensating factors, and overall loan file comments may be "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 228.2987,
+      "rightX" : 195.1761,
+      "topY" : 219.2987,
+      "baseLineY" : 226.2,
+      "fontId" : 21,
+      "text" : "documented on this form"
+    }, {
+      "leftX" : 195.18,
+      "bottomY" : 228.0655,
+      "rightX" : 196.9835,
+      "topY" : 220.0655,
+      "baseLineY" : 226.2,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 244.8212,
+      "rightX" : 90.9962,
+      "topY" : 230.8212,
+      "baseLineY" : 242.16,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 244.725,
+      "rightX" : 93.5015,
+      "topY" : 233.725,
+      "baseLineY" : 242.16,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 240.403,
+      "rightX" : 318.414,
+      "topY" : 231.403,
+      "baseLineY" : 238.14,
+      "fontId" : 25,
+      "text" : "Income Verification Documentation:  Applicable methods "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 251.383,
+      "rightX" : 286.0113,
+      "topY" : 242.383,
+      "baseLineY" : 249.12,
+      "fontId" : 25,
+      "text" : "Alternative Documentation:  Non self-employed: "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 262.7229,
+      "rightX" : 90.462,
+      "topY" : 253.7229,
+      "baseLineY" : 260.58,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 262.6787,
+      "rightX" : 333.66,
+      "topY" : 253.6787,
+      "baseLineY" : 260.58,
+      "fontId" : 21,
+      "text" : "Written/Electronic VOE + 1 earning statement with YTD figures "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 273.823,
+      "rightX" : 257.52,
+      "topY" : 264.823,
+      "baseLineY" : 271.56,
+      "fontId" : 25,
+      "text" : "Full Documentation:  Non self-employed: "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 285.2228,
+      "rightX" : 90.462,
+      "topY" : 276.2228,
+      "baseLineY" : 283.08,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 285.1786,
+      "rightX" : 333.12,
+      "topY" : 276.1786,
+      "baseLineY" : 283.08,
+      "fontId" : 21,
+      "text" : "2 years W-2s + 4 weeks of earning statements with YTD figures "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 296.323,
+      "rightX" : 162.183,
+      "topY" : 287.323,
+      "baseLineY" : 294.06,
+      "fontId" : 25,
+      "text" : "Self-Employed:  "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 307.6628,
+      "rightX" : 90.462,
+      "topY" : 298.6628,
+      "baseLineY" : 305.52,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 307.6186,
+      "rightX" : 510.1563,
+      "topY" : 298.6186,
+      "baseLineY" : 305.52,
+      "fontId" : 21,
+      "text" : "2 years personal and business filed income tax returns or IRS transcripts with all schedules + YTD profit and loss "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 318.5987,
+      "rightX" : 141.591,
+      "topY" : 309.5987,
+      "baseLineY" : 316.5,
+      "fontId" : 21,
+      "text" : "statement "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 329.743,
+      "rightX" : 362.514,
+      "topY" : 320.743,
+      "baseLineY" : 327.48,
+      "fontId" : 25,
+      "text" : "Additional Income Types:  SSI, VA Benefits, Pension, Retirement, etc.  "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 340.3648,
+      "rightX" : 89.6984,
+      "topY" : 332.3648,
+      "baseLineY" : 338.46,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 340.5586,
+      "rightX" : 311.9403,
+      "topY" : 331.5586,
+      "baseLineY" : 338.46,
+      "fontId" : 21,
+      "text" : "Refer to Chapter 9 for acceptable verification documents "
+    }, {
+      "leftX" : 311.88,
+      "bottomY" : 340.3255,
+      "rightX" : 313.6835,
+      "topY" : 332.3255,
+      "baseLineY" : 338.46,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 356.6013,
+      "rightX" : 90.9962,
+      "topY" : 342.6013,
+      "baseLineY" : 353.94,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 356.505,
+      "rightX" : 93.5015,
+      "topY" : 345.505,
+      "baseLineY" : 353.94,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 352.183,
+      "rightX" : 191.034,
+      "topY" : 343.183,
+      "baseLineY" : 349.92,
+      "fontId" : 25,
+      "text" : "Asset Documentation:   "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 363.5829,
+      "rightX" : 90.462,
+      "topY" : 354.5829,
+      "baseLineY" : 361.44,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 363.5387,
+      "rightX" : 361.434,
+      "topY" : 354.5387,
+      "baseLineY" : 361.44,
+      "fontId" : 21,
+      "text" : "Documentation for all applicable household members per 3555.152(d) "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 374.3248,
+      "rightX" : 89.6984,
+      "topY" : 366.3248,
+      "baseLineY" : 372.42,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 374.5187,
+      "rightX" : 304.797,
+      "topY" : 365.5187,
+      "baseLineY" : 372.42,
+      "fontId" : 21,
+      "text" : "VOD’s, bank or investment statements, gift letters, etc. "
+    }, {
+      "leftX" : 304.8,
+      "bottomY" : 374.2855,
+      "rightX" : 306.6035,
+      "topY" : 366.2855,
+      "baseLineY" : 372.42,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 385.3048,
+      "rightX" : 89.6984,
+      "topY" : 377.3048,
+      "baseLineY" : 383.4,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 385.4986,
+      "rightX" : 385.4307,
+      "topY" : 376.4986,
+      "baseLineY" : 383.4,
+      "fontId" : 21,
+      "text" : "Refer to Chapter 9 for acceptable verification documents for each asset type. "
+    }, {
+      "leftX" : 385.38,
+      "bottomY" : 385.2655,
+      "rightX" : 387.1835,
+      "topY" : 377.2655,
+      "baseLineY" : 383.4,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 401.5413,
+      "rightX" : 90.9962,
+      "topY" : 387.5413,
+      "baseLineY" : 398.88,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 401.445,
+      "rightX" : 93.5015,
+      "topY" : 390.445,
+      "baseLineY" : 398.88,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 397.123,
+      "rightX" : 156.651,
+      "topY" : 388.123,
+      "baseLineY" : 394.86,
+      "fontId" : 25,
+      "text" : "Credit Report: "
+    }, {
+      "leftX" : 156.66,
+      "bottomY" : 396.9586,
+      "rightX" : 209.247,
+      "topY" : 387.9586,
+      "baseLineY" : 394.86,
+      "fontId" : 21,
+      "text" : "(as applicable)"
+    }, {
+      "leftX" : 209.22,
+      "bottomY" : 396.7255,
+      "rightX" : 211.0235,
+      "topY" : 388.7255,
+      "baseLineY" : 394.86,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 408.4629,
+      "rightX" : 90.462,
+      "topY" : 399.4629,
+      "baseLineY" : 406.32,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 408.4187,
+      "rightX" : 474.294,
+      "topY" : 399.4187,
+      "baseLineY" : 406.32,
+      "fontId" : 21,
+      "text" : "Credit Report:  For loans submitted outside of GUS.  GUS loans will have the credit report uploaded.    "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 419.9229,
+      "rightX" : 90.462,
+      "topY" : 410.9229,
+      "baseLineY" : 417.78,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 419.8787,
+      "rightX" : 276.7242,
+      "topY" : 410.8787,
+      "baseLineY" : 417.78,
+      "fontId" : 21,
+      "text" : "Non-Traditional credit tradelines, as applicable  "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 430.7248,
+      "rightX" : 89.6984,
+      "topY" : 422.7248,
+      "baseLineY" : 428.82,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 430.9187,
+      "rightX" : 374.034,
+      "topY" : 421.9187,
+      "baseLineY" : 428.82,
+      "fontId" : 21,
+      "text" : "Credit supplements, if utilized to support data adjusted from credit report "
+    }, {
+      "leftX" : 374.04,
+      "bottomY" : 430.6855,
+      "rightX" : 375.8435,
+      "topY" : 422.6855,
+      "baseLineY" : 428.82,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 446.9612,
+      "rightX" : 90.9962,
+      "topY" : 432.9612,
+      "baseLineY" : 444.3,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 447.5646,
+      "rightX" : 94.1795,
+      "topY" : 433.5646,
+      "baseLineY" : 444.3,
+      "fontId" : 27,
+      "text" : " "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 453.8828,
+      "rightX" : 90.462,
+      "topY" : 444.8828,
+      "baseLineY" : 451.74,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 453.8386,
+      "rightX" : 320.1086,
+      "topY" : 444.8386,
+      "baseLineY" : 451.74,
+      "fontId" : 32,
+      "text" : "NOT APPLICABLE FOR GUS ACCEPT FULL DOCUMENTATION "
+    }, {
+      "leftX" : 320.1176,
+      "bottomY" : 453.8386,
+      "rightX" : 322.1516,
+      "topY" : 444.8386,
+      "baseLineY" : 451.74,
+      "fontId" : 21,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 442.543,
+      "rightX" : 181.254,
+      "topY" : 433.543,
+      "baseLineY" : 440.28,
+      "fontId" : 25,
+      "text" : "Verification of Rent:  "
+    }, {
+      "leftX" : 181.2,
+      "bottomY" : 442.1878,
+      "rightX" : 183.234,
+      "topY" : 433.1878,
+      "baseLineY" : 440.28,
+      "fontId" : 33,
+      "text" : " "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 465.3429,
+      "rightX" : 90.462,
+      "topY" : 456.3429,
+      "baseLineY" : 463.2,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 465.2987,
+      "rightX" : 498.594,
+      "topY" : 456.2987,
+      "baseLineY" : 463.2,
+      "fontId" : 21,
+      "text" : "Applicable for manually underwritten loans with credit scores less than 680 when rental history is indicated. "
+    }, {
+      "leftX" : 498.603,
+      "bottomY" : 465.463,
+      "rightX" : 500.637,
+      "topY" : 456.463,
+      "baseLineY" : 463.2,
+      "fontId" : 25,
+      "text" : " "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 476.8029,
+      "rightX" : 90.462,
+      "topY" : 467.8029,
+      "baseLineY" : 474.66,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 476.7587,
+      "rightX" : 518.3463,
+      "topY" : 467.7587,
+      "baseLineY" : 474.66,
+      "fontId" : 21,
+      "text" : "Refer to Chapter 10 for guidance on documenting rent and non-traditional credit when a VOR is required, but not "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 487.7387,
+      "rightX" : 136.4844,
+      "topY" : 478.7387,
+      "baseLineY" : 485.64,
+      "fontId" : 21,
+      "text" : "available."
+    }, {
+      "leftX" : 136.5,
+      "bottomY" : 487.903,
+      "rightX" : 138.534,
+      "topY" : 478.903,
+      "baseLineY" : 485.64,
+      "fontId" : 25,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 503.8413,
+      "rightX" : 90.9962,
+      "topY" : 489.8413,
+      "baseLineY" : 501.18,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 504.4446,
+      "rightX" : 94.1795,
+      "topY" : 490.4446,
+      "baseLineY" : 501.18,
+      "fontId" : 27,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 510.403,
+      "rightX" : 103.854,
+      "topY" : 501.403,
+      "baseLineY" : 508.14,
+      "fontId" : 25,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 499.423,
+      "rightX" : 210.3096,
+      "topY" : 490.423,
+      "baseLineY" : 497.16,
+      "fontId" : 25,
+      "text" : "Mortgage Payoff Statement: "
+    }, {
+      "leftX" : 210.3,
+      "bottomY" : 499.2587,
+      "rightX" : 297.234,
+      "topY" : 490.2587,
+      "baseLineY" : 497.16,
+      "fontId" : 21,
+      "text" : "If refinance transaction "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 521.8629,
+      "rightX" : 295.734,
+      "topY" : 512.8629,
+      "baseLineY" : 519.6,
+      "fontId" : 25,
+      "text" : "FEMA  Standard Flood Hazard Determination Form: "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 526.2813,
+      "rightX" : 90.9962,
+      "topY" : 512.2813,
+      "baseLineY" : 523.62,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 526.185,
+      "rightX" : 93.5015,
+      "topY" : 515.185,
+      "baseLineY" : 523.62,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 532.4847,
+      "rightX" : 89.6984,
+      "topY" : 524.4847,
+      "baseLineY" : 530.58,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 532.6786,
+      "rightX" : 489.01,
+      "topY" : 523.6786,
+      "baseLineY" : 530.58,
+      "fontId" : 21,
+      "text" : "New construction properties located in 100-year flood plains require additional documentation, including "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 543.7216,
+      "rightX" : 364.728,
+      "topY" : 534.7216,
+      "baseLineY" : 541.623,
+      "fontId" : 21,
+      "text" : "confirmation base flood elevation (BFE) is below lowest habitable floor. "
+    }, {
+      "leftX" : 364.74,
+      "bottomY" : 543.4855,
+      "rightX" : 366.5435,
+      "topY" : 535.4855,
+      "baseLineY" : 541.62,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 554.5047,
+      "rightX" : 89.6984,
+      "topY" : 546.5047,
+      "baseLineY" : 552.6,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 554.6986,
+      "rightX" : 301.131,
+      "topY" : 545.6986,
+      "baseLineY" : 552.6,
+      "fontId" : 21,
+      "text" : "Lender to use most current form available from FEMA."
+    }, {
+      "leftX" : 301.14,
+      "bottomY" : 554.4654,
+      "rightX" : 302.9435,
+      "topY" : 546.4654,
+      "baseLineY" : 552.6,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 568.003,
+      "rightX" : 270.5601,
+      "topY" : 559.003,
+      "baseLineY" : 565.74,
+      "fontId" : 25,
+      "text" : "Uniform Residential Appraisal Report (URAR)"
+    }, {
+      "leftX" : 270.48,
+      "bottomY" : 567.8386,
+      "rightX" : 272.514,
+      "topY" : 558.8386,
+      "baseLineY" : 565.74,
+      "fontId" : 32,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 570.7413,
+      "rightX" : 90.9962,
+      "topY" : 556.7413,
+      "baseLineY" : 568.08,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 570.645,
+      "rightX" : 93.5015,
+      "topY" : 559.645,
+      "baseLineY" : 568.08,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 579.4029,
+      "rightX" : 90.462,
+      "topY" : 570.4029,
+      "baseLineY" : 577.26,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 579.3587,
+      "rightX" : 399.126,
+      "topY" : 570.3587,
+      "baseLineY" : 577.26,
+      "fontId" : 32,
+      "text" : "NOT APPLICABLE TO MOST STREAMLINED OR STREAMLINED-ASSIST REFINANCES "
+    }, {
+      "leftX" : 399.135,
+      "bottomY" : 579.3587,
+      "rightX" : 401.169,
+      "topY" : 570.3587,
+      "baseLineY" : 577.26,
+      "fontId" : 21,
+      "text" : " "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 590.1448,
+      "rightX" : 89.6984,
+      "topY" : 582.1448,
+      "baseLineY" : 588.24,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 590.3386,
+      "rightX" : 468.7231,
+      "topY" : 581.3386,
+      "baseLineY" : 588.24,
+      "fontId" : 21,
+      "text" : "The appraiser must use the most current forms acceptable to Fannie Mae, Freddie Mac, VA, or HUD."
+    }, {
+      "leftX" : 468.72,
+      "bottomY" : 590.1055,
+      "rightX" : 474.1863,
+      "topY" : 582.1055,
+      "baseLineY" : 588.24,
+      "fontId" : 17,
+      "text" : "   "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 609.7762,
+      "rightX" : 75.8864,
+      "topY" : 595.7762,
+      "baseLineY" : 606,
+      "fontId" : 34,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 637.862,
+      "rightX" : 75.8864,
+      "topY" : 623.862,
+      "baseLineY" : 634.0858,
+      "fontId" : 34,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 696.5991,
+      "rightX" : 74.505,
+      "topY" : 686.5991,
+      "baseLineY" : 694.32,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.1191,
+      "rightX" : 74.505,
+      "topY" : 698.1191,
+      "baseLineY" : 705.84,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 47.6391,
+      "rightX" : 119.2042,
+      "topY" : 37.6391,
+      "baseLineY" : 45.36,
+      "fontId" : 1,
+      "text" : "HB 1-3555 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 59.102,
+      "rightX" : 144.2242,
+      "topY" : 49.102,
+      "baseLineY" : 56.8229,
+      "fontId" : 1,
+      "text" : "Attachment 15-A "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 70.625,
+      "rightX" : 119.7453,
+      "topY" : 60.625,
+      "baseLineY" : 68.3459,
+      "fontId" : 1,
+      "text" : "Page 3 of 3 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 84.033,
+      "rightX" : 74.25,
+      "topY" : 75.033,
+      "baseLineY" : 81.9,
+      "fontId" : 23,
+      "text" : " "
+    }, {
+      "leftX" : 253.26,
+      "bottomY" : 84.033,
+      "rightX" : 361.053,
+      "topY" : 75.033,
+      "baseLineY" : 81.9,
+      "fontId" : 23,
+      "text" : "Loan Origination Checklist "
+    }, {
+      "leftX" : 195.12,
+      "bottomY" : 94.3529,
+      "rightX" : 419.067,
+      "topY" : 85.3529,
+      "baseLineY" : 92.22,
+      "fontId" : 23,
+      "text" : "Streamlined Assist Refinance Manual Underwrite Review "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 106.3787,
+      "rightX" : 519.6275,
+      "topY" : 97.3787,
+      "baseLineY" : 104.28,
+      "fontId" : 21,
+      "text" : "This checklist is for the Streamlined Assist Refinance program. All documents must be submitted to the Agency using GUS, "
+    }, {
+      "leftX" : 72.009,
+      "bottomY" : 117.3587,
+      "rightX" : 526.0518,
+      "topY" : 108.3587,
+      "baseLineY" : 115.26,
+      "fontId" : 21,
+      "text" : "however the lender will not complete a final submission in GUS.  Guidance on this process can be located in the Manual File "
+    }, {
+      "leftX" : 72.009,
+      "bottomY" : 128.3386,
+      "rightX" : 337.446,
+      "topY" : 119.3386,
+      "baseLineY" : 126.24,
+      "fontId" : 21,
+      "text" : "Submission Job Aid located on the LINC Training and Resource Library at "
+    }, {
+      "leftX" : 337.4549,
+      "bottomY" : 128.3386,
+      "rightX" : 539.118,
+      "topY" : 119.3386,
+      "baseLineY" : 126.24,
+      "fontId" : 31,
+      "text" : "https://www.rd.usda.gov/resources/usda-linc-training-"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 139.3186,
+      "rightX" : 192.2319,
+      "topY" : 130.3186,
+      "baseLineY" : 137.22,
+      "fontId" : 31,
+      "text" : "resource-library/loan-origination"
+    }, {
+      "leftX" : 192.249,
+      "bottomY" : 139.3186,
+      "rightX" : 196.56,
+      "topY" : 130.3186,
+      "baseLineY" : 137.22,
+      "fontId" : 21,
+      "text" : ". "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 150.2987,
+      "rightX" : 74.034,
+      "topY" : 141.2987,
+      "baseLineY" : 148.2,
+      "fontId" : 21,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 161.2786,
+      "rightX" : 465.354,
+      "topY" : 152.2786,
+      "baseLineY" : 159.18,
+      "fontId" : 21,
+      "text" : "After uploading documents in GUS, the lender must notify the Agency the documents have been uploaded. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 172.3217,
+      "rightX" : 74.034,
+      "topY" : 163.3217,
+      "baseLineY" : 170.223,
+      "fontId" : 21,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 183.3017,
+      "rightX" : 261.774,
+      "topY" : 174.3017,
+      "baseLineY" : 181.203,
+      "fontId" : 21,
+      "text" : "When underwriting a Streamlined Assist Refinance: "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 195.7809,
+      "rightX" : 95.4,
+      "topY" : 186.7809,
+      "baseLineY" : 192.183,
+      "fontId" : 35,
+      "text" : "o"
+    }, {
+      "leftX" : 95.4,
+      "bottomY" : 194.3258,
+      "rightX" : 97.902,
+      "topY" : 185.3258,
+      "baseLineY" : 192.183,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 194.2816,
+      "rightX" : 531.7128,
+      "topY" : 185.2816,
+      "baseLineY" : 192.183,
+      "fontId" : 21,
+      "text" : "Borrowers must receive at least a $50 net tangible benefit reduction in total principal, interest, and monthly annual "
+    }, {
+      "leftX" : 107.9909,
+      "bottomY" : 205.2616,
+      "rightX" : 160.6049,
+      "topY" : 196.2616,
+      "baseLineY" : 203.163,
+      "fontId" : 21,
+      "text" : "fee payment.  "
+    }, {
+      "leftX" : 89.9909,
+      "bottomY" : 217.7408,
+      "rightX" : 95.3909,
+      "topY" : 208.7408,
+      "baseLineY" : 214.1429,
+      "fontId" : 35,
+      "text" : "o"
+    }, {
+      "leftX" : 95.3909,
+      "bottomY" : 216.2858,
+      "rightX" : 97.8929,
+      "topY" : 207.2858,
+      "baseLineY" : 214.1429,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 107.9909,
+      "bottomY" : 216.2416,
+      "rightX" : 362.9475,
+      "topY" : 207.2416,
+      "baseLineY" : 214.1429,
+      "fontId" : 21,
+      "text" : "The interest rate cannot exceed the rate of the loan being refinanced."
+    }, {
+      "leftX" : 362.9565,
+      "bottomY" : 216.2416,
+      "rightX" : 364.9905,
+      "topY" : 207.2416,
+      "baseLineY" : 214.1429,
+      "fontId" : 32,
+      "text" : " "
+    }, {
+      "leftX" : 107.9909,
+      "bottomY" : 227.2216,
+      "rightX" : 110.0249,
+      "topY" : 218.2216,
+      "baseLineY" : 225.1229,
+      "fontId" : 32,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 238.903,
+      "rightX" : 360.954,
+      "topY" : 229.903,
+      "baseLineY" : 236.64,
+      "fontId" : 25,
+      "text" : "Form RD 3555-21, Request for Single Family Housing Loan Guarantee "
+    }, {
+      "leftX" : 77.4,
+      "bottomY" : 243.3212,
+      "rightX" : 89.8562,
+      "topY" : 229.3212,
+      "baseLineY" : 240.66,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 89.88,
+      "bottomY" : 243.9245,
+      "rightX" : 93.0395,
+      "topY" : 229.9245,
+      "baseLineY" : 240.66,
+      "fontId" : 27,
+      "text" : " "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 250.2428,
+      "rightX" : 90.462,
+      "topY" : 241.2428,
+      "baseLineY" : 248.1,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 250.1986,
+      "rightX" : 279.957,
+      "topY" : 241.1986,
+      "baseLineY" : 248.1,
+      "fontId" : 21,
+      "text" : "Include all pages from current published version "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 261.7029,
+      "rightX" : 90.462,
+      "topY" : 252.7029,
+      "baseLineY" : 259.56,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 261.6587,
+      "rightX" : 236.5266,
+      "topY" : 252.6587,
+      "baseLineY" : 259.56,
+      "fontId" : 21,
+      "text" : "Executed by applicant(s) and lender  "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 271.4455,
+      "rightX" : 103.6235,
+      "topY" : 263.4455,
+      "baseLineY" : 269.58,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 289.2213,
+      "rightX" : 90.9962,
+      "topY" : 275.2213,
+      "baseLineY" : 286.56,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 289.125,
+      "rightX" : 93.5015,
+      "topY" : 278.125,
+      "baseLineY" : 286.56,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 284.803,
+      "rightX" : 348.774,
+      "topY" : 275.803,
+      "baseLineY" : 282.54,
+      "fontId" : 25,
+      "text" : "Underwriting Analysis:  FNMA 1008/FHLMC 1077, or similar form  "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 295.4248,
+      "rightX" : 89.6984,
+      "topY" : 287.4248,
+      "baseLineY" : 293.52,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 295.6186,
+      "rightX" : 346.0023,
+      "topY" : 286.6186,
+      "baseLineY" : 293.52,
+      "fontId" : 21,
+      "text" : "Documentation of annual and adjusted annual income calculations"
+    }, {
+      "leftX" : 345.96,
+      "bottomY" : 295.3855,
+      "rightX" : 347.7635,
+      "topY" : 287.3855,
+      "baseLineY" : 293.52,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 307.243,
+      "rightX" : 334.794,
+      "topY" : 298.243,
+      "baseLineY" : 304.98,
+      "fontId" : 25,
+      "text" : "Uniform Residential Loan Application:  FNMA 1003/FHLMC 65 "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 311.6613,
+      "rightX" : 90.9962,
+      "topY" : 297.6613,
+      "baseLineY" : 309,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 311.565,
+      "rightX" : 93.5015,
+      "topY" : 300.565,
+      "baseLineY" : 309,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 318.5829,
+      "rightX" : 90.462,
+      "topY" : 309.5829,
+      "baseLineY" : 316.44,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 318.5387,
+      "rightX" : 288.957,
+      "topY" : 309.5387,
+      "baseLineY" : 316.44,
+      "fontId" : 21,
+      "text" : "Not required to be signed by applicant(s) or lender "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 330.0429,
+      "rightX" : 90.462,
+      "topY" : 321.0429,
+      "baseLineY" : 327.9,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 329.9986,
+      "rightX" : 103.854,
+      "topY" : 320.9986,
+      "baseLineY" : 327.9,
+      "fontId" : 21,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 346.1013,
+      "rightX" : 90.9962,
+      "topY" : 332.1013,
+      "baseLineY" : 343.44,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 346.005,
+      "rightX" : 93.5015,
+      "topY" : 335.005,
+      "baseLineY" : 343.44,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 341.683,
+      "rightX" : 396.654,
+      "topY" : 332.683,
+      "baseLineY" : 339.42,
+      "fontId" : 25,
+      "text" : "Income Verification Documentation:  Required for Annual Income Calculations "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 352.663,
+      "rightX" : 286.0114,
+      "topY" : 343.663,
+      "baseLineY" : 350.4,
+      "fontId" : 25,
+      "text" : "Alternative Documentation:  Non self-employed: "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 364.0028,
+      "rightX" : 90.462,
+      "topY" : 355.0028,
+      "baseLineY" : 361.86,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 363.9586,
+      "rightX" : 335.631,
+      "topY" : 354.9586,
+      "baseLineY" : 361.86,
+      "fontId" : 21,
+      "text" : "Written/Electronic VOE + 1 earning statement with YTD figures  "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 375.103,
+      "rightX" : 257.52,
+      "topY" : 366.103,
+      "baseLineY" : 372.84,
+      "fontId" : 25,
+      "text" : "Full Documentation:  Non self-employed: "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 386.4428,
+      "rightX" : 90.462,
+      "topY" : 377.4428,
+      "baseLineY" : 384.3,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 386.3986,
+      "rightX" : 335.3601,
+      "topY" : 377.3986,
+      "baseLineY" : 384.3,
+      "fontId" : 21,
+      "text" : "2 years W-2’s + 4 weeks of earning statements with YTD figures "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 397.543,
+      "rightX" : 162.183,
+      "topY" : 388.543,
+      "baseLineY" : 395.28,
+      "fontId" : 25,
+      "text" : "Self-Employed:  "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 408.8828,
+      "rightX" : 90.462,
+      "topY" : 399.8828,
+      "baseLineY" : 406.74,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 408.8386,
+      "rightX" : 510.1554,
+      "topY" : 399.8386,
+      "baseLineY" : 406.74,
+      "fontId" : 21,
+      "text" : "2 years personal and business filed income tax returns or IRS transcripts with all schedules + YTD profit and loss "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 419.8187,
+      "rightX" : 141.591,
+      "topY" : 410.8187,
+      "baseLineY" : 417.72,
+      "fontId" : 21,
+      "text" : "statement "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 431.023,
+      "rightX" : 362.514,
+      "topY" : 422.023,
+      "baseLineY" : 428.76,
+      "fontId" : 25,
+      "text" : "Additional Income Types:  SSI, VA Benefits, Pension, Retirement, etc.  "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 442.3629,
+      "rightX" : 90.462,
+      "topY" : 433.3629,
+      "baseLineY" : 440.22,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 442.3187,
+      "rightX" : 313.914,
+      "topY" : 433.3187,
+      "baseLineY" : 440.22,
+      "fontId" : 21,
+      "text" : "Refer to Chapter 9 for acceptable verification documents  "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 452.0455,
+      "rightX" : 103.6235,
+      "topY" : 444.0455,
+      "baseLineY" : 450.18,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 468.1413,
+      "rightX" : 90.9962,
+      "topY" : 454.1413,
+      "baseLineY" : 465.48,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 468.045,
+      "rightX" : 93.5015,
+      "topY" : 457.045,
+      "baseLineY" : 465.48,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 463.723,
+      "rightX" : 294.654,
+      "topY" : 454.723,
+      "baseLineY" : 461.46,
+      "fontId" : 25,
+      "text" : "Asset Documentation:  Annual Income Calculations "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 475.0629,
+      "rightX" : 90.462,
+      "topY" : 466.0629,
+      "baseLineY" : 472.92,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 475.0187,
+      "rightX" : 361.434,
+      "topY" : 466.0187,
+      "baseLineY" : 472.92,
+      "fontId" : 21,
+      "text" : "Documentation for all applicable household members per 3555.152(d) "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 486.5229,
+      "rightX" : 90.462,
+      "topY" : 477.5229,
+      "baseLineY" : 484.38,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 486.4787,
+      "rightX" : 306.8399,
+      "topY" : 477.4787,
+      "baseLineY" : 484.38,
+      "fontId" : 21,
+      "text" : "VOD’s, bank or investment statements, gift letters, etc.  "
+    }, {
+      "leftX" : 87.48,
+      "bottomY" : 497.2647,
+      "rightX" : 89.6984,
+      "topY" : 489.2647,
+      "baseLineY" : 495.36,
+      "fontId" : 30,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 497.4586,
+      "rightX" : 383.4121,
+      "topY" : 488.4586,
+      "baseLineY" : 495.36,
+      "fontId" : 21,
+      "text" : "Refer to Chapter 9 for acceptable verification documents for each asset type."
+    }, {
+      "leftX" : 383.34,
+      "bottomY" : 497.2255,
+      "rightX" : 385.1435,
+      "topY" : 489.2255,
+      "baseLineY" : 495.36,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 513.5613,
+      "rightX" : 90.9962,
+      "topY" : 499.5613,
+      "baseLineY" : 510.9,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 513.465,
+      "rightX" : 93.5015,
+      "topY" : 502.465,
+      "baseLineY" : 510.9,
+      "fontId" : 29,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 509.143,
+      "rightX" : 204.654,
+      "topY" : 500.143,
+      "baseLineY" : 506.88,
+      "fontId" : 25,
+      "text" : "Mortgage Payment History "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 519.9586,
+      "rightX" : 244.137,
+      "topY" : 510.9586,
+      "baseLineY" : 517.86,
+      "fontId" : 21,
+      "text" : "As specified in Chapter 6, Section 6.2D "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 531.4629,
+      "rightX" : 90.462,
+      "topY" : 522.4629,
+      "baseLineY" : 529.32,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 531.4187,
+      "rightX" : 254.748,
+      "topY" : 522.4187,
+      "baseLineY" : 529.32,
+      "fontId" : 21,
+      "text" : "Credit Report or Verification of Mortgage "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 541.2054,
+      "rightX" : 103.6235,
+      "topY" : 533.2054,
+      "baseLineY" : 539.34,
+      "fontId" : 17,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 557.2413,
+      "rightX" : 90.9962,
+      "topY" : 543.2413,
+      "baseLineY" : 554.58,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 557.8446,
+      "rightX" : 94.1795,
+      "topY" : 543.8446,
+      "baseLineY" : 554.58,
+      "fontId" : 27,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 552.823,
+      "rightX" : 207.774,
+      "topY" : 543.823,
+      "baseLineY" : 550.56,
+      "fontId" : 25,
+      "text" : "Mortgage Payoff Statement "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 563.8029,
+      "rightX" : 103.854,
+      "topY" : 554.8029,
+      "baseLineY" : 561.54,
+      "fontId" : 25,
+      "text" : " "
+    }, {
+      "leftX" : 78.54,
+      "bottomY" : 579.6813,
+      "rightX" : 90.9962,
+      "topY" : 565.6813,
+      "baseLineY" : 577.02,
+      "fontId" : 26,
+      "text" : ""
+    }, {
+      "leftX" : 91.02,
+      "bottomY" : 580.2846,
+      "rightX" : 94.1795,
+      "topY" : 566.2846,
+      "baseLineY" : 577.02,
+      "fontId" : 27,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 575.263,
+      "rightX" : 272.514,
+      "topY" : 566.263,
+      "baseLineY" : 573,
+      "fontId" : 25,
+      "text" : "Uniform Residential Appraisal Report (URAR) "
+    }, {
+      "leftX" : 87.96,
+      "bottomY" : 586.6629,
+      "rightX" : 90.462,
+      "topY" : 577.6629,
+      "baseLineY" : 584.52,
+      "fontId" : 28,
+      "text" : " "
+    }, {
+      "leftX" : 101.82,
+      "bottomY" : 586.6187,
+      "rightX" : 465.954,
+      "topY" : 577.6187,
+      "baseLineY" : 584.52,
+      "fontId" : 21,
+      "text" : "Only applicable to current Direct Loan borrowers for the purpose of calculating subsidy recapture.   "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 599.0391,
+      "rightX" : 74.505,
+      "topY" : 589.0391,
+      "baseLineY" : 596.76,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 708.5991,
+      "rightX" : 178.6529,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 720.1191,
+      "rightX" : 187.8342,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 1,
+      "text" : "Revised (08-05-25)  PN 649 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "CourierNew",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#333333"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "Arial-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 14,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 15,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 3.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 16,
+    "fontFamily" : "Calibri-Bold",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 17,
+    "fontFamily" : "Calibri",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 18,
+    "fontFamily" : "Calibri-Italic",
+    "fontSize" : 8.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 19,
+    "fontFamily" : "Calibri",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 20,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 3.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 21,
+    "fontFamily" : "Calibri",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 22,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 3.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 23,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 24,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 7.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#ff0000"
+  }, {
+    "id" : 25,
+    "fontFamily" : "Calibri-Bold",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 26,
+    "fontFamily" : "Wingdings-Regular",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 27,
+    "fontFamily" : "Calibri",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 28,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 29,
+    "fontFamily" : "Calibri",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 30,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 31,
+    "fontFamily" : "Calibri",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ff"
+  }, {
+    "id" : 32,
+    "fontFamily" : "Calibri",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#ff0000"
+  }, {
+    "id" : 33,
+    "fontFamily" : "Calibri-Italic",
+    "fontSize" : 9.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 34,
+    "fontFamily" : "Arial-BoldItalicMT",
+    "fontSize" : 14.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 35,
+    "fontFamily" : "CourierNew",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

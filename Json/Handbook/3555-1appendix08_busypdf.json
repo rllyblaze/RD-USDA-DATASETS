@@ -1,0 +1,2452 @@
+{
+  "pdfDoc" : "3555-1appendix08.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 86.4,
+      "bottomY" : 88.3979,
+      "rightX" : 89.895,
+      "topY" : 74.3979,
+      "baseLineY" : 85.08,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 305.9978,
+      "bottomY" : 116.4838,
+      "rightX" : 309.4928,
+      "topY" : 102.4838,
+      "baseLineY" : 113.1658,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 305.9978,
+      "bottomY" : 144.6255,
+      "rightX" : 309.4928,
+      "topY" : 130.6255,
+      "baseLineY" : 141.3076,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 305.9978,
+      "bottomY" : 172.7113,
+      "rightX" : 309.4928,
+      "topY" : 158.7113,
+      "baseLineY" : 169.3934,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 305.9978,
+      "bottomY" : 200.7971,
+      "rightX" : 309.4928,
+      "topY" : 186.7971,
+      "baseLineY" : 197.4792,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 305.9978,
+      "bottomY" : 228.9388,
+      "rightX" : 309.4928,
+      "topY" : 214.9388,
+      "baseLineY" : 225.6209,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 305.9978,
+      "bottomY" : 257.0246,
+      "rightX" : 309.4928,
+      "topY" : 243.0246,
+      "baseLineY" : 253.7067,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 240.8972,
+      "bottomY" : 294.471,
+      "rightX" : 256.7956,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : "A"
+    }, {
+      "leftX" : 241.8,
+      "bottomY" : 295.3739,
+      "rightX" : 257.6985,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : "A"
+    }, {
+      "leftX" : 256.7956,
+      "bottomY" : 294.471,
+      "rightX" : 270.2498,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : "P"
+    }, {
+      "leftX" : 257.6985,
+      "bottomY" : 295.3739,
+      "rightX" : 271.1527,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : "P"
+    }, {
+      "leftX" : 270.2278,
+      "bottomY" : 294.471,
+      "rightX" : 283.682,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : "P"
+    }, {
+      "leftX" : 271.1306,
+      "bottomY" : 295.3739,
+      "rightX" : 284.5849,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : "P"
+    }, {
+      "leftX" : 283.66,
+      "bottomY" : 294.471,
+      "rightX" : 298.3474,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 284.5628,
+      "bottomY" : 295.3739,
+      "rightX" : 299.2502,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : "E"
+    }, {
+      "leftX" : 298.3033,
+      "bottomY" : 294.471,
+      "rightX" : 314.2017,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 299.2061,
+      "bottomY" : 295.3739,
+      "rightX" : 315.1046,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : "N"
+    }, {
+      "leftX" : 314.2017,
+      "bottomY" : 294.471,
+      "rightX" : 330.1002,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : "D"
+    }, {
+      "leftX" : 315.1046,
+      "bottomY" : 295.3739,
+      "rightX" : 331.003,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : "D"
+    }, {
+      "leftX" : 330.1002,
+      "bottomY" : 294.471,
+      "rightX" : 338.6659,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : "I"
+    }, {
+      "leftX" : 331.003,
+      "bottomY" : 295.3739,
+      "rightX" : 339.5688,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : "I"
+    }, {
+      "leftX" : 338.688,
+      "bottomY" : 294.471,
+      "rightX" : 354.5864,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : "X"
+    }, {
+      "leftX" : 339.5908,
+      "bottomY" : 295.3739,
+      "rightX" : 355.4892,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : "X"
+    }, {
+      "leftX" : 354.5203,
+      "bottomY" : 294.471,
+      "rightX" : 360.0253,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 355.4232,
+      "bottomY" : 295.3739,
+      "rightX" : 360.9282,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 360.0473,
+      "bottomY" : 294.471,
+      "rightX" : 371.0573,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : "8"
+    }, {
+      "leftX" : 360.9502,
+      "bottomY" : 295.3739,
+      "rightX" : 371.9602,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : "8"
+    }, {
+      "leftX" : 371.0353,
+      "bottomY" : 294.471,
+      "rightX" : 376.5403,
+      "topY" : 272.471,
+      "baseLineY" : 289.2572,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 371.9381,
+      "bottomY" : 295.3739,
+      "rightX" : 377.4431,
+      "topY" : 273.3739,
+      "baseLineY" : 290.16,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 243.6496,
+      "bottomY" : 331.7949,
+      "rightX" : 257.1038,
+      "topY" : 309.7949,
+      "baseLineY" : 326.5811,
+      "fontId" : 2,
+      "text" : "P"
+    }, {
+      "leftX" : 244.5524,
+      "bottomY" : 332.6978,
+      "rightX" : 258.0067,
+      "topY" : 310.6978,
+      "baseLineY" : 327.4839,
+      "fontId" : 3,
+      "text" : "P"
+    }, {
+      "leftX" : 257.0818,
+      "bottomY" : 331.7949,
+      "rightX" : 271.7691,
+      "topY" : 309.7949,
+      "baseLineY" : 326.5811,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 257.9846,
+      "bottomY" : 332.6978,
+      "rightX" : 272.672,
+      "topY" : 310.6978,
+      "baseLineY" : 327.4839,
+      "fontId" : 3,
+      "text" : "E"
+    }, {
+      "leftX" : 271.7691,
+      "bottomY" : 331.7949,
+      "rightX" : 287.6675,
+      "topY" : 309.7949,
+      "baseLineY" : 326.5811,
+      "fontId" : 2,
+      "text" : "N"
+    }, {
+      "leftX" : 272.6719,
+      "bottomY" : 332.6978,
+      "rightX" : 288.5704,
+      "topY" : 310.6978,
+      "baseLineY" : 327.4839,
+      "fontId" : 3,
+      "text" : "N"
+    }, {
+      "leftX" : 287.6675,
+      "bottomY" : 331.7949,
+      "rightX" : 303.566,
+      "topY" : 309.7949,
+      "baseLineY" : 326.5811,
+      "fontId" : 2,
+      "text" : "A"
+    }, {
+      "leftX" : 288.5704,
+      "bottomY" : 332.6978,
+      "rightX" : 304.4688,
+      "topY" : 310.6978,
+      "baseLineY" : 327.4839,
+      "fontId" : 3,
+      "text" : "A"
+    }, {
+      "leftX" : 303.4999,
+      "bottomY" : 331.7949,
+      "rightX" : 318.1873,
+      "topY" : 309.7949,
+      "baseLineY" : 326.5811,
+      "fontId" : 2,
+      "text" : "L"
+    }, {
+      "leftX" : 304.4027,
+      "bottomY" : 332.6978,
+      "rightX" : 319.0901,
+      "topY" : 310.6978,
+      "baseLineY" : 327.4839,
+      "fontId" : 3,
+      "text" : "L"
+    }, {
+      "leftX" : 318.1872,
+      "bottomY" : 331.7949,
+      "rightX" : 332.8746,
+      "topY" : 309.7949,
+      "baseLineY" : 326.5811,
+      "fontId" : 2,
+      "text" : "T"
+    }, {
+      "leftX" : 319.0901,
+      "bottomY" : 332.6978,
+      "rightX" : 333.7774,
+      "topY" : 310.6978,
+      "baseLineY" : 327.4839,
+      "fontId" : 3,
+      "text" : "T"
+    }, {
+      "leftX" : 332.8745,
+      "bottomY" : 331.7949,
+      "rightX" : 341.4403,
+      "topY" : 309.7949,
+      "baseLineY" : 326.5811,
+      "fontId" : 2,
+      "text" : "I"
+    }, {
+      "leftX" : 333.7774,
+      "bottomY" : 332.6978,
+      "rightX" : 342.3431,
+      "topY" : 310.6978,
+      "baseLineY" : 327.4839,
+      "fontId" : 3,
+      "text" : "I"
+    }, {
+      "leftX" : 341.3963,
+      "bottomY" : 331.7949,
+      "rightX" : 356.0836,
+      "topY" : 309.7949,
+      "baseLineY" : 326.5811,
+      "fontId" : 2,
+      "text" : "E"
+    }, {
+      "leftX" : 342.2991,
+      "bottomY" : 332.6978,
+      "rightX" : 356.9865,
+      "topY" : 310.6978,
+      "baseLineY" : 327.4839,
+      "fontId" : 3,
+      "text" : "E"
+    }, {
+      "leftX" : 356.0396,
+      "bottomY" : 331.7949,
+      "rightX" : 368.2827,
+      "topY" : 309.7949,
+      "baseLineY" : 326.5811,
+      "fontId" : 2,
+      "text" : "S"
+    }, {
+      "leftX" : 356.9424,
+      "bottomY" : 332.6978,
+      "rightX" : 369.1855,
+      "topY" : 310.6978,
+      "baseLineY" : 327.4839,
+      "fontId" : 3,
+      "text" : "S"
+    }, {
+      "leftX" : 368.2827,
+      "bottomY" : 331.7949,
+      "rightX" : 373.7877,
+      "topY" : 309.7949,
+      "baseLineY" : 326.5811,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 369.1855,
+      "bottomY" : 332.6978,
+      "rightX" : 374.6905,
+      "topY" : 310.6978,
+      "baseLineY" : 327.4839,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 351.215,
+      "rightX" : 89.4,
+      "topY" : 339.215,
+      "baseLineY" : 348.48,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 377.015,
+      "rightX" : 89.4,
+      "topY" : 365.015,
+      "baseLineY" : 374.28,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 402.815,
+      "rightX" : 89.4,
+      "topY" : 390.815,
+      "baseLineY" : 400.08,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 428.6149,
+      "rightX" : 89.4,
+      "topY" : 416.6149,
+      "baseLineY" : 425.88,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 454.4149,
+      "rightX" : 89.4,
+      "topY" : 442.4149,
+      "baseLineY" : 451.68,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 480.2149,
+      "rightX" : 89.4,
+      "topY" : 468.2149,
+      "baseLineY" : 477.4799,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 506.0149,
+      "rightX" : 89.4,
+      "topY" : 494.0149,
+      "baseLineY" : 503.2799,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 531.8149,
+      "rightX" : 89.4,
+      "topY" : 519.8149,
+      "baseLineY" : 529.08,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 557.6149,
+      "rightX" : 89.4,
+      "topY" : 545.6149,
+      "baseLineY" : 554.8799,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 583.4149,
+      "rightX" : 89.4,
+      "topY" : 571.4149,
+      "baseLineY" : 580.6799,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 609.2149,
+      "rightX" : 89.4,
+      "topY" : 597.2149,
+      "baseLineY" : 606.4799,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.3972,
+      "bottomY" : 646.8511,
+      "rightX" : 91.9022,
+      "topY" : 624.8511,
+      "baseLineY" : 641.6372,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 87.3,
+      "bottomY" : 647.7539,
+      "rightX" : 92.805,
+      "topY" : 625.7539,
+      "baseLineY" : 642.54,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 177.4058,
+      "bottomY" : 646.8511,
+      "rightX" : 182.9108,
+      "topY" : 624.8511,
+      "baseLineY" : 641.6372,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 178.3087,
+      "bottomY" : 647.7539,
+      "rightX" : 183.8137,
+      "topY" : 625.7539,
+      "baseLineY" : 642.54,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 672.3349,
+      "rightX" : 89.4,
+      "topY" : 660.3349,
+      "baseLineY" : 669.6,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 708.5991,
+      "rightX" : 193.0629,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 5,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 720.1191,
+      "rightX" : 221.1289,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 5,
+      "text" : "Renumbered (04-30-20)  PN 536 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 480.06,
+      "bottomY" : 83.6391,
+      "rightX" : 528.0958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 5,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 478.6672,
+      "bottomY" : 95.102,
+      "rightX" : 528.0958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 5,
+      "text" : "Appendix 8 "
+    }, {
+      "leftX" : 480.3505,
+      "bottomY" : 106.625,
+      "rightX" : 528.1088,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 5,
+      "text" : "Page 1 of 5 "
+    }, {
+      "leftX" : 270.48,
+      "bottomY" : 132.5639,
+      "rightX" : 344.4601,
+      "topY" : 120.5639,
+      "baseLineY" : 129.72,
+      "fontId" : 6,
+      "text" : "APPENDIX 8 "
+    }, {
+      "leftX" : 271.98,
+      "bottomY" : 152.364,
+      "rightX" : 342.96,
+      "topY" : 140.364,
+      "baseLineY" : 149.52,
+      "fontId" : 6,
+      "text" : "PENALTIES "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 188.5713,
+      "rightX" : 131.4,
+      "topY" : 176.5713,
+      "baseLineY" : 185.82,
+      "fontId" : 7,
+      "text" : "1."
+    }, {
+      "leftX" : 131.4,
+      "bottomY" : 189.0567,
+      "rightX" : 134.736,
+      "topY" : 177.0567,
+      "baseLineY" : 185.82,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 188.5713,
+      "rightX" : 306.42,
+      "topY" : 176.5713,
+      "baseLineY" : 185.82,
+      "fontId" : 7,
+      "text" : "Claim for Unallowable Expenses "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 214.355,
+      "rightX" : 524.3399,
+      "topY" : 202.355,
+      "baseLineY" : 211.62,
+      "fontId" : 4,
+      "text" : "The servicer’s loss claim request should reflect only allowable expenses.  If the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 228.1549,
+      "rightX" : 504.7185,
+      "topY" : 216.1549,
+      "baseLineY" : 225.42,
+      "fontId" : 4,
+      "text" : "Agency’s review of the servicer’s claim shows that unallowable expenses have "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 241.9549,
+      "rightX" : 523.3798,
+      "topY" : 229.9549,
+      "baseLineY" : 239.22,
+      "fontId" : 4,
+      "text" : "been claimed, the loss claim amount will be reduced by the amount of unallowable "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 255.7549,
+      "rightX" : 512.696,
+      "topY" : 243.7549,
+      "baseLineY" : 253.02,
+      "fontId" : 4,
+      "text" : "expenses to reflect only allowable costs.  The Agency will document any costs it "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 269.5549,
+      "rightX" : 502.6798,
+      "topY" : 257.5549,
+      "baseLineY" : 266.8199,
+      "fontId" : 4,
+      "text" : "disallows and the reasons for its determination.  The following are some of the "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 283.3549,
+      "rightX" : 276.0599,
+      "topY" : 271.3549,
+      "baseLineY" : 280.6199,
+      "fontId" : 4,
+      "text" : "costs the Agency will disallow: "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 309.4151,
+      "rightX" : 145.92,
+      "topY" : 297.4151,
+      "baseLineY" : 307.26,
+      "fontId" : 9,
+      "text" : "•"
+    }, {
+      "leftX" : 145.92,
+      "bottomY" : 310.1172,
+      "rightX" : 149.256,
+      "topY" : 298.1172,
+      "baseLineY" : 307.26,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 309.995,
+      "rightX" : 441.72,
+      "topY" : 297.995,
+      "baseLineY" : 307.26,
+      "fontId" : 4,
+      "text" : "Additional interest accrued beyond 60 days of acquisition; "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 336.0551,
+      "rightX" : 145.92,
+      "topY" : 324.0551,
+      "baseLineY" : 333.9,
+      "fontId" : 9,
+      "text" : "•"
+    }, {
+      "leftX" : 145.92,
+      "bottomY" : 336.7572,
+      "rightX" : 149.256,
+      "topY" : 324.7572,
+      "baseLineY" : 333.9,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 336.635,
+      "rightX" : 427.92,
+      "topY" : 324.635,
+      "baseLineY" : 333.9,
+      "fontId" : 4,
+      "text" : "Interest accrued after allowable foreclosure time frame; "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 362.6951,
+      "rightX" : 145.92,
+      "topY" : 350.6951,
+      "baseLineY" : 360.54,
+      "fontId" : 9,
+      "text" : "•"
+    }, {
+      "leftX" : 145.92,
+      "bottomY" : 363.3972,
+      "rightX" : 149.256,
+      "topY" : 351.3972,
+      "baseLineY" : 360.54,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 363.275,
+      "rightX" : 208.38,
+      "topY" : 351.275,
+      "baseLineY" : 360.54,
+      "fontId" : 4,
+      "text" : "Late fees; "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 389.3952,
+      "rightX" : 145.92,
+      "topY" : 377.3952,
+      "baseLineY" : 387.2401,
+      "fontId" : 9,
+      "text" : "•"
+    }, {
+      "leftX" : 145.92,
+      "bottomY" : 390.0972,
+      "rightX" : 149.256,
+      "topY" : 378.0972,
+      "baseLineY" : 387.2401,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 389.975,
+      "rightX" : 516.2999,
+      "topY" : 377.975,
+      "baseLineY" : 387.2401,
+      "fontId" : 4,
+      "text" : "In-house servicer expenses such as employee salaries, in-house legal fees, "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 403.775,
+      "rightX" : 341.94,
+      "topY" : 391.775,
+      "baseLineY" : 401.04,
+      "fontId" : 4,
+      "text" : "travel, or REO management fees; and "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 429.8352,
+      "rightX" : 145.92,
+      "topY" : 417.8352,
+      "baseLineY" : 427.6801,
+      "fontId" : 9,
+      "text" : "•"
+    }, {
+      "leftX" : 145.92,
+      "bottomY" : 430.5372,
+      "rightX" : 149.256,
+      "topY" : 418.5372,
+      "baseLineY" : 427.6801,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 430.415,
+      "rightX" : 525.5397,
+      "topY" : 418.415,
+      "baseLineY" : 427.6801,
+      "fontId" : 4,
+      "text" : "Liquidation or disposition costs that is not reasonable and customary for the "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 444.215,
+      "rightX" : 509.28,
+      "topY" : 432.215,
+      "baseLineY" : 441.48,
+      "fontId" : 4,
+      "text" : "area or fees that exceed fees as noted in Attachment 18-C of Chapter 18. "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 470.0313,
+      "rightX" : 131.4,
+      "topY" : 458.0313,
+      "baseLineY" : 467.28,
+      "fontId" : 7,
+      "text" : "2."
+    }, {
+      "leftX" : 131.4,
+      "bottomY" : 470.5168,
+      "rightX" : 134.736,
+      "topY" : 458.5168,
+      "baseLineY" : 467.28,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 470.0313,
+      "rightX" : 405.42,
+      "topY" : 458.0313,
+      "baseLineY" : 467.28,
+      "fontId" : 7,
+      "text" : "Failure to Adhere to Required Collection Procedures "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 495.815,
+      "rightX" : 516.9587,
+      "topY" : 483.815,
+      "baseLineY" : 493.08,
+      "fontId" : 4,
+      "text" : "The servicer is responsible for ensuring that all required collection actions are "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 509.615,
+      "rightX" : 511.2598,
+      "topY" : 497.615,
+      "baseLineY" : 506.88,
+      "fontId" : 4,
+      "text" : "taken within the prescribed time frames and carefully documented.  The Agency "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 523.415,
+      "rightX" : 497.281,
+      "topY" : 511.415,
+      "baseLineY" : 520.68,
+      "fontId" : 4,
+      "text" : "will reduce or deny a servicer’s claim if the servicer fails to document that all "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 537.2149,
+      "rightX" : 519.9,
+      "topY" : 525.2149,
+      "baseLineY" : 534.48,
+      "fontId" : 4,
+      "text" : "required collection actions were taken at the appropriate times as noted in Chapter "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 551.0149,
+      "rightX" : 482.9433,
+      "topY" : 539.0149,
+      "baseLineY" : 548.28,
+      "fontId" : 4,
+      "text" : "18.  The following are the penalties for failure to fulfill required collection "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 564.8149,
+      "rightX" : 521.2798,
+      "topY" : 552.8149,
+      "baseLineY" : 562.08,
+      "fontId" : 4,
+      "text" : "obligations.  Penalties take into consideration grace periods offered by the Agency "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 578.615,
+      "rightX" : 310.08,
+      "topY" : 566.615,
+      "baseLineY" : 575.88,
+      "fontId" : 4,
+      "text" : "outlined Chapter 18 of this Handbook. "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 604.6751,
+      "rightX" : 145.92,
+      "topY" : 592.6751,
+      "baseLineY" : 602.52,
+      "fontId" : 9,
+      "text" : "•"
+    }, {
+      "leftX" : 145.92,
+      "bottomY" : 605.3772,
+      "rightX" : 149.256,
+      "topY" : 593.3772,
+      "baseLineY" : 602.52,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 605.255,
+      "rightX" : 524.8798,
+      "topY" : 593.255,
+      "baseLineY" : 602.52,
+      "fontId" : 4,
+      "text" : "If the servicer fails to attempt to make any contact with the borrower within "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 619.115,
+      "rightX" : 370.38,
+      "topY" : 607.115,
+      "baseLineY" : 616.38,
+      "fontId" : 4,
+      "text" : "65 days past due, the claim may be denied.  "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 645.1751,
+      "rightX" : 145.92,
+      "topY" : 633.1751,
+      "baseLineY" : 643.02,
+      "fontId" : 9,
+      "text" : "•"
+    }, {
+      "leftX" : 145.92,
+      "bottomY" : 645.8772,
+      "rightX" : 149.256,
+      "topY" : 633.8772,
+      "baseLineY" : 643.02,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 645.755,
+      "rightX" : 485.3362,
+      "topY" : 633.755,
+      "baseLineY" : 643.02,
+      "fontId" : 4,
+      "text" : "If the servicer fails to provide timely and accurate Electronic Status "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 659.555,
+      "rightX" : 525.54,
+      "topY" : 647.555,
+      "baseLineY" : 656.82,
+      "fontId" : 4,
+      "text" : "Reporting (ESR) including when the account is in default, the claim may be "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 673.355,
+      "rightX" : 250.32,
+      "topY" : 661.355,
+      "baseLineY" : 670.62,
+      "fontId" : 4,
+      "text" : "reduced or denied. "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 708.5991,
+      "rightX" : 193.0629,
+      "topY" : 698.5991,
+      "baseLineY" : 706.32,
+      "fontId" : 5,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 720.1191,
+      "rightX" : 221.1289,
+      "topY" : 710.1191,
+      "baseLineY" : 717.84,
+      "fontId" : 5,
+      "text" : "Renumbered (04-30-20)  PN 536 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 86.4,
+      "bottomY" : 83.6391,
+      "rightX" : 134.4359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 5,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 86.39,
+      "bottomY" : 95.102,
+      "rightX" : 135.8186,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 5,
+      "text" : "Appendix 8 "
+    }, {
+      "leftX" : 86.39,
+      "bottomY" : 106.625,
+      "rightX" : 134.1483,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 5,
+      "text" : "Page 2 of 5 "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 132.7151,
+      "rightX" : 145.92,
+      "topY" : 120.7151,
+      "baseLineY" : 130.56,
+      "fontId" : 9,
+      "text" : "•"
+    }, {
+      "leftX" : 145.92,
+      "bottomY" : 133.4171,
+      "rightX" : 149.256,
+      "topY" : 121.4171,
+      "baseLineY" : 130.56,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 133.295,
+      "rightX" : 508.0199,
+      "topY" : 121.295,
+      "baseLineY" : 130.56,
+      "fontId" : 4,
+      "text" : "If the servicer does not initiate contact with the borrower within 25 days "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 147.095,
+      "rightX" : 526.5601,
+      "topY" : 135.095,
+      "baseLineY" : 144.36,
+      "fontId" : 4,
+      "text" : "past due but makes contact within 65 days past due, accrued interest may be "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 160.8949,
+      "rightX" : 270.66,
+      "topY" : 148.8949,
+      "baseLineY" : 158.16,
+      "fontId" : 4,
+      "text" : "reduced by 50 percent. "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 186.9551,
+      "rightX" : 145.92,
+      "topY" : 174.9551,
+      "baseLineY" : 184.8,
+      "fontId" : 9,
+      "text" : "•"
+    }, {
+      "leftX" : 145.92,
+      "bottomY" : 187.6571,
+      "rightX" : 149.256,
+      "topY" : 175.6571,
+      "baseLineY" : 184.8,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 187.535,
+      "rightX" : 515.0399,
+      "topY" : 175.535,
+      "baseLineY" : 184.8,
+      "fontId" : 4,
+      "text" : "If the servicer fails to inspect the property within 65 days past due, but no "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 201.3949,
+      "rightX" : 463.9199,
+      "topY" : 189.3949,
+      "baseLineY" : 198.66,
+      "fontId" : 4,
+      "text" : "loss results, the accrued interest may be reduced by 10 percent. "
+    }, {
+      "leftX" : 140.3999,
+      "bottomY" : 227.4551,
+      "rightX" : 145.92,
+      "topY" : 215.4551,
+      "baseLineY" : 225.3,
+      "fontId" : 9,
+      "text" : "•"
+    }, {
+      "leftX" : 145.92,
+      "bottomY" : 228.1571,
+      "rightX" : 149.256,
+      "topY" : 216.1571,
+      "baseLineY" : 225.3,
+      "fontId" : 10,
+      "text" : " "
+    }, {
+      "leftX" : 158.3999,
+      "bottomY" : 228.035,
+      "rightX" : 510.2998,
+      "topY" : 216.035,
+      "baseLineY" : 225.3,
+      "fontId" : 4,
+      "text" : "If the servicer fails to inspect and secure an abandoned property, the loss "
+    }, {
+      "leftX" : 158.4,
+      "bottomY" : 241.8349,
+      "rightX" : 483.6599,
+      "topY" : 229.8349,
+      "baseLineY" : 239.1,
+      "fontId" : 4,
+      "text" : "claim will be reduced by 10 percent and the dollar value of the loss "
+    }, {
+      "leftX" : 158.3999,
+      "bottomY" : 255.6349,
+      "rightX" : 523.8599,
+      "topY" : 243.6349,
+      "baseLineY" : 252.9,
+      "fontId" : 4,
+      "text" : "attributable to the servicer’s failure to secure property, as documented in an "
+    }, {
+      "leftX" : 158.3999,
+      "bottomY" : 269.4349,
+      "rightX" : 525.9599,
+      "topY" : 257.4349,
+      "baseLineY" : 266.7,
+      "fontId" : 4,
+      "text" : "appraisal.  If a loss has not been documented by an appraisal, the claim may "
+    }, {
+      "leftX" : 158.3999,
+      "bottomY" : 283.2349,
+      "rightX" : 210.7199,
+      "topY" : 271.2349,
+      "baseLineY" : 280.4999,
+      "fontId" : 4,
+      "text" : "be denied. "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 309.0512,
+      "rightX" : 131.3999,
+      "topY" : 297.0512,
+      "baseLineY" : 306.2999,
+      "fontId" : 7,
+      "text" : "3."
+    }, {
+      "leftX" : 131.3999,
+      "bottomY" : 309.5367,
+      "rightX" : 134.7359,
+      "topY" : 297.5367,
+      "baseLineY" : 306.2999,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.3999,
+      "bottomY" : 309.0512,
+      "rightX" : 424.9799,
+      "topY" : 297.0512,
+      "baseLineY" : 306.2999,
+      "fontId" : 7,
+      "text" : "Failure to Adhere to Required Foreclosure Time Frames "
+    }, {
+      "leftX" : 140.3999,
+      "bottomY" : 334.8349,
+      "rightX" : 497.6998,
+      "topY" : 322.8349,
+      "baseLineY" : 332.0999,
+      "fontId" : 4,
+      "text" : "The servicer is responsible for foreclosing on the property within the time "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 348.6349,
+      "rightX" : 527.3999,
+      "topY" : 336.6349,
+      "baseLineY" : 345.8999,
+      "fontId" : 4,
+      "text" : "frames detailed in Attachment 18-B of Chapter 18.  If the servicer fails to do so, the "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 362.4349,
+      "rightX" : 508.2597,
+      "topY" : 350.4349,
+      "baseLineY" : 359.6999,
+      "fontId" : 4,
+      "text" : "Agency may reduce the claim by the amount of any interest accrued beyond the "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 376.2348,
+      "rightX" : 280.3187,
+      "topY" : 364.2348,
+      "baseLineY" : 373.4999,
+      "fontId" : 4,
+      "text" : "allowable foreclosure time line.  "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 402.0512,
+      "rightX" : 131.3999,
+      "topY" : 390.0512,
+      "baseLineY" : 399.2999,
+      "fontId" : 7,
+      "text" : "4."
+    }, {
+      "leftX" : 131.3999,
+      "bottomY" : 402.5366,
+      "rightX" : 134.7359,
+      "topY" : 390.5366,
+      "baseLineY" : 399.2999,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.3999,
+      "bottomY" : 402.0512,
+      "rightX" : 350.3999,
+      "topY" : 390.0512,
+      "baseLineY" : 399.2999,
+      "fontId" : 7,
+      "text" : "Failure to Adhere to Servicing Guidelines "
+    }, {
+      "leftX" : 140.3999,
+      "bottomY" : 427.8348,
+      "rightX" : 515.6998,
+      "topY" : 415.8348,
+      "baseLineY" : 425.0999,
+      "fontId" : 4,
+      "text" : "Although the Agency does not service loans, there are servicing requirements "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 441.6348,
+      "rightX" : 517.6199,
+      "topY" : 429.6348,
+      "baseLineY" : 438.8998,
+      "fontId" : 4,
+      "text" : "that lenders must follow.  If the Agency determines that the loan was not serviced "
+    }, {
+      "leftX" : 122.3998,
+      "bottomY" : 455.4348,
+      "rightX" : 509.6398,
+      "topY" : 443.4348,
+      "baseLineY" : 452.6998,
+      "fontId" : 4,
+      "text" : "in accordance with Agency requirements, the Agency may take any action up to "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 469.2348,
+      "rightX" : 519.2398,
+      "topY" : 457.2348,
+      "baseLineY" : 466.4998,
+      "fontId" : 4,
+      "text" : "and including reduction or denial of claim, terminating the loan note guarantee, or "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 483.0348,
+      "rightX" : 514.8599,
+      "topY" : 471.0348,
+      "baseLineY" : 480.2998,
+      "fontId" : 4,
+      "text" : "the requiring the servicing lender to indemnify the Agency if a loss claim is paid. "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 508.8511,
+      "rightX" : 131.3999,
+      "topY" : 496.8511,
+      "baseLineY" : 506.0998,
+      "fontId" : 7,
+      "text" : "5."
+    }, {
+      "leftX" : 131.3999,
+      "bottomY" : 509.3365,
+      "rightX" : 134.7359,
+      "topY" : 497.3365,
+      "baseLineY" : 506.0998,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.3999,
+      "bottomY" : 508.8511,
+      "rightX" : 501.7799,
+      "topY" : 496.8511,
+      "baseLineY" : 506.0998,
+      "fontId" : 7,
+      "text" : "Failure to File a Loss Claim Accurately and Within Required Timelines  "
+    }, {
+      "leftX" : 140.3999,
+      "bottomY" : 534.6347,
+      "rightX" : 508.9798,
+      "topY" : 522.6347,
+      "baseLineY" : 531.8998,
+      "fontId" : 4,
+      "text" : "The servicer is responsible for filing a timely and accurate loss claim.  If the "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 548.4347,
+      "rightX" : 505.8573,
+      "topY" : 536.4347,
+      "baseLineY" : 545.6998,
+      "fontId" : 4,
+      "text" : "servicer fails to meet agency required timelines when filing claims, the Agency "
+    }, {
+      "leftX" : 122.3999,
+      "bottomY" : 562.2347,
+      "rightX" : 477.9598,
+      "topY" : 550.2347,
+      "baseLineY" : 559.4998,
+      "fontId" : 4,
+      "text" : "may reduce any additional interest paid from the allowable days to zero.   "
+    }, {
+      "leftX" : 122.3998,
+      "bottomY" : 588.0511,
+      "rightX" : 131.3998,
+      "topY" : 576.0511,
+      "baseLineY" : 585.2998,
+      "fontId" : 7,
+      "text" : "6."
+    }, {
+      "leftX" : 131.3998,
+      "bottomY" : 588.5365,
+      "rightX" : 134.7358,
+      "topY" : 576.5365,
+      "baseLineY" : 585.2998,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.3998,
+      "bottomY" : 588.0511,
+      "rightX" : 481.7399,
+      "topY" : 576.0511,
+      "baseLineY" : 585.2998,
+      "fontId" : 7,
+      "text" : "Failure to Ensure That All Applicable Property Standards Were Met "
+    }, {
+      "leftX" : 140.3999,
+      "bottomY" : 613.7748,
+      "rightX" : 481.3798,
+      "topY" : 601.7748,
+      "baseLineY" : 611.0398,
+      "fontId" : 4,
+      "text" : "If a loss claim is filed that indicates that some or all of the loss may be "
+    }, {
+      "leftX" : 122.3998,
+      "bottomY" : 627.5747,
+      "rightX" : 507.8995,
+      "topY" : 615.5747,
+      "baseLineY" : 624.8398,
+      "fontId" : 4,
+      "text" : "attributable to problems with the property itself, the Agency will investigate the "
+    }, {
+      "leftX" : 122.3998,
+      "bottomY" : 641.3747,
+      "rightX" : 473.9998,
+      "topY" : 629.3747,
+      "baseLineY" : 638.6398,
+      "fontId" : 4,
+      "text" : "cause of the problem and determine if the originating lender is subject to "
+    }, {
+      "leftX" : 122.3998,
+      "bottomY" : 655.1748,
+      "rightX" : 406.6798,
+      "topY" : 643.1748,
+      "baseLineY" : 652.4398,
+      "fontId" : 4,
+      "text" : "indemnification in accordance with 7 CFR §3555.108(d).   "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 480.06,
+      "bottomY" : 83.6391,
+      "rightX" : 528.0958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 5,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 478.6672,
+      "bottomY" : 95.102,
+      "rightX" : 528.0958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 5,
+      "text" : "Appendix 8 "
+    }, {
+      "leftX" : 480.3505,
+      "bottomY" : 106.625,
+      "rightX" : 528.1088,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 5,
+      "text" : "Page 3 of 5 "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 132.4713,
+      "rightX" : 131.4,
+      "topY" : 120.4713,
+      "baseLineY" : 129.72,
+      "fontId" : 7,
+      "text" : "7."
+    }, {
+      "leftX" : 131.4,
+      "bottomY" : 132.9567,
+      "rightX" : 134.736,
+      "topY" : 120.9567,
+      "baseLineY" : 129.72,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 132.4713,
+      "rightX" : 306.12,
+      "topY" : 120.4713,
+      "baseLineY" : 129.72,
+      "fontId" : 7,
+      "text" : "Failure to Maintain the Property "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 158.2549,
+      "rightX" : 524.2773,
+      "topY" : 146.2549,
+      "baseLineY" : 155.52,
+      "fontId" : 4,
+      "text" : "Servicers are responsible for ensuring that properties securing guaranteed loans "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 172.0549,
+      "rightX" : 527.04,
+      "topY" : 160.0549,
+      "baseLineY" : 169.3199,
+      "fontId" : 4,
+      "text" : "are adequately maintained throughout the life of the loan.  Servicers are responsible "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 185.8549,
+      "rightX" : 486.9599,
+      "topY" : 173.8549,
+      "baseLineY" : 183.1199,
+      "fontId" : 4,
+      "text" : "for making protective advances to protect the security property at any point "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 199.6549,
+      "rightX" : 527.58,
+      "topY" : 187.6549,
+      "baseLineY" : 196.9199,
+      "fontId" : 4,
+      "text" : "necessary during the life of the loan determining occupancy status, and securing the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 213.4549,
+      "rightX" : 489.5999,
+      "topY" : 201.4549,
+      "baseLineY" : 210.7199,
+      "fontId" : 4,
+      "text" : "property.  If the Agency determines that failure to maintain the property has "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 227.2549,
+      "rightX" : 526.9199,
+      "topY" : 215.2549,
+      "baseLineY" : 224.5199,
+      "fontId" : 4,
+      "text" : "resulted in a loss, the Agency will determine the dollar value of the loss attributable "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 241.0549,
+      "rightX" : 502.86,
+      "topY" : 229.0549,
+      "baseLineY" : 238.3199,
+      "fontId" : 4,
+      "text" : "to the servicer’s failure to act and may deduct that amount from the loss claim. "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 266.8712,
+      "rightX" : 131.4,
+      "topY" : 254.8712,
+      "baseLineY" : 264.1199,
+      "fontId" : 7,
+      "text" : "8."
+    }, {
+      "leftX" : 131.4,
+      "bottomY" : 267.3566,
+      "rightX" : 134.736,
+      "topY" : 255.3566,
+      "baseLineY" : 264.1199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 266.8712,
+      "rightX" : 450.42,
+      "topY" : 254.8712,
+      "baseLineY" : 264.1199,
+      "fontId" : 7,
+      "text" : "Failure to Dispose of the Property for an Appropriate Amount "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 292.6548,
+      "rightX" : 521.9997,
+      "topY" : 280.6548,
+      "baseLineY" : 289.9199,
+      "fontId" : 4,
+      "text" : "The servicer is responsible for ensuring that when property is liquidated, either "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 306.4548,
+      "rightX" : 484.9799,
+      "topY" : 294.4548,
+      "baseLineY" : 303.7198,
+      "fontId" : 4,
+      "text" : "voluntarily or through foreclosure, it is sold for an amount supported by an "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 320.2548,
+      "rightX" : 494.4599,
+      "topY" : 308.2548,
+      "baseLineY" : 317.5198,
+      "fontId" : 4,
+      "text" : "appraisal and is acceptable to the Agency.  Chapter 18 outlines the minimum "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 334.0548,
+      "rightX" : 509.6397,
+      "topY" : 322.0548,
+      "baseLineY" : 331.3198,
+      "fontId" : 4,
+      "text" : "requirements for meeting the Agency’s price expectations in various disposition "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 347.8548,
+      "rightX" : 517.0187,
+      "topY" : 335.8548,
+      "baseLineY" : 345.1198,
+      "fontId" : 4,
+      "text" : "scenarios.  If the servicer fails to dispose of a property at an appropriate price, the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 361.6548,
+      "rightX" : 521.8799,
+      "topY" : 349.6548,
+      "baseLineY" : 358.9198,
+      "fontId" : 4,
+      "text" : "Agency may reduce the loss claim by the difference between the sale price and the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 375.4548,
+      "rightX" : 303.96,
+      "topY" : 363.4548,
+      "baseLineY" : 372.7198,
+      "fontId" : 4,
+      "text" : "price that should have been obtained. "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 401.2711,
+      "rightX" : 131.4,
+      "topY" : 389.2711,
+      "baseLineY" : 398.5198,
+      "fontId" : 7,
+      "text" : "9."
+    }, {
+      "leftX" : 131.4,
+      "bottomY" : 401.7565,
+      "rightX" : 134.736,
+      "topY" : 389.7565,
+      "baseLineY" : 398.5198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 401.2711,
+      "rightX" : 322.02,
+      "topY" : 389.2711,
+      "baseLineY" : 398.5198,
+      "fontId" : 7,
+      "text" : "Failure to Obtain Required Security "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 427.0547,
+      "rightX" : 525.5999,
+      "topY" : 415.0547,
+      "baseLineY" : 424.3198,
+      "fontId" : 4,
+      "text" : "The servicer is responsible for obtaining the needed security for the loan.  If the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 440.8547,
+      "rightX" : 522.0601,
+      "topY" : 428.8547,
+      "baseLineY" : 438.1198,
+      "fontId" : 4,
+      "text" : "borrower becomes delinquent on the loan and it is shown that the servicer failed to "
+    }, {
+      "leftX" : 122.4001,
+      "bottomY" : 454.6547,
+      "rightX" : 525.6001,
+      "topY" : 442.6547,
+      "baseLineY" : 451.9197,
+      "fontId" : 4,
+      "text" : "obtain all required security, the loss claim will be denied in accordance with 7 CFR "
+    }, {
+      "leftX" : 122.4001,
+      "bottomY" : 468.4547,
+      "rightX" : 192.7201,
+      "topY" : 456.4547,
+      "baseLineY" : 465.7197,
+      "fontId" : 4,
+      "text" : "§3555.108(c). "
+    }, {
+      "leftX" : 122.4001,
+      "bottomY" : 494.271,
+      "rightX" : 137.4001,
+      "topY" : 482.271,
+      "baseLineY" : 491.5197,
+      "fontId" : 7,
+      "text" : "10."
+    }, {
+      "leftX" : 137.4001,
+      "bottomY" : 494.7564,
+      "rightX" : 140.7361,
+      "topY" : 482.7564,
+      "baseLineY" : 491.5197,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 140.4001,
+      "bottomY" : 494.271,
+      "rightX" : 352.4401,
+      "topY" : 482.271,
+      "baseLineY" : 491.5197,
+      "fontId" : 7,
+      "text" : "Failure to Maintain the Required Security "
+    }, {
+      "leftX" : 140.4001,
+      "bottomY" : 520.0547,
+      "rightX" : 516.3,
+      "topY" : 508.0547,
+      "baseLineY" : 517.3197,
+      "fontId" : 4,
+      "text" : "If the servicer fails to make a needed protective advance in accordance with 7 "
+    }, {
+      "leftX" : 122.4001,
+      "bottomY" : 533.7947,
+      "rightX" : 497.94,
+      "topY" : 521.7947,
+      "baseLineY" : 531.0597,
+      "fontId" : 4,
+      "text" : "CFR §3555.302(b), the claim will be reduced by the cost of repairing damage "
+    }, {
+      "leftX" : 122.4001,
+      "bottomY" : 547.5946,
+      "rightX" : 239.6401,
+      "topY" : 535.5946,
+      "baseLineY" : 544.8597,
+      "fontId" : 4,
+      "text" : "caused by failure to act. "
+    }, {
+      "leftX" : 140.4001,
+      "bottomY" : 573.3946,
+      "rightX" : 527.9999,
+      "topY" : 561.3946,
+      "baseLineY" : 570.6597,
+      "fontId" : 4,
+      "text" : "If the servicer fails to contact the borrower within 65 days past due to determine "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 587.1947,
+      "rightX" : 497.5799,
+      "topY" : 575.1947,
+      "baseLineY" : 584.4597,
+      "fontId" : 4,
+      "text" : "whether the property has been abandoned and/or fails to secure an abandoned "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 600.9947,
+      "rightX" : 511.08,
+      "topY" : 588.9947,
+      "baseLineY" : 598.2597,
+      "fontId" : 4,
+      "text" : "property by 95 days past due and no damage attributable to the servicer’s failure "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 614.7947,
+      "rightX" : 427.2599,
+      "topY" : 602.7947,
+      "baseLineY" : 612.0597,
+      "fontId" : 4,
+      "text" : "can be documented, the claim must be reduced by 10 percent.   "
+    }, {
+      "leftX" : 140.4,
+      "bottomY" : 640.5947,
+      "rightX" : 509.2186,
+      "topY" : 628.5947,
+      "baseLineY" : 637.8597,
+      "fontId" : 4,
+      "text" : "If damage attributable to the servicer’s failure can be documented, the claim "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 654.3947,
+      "rightX" : 503.3399,
+      "topY" : 642.3947,
+      "baseLineY" : 651.6597,
+      "fontId" : 4,
+      "text" : "must be reduced by 10 percent plus the cost of repairing damage caused by the "
+    }, {
+      "leftX" : 122.4,
+      "bottomY" : 668.1947,
+      "rightX" : 189.06,
+      "topY" : 656.1947,
+      "baseLineY" : 665.4597,
+      "fontId" : 4,
+      "text" : "failure to act. "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 696.5991,
+      "rightX" : 193.0629,
+      "topY" : 686.5991,
+      "baseLineY" : 694.32,
+      "fontId" : 5,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 86.4,
+      "bottomY" : 708.1191,
+      "rightX" : 221.1289,
+      "topY" : 698.1191,
+      "baseLineY" : 705.84,
+      "fontId" : 5,
+      "text" : "Renumbered (04-30-20)  PN 536 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 90,
+      "bottomY" : 83.6391,
+      "rightX" : 138.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 5,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 95.102,
+      "rightX" : 139.4186,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 5,
+      "text" : "Appendix 8 "
+    }, {
+      "leftX" : 89.99,
+      "bottomY" : 106.625,
+      "rightX" : 137.7353,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 5,
+      "text" : "Page 4 of 5 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 132.4713,
+      "rightX" : 141,
+      "topY" : 120.4713,
+      "baseLineY" : 129.72,
+      "fontId" : 7,
+      "text" : "11."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 132.9567,
+      "rightX" : 144.336,
+      "topY" : 120.9567,
+      "baseLineY" : 129.72,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 132.4713,
+      "rightX" : 333.4199,
+      "topY" : 120.4713,
+      "baseLineY" : 129.72,
+      "fontId" : 7,
+      "text" : "Provision of Unauthorized Assistance "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 158.2549,
+      "rightX" : 506.1599,
+      "topY" : 146.2549,
+      "baseLineY" : 155.52,
+      "fontId" : 4,
+      "text" : "The Agency cannot make a loss claim payment in the case of unauthorized "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 172.0549,
+      "rightX" : 511.1999,
+      "topY" : 160.0549,
+      "baseLineY" : 169.3199,
+      "fontId" : 4,
+      "text" : "assistance.  If, at the time the loan note guarantee was approved, a borrower did "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 185.8549,
+      "rightX" : 516.24,
+      "topY" : 173.8549,
+      "baseLineY" : 183.1199,
+      "fontId" : 4,
+      "text" : "not qualify for the SFHGLP or evidence is present that the property did not meet "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 199.6549,
+      "rightX" : 435.8998,
+      "topY" : 187.6549,
+      "baseLineY" : 196.9199,
+      "fontId" : 4,
+      "text" : "all property requirements, the Agency must deny the loss claim. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 225.4549,
+      "rightX" : 513.2998,
+      "topY" : 213.4549,
+      "baseLineY" : 222.7199,
+      "fontId" : 4,
+      "text" : "In very unusual circumstances, it is possible that a borrower might use some "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 239.2549,
+      "rightX" : 492.6,
+      "topY" : 227.2549,
+      "baseLineY" : 236.5199,
+      "fontId" : 4,
+      "text" : "portion of the loan funds for an unauthorized purpose without the servicer’s "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 253.0549,
+      "rightX" : 484.2599,
+      "topY" : 241.0549,
+      "baseLineY" : 250.3199,
+      "fontId" : 4,
+      "text" : "knowledge (i.e. – cash returned at closing that did not represent cash from "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 266.8548,
+      "rightX" : 484.8599,
+      "topY" : 254.8548,
+      "baseLineY" : 264.1199,
+      "fontId" : 4,
+      "text" : "personal funds contributed by or on behalf (gift funds) of the borrower) or "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 280.6548,
+      "rightX" : 520.8599,
+      "topY" : 268.6548,
+      "baseLineY" : 277.9199,
+      "fontId" : 4,
+      "text" : "purchase of furniture.  In such a case, the Agency would honor the loss claim, but "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 294.4548,
+      "rightX" : 513.2398,
+      "topY" : 282.4548,
+      "baseLineY" : 291.7198,
+      "fontId" : 4,
+      "text" : "reduce the loss claim payment by the amount of the funds that were used for the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 308.2548,
+      "rightX" : 241.62,
+      "topY" : 296.2548,
+      "baseLineY" : 305.5198,
+      "fontId" : 4,
+      "text" : "unauthorized purpose.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 334.0711,
+      "rightX" : 141,
+      "topY" : 322.0711,
+      "baseLineY" : 331.3198,
+      "fontId" : 7,
+      "text" : "12."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 334.5566,
+      "rightX" : 144.336,
+      "topY" : 322.5566,
+      "baseLineY" : 331.3198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 334.0711,
+      "rightX" : 435.06,
+      "topY" : 322.0711,
+      "baseLineY" : 331.3198,
+      "fontId" : 7,
+      "text" : "Commission of, or Failure to, Report Knowledge of Fraud "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 359.8548,
+      "rightX" : 511.5599,
+      "topY" : 347.8548,
+      "baseLineY" : 357.1198,
+      "fontId" : 4,
+      "text" : "If a lender or servicer commits fraud or fails to report fraud about which the "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 373.6548,
+      "rightX" : 502.6199,
+      "topY" : 361.6548,
+      "baseLineY" : 370.9198,
+      "fontId" : 4,
+      "text" : "lender or servicer knew, or should have known, the Agency will deny the loss "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 387.4548,
+      "rightX" : 155.6999,
+      "topY" : 375.4548,
+      "baseLineY" : 384.7198,
+      "fontId" : 4,
+      "text" : "claim."
+    }, {
+      "leftX" : 155.64,
+      "bottomY" : 387.2591,
+      "rightX" : 158.385,
+      "topY" : 376.2591,
+      "baseLineY" : 384.72,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 413.2713,
+      "rightX" : 141,
+      "topY" : 401.2713,
+      "baseLineY" : 410.52,
+      "fontId" : 7,
+      "text" : "13."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 413.7567,
+      "rightX" : 144.336,
+      "topY" : 401.7567,
+      "baseLineY" : 410.52,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 413.2713,
+      "rightX" : 521.76,
+      "topY" : 401.2713,
+      "baseLineY" : 410.52,
+      "fontId" : 7,
+      "text" : "Failure to Carry Out Established Monitoring Guidelines for Real Estate tax "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 427.0713,
+      "rightX" : 308.04,
+      "topY" : 415.0713,
+      "baseLineY" : 424.32,
+      "fontId" : 7,
+      "text" : "and Hazard Insurance Premium "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 452.8549,
+      "rightX" : 498.5999,
+      "topY" : 440.8549,
+      "baseLineY" : 450.12,
+      "fontId" : 4,
+      "text" : "If the servicer fails to carry out established monitoring guidelines for real "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 466.6549,
+      "rightX" : 485.82,
+      "topY" : 454.6549,
+      "baseLineY" : 463.92,
+      "fontId" : 4,
+      "text" : "estate tax and hazard insurance premium, the Agency may revoke servicer "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 480.4549,
+      "rightX" : 174,
+      "topY" : 468.4549,
+      "baseLineY" : 477.7199,
+      "fontId" : 4,
+      "text" : "approval. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 506.2712,
+      "rightX" : 141,
+      "topY" : 494.2712,
+      "baseLineY" : 503.5199,
+      "fontId" : 7,
+      "text" : "14."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 506.7567,
+      "rightX" : 144.336,
+      "topY" : 494.7567,
+      "baseLineY" : 503.5199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 506.2712,
+      "rightX" : 416.94,
+      "topY" : 494.2712,
+      "baseLineY" : 503.5199,
+      "fontId" : 7,
+      "text" : "Sale of Loan to Non-Approved Servicer or Other Party "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 532.0549,
+      "rightX" : 508.86,
+      "topY" : 520.0549,
+      "baseLineY" : 529.3199,
+      "fontId" : 4,
+      "text" : "If the loan is sold to a party not approved to participate in the SFHGLP, the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 545.8549,
+      "rightX" : 490.5599,
+      "topY" : 533.8549,
+      "baseLineY" : 543.1199,
+      "fontId" : 4,
+      "text" : "loan note guarantee will be considered invalid for the non-approved lender. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 571.6112,
+      "rightX" : 141,
+      "topY" : 559.6112,
+      "baseLineY" : 568.8599,
+      "fontId" : 7,
+      "text" : "15."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 572.0967,
+      "rightX" : 144.336,
+      "topY" : 560.0967,
+      "baseLineY" : 568.8599,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 571.6112,
+      "rightX" : 374.04,
+      "topY" : 559.6112,
+      "baseLineY" : 568.8599,
+      "fontId" : 7,
+      "text" : "Failure to Adhere to Underwriting Guidelines "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 597.3949,
+      "rightX" : 489.66,
+      "topY" : 585.3949,
+      "baseLineY" : 594.6599,
+      "fontId" : 4,
+      "text" : "Although the Agency does not underwrite loans, there are underwriting "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 611.1949,
+      "rightX" : 503.8174,
+      "topY" : 599.1949,
+      "baseLineY" : 608.46,
+      "fontId" : 4,
+      "text" : "requirements that lenders must follow.  If the Agency determines that the loan "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 624.9949,
+      "rightX" : 514.6199,
+      "topY" : 612.9949,
+      "baseLineY" : 622.2599,
+      "fontId" : 4,
+      "text" : "was not underwritten in accordance with Agency requirements, the Agency may "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 638.7949,
+      "rightX" : 504.4799,
+      "topY" : 626.7949,
+      "baseLineY" : 636.0599,
+      "fontId" : 4,
+      "text" : "terminate the loan note guarantee, or the originating lender may be required to "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 652.5949,
+      "rightX" : 343.92,
+      "topY" : 640.5949,
+      "baseLineY" : 649.8599,
+      "fontId" : 4,
+      "text" : "indemnify the Agency if a loss claim is paid. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 672.3949,
+      "rightX" : 147,
+      "topY" : 660.3949,
+      "baseLineY" : 669.6599,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 708.1191,
+      "rightX" : 92.505,
+      "topY" : 698.1191,
+      "baseLineY" : 705.84,
+      "fontId" : 5,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 476.46,
+      "bottomY" : 83.6391,
+      "rightX" : 524.4958,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 5,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 475.0672,
+      "bottomY" : 95.102,
+      "rightX" : 524.4958,
+      "topY" : 85.102,
+      "baseLineY" : 92.8229,
+      "fontId" : 5,
+      "text" : "Appendix 8 "
+    }, {
+      "leftX" : 476.7505,
+      "bottomY" : 106.625,
+      "rightX" : 524.5059,
+      "topY" : 96.625,
+      "baseLineY" : 104.3459,
+      "fontId" : 5,
+      "text" : "Page 5 of 5 "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 132.4713,
+      "rightX" : 141,
+      "topY" : 120.4713,
+      "baseLineY" : 129.72,
+      "fontId" : 7,
+      "text" : "16."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 132.9567,
+      "rightX" : 144.336,
+      "topY" : 120.9567,
+      "baseLineY" : 129.72,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 132.4713,
+      "rightX" : 323.04,
+      "topY" : 120.4713,
+      "baseLineY" : 129.72,
+      "fontId" : 7,
+      "text" : "Incomplete Closing Documentation "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 158.2549,
+      "rightX" : 505.9199,
+      "topY" : 146.2549,
+      "baseLineY" : 155.52,
+      "fontId" : 4,
+      "text" : "If the Agency determines that closing documentation is incomplete, or that "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 172.0549,
+      "rightX" : 516.8398,
+      "topY" : 160.0549,
+      "baseLineY" : 169.3199,
+      "fontId" : 4,
+      "text" : "there were minor, correctable errors in the documents, the lender may be granted "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 185.8549,
+      "rightX" : 516.96,
+      "topY" : 173.8549,
+      "baseLineY" : 183.1199,
+      "fontId" : 4,
+      "text" : "up to 30 days to correct the situation.  If the complete package is not resubmitted "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 199.6549,
+      "rightX" : 509.0409,
+      "topY" : 187.6549,
+      "baseLineY" : 196.9199,
+      "fontId" : 4,
+      "text" : "within 30 days, and the account is in default, the Conditional Commitment will "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 213.4549,
+      "rightX" : 204,
+      "topY" : 201.4549,
+      "baseLineY" : 210.7199,
+      "fontId" : 4,
+      "text" : "not be honored. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 233.2712,
+      "rightX" : 141,
+      "topY" : 221.2712,
+      "baseLineY" : 230.5199,
+      "fontId" : 7,
+      "text" : "17."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 233.7566,
+      "rightX" : 144.336,
+      "topY" : 221.7566,
+      "baseLineY" : 230.5199,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 233.2712,
+      "rightX" : 299.34,
+      "topY" : 221.2712,
+      "baseLineY" : 230.5199,
+      "fontId" : 7,
+      "text" : "Unauthorized Sale or Transfer "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 259.0549,
+      "rightX" : 521.9398,
+      "topY" : 247.0549,
+      "baseLineY" : 256.3199,
+      "fontId" : 4,
+      "text" : "The Agency will withdraw the guarantee if the security property is transferred "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 272.8548,
+      "rightX" : 474.96,
+      "topY" : 260.8548,
+      "baseLineY" : 270.1199,
+      "fontId" : 4,
+      "text" : "without an assumption of the debt, unless transferred under the Garn-St. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 286.6548,
+      "rightX" : 206.94,
+      "topY" : 274.6548,
+      "baseLineY" : 283.9199,
+      "fontId" : 4,
+      "text" : "Germaine rule.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 312.4712,
+      "rightX" : 141,
+      "topY" : 300.4712,
+      "baseLineY" : 309.7198,
+      "fontId" : 7,
+      "text" : "18."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 312.9566,
+      "rightX" : 144.336,
+      "topY" : 300.9566,
+      "baseLineY" : 309.7198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 312.4712,
+      "rightX" : 469.74,
+      "topY" : 300.4712,
+      "baseLineY" : 309.7198,
+      "fontId" : 7,
+      "text" : "Failure to Adhere to Agency Standards for Handling Bankruptcy "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 338.2548,
+      "rightX" : 515.16,
+      "topY" : 326.2548,
+      "baseLineY" : 335.5198,
+      "fontId" : 4,
+      "text" : "The Agency may reduce or deny any loss claim by 10 percent resulting from "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 352.0548,
+      "rightX" : 492.9,
+      "topY" : 340.0548,
+      "baseLineY" : 349.3198,
+      "fontId" : 4,
+      "text" : "an account in bankruptcy that is subsequently foreclosed when accurate and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 365.8548,
+      "rightX" : 289.62,
+      "topY" : 353.8548,
+      "baseLineY" : 363.1198,
+      "fontId" : 4,
+      "text" : "timely actions were not initiated.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 391.6711,
+      "rightX" : 141,
+      "topY" : 379.6711,
+      "baseLineY" : 388.9198,
+      "fontId" : 7,
+      "text" : "19."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 392.1565,
+      "rightX" : 144.336,
+      "topY" : 380.1565,
+      "baseLineY" : 388.9198,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 391.6711,
+      "rightX" : 439.98,
+      "topY" : 379.6711,
+      "baseLineY" : 388.9198,
+      "fontId" : 7,
+      "text" : "Property with Environmental Issues at Time of Liquidation "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 417.4548,
+      "rightX" : 515.52,
+      "topY" : 405.4548,
+      "baseLineY" : 414.7198,
+      "fontId" : 4,
+      "text" : "If the property’s value at the time of liquidation is affected by environmental "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 431.2547,
+      "rightX" : 526.2001,
+      "topY" : 419.2547,
+      "baseLineY" : 428.5198,
+      "fontId" : 4,
+      "text" : "issues, the servicer must document how the hazard developed and became known.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 445.0547,
+      "rightX" : 515.8798,
+      "topY" : 433.0547,
+      "baseLineY" : 442.3198,
+      "fontId" : 4,
+      "text" : "If the servicer failed to conduct appropriate due diligence at loan origination, the "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 458.8547,
+      "rightX" : 514.621,
+      "topY" : 446.8547,
+      "baseLineY" : 456.1198,
+      "fontId" : 4,
+      "text" : "loss claim will be denied or reduced by the decrease in market value attributable "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 472.6547,
+      "rightX" : 269.28,
+      "topY" : 460.6547,
+      "baseLineY" : 469.9197,
+      "fontId" : 4,
+      "text" : "to the environmental hazard.  "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 696.5991,
+      "rightX" : 196.6629,
+      "topY" : 686.5991,
+      "baseLineY" : 694.32,
+      "fontId" : 5,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 90,
+      "bottomY" : 708.1191,
+      "rightX" : 224.7289,
+      "topY" : 698.1191,
+      "baseLineY" : 705.84,
+      "fontId" : 5,
+      "text" : "Renumbered (04-30-20)  PN 536 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 22.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 22.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#c0c0c0"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "Arial-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 11.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

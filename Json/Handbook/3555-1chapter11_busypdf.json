@@ -1,0 +1,6180 @@
+{
+  "pdfDoc" : "3555-1chapter11.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 200.76,
+      "bottomY" : 99.9179,
+      "rightX" : 414.6819,
+      "topY" : 85.9179,
+      "baseLineY" : 96.6,
+      "fontId" : 2,
+      "text" : "CHAPTER 11: RATIO ANALYSIS "
+    }, {
+      "leftX" : 306,
+      "bottomY" : 113.555,
+      "rightX" : 309,
+      "topY" : 101.555,
+      "baseLineY" : 110.82,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 139.4639,
+      "rightX" : 93,
+      "topY" : 127.4639,
+      "baseLineY" : 136.62,
+      "fontId" : 4,
+      "text" : "11.1"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 139.7708,
+      "rightX" : 96.336,
+      "topY" : 127.7708,
+      "baseLineY" : 136.62,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 139.4639,
+      "rightX" : 207,
+      "topY" : 127.4639,
+      "baseLineY" : 136.62,
+      "fontId" : 4,
+      "text" : "INTRODUCTION "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 165.1549,
+      "rightX" : 516.6588,
+      "topY" : 153.1549,
+      "baseLineY" : 162.42,
+      "fontId" : 3,
+      "text" : "Ratio calculations are used to determine if the applicants’ repayment income can "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 178.9549,
+      "rightX" : 505.1998,
+      "topY" : 166.9549,
+      "baseLineY" : 176.22,
+      "fontId" : 3,
+      "text" : "reasonably be expected to meet the anticipated monthly housing expense and total "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 192.7549,
+      "rightX" : 535.9799,
+      "topY" : 180.7549,
+      "baseLineY" : 190.02,
+      "fontId" : 3,
+      "text" : "monthly obligations involved in homeownership.  The Agency has established standards "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 206.5549,
+      "rightX" : 532.92,
+      "topY" : 194.5549,
+      "baseLineY" : 203.8199,
+      "fontId" : 3,
+      "text" : "for principal, interest, taxes, and insurance (PITI) and total debt (TD) ratios; however in "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 220.3549,
+      "rightX" : 518.2199,
+      "topY" : 208.3549,
+      "baseLineY" : 217.6199,
+      "fontId" : 3,
+      "text" : "some instances, there is flexibility to apply these standards when valid compensating "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 234.1549,
+      "rightX" : 204.96,
+      "topY" : 222.1549,
+      "baseLineY" : 231.4199,
+      "fontId" : 3,
+      "text" : "factors are present.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 260.0638,
+      "rightX" : 93,
+      "topY" : 248.0638,
+      "baseLineY" : 257.2199,
+      "fontId" : 4,
+      "text" : "11.2"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 260.3707,
+      "rightX" : 96.336,
+      "topY" : 248.3707,
+      "baseLineY" : 257.2199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 260.0638,
+      "rightX" : 317.9399,
+      "topY" : 248.0638,
+      "baseLineY" : 257.2199,
+      "fontId" : 4,
+      "text" : "THE RATIOS [7 CFR 3555.151(h)(1)(i)] "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 285.7549,
+      "rightX" : 535.3197,
+      "topY" : 273.7549,
+      "baseLineY" : 283.0199,
+      "fontId" : 3,
+      "text" : "Ratios are calculated by utilizing the repayment income, as determined by the lender "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 299.5549,
+      "rightX" : 523.0198,
+      "topY" : 287.5549,
+      "baseLineY" : 296.8199,
+      "fontId" : 3,
+      "text" : "in Chapter 9, Section 2 of this Handbook.  To qualify for a guarantee, borrowers must "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 313.3548,
+      "rightX" : 405.2399,
+      "topY" : 301.3548,
+      "baseLineY" : 310.6199,
+      "fontId" : 3,
+      "text" : "meet the Agency’s standards for both the PITI and TD ratios. "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 339.2638,
+      "rightX" : 119.6399,
+      "topY" : 327.2638,
+      "baseLineY" : 336.4199,
+      "fontId" : 4,
+      "text" : "A."
+    }, {
+      "leftX" : 119.6399,
+      "bottomY" : 339.5707,
+      "rightX" : 122.9759,
+      "topY" : 327.5707,
+      "baseLineY" : 336.4199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 339.2638,
+      "rightX" : 207.6599,
+      "topY" : 327.2638,
+      "baseLineY" : 336.4199,
+      "fontId" : 4,
+      "text" : "The PITI Ratio "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 364.9548,
+      "rightX" : 504.2398,
+      "topY" : 352.9548,
+      "baseLineY" : 362.2198,
+      "fontId" : 3,
+      "text" : "Applicants are considered to have repayment ability if their proposed monthly "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 378.7548,
+      "rightX" : 503.9399,
+      "topY" : 366.7548,
+      "baseLineY" : 376.0198,
+      "fontId" : 3,
+      "text" : "housing expense does not exceed 34 percent of their repayment income.  Monthly "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 392.5548,
+      "rightX" : 236.9399,
+      "topY" : 380.5548,
+      "baseLineY" : 389.8198,
+      "fontId" : 3,
+      "text" : "housing expenses include: "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 418.6149,
+      "rightX" : 131.5199,
+      "topY" : 406.6149,
+      "baseLineY" : 416.4598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 419.317,
+      "rightX" : 134.8559,
+      "topY" : 407.317,
+      "baseLineY" : 416.4598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 419.1948,
+      "rightX" : 253.0199,
+      "topY" : 407.1948,
+      "baseLineY" : 416.4598,
+      "fontId" : 3,
+      "text" : "First Mortgage (P&I); "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 445.255,
+      "rightX" : 131.5199,
+      "topY" : 433.255,
+      "baseLineY" : 443.0999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 445.957,
+      "rightX" : 134.8559,
+      "topY" : 433.957,
+      "baseLineY" : 443.0999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 445.8348,
+      "rightX" : 245.9399,
+      "topY" : 433.8348,
+      "baseLineY" : 443.0999,
+      "fontId" : 3,
+      "text" : "Subordinate Lien(s); "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 471.895,
+      "rightX" : 131.5199,
+      "topY" : 459.895,
+      "baseLineY" : 469.7399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 472.597,
+      "rightX" : 134.8559,
+      "topY" : 460.597,
+      "baseLineY" : 469.7399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 472.4748,
+      "rightX" : 268.0199,
+      "topY" : 460.4748,
+      "baseLineY" : 469.7399,
+      "fontId" : 3,
+      "text" : "Homeowner’s Insurance; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 498.595,
+      "rightX" : 131.5199,
+      "topY" : 486.595,
+      "baseLineY" : 496.4399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 499.297,
+      "rightX" : 134.8559,
+      "topY" : 487.297,
+      "baseLineY" : 496.4399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 499.1748,
+      "rightX" : 310.2599,
+      "topY" : 487.1748,
+      "baseLineY" : 496.4399,
+      "fontId" : 3,
+      "text" : "Supplemental Property Insurance; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 525.235,
+      "rightX" : 131.5199,
+      "topY" : 513.235,
+      "baseLineY" : 523.0799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 525.937,
+      "rightX" : 134.8559,
+      "topY" : 513.937,
+      "baseLineY" : 523.0799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 525.8149,
+      "rightX" : 223.3199,
+      "topY" : 513.8149,
+      "baseLineY" : 523.0799,
+      "fontId" : 3,
+      "text" : "Property Taxes; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 551.875,
+      "rightX" : 131.5199,
+      "topY" : 539.875,
+      "baseLineY" : 549.7199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 552.5771,
+      "rightX" : 134.8559,
+      "topY" : 540.5771,
+      "baseLineY" : 549.7199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 552.4549,
+      "rightX" : 437.9399,
+      "topY" : 540.4549,
+      "baseLineY" : 549.7199,
+      "fontId" : 3,
+      "text" : "Mortgage Insurance (First year annual fee monthly amount); "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 578.575,
+      "rightX" : 131.5199,
+      "topY" : 566.575,
+      "baseLineY" : 576.4199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 579.2771,
+      "rightX" : 134.8559,
+      "topY" : 567.2771,
+      "baseLineY" : 576.4199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 579.1549,
+      "rightX" : 403.9799,
+      "topY" : 567.1549,
+      "baseLineY" : 576.4199,
+      "fontId" : 3,
+      "text" : "Association/Project Dues (Condo, Co-Op, PUD); and "
+    }, {
+      "leftX" : 125.9998,
+      "bottomY" : 605.215,
+      "rightX" : 131.5199,
+      "topY" : 593.215,
+      "baseLineY" : 603.0599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 605.917,
+      "rightX" : 134.8559,
+      "topY" : 593.917,
+      "baseLineY" : 603.0599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9998,
+      "bottomY" : 605.7948,
+      "rightX" : 177.2999,
+      "topY" : 593.7948,
+      "baseLineY" : 603.0599,
+      "fontId" : 3,
+      "text" : "Other. "
+    }, {
+      "leftX" : 107.9998,
+      "bottomY" : 631.7038,
+      "rightX" : 118.9799,
+      "topY" : 619.7038,
+      "baseLineY" : 628.8599,
+      "fontId" : 4,
+      "text" : "B."
+    }, {
+      "leftX" : 118.9799,
+      "bottomY" : 632.0107,
+      "rightX" : 122.3158,
+      "topY" : 620.0107,
+      "baseLineY" : 628.8599,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 125.9998,
+      "bottomY" : 631.7038,
+      "rightX" : 238.0199,
+      "topY" : 619.7038,
+      "baseLineY" : 628.8599,
+      "fontId" : 4,
+      "text" : "The Total Debt Ratio "
+    }, {
+      "leftX" : 125.9998,
+      "bottomY" : 657.3949,
+      "rightX" : 518.8798,
+      "topY" : 645.3949,
+      "baseLineY" : 654.6599,
+      "fontId" : 3,
+      "text" : "Applicants are considered to have repayment ability when their total debts do not "
+    }, {
+      "leftX" : 107.9998,
+      "bottomY" : 671.1949,
+      "rightX" : 330.5399,
+      "topY" : 659.1949,
+      "baseLineY" : 668.4599,
+      "fontId" : 3,
+      "text" : "exceed 41 percent of their repayment income. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.7992,
+      "rightX" : 176.1379,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "(03-09-16) SPECIAL PN "
+    }, {
+      "leftX" : 296.8689,
+      "bottomY" : 715.7992,
+      "rightX" : 317.6704,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "11-1 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 727.3191,
+      "rightX" : 187.8312,
+      "topY" : 717.3191,
+      "baseLineY" : 725.04,
+      "fontId" : 1,
+      "text" : "Revised (08-05-24)  PN 621 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 181.1078,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.2 The Ratios "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 120.935,
+      "rightX" : 515.9399,
+      "topY" : 108.935,
+      "baseLineY" : 118.2,
+      "fontId" : 3,
+      "text" : "The total debt ratio includes monthly housing expense (PITI) plus other monthly "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 134.735,
+      "rightX" : 364.56,
+      "topY" : 122.735,
+      "baseLineY" : 132,
+      "fontId" : 3,
+      "text" : "credit or debt obligations incurred by the applicants.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 160.535,
+      "rightX" : 527.3398,
+      "topY" : 148.535,
+      "baseLineY" : 157.8,
+      "fontId" : 3,
+      "text" : "The lender must document the applicants’ debts through various records including, "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 174.3349,
+      "rightX" : 536.22,
+      "topY" : 162.3349,
+      "baseLineY" : 171.6,
+      "fontId" : 3,
+      "text" : "but not limited to, credit reports, direct or third-party verifications, court documents, and "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 188.1349,
+      "rightX" : 511.6799,
+      "topY" : 176.1349,
+      "baseLineY" : 185.4,
+      "fontId" : 3,
+      "text" : "verification of deposits.  All open debts/accounts (including non-medical collection "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 201.9349,
+      "rightX" : 541.7985,
+      "topY" : 189.9349,
+      "baseLineY" : 199.2,
+      "fontId" : 3,
+      "text" : "accounts and judgments) incurred through the closing date must be considered in the total "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 215.7349,
+      "rightX" : 500.8799,
+      "topY" : 203.7349,
+      "baseLineY" : 212.9999,
+      "fontId" : 3,
+      "text" : "debt calculation and documented in GUS and the loan application, as applicable.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 229.5349,
+      "rightX" : 533.2199,
+      "topY" : 217.5349,
+      "baseLineY" : 226.7999,
+      "fontId" : 3,
+      "text" : "Amounts listed on the credit report will be used unless verification supports an alternate "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 243.3349,
+      "rightX" : 516.5999,
+      "topY" : 231.3349,
+      "baseLineY" : 240.5999,
+      "fontId" : 3,
+      "text" : "payment amount. If an amount other than that shown on the credit report is used, the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 257.1349,
+      "rightX" : 522.96,
+      "topY" : 245.1349,
+      "baseLineY" : 254.3999,
+      "fontId" : 3,
+      "text" : "lender will provide documentation of the amount utilized. This documentation will be "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 270.9349,
+      "rightX" : 337.62,
+      "topY" : 258.9349,
+      "baseLineY" : 268.1999,
+      "fontId" : 3,
+      "text" : "uploaded with the final submission to Agency.  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 296.7348,
+      "rightX" : 490.98,
+      "topY" : 284.7348,
+      "baseLineY" : 293.9999,
+      "fontId" : 3,
+      "text" : "The following obligation expenses must be included in the monthly debts:   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 322.6438,
+      "rightX" : 135,
+      "topY" : 310.6438,
+      "baseLineY" : 319.7999,
+      "fontId" : 4,
+      "text" : "1."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 322.9507,
+      "rightX" : 138.336,
+      "topY" : 310.9507,
+      "baseLineY" : 319.7999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 322.5512,
+      "rightX" : 171,
+      "topY" : 310.5512,
+      "baseLineY" : 319.7999,
+      "fontId" : 8,
+      "text" : "PITI "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 348.595,
+      "rightX" : 149.52,
+      "topY" : 336.595,
+      "baseLineY" : 346.4399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 349.297,
+      "rightX" : 152.856,
+      "topY" : 337.297,
+      "baseLineY" : 346.4399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 349.1748,
+      "rightX" : 513.6586,
+      "topY" : 337.1748,
+      "baseLineY" : 346.4399,
+      "fontId" : 3,
+      "text" : "First Mortgage (P&I), property taxes, homeowner’s insurance, mortgage "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 362.9748,
+      "rightX" : 523.5599,
+      "topY" : 350.9748,
+      "baseLineY" : 360.2399,
+      "fontId" : 3,
+      "text" : "insurance (first year annual fee monthly amount), association/project dues, "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 376.7748,
+      "rightX" : 195.6599,
+      "topY" : 364.7748,
+      "baseLineY" : 374.0399,
+      "fontId" : 3,
+      "text" : "other.  "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 402.6838,
+      "rightX" : 134.9999,
+      "topY" : 390.6838,
+      "baseLineY" : 399.8398,
+      "fontId" : 4,
+      "text" : "2."
+    }, {
+      "leftX" : 134.9999,
+      "bottomY" : 402.9907,
+      "rightX" : 138.3359,
+      "topY" : 390.9907,
+      "baseLineY" : 399.8398,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 402.5912,
+      "rightX" : 250.6799,
+      "topY" : 390.5912,
+      "baseLineY" : 399.8398,
+      "fontId" : 8,
+      "text" : "Installment accounts "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 428.635,
+      "rightX" : 149.5199,
+      "topY" : 416.635,
+      "baseLineY" : 426.4799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 429.337,
+      "rightX" : 152.8559,
+      "topY" : 417.337,
+      "baseLineY" : 426.4799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 429.2148,
+      "rightX" : 498.3598,
+      "topY" : 417.2148,
+      "baseLineY" : 426.4799,
+      "fontId" : 3,
+      "text" : "Accounts that will be paid in full through a specified number of fixed "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 443.0748,
+      "rightX" : 506.5799,
+      "topY" : 431.0748,
+      "baseLineY" : 440.3398,
+      "fontId" : 3,
+      "text" : "payments such as auto, personal, secured/unsecured, etc. must have the "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 456.8748,
+      "rightX" : 296.6399,
+      "topY" : 444.8748,
+      "baseLineY" : 454.1398,
+      "fontId" : 3,
+      "text" : "monthly payment included. "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 482.9349,
+      "rightX" : 149.5199,
+      "topY" : 470.9349,
+      "baseLineY" : 480.7798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 483.637,
+      "rightX" : 152.8559,
+      "topY" : 471.637,
+      "baseLineY" : 480.7798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 483.5148,
+      "rightX" : 511.9195,
+      "topY" : 471.5148,
+      "baseLineY" : 480.7798,
+      "fontId" : 3,
+      "text" : "If ten or less months of repayment remains per the credit report, creditor "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 497.3148,
+      "rightX" : 523.9199,
+      "topY" : 485.3148,
+      "baseLineY" : 494.5798,
+      "fontId" : 3,
+      "text" : "verification, etc., the monthly debt may be omitted if the payment does not "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 511.1148,
+      "rightX" : 426.9,
+      "topY" : 499.1148,
+      "baseLineY" : 508.3798,
+      "fontId" : 3,
+      "text" : "exceed five percent of the monthly repayment income. "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 537.1749,
+      "rightX" : 149.5199,
+      "topY" : 525.1749,
+      "baseLineY" : 535.0198,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 537.877,
+      "rightX" : 152.8559,
+      "topY" : 525.877,
+      "baseLineY" : 535.0198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 537.7548,
+      "rightX" : 527.5798,
+      "topY" : 525.7548,
+      "baseLineY" : 535.0198,
+      "fontId" : 3,
+      "text" : "Installment debt may be paid down to ten months or less of remaining debt. "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 563.6638,
+      "rightX" : 134.9999,
+      "topY" : 551.6638,
+      "baseLineY" : 560.8198,
+      "fontId" : 4,
+      "text" : "3."
+    }, {
+      "leftX" : 134.9999,
+      "bottomY" : 563.9707,
+      "rightX" : 138.3359,
+      "topY" : 551.9707,
+      "baseLineY" : 560.8198,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 563.5711,
+      "rightX" : 249.2999,
+      "topY" : 551.5711,
+      "baseLineY" : 560.8198,
+      "fontId" : 8,
+      "text" : "Revolving accounts   "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 589.6149,
+      "rightX" : 149.5199,
+      "topY" : 577.6149,
+      "baseLineY" : 587.4598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 590.317,
+      "rightX" : 152.8559,
+      "topY" : 578.317,
+      "baseLineY" : 587.4598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 590.1948,
+      "rightX" : 523.5,
+      "topY" : 578.1948,
+      "baseLineY" : 587.4598,
+      "fontId" : 3,
+      "text" : "Credit cards, lines of credit, secured/unsecured loans, etc. must include the "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 604.0548,
+      "rightX" : 536.2798,
+      "topY" : 592.0548,
+      "baseLineY" : 601.3198,
+      "fontId" : 3,
+      "text" : "minimum monthly payment documented on the credit report or other creditor "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 617.8548,
+      "rightX" : 305.94,
+      "topY" : 605.8548,
+      "baseLineY" : 615.1199,
+      "fontId" : 3,
+      "text" : "verification in the total debts. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 643.9149,
+      "rightX" : 149.52,
+      "topY" : 631.9149,
+      "baseLineY" : 641.7598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 644.617,
+      "rightX" : 152.856,
+      "topY" : 632.617,
+      "baseLineY" : 641.7598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 644.4948,
+      "rightX" : 527.5798,
+      "topY" : 632.4948,
+      "baseLineY" : 641.7598,
+      "fontId" : 3,
+      "text" : "If the credit report shows an outstanding balance, but no minimum monthly "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 658.2948,
+      "rightX" : 506.88,
+      "topY" : 646.2948,
+      "baseLineY" : 655.5598,
+      "fontId" : 3,
+      "text" : "payment, the payment must be calculated as five percent of the balance "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 672.0948,
+      "rightX" : 302.58,
+      "topY" : 660.0948,
+      "baseLineY" : 669.3599,
+      "fontId" : 3,
+      "text" : "reported on the credit report. "
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 703.7992,
+      "rightX" : 317.6215,
+      "topY" : 693.7992,
+      "baseLineY" : 701.52,
+      "fontId" : 1,
+      "text" : "11-2 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.3191,
+      "rightX" : 74.505,
+      "topY" : 705.3191,
+      "baseLineY" : 713.04,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 181.1078,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.2 The Ratios "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 121.1951,
+      "rightX" : 149.52,
+      "topY" : 109.1951,
+      "baseLineY" : 119.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 121.8971,
+      "rightX" : 152.856,
+      "topY" : 109.8971,
+      "baseLineY" : 119.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 121.7749,
+      "rightX" : 531.7797,
+      "topY" : 109.7749,
+      "baseLineY" : 119.04,
+      "fontId" : 3,
+      "text" : "The lender may obtain a current account statement or creditor verification to "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 135.6349,
+      "rightX" : 540.5999,
+      "topY" : 123.6349,
+      "baseLineY" : 132.9,
+      "fontId" : 3,
+      "text" : "document the actual monthly payment and include that amount in the monthly "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 149.4349,
+      "rightX" : 193.32,
+      "topY" : 137.4349,
+      "baseLineY" : 146.7,
+      "fontId" : 3,
+      "text" : "debts. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 175.4951,
+      "rightX" : 149.52,
+      "topY" : 163.4951,
+      "baseLineY" : 173.34,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 176.1971,
+      "rightX" : 152.856,
+      "topY" : 164.1971,
+      "baseLineY" : 173.34,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 176.0749,
+      "rightX" : 525.9599,
+      "topY" : 164.0749,
+      "baseLineY" : 173.34,
+      "fontId" : 3,
+      "text" : "Revolving accounts with no outstanding balance on the credit report do not "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 189.8749,
+      "rightX" : 462.3,
+      "topY" : 177.8749,
+      "baseLineY" : 187.14,
+      "fontId" : 3,
+      "text" : "require an estimated payment to be included in the debt ratio.  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 215.9351,
+      "rightX" : 149.52,
+      "topY" : 203.9351,
+      "baseLineY" : 213.78,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 216.6371,
+      "rightX" : 152.856,
+      "topY" : 204.6371,
+      "baseLineY" : 213.78,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 216.5149,
+      "rightX" : 540.24,
+      "topY" : 204.5149,
+      "baseLineY" : 213.78,
+      "fontId" : 3,
+      "text" : "Revolving accounts with no outstanding balance are not required to be closed. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 242.4239,
+      "rightX" : 135,
+      "topY" : 230.4239,
+      "baseLineY" : 239.58,
+      "fontId" : 4,
+      "text" : "4."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 242.7308,
+      "rightX" : 138.336,
+      "topY" : 230.7308,
+      "baseLineY" : 239.58,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 242.3313,
+      "rightX" : 261.6588,
+      "topY" : 230.3313,
+      "baseLineY" : 239.58,
+      "fontId" : 8,
+      "text" : "Open 30-Day Accounts "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 268.3751,
+      "rightX" : 149.52,
+      "topY" : 256.3751,
+      "baseLineY" : 266.22,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 269.0771,
+      "rightX" : 152.856,
+      "topY" : 257.0771,
+      "baseLineY" : 266.22,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 268.9549,
+      "rightX" : 541.8597,
+      "topY" : 256.9549,
+      "baseLineY" : 266.22,
+      "fontId" : 3,
+      "text" : "A 30-day account is a credit arrangement requiring the applicant to pay off the "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 282.8149,
+      "rightX" : 419.5799,
+      "topY" : 270.8149,
+      "baseLineY" : 280.08,
+      "fontId" : 3,
+      "text" : "full outstanding balance on the account every month. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 308.8751,
+      "rightX" : 149.52,
+      "topY" : 296.8751,
+      "baseLineY" : 306.72,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 309.5771,
+      "rightX" : 152.856,
+      "topY" : 297.5771,
+      "baseLineY" : 306.72,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 309.4549,
+      "rightX" : 540.5975,
+      "topY" : 297.4549,
+      "baseLineY" : 306.72,
+      "fontId" : 3,
+      "text" : "The lender may utilize the credit report to document the applicant has paid the "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 323.2549,
+      "rightX" : 401.94,
+      "topY" : 311.2549,
+      "baseLineY" : 320.52,
+      "fontId" : 3,
+      "text" : "outstanding balance for the previous 12 months.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 349.3151,
+      "rightX" : 149.52,
+      "topY" : 337.3151,
+      "baseLineY" : 347.16,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 350.0171,
+      "rightX" : 152.856,
+      "topY" : 338.0171,
+      "baseLineY" : 347.16,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 349.8949,
+      "rightX" : 516.9,
+      "topY" : 337.8949,
+      "baseLineY" : 347.16,
+      "fontId" : 3,
+      "text" : "If the credit report reflects late payments in the last 12 months, the lender "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 363.6949,
+      "rightX" : 520.2,
+      "topY" : 351.6949,
+      "baseLineY" : 360.96,
+      "fontId" : 3,
+      "text" : "must include five percent of the outstanding balance in the monthly debts. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 389.7551,
+      "rightX" : 149.52,
+      "topY" : 377.7551,
+      "baseLineY" : 387.6,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 390.4571,
+      "rightX" : 152.856,
+      "topY" : 378.4571,
+      "baseLineY" : 387.6,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 390.3349,
+      "rightX" : 538.86,
+      "topY" : 378.3349,
+      "baseLineY" : 387.6,
+      "fontId" : 3,
+      "text" : "30-day accounts that are paid monthly in full are not included in the total debt "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 404.1949,
+      "rightX" : 189.96,
+      "topY" : 392.1949,
+      "baseLineY" : 401.46,
+      "fontId" : 3,
+      "text" : "ratio. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 430.0439,
+      "rightX" : 135,
+      "topY" : 418.0439,
+      "baseLineY" : 427.2,
+      "fontId" : 4,
+      "text" : "5."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 430.3508,
+      "rightX" : 138.336,
+      "topY" : 418.3508,
+      "baseLineY" : 427.2,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 429.9513,
+      "rightX" : 470.4,
+      "topY" : 417.9513,
+      "baseLineY" : 427.2,
+      "fontId" : 8,
+      "text" : "Court Ordered Debts:  Child support, alimony, garnishments, etc. "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 455.9951,
+      "rightX" : 149.5199,
+      "topY" : 443.9951,
+      "baseLineY" : 453.84,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 456.6971,
+      "rightX" : 152.8559,
+      "topY" : 444.6971,
+      "baseLineY" : 453.84,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 456.5749,
+      "rightX" : 521.58,
+      "topY" : 444.5749,
+      "baseLineY" : 453.84,
+      "fontId" : 3,
+      "text" : "Court ordered debts must have the payment included in the total debt ratio "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 470.4349,
+      "rightX" : 509.2196,
+      "topY" : 458.4349,
+      "baseLineY" : 467.7,
+      "fontId" : 3,
+      "text" : "unless the applicant has a release of liability from the court/creditor and "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 484.2349,
+      "rightX" : 336.8399,
+      "topY" : 472.2349,
+      "baseLineY" : 481.4999,
+      "fontId" : 3,
+      "text" : "acceptable evidence is documented. "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 510.2951,
+      "rightX" : 149.5199,
+      "topY" : 498.2951,
+      "baseLineY" : 508.14,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 510.9971,
+      "rightX" : 152.8559,
+      "topY" : 498.9971,
+      "baseLineY" : 508.14,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 510.8749,
+      "rightX" : 536.8762,
+      "topY" : 498.8749,
+      "baseLineY" : 508.14,
+      "fontId" : 3,
+      "text" : "Lenders will utilize select pages from the applicable agreement/court order to "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 524.6749,
+      "rightX" : 518.8799,
+      "topY" : 512.6749,
+      "baseLineY" : 521.9399,
+      "fontId" : 3,
+      "text" : "document the required monthly payment due and the duration of the debt. "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 550.7351,
+      "rightX" : 149.5199,
+      "topY" : 538.7351,
+      "baseLineY" : 548.58,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 551.4371,
+      "rightX" : 152.8559,
+      "topY" : 539.4371,
+      "baseLineY" : 548.58,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 551.3149,
+      "rightX" : 531.6597,
+      "topY" : 539.3149,
+      "baseLineY" : 548.58,
+      "fontId" : 3,
+      "text" : "Court ordered debts with ten or less payments remaining may be excluded if "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 565.1149,
+      "rightX" : 532.2,
+      "topY" : 553.1149,
+      "baseLineY" : 562.3799,
+      "fontId" : 3,
+      "text" : "the payment does not exceed five percent of the monthly repayment income. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 591.1751,
+      "rightX" : 149.52,
+      "topY" : 579.1751,
+      "baseLineY" : 589.02,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 591.8771,
+      "rightX" : 152.856,
+      "topY" : 579.8771,
+      "baseLineY" : 589.02,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 591.7549,
+      "rightX" : 522.2999,
+      "topY" : 579.7549,
+      "baseLineY" : 589.02,
+      "fontId" : 3,
+      "text" : "For GUS transactions, the lender will manually enter the obligation(s) as a "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 605.6149,
+      "rightX" : 510.9597,
+      "topY" : 593.6149,
+      "baseLineY" : 602.8799,
+      "fontId" : 3,
+      "text" : "monthly liability. When the obligation account is entered as “other,” the "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 619.4149,
+      "rightX" : 537.54,
+      "topY" : 607.4149,
+      "baseLineY" : 616.6799,
+      "fontId" : 3,
+      "text" : "lender will specify what the obligation is (i.e. court ordered child support).  A "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 633.2149,
+      "rightX" : 515.6998,
+      "topY" : 621.2149,
+      "baseLineY" : 630.48,
+      "fontId" : 3,
+      "text" : "manual entry of this monthly obligation does not require an underwriting "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 647.0149,
+      "rightX" : 459.1199,
+      "topY" : 635.0149,
+      "baseLineY" : 644.28,
+      "fontId" : 3,
+      "text" : "recommendation of “Accept” to be downgraded to a “Refer.” "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 673.075,
+      "rightX" : 149.5199,
+      "topY" : 661.075,
+      "baseLineY" : 670.9199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 673.7771,
+      "rightX" : 152.8559,
+      "topY" : 661.7771,
+      "baseLineY" : 670.9199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 673.6549,
+      "rightX" : 540.8399,
+      "topY" : 661.6549,
+      "baseLineY" : 670.9199,
+      "fontId" : 3,
+      "text" : "Lenders must confirm repayment agreements are current.  Refer to Chapter 10 "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 687.4549,
+      "rightX" : 432.9,
+      "topY" : 675.4549,
+      "baseLineY" : 684.72,
+      "fontId" : 3,
+      "text" : "for court ordered debt guidance and program eligibility. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.7992,
+      "rightX" : 178.6629,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 296.8789,
+      "bottomY" : 715.7992,
+      "rightX" : 317.6804,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "11-3 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 727.3191,
+      "rightX" : 190.2961,
+      "topY" : 717.3191,
+      "baseLineY" : 725.04,
+      "fontId" : 1,
+      "text" : "Revised (08-05-24)  PN 621  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 181.1178,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.2 The Ratios "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 121.0439,
+      "rightX" : 135,
+      "topY" : 109.0439,
+      "baseLineY" : 118.2,
+      "fontId" : 4,
+      "text" : "6."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 121.3509,
+      "rightX" : 138.336,
+      "topY" : 109.3509,
+      "baseLineY" : 118.2,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 120.9513,
+      "rightX" : 251.04,
+      "topY" : 108.9513,
+      "baseLineY" : 118.2,
+      "fontId" : 8,
+      "text" : "Child Care Expenses "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 146.9951,
+      "rightX" : 149.52,
+      "topY" : 134.9951,
+      "baseLineY" : 144.84,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 147.6972,
+      "rightX" : 152.856,
+      "topY" : 135.6972,
+      "baseLineY" : 144.84,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 147.575,
+      "rightX" : 541.5,
+      "topY" : 135.575,
+      "baseLineY" : 144.84,
+      "fontId" : 3,
+      "text" : "Child care expenses are not required to be included in the monthly debt ratio.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 173.5439,
+      "rightX" : 135,
+      "topY" : 161.5439,
+      "baseLineY" : 170.7,
+      "fontId" : 4,
+      "text" : "7."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 173.8509,
+      "rightX" : 138.336,
+      "topY" : 161.8509,
+      "baseLineY" : 170.7,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 173.4513,
+      "rightX" : 214.68,
+      "topY" : 161.4513,
+      "baseLineY" : 170.7,
+      "fontId" : 8,
+      "text" : "Student loans "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 199.4951,
+      "rightX" : 149.52,
+      "topY" : 187.4951,
+      "baseLineY" : 197.34,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 200.1972,
+      "rightX" : 152.856,
+      "topY" : 188.1972,
+      "baseLineY" : 197.34,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 200.075,
+      "rightX" : 533.6388,
+      "topY" : 188.075,
+      "baseLineY" : 197.34,
+      "fontId" : 3,
+      "text" : "For outstanding student loans, regardless of the payment status, lenders must "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 213.875,
+      "rightX" : 184.32,
+      "topY" : 201.875,
+      "baseLineY" : 211.14,
+      "fontId" : 3,
+      "text" : "use: "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 241.7372,
+      "rightX" : 169.2,
+      "topY" : 229.7372,
+      "baseLineY" : 236.94,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 169.2,
+      "bottomY" : 239.7971,
+      "rightX" : 172.536,
+      "topY" : 227.7971,
+      "baseLineY" : 236.94,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 239.675,
+      "rightX" : 484.9209,
+      "topY" : 227.675,
+      "baseLineY" : 236.94,
+      "fontId" : 3,
+      "text" : "The payment amount reported on the credit report or the actual "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 253.475,
+      "rightX" : 501.54,
+      "topY" : 241.475,
+      "baseLineY" : 250.74,
+      "fontId" : 3,
+      "text" : "documented payment, when the payment amount is above zero; or "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 281.3372,
+      "rightX" : 169.2,
+      "topY" : 269.3372,
+      "baseLineY" : 276.54,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 169.2,
+      "bottomY" : 279.3971,
+      "rightX" : 172.536,
+      "topY" : 267.3971,
+      "baseLineY" : 276.54,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 279.2749,
+      "rightX" : 536.2198,
+      "topY" : 267.2749,
+      "baseLineY" : 276.54,
+      "fontId" : 3,
+      "text" : "One half (.50) percent of the outstanding loan balance documented on the "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 293.0749,
+      "rightX" : 524.16,
+      "topY" : 281.0749,
+      "baseLineY" : 290.34,
+      "fontId" : 3,
+      "text" : "credit report or creditor verification, when the payment amount is zero. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 319.1351,
+      "rightX" : 149.52,
+      "topY" : 307.1351,
+      "baseLineY" : 316.98,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 319.8371,
+      "rightX" : 152.856,
+      "topY" : 307.8371,
+      "baseLineY" : 316.98,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 319.7149,
+      "rightX" : 533.5798,
+      "topY" : 307.7149,
+      "baseLineY" : 316.98,
+      "fontId" : 3,
+      "text" : "Student loans in the applicant’s name alone but paid by another party remain "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 333.5149,
+      "rightX" : 516.96,
+      "topY" : 321.5149,
+      "baseLineY" : 330.78,
+      "fontId" : 3,
+      "text" : "the legal responsibility of the applicant.  The applicable payment must be "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 347.3149,
+      "rightX" : 313.6199,
+      "topY" : 335.3149,
+      "baseLineY" : 344.58,
+      "fontId" : 3,
+      "text" : "included in the monthly debts.  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 373.3751,
+      "rightX" : 149.52,
+      "topY" : 361.3751,
+      "baseLineY" : 371.22,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 374.0771,
+      "rightX" : 152.856,
+      "topY" : 362.0771,
+      "baseLineY" : 371.22,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 373.9549,
+      "rightX" : 535.9197,
+      "topY" : 361.9549,
+      "baseLineY" : 371.22,
+      "fontId" : 3,
+      "text" : "Student loans in a “forgiveness” plan/program remain the legal responsibility "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 387.7549,
+      "rightX" : 513.5396,
+      "topY" : 375.7549,
+      "baseLineY" : 385.02,
+      "fontId" : 3,
+      "text" : "of the applicant until they are released of liability from the creditor.  The "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 401.5549,
+      "rightX" : 450.9,
+      "topY" : 389.5549,
+      "baseLineY" : 398.8199,
+      "fontId" : 3,
+      "text" : "applicable payment must be included in the monthly debts.  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 427.6151,
+      "rightX" : 149.52,
+      "topY" : 415.6151,
+      "baseLineY" : 425.46,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 428.3171,
+      "rightX" : 152.856,
+      "topY" : 416.3171,
+      "baseLineY" : 425.46,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 428.1949,
+      "rightX" : 438.24,
+      "topY" : 416.1949,
+      "baseLineY" : 425.46,
+      "fontId" : 3,
+      "text" : "Co-signed obligations are addressed below in section 11. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 454.1639,
+      "rightX" : 135,
+      "topY" : 442.1639,
+      "baseLineY" : 451.3199,
+      "fontId" : 4,
+      "text" : "8."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 454.4708,
+      "rightX" : 138.336,
+      "topY" : 442.4708,
+      "baseLineY" : 451.3199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 454.0713,
+      "rightX" : 287.94,
+      "topY" : 442.0713,
+      "baseLineY" : 451.3199,
+      "fontId" : 8,
+      "text" : "Mortgages:  Rental Property "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 480.1151,
+      "rightX" : 149.52,
+      "topY" : 468.1151,
+      "baseLineY" : 477.96,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 480.8171,
+      "rightX" : 152.856,
+      "topY" : 468.8171,
+      "baseLineY" : 477.96,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 480.6949,
+      "rightX" : 521.8198,
+      "topY" : 468.6949,
+      "baseLineY" : 477.96,
+      "fontId" : 3,
+      "text" : "A GUS Accept recommendation will not require a manual downgrade to a "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 494.4949,
+      "rightX" : 425.22,
+      "topY" : 482.4949,
+      "baseLineY" : 491.7599,
+      "fontId" : 3,
+      "text" : "Refer when the net monthly rental income is negative. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 520.5551,
+      "rightX" : 149.52,
+      "topY" : 508.5551,
+      "baseLineY" : 518.4,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 521.2571,
+      "rightX" : 152.856,
+      "topY" : 509.2571,
+      "baseLineY" : 518.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 521.1349,
+      "rightX" : 542.2161,
+      "topY" : 509.1349,
+      "baseLineY" : 518.4,
+      "fontId" : 3,
+      "text" : "Income received from rents may only be counted for repayment if received for "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 534.9349,
+      "rightX" : 525.2398,
+      "topY" : 522.9349,
+      "baseLineY" : 532.2,
+      "fontId" : 3,
+      "text" : "24 months or more. Rental income received for less than 24 months should "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 548.7349,
+      "rightX" : 366.24,
+      "topY" : 536.7349,
+      "baseLineY" : 545.9999,
+      "fontId" : 3,
+      "text" : "not be entered into GUS as rental income. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 574.7951,
+      "rightX" : 149.52,
+      "topY" : 562.7951,
+      "baseLineY" : 572.64,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 575.4971,
+      "rightX" : 152.856,
+      "topY" : 563.4971,
+      "baseLineY" : 572.64,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 575.3749,
+      "rightX" : 528.8984,
+      "topY" : 563.3749,
+      "baseLineY" : 572.64,
+      "fontId" : 3,
+      "text" : "If the credit report reflects late mortgage payments on the rental dwelling in "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 589.2349,
+      "rightX" : 515.9397,
+      "topY" : 577.2349,
+      "baseLineY" : 586.4999,
+      "fontId" : 3,
+      "text" : "the 12 months prior to loan application, the full mortgage liability and all "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 603.0349,
+      "rightX" : 436.62,
+      "topY" : 591.0349,
+      "baseLineY" : 600.2999,
+      "fontId" : 3,
+      "text" : "associated costs must be included in the monthly debts.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 629.095,
+      "rightX" : 149.52,
+      "topY" : 617.095,
+      "baseLineY" : 626.9399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 629.7971,
+      "rightX" : 152.856,
+      "topY" : 617.7971,
+      "baseLineY" : 626.9399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 629.6749,
+      "rightX" : 388.92,
+      "topY" : 617.6749,
+      "baseLineY" : 626.9399,
+      "fontId" : 3,
+      "text" : "Refer to Chapter 9 for rental income guidance. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 655.5839,
+      "rightX" : 135,
+      "topY" : 643.5839,
+      "baseLineY" : 652.74,
+      "fontId" : 4,
+      "text" : "9."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 655.8908,
+      "rightX" : 138.336,
+      "topY" : 643.8908,
+      "baseLineY" : 652.74,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 655.4913,
+      "rightX" : 322.62,
+      "topY" : 643.4913,
+      "baseLineY" : 652.74,
+      "fontId" : 8,
+      "text" : "Mortgages:  No Release of Liability "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 681.535,
+      "rightX" : 149.52,
+      "topY" : 669.535,
+      "baseLineY" : 679.3799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 682.2371,
+      "rightX" : 152.856,
+      "topY" : 670.2371,
+      "baseLineY" : 679.3799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 682.1149,
+      "rightX" : 521.2798,
+      "topY" : 670.1149,
+      "baseLineY" : 679.3799,
+      "fontId" : 3,
+      "text" : "Mortgage liabilities disposed of through a sale, trade, or transfer without a "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 695.9149,
+      "rightX" : 536.94,
+      "topY" : 683.9149,
+      "baseLineY" : 693.1799,
+      "fontId" : 3,
+      "text" : "release of liability (i.e. the borrower remains on the promissory note) must be "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.7992,
+      "rightX" : 74.505,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 296.8789,
+      "bottomY" : 715.7992,
+      "rightX" : 317.6804,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "11-4 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 727.3191,
+      "rightX" : 74.505,
+      "topY" : 717.3191,
+      "baseLineY" : 725.04,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 181.1078,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.2 The Ratios "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 120.935,
+      "rightX" : 537.2398,
+      "topY" : 108.935,
+      "baseLineY" : 118.2,
+      "fontId" : 3,
+      "text" : "included in the total debt ratio unless evidence can be obtained to confirm the "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 134.735,
+      "rightX" : 503.88,
+      "topY" : 122.735,
+      "baseLineY" : 132,
+      "fontId" : 3,
+      "text" : "remaining party/new owner has successfully made the payment for the "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 148.535,
+      "rightX" : 381.3,
+      "topY" : 136.535,
+      "baseLineY" : 145.8,
+      "fontId" : 3,
+      "text" : "previous 12 months prior to loan application. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 174.5951,
+      "rightX" : 149.52,
+      "topY" : 162.5951,
+      "baseLineY" : 172.44,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 175.2971,
+      "rightX" : 152.856,
+      "topY" : 163.2971,
+      "baseLineY" : 172.44,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 175.175,
+      "rightX" : 525.8397,
+      "topY" : 163.175,
+      "baseLineY" : 172.44,
+      "fontId" : 3,
+      "text" : "Evidence may be reported through the credit report or verification from the "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 189.035,
+      "rightX" : 535.86,
+      "topY" : 177.035,
+      "baseLineY" : 186.3,
+      "fontId" : 3,
+      "text" : "creditor/servicer to document the payment history has been current for the 12 "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 202.8349,
+      "rightX" : 321.96,
+      "topY" : 190.8349,
+      "baseLineY" : 200.1,
+      "fontId" : 3,
+      "text" : "months prior to loan application. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 228.8951,
+      "rightX" : 149.52,
+      "topY" : 216.8951,
+      "baseLineY" : 226.74,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 229.5971,
+      "rightX" : 152.856,
+      "topY" : 217.5971,
+      "baseLineY" : 226.74,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 229.475,
+      "rightX" : 536.2799,
+      "topY" : 217.475,
+      "baseLineY" : 226.74,
+      "fontId" : 3,
+      "text" : "If there are late payments in the previous 12 months prior to loan application, "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 243.2749,
+      "rightX" : 483.9,
+      "topY" : 231.2749,
+      "baseLineY" : 240.54,
+      "fontId" : 3,
+      "text" : "the full mortgage obligation must be included in the monthly debt. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 269.1839,
+      "rightX" : 141,
+      "topY" : 257.1839,
+      "baseLineY" : 266.34,
+      "fontId" : 4,
+      "text" : "10."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 269.4908,
+      "rightX" : 144.336,
+      "topY" : 257.4908,
+      "baseLineY" : 266.34,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 269.0913,
+      "rightX" : 251.28,
+      "topY" : 257.0913,
+      "baseLineY" : 266.34,
+      "fontId" : 8,
+      "text" : "Mortgages: Divorce   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 295.1351,
+      "rightX" : 149.52,
+      "topY" : 283.1351,
+      "baseLineY" : 292.98,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 295.8371,
+      "rightX" : 152.856,
+      "topY" : 283.8371,
+      "baseLineY" : 292.98,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 295.7149,
+      "rightX" : 533.52,
+      "topY" : 283.7149,
+      "baseLineY" : 292.98,
+      "fontId" : 3,
+      "text" : "In the case of a divorce, the lender must obtain a copy of the legal separation "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 309.5149,
+      "rightX" : 528.2399,
+      "topY" : 297.5149,
+      "baseLineY" : 306.78,
+      "fontId" : 3,
+      "text" : "agreement or divorce decree to document the remaining party/new owner is "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 323.3149,
+      "rightX" : 520.9221,
+      "topY" : 311.3149,
+      "baseLineY" : 320.58,
+      "fontId" : 3,
+      "text" : "responsible to pay all mortgage debts from the effective date of the decree "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 337.1149,
+      "rightX" : 205.98,
+      "topY" : 325.1149,
+      "baseLineY" : 334.3799,
+      "fontId" : 3,
+      "text" : "forward. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 363.1751,
+      "rightX" : 149.52,
+      "topY" : 351.1751,
+      "baseLineY" : 361.02,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 363.8771,
+      "rightX" : 152.856,
+      "topY" : 351.8771,
+      "baseLineY" : 361.02,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 363.7549,
+      "rightX" : 515.58,
+      "topY" : 351.7549,
+      "baseLineY" : 361.02,
+      "fontId" : 3,
+      "text" : "To exclude the mortgage debt, the lender must document the previous 12 "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 377.5549,
+      "rightX" : 530.22,
+      "topY" : 365.5549,
+      "baseLineY" : 374.8199,
+      "fontId" : 3,
+      "text" : "months have been paid as agreed prior to loan application through the credit "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 391.3549,
+      "rightX" : 393.54,
+      "topY" : 379.3549,
+      "baseLineY" : 388.6199,
+      "fontId" : 3,
+      "text" : "report or verification from the creditor/servicer. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 417.4151,
+      "rightX" : 149.52,
+      "topY" : 405.4151,
+      "baseLineY" : 415.2599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 418.1171,
+      "rightX" : 152.856,
+      "topY" : 406.1171,
+      "baseLineY" : 415.2599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 417.9949,
+      "rightX" : 536.2799,
+      "topY" : 405.9949,
+      "baseLineY" : 415.2599,
+      "fontId" : 3,
+      "text" : "If there are late payments in the previous 12 months prior to loan application, "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 431.8549,
+      "rightX" : 488.58,
+      "topY" : 419.8549,
+      "baseLineY" : 429.1199,
+      "fontId" : 3,
+      "text" : "the full mortgage obligation must be included in the monthly debts. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 457.7639,
+      "rightX" : 141,
+      "topY" : 445.7639,
+      "baseLineY" : 454.9199,
+      "fontId" : 4,
+      "text" : "11."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 458.0708,
+      "rightX" : 144.336,
+      "topY" : 446.0708,
+      "baseLineY" : 454.9199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 457.6712,
+      "rightX" : 260.64,
+      "topY" : 445.6712,
+      "baseLineY" : 454.9199,
+      "fontId" : 8,
+      "text" : "Co-signed obligations   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 483.715,
+      "rightX" : 149.52,
+      "topY" : 471.715,
+      "baseLineY" : 481.5599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 484.4171,
+      "rightX" : 152.856,
+      "topY" : 472.4171,
+      "baseLineY" : 481.5599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 484.2949,
+      "rightX" : 542.6399,
+      "topY" : 472.2949,
+      "baseLineY" : 481.5599,
+      "fontId" : 3,
+      "text" : "Co-signed debts refer to debts where the applicant may be a co-borrower, joint "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 498.0949,
+      "rightX" : 325.2599,
+      "topY" : 486.0949,
+      "baseLineY" : 495.3599,
+      "fontId" : 3,
+      "text" : "obligor, co-signer, guarantor, etc. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 524.155,
+      "rightX" : 149.52,
+      "topY" : 512.155,
+      "baseLineY" : 521.9999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 524.8571,
+      "rightX" : 152.856,
+      "topY" : 512.8571,
+      "baseLineY" : 521.9999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 524.7349,
+      "rightX" : 531.2999,
+      "topY" : 512.7349,
+      "baseLineY" : 521.9999,
+      "fontId" : 3,
+      "text" : "Co-signed debts must be included in the monthly debts unless the applicants "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 538.5349,
+      "rightX" : 540.5988,
+      "topY" : 526.5349,
+      "baseLineY" : 535.7999,
+      "fontId" : 3,
+      "text" : "provide evidence another obligor (party to the debt) has successfully made the "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 552.3349,
+      "rightX" : 466.3197,
+      "topY" : 540.3349,
+      "baseLineY" : 549.5999,
+      "fontId" : 3,
+      "text" : "payment for the previous 12 months prior to loan application.   "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 578.395,
+      "rightX" : 149.5199,
+      "topY" : 566.395,
+      "baseLineY" : 576.2399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 579.0971,
+      "rightX" : 152.8559,
+      "topY" : 567.0971,
+      "baseLineY" : 576.2399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 578.9749,
+      "rightX" : 529.8575,
+      "topY" : 566.9749,
+      "baseLineY" : 576.2399,
+      "fontId" : 3,
+      "text" : "Acceptable evidence includes, but is not limited to, canceled checks, money "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 592.8349,
+      "rightX" : 439.9199,
+      "topY" : 580.8349,
+      "baseLineY" : 590.0999,
+      "fontId" : 3,
+      "text" : "order receipts, and/or bank statements of the co-obligor.   "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 618.895,
+      "rightX" : 149.5199,
+      "topY" : 606.895,
+      "baseLineY" : 616.7399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 619.5971,
+      "rightX" : 152.8559,
+      "topY" : 607.5971,
+      "baseLineY" : 616.7399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 619.4749,
+      "rightX" : 522.5983,
+      "topY" : 607.4749,
+      "baseLineY" : 616.7399,
+      "fontId" : 3,
+      "text" : "Late payments reported in the previous 12 months prior to application will "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 633.2749,
+      "rightX" : 481.2599,
+      "topY" : 621.2749,
+      "baseLineY" : 630.5399,
+      "fontId" : 3,
+      "text" : "require the monthly liability to be included in the monthly debts.   "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 659.335,
+      "rightX" : 149.5199,
+      "topY" : 647.335,
+      "baseLineY" : 657.1799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.5199,
+      "bottomY" : 660.0371,
+      "rightX" : 152.8559,
+      "topY" : 648.0371,
+      "baseLineY" : 657.1799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 659.9149,
+      "rightX" : 525.7799,
+      "topY" : 647.9149,
+      "baseLineY" : 657.1799,
+      "fontId" : 3,
+      "text" : "If the applicant can provide conclusive evidence from the creditor that they "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 673.7149,
+      "rightX" : 520.6196,
+      "topY" : 661.7149,
+      "baseLineY" : 670.9799,
+      "fontId" : 3,
+      "text" : "will not pursue debt collection against the applicant should the other party "
+    }, {
+      "leftX" : 161.9999,
+      "bottomY" : 687.5149,
+      "rightX" : 539.8797,
+      "topY" : 675.5149,
+      "baseLineY" : 684.7799,
+      "fontId" : 3,
+      "text" : "default, the 12-month payment history of the additional party is not required.   "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.7992,
+      "rightX" : 178.6629,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 296.8789,
+      "bottomY" : 715.7992,
+      "rightX" : 317.6804,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "11-5 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 727.3191,
+      "rightX" : 190.2961,
+      "topY" : 717.3191,
+      "baseLineY" : 725.04,
+      "fontId" : 1,
+      "text" : "Revised (08-05-24)  PN 621  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 181.1078,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.2 The Ratios "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 121.1951,
+      "rightX" : 149.52,
+      "topY" : 109.1951,
+      "baseLineY" : 119.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 121.8971,
+      "rightX" : 152.856,
+      "topY" : 109.8971,
+      "baseLineY" : 119.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 121.7749,
+      "rightX" : 541.1985,
+      "topY" : 109.7749,
+      "baseLineY" : 119.04,
+      "fontId" : 3,
+      "text" : "Debts identified as “individual” on a credit report must be included in the debt "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 135.6349,
+      "rightX" : 527.88,
+      "topY" : 123.6349,
+      "baseLineY" : 132.9,
+      "fontId" : 3,
+      "text" : "ratio regardless of who is making the monthly payment (e.g. parents paying "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 149.4349,
+      "rightX" : 526.6188,
+      "topY" : 137.4349,
+      "baseLineY" : 146.7,
+      "fontId" : 3,
+      "text" : "car payments on behalf of applicant and the loan is solely in the applicant’s "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 163.2349,
+      "rightX" : 198.06,
+      "topY" : 151.2349,
+      "baseLineY" : 160.4999,
+      "fontId" : 3,
+      "text" : "name). "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 163.2512,
+      "rightX" : 201,
+      "topY" : 151.2512,
+      "baseLineY" : 160.4999,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 177.0512,
+      "rightX" : 75,
+      "topY" : 165.0512,
+      "baseLineY" : 174.2999,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 190.9438,
+      "rightX" : 141,
+      "topY" : 178.9438,
+      "baseLineY" : 188.0999,
+      "fontId" : 4,
+      "text" : "12."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 191.2508,
+      "rightX" : 144.336,
+      "topY" : 179.2508,
+      "baseLineY" : 188.0999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 190.8512,
+      "rightX" : 225.3,
+      "topY" : 178.8512,
+      "baseLineY" : 188.0999,
+      "fontId" : 8,
+      "text" : "Business debts   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 216.895,
+      "rightX" : 149.52,
+      "topY" : 204.895,
+      "baseLineY" : 214.7399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 217.5971,
+      "rightX" : 152.856,
+      "topY" : 205.5971,
+      "baseLineY" : 214.7399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 217.4749,
+      "rightX" : 542.5776,
+      "topY" : 205.4749,
+      "baseLineY" : 214.7399,
+      "fontId" : 3,
+      "text" : "Business debts (e.g. car loan) reported on the applicants’ personal credit report "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 231.2749,
+      "rightX" : 520.2599,
+      "topY" : 219.2749,
+      "baseLineY" : 228.5399,
+      "fontId" : 3,
+      "text" : "may be omitted from the monthly debt if there is evidence the debt is paid "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 245.0749,
+      "rightX" : 303.6599,
+      "topY" : 233.0749,
+      "baseLineY" : 242.3399,
+      "fontId" : 3,
+      "text" : "through a business account.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 271.135,
+      "rightX" : 149.52,
+      "topY" : 259.135,
+      "baseLineY" : 268.9799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 271.8371,
+      "rightX" : 152.856,
+      "topY" : 259.8371,
+      "baseLineY" : 268.9799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 271.7149,
+      "rightX" : 515.8774,
+      "topY" : 259.7149,
+      "baseLineY" : 268.9799,
+      "fontId" : 3,
+      "text" : "Acceptable evidence includes canceled checks or bank statements from a "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 285.5149,
+      "rightX" : 387.3,
+      "topY" : 273.5149,
+      "baseLineY" : 282.7799,
+      "fontId" : 3,
+      "text" : "business account for the previous 12 months.   "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 299.3149,
+      "rightX" : 165,
+      "topY" : 287.3149,
+      "baseLineY" : 296.5799,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 313.375,
+      "rightX" : 149.52,
+      "topY" : 301.375,
+      "baseLineY" : 311.2199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 314.0771,
+      "rightX" : 152.856,
+      "topY" : 302.0771,
+      "baseLineY" : 311.2199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 313.9549,
+      "rightX" : 523.2587,
+      "topY" : 301.9549,
+      "baseLineY" : 311.2199,
+      "fontId" : 3,
+      "text" : "Payments paid by the business must be included  on the cash flow analysis "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 327.7549,
+      "rightX" : 403.56,
+      "topY" : 315.7549,
+      "baseLineY" : 325.0199,
+      "fontId" : 3,
+      "text" : "and/or profit and loss statement, when applicable. "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 341.5549,
+      "rightX" : 165,
+      "topY" : 329.5549,
+      "baseLineY" : 338.8199,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 355.4638,
+      "rightX" : 141,
+      "topY" : 343.4638,
+      "baseLineY" : 352.6199,
+      "fontId" : 4,
+      "text" : "13."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 355.7707,
+      "rightX" : 144.336,
+      "topY" : 343.7707,
+      "baseLineY" : 352.6199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 355.3712,
+      "rightX" : 317.4,
+      "topY" : 343.3712,
+      "baseLineY" : 352.6199,
+      "fontId" : 8,
+      "text" : "401(k) loans/personal asset loans   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 381.415,
+      "rightX" : 149.52,
+      "topY" : 369.415,
+      "baseLineY" : 379.2599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 382.117,
+      "rightX" : 152.856,
+      "topY" : 370.117,
+      "baseLineY" : 379.2599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 381.9949,
+      "rightX" : 526.5599,
+      "topY" : 369.9949,
+      "baseLineY" : 379.2599,
+      "fontId" : 3,
+      "text" : "Loans pledging personal assets, such as a 401(k) account, retirement funds, "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 395.8548,
+      "rightX" : 540.8998,
+      "topY" : 383.8548,
+      "baseLineY" : 393.1199,
+      "fontId" : 3,
+      "text" : "savings account, or other liquid assets do not require a payment to be included "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 409.6548,
+      "rightX" : 272.34,
+      "topY" : 397.6548,
+      "baseLineY" : 406.9199,
+      "fontId" : 3,
+      "text" : "in the monthly debts.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 435.5638,
+      "rightX" : 141,
+      "topY" : 423.5638,
+      "baseLineY" : 432.7198,
+      "fontId" : 4,
+      "text" : "14."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 435.8707,
+      "rightX" : 144.336,
+      "topY" : 423.8707,
+      "baseLineY" : 432.7198,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 435.4712,
+      "rightX" : 355.26,
+      "topY" : 423.4712,
+      "baseLineY" : 432.7198,
+      "fontId" : 8,
+      "text" : "Debts of a non-purchasing spouse (NPS)   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 461.515,
+      "rightX" : 149.52,
+      "topY" : 449.515,
+      "baseLineY" : 459.3599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 462.217,
+      "rightX" : 152.856,
+      "topY" : 450.217,
+      "baseLineY" : 459.3599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 462.0948,
+      "rightX" : 526.8585,
+      "topY" : 450.0948,
+      "baseLineY" : 459.3599,
+      "fontId" : 3,
+      "text" : "Applicants who currently reside or are purchasing in a community property "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 475.8948,
+      "rightX" : 530.9363,
+      "topY" : 463.8948,
+      "baseLineY" : 473.1599,
+      "fontId" : 3,
+      "text" : "state must include the debts of the NPS unless specifically excluded by state "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 489.6948,
+      "rightX" : 191.34,
+      "topY" : 477.6948,
+      "baseLineY" : 486.9598,
+      "fontId" : 3,
+      "text" : "law.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 515.755,
+      "rightX" : 149.52,
+      "topY" : 503.755,
+      "baseLineY" : 513.5999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 516.457,
+      "rightX" : 152.856,
+      "topY" : 504.457,
+      "baseLineY" : 513.5999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 516.3348,
+      "rightX" : 476.935,
+      "topY" : 504.3348,
+      "baseLineY" : 513.5999,
+      "fontId" : 3,
+      "text" : "Approved lenders are responsible to confirm state laws are met.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 542.2438,
+      "rightX" : 141,
+      "topY" : 530.2438,
+      "baseLineY" : 539.3998,
+      "fontId" : 4,
+      "text" : "15."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 542.5507,
+      "rightX" : 144.336,
+      "topY" : 530.5507,
+      "baseLineY" : 539.3998,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 542.1511,
+      "rightX" : 250.62,
+      "topY" : 530.1511,
+      "baseLineY" : 539.3998,
+      "fontId" : 8,
+      "text" : "Collection accounts   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 568.195,
+      "rightX" : 149.52,
+      "topY" : 556.195,
+      "baseLineY" : 566.0399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 568.897,
+      "rightX" : 152.856,
+      "topY" : 556.897,
+      "baseLineY" : 566.0399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 568.7748,
+      "rightX" : 416.94,
+      "topY" : 556.7748,
+      "baseLineY" : 566.0399,
+      "fontId" : 3,
+      "text" : "Refer to Chapter 10 for collection account guidance. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 594.7438,
+      "rightX" : 141,
+      "topY" : 582.7438,
+      "baseLineY" : 591.8998,
+      "fontId" : 4,
+      "text" : "16."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 595.0507,
+      "rightX" : 144.336,
+      "topY" : 583.0507,
+      "baseLineY" : 591.8998,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 594.6511,
+      "rightX" : 249.3,
+      "topY" : 582.6511,
+      "baseLineY" : 591.8998,
+      "fontId" : 8,
+      "text" : "Judgment accounts   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 620.695,
+      "rightX" : 149.52,
+      "topY" : 608.695,
+      "baseLineY" : 618.5399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 621.397,
+      "rightX" : 152.856,
+      "topY" : 609.397,
+      "baseLineY" : 618.5399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 621.2748,
+      "rightX" : 500.82,
+      "topY" : 609.2748,
+      "baseLineY" : 618.5399,
+      "fontId" : 3,
+      "text" : "Refer to Chapter 10 for Federal and non-Federal judgment guidance.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 647.1838,
+      "rightX" : 141,
+      "topY" : 635.1838,
+      "baseLineY" : 644.3398,
+      "fontId" : 4,
+      "text" : "17."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 647.4907,
+      "rightX" : 144.336,
+      "topY" : 635.4907,
+      "baseLineY" : 644.3398,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 647.0912,
+      "rightX" : 254.64,
+      "topY" : 635.0912,
+      "baseLineY" : 644.3398,
+      "fontId" : 8,
+      "text" : "Charge-off accounts   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 673.135,
+      "rightX" : 149.52,
+      "topY" : 661.135,
+      "baseLineY" : 670.9799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 673.837,
+      "rightX" : 152.856,
+      "topY" : 661.837,
+      "baseLineY" : 670.9799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 673.7148,
+      "rightX" : 425.58,
+      "topY" : 661.7148,
+      "baseLineY" : 670.9799,
+      "fontId" : 3,
+      "text" : "Refer to Chapter 10 for charge-off account guidance.   "
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 703.7992,
+      "rightX" : 317.6215,
+      "topY" : 693.7992,
+      "baseLineY" : 701.52,
+      "fontId" : 1,
+      "text" : "11-6 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.3191,
+      "rightX" : 74.505,
+      "topY" : 705.3191,
+      "baseLineY" : 713.04,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 7,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 181.1078,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.2 The Ratios "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 121.0439,
+      "rightX" : 141,
+      "topY" : 109.0439,
+      "baseLineY" : 118.2,
+      "fontId" : 4,
+      "text" : "18."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 121.3509,
+      "rightX" : 144.336,
+      "topY" : 109.3509,
+      "baseLineY" : 118.2,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 120.9513,
+      "rightX" : 431.04,
+      "topY" : 108.9513,
+      "baseLineY" : 118.2,
+      "fontId" : 8,
+      "text" : "Expense allowances (including Automobile Allowances)   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 146.9951,
+      "rightX" : 149.52,
+      "topY" : 134.9951,
+      "baseLineY" : 144.84,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 147.6972,
+      "rightX" : 152.856,
+      "topY" : 135.6972,
+      "baseLineY" : 144.84,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 147.575,
+      "rightX" : 537.5396,
+      "topY" : 135.575,
+      "baseLineY" : 144.84,
+      "fontId" : 3,
+      "text" : "An automobile or other expense allowance will not cancel out a monthly debt "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 161.435,
+      "rightX" : 361.6199,
+      "topY" : 149.435,
+      "baseLineY" : 158.7,
+      "fontId" : 3,
+      "text" : "for an automobile or expense loan/debt.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 187.4951,
+      "rightX" : 149.52,
+      "topY" : 175.4951,
+      "baseLineY" : 185.34,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 188.1972,
+      "rightX" : 152.856,
+      "topY" : 176.1972,
+      "baseLineY" : 185.34,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 188.075,
+      "rightX" : 525.8362,
+      "topY" : 176.075,
+      "baseLineY" : 185.34,
+      "fontId" : 3,
+      "text" : "The full amount of the monthly debt associated with the expense (such as a "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 201.875,
+      "rightX" : 541.2,
+      "topY" : 189.875,
+      "baseLineY" : 199.14,
+      "fontId" : 3,
+      "text" : "car or equipment payment) must be included in the total debt ratio calculation. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 227.9351,
+      "rightX" : 149.52,
+      "topY" : 215.9351,
+      "baseLineY" : 225.78,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 228.6372,
+      "rightX" : 152.856,
+      "topY" : 216.6372,
+      "baseLineY" : 225.78,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 228.515,
+      "rightX" : 533.8799,
+      "topY" : 216.515,
+      "baseLineY" : 225.78,
+      "fontId" : 3,
+      "text" : "For guidance on calculating income for expense allowances, refer to Chapter "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 242.315,
+      "rightX" : 180,
+      "topY" : 230.315,
+      "baseLineY" : 239.58,
+      "fontId" : 3,
+      "text" : "9.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 268.2239,
+      "rightX" : 141,
+      "topY" : 256.2239,
+      "baseLineY" : 265.38,
+      "fontId" : 4,
+      "text" : "19."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 268.5308,
+      "rightX" : 144.336,
+      "topY" : 256.5308,
+      "baseLineY" : 265.38,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 268.1313,
+      "rightX" : 289.68,
+      "topY" : 256.1313,
+      "baseLineY" : 265.38,
+      "fontId" : 8,
+      "text" : "Balloon/deferred payments.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 294.1751,
+      "rightX" : 149.52,
+      "topY" : 282.1751,
+      "baseLineY" : 292.02,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 294.8772,
+      "rightX" : 152.856,
+      "topY" : 282.8772,
+      "baseLineY" : 292.02,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 294.755,
+      "rightX" : 531.5397,
+      "topY" : 282.755,
+      "baseLineY" : 292.02,
+      "fontId" : 3,
+      "text" : "Deferred debts and balloon debts that will require payment in full upon their "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 308.615,
+      "rightX" : 510.9,
+      "topY" : 296.615,
+      "baseLineY" : 305.88,
+      "fontId" : 3,
+      "text" : "due date must have a payment included in the monthly debts.  When the "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 322.415,
+      "rightX" : 510.6598,
+      "topY" : 310.415,
+      "baseLineY" : 319.68,
+      "fontId" : 3,
+      "text" : "balloon/deferred payment loan is due within 12 months, the lender must "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 336.1549,
+      "rightX" : 535.6199,
+      "topY" : 324.1549,
+      "baseLineY" : 333.42,
+      "fontId" : 3,
+      "text" : "evaluate the complete loan application to make a determination regarding the "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 349.9549,
+      "rightX" : 310.92,
+      "topY" : 337.9549,
+      "baseLineY" : 347.22,
+      "fontId" : 3,
+      "text" : "applicants’ repayment ability.  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 376.0151,
+      "rightX" : 149.52,
+      "topY" : 364.0151,
+      "baseLineY" : 373.86,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 376.7171,
+      "rightX" : 152.856,
+      "topY" : 364.7171,
+      "baseLineY" : 373.86,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 376.595,
+      "rightX" : 531.8999,
+      "topY" : 364.595,
+      "baseLineY" : 373.86,
+      "fontId" : 3,
+      "text" : "If the actual payment on a deferred/balloon loan is unknown, the lender may "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 390.4549,
+      "rightX" : 527.6397,
+      "topY" : 378.4549,
+      "baseLineY" : 387.72,
+      "fontId" : 3,
+      "text" : "obtain documentation from the creditor to establish a monthly payment that "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 404.2549,
+      "rightX" : 528.54,
+      "topY" : 392.2549,
+      "baseLineY" : 401.52,
+      "fontId" : 3,
+      "text" : "will be due on a documented payment date, or they must use five percent of "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 418.0549,
+      "rightX" : 493.56,
+      "topY" : 406.0549,
+      "baseLineY" : 415.3199,
+      "fontId" : 3,
+      "text" : "the outstanding balance on the credit report or creditor verification.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 443.9639,
+      "rightX" : 141,
+      "topY" : 431.9639,
+      "baseLineY" : 441.1199,
+      "fontId" : 4,
+      "text" : "20."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 444.2708,
+      "rightX" : 144.336,
+      "topY" : 432.2708,
+      "baseLineY" : 441.1199,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 443.8712,
+      "rightX" : 286.9776,
+      "topY" : 431.8712,
+      "baseLineY" : 441.1199,
+      "fontId" : 8,
+      "text" : "Tax repayment agreements   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 469.9151,
+      "rightX" : 149.52,
+      "topY" : 457.9151,
+      "baseLineY" : 467.7599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 470.6171,
+      "rightX" : 152.856,
+      "topY" : 458.6171,
+      "baseLineY" : 467.7599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 470.4949,
+      "rightX" : 535.26,
+      "topY" : 458.4949,
+      "baseLineY" : 467.7599,
+      "fontId" : 3,
+      "text" : "Include Federal or State income tax repayment plan payments in the monthly "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 484.2949,
+      "rightX" : 194.64,
+      "topY" : 472.2949,
+      "baseLineY" : 481.5599,
+      "fontId" : 3,
+      "text" : "debt.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 510.3551,
+      "rightX" : 149.52,
+      "topY" : 498.3551,
+      "baseLineY" : 508.2,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 511.0571,
+      "rightX" : 152.856,
+      "topY" : 499.0571,
+      "baseLineY" : 508.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 510.9349,
+      "rightX" : 541.2596,
+      "topY" : 498.9349,
+      "baseLineY" : 508.2,
+      "fontId" : 3,
+      "text" : "If ten or less months of repayment remains per the plan, the monthly debt may "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 524.7349,
+      "rightX" : 508.2598,
+      "topY" : 512.7349,
+      "baseLineY" : 521.9999,
+      "fontId" : 3,
+      "text" : "be excluded if the payment does not exceed five percent of the monthly "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 538.5349,
+      "rightX" : 262.98,
+      "topY" : 526.5349,
+      "baseLineY" : 535.7999,
+      "fontId" : 3,
+      "text" : "repayment income.   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 564.595,
+      "rightX" : 149.52,
+      "topY" : 552.595,
+      "baseLineY" : 562.4399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 565.2971,
+      "rightX" : 152.856,
+      "topY" : 553.2971,
+      "baseLineY" : 562.4399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 565.1749,
+      "rightX" : 488.16,
+      "topY" : 553.1749,
+      "baseLineY" : 562.4399,
+      "fontId" : 3,
+      "text" : "Refer to Chapter 10 for Federal Income Tax agreement eligibility.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 591.1439,
+      "rightX" : 141,
+      "topY" : 579.1439,
+      "baseLineY" : 588.2999,
+      "fontId" : 4,
+      "text" : "21."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 591.4508,
+      "rightX" : 144.336,
+      "topY" : 579.4508,
+      "baseLineY" : 588.2999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 591.0512,
+      "rightX" : 231.3,
+      "topY" : 579.0512,
+      "baseLineY" : 588.2999,
+      "fontId" : 8,
+      "text" : "Lease payments   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 617.095,
+      "rightX" : 149.52,
+      "topY" : 605.095,
+      "baseLineY" : 614.9399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 617.7971,
+      "rightX" : 152.856,
+      "topY" : 605.7971,
+      "baseLineY" : 614.9399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 617.6749,
+      "rightX" : 521.2198,
+      "topY" : 605.6749,
+      "baseLineY" : 614.9399,
+      "fontId" : 3,
+      "text" : "Auto, solar, energy, and additional lease payments must have the payment "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 631.4749,
+      "rightX" : 522.9597,
+      "topY" : 619.4749,
+      "baseLineY" : 628.7399,
+      "fontId" : 3,
+      "text" : "included in the monthly debt regardless of months remaining to pay on the "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 645.2749,
+      "rightX" : 212.64,
+      "topY" : 633.2749,
+      "baseLineY" : 642.5399,
+      "fontId" : 3,
+      "text" : "contract.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 671.1839,
+      "rightX" : 141,
+      "topY" : 659.1839,
+      "baseLineY" : 668.34,
+      "fontId" : 4,
+      "text" : "22."
+    }, {
+      "leftX" : 141,
+      "bottomY" : 671.4908,
+      "rightX" : 144.336,
+      "topY" : 659.4908,
+      "baseLineY" : 668.34,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 671.0913,
+      "rightX" : 267,
+      "topY" : 659.0913,
+      "baseLineY" : 668.34,
+      "fontId" : 8,
+      "text" : "Debt management plans "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 697.135,
+      "rightX" : 149.52,
+      "topY" : 685.135,
+      "baseLineY" : 694.9799,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 697.8371,
+      "rightX" : 152.856,
+      "topY" : 685.8371,
+      "baseLineY" : 694.9799,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 697.7149,
+      "rightX" : 493.86,
+      "topY" : 685.7149,
+      "baseLineY" : 694.9799,
+      "fontId" : 3,
+      "text" : "Include the monthly payment amount due from the counseling plan.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.7992,
+      "rightX" : 178.6629,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 296.8789,
+      "bottomY" : 715.7992,
+      "rightX" : 317.6804,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "11-7 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 727.3191,
+      "rightX" : 190.2961,
+      "topY" : 717.3191,
+      "baseLineY" : 725.04,
+      "fontId" : 1,
+      "text" : "Revised (08-05-24)  PN 621  "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 8,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 181.1078,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.2 The Ratios "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 121.1951,
+      "rightX" : 149.52,
+      "topY" : 109.1951,
+      "baseLineY" : 119.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 121.8971,
+      "rightX" : 152.856,
+      "topY" : 109.8971,
+      "baseLineY" : 119.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 121.7749,
+      "rightX" : 512.9998,
+      "topY" : 109.7749,
+      "baseLineY" : 119.04,
+      "fontId" : 3,
+      "text" : "Refer to Chapter 10 for guidance on credit exception and documentation "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 135.6349,
+      "rightX" : 230.6388,
+      "topY" : 123.6349,
+      "baseLineY" : 132.9,
+      "fontId" : 3,
+      "text" : "requirements. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 161.5439,
+      "rightX" : 93,
+      "topY" : 149.5439,
+      "baseLineY" : 158.7,
+      "fontId" : 4,
+      "text" : "11.3"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 161.8508,
+      "rightX" : 96.336,
+      "topY" : 149.8508,
+      "baseLineY" : 158.7,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 161.5439,
+      "rightX" : 478.62,
+      "topY" : 149.5439,
+      "baseLineY" : 158.7,
+      "fontId" : 4,
+      "text" : "DEBT RATIO WAIVERS AND COMPENSATING FACTORS [7 CFR "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 175.3439,
+      "rightX" : 188.64,
+      "topY" : 163.3439,
+      "baseLineY" : 172.4999,
+      "fontId" : 4,
+      "text" : "3555.151(h)(3)] "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 201.0349,
+      "rightX" : 533.8221,
+      "topY" : 189.0349,
+      "baseLineY" : 198.2999,
+      "fontId" : 3,
+      "text" : "The applicants’ Total Debt ratio may exceed 41 percent if the lender determines that "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 214.8349,
+      "rightX" : 544.9186,
+      "topY" : 202.8349,
+      "baseLineY" : 212.0999,
+      "fontId" : 3,
+      "text" : "strong compensating factors demonstrate that the household has higher repayment ability.  "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 228.6349,
+      "rightX" : 502.6211,
+      "topY" : 216.6349,
+      "baseLineY" : 225.8999,
+      "fontId" : 3,
+      "text" : "No waivers are permitted to increase the PITI ratio above 34 percent for purchase "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 242.4349,
+      "rightX" : 171.3,
+      "topY" : 230.4349,
+      "baseLineY" : 239.6999,
+      "fontId" : 3,
+      "text" : "transactions. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 268.3438,
+      "rightX" : 119.64,
+      "topY" : 256.3438,
+      "baseLineY" : 265.4999,
+      "fontId" : 4,
+      "text" : "A."
+    }, {
+      "leftX" : 119.64,
+      "bottomY" : 268.6507,
+      "rightX" : 122.976,
+      "topY" : 256.6507,
+      "baseLineY" : 265.4999,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 268.3438,
+      "rightX" : 350.64,
+      "topY" : 256.3438,
+      "baseLineY" : 265.4999,
+      "fontId" : 4,
+      "text" : "Purchase Transactions:  Debt ratio waivers "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 294.0838,
+      "rightX" : 135,
+      "topY" : 282.0838,
+      "baseLineY" : 291.2399,
+      "fontId" : 4,
+      "text" : "1."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 294.3907,
+      "rightX" : 138.336,
+      "topY" : 282.3907,
+      "baseLineY" : 291.2399,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 293.9912,
+      "rightX" : 243.96,
+      "topY" : 281.9912,
+      "baseLineY" : 291.2399,
+      "fontId" : 8,
+      "text" : "GUS Accept loans:  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 319.7748,
+      "rightX" : 536.9387,
+      "topY" : 307.7748,
+      "baseLineY" : 317.0399,
+      "fontId" : 3,
+      "text" : "GUS files that receive an Accept or Accept Full Documentation underwriting "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 333.5748,
+      "rightX" : 399.54,
+      "topY" : 321.5748,
+      "baseLineY" : 330.8398,
+      "fontId" : 3,
+      "text" : "recommendation do not require a debt ratio waiver.   "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 359.4838,
+      "rightX" : 135,
+      "topY" : 347.4838,
+      "baseLineY" : 356.6398,
+      "fontId" : 4,
+      "text" : "2."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 359.7907,
+      "rightX" : 138.336,
+      "topY" : 347.7907,
+      "baseLineY" : 356.6398,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 359.3911,
+      "rightX" : 540.3601,
+      "topY" : 347.3911,
+      "baseLineY" : 356.6398,
+      "fontId" : 8,
+      "text" : "GUS Refer, Refer with Caution, and manually underwritten loans without GUS "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 373.1911,
+      "rightX" : 204.0001,
+      "topY" : 361.1911,
+      "baseLineY" : 370.4398,
+      "fontId" : 8,
+      "text" : "assistance:  "
+    }, {
+      "leftX" : 126.0001,
+      "bottomY" : 386.9748,
+      "rightX" : 129.0001,
+      "topY" : 374.9748,
+      "baseLineY" : 384.2398,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 162.0001,
+      "bottomY" : 400.7748,
+      "rightX" : 520.9798,
+      "topY" : 388.7748,
+      "baseLineY" : 398.0398,
+      "fontId" : 3,
+      "text" : "The lender must document eligible compensating factors to support a debt "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 414.5747,
+      "rightX" : 523.32,
+      "topY" : 402.5747,
+      "baseLineY" : 411.8398,
+      "fontId" : 3,
+      "text" : "ratio waiver.  Agency approval of a lender’s request for the Total Debt ratio to "
+    }, {
+      "leftX" : 144.0001,
+      "bottomY" : 428.3747,
+      "rightX" : 514.2001,
+      "topY" : 416.3747,
+      "baseLineY" : 425.6398,
+      "fontId" : 3,
+      "text" : "exceed 41 percent may be granted if all of the following conditions are met:  "
+    }, {
+      "leftX" : 112.5001,
+      "bottomY" : 442.1747,
+      "rightX" : 115.5001,
+      "topY" : 430.1747,
+      "baseLineY" : 439.4398,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 162.0001,
+      "bottomY" : 456.2349,
+      "rightX" : 167.5201,
+      "topY" : 444.2349,
+      "baseLineY" : 454.0798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.5201,
+      "bottomY" : 456.9369,
+      "rightX" : 170.8561,
+      "topY" : 444.9369,
+      "baseLineY" : 454.0798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180.0001,
+      "bottomY" : 456.8147,
+      "rightX" : 362.2201,
+      "topY" : 444.8147,
+      "baseLineY" : 454.0798,
+      "fontId" : 3,
+      "text" : "Acceptable ratio thresholds are met:   "
+    }, {
+      "leftX" : 162.0001,
+      "bottomY" : 470.6747,
+      "rightX" : 165.0001,
+      "topY" : 458.6747,
+      "baseLineY" : 467.9398,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 486.5372,
+      "rightX" : 187.2,
+      "topY" : 474.5372,
+      "baseLineY" : 481.74,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 187.2,
+      "bottomY" : 484.5971,
+      "rightX" : 190.536,
+      "topY" : 472.5971,
+      "baseLineY" : 481.74,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 484.475,
+      "rightX" : 469.2,
+      "topY" : 472.475,
+      "baseLineY" : 481.74,
+      "fontId" : 3,
+      "text" : "The maximum PITI ratio cannot exceed 34 percent, and "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 512.3372,
+      "rightX" : 187.2,
+      "topY" : 500.3372,
+      "baseLineY" : 507.54,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 187.2,
+      "bottomY" : 510.3972,
+      "rightX" : 190.536,
+      "topY" : 498.3972,
+      "baseLineY" : 507.54,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 510.275,
+      "rightX" : 443.2199,
+      "topY" : 498.275,
+      "baseLineY" : 507.54,
+      "fontId" : 3,
+      "text" : "The maximum TD ratio cannot exceed 44 percent; "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 536.3351,
+      "rightX" : 167.52,
+      "topY" : 524.3351,
+      "baseLineY" : 534.18,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 537.0371,
+      "rightX" : 170.856,
+      "topY" : 525.0371,
+      "baseLineY" : 534.18,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 536.915,
+      "rightX" : 471.4799,
+      "topY" : 524.915,
+      "baseLineY" : 534.18,
+      "fontId" : 3,
+      "text" : "The validated credit score of all applicants is 680 or greater; "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 562.9751,
+      "rightX" : 167.52,
+      "topY" : 550.9751,
+      "baseLineY" : 560.82,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 563.6772,
+      "rightX" : 170.856,
+      "topY" : 551.6772,
+      "baseLineY" : 560.82,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 563.555,
+      "rightX" : 502.196,
+      "topY" : 551.555,
+      "baseLineY" : 560.82,
+      "fontId" : 3,
+      "text" : "At least one of the acceptable compensating factors listed below is "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 577.355,
+      "rightX" : 509.9998,
+      "topY" : 565.355,
+      "baseLineY" : 574.62,
+      "fontId" : 3,
+      "text" : "identified. Supporting documentation is provided to the Agency and "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 591.1549,
+      "rightX" : 515.9998,
+      "topY" : 579.1549,
+      "baseLineY" : 588.42,
+      "fontId" : 3,
+      "text" : "maintained in the lender’s permanent file.  Acceptable Compensating "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 604.9549,
+      "rightX" : 375.3,
+      "topY" : 592.9549,
+      "baseLineY" : 602.22,
+      "fontId" : 3,
+      "text" : "Factors and Supporting Documentation: "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 632.8172,
+      "rightX" : 187.2,
+      "topY" : 620.8172,
+      "baseLineY" : 628.02,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 187.2,
+      "bottomY" : 630.8772,
+      "rightX" : 190.536,
+      "topY" : 618.8772,
+      "baseLineY" : 628.02,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 630.755,
+      "rightX" : 532.0175,
+      "topY" : 618.755,
+      "baseLineY" : 628.02,
+      "fontId" : 3,
+      "text" : "Accumulated savings or cash reserves available post loan closing are "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 644.555,
+      "rightX" : 470.6398,
+      "topY" : 632.555,
+      "baseLineY" : 641.82,
+      "fontId" : 3,
+      "text" : "equal to or greater than three months of PITI payments.  "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 658.355,
+      "rightX" : 533.4598,
+      "topY" : 646.355,
+      "baseLineY" : 655.62,
+      "fontId" : 3,
+      "text" : "Documentation may include a verification of deposit (VOD) or bank  "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 672.155,
+      "rightX" : 527.64,
+      "topY" : 660.155,
+      "baseLineY" : 669.42,
+      "fontId" : 3,
+      "text" : "statements that meet the requirements of Chapter 9. Cash on hand is "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 685.955,
+      "rightX" : 464.8798,
+      "topY" : 673.955,
+      "baseLineY" : 683.22,
+      "fontId" : 3,
+      "text" : "not eligible for consideration as a compensating factor. "
+    }, {
+      "leftX" : 296.82,
+      "bottomY" : 703.7992,
+      "rightX" : 317.6216,
+      "topY" : 693.7992,
+      "baseLineY" : 701.52,
+      "fontId" : 1,
+      "text" : "11-8 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.3191,
+      "rightX" : 74.505,
+      "topY" : 705.3191,
+      "baseLineY" : 713.04,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 9,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 326.0771,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.3 Debt Ratio Waivers and Compensating Factors "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 120.935,
+      "rightX" : 513.8397,
+      "topY" : 108.935,
+      "baseLineY" : 118.2,
+      "fontId" : 3,
+      "text" : "The applicant(s) (all employed applicants) has been continuously "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 122.9972,
+      "rightX" : 187.2,
+      "topY" : 110.9972,
+      "baseLineY" : 118.2,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 187.2,
+      "bottomY" : 121.0572,
+      "rightX" : 190.536,
+      "topY" : 109.0572,
+      "baseLineY" : 118.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 134.735,
+      "rightX" : 532.98,
+      "topY" : 122.735,
+      "baseLineY" : 132,
+      "fontId" : 3,
+      "text" : "employed with their current primary employer for a minimum of two "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 148.535,
+      "rightX" : 244.02,
+      "topY" : 136.535,
+      "baseLineY" : 145.8,
+      "fontId" : 3,
+      "text" : "years.  A "
+    }, {
+      "leftX" : 244.02,
+      "bottomY" : 148.5699,
+      "rightX" : 434.5548,
+      "topY" : 136.5699,
+      "baseLineY" : 145.8,
+      "fontId" : 10,
+      "text" : "Request for Verification of Employment"
+    }, {
+      "leftX" : 434.58,
+      "bottomY" : 148.535,
+      "rightX" : 525.9,
+      "topY" : 136.535,
+      "baseLineY" : 145.8,
+      "fontId" : 3,
+      "text" : " (VOE) (Form RD "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 162.3349,
+      "rightX" : 232.02,
+      "topY" : 150.3349,
+      "baseLineY" : 159.6,
+      "fontId" : 3,
+      "text" : "1910-5"
+    }, {
+      "leftX" : 232.02,
+      "bottomY" : 162.3699,
+      "rightX" : 235.02,
+      "topY" : 150.3699,
+      "baseLineY" : 159.6,
+      "fontId" : 10,
+      "text" : ","
+    }, {
+      "leftX" : 235.02,
+      "bottomY" : 162.3349,
+      "rightX" : 522.2999,
+      "topY" : 150.3349,
+      "baseLineY" : 159.6,
+      "fontId" : 3,
+      "text" : " comparable HUD, FHA, VA or Fannie Mae form, or other "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 176.1349,
+      "rightX" : 539.5764,
+      "topY" : 164.1349,
+      "baseLineY" : 173.4,
+      "fontId" : 3,
+      "text" : "equivalent), or a VOE prepared by an employment verification service "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 189.9349,
+      "rightX" : 514.6199,
+      "topY" : 177.9349,
+      "baseLineY" : 187.2,
+      "fontId" : 3,
+      "text" : "(e.g. The Work Number) must be provided.  Applicants that have "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 203.7349,
+      "rightX" : 528.54,
+      "topY" : 191.7349,
+      "baseLineY" : 200.9999,
+      "fontId" : 3,
+      "text" : "received Social Security benefits or retirement income for two years "
+    }, {
+      "leftX" : 198.0001,
+      "bottomY" : 217.5349,
+      "rightX" : 525.66,
+      "topY" : 205.5349,
+      "baseLineY" : 214.7999,
+      "fontId" : 3,
+      "text" : "may utilize this compensating factor with documentation to support "
+    }, {
+      "leftX" : 198.0001,
+      "bottomY" : 231.3349,
+      "rightX" : 514.9198,
+      "topY" : 219.3349,
+      "baseLineY" : 228.5999,
+      "fontId" : 3,
+      "text" : "the history of receipt of benefits.  This compensating factor is not "
+    }, {
+      "leftX" : 198.0001,
+      "bottomY" : 245.1349,
+      "rightX" : 393.54,
+      "topY" : 233.1349,
+      "baseLineY" : 242.3999,
+      "fontId" : 3,
+      "text" : "applicable for self-employed applicants. "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 272.9972,
+      "rightX" : 187.2,
+      "topY" : 260.9972,
+      "baseLineY" : 268.2,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 187.2,
+      "bottomY" : 271.0572,
+      "rightX" : 190.536,
+      "topY" : 259.0572,
+      "baseLineY" : 268.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 284.735,
+      "rightX" : 542.28,
+      "topY" : 272.735,
+      "baseLineY" : 282,
+      "fontId" : 3,
+      "text" : "housing expense by more than $100 or 5 percent, whichever is less, for "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 270.935,
+      "rightX" : 521.8774,
+      "topY" : 258.935,
+      "baseLineY" : 268.2,
+      "fontId" : 3,
+      "text" : "The proposed PITI does not exceed the applicant’s current verified "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 298.535,
+      "rightX" : 506.2198,
+      "topY" : 286.535,
+      "baseLineY" : 295.8,
+      "fontId" : 3,
+      "text" : "the 12-month period preceding loan application. Verification of "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 312.3349,
+      "rightX" : 507.9,
+      "topY" : 300.3349,
+      "baseLineY" : 309.6,
+      "fontId" : 3,
+      "text" : "housing expenses may be documented on a Verification of Rent "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 326.1349,
+      "rightX" : 535.92,
+      "topY" : 314.1349,
+      "baseLineY" : 323.4,
+      "fontId" : 3,
+      "text" : "(VOR), Verification of Mortgage (VOM), or credit report, as noted in "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 339.9349,
+      "rightX" : 532.9797,
+      "topY" : 327.9349,
+      "baseLineY" : 337.2,
+      "fontId" : 3,
+      "text" : "Chapter 10. The VOR, VOM, or credit report must include the actual "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 353.7349,
+      "rightX" : 535.9797,
+      "topY" : 341.7349,
+      "baseLineY" : 350.9999,
+      "fontId" : 3,
+      "text" : "payment due and report no more than one 30 day late payment for the "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 367.5349,
+      "rightX" : 542.6396,
+      "topY" : 355.5349,
+      "baseLineY" : 364.7999,
+      "fontId" : 3,
+      "text" : "previous 12 months. Rent or mortgage payment histories from a family "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 381.3349,
+      "rightX" : 539.3398,
+      "topY" : 369.3349,
+      "baseLineY" : 378.5999,
+      "fontId" : 3,
+      "text" : "member or interested party will not be considered unless 12 months of "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 395.1349,
+      "rightX" : 496.4949,
+      "topY" : 383.1349,
+      "baseLineY" : 392.3999,
+      "fontId" : 3,
+      "text" : "canceled checks, money order receipts, or electronic payment "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 408.9349,
+      "rightX" : 533.0408,
+      "topY" : 396.9349,
+      "baseLineY" : 406.1999,
+      "fontId" : 3,
+      "text" : "confirmations are provided. A history of less than 12 months will not "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 422.7348,
+      "rightX" : 438.84,
+      "topY" : 410.7348,
+      "baseLineY" : 419.9999,
+      "fontId" : 3,
+      "text" : "be considered an acceptable compensating factor. "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 450.597,
+      "rightX" : 187.2,
+      "topY" : 438.597,
+      "baseLineY" : 445.7999,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 187.2,
+      "bottomY" : 448.657,
+      "rightX" : 190.536,
+      "topY" : 436.657,
+      "baseLineY" : 445.7999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 448.5348,
+      "rightX" : 496.9198,
+      "topY" : 436.5348,
+      "baseLineY" : 445.7999,
+      "fontId" : 3,
+      "text" : "The subject property is an energy efficient home based on the "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 462.3348,
+      "rightX" : 540.1799,
+      "topY" : 450.3348,
+      "baseLineY" : 459.5999,
+      "fontId" : 3,
+      "text" : "International Energy Conservation Code (IECC) standards, defined as: "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 488.395,
+      "rightX" : 203.52,
+      "topY" : 476.395,
+      "baseLineY" : 486.2399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 203.52,
+      "bottomY" : 489.097,
+      "rightX" : 206.856,
+      "topY" : 477.097,
+      "baseLineY" : 486.2399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 488.9748,
+      "rightX" : 531.9598,
+      "topY" : 476.9748,
+      "baseLineY" : 486.2399,
+      "fontId" : 3,
+      "text" : "For new construction, the dwelling meets or exceeds the IECC in "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 502.7748,
+      "rightX" : 375.3599,
+      "topY" : 490.7748,
+      "baseLineY" : 500.0399,
+      "fontId" : 3,
+      "text" : "effect at the time of construction."
+    }, {
+      "leftX" : 375.36,
+      "bottomY" : 502.5471,
+      "rightX" : 378.24,
+      "topY" : 491.5471,
+      "baseLineY" : 500.04,
+      "fontId" : 11,
+      "text" : " "
+    }, {
+      "leftX" : 378.24,
+      "bottomY" : 502.775,
+      "rightX" : 518.4598,
+      "topY" : 490.775,
+      "baseLineY" : 500.04,
+      "fontId" : 3,
+      "text" : "The lender is responsible for "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 516.5749,
+      "rightX" : 510.72,
+      "topY" : 504.5749,
+      "baseLineY" : 513.84,
+      "fontId" : 3,
+      "text" : "verifying the home meets the IECC standards, with evidence "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 530.375,
+      "rightX" : 541.2599,
+      "topY" : 518.375,
+      "baseLineY" : 527.64,
+      "fontId" : 3,
+      "text" : "maintained in the lender’s permanent loan file. Refer to Chapter 12 "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 544.175,
+      "rightX" : 485.2809,
+      "topY" : 532.175,
+      "baseLineY" : 541.44,
+      "fontId" : 3,
+      "text" : "for guidance in documenting thermal standards for new "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 557.975,
+      "rightX" : 334.0199,
+      "topY" : 545.975,
+      "baseLineY" : 555.24,
+      "fontId" : 3,
+      "text" : "construction dwellings.  "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 584.0351,
+      "rightX" : 203.52,
+      "topY" : 572.0351,
+      "baseLineY" : 581.88,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 203.52,
+      "bottomY" : 584.7371,
+      "rightX" : 206.856,
+      "topY" : 572.7371,
+      "baseLineY" : 581.88,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 584.615,
+      "rightX" : 531.6598,
+      "topY" : 572.615,
+      "baseLineY" : 581.88,
+      "fontId" : 3,
+      "text" : "For existing dwellings, the dwelling meets or exceeds the current "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 598.415,
+      "rightX" : 521.5807,
+      "topY" : 586.415,
+      "baseLineY" : 595.68,
+      "fontId" : 3,
+      "text" : "IECC. Existing dwellings that have been retrofitted to meet the "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 612.2149,
+      "rightX" : 531.5997,
+      "topY" : 600.2149,
+      "baseLineY" : 609.48,
+      "fontId" : 3,
+      "text" : "current IECC standards are eligible. The lender is responsible for "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 626.015,
+      "rightX" : 502.02,
+      "topY" : 614.015,
+      "baseLineY" : 623.28,
+      "fontId" : 3,
+      "text" : "verifying the home meets the current IECC standards, with "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 639.815,
+      "rightX" : 488.8797,
+      "topY" : 627.815,
+      "baseLineY" : 637.08,
+      "fontId" : 3,
+      "text" : "evidence maintained in the lender’s permanent loan file. "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 665.615,
+      "rightX" : 219,
+      "topY" : 653.615,
+      "baseLineY" : 662.88,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 216,
+      "bottomY" : 691.415,
+      "rightX" : 219,
+      "topY" : 679.415,
+      "baseLineY" : 688.68,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.7992,
+      "rightX" : 178.6629,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 296.8789,
+      "bottomY" : 715.7992,
+      "rightX" : 317.6804,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "11-9 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 727.3191,
+      "rightX" : 187.8312,
+      "topY" : 717.3191,
+      "baseLineY" : 725.04,
+      "fontId" : 1,
+      "text" : "Revised (08-05-24)  PN 621 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 10,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 326.0771,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.3 Debt Ratio Waivers and Compensating Factors "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 121.1951,
+      "rightX" : 167.52,
+      "topY" : 109.1951,
+      "baseLineY" : 119.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 167.52,
+      "bottomY" : 121.8971,
+      "rightX" : 170.856,
+      "topY" : 109.8971,
+      "baseLineY" : 119.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 121.7749,
+      "rightX" : 427.62,
+      "topY" : 109.7749,
+      "baseLineY" : 119.04,
+      "fontId" : 3,
+      "text" : "Debt Ratio Waiver Request and Agency Approval: "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 135.6513,
+      "rightX" : 147,
+      "topY" : 123.6513,
+      "baseLineY" : 132.9,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 149.4349,
+      "rightX" : 541.6198,
+      "topY" : 137.4349,
+      "baseLineY" : 146.7,
+      "fontId" : 3,
+      "text" : "Debt ratio waivers must be requested and documented by the approved "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 151.4971,
+      "rightX" : 187.2,
+      "topY" : 139.4971,
+      "baseLineY" : 146.7,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 187.2,
+      "bottomY" : 149.5571,
+      "rightX" : 190.536,
+      "topY" : 137.5571,
+      "baseLineY" : 146.7,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 163.2349,
+      "rightX" : 526.6198,
+      "topY" : 151.2349,
+      "baseLineY" : 160.4999,
+      "fontId" : 3,
+      "text" : "lender.  The lender requests Agency concurrence with the debt ratio "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 177.0349,
+      "rightX" : 531.0599,
+      "topY" : 165.0349,
+      "baseLineY" : 174.2999,
+      "fontId" : 3,
+      "text" : "waiver by submitting an underwriting analysis that cites one or more "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 190.8349,
+      "rightX" : 523.5561,
+      "topY" : 178.8349,
+      "baseLineY" : 188.0999,
+      "fontId" : 3,
+      "text" : "of the above acceptable compensating factors.  Lenders may utilize "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 204.6349,
+      "rightX" : 382.3199,
+      "topY" : 192.6349,
+      "baseLineY" : 201.8999,
+      "fontId" : 3,
+      "text" : "Fannie Mae 1008 / Freddie Mac 1077,"
+    }, {
+      "leftX" : 382.3199,
+      "bottomY" : 204.6698,
+      "rightX" : 518.2798,
+      "topY" : 192.6698,
+      "baseLineY" : 201.8999,
+      "fontId" : 10,
+      "text" : " Uniform Underwriting and "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 218.4698,
+      "rightX" : 302.328,
+      "topY" : 206.4698,
+      "baseLineY" : 215.6999,
+      "fontId" : 10,
+      "text" : "Transmittal Summary"
+    }, {
+      "leftX" : 302.34,
+      "bottomY" : 218.4349,
+      "rightX" : 538.0198,
+      "topY" : 206.4349,
+      "baseLineY" : 215.6999,
+      "fontId" : 3,
+      "text" : ", or similar form.  Evidence of the compensating "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 232.1748,
+      "rightX" : 527.0399,
+      "topY" : 220.1748,
+      "baseLineY" : 229.4399,
+      "fontId" : 3,
+      "text" : "factor, such as a VOR, VOD, and/or VOE, must be submitted to the "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 245.9748,
+      "rightX" : 306.3,
+      "topY" : 233.9748,
+      "baseLineY" : 243.2399,
+      "fontId" : 3,
+      "text" : "Agency for approval.  "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 259.7748,
+      "rightX" : 201,
+      "topY" : 247.7748,
+      "baseLineY" : 257.0399,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 275.637,
+      "rightX" : 187.2,
+      "topY" : 263.637,
+      "baseLineY" : 270.8398,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 187.2,
+      "bottomY" : 273.697,
+      "rightX" : 190.536,
+      "topY" : 261.697,
+      "baseLineY" : 270.8398,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 273.5748,
+      "rightX" : 499.3232,
+      "topY" : 261.5748,
+      "baseLineY" : 270.8398,
+      "fontId" : 3,
+      "text" : "The issuance of the Conditional Commitment for a Loan Note "
+    }, {
+      "leftX" : 198,
+      "bottomY" : 287.3748,
+      "rightX" : 481.56,
+      "topY" : 275.3748,
+      "baseLineY" : 284.6398,
+      "fontId" : 3,
+      "text" : "Guarantee represents Agency approval of the ratio waiver. "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 313.2837,
+      "rightX" : 118.98,
+      "topY" : 301.2837,
+      "baseLineY" : 310.4398,
+      "fontId" : 4,
+      "text" : "B."
+    }, {
+      "leftX" : 118.98,
+      "bottomY" : 313.5907,
+      "rightX" : 122.316,
+      "topY" : 301.5907,
+      "baseLineY" : 310.4398,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 313.2837,
+      "rightX" : 357.6,
+      "topY" : 301.2837,
+      "baseLineY" : 310.4398,
+      "fontId" : 4,
+      "text" : "Refinance Transactions:  Debt ratio waivers  "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 339.0837,
+      "rightX" : 135,
+      "topY" : 327.0837,
+      "baseLineY" : 336.2398,
+      "fontId" : 4,
+      "text" : "1."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 339.3906,
+      "rightX" : 138.336,
+      "topY" : 327.3906,
+      "baseLineY" : 336.2398,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 338.9911,
+      "rightX" : 246.96,
+      "topY" : 326.9911,
+      "baseLineY" : 336.2398,
+      "fontId" : 8,
+      "text" : "GUS Accept loans:   "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 365.0349,
+      "rightX" : 149.52,
+      "topY" : 353.0349,
+      "baseLineY" : 362.8798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 365.737,
+      "rightX" : 152.856,
+      "topY" : 353.737,
+      "baseLineY" : 362.8798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 365.6148,
+      "rightX" : 536.9386,
+      "topY" : 353.6148,
+      "baseLineY" : 362.8798,
+      "fontId" : 3,
+      "text" : "GUS files that receive an Accept or Accept Full Documentation underwriting "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 379.4748,
+      "rightX" : 407.9399,
+      "topY" : 367.4748,
+      "baseLineY" : 376.7398,
+      "fontId" : 3,
+      "text" : "recommendation do not require debt ratio waivers. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 405.3837,
+      "rightX" : 135,
+      "topY" : 393.3837,
+      "baseLineY" : 402.5398,
+      "fontId" : 4,
+      "text" : "2."
+    }, {
+      "leftX" : 135,
+      "bottomY" : 405.6906,
+      "rightX" : 138.336,
+      "topY" : 393.6906,
+      "baseLineY" : 402.5398,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 405.2911,
+      "rightX" : 540.3611,
+      "topY" : 393.2911,
+      "baseLineY" : 402.5398,
+      "fontId" : 8,
+      "text" : "GUS Refer, Refer with Caution, and manually underwritten loans without GUS "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 419.0911,
+      "rightX" : 201,
+      "topY" : 407.0911,
+      "baseLineY" : 416.3398,
+      "fontId" : 8,
+      "text" : "assistance: "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 445.1349,
+      "rightX" : 149.52,
+      "topY" : 433.1349,
+      "baseLineY" : 442.9798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 445.8369,
+      "rightX" : 152.856,
+      "topY" : 433.8369,
+      "baseLineY" : 442.9798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 445.7148,
+      "rightX" : 533.88,
+      "topY" : 433.7148,
+      "baseLineY" : 442.9798,
+      "fontId" : 3,
+      "text" : "GUS files that receive a GUS recommendation of Refer, Refer with Caution, "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 459.5148,
+      "rightX" : 506.9399,
+      "topY" : 447.5148,
+      "baseLineY" : 456.7798,
+      "fontId" : 3,
+      "text" : "or are not supported by GUS require debt ratio waivers, and supporting "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 473.3147,
+      "rightX" : 400.6799,
+      "topY" : 461.3147,
+      "baseLineY" : 470.5798,
+      "fontId" : 3,
+      "text" : "documentation must be submitted to the Agency. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 499.3749,
+      "rightX" : 149.52,
+      "topY" : 487.3749,
+      "baseLineY" : 497.2198,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 500.0769,
+      "rightX" : 152.856,
+      "topY" : 488.0769,
+      "baseLineY" : 497.2198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 499.9548,
+      "rightX" : 531.48,
+      "topY" : 487.9548,
+      "baseLineY" : 497.2198,
+      "fontId" : 3,
+      "text" : "Streamlined-assist refinance loans do not require debt ratio calculations, and "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 513.7547,
+      "rightX" : 310.62,
+      "topY" : 501.7547,
+      "baseLineY" : 511.0198,
+      "fontId" : 3,
+      "text" : "therefore no debt ratio waiver. "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 539.8149,
+      "rightX" : 149.52,
+      "topY" : 527.8149,
+      "baseLineY" : 537.6598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 540.5169,
+      "rightX" : 152.856,
+      "topY" : 528.5169,
+      "baseLineY" : 537.6598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 540.3948,
+      "rightX" : 534.8998,
+      "topY" : 528.3948,
+      "baseLineY" : 537.6598,
+      "fontId" : 3,
+      "text" : "Debt ratios for refinance loans are not limited to the maximum purchase debt "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 554.2547,
+      "rightX" : 245.28,
+      "topY" : 542.2547,
+      "baseLineY" : 551.5198,
+      "fontId" : 3,
+      "text" : "ratio thresholds.  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 580.3149,
+      "rightX" : 149.52,
+      "topY" : 568.3149,
+      "baseLineY" : 578.1598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 581.0169,
+      "rightX" : 152.856,
+      "topY" : 569.0169,
+      "baseLineY" : 578.1598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 580.8948,
+      "rightX" : 536.8799,
+      "topY" : 568.8948,
+      "baseLineY" : 578.1598,
+      "fontId" : 3,
+      "text" : "The following are examples of acceptable compensating factors for debt ratio "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 594.6947,
+      "rightX" : 243.3,
+      "topY" : 582.6947,
+      "baseLineY" : 591.9598,
+      "fontId" : 3,
+      "text" : "waiver requests: "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 622.5569,
+      "rightX" : 169.2,
+      "topY" : 610.5569,
+      "baseLineY" : 617.7598,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 169.2,
+      "bottomY" : 620.6169,
+      "rightX" : 172.536,
+      "topY" : 608.6169,
+      "baseLineY" : 617.7598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 620.4947,
+      "rightX" : 458.52,
+      "topY" : 608.4947,
+      "baseLineY" : 617.7598,
+      "fontId" : 3,
+      "text" : "Validated credit score of 680 or higher for all applicants.  "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 648.357,
+      "rightX" : 169.2,
+      "topY" : 636.357,
+      "baseLineY" : 643.5598,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 169.2,
+      "bottomY" : 646.417,
+      "rightX" : 172.536,
+      "topY" : 634.417,
+      "baseLineY" : 643.5598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 646.2948,
+      "rightX" : 503.8798,
+      "topY" : 634.2948,
+      "baseLineY" : 643.5598,
+      "fontId" : 3,
+      "text" : "The proposed PITI does not exceed the borrower’s current verified "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 660.0948,
+      "rightX" : 534.2398,
+      "topY" : 648.0948,
+      "baseLineY" : 657.3598,
+      "fontId" : 3,
+      "text" : "mortgage payment by more than $100 or 5 percent, whichever is less, for "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 673.8948,
+      "rightX" : 411.2999,
+      "topY" : 661.8948,
+      "baseLineY" : 671.1598,
+      "fontId" : 3,
+      "text" : "the 12-month period preceding loan application."
+    }, {
+      "leftX" : 294.3,
+      "bottomY" : 703.7992,
+      "rightX" : 320.1415,
+      "topY" : 693.7992,
+      "baseLineY" : 701.52,
+      "fontId" : 1,
+      "text" : "11-10 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.3191,
+      "rightX" : 74.505,
+      "topY" : 705.3191,
+      "baseLineY" : 713.04,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 11,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 326.0771,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.3 Debt Ratio Waivers and Compensating Factors "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 122.9972,
+      "rightX" : 169.2,
+      "topY" : 110.9972,
+      "baseLineY" : 118.2,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 169.2,
+      "bottomY" : 121.0572,
+      "rightX" : 172.536,
+      "topY" : 109.0572,
+      "baseLineY" : 118.2,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 120.935,
+      "rightX" : 532.6199,
+      "topY" : 108.935,
+      "baseLineY" : 118.2,
+      "fontId" : 3,
+      "text" : "Accumulated savings or cash reserves available post-closing are equal to "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 134.735,
+      "rightX" : 539.5199,
+      "topY" : 122.735,
+      "baseLineY" : 132,
+      "fontId" : 3,
+      "text" : "or greater than three months of the proposed PITI payment.  Cash on hand "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 148.535,
+      "rightX" : 463.92,
+      "topY" : 136.535,
+      "baseLineY" : 145.8,
+      "fontId" : 3,
+      "text" : "is not eligible for consideration as a compensating factor.   "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 176.3972,
+      "rightX" : 169.2,
+      "topY" : 164.3972,
+      "baseLineY" : 171.6,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 169.2,
+      "bottomY" : 174.4571,
+      "rightX" : 172.536,
+      "topY" : 162.4571,
+      "baseLineY" : 171.6,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 174.3349,
+      "rightX" : 472.56,
+      "topY" : 162.3349,
+      "baseLineY" : 171.6,
+      "fontId" : 3,
+      "text" : "Continuous employment with the current primary employer. "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 200.1349,
+      "rightX" : 524.2798,
+      "topY" : 188.1349,
+      "baseLineY" : 197.4,
+      "fontId" : 3,
+      "text" : "The subject property is an energy efficient home, defined as a dwelling "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 202.1971,
+      "rightX" : 169.2,
+      "topY" : 190.1971,
+      "baseLineY" : 197.4,
+      "fontId" : 9,
+      "text" : "o"
+    }, {
+      "leftX" : 169.2,
+      "bottomY" : 200.2571,
+      "rightX" : 172.536,
+      "topY" : 188.2571,
+      "baseLineY" : 197.4,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 213.9349,
+      "rightX" : 520.9198,
+      "topY" : 201.9349,
+      "baseLineY" : 211.2,
+      "fontId" : 3,
+      "text" : "which meets or exceeds the current International Energy Conservation "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 227.7349,
+      "rightX" : 521.94,
+      "topY" : 215.7349,
+      "baseLineY" : 224.9999,
+      "fontId" : 3,
+      "text" : "Code (IECC). Existing dwellings that have been retrofitted to meet the "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 241.5349,
+      "rightX" : 542.5198,
+      "topY" : 229.5349,
+      "baseLineY" : 238.7999,
+      "fontId" : 3,
+      "text" : "current IECC standards are eligible. The lender is responsible for verifying "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 255.3349,
+      "rightX" : 533.2799,
+      "topY" : 243.3349,
+      "baseLineY" : 252.5999,
+      "fontId" : 3,
+      "text" : "the home meets the current IECC standards, with evidence maintained in "
+    }, {
+      "leftX" : 180,
+      "bottomY" : 269.1349,
+      "rightX" : 341.58,
+      "topY" : 257.1349,
+      "baseLineY" : 266.3999,
+      "fontId" : 3,
+      "text" : "the lender’s permanent loan file.  "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 295.195,
+      "rightX" : 149.52,
+      "topY" : 283.195,
+      "baseLineY" : 293.0399,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 149.52,
+      "bottomY" : 295.8971,
+      "rightX" : 152.856,
+      "topY" : 283.8971,
+      "baseLineY" : 293.0399,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 295.7749,
+      "rightX" : 515.5773,
+      "topY" : 283.7749,
+      "baseLineY" : 293.0399,
+      "fontId" : 3,
+      "text" : "The issuance of the Conditional Commitment for a Loan Note Guarantee "
+    }, {
+      "leftX" : 162,
+      "bottomY" : 309.5749,
+      "rightX" : 396.24,
+      "topY" : 297.5749,
+      "baseLineY" : 306.8399,
+      "fontId" : 3,
+      "text" : "represents Agency approval of the ratio waiver.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 335.4838,
+      "rightX" : 93,
+      "topY" : 323.4838,
+      "baseLineY" : 332.6399,
+      "fontId" : 4,
+      "text" : "11.4"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 335.7907,
+      "rightX" : 96.336,
+      "topY" : 323.7907,
+      "baseLineY" : 332.6399,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 335.4838,
+      "rightX" : 326.34,
+      "topY" : 323.4838,
+      "baseLineY" : 332.6399,
+      "fontId" : 4,
+      "text" : "MORTGAGE CREDIT CERTIFICATES "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 361.1748,
+      "rightX" : 510.5961,
+      "topY" : 349.1748,
+      "baseLineY" : 358.4399,
+      "fontId" : 3,
+      "text" : "Authorized State or local housing finance agencies may issue a mortgage credit "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 374.9748,
+      "rightX" : 506.9399,
+      "topY" : 362.9748,
+      "baseLineY" : 372.2399,
+      "fontId" : 3,
+      "text" : "certificate (MCC) that provides a federal income tax credit to a qualified first-time "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 388.7748,
+      "rightX" : 525.1797,
+      "topY" : 376.7748,
+      "baseLineY" : 386.0399,
+      "fontId" : 3,
+      "text" : "homebuyer and/or low- or moderate-income homebuyer.  Refer to Chapter 9 for MCC "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 402.5748,
+      "rightX" : 261.2999,
+      "topY" : 390.5748,
+      "baseLineY" : 399.8398,
+      "fontId" : 3,
+      "text" : "guidance and GUS data entry.   "
+    }, {
+      "leftX" : 71.9999,
+      "bottomY" : 428.4838,
+      "rightX" : 92.9999,
+      "topY" : 416.4838,
+      "baseLineY" : 425.6398,
+      "fontId" : 4,
+      "text" : "11.5"
+    }, {
+      "leftX" : 92.9999,
+      "bottomY" : 428.7907,
+      "rightX" : 96.3359,
+      "topY" : 416.7907,
+      "baseLineY" : 425.6398,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 428.4838,
+      "rightX" : 298.3199,
+      "topY" : 416.4838,
+      "baseLineY" : 425.6398,
+      "fontId" : 4,
+      "text" : "FUNDED BUYDOWN ACCOUNTS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 454.1748,
+      "rightX" : 528.9598,
+      "topY" : 442.1748,
+      "baseLineY" : 451.4398,
+      "fontId" : 3,
+      "text" : "Funded buydown accounts are designed to reduce the borrower’s monthly payment "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 467.9748,
+      "rightX" : 536.5798,
+      "topY" : 455.9748,
+      "baseLineY" : 465.2398,
+      "fontId" : 3,
+      "text" : "during the initial years (temporary buydown) or the full life (permanent buydown) of the "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 481.7748,
+      "rightX" : 523.8598,
+      "topY" : 469.7748,
+      "baseLineY" : 479.0398,
+      "fontId" : 3,
+      "text" : "loan.  Permanent buydowns are fully funded and paid for at loan closing.  The interest "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 495.5747,
+      "rightX" : 505.1998,
+      "topY" : 483.5747,
+      "baseLineY" : 492.8398,
+      "fontId" : 3,
+      "text" : "rate is fixed and will not change for the life of the loan.  Temporary buydowns are "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 509.3747,
+      "rightX" : 337.5599,
+      "topY" : 497.3747,
+      "baseLineY" : 506.6398,
+      "fontId" : 3,
+      "text" : "eligible when the following guidelines are met: "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 535.4349,
+      "rightX" : 131.5199,
+      "topY" : 523.4349,
+      "baseLineY" : 533.2798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 536.1369,
+      "rightX" : 134.8559,
+      "topY" : 524.1369,
+      "baseLineY" : 533.2798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 536.0148,
+      "rightX" : 529.5599,
+      "topY" : 524.0148,
+      "baseLineY" : 533.2798,
+      "fontId" : 3,
+      "text" : "The mortgage loan must be underwritten at the full note rate.  Both the full note "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 549.8747,
+      "rightX" : 433.6799,
+      "topY" : 537.8747,
+      "baseLineY" : 547.1398,
+      "fontId" : 3,
+      "text" : "rate and the initial buydown rate must be entered into GUS; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 575.9349,
+      "rightX" : 131.5199,
+      "topY" : 563.9349,
+      "baseLineY" : 573.7798,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 576.6369,
+      "rightX" : 134.8559,
+      "topY" : 564.6369,
+      "baseLineY" : 573.7798,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 576.5148,
+      "rightX" : 482.1599,
+      "topY" : 564.5148,
+      "baseLineY" : 573.7798,
+      "fontId" : 3,
+      "text" : "Buydown funds may come from the seller, lender or other third party; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 602.5749,
+      "rightX" : 131.5199,
+      "topY" : 590.5749,
+      "baseLineY" : 600.4198,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 603.2769,
+      "rightX" : 134.8559,
+      "topY" : 591.2769,
+      "baseLineY" : 600.4198,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 603.1548,
+      "rightX" : 391.6199,
+      "topY" : 591.1548,
+      "baseLineY" : 600.4198,
+      "fontId" : 3,
+      "text" : "Buydown funds may not come from the borrower;  "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 629.2149,
+      "rightX" : 131.5199,
+      "topY" : 617.2149,
+      "baseLineY" : 627.0598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 629.917,
+      "rightX" : 134.8559,
+      "topY" : 617.917,
+      "baseLineY" : 627.0598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 629.7948,
+      "rightX" : 530.5762,
+      "topY" : 617.7948,
+      "baseLineY" : 627.0598,
+      "fontId" : 3,
+      "text" : "The buydown must not reduce the interest rate more than two percent below the "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 643.6548,
+      "rightX" : 211.68,
+      "topY" : 631.6548,
+      "baseLineY" : 640.9198,
+      "fontId" : 3,
+      "text" : "full note rate; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 669.7149,
+      "rightX" : 131.5199,
+      "topY" : 657.7149,
+      "baseLineY" : 667.5598,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 670.417,
+      "rightX" : 134.8559,
+      "topY" : 658.417,
+      "baseLineY" : 667.5598,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 670.2948,
+      "rightX" : 452.1921,
+      "topY" : 658.2948,
+      "baseLineY" : 667.5598,
+      "fontId" : 3,
+      "text" : "The assistance may increase no more than one percent annually;"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.7992,
+      "rightX" : 178.6629,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 294.3538,
+      "bottomY" : 715.7992,
+      "rightX" : 320.1954,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "11-11 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 727.3191,
+      "rightX" : 187.8312,
+      "topY" : 717.3191,
+      "baseLineY" : 725.04,
+      "fontId" : 1,
+      "text" : "Revised (08-05-24)  PN 621 "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 12,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 249.1536,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.5 Funded Buydown Accounts "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 121.1951,
+      "rightX" : 131.52,
+      "topY" : 109.1951,
+      "baseLineY" : 119.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 121.8971,
+      "rightX" : 134.856,
+      "topY" : 109.8971,
+      "baseLineY" : 119.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 121.7749,
+      "rightX" : 522.2999,
+      "topY" : 109.7749,
+      "baseLineY" : 119.04,
+      "fontId" : 3,
+      "text" : "The borrower must agree in writing that the temporary buydown funds will be "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 135.6349,
+      "rightX" : 523.1987,
+      "topY" : 123.6349,
+      "baseLineY" : 132.9,
+      "fontId" : 3,
+      "text" : "placed in an escrow with a financial institution supervised by a federal or state "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 149.4349,
+      "rightX" : 542.5198,
+      "topY" : 137.4349,
+      "baseLineY" : 146.7,
+      "fontId" : 3,
+      "text" : "agency and paid directly to the lender each month to reduce the monthly mortgage "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 163.2349,
+      "rightX" : 191.64,
+      "topY" : 151.2349,
+      "baseLineY" : 160.4999,
+      "fontId" : 3,
+      "text" : "payment; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 189.2951,
+      "rightX" : 131.52,
+      "topY" : 177.2951,
+      "baseLineY" : 187.14,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 189.9971,
+      "rightX" : 134.856,
+      "topY" : 177.9971,
+      "baseLineY" : 187.14,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 189.8749,
+      "rightX" : 447.1798,
+      "topY" : 177.8749,
+      "baseLineY" : 187.14,
+      "fontId" : 3,
+      "text" : "The buydown account must be fully funded at origination; and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 215.9351,
+      "rightX" : 131.52,
+      "topY" : 203.9351,
+      "baseLineY" : 213.78,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 216.6371,
+      "rightX" : 134.856,
+      "topY" : 204.6371,
+      "baseLineY" : 213.78,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 216.5149,
+      "rightX" : 502.1386,
+      "topY" : 204.5149,
+      "baseLineY" : 213.78,
+      "fontId" : 3,
+      "text" : "A copy of the executed escrow agreement must be retained in the lender’s "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 230.3149,
+      "rightX" : 243.3,
+      "topY" : 218.3149,
+      "baseLineY" : 227.58,
+      "fontId" : 3,
+      "text" : "permanent loan file. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 256.2239,
+      "rightX" : 93,
+      "topY" : 244.2239,
+      "baseLineY" : 253.3799,
+      "fontId" : 4,
+      "text" : "11.6"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 256.5308,
+      "rightX" : 96.336,
+      "topY" : 244.5308,
+      "baseLineY" : 253.3799,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 256.2239,
+      "rightX" : 360.72,
+      "topY" : 244.2239,
+      "baseLineY" : 253.3799,
+      "fontId" : 4,
+      "text" : "SECTION 8 HOMEOWNERSHIP VOUCHERS "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 281.9149,
+      "rightX" : 537.2997,
+      "topY" : 269.9149,
+      "baseLineY" : 279.1799,
+      "fontId" : 3,
+      "text" : "Section 8 Homeownership Vouchers may be used for qualifying applicants.  Refer to "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 295.7149,
+      "rightX" : 363.96,
+      "topY" : 283.7149,
+      "baseLineY" : 292.9799,
+      "fontId" : 3,
+      "text" : "Chapter 9 for voucher guidance and GUS data entry. "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 321.6238,
+      "rightX" : 93,
+      "topY" : 309.6238,
+      "baseLineY" : 318.7799,
+      "fontId" : 4,
+      "text" : "11.7"
+    }, {
+      "leftX" : 93,
+      "bottomY" : 321.9307,
+      "rightX" : 96.336,
+      "topY" : 309.9307,
+      "baseLineY" : 318.7799,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 321.6238,
+      "rightX" : 469.3199,
+      "topY" : 309.6238,
+      "baseLineY" : 318.7799,
+      "fontId" : 4,
+      "text" : "OBLIGATIONS NOT INCLUDED IN DEBT-TO-INCOME RATIOS "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 347.3149,
+      "rightX" : 513.8997,
+      "topY" : 335.3149,
+      "baseLineY" : 344.5799,
+      "fontId" : 3,
+      "text" : "Obligations not considered or included in total debt-to-income ratio calculations "
+    }, {
+      "leftX" : 107.9999,
+      "bottomY" : 361.1148,
+      "rightX" : 149.6399,
+      "topY" : 349.1148,
+      "baseLineY" : 358.3799,
+      "fontId" : 3,
+      "text" : "include: "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 387.175,
+      "rightX" : 131.5199,
+      "topY" : 375.175,
+      "baseLineY" : 385.0199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 387.877,
+      "rightX" : 134.8559,
+      "topY" : 375.877,
+      "baseLineY" : 385.0199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 387.7549,
+      "rightX" : 244.6199,
+      "topY" : 375.7549,
+      "baseLineY" : 385.0199,
+      "fontId" : 3,
+      "text" : "Medical collections; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 413.815,
+      "rightX" : 131.5199,
+      "topY" : 401.815,
+      "baseLineY" : 411.6599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 414.5171,
+      "rightX" : 134.8559,
+      "topY" : 402.5171,
+      "baseLineY" : 411.6599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 414.3949,
+      "rightX" : 238.6199,
+      "topY" : 402.3949,
+      "baseLineY" : 411.6599,
+      "fontId" : 3,
+      "text" : "Medical payments; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 440.515,
+      "rightX" : 131.5199,
+      "topY" : 428.515,
+      "baseLineY" : 438.3599,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 441.2171,
+      "rightX" : 134.8559,
+      "topY" : 429.2171,
+      "baseLineY" : 438.3599,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 441.0949,
+      "rightX" : 458.4599,
+      "topY" : 429.0949,
+      "baseLineY" : 438.3599,
+      "fontId" : 3,
+      "text" : "Federal, state, and local taxes, unless a payment plan is in place;  "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 467.155,
+      "rightX" : 131.5199,
+      "topY" : 455.155,
+      "baseLineY" : 464.9999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 467.8571,
+      "rightX" : 134.8559,
+      "topY" : 455.8571,
+      "baseLineY" : 464.9999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 467.7349,
+      "rightX" : 425.2199,
+      "topY" : 455.7349,
+      "baseLineY" : 464.9999,
+      "fontId" : 3,
+      "text" : "Federal Insurance Contribution Act (FICA) contributions; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 493.7951,
+      "rightX" : 131.5199,
+      "topY" : 481.7951,
+      "baseLineY" : 491.64,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 494.4971,
+      "rightX" : 134.8559,
+      "topY" : 482.4971,
+      "baseLineY" : 491.64,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 494.3749,
+      "rightX" : 533.5798,
+      "topY" : 482.3749,
+      "baseLineY" : 491.64,
+      "fontId" : 3,
+      "text" : "Other retirement contributions such as 401(k) accounts, including the repayment "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 508.2349,
+      "rightX" : 307.9799,
+      "topY" : 496.2349,
+      "baseLineY" : 505.4999,
+      "fontId" : 3,
+      "text" : "of loans secured by 401(k) funds; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 534.2951,
+      "rightX" : 131.5199,
+      "topY" : 522.2951,
+      "baseLineY" : 532.14,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 534.9971,
+      "rightX" : 134.8559,
+      "topY" : 522.9971,
+      "baseLineY" : 532.14,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 534.8749,
+      "rightX" : 491.6397,
+      "topY" : 522.8749,
+      "baseLineY" : 532.14,
+      "fontId" : 3,
+      "text" : "Automatic deductions to savings accounts, mutual funds, stocks, bonds, "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 548.6749,
+      "rightX" : 526.8599,
+      "topY" : 536.6749,
+      "baseLineY" : 545.9399,
+      "fontId" : 3,
+      "text" : "certificates of deposit, including the repayment of loans secured by such funds; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 574.7351,
+      "rightX" : 131.5199,
+      "topY" : 562.7351,
+      "baseLineY" : 572.58,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 575.4371,
+      "rightX" : 134.8559,
+      "topY" : 563.4371,
+      "baseLineY" : 572.58,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 575.3149,
+      "rightX" : 399.2999,
+      "topY" : 563.3149,
+      "baseLineY" : 572.58,
+      "fontId" : 3,
+      "text" : "Collateralized loans secured by depository accounts; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 601.3751,
+      "rightX" : 131.5199,
+      "topY" : 589.3751,
+      "baseLineY" : 599.22,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 602.0771,
+      "rightX" : 134.8559,
+      "topY" : 590.0771,
+      "baseLineY" : 599.22,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 601.9549,
+      "rightX" : 188.9999,
+      "topY" : 589.9549,
+      "baseLineY" : 599.22,
+      "fontId" : 3,
+      "text" : "Utilities; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 628.075,
+      "rightX" : 131.5199,
+      "topY" : 616.075,
+      "baseLineY" : 625.9199,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 628.7771,
+      "rightX" : 134.8559,
+      "topY" : 616.7771,
+      "baseLineY" : 625.9199,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 628.6549,
+      "rightX" : 346.9199,
+      "topY" : 616.6549,
+      "baseLineY" : 625.9199,
+      "fontId" : 3,
+      "text" : "Insurance, other than property insurance;  "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 642.4549,
+      "rightX" : 146.9999,
+      "topY" : 630.4549,
+      "baseLineY" : 639.72,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 656.5151,
+      "rightX" : 131.5199,
+      "topY" : 644.5151,
+      "baseLineY" : 654.36,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 657.2171,
+      "rightX" : 134.8559,
+      "topY" : 645.2171,
+      "baseLineY" : 654.36,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 657.095,
+      "rightX" : 234.7199,
+      "topY" : 645.095,
+      "baseLineY" : 654.36,
+      "fontId" : 3,
+      "text" : "Commuting costs; "
+    }, {
+      "leftX" : 125.9999,
+      "bottomY" : 683.155,
+      "rightX" : 131.5199,
+      "topY" : 671.155,
+      "baseLineY" : 680.9999,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.5199,
+      "bottomY" : 683.8571,
+      "rightX" : 134.8559,
+      "topY" : 671.8571,
+      "baseLineY" : 680.9999,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 143.9999,
+      "bottomY" : 683.7349,
+      "rightX" : 202.3559,
+      "topY" : 671.7349,
+      "baseLineY" : 680.9999,
+      "fontId" : 3,
+      "text" : "Union dues;"
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.7992,
+      "rightX" : 74.505,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : " "
+    }, {
+      "leftX" : 294.3638,
+      "bottomY" : 715.7992,
+      "rightX" : 320.2054,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "11-12 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 727.3191,
+      "rightX" : 74.505,
+      "topY" : 717.3191,
+      "baseLineY" : 725.04,
+      "fontId" : 1,
+      "text" : " "
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 13,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 72,
+      "bottomY" : 83.6391,
+      "rightX" : 120.0359,
+      "topY" : 73.6391,
+      "baseLineY" : 81.36,
+      "fontId" : 1,
+      "text" : "HB-1-3555 "
+    }, {
+      "leftX" : 71.99,
+      "bottomY" : 95.1621,
+      "rightX" : 343.8125,
+      "topY" : 85.1621,
+      "baseLineY" : 92.883,
+      "fontId" : 1,
+      "text" : "Paragraph 11.7 Obligations Not Included in Debt-to-Income Ratios "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 121.1951,
+      "rightX" : 131.52,
+      "topY" : 109.1951,
+      "baseLineY" : 119.04,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 121.8971,
+      "rightX" : 134.856,
+      "topY" : 109.8971,
+      "baseLineY" : 119.04,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 121.7749,
+      "rightX" : 313.56,
+      "topY" : 109.7749,
+      "baseLineY" : 119.04,
+      "fontId" : 3,
+      "text" : "Open accounts with zero balances; "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 147.8951,
+      "rightX" : 131.52,
+      "topY" : 135.8951,
+      "baseLineY" : 145.74,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 148.5971,
+      "rightX" : 134.856,
+      "topY" : 136.5971,
+      "baseLineY" : 145.74,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 148.475,
+      "rightX" : 220.32,
+      "topY" : 136.475,
+      "baseLineY" : 145.74,
+      "fontId" : 3,
+      "text" : "Child care; and "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 174.5351,
+      "rightX" : 131.52,
+      "topY" : 162.5351,
+      "baseLineY" : 172.38,
+      "fontId" : 6,
+      "text" : "•"
+    }, {
+      "leftX" : 131.52,
+      "bottomY" : 175.2371,
+      "rightX" : 134.856,
+      "topY" : 163.2371,
+      "baseLineY" : 172.38,
+      "fontId" : 7,
+      "text" : " "
+    }, {
+      "leftX" : 144,
+      "bottomY" : 175.115,
+      "rightX" : 253.62,
+      "topY" : 163.115,
+      "baseLineY" : 172.38,
+      "fontId" : 3,
+      "text" : "Voluntary deductions. "
+    }, {
+      "leftX" : 126,
+      "bottomY" : 200.915,
+      "rightX" : 518.34,
+      "topY" : 188.915,
+      "baseLineY" : 198.18,
+      "fontId" : 3,
+      "text" : "All liabilities disclosed by the applicant should be listed in GUS. The lender may "
+    }, {
+      "leftX" : 108,
+      "bottomY" : 214.7149,
+      "rightX" : 259.26,
+      "topY" : 202.7149,
+      "baseLineY" : 211.98,
+      "fontId" : 3,
+      "text" : "“omit” liabilities as permitted.  "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 240.5149,
+      "rightX" : 75,
+      "topY" : 228.5149,
+      "baseLineY" : 237.78,
+      "fontId" : 3,
+      "text" : " "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 715.7992,
+      "rightX" : 178.6629,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "(03-09-16)  SPECIAL PN "
+    }, {
+      "leftX" : 294.3538,
+      "bottomY" : 715.7992,
+      "rightX" : 320.1954,
+      "topY" : 705.7992,
+      "baseLineY" : 713.52,
+      "fontId" : 1,
+      "text" : "11-13 "
+    }, {
+      "leftX" : 72,
+      "bottomY" : 727.3191,
+      "rightX" : 187.8312,
+      "topY" : 717.3191,
+      "baseLineY" : 725.04,
+      "fontId" : 1,
+      "text" : "Revised (08-05-24)  PN 621 "
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "Arial-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "SymbolMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TimesNewRomanPS-BoldItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "CourierNew",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}
