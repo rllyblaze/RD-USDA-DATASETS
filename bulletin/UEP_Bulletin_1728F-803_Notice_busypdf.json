@@ -1,0 +1,1778 @@
+{
+  "pdfDoc" : "UEP_Bulletin_1728F-803_Notice.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 106.22,
+      "bottomY" : 44.52,
+      "rightX" : 183.0079,
+      "topY" : 34.55,
+      "baseLineY" : 42,
+      "fontId" : 1,
+      "text" : "Federal Register"
+    }, {
+      "leftX" : 183.0079,
+      "bottomY" : 44.52,
+      "rightX" : 505.6336,
+      "topY" : 34.55,
+      "baseLineY" : 42,
+      "fontId" : 2,
+      "text" : " / Vol. 64, No. 148 / Tuesday, August 3, 1999 / Rules and Regulations"
+    }, {
+      "leftX" : 536.42,
+      "bottomY" : 44.772,
+      "rightX" : 567.0001,
+      "topY" : 33.805,
+      "baseLineY" : 42,
+      "fontId" : 3,
+      "text" : "42005"
+    }, {
+      "leftX" : 54,
+      "bottomY" : 69.268,
+      "rightX" : 203.8176,
+      "topY" : 60.295,
+      "baseLineY" : 67,
+      "fontId" : 4,
+      "text" : "(i) Criteria to prioritize applications "
+    }, {
+      "leftX" : 222.0003,
+      "bottomY" : 69.2673,
+      "rightX" : 358.84,
+      "topY" : 60.2943,
+      "baseLineY" : 66.9993,
+      "fontId" : 4,
+      "text" : "to do so. Nevertheless, decisions "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 68.5283,
+      "rightX" : 414.1992,
+      "topY" : 61.6989,
+      "baseLineY" : 67,
+      "fontId" : 5,
+      "text" : "FOR"
+    }, {
+      "leftX" : 416.6594,
+      "bottomY" : 68.5283,
+      "rightX" : 451.0538,
+      "topY" : 61.6989,
+      "baseLineY" : 67,
+      "fontId" : 5,
+      "text" : "FURTHER"
+    }, {
+      "leftX" : 453.514,
+      "bottomY" : 68.5283,
+      "rightX" : 504.31,
+      "topY" : 61.6989,
+      "baseLineY" : 67,
+      "fontId" : 5,
+      "text" : "INFORMATION"
+    }, {
+      "leftX" : 506.7702,
+      "bottomY" : 68.5283,
+      "rightX" : 541.9638,
+      "topY" : 61.6989,
+      "baseLineY" : 67,
+      "fontId" : 5,
+      "text" : "CONTACT"
+    }, {
+      "leftX" : 541.9632,
+      "bottomY" : 68.863,
+      "rightX" : 547.4622,
+      "topY" : 60.538,
+      "baseLineY" : 67,
+      "fontId" : 6,
+      "text" : ": "
+    }, {
+      "leftX" : 547.4226,
+      "bottomY" : 69.268,
+      "rightX" : 564.4236,
+      "topY" : 60.295,
+      "baseLineY" : 67,
+      "fontId" : 4,
+      "text" : "Mr. "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 79.2679,
+      "rightX" : 179.8452,
+      "topY" : 70.2949,
+      "baseLineY" : 76.9999,
+      "fontId" : 4,
+      "text" : "from applicants with significant "
+    }, {
+      "leftX" : 222.0003,
+      "bottomY" : 79.2672,
+      "rightX" : 367.3665,
+      "topY" : 70.2942,
+      "baseLineY" : 76.9992,
+      "fontId" : 4,
+      "text" : "resulting from these subcommittee "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 79.6684,
+      "rightX" : 548.3407,
+      "topY" : 70.6954,
+      "baseLineY" : 77.4004,
+      "fontId" : 4,
+      "text" : "James L. Bohlk, Electrical Engineer, "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 89.2678,
+      "rightX" : 203.8266,
+      "topY" : 80.2948,
+      "baseLineY" : 86.9998,
+      "fontId" : 4,
+      "text" : "statewide resource concerns outside a "
+    }, {
+      "leftX" : 222.0003,
+      "bottomY" : 89.2671,
+      "rightX" : 389.2131,
+      "topY" : 80.2941,
+      "baseLineY" : 86.9991,
+      "fontId" : 4,
+      "text" : "sessions shall be made only in a general "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 90.0688,
+      "rightX" : 541.3603,
+      "topY" : 81.0958,
+      "baseLineY" : 87.8008,
+      "fontId" : 4,
+      "text" : "Distribution Branch, Electric Staff "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 99.2676,
+      "rightX" : 100.9674,
+      "topY" : 90.2946,
+      "baseLineY" : 96.9996,
+      "fontId" : 4,
+      "text" : "priority area; "
+    }, {
+      "leftX" : 222.0003,
+      "bottomY" : 99.267,
+      "rightX" : 346.8249,
+      "topY" : 90.294,
+      "baseLineY" : 96.999,
+      "fontId" : 4,
+      "text" : "session of the State Technical "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 100.4692,
+      "rightX" : 555.3338,
+      "topY" : 91.4962,
+      "baseLineY" : 98.2012,
+      "fontId" : 4,
+      "text" : "Division, Rural Utilities Service, U.S. "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 108.7681,
+      "rightX" : 211.3236,
+      "topY" : 99.7951,
+      "baseLineY" : 106.5001,
+      "fontId" : 4,
+      "text" : "(ii) Eligible conservation practices for "
+    }, {
+      "leftX" : 222.0003,
+      "bottomY" : 109.2668,
+      "rightX" : 388.7884,
+      "topY" : 100.2938,
+      "baseLineY" : 106.9988,
+      "fontId" : 4,
+      "text" : "Committee, where the public is notified "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 110.8696,
+      "rightX" : 535.3934,
+      "topY" : 101.8966,
+      "baseLineY" : 108.6016,
+      "fontId" : 4,
+      "text" : "Department of Agriculture, 1400 "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 118.7679,
+      "rightX" : 205.2594,
+      "topY" : 109.7949,
+      "baseLineY" : 116.4999,
+      "fontId" : 4,
+      "text" : "an EQIP priority area or for significant "
+    }, {
+      "leftX" : 222.0003,
+      "bottomY" : 119.2667,
+      "rightX" : 313.3755,
+      "topY" : 110.2937,
+      "baseLineY" : 116.9987,
+      "fontId" : 4,
+      "text" : "and invited to attend. "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 128.7678,
+      "rightX" : 203.8266,
+      "topY" : 119.7948,
+      "baseLineY" : 126.4998,
+      "fontId" : 4,
+      "text" : "statewide resource concerns outside a "
+    }, {
+      "leftX" : 230,
+      "bottomY" : 132.016,
+      "rightX" : 370.7761,
+      "topY" : 124.04,
+      "baseLineY" : 130,
+      "fontId" : 7,
+      "text" : "Signed in Washington, DC on July 28, "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 121.27,
+      "rightX" : 567.8708,
+      "topY" : 112.297,
+      "baseLineY" : 119.002,
+      "fontId" : 4,
+      "text" : "Independence Avenue, SW, STOP 1569, "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 131.6703,
+      "rightX" : 569.4223,
+      "topY" : 122.6973,
+      "baseLineY" : 129.4023,
+      "fontId" : 4,
+      "text" : "Washington, DC 20250–1569. telephone: "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 138.7677,
+      "rightX" : 100.9674,
+      "topY" : 129.7947,
+      "baseLineY" : 136.4997,
+      "fontId" : 4,
+      "text" : "priority area; "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 148.2681,
+      "rightX" : 204.2028,
+      "topY" : 139.2951,
+      "baseLineY" : 146.0001,
+      "fontId" : 4,
+      "text" : "(iii) Criteria to be used in defining a "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 141.016,
+      "rightX" : 244.24,
+      "topY" : 133.04,
+      "baseLineY" : 139,
+      "fontId" : 7,
+      "text" : "1999. "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 152.016,
+      "rightX" : 282.888,
+      "topY" : 144.04,
+      "baseLineY" : 150,
+      "fontId" : 8,
+      "text" : "Pearlie S. Reed, "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 142.0707,
+      "rightX" : 555.9369,
+      "topY" : 133.0977,
+      "baseLineY" : 139.8027,
+      "fontId" : 4,
+      "text" : "(202) 720–1967. Fax: (202) 720–7491. "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 158.268,
+      "rightX" : 214.8426,
+      "topY" : 149.295,
+      "baseLineY" : 156,
+      "fontId" : 4,
+      "text" : "large confined livestock operation under "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 163.016,
+      "rightX" : 364.796,
+      "topY" : 155.04,
+      "baseLineY" : 161,
+      "fontId" : 9,
+      "text" : "Chief, Natural Resources Conservation "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 156.5282,
+      "rightX" : 463.404,
+      "topY" : 149.6988,
+      "baseLineY" : 154.9999,
+      "fontId" : 5,
+      "text" : "SUPPLEMENTARY"
+    }, {
+      "leftX" : 465.8642,
+      "bottomY" : 156.5282,
+      "rightX" : 516.6602,
+      "topY" : 149.6988,
+      "baseLineY" : 154.9999,
+      "fontId" : 5,
+      "text" : "INFORMATION"
+    }, {
+      "leftX" : 516.6599,
+      "bottomY" : 156.8629,
+      "rightX" : 522.1589,
+      "topY" : 148.5379,
+      "baseLineY" : 154.9999,
+      "fontId" : 6,
+      "text" : ": "
+    }, {
+      "leftX" : 522.1193,
+      "bottomY" : 157.2679,
+      "rightX" : 561.6114,
+      "topY" : 148.2949,
+      "baseLineY" : 154.9999,
+      "fontId" : 4,
+      "text" : "Pursuant "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 168.2679,
+      "rightX" : 71.001,
+      "topY" : 159.2949,
+      "baseLineY" : 165.9999,
+      "fontId" : 4,
+      "text" : "EQIP; "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 172.016,
+      "rightX" : 253.12,
+      "topY" : 164.04,
+      "baseLineY" : 170,
+      "fontId" : 9,
+      "text" : "Service. "
+    }, {
+      "leftX" : 399.0002,
+      "bottomY" : 167.6683,
+      "rightX" : 563.2739,
+      "topY" : 158.6953,
+      "baseLineY" : 165.4003,
+      "fontId" : 4,
+      "text" : "to the Rural Electrification Act of 1936, "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 177.7683,
+      "rightX" : 178.8336,
+      "topY" : 168.7953,
+      "baseLineY" : 175.5003,
+      "fontId" : 4,
+      "text" : "(iv) Suggestions on how often "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 183.016,
+      "rightX" : 379.728,
+      "topY" : 175.04,
+      "baseLineY" : 181,
+      "fontId" : 7,
+      "text" : "[FR Doc. 99–19899 Filed 8–2–99; 8:45 am] "
+    }, {
+      "leftX" : 399.0002,
+      "bottomY" : 178.0687,
+      "rightX" : 506.8689,
+      "topY" : 169.0957,
+      "baseLineY" : 175.8007,
+      "fontId" : 4,
+      "text" : "as amended (7 U.S.C. 901 "
+    }, {
+      "leftX" : 506.8274,
+      "bottomY" : 178.0687,
+      "rightX" : 532.8284,
+      "topY" : 169.0957,
+      "baseLineY" : 175.8007,
+      "fontId" : 10,
+      "text" : "et seq."
+    }, {
+      "leftX" : 532.7888,
+      "bottomY" : 178.0687,
+      "rightX" : 556.2879,
+      "topY" : 169.0957,
+      "baseLineY" : 175.8007,
+      "fontId" : 4,
+      "text" : "), the "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 187.7682,
+      "rightX" : 214.3386,
+      "topY" : 178.7952,
+      "baseLineY" : 185.5002,
+      "fontId" : 4,
+      "text" : "producers’ EQIP applications are ranked "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 188.469,
+      "rightX" : 567.7963,
+      "topY" : 179.4961,
+      "baseLineY" : 186.201,
+      "fontId" : 4,
+      "text" : "Rural Utilities Service (RUS) amended 7 "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 197.7681,
+      "rightX" : 101.4534,
+      "topY" : 188.7951,
+      "baseLineY" : 195.5001,
+      "fontId" : 4,
+      "text" : "and selected; "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 193.242,
+      "rightX" : 299.3196,
+      "topY" : 187.692,
+      "baseLineY" : 192,
+      "fontId" : 11,
+      "text" : "BILLING CODE 3410–16–P"
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 198.8694,
+      "rightX" : 555.8171,
+      "topY" : 189.8964,
+      "baseLineY" : 196.6014,
+      "fontId" : 4,
+      "text" : "CFR Chapter XVII, Part 1728, Electric "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 207.2685,
+      "rightX" : 205.8246,
+      "topY" : 198.2955,
+      "baseLineY" : 205.0005,
+      "fontId" : 4,
+      "text" : "(v) Criteria to prioritize applications "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 209.2698,
+      "rightX" : 531.8663,
+      "topY" : 200.2968,
+      "baseLineY" : 207.0018,
+      "fontId" : 4,
+      "text" : "Standards and Specification for "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 217.2684,
+      "rightX" : 179.8452,
+      "topY" : 208.2954,
+      "baseLineY" : 215.0004,
+      "fontId" : 4,
+      "text" : "from applicants with significant "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 222.163,
+      "rightX" : 367.4147,
+      "topY" : 213.838,
+      "baseLineY" : 220.3,
+      "fontId" : 6,
+      "text" : "DEPARTMENT OF AGRICULTURE"
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 219.6702,
+      "rightX" : 564.3348,
+      "topY" : 210.6972,
+      "baseLineY" : 217.4022,
+      "fontId" : 4,
+      "text" : "Materials and Construction, by revising "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 227.2682,
+      "rightX" : 203.8266,
+      "topY" : 218.2952,
+      "baseLineY" : 225.0002,
+      "fontId" : 4,
+      "text" : "statewide resource concerns outside a "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 230.0706,
+      "rightX" : 515.9093,
+      "topY" : 221.0976,
+      "baseLineY" : 227.8026,
+      "fontId" : 4,
+      "text" : "RUS Bulletin 50–5 (D–803), "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 237.2681,
+      "rightX" : 118.9278,
+      "topY" : 228.2951,
+      "baseLineY" : 235.0001,
+      "fontId" : 4,
+      "text" : "priority area; and "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 240.163,
+      "rightX" : 315.4579,
+      "topY" : 231.838,
+      "baseLineY" : 238.3,
+      "fontId" : 6,
+      "text" : "Rural Utilities Service"
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 240.471,
+      "rightX" : 552.8418,
+      "topY" : 231.498,
+      "baseLineY" : 238.203,
+      "fontId" : 4,
+      "text" : "Specification and Drawings for 14.4/ "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 246.8684,
+      "rightX" : 204.291,
+      "topY" : 237.8954,
+      "baseLineY" : 244.6004,
+      "fontId" : 4,
+      "text" : "(vi) Determination of cost share and "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 250.8714,
+      "rightX" : 530.3597,
+      "topY" : 241.8984,
+      "baseLineY" : 248.6034,
+      "fontId" : 4,
+      "text" : "24.9 kV Line Construction, and "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 266.8682,
+      "rightX" : 201.8682,
+      "topY" : 257.8952,
+      "baseLineY" : 264.6002,
+      "fontId" : 4,
+      "text" : "participants subject to environmental "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 256.8683,
+      "rightX" : 164.8692,
+      "topY" : 247.8953,
+      "baseLineY" : 254.6003,
+      "fontId" : 4,
+      "text" : "incentive payment limits for "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 258.163,
+      "rightX" : 290.4072,
+      "topY" : 249.838,
+      "baseLineY" : 256.3,
+      "fontId" : 6,
+      "text" : "7 CFR Part 1728"
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 261.2718,
+      "rightX" : 560.8213,
+      "topY" : 252.2988,
+      "baseLineY" : 259.0038,
+      "fontId" : 4,
+      "text" : "renumbered it as RUS Bulletin 1728F– "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 276.868,
+      "rightX" : 180.3582,
+      "topY" : 267.895,
+      "baseLineY" : 274.6,
+      "fontId" : 4,
+      "text" : "requirements or with significant "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 276.163,
+      "rightX" : 382.9272,
+      "topY" : 267.838,
+      "baseLineY" : 274.3,
+      "fontId" : 6,
+      "text" : "Electric Overhead Distribution Lines; "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 271.6722,
+      "rightX" : 531.8142,
+      "topY" : 262.6992,
+      "baseLineY" : 269.4042,
+      "fontId" : 4,
+      "text" : "803. RUS maintains a system of "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 286.8679,
+      "rightX" : 203.8266,
+      "topY" : 277.8949,
+      "baseLineY" : 284.5999,
+      "fontId" : 4,
+      "text" : "statewide resource concerns outside a "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 286.1629,
+      "rightX" : 383.8956,
+      "topY" : 277.8379,
+      "baseLineY" : 284.2999,
+      "fontId" : 6,
+      "text" : "Specifications and Drawings for 24.9/ "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 282.0726,
+      "rightX" : 548.3544,
+      "topY" : 273.0996,
+      "baseLineY" : 279.8046,
+      "fontId" : 4,
+      "text" : "bulletins that contains construction "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 296.8679,
+      "rightX" : 100.9674,
+      "topY" : 287.8949,
+      "baseLineY" : 294.5999,
+      "fontId" : 4,
+      "text" : "priority area. "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 296.1628,
+      "rightX" : 334.9122,
+      "topY" : 287.8378,
+      "baseLineY" : 294.2998,
+      "fontId" : 6,
+      "text" : "14.4 kV Line Construction "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 302.8733,
+      "rightX" : 533.8733,
+      "topY" : 293.9003,
+      "baseLineY" : 300.6053,
+      "fontId" : 4,
+      "text" : "materials and equipment. These "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 292.473,
+      "rightX" : 532.8563,
+      "topY" : 283.5,
+      "baseLineY" : 290.205,
+      "fontId" : 4,
+      "text" : "standards and specifications for "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 316.4681,
+      "rightX" : 195.8652,
+      "topY" : 307.4951,
+      "baseLineY" : 314.2001,
+      "fontId" : 4,
+      "text" : "Wildlife Habitat Incentives Program "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 306.4682,
+      "rightX" : 185.3406,
+      "topY" : 297.4952,
+      "baseLineY" : 304.2002,
+      "fontId" : 4,
+      "text" : "(10) The implementation of the "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 311.3283,
+      "rightX" : 252.8016,
+      "topY" : 304.4989,
+      "baseLineY" : 309.8,
+      "fontId" : 5,
+      "text" : "AGENCY"
+    }, {
+      "leftX" : 252.8016,
+      "bottomY" : 311.663,
+      "rightX" : 258.3006,
+      "topY" : 303.338,
+      "baseLineY" : 309.8,
+      "fontId" : 6,
+      "text" : ": "
+    }, {
+      "leftX" : 258.261,
+      "bottomY" : 312.068,
+      "rightX" : 385.6363,
+      "topY" : 303.095,
+      "baseLineY" : 309.8,
+      "fontId" : 4,
+      "text" : "Rural Utilities Service, USDA. "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 313.2737,
+      "rightX" : 555.3168,
+      "topY" : 304.3007,
+      "baseLineY" : 311.0057,
+      "fontId" : 4,
+      "text" : "standards and specifications apply to "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 326.468,
+      "rightX" : 151.9092,
+      "topY" : 317.495,
+      "baseLineY" : 324.2,
+      "fontId" : 4,
+      "text" : "(WHIP) (16 U.S.C 3836a); "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 322.8283,
+      "rightX" : 249.5976,
+      "topY" : 315.9989,
+      "baseLineY" : 321.3,
+      "fontId" : 5,
+      "text" : "ACTION"
+    }, {
+      "leftX" : 249.5976,
+      "bottomY" : 323.163,
+      "rightX" : 255.0966,
+      "topY" : 314.838,
+      "baseLineY" : 321.3,
+      "fontId" : 6,
+      "text" : ": "
+    }, {
+      "leftX" : 255.057,
+      "bottomY" : 323.568,
+      "rightX" : 380.9292,
+      "topY" : 314.595,
+      "baseLineY" : 321.3,
+      "fontId" : 4,
+      "text" : "Extension of compliance with "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 323.6741,
+      "rightX" : 552.3289,
+      "topY" : 314.7011,
+      "baseLineY" : 321.4061,
+      "fontId" : 4,
+      "text" : "system facilities constructed by RUS "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 336.0683,
+      "rightX" : 212.796,
+      "topY" : 327.0953,
+      "baseLineY" : 333.8003,
+      "fontId" : 4,
+      "text" : "(11) The technical merits of proposals "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 333.5679,
+      "rightX" : 341.9321,
+      "topY" : 324.5949,
+      "baseLineY" : 331.2999,
+      "fontId" : 4,
+      "text" : "Bulletin 50–5 or 1728F–803. "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 334.0745,
+      "rightX" : 536.406,
+      "topY" : 325.1015,
+      "baseLineY" : 331.8065,
+      "fontId" : 4,
+      "text" : "electric and telecommunications "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 344.4749,
+      "rightX" : 560.8122,
+      "topY" : 335.5019,
+      "baseLineY" : 342.2069,
+      "fontId" : 4,
+      "text" : "borrowers in accordance with the RUS "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 356.0681,
+      "rightX" : 153.9252,
+      "topY" : 347.0951,
+      "baseLineY" : 353.8001,
+      "fontId" : 4,
+      "text" : "Program (16 U.S.C. 3830); "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 346.0682,
+      "rightX" : 205.8336,
+      "topY" : 337.0952,
+      "baseLineY" : 343.8002,
+      "fontId" : 4,
+      "text" : "submitted for the Farmland Protection "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 360.4679,
+      "rightX" : 381.291,
+      "topY" : 351.4949,
+      "baseLineY" : 358.1999,
+      "fontId" : 4,
+      "text" : "Service (RUS) updated and revised its "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 349.7283,
+      "rightX" : 259.1952,
+      "topY" : 342.8989,
+      "baseLineY" : 348.2,
+      "fontId" : 5,
+      "text" : "SUMMARY"
+    }, {
+      "leftX" : 259.1952,
+      "bottomY" : 350.063,
+      "rightX" : 264.6942,
+      "topY" : 341.738,
+      "baseLineY" : 348.2,
+      "fontId" : 6,
+      "text" : ": "
+    }, {
+      "leftX" : 264.6546,
+      "bottomY" : 350.468,
+      "rightX" : 374.4943,
+      "topY" : 341.495,
+      "baseLineY" : 348.2,
+      "fontId" : 4,
+      "text" : "In 1998 the Rural Utilities "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 354.8753,
+      "rightX" : 551.8337,
+      "topY" : 345.9023,
+      "baseLineY" : 352.6073,
+      "fontId" : 4,
+      "text" : "loan contract, and contains standard "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 365.6684,
+      "rightX" : 202.311,
+      "topY" : 356.6954,
+      "baseLineY" : 363.4004,
+      "fontId" : 4,
+      "text" : "(12) The development of a Wetland "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 370.4678,
+      "rightX" : 385.3086,
+      "topY" : 361.4948,
+      "baseLineY" : 368.1998,
+      "fontId" : 4,
+      "text" : "bulletin of specifications and drawings "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 365.2757,
+      "rightX" : 536.3664,
+      "topY" : 356.3027,
+      "baseLineY" : 363.0077,
+      "fontId" : 4,
+      "text" : "construction units, material, and "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 375.6683,
+      "rightX" : 214.848,
+      "topY" : 366.6953,
+      "baseLineY" : 373.4003,
+      "fontId" : 4,
+      "text" : "Reserve Program (WRP) (16 U.S.C. 3837) "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 380.4677,
+      "rightX" : 380.4162,
+      "topY" : 371.4947,
+      "baseLineY" : 378.1997,
+      "fontId" : 4,
+      "text" : "for 24.9/14.4kV overhead distribution "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 375.6761,
+      "rightX" : 548.8368,
+      "topY" : 366.7031,
+      "baseLineY" : 373.4081,
+      "fontId" : 4,
+      "text" : "equipment units commonly used in "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 385.6682,
+      "rightX" : 151.4088,
+      "topY" : 376.6952,
+      "baseLineY" : 383.4002,
+      "fontId" : 4,
+      "text" : "wetland restoration plan; "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 390.4676,
+      "rightX" : 391.3387,
+      "topY" : 381.4946,
+      "baseLineY" : 388.1996,
+      "fontId" : 4,
+      "text" : "line construction. The bulletin, formerly "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 386.0765,
+      "rightX" : 553.3765,
+      "topY" : 377.1035,
+      "baseLineY" : 383.8085,
+      "fontId" : 4,
+      "text" : "RUS electric and telecommunication "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 395.2685,
+      "rightX" : 198.3672,
+      "topY" : 386.2955,
+      "baseLineY" : 393.0005,
+      "fontId" : 4,
+      "text" : "(13) Statewide program guidelines "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 400.4676,
+      "rightX" : 370.3506,
+      "topY" : 391.4946,
+      "baseLineY" : 398.1996,
+      "fontId" : 4,
+      "text" : "named Bulletin 50–5, was renamed "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 396.4769,
+      "rightX" : 482.9676,
+      "topY" : 387.5039,
+      "baseLineY" : 394.2089,
+      "fontId" : 4,
+      "text" : "borrowers’ systems. "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 415.2684,
+      "rightX" : 196.9128,
+      "topY" : 406.2954,
+      "baseLineY" : 413.0004,
+      "fontId" : 4,
+      "text" : "compensation, restoration planning, "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 405.2685,
+      "rightX" : 164.8782,
+      "topY" : 396.2955,
+      "baseLineY" : 403.0005,
+      "fontId" : 4,
+      "text" : "applicable to WRP easement "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 410.4675,
+      "rightX" : 334.4568,
+      "topY" : 401.4945,
+      "baseLineY" : 408.1995,
+      "fontId" : 4,
+      "text" : "‘‘RUS Bulletin 1728F–803; "
+    }, {
+      "leftX" : 408.0011,
+      "bottomY" : 409.6771,
+      "rightX" : 551.4144,
+      "topY" : 400.7041,
+      "baseLineY" : 407.4091,
+      "fontId" : 4,
+      "text" : "RUS Bulletin 1728F–803 provides "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 425.2683,
+      "rightX" : 192.8466,
+      "topY" : 416.2953,
+      "baseLineY" : 423.0003,
+      "fontId" : 4,
+      "text" : "priority ranking, and related policy "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 420.4674,
+      "rightX" : 379.8366,
+      "topY" : 411.4944,
+      "baseLineY" : 418.1994,
+      "fontId" : 4,
+      "text" : "Specifications and Drawings for 24.9/ "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 420.0775,
+      "rightX" : 544.8624,
+      "topY" : 411.1045,
+      "baseLineY" : 417.8095,
+      "fontId" : 4,
+      "text" : "dimensioned drawings of standard "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 435.2682,
+      "rightX" : 151.8696,
+      "topY" : 426.2952,
+      "baseLineY" : 433.0002,
+      "fontId" : 4,
+      "text" : "matters, 7 CFR part 1467; "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 430.4673,
+      "rightX" : 361.3596,
+      "topY" : 421.4943,
+      "baseLineY" : 428.1993,
+      "fontId" : 4,
+      "text" : "14.4 kV Line Construction.’’ This "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 430.4779,
+      "rightX" : 554.3178,
+      "topY" : 421.5049,
+      "baseLineY" : 428.2099,
+      "fontId" : 4,
+      "text" : "assembly units and specifications for "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 444.8685,
+      "rightX" : 212.796,
+      "topY" : 435.8955,
+      "baseLineY" : 442.6005,
+      "fontId" : 4,
+      "text" : "(14) Identification of any categories of "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 440.4672,
+      "rightX" : 374.8416,
+      "topY" : 431.4942,
+      "baseLineY" : 438.1992,
+      "fontId" : 4,
+      "text" : "bulletin is incorporated by reference "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 440.8783,
+      "rightX" : 534.3738,
+      "topY" : 431.9053,
+      "baseLineY" : 438.6103,
+      "fontId" : 4,
+      "text" : "the construction of 24.9/14.4 kV "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 454.8684,
+      "rightX" : 186.8652,
+      "topY" : 445.8954,
+      "baseLineY" : 452.6004,
+      "fontId" : 4,
+      "text" : "wetland conversion activities and "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 450.4671,
+      "rightX" : 385.2438,
+      "topY" : 441.4941,
+      "baseLineY" : 448.1991,
+      "fontId" : 4,
+      "text" : "(IBR) in 7 CFR part 1728. As published "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 451.2787,
+      "rightX" : 548.8674,
+      "topY" : 442.3057,
+      "baseLineY" : 449.0107,
+      "fontId" : 4,
+      "text" : "overhead electric distribution lines. "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 464.8683,
+      "rightX" : 175.3722,
+      "topY" : 455.8953,
+      "baseLineY" : 462.6003,
+      "fontId" : 4,
+      "text" : "conditions which are routinely "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 460.467,
+      "rightX" : 248.496,
+      "topY" : 451.494,
+      "baseLineY" : 458.199,
+      "fontId" : 4,
+      "text" : "in the "
+    }, {
+      "leftX" : 248.4159,
+      "bottomY" : 460.467,
+      "rightX" : 319.3593,
+      "topY" : 451.494,
+      "baseLineY" : 458.199,
+      "fontId" : 12,
+      "text" : "Federal Register "
+    }, {
+      "leftX" : 319.3188,
+      "bottomY" : 460.467,
+      "rightX" : 390.7626,
+      "topY" : 451.494,
+      "baseLineY" : 458.199,
+      "fontId" : 4,
+      "text" : "on December 31, "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 461.6791,
+      "rightX" : 563.8091,
+      "topY" : 452.7061,
+      "baseLineY" : 459.4111,
+      "fontId" : 4,
+      "text" : "RUS changed the bulletin number from "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 474.8682,
+      "rightX" : 204.318,
+      "topY" : 465.8952,
+      "baseLineY" : 472.6002,
+      "fontId" : 4,
+      "text" : "determined by NRCS to have minimal "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 480.4668,
+      "rightX" : 384.7488,
+      "topY" : 471.4938,
+      "baseLineY" : 478.1988,
+      "fontId" : 4,
+      "text" : "approved for IBR by the Director of the "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 470.4669,
+      "rightX" : 384.7578,
+      "topY" : 461.4939,
+      "baseLineY" : 468.1989,
+      "fontId" : 4,
+      "text" : "1998, at 63 FR 72102, this bulletin was "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 472.0795,
+      "rightX" : 545.8182,
+      "topY" : 463.1065,
+      "baseLineY" : 469.8115,
+      "fontId" : 4,
+      "text" : "RUS Bulletin 50–5 to RUS Bulletin "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 484.8681,
+      "rightX" : 207.279,
+      "topY" : 475.8951,
+      "baseLineY" : 482.6001,
+      "fontId" : 4,
+      "text" : "effect on wetland functions and values "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 490.4667,
+      "rightX" : 364.8246,
+      "topY" : 481.4937,
+      "baseLineY" : 488.1987,
+      "fontId" : 4,
+      "text" : "Federal Register and was effective "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 482.4799,
+      "rightX" : 560.8302,
+      "topY" : 473.5069,
+      "baseLineY" : 480.2119,
+      "fontId" : 4,
+      "text" : "1728F–803. The change in the bulletin "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 494.868,
+      "rightX" : 170.7804,
+      "topY" : 485.895,
+      "baseLineY" : 492.6,
+      "fontId" : 4,
+      "text" : "as described in 7 CFR part 12. "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 500.4666,
+      "rightX" : 296.4588,
+      "topY" : 491.4936,
+      "baseLineY" : 498.1986,
+      "fontId" : 4,
+      "text" : "February 1, 1999. "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 503.2807,
+      "rightX" : 554.3142,
+      "topY" : 494.3077,
+      "baseLineY" : 501.0127,
+      "fontId" : 4,
+      "text" : "to conform to RUS’ new publications "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 492.8803,
+      "rightX" : 565.8377,
+      "topY" : 483.9073,
+      "baseLineY" : 490.6123,
+      "fontId" : 4,
+      "text" : "number and reformatting was necessary "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 504.4683,
+      "rightX" : 194.8842,
+      "topY" : 495.4953,
+      "baseLineY" : 502.2003,
+      "fontId" : 4,
+      "text" : "(15) Conservation techniques and "
+    }, {
+      "leftX" : 231,
+      "bottomY" : 510.067,
+      "rightX" : 372.822,
+      "topY" : 501.094,
+      "baseLineY" : 507.799,
+      "fontId" : 4,
+      "text" : "To allow borrowers to conduct an "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 514.4683,
+      "rightX" : 169.8732,
+      "topY" : 505.4953,
+      "baseLineY" : 512.2003,
+      "fontId" : 4,
+      "text" : "measures related to achieving "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 520.0668,
+      "rightX" : 386.2951,
+      "topY" : 511.0938,
+      "baseLineY" : 517.7988,
+      "fontId" : 4,
+      "text" : "orderly transition from the old Bulletin "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 513.6811,
+      "rightX" : 558.7782,
+      "topY" : 504.7081,
+      "baseLineY" : 511.4131,
+      "fontId" : 4,
+      "text" : "and directives system. This bulletin is "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 524.4682,
+      "rightX" : 184.3722,
+      "topY" : 515.4952,
+      "baseLineY" : 522.2002,
+      "fontId" : 4,
+      "text" : "environmental justice needs; and "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 530.0668,
+      "rightX" : 391.803,
+      "topY" : 521.0938,
+      "baseLineY" : 527.7988,
+      "fontId" : 4,
+      "text" : "50–5 to the new construction assemblies "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 524.0815,
+      "rightX" : 562.3864,
+      "topY" : 515.1085,
+      "baseLineY" : 521.8135,
+      "fontId" : 4,
+      "text" : "incorporated by reference in § 1728.97. "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 544.0684,
+      "rightX" : 214.299,
+      "topY" : 535.0954,
+      "baseLineY" : 541.8004,
+      "fontId" : 4,
+      "text" : "are not eligible for mitigation exemption "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 534.0685,
+      "rightX" : 206.7534,
+      "topY" : 525.0955,
+      "baseLineY" : 531.8005,
+      "fontId" : 4,
+      "text" : "(16) Types or classes of wetland that "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 540.0666,
+      "rightX" : 364.803,
+      "topY" : 531.0936,
+      "baseLineY" : 537.7986,
+      "fontId" : 4,
+      "text" : "and assembly numbers of the new "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 534.4819,
+      "rightX" : 522.3102,
+      "topY" : 525.5089,
+      "baseLineY" : 532.2139,
+      "fontId" : 4,
+      "text" : "It may be purchased from the "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 544.8823,
+      "rightX" : 566.3508,
+      "topY" : 535.9093,
+      "baseLineY" : 542.6143,
+      "fontId" : 4,
+      "text" : "Superintendent of Documents, P.O. Box "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 554.0683,
+      "rightX" : 181.8792,
+      "topY" : 545.0953,
+      "baseLineY" : 551.8003,
+      "fontId" : 4,
+      "text" : "under the Wetland Conservation "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 564.0682,
+      "rightX" : 162.828,
+      "topY" : 555.0952,
+      "baseLineY" : 561.8002,
+      "fontId" : 4,
+      "text" : "provisions of 7 CFR part 12. "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 550.0666,
+      "rightX" : 364.9092,
+      "topY" : 541.0936,
+      "baseLineY" : 547.7986,
+      "fontId" : 4,
+      "text" : "Bulletin 1728F–803, RUS allowed "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 560.0665,
+      "rightX" : 379.3326,
+      "topY" : 551.0935,
+      "baseLineY" : 557.7985,
+      "fontId" : 4,
+      "text" : "compliance to either bulletin through "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 555.2826,
+      "rightX" : 539.439,
+      "topY" : 546.3096,
+      "baseLineY" : 553.0146,
+      "fontId" : 4,
+      "text" : "371954, Pittsburgh, Pennsylvania "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 570.0663,
+      "rightX" : 373.839,
+      "topY" : 561.0933,
+      "baseLineY" : 567.7983,
+      "fontId" : 4,
+      "text" : "December 31, 1999, in a compliance "
+    }, {
+      "leftX" : 399.0011,
+      "bottomY" : 565.683,
+      "rightX" : 454.0451,
+      "topY" : 556.71,
+      "baseLineY" : 563.415,
+      "fontId" : 4,
+      "text" : "15250–7954. "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 583.6683,
+      "rightX" : 191.7684,
+      "topY" : 574.6953,
+      "baseLineY" : 581.4003,
+      "fontId" : 4,
+      "text" : "the authority to accept or reject the "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 573.6685,
+      "rightX" : 213.8346,
+      "topY" : 564.6955,
+      "baseLineY" : 571.4005,
+      "fontId" : 4,
+      "text" : "(d) The implementing agency reserves "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 580.0662,
+      "rightX" : 320.3682,
+      "topY" : 571.0932,
+      "baseLineY" : 577.7982,
+      "fontId" : 4,
+      "text" : "notice published in the "
+    }, {
+      "leftX" : 320.3268,
+      "bottomY" : 580.0662,
+      "rightX" : 391.2702,
+      "topY" : 571.0932,
+      "baseLineY" : 577.7982,
+      "fontId" : 12,
+      "text" : "Federal Register "
+    }, {
+      "leftX" : 407,
+      "bottomY" : 579.2149,
+      "rightX" : 485.248,
+      "topY" : 571.2389,
+      "baseLineY" : 577.1989,
+      "fontId" : 7,
+      "text" : "Dated: July 28, 1999. "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 593.6683,
+      "rightX" : 177.9624,
+      "topY" : 584.6953,
+      "baseLineY" : 591.4003,
+      "fontId" : 4,
+      "text" : "Committee’s recommendations; "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 590.0661,
+      "rightX" : 383.7642,
+      "topY" : 581.0931,
+      "baseLineY" : 587.7981,
+      "fontId" : 4,
+      "text" : "on March 29, 1999, at 64 FR 14813. To "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 591.0149,
+      "rightX" : 486.12,
+      "topY" : 583.0389,
+      "baseLineY" : 588.9989,
+      "fontId" : 8,
+      "text" : "Blaine D. Stockton, Jr., "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 603.6681,
+      "rightX" : 189.8802,
+      "topY" : 594.6951,
+      "baseLineY" : 601.4001,
+      "fontId" : 4,
+      "text" : "however, the implementing USDA "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 600.066,
+      "rightX" : 375.8406,
+      "topY" : 591.093,
+      "baseLineY" : 597.798,
+      "fontId" : 4,
+      "text" : "prevent additional errors which may "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 602.8149,
+      "rightX" : 565.032,
+      "topY" : 594.8389,
+      "baseLineY" : 600.7989,
+      "fontId" : 9,
+      "text" : "Acting Administrator, Rural Utilities Service. "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 613.668,
+      "rightX" : 215.298,
+      "topY" : 604.695,
+      "baseLineY" : 611.4,
+      "fontId" : 4,
+      "text" : "agency shall give strong consideration to "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 610.0659,
+      "rightX" : 378.321,
+      "topY" : 601.0929,
+      "baseLineY" : 607.7979,
+      "fontId" : 4,
+      "text" : "result from the year 2000 compliance "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 613.8149,
+      "rightX" : 556.728,
+      "topY" : 605.8389,
+      "baseLineY" : 611.7989,
+      "fontId" : 7,
+      "text" : "[FR Doc. 99–19830 Filed 8–2–99; 8:45 am] "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 623.6679,
+      "rightX" : 166.9068,
+      "topY" : 614.6949,
+      "baseLineY" : 621.3999,
+      "fontId" : 4,
+      "text" : "the Committee’s suggestions. "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 620.0658,
+      "rightX" : 364.3295,
+      "topY" : 611.0928,
+      "baseLineY" : 617.7978,
+      "fontId" : 4,
+      "text" : "transitions, RUS has extended the "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 630.0657,
+      "rightX" : 389.805,
+      "topY" : 621.0927,
+      "baseLineY" : 627.7977,
+      "fontId" : 4,
+      "text" : "compliance date for borrowers to utilize "
+    }, {
+      "leftX" : 399,
+      "bottomY" : 624.8409,
+      "rightX" : 476.3196,
+      "topY" : 619.2909,
+      "baseLineY" : 623.5989,
+      "fontId" : 11,
+      "text" : "BILLING CODE 3410–15–P"
+    }, {
+      "leftX" : 45,
+      "bottomY" : 639.0557,
+      "rightX" : 75.232,
+      "topY" : 631.6557,
+      "baseLineY" : 637.3997,
+      "fontId" : 13,
+      "text" : "§ 610.25"
+    }, {
+      "leftX" : 83.232,
+      "bottomY" : 639.0557,
+      "rightX" : 192.14,
+      "topY" : 631.6557,
+      "baseLineY" : 637.3997,
+      "fontId" : 13,
+      "text" : "Specialized subcommittees. "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 640.0656,
+      "rightX" : 390.3126,
+      "topY" : 631.0926,
+      "baseLineY" : 637.7976,
+      "fontId" : 4,
+      "text" : "construction drawings in either Bulletin "
+    }, {
+      "leftX" : 54,
+      "bottomY" : 651.2677,
+      "rightX" : 183.3552,
+      "topY" : 642.2947,
+      "baseLineY" : 648.9997,
+      "fontId" : 4,
+      "text" : "In some situations, specialized "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 650.0655,
+      "rightX" : 374.847,
+      "topY" : 641.0925,
+      "baseLineY" : 647.7975,
+      "fontId" : 4,
+      "text" : "50–5 or the new Bulletin 1728F–803 "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 661.2676,
+      "rightX" : 183.8376,
+      "topY" : 652.2946,
+      "baseLineY" : 658.9996,
+      "fontId" : 4,
+      "text" : "subcommittees, made up of State "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 660.0654,
+      "rightX" : 375.7668,
+      "topY" : 651.0924,
+      "baseLineY" : 657.7974,
+      "fontId" : 4,
+      "text" : "until July 1, 2001. After July 1, 2001, "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 670.0653,
+      "rightX" : 365.4042,
+      "topY" : 661.0923,
+      "baseLineY" : 667.7973,
+      "fontId" : 4,
+      "text" : "only Bulletin 1728F–803 standard "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 671.2675,
+      "rightX" : 210.3606,
+      "topY" : 662.2945,
+      "baseLineY" : 668.9995,
+      "fontId" : 4,
+      "text" : "Technical Committee members, may be "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 681.2674,
+      "rightX" : 200.79,
+      "topY" : 672.2944,
+      "baseLineY" : 678.9994,
+      "fontId" : 4,
+      "text" : "needed to analyze and refine specific "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 680.0652,
+      "rightX" : 321.3672,
+      "topY" : 671.0922,
+      "baseLineY" : 677.7972,
+      "fontId" : 4,
+      "text" : "drawings shall be used. "
+    }, {
+      "leftX" : 231,
+      "bottomY" : 689.6655,
+      "rightX" : 381.2155,
+      "topY" : 680.6925,
+      "baseLineY" : 687.3975,
+      "fontId" : 4,
+      "text" : "It is anticipated that this action will "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 691.2673,
+      "rightX" : 203.3316,
+      "topY" : 682.2943,
+      "baseLineY" : 688.9993,
+      "fontId" : 4,
+      "text" : "issues. The State Conservationist may "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 699.6654,
+      "rightX" : 383.2891,
+      "topY" : 690.6924,
+      "baseLineY" : 697.3974,
+      "fontId" : 4,
+      "text" : "also allow borrowers sufficient time to "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 701.2672,
+      "rightX" : 201.8286,
+      "topY" : 692.2942,
+      "baseLineY" : 698.9992,
+      "fontId" : 4,
+      "text" : "assemble certain members to discuss, "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 709.6653,
+      "rightX" : 386.3346,
+      "topY" : 700.6923,
+      "baseLineY" : 707.3973,
+      "fontId" : 4,
+      "text" : "make necessary changes in engineering "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 711.2671,
+      "rightX" : 190.305,
+      "topY" : 702.2941,
+      "baseLineY" : 708.9991,
+      "fontId" : 4,
+      "text" : "examine, and focus on a particular "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 719.6652,
+      "rightX" : 354.3791,
+      "topY" : 710.6922,
+      "baseLineY" : 717.3972,
+      "fontId" : 4,
+      "text" : "and accounting procedures and "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 721.267,
+      "rightX" : 200.8476,
+      "topY" : 712.294,
+      "baseLineY" : 718.999,
+      "fontId" : 4,
+      "text" : "technical or programmatic topic. The "
+    }, {
+      "leftX" : 222,
+      "bottomY" : 729.6651,
+      "rightX" : 348.9108,
+      "topY" : 720.6921,
+      "baseLineY" : 727.3971,
+      "fontId" : 4,
+      "text" : "associated computer software. "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 731.2669,
+      "rightX" : 174.8862,
+      "topY" : 722.2939,
+      "baseLineY" : 728.9989,
+      "fontId" : 4,
+      "text" : "subcommittee may seek public "
+    }, {
+      "leftX" : 45,
+      "bottomY" : 741.2668,
+      "rightX" : 212.796,
+      "topY" : 732.2938,
+      "baseLineY" : 738.9988,
+      "fontId" : 4,
+      "text" : "participation; however, it is not required"
+    }, {
+      "leftX" : 222,
+      "bottomY" : 740.5281,
+      "rightX" : 261.6072,
+      "topY" : 733.6988,
+      "baseLineY" : 738.9998,
+      "fontId" : 5,
+      "text" : "EFFECTIVE"
+    }, {
+      "leftX" : 264.0674,
+      "bottomY" : 740.5281,
+      "rightX" : 283.6658,
+      "topY" : 733.6988,
+      "baseLineY" : 738.9998,
+      "fontId" : 5,
+      "text" : "DATE"
+    }, {
+      "leftX" : 283.6656,
+      "bottomY" : 740.8628,
+      "rightX" : 289.1646,
+      "topY" : 732.5378,
+      "baseLineY" : 738.9998,
+      "fontId" : 6,
+      "text" : ": "
+    }, {
+      "leftX" : 289.125,
+      "bottomY" : 741.2678,
+      "rightX" : 353.5668,
+      "topY" : 732.2948,
+      "baseLineY" : 738.9998,
+      "fontId" : 4,
+      "text" : "August 3, 1999."
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "Melior-Bold",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "Melior",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "Melior-Bold",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 4,
+    "fontFamily" : "Melior",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "Helvetica-Bold",
+    "fontSize" : 7.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "Helvetica-Bold",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "Melior",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "Melior-Bold",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "Melior-Italic",
+    "fontSize" : 8.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "Melior-Italic",
+    "fontSize" : 9.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "Helvetica-Bold",
+    "fontSize" : 6.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "Melior-Bold",
+    "fontSize" : 9.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 13,
+    "fontFamily" : "Helvetica-Bold",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

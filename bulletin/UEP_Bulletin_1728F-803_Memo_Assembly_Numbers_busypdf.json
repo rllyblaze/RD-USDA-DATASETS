@@ -1,0 +1,4552 @@
+{
+  "pdfDoc" : "UEP_Bulletin_1728F-803_Memo_Assembly_Numbers.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 24,
+      "bottomY" : 23.5515,
+      "rightX" : 84.8915,
+      "topY" : 18.0081,
+      "baseLineY" : 22.5,
+      "fontId" : 1,
+      "text" : "4/22/25, 1:02 PM"
+    }, {
+      "leftX" : 322.5586,
+      "bottomY" : 23.5515,
+      "rightX" : 380.3271,
+      "topY" : 18.0081,
+      "baseLineY" : 22.5,
+      "fontId" : 1,
+      "text" : "Dual Numbering"
+    }, {
+      "leftX" : 478.4883,
+      "bottomY" : 48.8317,
+      "rightX" : 548.8066,
+      "topY" : 40.734,
+      "baseLineY" : 47.25,
+      "fontId" : 2,
+      "text" : "March 7, 2001"
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 65.3317,
+      "rightX" : 362.0215,
+      "topY" : 57.234,
+      "baseLineY" : 63.75,
+      "fontId" : 2,
+      "text" : "SUBJECT: Assembly Numbering of RUS Bulletin 1728F-803"
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 90.8317,
+      "rightX" : 221.0273,
+      "topY" : 82.734,
+      "baseLineY" : 89.25,
+      "fontId" : 2,
+      "text" : "TO: All RUS Electric Borrowers"
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 116.3317,
+      "rightX" : 229.5117,
+      "topY" : 108.234,
+      "baseLineY" : 114.75,
+      "fontId" : 2,
+      "text" : "FROM: BLAINE D. STOCKTON"
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 66.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 66.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 69.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 69.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 72.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 75.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 75.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 78.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 78.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 81.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 81.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 84.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 84.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 87.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 87.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 90.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 93.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 93.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 96.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 96.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 99.9375,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 99.9375,
+      "bottomY" : 129.8317,
+      "rightX" : 215.9414,
+      "topY" : 121.734,
+      "baseLineY" : 128.25,
+      "fontId" : 2,
+      "text" : " Assistant Administrator"
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 66.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 66.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 69.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 69.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 72.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 72.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 75.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 75.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 78.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 78.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 81.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 81.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 84.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 84.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 87.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 87.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 90.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 90.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 93.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 93.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 96.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 96.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 99.9375,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 99.9375,
+      "bottomY" : 143.3317,
+      "rightX" : 184.5703,
+      "topY" : 135.234,
+      "baseLineY" : 141.75,
+      "fontId" : 2,
+      "text" : " Electric Program"
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 168.8317,
+      "rightX" : 529.166,
+      "topY" : 160.734,
+      "baseLineY" : 167.25,
+      "fontId" : 2,
+      "text" : "The purpose of this memorandum is to provide Rural Utilities Service (RUS) Electric borrowers "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 182.3317,
+      "rightX" : 525.8438,
+      "topY" : 174.234,
+      "baseLineY" : 180.75,
+      "fontId" : 2,
+      "text" : "relief with respect to the drawing numbering changes associated with RUS Bulletin 1728F-803, "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 195.8317,
+      "rightX" : 521.7539,
+      "topY" : 187.734,
+      "baseLineY" : 194.25,
+      "fontId" : 2,
+      "text" : "\"Specifications and Drawings for 24.9/14.4 kV Line Construction.\" RUS borrowers are hereby "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 209.3317,
+      "rightX" : 535.2129,
+      "topY" : 201.234,
+      "baseLineY" : 207.75,
+      "fontId" : 2,
+      "text" : "allowed to use either the new RUS Bulletin 1728F-803 assembly number or the old REA Bulletin "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 222.8317,
+      "rightX" : 514.8164,
+      "topY" : 214.734,
+      "baseLineY" : 221.25,
+      "fontId" : 2,
+      "text" : "50-5 assembly number for 140 drawings that we carried over from the old bulletin to the new "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 236.3317,
+      "rightX" : 499.3301,
+      "topY" : 228.234,
+      "baseLineY" : 234.75,
+      "fontId" : 2,
+      "text" : "bulletin. The only stipulation involved in using the old assembly number is that borrowers "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 249.8317,
+      "rightX" : 545.7656,
+      "topY" : 241.734,
+      "baseLineY" : 248.25,
+      "fontId" : 2,
+      "text" : "incorporate certain identified material changes in the new drawings. Details of the drawings and the "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 263.3317,
+      "rightX" : 430.5879,
+      "topY" : 255.234,
+      "baseLineY" : 261.75,
+      "fontId" : 2,
+      "text" : "material changes involved in this customer service offering are contained in "
+    }, {
+      "leftX" : 430.3711,
+      "bottomY" : 263.3317,
+      "rightX" : 467.8535,
+      "topY" : 255.234,
+      "baseLineY" : 261.75,
+      "fontId" : 3,
+      "text" : "Table A"
+    }, {
+      "leftX" : 467.1914,
+      "bottomY" : 263.3317,
+      "rightX" : 500.8477,
+      "topY" : 255.234,
+      "baseLineY" : 261.75,
+      "fontId" : 2,
+      "text" : " of the "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 276.8317,
+      "rightX" : 532.2949,
+      "topY" : 268.734,
+      "baseLineY" : 275.25,
+      "fontId" : 2,
+      "text" : "supplemental guide attached to this memorandum. This guide and the dual numbering provisions "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 290.3317,
+      "rightX" : 185.5781,
+      "topY" : 282.234,
+      "baseLineY" : 288.75,
+      "fontId" : 2,
+      "text" : "included on it for the 140"
+    }, {
+      "leftX" : 185.5781,
+      "bottomY" : 290.3317,
+      "rightX" : 188.5781,
+      "topY" : 282.234,
+      "baseLineY" : 288.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 188.5781,
+      "bottomY" : 290.3317,
+      "rightX" : 523.8223,
+      "topY" : 282.234,
+      "baseLineY" : 288.75,
+      "fontId" : 2,
+      "text" : "assembly drawings should ease the burden of changing files, records, "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 303.8317,
+      "rightX" : 517.7871,
+      "topY" : 295.734,
+      "baseLineY" : 302.25,
+      "fontId" : 2,
+      "text" : "computer programs and allow borrowers and their employees to more gradually learn the new "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 317.3317,
+      "rightX" : 533.1855,
+      "topY" : 309.234,
+      "baseLineY" : 315.75,
+      "fontId" : 2,
+      "text" : "construction assembly units, their numbering, and the updated RUS assembly numbering scheme."
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 342.8317,
+      "rightX" : 547.207,
+      "topY" : 334.734,
+      "baseLineY" : 341.25,
+      "fontId" : 2,
+      "text" : "We issued new RUS Bulletin 1728F-803 in December 1998, to replace the September 1969, version "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 356.3317,
+      "rightX" : 539.7188,
+      "topY" : 348.234,
+      "baseLineY" : 354.75,
+      "fontId" : 2,
+      "text" : "of REA Bulletin 50-5 of the same title. We provided several notices extending the effective date of "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 369.8317,
+      "rightX" : 541.2715,
+      "topY" : 361.734,
+      "baseLineY" : 368.25,
+      "fontId" : 2,
+      "text" : "Bulletin 1728F-803 with the current effective date being July 1, 2001. Bulletin 50-5 incorporated a "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 383.3317,
+      "rightX" : 240.5742,
+      "topY" : 375.234,
+      "baseLineY" : 381.75,
+      "fontId" : 2,
+      "text" : "total of 260 assemblies of which 140"
+    }, {
+      "leftX" : 240.5742,
+      "bottomY" : 383.3317,
+      "rightX" : 243.5742,
+      "topY" : 375.234,
+      "baseLineY" : 381.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 243.5742,
+      "bottomY" : 383.3317,
+      "rightX" : 546.1523,
+      "topY" : 375.234,
+      "baseLineY" : 381.75,
+      "fontId" : 2,
+      "text" : " were re-used and re-numbered in the new Bulletin 1728F-803."
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 408.8317,
+      "rightX" : 520.6641,
+      "topY" : 400.734,
+      "baseLineY" : 407.25,
+      "fontId" : 2,
+      "text" : "With the provision provided here, borrowers will only need to make changes in their computer "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 422.3317,
+      "rightX" : 549.498,
+      "topY" : 414.234,
+      "baseLineY" : 420.75,
+      "fontId" : 2,
+      "text" : "systems for approximately 20 assembly drawings that were brought forward to the new bulletin with "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 435.8317,
+      "rightX" : 541.9395,
+      "topY" : 427.734,
+      "baseLineY" : 434.25,
+      "fontId" : 2,
+      "text" : "changes too substantial to allow the dual numbering provision. The balance of drawings in the new "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 449.3317,
+      "rightX" : 531.0938,
+      "topY" : 441.234,
+      "baseLineY" : 447.75,
+      "fontId" : 2,
+      "text" : "bulletin include: (1) the 140 drawings cited in Table A where borrowers may use the old drawing "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 462.8317,
+      "rightX" : 532.8223,
+      "topY" : 454.734,
+      "baseLineY" : 461.25,
+      "fontId" : 2,
+      "text" : "number or the new number; (2) approximately 39 guide drawings which do not involve materials "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 476.3317,
+      "rightX" : 518.6309,
+      "topY" : 468.234,
+      "baseLineY" : 474.75,
+      "fontId" : 2,
+      "text" : "and are not included in computer systems; and (3) approximately 23 new \"post insulator\" type "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 489.8317,
+      "rightX" : 546.0879,
+      "topY" : 481.734,
+      "baseLineY" : 488.25,
+      "fontId" : 2,
+      "text" : "drawings that were not in the previous bulletin. The new \"post insulator\" type construction provides "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 503.3317,
+      "rightX" : 539.8008,
+      "topY" : 495.234,
+      "baseLineY" : 501.75,
+      "fontId" : 2,
+      "text" : "a means for making wider angles in line construction but borrowers may not need or may elect not "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 516.8317,
+      "rightX" : 539.5254,
+      "topY" : 508.734,
+      "baseLineY" : 515.25,
+      "fontId" : 2,
+      "text" : "to utilize this type of construction and would, thus, not have to input these drawings into computer "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 530.3317,
+      "rightX" : 104.9414,
+      "topY" : 522.234,
+      "baseLineY" : 528.75,
+      "fontId" : 2,
+      "text" : "systems."
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 555.8317,
+      "rightX" : 437.2734,
+      "topY" : 547.734,
+      "baseLineY" : 554.25,
+      "fontId" : 2,
+      "text" : "This supplemental guide is effective on or after the date of this memorandum."
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 581.3317,
+      "rightX" : 66.9375,
+      "topY" : 573.234,
+      "baseLineY" : 579.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 63.9375,
+      "bottomY" : 606.8317,
+      "rightX" : 124.5879,
+      "topY" : 598.734,
+      "baseLineY" : 605.25,
+      "fontId" : 2,
+      "text" : "Attachments"
+    }, {
+      "leftX" : 297.375,
+      "bottomY" : 632.3317,
+      "rightX" : 315.375,
+      "topY" : 624.234,
+      "baseLineY" : 630.75,
+      "fontId" : 2,
+      "text" : "###"
+    }, {
+      "leftX" : 268.2773,
+      "bottomY" : 669.1225,
+      "rightX" : 344.4697,
+      "topY" : 656.976,
+      "baseLineY" : 666.75,
+      "fontId" : 4,
+      "text" : "TABLE A"
+    }, {
+      "leftX" : 156.4219,
+      "bottomY" : 700.8496,
+      "rightX" : 456.3183,
+      "topY" : 691.3804,
+      "baseLineY" : 699,
+      "fontId" : 5,
+      "text" : "Allowed Dual Numbered Construction Assemblies"
+    }, {
+      "leftX" : 159.5273,
+      "bottomY" : 717.3496,
+      "rightX" : 453.2024,
+      "topY" : 707.8804,
+      "baseLineY" : 715.5,
+      "fontId" : 5,
+      "text" : "and Guide Drawings for RUS Bulletin 1728F-803"
+    }, {
+      "leftX" : 24,
+      "bottomY" : 776.5515,
+      "rightX" : 380.8347,
+      "topY" : 771.0081,
+      "baseLineY" : 775.5,
+      "fontId" : 1,
+      "text" : "https://www.rd.usda.gov/sites/default/files/UEP_Bulletin_1728F-803_Memo_Assembly_Numbers.htm"
+    }, {
+      "leftX" : 576.8672,
+      "bottomY" : 776.5515,
+      "rightX" : 587.9933,
+      "topY" : 771.0081,
+      "baseLineY" : 775.5,
+      "fontId" : 1,
+      "text" : "1/5"
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 24,
+      "bottomY" : 23.5515,
+      "rightX" : 84.8915,
+      "topY" : 18.0081,
+      "baseLineY" : 22.5,
+      "fontId" : 1,
+      "text" : "4/22/25, 1:02 PM"
+    }, {
+      "leftX" : 322.5586,
+      "bottomY" : 23.5515,
+      "rightX" : 380.3271,
+      "topY" : 18.0081,
+      "baseLineY" : 22.5,
+      "fontId" : 1,
+      "text" : "Dual Numbering"
+    }, {
+      "leftX" : 103.0195,
+      "bottomY" : 44.3317,
+      "rightX" : 129.0234,
+      "topY" : 36.234,
+      "baseLineY" : 42.75,
+      "fontId" : 6,
+      "text" : "OLD"
+    }, {
+      "leftX" : 129.0234,
+      "bottomY" : 44.3317,
+      "rightX" : 132.0234,
+      "topY" : 36.234,
+      "baseLineY" : 42.75,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 191.8828,
+      "bottomY" : 44.3317,
+      "rightX" : 220.5527,
+      "topY" : 36.234,
+      "baseLineY" : 42.75,
+      "fontId" : 6,
+      "text" : "NEW"
+    }, {
+      "leftX" : 220.3359,
+      "bottomY" : 44.3317,
+      "rightX" : 223.3359,
+      "topY" : 36.234,
+      "baseLineY" : 42.75,
+      "fontId" : 6,
+      "text" : " "
+    }, {
+      "leftX" : 333.0703,
+      "bottomY" : 44.3317,
+      "rightX" : 459.8672,
+      "topY" : 36.234,
+      "baseLineY" : 42.75,
+      "fontId" : 6,
+      "text" : "MATERIAL CHANGES"
+    }, {
+      "leftX" : 85.0547,
+      "bottomY" : 57.8317,
+      "rightX" : 149.9707,
+      "topY" : 49.734,
+      "baseLineY" : 56.25,
+      "fontId" : 6,
+      "text" : "ASSEMBLY"
+    }, {
+      "leftX" : 175.1484,
+      "bottomY" : 57.8317,
+      "rightX" : 240.0645,
+      "topY" : 49.734,
+      "baseLineY" : 56.25,
+      "fontId" : 6,
+      "text" : "ASSEMBLY"
+    }, {
+      "leftX" : 296.3555,
+      "bottomY" : 57.8317,
+      "rightX" : 496.5645,
+      "topY" : 49.734,
+      "baseLineY" : 56.25,
+      "fontId" : 6,
+      "text" : "(Required for New RUS Specifications)"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 76.5817,
+      "rightX" : 94.5352,
+      "topY" : 68.484,
+      "baseLineY" : 75,
+      "fontId" : 2,
+      "text" : "VA1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 76.5817,
+      "rightX" : 198.3281,
+      "topY" : 68.484,
+      "baseLineY" : 75,
+      "fontId" : 2,
+      "text" : "VA1.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 76.5817,
+      "rightX" : 304.582,
+      "topY" : 68.484,
+      "baseLineY" : 75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 95.3317,
+      "rightX" : 103.2012,
+      "topY" : 87.234,
+      "baseLineY" : 93.75,
+      "fontId" : 2,
+      "text" : "VA1A"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 95.3317,
+      "rightX" : 198.3281,
+      "topY" : 87.234,
+      "baseLineY" : 93.75,
+      "fontId" : 2,
+      "text" : "VA1.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 95.3317,
+      "rightX" : 304.582,
+      "topY" : 87.234,
+      "baseLineY" : 93.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 114.0817,
+      "rightX" : 94.5352,
+      "topY" : 105.984,
+      "baseLineY" : 112.5,
+      "fontId" : 2,
+      "text" : "VA2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 114.0817,
+      "rightX" : 198.3281,
+      "topY" : 105.984,
+      "baseLineY" : 112.5,
+      "fontId" : 2,
+      "text" : "VA2.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 114.0817,
+      "rightX" : 304.582,
+      "topY" : 105.984,
+      "baseLineY" : 112.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 132.8317,
+      "rightX" : 94.5352,
+      "topY" : 124.734,
+      "baseLineY" : 131.25,
+      "fontId" : 2,
+      "text" : "VA3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 132.8317,
+      "rightX" : 198.3281,
+      "topY" : 124.734,
+      "baseLineY" : 131.25,
+      "fontId" : 2,
+      "text" : "VA3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 132.8317,
+      "rightX" : 411.2227,
+      "topY" : 124.734,
+      "baseLineY" : 131.25,
+      "fontId" : 2,
+      "text" : "Replace 2 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 132.8317,
+      "rightX" : 471.5391,
+      "topY" : 124.734,
+      "baseLineY" : 131.25,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 151.5817,
+      "rightX" : 94.5352,
+      "topY" : 143.484,
+      "baseLineY" : 150,
+      "fontId" : 2,
+      "text" : "VA4"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 151.5817,
+      "rightX" : 198.3281,
+      "topY" : 143.484,
+      "baseLineY" : 150,
+      "fontId" : 2,
+      "text" : "VA4.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 151.5817,
+      "rightX" : 411.2227,
+      "topY" : 143.484,
+      "baseLineY" : 150,
+      "fontId" : 2,
+      "text" : "Replace 4 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 151.5817,
+      "rightX" : 471.5391,
+      "topY" : 143.484,
+      "baseLineY" : 150,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 170.3317,
+      "rightX" : 94.5352,
+      "topY" : 162.234,
+      "baseLineY" : 168.75,
+      "fontId" : 2,
+      "text" : "VA5"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 170.3317,
+      "rightX" : 198.3281,
+      "topY" : 162.234,
+      "baseLineY" : 168.75,
+      "fontId" : 2,
+      "text" : "VA5.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 170.3317,
+      "rightX" : 411.2227,
+      "topY" : 162.234,
+      "baseLineY" : 168.75,
+      "fontId" : 2,
+      "text" : "Replace 2 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 170.3317,
+      "rightX" : 471.5391,
+      "topY" : 162.234,
+      "baseLineY" : 168.75,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 189.0817,
+      "rightX" : 104.5312,
+      "topY" : 180.984,
+      "baseLineY" : 187.5,
+      "fontId" : 2,
+      "text" : "VA5-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 189.0817,
+      "rightX" : 198.3281,
+      "topY" : 180.984,
+      "baseLineY" : 187.5,
+      "fontId" : 2,
+      "text" : "VA5.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 189.0817,
+      "rightX" : 411.2227,
+      "topY" : 180.984,
+      "baseLineY" : 187.5,
+      "fontId" : 2,
+      "text" : "Replace 2 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 189.0817,
+      "rightX" : 471.5391,
+      "topY" : 180.984,
+      "baseLineY" : 187.5,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 207.8317,
+      "rightX" : 104.5312,
+      "topY" : 199.734,
+      "baseLineY" : 206.25,
+      "fontId" : 2,
+      "text" : "VA5-3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 207.8317,
+      "rightX" : 198.3281,
+      "topY" : 199.734,
+      "baseLineY" : 206.25,
+      "fontId" : 2,
+      "text" : "VA5.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 207.8317,
+      "rightX" : 304.582,
+      "topY" : 199.734,
+      "baseLineY" : 206.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 226.5817,
+      "rightX" : 94.5352,
+      "topY" : 218.484,
+      "baseLineY" : 225,
+      "fontId" : 2,
+      "text" : "VA7"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 226.5817,
+      "rightX" : 204.3281,
+      "topY" : 218.484,
+      "baseLineY" : 225,
+      "fontId" : 2,
+      "text" : "VA5.21"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 226.5817,
+      "rightX" : 304.582,
+      "topY" : 218.484,
+      "baseLineY" : 225,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 245.3317,
+      "rightX" : 104.5312,
+      "topY" : 237.234,
+      "baseLineY" : 243.75,
+      "fontId" : 2,
+      "text" : "VA7-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 245.3317,
+      "rightX" : 204.3281,
+      "topY" : 237.234,
+      "baseLineY" : 243.75,
+      "fontId" : 2,
+      "text" : "VA5.31"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 245.3317,
+      "rightX" : 304.582,
+      "topY" : 237.234,
+      "baseLineY" : 243.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 264.0817,
+      "rightX" : 94.5352,
+      "topY" : 255.984,
+      "baseLineY" : 262.5,
+      "fontId" : 2,
+      "text" : "VA8"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 264.0817,
+      "rightX" : 204.3281,
+      "topY" : 255.984,
+      "baseLineY" : 262.5,
+      "fontId" : 2,
+      "text" : "VA6.21"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 264.0817,
+      "rightX" : 304.582,
+      "topY" : 255.984,
+      "baseLineY" : 262.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 282.8317,
+      "rightX" : 94.5352,
+      "topY" : 274.734,
+      "baseLineY" : 281.25,
+      "fontId" : 2,
+      "text" : "VA9"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 282.8317,
+      "rightX" : 204.3281,
+      "topY" : 274.734,
+      "baseLineY" : 281.25,
+      "fontId" : 2,
+      "text" : "VA2.21"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 282.8317,
+      "rightX" : 426.9023,
+      "topY" : 274.734,
+      "baseLineY" : 281.25,
+      "fontId" : 2,
+      "text" : "Add 2 washers under crossarm pins "
+    }, {
+      "leftX" : 426.9023,
+      "bottomY" : 282.8317,
+      "rightX" : 487.2188,
+      "topY" : 274.734,
+      "baseLineY" : 281.25,
+      "fontId" : 7,
+      "text" : "– See Note 2"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 301.5817,
+      "rightX" : 104.5312,
+      "topY" : 293.484,
+      "baseLineY" : 300,
+      "fontId" : 2,
+      "text" : "VA9-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 301.5817,
+      "rightX" : 203.8828,
+      "topY" : 293.484,
+      "baseLineY" : 300,
+      "fontId" : 2,
+      "text" : "VA1.11"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 301.5817,
+      "rightX" : 417.5625,
+      "topY" : 293.484,
+      "baseLineY" : 300,
+      "fontId" : 2,
+      "text" : "Add 1 washer under crossarm pin "
+    }, {
+      "leftX" : 417.5625,
+      "bottomY" : 301.5817,
+      "rightX" : 477.8789,
+      "topY" : 293.484,
+      "baseLineY" : 300,
+      "fontId" : 7,
+      "text" : "– See Note 2"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 320.3317,
+      "rightX" : 95.4199,
+      "topY" : 312.234,
+      "baseLineY" : 318.75,
+      "fontId" : 2,
+      "text" : "VB1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 320.3317,
+      "rightX" : 204.7676,
+      "topY" : 312.234,
+      "baseLineY" : 318.75,
+      "fontId" : 2,
+      "text" : "VB1.11"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 320.3317,
+      "rightX" : 304.582,
+      "topY" : 312.234,
+      "baseLineY" : 318.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 339.0817,
+      "rightX" : 104.0859,
+      "topY" : 330.984,
+      "baseLineY" : 337.5,
+      "fontId" : 2,
+      "text" : "VB1A"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 339.0817,
+      "rightX" : 205.2129,
+      "topY" : 330.984,
+      "baseLineY" : 337.5,
+      "fontId" : 2,
+      "text" : "VB1.12"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 339.0817,
+      "rightX" : 304.582,
+      "topY" : 330.984,
+      "baseLineY" : 337.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 357.8317,
+      "rightX" : 95.4199,
+      "topY" : 349.734,
+      "baseLineY" : 356.25,
+      "fontId" : 2,
+      "text" : "VB2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 357.8317,
+      "rightX" : 205.2129,
+      "topY" : 349.734,
+      "baseLineY" : 356.25,
+      "fontId" : 2,
+      "text" : "VB2.21"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 357.8317,
+      "rightX" : 304.582,
+      "topY" : 349.734,
+      "baseLineY" : 356.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 376.5817,
+      "rightX" : 95.4199,
+      "topY" : 368.484,
+      "baseLineY" : 375,
+      "fontId" : 2,
+      "text" : "VB3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 376.5817,
+      "rightX" : 199.2129,
+      "topY" : 368.484,
+      "baseLineY" : 375,
+      "fontId" : 2,
+      "text" : "VB3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 376.5817,
+      "rightX" : 411.2227,
+      "topY" : 368.484,
+      "baseLineY" : 375,
+      "fontId" : 2,
+      "text" : "Replace 2 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 376.5817,
+      "rightX" : 471.5391,
+      "topY" : 368.484,
+      "baseLineY" : 375,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 395.3317,
+      "rightX" : 105.416,
+      "topY" : 387.234,
+      "baseLineY" : 393.75,
+      "fontId" : 2,
+      "text" : "VB4-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 395.3317,
+      "rightX" : 199.2129,
+      "topY" : 387.234,
+      "baseLineY" : 393.75,
+      "fontId" : 2,
+      "text" : "VB4.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 395.3317,
+      "rightX" : 411.2227,
+      "topY" : 387.234,
+      "baseLineY" : 393.75,
+      "fontId" : 2,
+      "text" : "Replace 6 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 395.3317,
+      "rightX" : 471.5391,
+      "topY" : 387.234,
+      "baseLineY" : 393.75,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 414.0817,
+      "rightX" : 105.416,
+      "topY" : 405.984,
+      "baseLineY" : 412.5,
+      "fontId" : 2,
+      "text" : "VB5-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 414.0817,
+      "rightX" : 199.2129,
+      "topY" : 405.984,
+      "baseLineY" : 412.5,
+      "fontId" : 2,
+      "text" : "VB5.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 414.0817,
+      "rightX" : 411.2227,
+      "topY" : 405.984,
+      "baseLineY" : 412.5,
+      "fontId" : 2,
+      "text" : "Replace 3 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 414.0817,
+      "rightX" : 471.5391,
+      "topY" : 405.984,
+      "baseLineY" : 412.5,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 432.8317,
+      "rightX" : 95.4199,
+      "topY" : 424.734,
+      "baseLineY" : 431.25,
+      "fontId" : 2,
+      "text" : "VB7"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 432.8317,
+      "rightX" : 205.2129,
+      "topY" : 424.734,
+      "baseLineY" : 431.25,
+      "fontId" : 2,
+      "text" : "VB5.21"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 432.8317,
+      "rightX" : 304.582,
+      "topY" : 424.734,
+      "baseLineY" : 431.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 451.5817,
+      "rightX" : 105.416,
+      "topY" : 443.484,
+      "baseLineY" : 450,
+      "fontId" : 2,
+      "text" : "VB7-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 451.5817,
+      "rightX" : 205.2129,
+      "topY" : 443.484,
+      "baseLineY" : 450,
+      "fontId" : 2,
+      "text" : "VB5.31"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 451.5817,
+      "rightX" : 304.582,
+      "topY" : 443.484,
+      "baseLineY" : 450,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 470.3317,
+      "rightX" : 95.4199,
+      "topY" : 462.234,
+      "baseLineY" : 468.75,
+      "fontId" : 2,
+      "text" : "VB8"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 470.3317,
+      "rightX" : 205.2129,
+      "topY" : 462.234,
+      "baseLineY" : 468.75,
+      "fontId" : 2,
+      "text" : "VB6.21"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 470.3317,
+      "rightX" : 304.582,
+      "topY" : 462.234,
+      "baseLineY" : 468.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 489.0817,
+      "rightX" : 95.4199,
+      "topY" : 480.984,
+      "baseLineY" : 487.5,
+      "fontId" : 2,
+      "text" : "VB9"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 489.0817,
+      "rightX" : 205.2129,
+      "topY" : 480.984,
+      "baseLineY" : 487.5,
+      "fontId" : 2,
+      "text" : "VB2.22"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 489.0817,
+      "rightX" : 426.9023,
+      "topY" : 480.984,
+      "baseLineY" : 487.5,
+      "fontId" : 2,
+      "text" : "Add 2 washers under crossarm pins "
+    }, {
+      "leftX" : 426.9023,
+      "bottomY" : 489.0817,
+      "rightX" : 487.2188,
+      "topY" : 480.984,
+      "baseLineY" : 487.5,
+      "fontId" : 7,
+      "text" : "– See Note 2"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 507.8317,
+      "rightX" : 105.416,
+      "topY" : 499.734,
+      "baseLineY" : 506.25,
+      "fontId" : 2,
+      "text" : "VB9-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 507.8317,
+      "rightX" : 205.2129,
+      "topY" : 499.734,
+      "baseLineY" : 506.25,
+      "fontId" : 2,
+      "text" : "VB1.14"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 507.8317,
+      "rightX" : 417.5625,
+      "topY" : 499.734,
+      "baseLineY" : 506.25,
+      "fontId" : 2,
+      "text" : "Add 1 washer under crossarm pin "
+    }, {
+      "leftX" : 417.5625,
+      "bottomY" : 507.8317,
+      "rightX" : 477.8789,
+      "topY" : 499.734,
+      "baseLineY" : 506.25,
+      "fontId" : 7,
+      "text" : "– See Note 2"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 526.5817,
+      "rightX" : 105.416,
+      "topY" : 518.484,
+      "baseLineY" : 525,
+      "fontId" : 2,
+      "text" : "VB9-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 526.5817,
+      "rightX" : 205.2129,
+      "topY" : 518.484,
+      "baseLineY" : 525,
+      "fontId" : 2,
+      "text" : "VB2.51"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 526.5817,
+      "rightX" : 426.9023,
+      "topY" : 518.484,
+      "baseLineY" : 525,
+      "fontId" : 2,
+      "text" : "Add 2 washers under crossarm pins "
+    }, {
+      "leftX" : 426.9023,
+      "bottomY" : 526.5817,
+      "rightX" : 487.2188,
+      "topY" : 518.484,
+      "baseLineY" : 525,
+      "fontId" : 7,
+      "text" : "– See Note 2"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 545.3317,
+      "rightX" : 105.416,
+      "topY" : 537.234,
+      "baseLineY" : 543.75,
+      "fontId" : 2,
+      "text" : "VB9-3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 545.3317,
+      "rightX" : 205.2129,
+      "topY" : 537.234,
+      "baseLineY" : 543.75,
+      "fontId" : 2,
+      "text" : "VB1.41"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 545.3317,
+      "rightX" : 417.5625,
+      "topY" : 537.234,
+      "baseLineY" : 543.75,
+      "fontId" : 2,
+      "text" : "Add 1 washer under crossarm pin "
+    }, {
+      "leftX" : 417.5625,
+      "bottomY" : 545.3317,
+      "rightX" : 477.8789,
+      "topY" : 537.234,
+      "baseLineY" : 543.75,
+      "fontId" : 7,
+      "text" : "– See Note 2"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 564.0817,
+      "rightX" : 95.4199,
+      "topY" : 555.984,
+      "baseLineY" : 562.5,
+      "fontId" : 2,
+      "text" : "VC1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 564.0817,
+      "rightX" : 204.7676,
+      "topY" : 555.984,
+      "baseLineY" : 562.5,
+      "fontId" : 2,
+      "text" : "VC1.11"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 564.0817,
+      "rightX" : 304.582,
+      "topY" : 555.984,
+      "baseLineY" : 562.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 582.8317,
+      "rightX" : 105.416,
+      "topY" : 574.734,
+      "baseLineY" : 581.25,
+      "fontId" : 2,
+      "text" : "VC1-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 582.8317,
+      "rightX" : 212.0977,
+      "topY" : 574.734,
+      "baseLineY" : 581.25,
+      "fontId" : 2,
+      "text" : "VC1.11L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 582.8317,
+      "rightX" : 304.582,
+      "topY" : 574.734,
+      "baseLineY" : 581.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 601.5817,
+      "rightX" : 105.416,
+      "topY" : 593.484,
+      "baseLineY" : 600,
+      "fontId" : 2,
+      "text" : "VC1-3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 601.5817,
+      "rightX" : 212.543,
+      "topY" : 593.484,
+      "baseLineY" : 600,
+      "fontId" : 2,
+      "text" : "VC2.21L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 601.5817,
+      "rightX" : 304.582,
+      "topY" : 593.484,
+      "baseLineY" : 600,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 620.3317,
+      "rightX" : 105.416,
+      "topY" : 612.234,
+      "baseLineY" : 618.75,
+      "fontId" : 2,
+      "text" : "VC1-4"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 620.3317,
+      "rightX" : 212.543,
+      "topY" : 612.234,
+      "baseLineY" : 618.75,
+      "fontId" : 2,
+      "text" : "VC1.13L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 620.3317,
+      "rightX" : 304.582,
+      "topY" : 612.234,
+      "baseLineY" : 618.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 639.0817,
+      "rightX" : 103.4238,
+      "topY" : 630.984,
+      "baseLineY" : 637.5,
+      "fontId" : 2,
+      "text" : "VC1B"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 639.0817,
+      "rightX" : 205.2129,
+      "topY" : 630.984,
+      "baseLineY" : 637.5,
+      "fontId" : 2,
+      "text" : "VC1.12"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 639.0817,
+      "rightX" : 304.582,
+      "topY" : 630.984,
+      "baseLineY" : 637.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 657.8317,
+      "rightX" : 95.4199,
+      "topY" : 649.734,
+      "baseLineY" : 656.25,
+      "fontId" : 2,
+      "text" : "VC2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 657.8317,
+      "rightX" : 205.2129,
+      "topY" : 649.734,
+      "baseLineY" : 656.25,
+      "fontId" : 2,
+      "text" : "VC2.21"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 657.8317,
+      "rightX" : 304.582,
+      "topY" : 649.734,
+      "baseLineY" : 656.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 676.5817,
+      "rightX" : 105.416,
+      "topY" : 668.484,
+      "baseLineY" : 675,
+      "fontId" : 2,
+      "text" : "VC2-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 676.5817,
+      "rightX" : 205.2129,
+      "topY" : 668.484,
+      "baseLineY" : 675,
+      "fontId" : 2,
+      "text" : "VC2.52"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 676.5817,
+      "rightX" : 304.582,
+      "topY" : 668.484,
+      "baseLineY" : 675,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 695.3317,
+      "rightX" : 105.416,
+      "topY" : 687.234,
+      "baseLineY" : 693.75,
+      "fontId" : 2,
+      "text" : "VC2-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 695.3317,
+      "rightX" : 212.543,
+      "topY" : 687.234,
+      "baseLineY" : 693.75,
+      "fontId" : 2,
+      "text" : "VC2.52L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 695.3317,
+      "rightX" : 304.582,
+      "topY" : 687.234,
+      "baseLineY" : 693.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 714.0817,
+      "rightX" : 95.4199,
+      "topY" : 705.984,
+      "baseLineY" : 712.5,
+      "fontId" : 2,
+      "text" : "VC3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 714.0817,
+      "rightX" : 199.2129,
+      "topY" : 705.984,
+      "baseLineY" : 712.5,
+      "fontId" : 2,
+      "text" : "VC3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 714.0817,
+      "rightX" : 411.2227,
+      "topY" : 705.984,
+      "baseLineY" : 712.5,
+      "fontId" : 2,
+      "text" : "Replace 3 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 714.0817,
+      "rightX" : 471.5391,
+      "topY" : 705.984,
+      "baseLineY" : 712.5,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 732.8317,
+      "rightX" : 105.416,
+      "topY" : 724.734,
+      "baseLineY" : 731.25,
+      "fontId" : 2,
+      "text" : "VC3-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 732.8317,
+      "rightX" : 206.543,
+      "topY" : 724.734,
+      "baseLineY" : 731.25,
+      "fontId" : 2,
+      "text" : "VC3.2L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 732.8317,
+      "rightX" : 411.2227,
+      "topY" : 724.734,
+      "baseLineY" : 731.25,
+      "fontId" : 2,
+      "text" : "Replace 8 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 732.8317,
+      "rightX" : 471.5391,
+      "topY" : 724.734,
+      "baseLineY" : 731.25,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 751.5817,
+      "rightX" : 105.416,
+      "topY" : 743.484,
+      "baseLineY" : 750,
+      "fontId" : 2,
+      "text" : "VC4-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 751.5817,
+      "rightX" : 199.2129,
+      "topY" : 743.484,
+      "baseLineY" : 750,
+      "fontId" : 2,
+      "text" : "VC4.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 751.5817,
+      "rightX" : 411.2227,
+      "topY" : 743.484,
+      "baseLineY" : 750,
+      "fontId" : 2,
+      "text" : "Replace 8 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 751.5817,
+      "rightX" : 471.5391,
+      "topY" : 743.484,
+      "baseLineY" : 750,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 24,
+      "bottomY" : 776.5515,
+      "rightX" : 380.8347,
+      "topY" : 771.0081,
+      "baseLineY" : 775.5,
+      "fontId" : 1,
+      "text" : "https://www.rd.usda.gov/sites/default/files/UEP_Bulletin_1728F-803_Memo_Assembly_Numbers.htm"
+    }, {
+      "leftX" : 576.8672,
+      "bottomY" : 776.5515,
+      "rightX" : 587.9933,
+      "topY" : 771.0081,
+      "baseLineY" : 775.5,
+      "fontId" : 1,
+      "text" : "2/5"
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 24,
+      "bottomY" : 23.5515,
+      "rightX" : 84.8915,
+      "topY" : 18.0081,
+      "baseLineY" : 22.5,
+      "fontId" : 1,
+      "text" : "4/22/25, 1:02 PM"
+    }, {
+      "leftX" : 322.5586,
+      "bottomY" : 23.5515,
+      "rightX" : 380.3271,
+      "topY" : 18.0081,
+      "baseLineY" : 22.5,
+      "fontId" : 1,
+      "text" : "Dual Numbering"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 42.8317,
+      "rightX" : 110.7422,
+      "topY" : 34.734,
+      "baseLineY" : 41.25,
+      "fontId" : 2,
+      "text" : "VC4-IL"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 42.8317,
+      "rightX" : 206.543,
+      "topY" : 34.734,
+      "baseLineY" : 41.25,
+      "fontId" : 2,
+      "text" : "VC4.2L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 42.8317,
+      "rightX" : 420.2227,
+      "topY" : 34.734,
+      "baseLineY" : 41.25,
+      "fontId" : 2,
+      "text" : "Replace 8 washers abutting pole – "
+    }, {
+      "leftX" : 420.2227,
+      "bottomY" : 42.8317,
+      "rightX" : 471.5391,
+      "topY" : 34.734,
+      "baseLineY" : 41.25,
+      "fontId" : 7,
+      "text" : "See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 61.5817,
+      "rightX" : 105.416,
+      "topY" : 53.484,
+      "baseLineY" : 60,
+      "fontId" : 2,
+      "text" : "VC5-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 61.5817,
+      "rightX" : 199.2129,
+      "topY" : 53.484,
+      "baseLineY" : 60,
+      "fontId" : 2,
+      "text" : "VC5.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 61.5817,
+      "rightX" : 411.2227,
+      "topY" : 53.484,
+      "baseLineY" : 60,
+      "fontId" : 2,
+      "text" : "Replace 4 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 61.5817,
+      "rightX" : 471.5391,
+      "topY" : 53.484,
+      "baseLineY" : 60,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 80.3317,
+      "rightX" : 112.7461,
+      "topY" : 72.234,
+      "baseLineY" : 78.75,
+      "fontId" : 2,
+      "text" : "VC5-1L"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 80.3317,
+      "rightX" : 206.543,
+      "topY" : 72.234,
+      "baseLineY" : 78.75,
+      "fontId" : 2,
+      "text" : "VC5.2L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 80.3317,
+      "rightX" : 411.2227,
+      "topY" : 72.234,
+      "baseLineY" : 78.75,
+      "fontId" : 2,
+      "text" : "Replace 4 washers abutting pole "
+    }, {
+      "leftX" : 411.2227,
+      "bottomY" : 80.3317,
+      "rightX" : 471.5391,
+      "topY" : 72.234,
+      "baseLineY" : 78.75,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 99.0817,
+      "rightX" : 95.4199,
+      "topY" : 90.984,
+      "baseLineY" : 97.5,
+      "fontId" : 2,
+      "text" : "VC7"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 99.0817,
+      "rightX" : 205.2129,
+      "topY" : 90.984,
+      "baseLineY" : 97.5,
+      "fontId" : 2,
+      "text" : "VC5.21"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 99.0817,
+      "rightX" : 304.582,
+      "topY" : 90.984,
+      "baseLineY" : 97.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 117.8317,
+      "rightX" : 105.416,
+      "topY" : 109.734,
+      "baseLineY" : 116.25,
+      "fontId" : 2,
+      "text" : "VC7-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 117.8317,
+      "rightX" : 205.2129,
+      "topY" : 109.734,
+      "baseLineY" : 116.25,
+      "fontId" : 2,
+      "text" : "VC5.31"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 117.8317,
+      "rightX" : 304.582,
+      "topY" : 109.734,
+      "baseLineY" : 116.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 136.5817,
+      "rightX" : 95.4199,
+      "topY" : 128.484,
+      "baseLineY" : 135,
+      "fontId" : 2,
+      "text" : "VC8"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 136.5817,
+      "rightX" : 205.2129,
+      "topY" : 128.484,
+      "baseLineY" : 135,
+      "fontId" : 2,
+      "text" : "VC6.21"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 136.5817,
+      "rightX" : 304.582,
+      "topY" : 128.484,
+      "baseLineY" : 135,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 155.3317,
+      "rightX" : 95.4199,
+      "topY" : 147.234,
+      "baseLineY" : 153.75,
+      "fontId" : 2,
+      "text" : "VC9"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 155.3317,
+      "rightX" : 205.2129,
+      "topY" : 147.234,
+      "baseLineY" : 153.75,
+      "fontId" : 2,
+      "text" : "VC2.51"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 155.3317,
+      "rightX" : 426.9023,
+      "topY" : 147.234,
+      "baseLineY" : 153.75,
+      "fontId" : 2,
+      "text" : "Add 2 washers under crossarm pins "
+    }, {
+      "leftX" : 426.9023,
+      "bottomY" : 155.3317,
+      "rightX" : 487.2188,
+      "topY" : 147.234,
+      "baseLineY" : 153.75,
+      "fontId" : 7,
+      "text" : "– See Note 2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 168.8317,
+      "rightX" : 388.5938,
+      "topY" : 160.734,
+      "baseLineY" : 167.25,
+      "fontId" : 2,
+      "text" : "Add anti-split bolt assembly"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 187.5817,
+      "rightX" : 105.416,
+      "topY" : 179.484,
+      "baseLineY" : 186,
+      "fontId" : 2,
+      "text" : "VC9-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 187.5817,
+      "rightX" : 205.2129,
+      "topY" : 179.484,
+      "baseLineY" : 186,
+      "fontId" : 2,
+      "text" : "VC1.41"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 187.5817,
+      "rightX" : 417.5625,
+      "topY" : 179.484,
+      "baseLineY" : 186,
+      "fontId" : 2,
+      "text" : "Add 1 washer under crossarm pin "
+    }, {
+      "leftX" : 417.5625,
+      "bottomY" : 187.5817,
+      "rightX" : 477.8789,
+      "topY" : 179.484,
+      "baseLineY" : 186,
+      "fontId" : 7,
+      "text" : "– See Note 2"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 206.3317,
+      "rightX" : 105.416,
+      "topY" : 198.234,
+      "baseLineY" : 204.75,
+      "fontId" : 2,
+      "text" : "VC9-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 206.3317,
+      "rightX" : 212.543,
+      "topY" : 198.234,
+      "baseLineY" : 204.75,
+      "fontId" : 2,
+      "text" : "VC2.51L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 206.3317,
+      "rightX" : 509.5371,
+      "topY" : 198.234,
+      "baseLineY" : 204.75,
+      "fontId" : 2,
+      "text" : "Replace 2 neutral crossarm pins with clamp type pins"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 225.0817,
+      "rightX" : 105.416,
+      "topY" : 216.984,
+      "baseLineY" : 223.5,
+      "fontId" : 2,
+      "text" : "VC9-3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 225.0817,
+      "rightX" : 212.543,
+      "topY" : 216.984,
+      "baseLineY" : 223.5,
+      "fontId" : 2,
+      "text" : "VC1.41L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 225.0817,
+      "rightX" : 500.1973,
+      "topY" : 216.984,
+      "baseLineY" : 223.5,
+      "fontId" : 2,
+      "text" : "Replace 1 neutral crossarm pin with clamp type pin"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 243.8317,
+      "rightX" : 116.0859,
+      "topY" : 235.734,
+      "baseLineY" : 242.25,
+      "fontId" : 2,
+      "text" : "VDC-C1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 243.8317,
+      "rightX" : 205.875,
+      "topY" : 235.734,
+      "baseLineY" : 242.25,
+      "fontId" : 2,
+      "text" : "VD1.81"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 243.8317,
+      "rightX" : 304.582,
+      "topY" : 235.734,
+      "baseLineY" : 242.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 262.5817,
+      "rightX" : 123.416,
+      "topY" : 254.484,
+      "baseLineY" : 261,
+      "fontId" : 2,
+      "text" : "VDC-C1L"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 262.5817,
+      "rightX" : 213.2051,
+      "topY" : 254.484,
+      "baseLineY" : 261,
+      "fontId" : 2,
+      "text" : "VD1.83L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 262.5817,
+      "rightX" : 304.582,
+      "topY" : 254.484,
+      "baseLineY" : 261,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 281.3317,
+      "rightX" : 126.082,
+      "topY" : 273.234,
+      "baseLineY" : 279.75,
+      "fontId" : 2,
+      "text" : "VDC-C2-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 281.3317,
+      "rightX" : 205.875,
+      "topY" : 273.234,
+      "baseLineY" : 279.75,
+      "fontId" : 2,
+      "text" : "VD2.91"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 281.3317,
+      "rightX" : 304.582,
+      "topY" : 273.234,
+      "baseLineY" : 279.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 300.0817,
+      "rightX" : 133.4121,
+      "topY" : 291.984,
+      "baseLineY" : 298.5,
+      "fontId" : 2,
+      "text" : "VDC-C2-1L"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 300.0817,
+      "rightX" : 213.2051,
+      "topY" : 291.984,
+      "baseLineY" : 298.5,
+      "fontId" : 2,
+      "text" : "VD2.91L"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 300.0817,
+      "rightX" : 304.582,
+      "topY" : 291.984,
+      "baseLineY" : 298.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 318.8317,
+      "rightX" : 96.0762,
+      "topY" : 310.734,
+      "baseLineY" : 317.25,
+      "fontId" : 2,
+      "text" : "E3-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 318.8317,
+      "rightX" : 189.873,
+      "topY" : 310.734,
+      "baseLineY" : 317.25,
+      "fontId" : 2,
+      "text" : "E3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 318.8317,
+      "rightX" : 331.582,
+      "topY" : 310.734,
+      "baseLineY" : 317.25,
+      "fontId" : 2,
+      "text" : "Add guy marker"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 337.5817,
+      "rightX" : 95.4199,
+      "topY" : 329.484,
+      "baseLineY" : 336,
+      "fontId" : 2,
+      "text" : "F1-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 337.5817,
+      "rightX" : 189.2168,
+      "topY" : 329.484,
+      "baseLineY" : 336,
+      "fontId" : 2,
+      "text" : "F1.6"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 337.5817,
+      "rightX" : 304.582,
+      "topY" : 329.484,
+      "baseLineY" : 336,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 356.3317,
+      "rightX" : 102.0938,
+      "topY" : 348.234,
+      "baseLineY" : 354.75,
+      "fontId" : 2,
+      "text" : "F1-1P"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 356.3317,
+      "rightX" : 189.2168,
+      "topY" : 348.234,
+      "baseLineY" : 354.75,
+      "fontId" : 2,
+      "text" : "F3.6"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 356.3317,
+      "rightX" : 304.582,
+      "topY" : 348.234,
+      "baseLineY" : 354.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 375.0817,
+      "rightX" : 102.0938,
+      "topY" : 366.984,
+      "baseLineY" : 373.5,
+      "fontId" : 2,
+      "text" : "F1-1S"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 375.0817,
+      "rightX" : 189.2168,
+      "topY" : 366.984,
+      "baseLineY" : 373.5,
+      "fontId" : 2,
+      "text" : "F2.6"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 375.0817,
+      "rightX" : 304.582,
+      "topY" : 366.984,
+      "baseLineY" : 373.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 393.8317,
+      "rightX" : 95.4199,
+      "topY" : 385.734,
+      "baseLineY" : 392.25,
+      "fontId" : 2,
+      "text" : "F1-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 393.8317,
+      "rightX" : 189.2168,
+      "topY" : 385.734,
+      "baseLineY" : 392.25,
+      "fontId" : 2,
+      "text" : "F1.8"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 393.8317,
+      "rightX" : 304.582,
+      "topY" : 385.734,
+      "baseLineY" : 392.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 412.5817,
+      "rightX" : 102.0938,
+      "topY" : 404.484,
+      "baseLineY" : 411,
+      "fontId" : 2,
+      "text" : "F1-2P"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 412.5817,
+      "rightX" : 189.2168,
+      "topY" : 404.484,
+      "baseLineY" : 411,
+      "fontId" : 2,
+      "text" : "F3.8"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 412.5817,
+      "rightX" : 304.582,
+      "topY" : 404.484,
+      "baseLineY" : 411,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 431.3317,
+      "rightX" : 102.0938,
+      "topY" : 423.234,
+      "baseLineY" : 429.75,
+      "fontId" : 2,
+      "text" : "F1-2S"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 431.3317,
+      "rightX" : 189.2168,
+      "topY" : 423.234,
+      "baseLineY" : 429.75,
+      "fontId" : 2,
+      "text" : "F2.8"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 431.3317,
+      "rightX" : 304.582,
+      "topY" : 423.234,
+      "baseLineY" : 429.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 450.0817,
+      "rightX" : 95.4199,
+      "topY" : 441.984,
+      "baseLineY" : 448.5,
+      "fontId" : 2,
+      "text" : "F1-3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 450.0817,
+      "rightX" : 195.2168,
+      "topY" : 441.984,
+      "baseLineY" : 448.5,
+      "fontId" : 2,
+      "text" : "F1.10"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 450.0817,
+      "rightX" : 304.582,
+      "topY" : 441.984,
+      "baseLineY" : 448.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 468.8317,
+      "rightX" : 102.0938,
+      "topY" : 460.734,
+      "baseLineY" : 467.25,
+      "fontId" : 2,
+      "text" : "F1-3P"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 468.8317,
+      "rightX" : 195.2168,
+      "topY" : 460.734,
+      "baseLineY" : 467.25,
+      "fontId" : 2,
+      "text" : "F3.10"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 468.8317,
+      "rightX" : 304.582,
+      "topY" : 460.734,
+      "baseLineY" : 467.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 487.5817,
+      "rightX" : 102.0938,
+      "topY" : 479.484,
+      "baseLineY" : 486,
+      "fontId" : 2,
+      "text" : "F1-3S"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 487.5817,
+      "rightX" : 195.2168,
+      "topY" : 479.484,
+      "baseLineY" : 486,
+      "fontId" : 2,
+      "text" : "F2.10"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 487.5817,
+      "rightX" : 304.582,
+      "topY" : 479.484,
+      "baseLineY" : 486,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 506.3317,
+      "rightX" : 95.4199,
+      "topY" : 498.234,
+      "baseLineY" : 504.75,
+      "fontId" : 2,
+      "text" : "F1-4"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 506.3317,
+      "rightX" : 195.2168,
+      "topY" : 498.234,
+      "baseLineY" : 504.75,
+      "fontId" : 2,
+      "text" : "F1.12"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 506.3317,
+      "rightX" : 304.582,
+      "topY" : 498.234,
+      "baseLineY" : 504.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 525.0817,
+      "rightX" : 102.0938,
+      "topY" : 516.984,
+      "baseLineY" : 523.5,
+      "fontId" : 2,
+      "text" : "F1-4P"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 525.0817,
+      "rightX" : 195.2168,
+      "topY" : 516.984,
+      "baseLineY" : 523.5,
+      "fontId" : 2,
+      "text" : "F3.12"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 525.0817,
+      "rightX" : 304.582,
+      "topY" : 516.984,
+      "baseLineY" : 523.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 543.8317,
+      "rightX" : 102.0938,
+      "topY" : 535.734,
+      "baseLineY" : 542.25,
+      "fontId" : 2,
+      "text" : "F1-4S"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 543.8317,
+      "rightX" : 195.2168,
+      "topY" : 535.734,
+      "baseLineY" : 542.25,
+      "fontId" : 2,
+      "text" : "F2.12"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 543.8317,
+      "rightX" : 304.582,
+      "topY" : 535.734,
+      "baseLineY" : 542.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 562.5817,
+      "rightX" : 102.75,
+      "topY" : 554.484,
+      "baseLineY" : 561,
+      "fontId" : 2,
+      "text" : "F4-1E"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 562.5817,
+      "rightX" : 189.2168,
+      "topY" : 554.484,
+      "baseLineY" : 561,
+      "fontId" : 2,
+      "text" : "F4.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 562.5817,
+      "rightX" : 304.582,
+      "topY" : 554.484,
+      "baseLineY" : 561,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 581.3317,
+      "rightX" : 102.0938,
+      "topY" : 573.234,
+      "baseLineY" : 579.75,
+      "fontId" : 2,
+      "text" : "F4-1S"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 581.3317,
+      "rightX" : 189.2168,
+      "topY" : 573.234,
+      "baseLineY" : 579.75,
+      "fontId" : 2,
+      "text" : "F4.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 581.3317,
+      "rightX" : 304.582,
+      "topY" : 573.234,
+      "baseLineY" : 579.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 600.0817,
+      "rightX" : 95.4199,
+      "topY" : 591.984,
+      "baseLineY" : 598.5,
+      "fontId" : 2,
+      "text" : "F5-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 600.0817,
+      "rightX" : 189.2168,
+      "topY" : 591.984,
+      "baseLineY" : 598.5,
+      "fontId" : 2,
+      "text" : "F5.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 600.0817,
+      "rightX" : 304.582,
+      "topY" : 591.984,
+      "baseLineY" : 598.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 618.8317,
+      "rightX" : 95.4199,
+      "topY" : 610.734,
+      "baseLineY" : 617.25,
+      "fontId" : 2,
+      "text" : "F5-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 618.8317,
+      "rightX" : 189.2168,
+      "topY" : 610.734,
+      "baseLineY" : 617.25,
+      "fontId" : 2,
+      "text" : "F5.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 618.8317,
+      "rightX" : 304.582,
+      "topY" : 610.734,
+      "baseLineY" : 617.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 637.5817,
+      "rightX" : 95.4199,
+      "topY" : 629.484,
+      "baseLineY" : 636,
+      "fontId" : 2,
+      "text" : "F5-3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 637.5817,
+      "rightX" : 189.2168,
+      "topY" : 629.484,
+      "baseLineY" : 636,
+      "fontId" : 2,
+      "text" : "F5.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 637.5817,
+      "rightX" : 304.582,
+      "topY" : 629.484,
+      "baseLineY" : 636,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 656.3317,
+      "rightX" : 95.4199,
+      "topY" : 648.234,
+      "baseLineY" : 654.75,
+      "fontId" : 2,
+      "text" : "F6-1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 656.3317,
+      "rightX" : 189.2168,
+      "topY" : 648.234,
+      "baseLineY" : 654.75,
+      "fontId" : 2,
+      "text" : "F6.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 656.3317,
+      "rightX" : 304.582,
+      "topY" : 648.234,
+      "baseLineY" : 654.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 675.0817,
+      "rightX" : 95.4199,
+      "topY" : 666.984,
+      "baseLineY" : 673.5,
+      "fontId" : 2,
+      "text" : "F6-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 675.0817,
+      "rightX" : 189.2168,
+      "topY" : 666.984,
+      "baseLineY" : 673.5,
+      "fontId" : 2,
+      "text" : "F6.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 675.0817,
+      "rightX" : 304.582,
+      "topY" : 666.984,
+      "baseLineY" : 673.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 693.8317,
+      "rightX" : 95.4199,
+      "topY" : 685.734,
+      "baseLineY" : 692.25,
+      "fontId" : 2,
+      "text" : "F6-3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 693.8317,
+      "rightX" : 189.2168,
+      "topY" : 685.734,
+      "baseLineY" : 692.25,
+      "fontId" : 2,
+      "text" : "F6.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 693.8317,
+      "rightX" : 304.582,
+      "topY" : 685.734,
+      "baseLineY" : 692.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 712.5817,
+      "rightX" : 102.082,
+      "topY" : 704.484,
+      "baseLineY" : 711,
+      "fontId" : 2,
+      "text" : "VG10"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 712.5817,
+      "rightX" : 199.875,
+      "topY" : 704.484,
+      "baseLineY" : 711,
+      "fontId" : 2,
+      "text" : "VG1.8"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 712.5817,
+      "rightX" : 304.582,
+      "topY" : 704.484,
+      "baseLineY" : 711,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 731.3317,
+      "rightX" : 108.082,
+      "topY" : 723.234,
+      "baseLineY" : 729.75,
+      "fontId" : 2,
+      "text" : "VG105"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 731.3317,
+      "rightX" : 199.875,
+      "topY" : 723.234,
+      "baseLineY" : 729.75,
+      "fontId" : 2,
+      "text" : "VG1.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 731.3317,
+      "rightX" : 304.582,
+      "topY" : 723.234,
+      "baseLineY" : 729.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 750.0817,
+      "rightX" : 108.082,
+      "topY" : 741.984,
+      "baseLineY" : 748.5,
+      "fontId" : 2,
+      "text" : "VG106"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 750.0817,
+      "rightX" : 199.875,
+      "topY" : 741.984,
+      "baseLineY" : 748.5,
+      "fontId" : 2,
+      "text" : "VG1.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 750.0817,
+      "rightX" : 304.582,
+      "topY" : 741.984,
+      "baseLineY" : 748.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 24,
+      "bottomY" : 776.5515,
+      "rightX" : 380.8347,
+      "topY" : 771.0081,
+      "baseLineY" : 775.5,
+      "fontId" : 1,
+      "text" : "https://www.rd.usda.gov/sites/default/files/UEP_Bulletin_1728F-803_Memo_Assembly_Numbers.htm"
+    }, {
+      "leftX" : 576.8672,
+      "bottomY" : 776.5515,
+      "rightX" : 587.9933,
+      "topY" : 771.0081,
+      "baseLineY" : 775.5,
+      "fontId" : 1,
+      "text" : "3/5"
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 24,
+      "bottomY" : 23.5515,
+      "rightX" : 84.8915,
+      "topY" : 18.0081,
+      "baseLineY" : 22.5,
+      "fontId" : 1,
+      "text" : "4/22/25, 1:02 PM"
+    }, {
+      "leftX" : 322.5586,
+      "bottomY" : 23.5515,
+      "rightX" : 380.3271,
+      "topY" : 18.0081,
+      "baseLineY" : 22.5,
+      "fontId" : 1,
+      "text" : "Dual Numbering"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 42.8317,
+      "rightX" : 108.082,
+      "topY" : 34.734,
+      "baseLineY" : 41.25,
+      "fontId" : 2,
+      "text" : "VG136"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 42.8317,
+      "rightX" : 199.875,
+      "topY" : 34.734,
+      "baseLineY" : 41.25,
+      "fontId" : 2,
+      "text" : "VG1.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 42.8317,
+      "rightX" : 304.582,
+      "topY" : 34.734,
+      "baseLineY" : 41.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 61.5817,
+      "rightX" : 102.082,
+      "topY" : 53.484,
+      "baseLineY" : 60,
+      "fontId" : 2,
+      "text" : "VG19"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 61.5817,
+      "rightX" : 199.875,
+      "topY" : 53.484,
+      "baseLineY" : 60,
+      "fontId" : 2,
+      "text" : "VG1.7"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 61.5817,
+      "rightX" : 304.582,
+      "topY" : 53.484,
+      "baseLineY" : 60,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 80.3317,
+      "rightX" : 108.082,
+      "topY" : 72.234,
+      "baseLineY" : 78.75,
+      "fontId" : 2,
+      "text" : "VG210"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 80.3317,
+      "rightX" : 199.875,
+      "topY" : 72.234,
+      "baseLineY" : 78.75,
+      "fontId" : 2,
+      "text" : "VG2.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 80.3317,
+      "rightX" : 304.582,
+      "topY" : 72.234,
+      "baseLineY" : 78.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 99.0817,
+      "rightX" : 108.082,
+      "topY" : 90.984,
+      "baseLineY" : 97.5,
+      "fontId" : 2,
+      "text" : "VG310"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 99.0817,
+      "rightX" : 199.875,
+      "topY" : 90.984,
+      "baseLineY" : 97.5,
+      "fontId" : 2,
+      "text" : "VG3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 99.0817,
+      "rightX" : 304.582,
+      "topY" : 90.984,
+      "baseLineY" : 97.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 117.8317,
+      "rightX" : 107.6367,
+      "topY" : 109.734,
+      "baseLineY" : 116.25,
+      "fontId" : 2,
+      "text" : "VG311"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 117.8317,
+      "rightX" : 199.875,
+      "topY" : 109.734,
+      "baseLineY" : 116.25,
+      "fontId" : 2,
+      "text" : "VG3.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 117.8317,
+      "rightX" : 304.582,
+      "topY" : 109.734,
+      "baseLineY" : 116.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 136.5817,
+      "rightX" : 108.082,
+      "topY" : 128.484,
+      "baseLineY" : 135,
+      "fontId" : 2,
+      "text" : "VG312"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 136.5817,
+      "rightX" : 199.875,
+      "topY" : 128.484,
+      "baseLineY" : 135,
+      "fontId" : 2,
+      "text" : "VG3.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 136.5817,
+      "rightX" : 304.582,
+      "topY" : 128.484,
+      "baseLineY" : 135,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 155.3317,
+      "rightX" : 102.082,
+      "topY" : 147.234,
+      "baseLineY" : 153.75,
+      "fontId" : 2,
+      "text" : "VG39"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 155.3317,
+      "rightX" : 199.875,
+      "topY" : 147.234,
+      "baseLineY" : 153.75,
+      "fontId" : 2,
+      "text" : "VG1.7"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 155.3317,
+      "rightX" : 304.582,
+      "topY" : 147.234,
+      "baseLineY" : 153.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 174.0817,
+      "rightX" : 89.4199,
+      "topY" : 165.984,
+      "baseLineY" : 172.5,
+      "fontId" : 2,
+      "text" : "J10"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 174.0817,
+      "rightX" : 187.2129,
+      "topY" : 165.984,
+      "baseLineY" : 172.5,
+      "fontId" : 2,
+      "text" : "J2.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 174.0817,
+      "rightX" : 304.582,
+      "topY" : 165.984,
+      "baseLineY" : 172.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 192.8317,
+      "rightX" : 111.6445,
+      "topY" : 184.734,
+      "baseLineY" : 191.25,
+      "fontId" : 2,
+      "text" : "J11F6-3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 192.8317,
+      "rightX" : 187.2129,
+      "topY" : 184.734,
+      "baseLineY" : 191.25,
+      "fontId" : 2,
+      "text" : "J3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 192.8317,
+      "rightX" : 304.582,
+      "topY" : 184.734,
+      "baseLineY" : 191.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 211.5817,
+      "rightX" : 89.4199,
+      "topY" : 203.484,
+      "baseLineY" : 210,
+      "fontId" : 2,
+      "text" : "J12"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 211.5817,
+      "rightX" : 187.2129,
+      "topY" : 203.484,
+      "baseLineY" : 210,
+      "fontId" : 2,
+      "text" : "J4.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 211.5817,
+      "rightX" : 304.582,
+      "topY" : 203.484,
+      "baseLineY" : 210,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 230.3317,
+      "rightX" : 83.4199,
+      "topY" : 222.234,
+      "baseLineY" : 228.75,
+      "fontId" : 2,
+      "text" : "J5"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 230.3317,
+      "rightX" : 187.2129,
+      "topY" : 222.234,
+      "baseLineY" : 228.75,
+      "fontId" : 2,
+      "text" : "J1.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 230.3317,
+      "rightX" : 304.582,
+      "topY" : 222.234,
+      "baseLineY" : 228.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 249.0817,
+      "rightX" : 83.4199,
+      "topY" : 240.984,
+      "baseLineY" : 247.5,
+      "fontId" : 2,
+      "text" : "J6"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 249.0817,
+      "rightX" : 187.2129,
+      "topY" : 240.984,
+      "baseLineY" : 247.5,
+      "fontId" : 2,
+      "text" : "J2.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 249.0817,
+      "rightX" : 304.582,
+      "topY" : 240.984,
+      "baseLineY" : 247.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 267.8317,
+      "rightX" : 83.4199,
+      "topY" : 259.734,
+      "baseLineY" : 266.25,
+      "fontId" : 2,
+      "text" : "J7"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 267.8317,
+      "rightX" : 187.2129,
+      "topY" : 259.734,
+      "baseLineY" : 266.25,
+      "fontId" : 2,
+      "text" : "J3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 267.8317,
+      "rightX" : 304.582,
+      "topY" : 259.734,
+      "baseLineY" : 266.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 286.5817,
+      "rightX" : 91.4238,
+      "topY" : 278.484,
+      "baseLineY" : 285,
+      "fontId" : 2,
+      "text" : "J7C"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 286.5817,
+      "rightX" : 187.2129,
+      "topY" : 278.484,
+      "baseLineY" : 285,
+      "fontId" : 2,
+      "text" : "J2.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 286.5817,
+      "rightX" : 304.582,
+      "topY" : 278.484,
+      "baseLineY" : 285,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 305.3317,
+      "rightX" : 83.4199,
+      "topY" : 297.234,
+      "baseLineY" : 303.75,
+      "fontId" : 2,
+      "text" : "J8"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 305.3317,
+      "rightX" : 187.2129,
+      "topY" : 297.234,
+      "baseLineY" : 303.75,
+      "fontId" : 2,
+      "text" : "J1.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 305.3317,
+      "rightX" : 304.582,
+      "topY" : 297.234,
+      "baseLineY" : 303.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 324.0817,
+      "rightX" : 93.416,
+      "topY" : 315.984,
+      "baseLineY" : 322.5,
+      "fontId" : 2,
+      "text" : "K10"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 324.0817,
+      "rightX" : 191.209,
+      "topY" : 315.984,
+      "baseLineY" : 322.5,
+      "fontId" : 2,
+      "text" : "K1.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 324.0817,
+      "rightX" : 304.582,
+      "topY" : 315.984,
+      "baseLineY" : 322.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 342.8317,
+      "rightX" : 101.4199,
+      "topY" : 334.734,
+      "baseLineY" : 341.25,
+      "fontId" : 2,
+      "text" : "K10C"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 342.8317,
+      "rightX" : 191.209,
+      "topY" : 334.734,
+      "baseLineY" : 341.25,
+      "fontId" : 2,
+      "text" : "K2.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 342.8317,
+      "rightX" : 304.582,
+      "topY" : 334.734,
+      "baseLineY" : 341.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 361.5817,
+      "rightX" : 101.4199,
+      "topY" : 353.484,
+      "baseLineY" : 360,
+      "fontId" : 2,
+      "text" : "K10C"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 361.5817,
+      "rightX" : 191.209,
+      "topY" : 353.484,
+      "baseLineY" : 360,
+      "fontId" : 2,
+      "text" : "K2.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 361.5817,
+      "rightX" : 304.582,
+      "topY" : 353.484,
+      "baseLineY" : 360,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 380.3317,
+      "rightX" : 100.7461,
+      "topY" : 372.234,
+      "baseLineY" : 378.75,
+      "fontId" : 2,
+      "text" : "K10L"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 380.3317,
+      "rightX" : 191.209,
+      "topY" : 372.234,
+      "baseLineY" : 378.75,
+      "fontId" : 2,
+      "text" : "K2.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 380.3317,
+      "rightX" : 304.582,
+      "topY" : 372.234,
+      "baseLineY" : 378.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 399.0817,
+      "rightX" : 92.9707,
+      "topY" : 390.984,
+      "baseLineY" : 397.5,
+      "fontId" : 2,
+      "text" : "K11"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 399.0817,
+      "rightX" : 191.209,
+      "topY" : 390.984,
+      "baseLineY" : 397.5,
+      "fontId" : 2,
+      "text" : "K1.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 399.0817,
+      "rightX" : 304.582,
+      "topY" : 390.984,
+      "baseLineY" : 397.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 417.8317,
+      "rightX" : 100.9746,
+      "topY" : 409.734,
+      "baseLineY" : 416.25,
+      "fontId" : 2,
+      "text" : "K11C"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 417.8317,
+      "rightX" : 191.209,
+      "topY" : 409.734,
+      "baseLineY" : 416.25,
+      "fontId" : 2,
+      "text" : "K1.4"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 417.8317,
+      "rightX" : 304.582,
+      "topY" : 409.734,
+      "baseLineY" : 416.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 436.5817,
+      "rightX" : 100.3008,
+      "topY" : 428.484,
+      "baseLineY" : 435,
+      "fontId" : 2,
+      "text" : "K11L"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 436.5817,
+      "rightX" : 191.209,
+      "topY" : 428.484,
+      "baseLineY" : 435,
+      "fontId" : 2,
+      "text" : "K1.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 436.5817,
+      "rightX" : 304.582,
+      "topY" : 428.484,
+      "baseLineY" : 435,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 455.3317,
+      "rightX" : 93.416,
+      "topY" : 447.234,
+      "baseLineY" : 453.75,
+      "fontId" : 2,
+      "text" : "K14"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 455.3317,
+      "rightX" : 191.209,
+      "topY" : 447.234,
+      "baseLineY" : 453.75,
+      "fontId" : 2,
+      "text" : "K1.4"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 455.3317,
+      "rightX" : 304.582,
+      "topY" : 447.234,
+      "baseLineY" : 453.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 474.0817,
+      "rightX" : 101.4199,
+      "topY" : 465.984,
+      "baseLineY" : 472.5,
+      "fontId" : 2,
+      "text" : "K14C"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 474.0817,
+      "rightX" : 191.209,
+      "topY" : 465.984,
+      "baseLineY" : 472.5,
+      "fontId" : 2,
+      "text" : "K1.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 474.0817,
+      "rightX" : 304.582,
+      "topY" : 465.984,
+      "baseLineY" : 472.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 492.8317,
+      "rightX" : 100.7461,
+      "topY" : 484.734,
+      "baseLineY" : 491.25,
+      "fontId" : 2,
+      "text" : "K14L"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 492.8317,
+      "rightX" : 191.209,
+      "topY" : 484.734,
+      "baseLineY" : 491.25,
+      "fontId" : 2,
+      "text" : "K1.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 492.8317,
+      "rightX" : 304.582,
+      "topY" : 484.734,
+      "baseLineY" : 491.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 511.5817,
+      "rightX" : 101.4199,
+      "topY" : 503.484,
+      "baseLineY" : 510,
+      "fontId" : 2,
+      "text" : "K15C"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 511.5817,
+      "rightX" : 187.2129,
+      "topY" : 503.484,
+      "baseLineY" : 510,
+      "fontId" : 2,
+      "text" : "J2.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 511.5817,
+      "rightX" : 304.582,
+      "topY" : 503.484,
+      "baseLineY" : 510,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 530.3317,
+      "rightX" : 101.4199,
+      "topY" : 522.234,
+      "baseLineY" : 528.75,
+      "fontId" : 2,
+      "text" : "K16C"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 530.3317,
+      "rightX" : 191.209,
+      "topY" : 522.234,
+      "baseLineY" : 528.75,
+      "fontId" : 2,
+      "text" : "K3.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 530.3317,
+      "rightX" : 304.582,
+      "topY" : 522.234,
+      "baseLineY" : 528.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 549.0817,
+      "rightX" : 93.416,
+      "topY" : 540.984,
+      "baseLineY" : 547.5,
+      "fontId" : 2,
+      "text" : "K17"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 549.0817,
+      "rightX" : 191.209,
+      "topY" : 540.984,
+      "baseLineY" : 547.5,
+      "fontId" : 2,
+      "text" : "K3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 549.0817,
+      "rightX" : 304.582,
+      "topY" : 540.984,
+      "baseLineY" : 547.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 567.8317,
+      "rightX" : 100.7461,
+      "topY" : 559.734,
+      "baseLineY" : 566.25,
+      "fontId" : 2,
+      "text" : "K17L"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 567.8317,
+      "rightX" : 191.209,
+      "topY" : 559.734,
+      "baseLineY" : 566.25,
+      "fontId" : 2,
+      "text" : "K3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 567.8317,
+      "rightX" : 304.582,
+      "topY" : 559.734,
+      "baseLineY" : 566.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 586.5817,
+      "rightX" : 113.6367,
+      "topY" : 578.484,
+      "baseLineY" : 585,
+      "fontId" : 2,
+      "text" : "VM2-11"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 586.5817,
+      "rightX" : 191.209,
+      "topY" : 578.484,
+      "baseLineY" : 585,
+      "fontId" : 2,
+      "text" : "H1.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 586.5817,
+      "rightX" : 304.582,
+      "topY" : 578.484,
+      "baseLineY" : 585,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 605.3317,
+      "rightX" : 114.082,
+      "topY" : 597.234,
+      "baseLineY" : 603.75,
+      "fontId" : 2,
+      "text" : "VM2-12"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 605.3317,
+      "rightX" : 189.2168,
+      "topY" : 597.234,
+      "baseLineY" : 603.75,
+      "fontId" : 2,
+      "text" : "P2.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 605.3317,
+      "rightX" : 304.582,
+      "topY" : 597.234,
+      "baseLineY" : 603.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 624.0817,
+      "rightX" : 122.748,
+      "topY" : 615.984,
+      "baseLineY" : 622.5,
+      "fontId" : 2,
+      "text" : "VM2-12A"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 624.0817,
+      "rightX" : 189.2168,
+      "topY" : 615.984,
+      "baseLineY" : 622.5,
+      "fontId" : 2,
+      "text" : "P2.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 624.0817,
+      "rightX" : 304.582,
+      "topY" : 615.984,
+      "baseLineY" : 622.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 642.8317,
+      "rightX" : 105.416,
+      "topY" : 634.734,
+      "baseLineY" : 641.25,
+      "fontId" : 2,
+      "text" : "M2-15"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 642.8317,
+      "rightX" : 191.209,
+      "topY" : 634.734,
+      "baseLineY" : 641.25,
+      "fontId" : 2,
+      "text" : "H4.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 642.8317,
+      "rightX" : 304.582,
+      "topY" : 634.734,
+      "baseLineY" : 641.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 661.5817,
+      "rightX" : 128.748,
+      "topY" : 653.484,
+      "baseLineY" : 660,
+      "fontId" : 2,
+      "text" : "VM2-12A2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 661.5817,
+      "rightX" : 189.2168,
+      "topY" : 653.484,
+      "baseLineY" : 660,
+      "fontId" : 2,
+      "text" : "P2.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 661.5817,
+      "rightX" : 304.582,
+      "topY" : 653.484,
+      "baseLineY" : 660,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 680.3317,
+      "rightX" : 122.748,
+      "topY" : 672.234,
+      "baseLineY" : 678.75,
+      "fontId" : 2,
+      "text" : "VM3-10A"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 680.3317,
+      "rightX" : 199.2129,
+      "topY" : 672.234,
+      "baseLineY" : 678.75,
+      "fontId" : 2,
+      "text" : "VR1.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 680.3317,
+      "rightX" : 304.582,
+      "topY" : 672.234,
+      "baseLineY" : 678.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 699.0817,
+      "rightX" : 114.082,
+      "topY" : 690.984,
+      "baseLineY" : 697.5,
+      "fontId" : 2,
+      "text" : "VM3-16"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 699.0817,
+      "rightX" : 203.8828,
+      "topY" : 690.984,
+      "baseLineY" : 697.5,
+      "fontId" : 2,
+      "text" : "VS2.32"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 699.0817,
+      "rightX" : 304.582,
+      "topY" : 690.984,
+      "baseLineY" : 697.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 717.8317,
+      "rightX" : 122.748,
+      "topY" : 709.734,
+      "baseLineY" : 716.25,
+      "fontId" : 2,
+      "text" : "VM3-19A"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 717.8317,
+      "rightX" : 199.2129,
+      "topY" : 709.734,
+      "baseLineY" : 716.25,
+      "fontId" : 2,
+      "text" : "VR2.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 717.8317,
+      "rightX" : 304.582,
+      "topY" : 709.734,
+      "baseLineY" : 716.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 736.5817,
+      "rightX" : 116.748,
+      "topY" : 728.484,
+      "baseLineY" : 735,
+      "fontId" : 2,
+      "text" : "VM3-1A"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 736.5817,
+      "rightX" : 197.8828,
+      "topY" : 728.484,
+      "baseLineY" : 735,
+      "fontId" : 2,
+      "text" : "VS1.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 736.5817,
+      "rightX" : 304.582,
+      "topY" : 728.484,
+      "baseLineY" : 735,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 755.3317,
+      "rightX" : 108.082,
+      "topY" : 747.234,
+      "baseLineY" : 753.75,
+      "fontId" : 2,
+      "text" : "VM3-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 755.3317,
+      "rightX" : 203.8828,
+      "topY" : 747.234,
+      "baseLineY" : 753.75,
+      "fontId" : 2,
+      "text" : "VS2.21"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 755.3317,
+      "rightX" : 304.582,
+      "topY" : 747.234,
+      "baseLineY" : 753.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 24,
+      "bottomY" : 776.5515,
+      "rightX" : 380.8347,
+      "topY" : 771.0081,
+      "baseLineY" : 775.5,
+      "fontId" : 1,
+      "text" : "https://www.rd.usda.gov/sites/default/files/UEP_Bulletin_1728F-803_Memo_Assembly_Numbers.htm"
+    }, {
+      "leftX" : 576.8672,
+      "bottomY" : 776.5515,
+      "rightX" : 587.9933,
+      "topY" : 771.0081,
+      "baseLineY" : 775.5,
+      "fontId" : 1,
+      "text" : "4/5"
+    } ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 792.0,
+    "txtRns" : [ {
+      "leftX" : 24,
+      "bottomY" : 23.5515,
+      "rightX" : 84.8915,
+      "topY" : 18.0081,
+      "baseLineY" : 22.5,
+      "fontId" : 1,
+      "text" : "4/22/25, 1:02 PM"
+    }, {
+      "leftX" : 322.5586,
+      "bottomY" : 23.5515,
+      "rightX" : 380.3271,
+      "topY" : 18.0081,
+      "baseLineY" : 22.5,
+      "fontId" : 1,
+      "text" : "Dual Numbering"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 42.8317,
+      "rightX" : 122.748,
+      "topY" : 34.734,
+      "baseLineY" : 41.25,
+      "fontId" : 2,
+      "text" : "VM3-20A"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 42.8317,
+      "rightX" : 199.2129,
+      "topY" : 34.734,
+      "baseLineY" : 41.25,
+      "fontId" : 2,
+      "text" : "VR3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 42.8317,
+      "rightX" : 304.582,
+      "topY" : 34.734,
+      "baseLineY" : 41.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 61.5817,
+      "rightX" : 122.748,
+      "topY" : 53.484,
+      "baseLineY" : 60,
+      "fontId" : 2,
+      "text" : "VM3-24A"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 61.5817,
+      "rightX" : 199.2129,
+      "topY" : 53.484,
+      "baseLineY" : 60,
+      "fontId" : 2,
+      "text" : "VR2.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 61.5817,
+      "rightX" : 304.582,
+      "topY" : 53.484,
+      "baseLineY" : 60,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 80.3317,
+      "rightX" : 122.748,
+      "topY" : 72.234,
+      "baseLineY" : 78.75,
+      "fontId" : 2,
+      "text" : "VM3-25A"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 80.3317,
+      "rightX" : 199.2129,
+      "topY" : 72.234,
+      "baseLineY" : 78.75,
+      "fontId" : 2,
+      "text" : "VR3.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 80.3317,
+      "rightX" : 304.582,
+      "topY" : 72.234,
+      "baseLineY" : 78.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 99.0817,
+      "rightX" : 108.082,
+      "topY" : 90.984,
+      "baseLineY" : 97.5,
+      "fontId" : 2,
+      "text" : "VM3-3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 99.0817,
+      "rightX" : 203.8828,
+      "topY" : 90.984,
+      "baseLineY" : 97.5,
+      "fontId" : 2,
+      "text" : "VS2.31"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 99.0817,
+      "rightX" : 304.582,
+      "topY" : 90.984,
+      "baseLineY" : 97.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 117.8317,
+      "rightX" : 108.082,
+      "topY" : 109.734,
+      "baseLineY" : 116.25,
+      "fontId" : 2,
+      "text" : "VM5-2"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 117.8317,
+      "rightX" : 204.3281,
+      "topY" : 109.734,
+      "baseLineY" : 116.25,
+      "fontId" : 2,
+      "text" : "VA1.01"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 117.8317,
+      "rightX" : 304.582,
+      "topY" : 109.734,
+      "baseLineY" : 116.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 136.5817,
+      "rightX" : 108.082,
+      "topY" : 128.484,
+      "baseLineY" : 135,
+      "fontId" : 2,
+      "text" : "VM5-5"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 136.5817,
+      "rightX" : 209.8828,
+      "topY" : 128.484,
+      "baseLineY" : 135,
+      "fontId" : 2,
+      "text" : "VA1.011"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 136.5817,
+      "rightX" : 304.582,
+      "topY" : 128.484,
+      "baseLineY" : 135,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 155.3317,
+      "rightX" : 108.082,
+      "topY" : 147.234,
+      "baseLineY" : 153.75,
+      "fontId" : 2,
+      "text" : "VM5-6"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 155.3317,
+      "rightX" : 203.8828,
+      "topY" : 147.234,
+      "baseLineY" : 153.75,
+      "fontId" : 2,
+      "text" : "VP1.01"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 155.3317,
+      "rightX" : 304.582,
+      "topY" : 147.234,
+      "baseLineY" : 153.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 174.0817,
+      "rightX" : 108.082,
+      "topY" : 165.984,
+      "baseLineY" : 172.5,
+      "fontId" : 2,
+      "text" : "VM5-7"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 174.0817,
+      "rightX" : 216.5566,
+      "topY" : 165.984,
+      "baseLineY" : 172.5,
+      "fontId" : 2,
+      "text" : "VA1.011P"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 174.0817,
+      "rightX" : 304.582,
+      "topY" : 165.984,
+      "baseLineY" : 172.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 192.8317,
+      "rightX" : 108.082,
+      "topY" : 184.734,
+      "baseLineY" : 191.25,
+      "fontId" : 2,
+      "text" : "VM5-8"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 192.8317,
+      "rightX" : 198.3281,
+      "topY" : 184.734,
+      "baseLineY" : 191.25,
+      "fontId" : 2,
+      "text" : "VA5.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 192.8317,
+      "rightX" : 406.5527,
+      "topY" : 184.734,
+      "baseLineY" : 191.25,
+      "fontId" : 2,
+      "text" : "Replace 1 washer abutting pole "
+    }, {
+      "leftX" : 406.5586,
+      "bottomY" : 192.8317,
+      "rightX" : 466.875,
+      "topY" : 184.734,
+      "baseLineY" : 191.25,
+      "fontId" : 7,
+      "text" : "– See Note 1"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 211.5817,
+      "rightX" : 105.416,
+      "topY" : 203.484,
+      "baseLineY" : 210,
+      "fontId" : 2,
+      "text" : "M5-10"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 211.5817,
+      "rightX" : 203.8828,
+      "topY" : 203.484,
+      "baseLineY" : 210,
+      "fontId" : 2,
+      "text" : "VS1.02"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 211.5817,
+      "rightX" : 304.582,
+      "topY" : 203.484,
+      "baseLineY" : 210,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 230.3317,
+      "rightX" : 105.416,
+      "topY" : 222.234,
+      "baseLineY" : 228.75,
+      "fontId" : 2,
+      "text" : "M5-13"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 230.3317,
+      "rightX" : 193.8691,
+      "topY" : 222.234,
+      "baseLineY" : 228.75,
+      "fontId" : 2,
+      "text" : "W3.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 230.3317,
+      "rightX" : 304.582,
+      "topY" : 222.234,
+      "baseLineY" : 228.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 249.0817,
+      "rightX" : 105.416,
+      "topY" : 240.984,
+      "baseLineY" : 247.5,
+      "fontId" : 2,
+      "text" : "M5-17"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 249.0817,
+      "rightX" : 193.8691,
+      "topY" : 240.984,
+      "baseLineY" : 247.5,
+      "fontId" : 2,
+      "text" : "W3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 249.0817,
+      "rightX" : 304.582,
+      "topY" : 240.984,
+      "baseLineY" : 247.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 267.8317,
+      "rightX" : 105.416,
+      "topY" : 259.734,
+      "baseLineY" : 266.25,
+      "fontId" : 2,
+      "text" : "M5-18"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 267.8317,
+      "rightX" : 211.002,
+      "topY" : 259.734,
+      "baseLineY" : 266.25,
+      "fontId" : 2,
+      "text" : "VA1.10P"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 267.8317,
+      "rightX" : 304.582,
+      "topY" : 259.734,
+      "baseLineY" : 266.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 286.5817,
+      "rightX" : 105.416,
+      "topY" : 278.484,
+      "baseLineY" : 285,
+      "fontId" : 2,
+      "text" : "M5-19"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 286.5817,
+      "rightX" : 191.209,
+      "topY" : 278.484,
+      "baseLineY" : 285,
+      "fontId" : 2,
+      "text" : "N1.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 286.5817,
+      "rightX" : 304.582,
+      "topY" : 278.484,
+      "baseLineY" : 285,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 305.3317,
+      "rightX" : 99.416,
+      "topY" : 297.234,
+      "baseLineY" : 303.75,
+      "fontId" : 2,
+      "text" : "M5-9"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 305.3317,
+      "rightX" : 203.8828,
+      "topY" : 297.234,
+      "baseLineY" : 303.75,
+      "fontId" : 2,
+      "text" : "VS1.01"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 305.3317,
+      "rightX" : 304.582,
+      "topY" : 297.234,
+      "baseLineY" : 303.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 324.0817,
+      "rightX" : 108.082,
+      "topY" : 315.984,
+      "baseLineY" : 322.5,
+      "fontId" : 2,
+      "text" : "VM7-3"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 324.0817,
+      "rightX" : 199.875,
+      "topY" : 315.984,
+      "baseLineY" : 322.5,
+      "fontId" : 2,
+      "text" : "VY1.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 324.0817,
+      "rightX" : 304.582,
+      "topY" : 315.984,
+      "baseLineY" : 322.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 342.8317,
+      "rightX" : 89.4199,
+      "topY" : 334.734,
+      "baseLineY" : 341.25,
+      "fontId" : 2,
+      "text" : "M8"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 342.8317,
+      "rightX" : 191.209,
+      "topY" : 334.734,
+      "baseLineY" : 341.25,
+      "fontId" : 2,
+      "text" : "Q1.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 342.8317,
+      "rightX" : 304.582,
+      "topY" : 334.734,
+      "baseLineY" : 341.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 361.5817,
+      "rightX" : 105.416,
+      "topY" : 353.484,
+      "baseLineY" : 360,
+      "fontId" : 2,
+      "text" : "M8-10"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 361.5817,
+      "rightX" : 199.875,
+      "topY" : 353.484,
+      "baseLineY" : 360,
+      "fontId" : 2,
+      "text" : "K4.3G"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 361.5817,
+      "rightX" : 304.582,
+      "topY" : 353.484,
+      "baseLineY" : 360,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 380.3317,
+      "rightX" : 104.9707,
+      "topY" : 372.234,
+      "baseLineY" : 378.75,
+      "fontId" : 2,
+      "text" : "M8-11"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 380.3317,
+      "rightX" : 191.209,
+      "topY" : 372.234,
+      "baseLineY" : 378.75,
+      "fontId" : 2,
+      "text" : "Q3.3"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 380.3317,
+      "rightX" : 304.582,
+      "topY" : 372.234,
+      "baseLineY" : 378.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 399.0817,
+      "rightX" : 105.416,
+      "topY" : 390.984,
+      "baseLineY" : 397.5,
+      "fontId" : 2,
+      "text" : "M8-12"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 399.0817,
+      "rightX" : 191.209,
+      "topY" : 390.984,
+      "baseLineY" : 397.5,
+      "fontId" : 2,
+      "text" : "Q3.2"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 399.0817,
+      "rightX" : 304.582,
+      "topY" : 390.984,
+      "baseLineY" : 397.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 417.8317,
+      "rightX" : 99.416,
+      "topY" : 409.734,
+      "baseLineY" : 416.25,
+      "fontId" : 2,
+      "text" : "M8-6"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 417.8317,
+      "rightX" : 191.209,
+      "topY" : 409.734,
+      "baseLineY" : 416.25,
+      "fontId" : 2,
+      "text" : "Q3.1"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 417.8317,
+      "rightX" : 304.582,
+      "topY" : 409.734,
+      "baseLineY" : 416.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 436.5817,
+      "rightX" : 99.416,
+      "topY" : 428.484,
+      "baseLineY" : 435,
+      "fontId" : 2,
+      "text" : "M8-9"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 436.5817,
+      "rightX" : 199.875,
+      "topY" : 428.484,
+      "baseLineY" : 435,
+      "fontId" : 2,
+      "text" : "K4.4G"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 436.5817,
+      "rightX" : 304.582,
+      "topY" : 428.484,
+      "baseLineY" : 435,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 455.3317,
+      "rightX" : 95.4199,
+      "topY" : 447.234,
+      "baseLineY" : 453.75,
+      "fontId" : 2,
+      "text" : "M19"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 455.3317,
+      "rightX" : 202.5352,
+      "topY" : 447.234,
+      "baseLineY" : 453.75,
+      "fontId" : 2,
+      "text" : "W2.1G"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 455.3317,
+      "rightX" : 304.582,
+      "topY" : 447.234,
+      "baseLineY" : 453.75,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 474.0817,
+      "rightX" : 95.4199,
+      "topY" : 465.984,
+      "baseLineY" : 472.5,
+      "fontId" : 2,
+      "text" : "M24"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 474.0817,
+      "rightX" : 199.875,
+      "topY" : 465.984,
+      "baseLineY" : 472.5,
+      "fontId" : 2,
+      "text" : "K4.1G"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 474.0817,
+      "rightX" : 304.582,
+      "topY" : 465.984,
+      "baseLineY" : 472.5,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 492.8317,
+      "rightX" : 111.416,
+      "topY" : 484.734,
+      "baseLineY" : 491.25,
+      "fontId" : 2,
+      "text" : "M24-10"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 492.8317,
+      "rightX" : 199.875,
+      "topY" : 484.734,
+      "baseLineY" : 491.25,
+      "fontId" : 2,
+      "text" : "K4.2G"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 492.8317,
+      "rightX" : 304.582,
+      "topY" : 484.734,
+      "baseLineY" : 491.25,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 72.75,
+      "bottomY" : 511.5817,
+      "rightX" : 86.7539,
+      "topY" : 503.484,
+      "baseLineY" : 510,
+      "fontId" : 2,
+      "text" : "R1"
+    }, {
+      "leftX" : 167.543,
+      "bottomY" : 511.5817,
+      "rightX" : 207.8789,
+      "topY" : 503.484,
+      "baseLineY" : 510,
+      "fontId" : 2,
+      "text" : "M1.30G"
+    }, {
+      "leftX" : 252.9375,
+      "bottomY" : 511.5817,
+      "rightX" : 304.582,
+      "topY" : 503.484,
+      "baseLineY" : 510,
+      "fontId" : 2,
+      "text" : "No change"
+    }, {
+      "leftX" : 34.5,
+      "bottomY" : 540.8317,
+      "rightX" : 37.5,
+      "topY" : 532.734,
+      "baseLineY" : 539.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 34.5,
+      "bottomY" : 566.3317,
+      "rightX" : 152.6602,
+      "topY" : 558.234,
+      "baseLineY" : 564.75,
+      "fontId" : 6,
+      "text" : "NOTES TO TABLE A:"
+    }, {
+      "leftX" : 52.5,
+      "bottomY" : 591.8317,
+      "rightX" : 64.5,
+      "topY" : 583.734,
+      "baseLineY" : 590.25,
+      "fontId" : 2,
+      "text" : "1. "
+    }, {
+      "leftX" : 64.5,
+      "bottomY" : 591.8317,
+      "rightX" : 351.668,
+      "topY" : 583.734,
+      "baseLineY" : 590.25,
+      "fontId" : 2,
+      "text" : "New Bulletin 1728F-803 specifies the use of a square, 3\" (8"
+    }, {
+      "leftX" : 351.668,
+      "bottomY" : 591.8317,
+      "rightX" : 354.668,
+      "topY" : 583.734,
+      "baseLineY" : 590.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 354.668,
+      "bottomY" : 591.8317,
+      "rightX" : 572.584,
+      "topY" : 583.734,
+      "baseLineY" : 590.25,
+      "fontId" : 2,
+      "text" : "cm) curved washer (abutting the pole) for all "
+    }, {
+      "leftX" : 64.5,
+      "bottomY" : 605.3317,
+      "rightX" : 401.9531,
+      "topY" : 597.234,
+      "baseLineY" : 603.75,
+      "fontId" : 2,
+      "text" : "primary and neutral dead-end assemblies instead of a square, 2 1/4\" (6"
+    }, {
+      "leftX" : 401.9531,
+      "bottomY" : 605.3317,
+      "rightX" : 404.9531,
+      "topY" : 597.234,
+      "baseLineY" : 603.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 404.9531,
+      "bottomY" : 605.3317,
+      "rightX" : 572.5605,
+      "topY" : 597.234,
+      "baseLineY" : 603.75,
+      "fontId" : 2,
+      "text" : "cm) flat washer as specified in old "
+    }, {
+      "leftX" : 64.5,
+      "bottomY" : 618.8317,
+      "rightX" : 131.1621,
+      "topY" : 610.734,
+      "baseLineY" : 617.25,
+      "fontId" : 2,
+      "text" : "Bulletin 50-5."
+    }, {
+      "leftX" : 52.5,
+      "bottomY" : 632.3317,
+      "rightX" : 64.5,
+      "topY" : 624.234,
+      "baseLineY" : 630.75,
+      "fontId" : 2,
+      "text" : "2. "
+    }, {
+      "leftX" : 64.5,
+      "bottomY" : 632.3317,
+      "rightX" : 420.3223,
+      "topY" : 624.234,
+      "baseLineY" : 630.75,
+      "fontId" : 2,
+      "text" : "New Bulletin 1728F-803 specifies the use (addition) of a square, 2 1/4\" (6"
+    }, {
+      "leftX" : 420.3223,
+      "bottomY" : 632.3317,
+      "rightX" : 423.3223,
+      "topY" : 624.234,
+      "baseLineY" : 630.75,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 423.3223,
+      "bottomY" : 632.3317,
+      "rightX" : 558.9258,
+      "topY" : 624.234,
+      "baseLineY" : 630.75,
+      "fontId" : 2,
+      "text" : "cm) flat washer beneath the "
+    }, {
+      "leftX" : 64.5,
+      "bottomY" : 645.8317,
+      "rightX" : 151.8164,
+      "topY" : 637.734,
+      "baseLineY" : 644.25,
+      "fontId" : 2,
+      "text" : "shoulder of all 7.2"
+    }, {
+      "leftX" : 151.8164,
+      "bottomY" : 645.8317,
+      "rightX" : 154.8164,
+      "topY" : 637.734,
+      "baseLineY" : 644.25,
+      "fontId" : 2,
+      "text" : " "
+    }, {
+      "leftX" : 154.8164,
+      "bottomY" : 645.8317,
+      "rightX" : 241.5879,
+      "topY" : 637.734,
+      "baseLineY" : 644.25,
+      "fontId" : 2,
+      "text" : "kV crossarm pins."
+    }, {
+      "leftX" : 24,
+      "bottomY" : 776.5515,
+      "rightX" : 380.8347,
+      "topY" : 771.0081,
+      "baseLineY" : 775.5,
+      "fontId" : 1,
+      "text" : "https://www.rd.usda.gov/sites/default/files/UEP_Bulletin_1728F-803_Memo_Assembly_Numbers.htm"
+    }, {
+      "leftX" : 576.8672,
+      "bottomY" : 776.5515,
+      "rightX" : 587.9933,
+      "topY" : 771.0081,
+      "baseLineY" : 775.5,
+      "fontId" : 1,
+      "text" : "5/5"
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "ArialMT",
+    "fontSize" : 8.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TimesNewRoman",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#0000ee"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 18.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 14.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TimesNewRomanPS-BoldMT",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TimesNewRomanPS-ItalicMT",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

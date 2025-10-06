@@ -1,0 +1,55 @@
+{
+  "pdfDoc" : "UEP_Bulletin_1728F-803_Memo.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 790.0,
+    "txtRns" : [ ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 2,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 790.0,
+    "txtRns" : [ ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 3,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 790.0,
+    "txtRns" : [ ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 4,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 790.0,
+    "txtRns" : [ ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 5,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 790.0,
+    "txtRns" : [ ],
+    "txtChars" : null
+  }, {
+    "pageNo" : 6,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 0.0,
+    "trimBoxWidth" : 612.0,
+    "trimBoxHeight" : 790.0,
+    "txtRns" : [ ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}
